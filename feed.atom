@@ -1,8 +1,1522 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-07T16:39:59.902Z</id>
+    <id>urn:2022-12-07T17:02:44.427Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-07T16:39:59.902Z</updated>
+    <updated>2022-12-07T17:02:44.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Circle Abandons IPO Plans]]></title>
+        <id>https://thedefiant.io/circle-abandons-spac-ipo/</id>
+        <link href="https://thedefiant.io/circle-abandons-spac-ipo/"/>
+        <updated>2022-12-07T17:00:18.000Z</updated>
+        <summary type="html"><![CDATA[USDC Issuer Was Valued At $9B In February]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amber Group Denies Allegations of Insolvency]]></title>
+        <id>https://thedefiant.io/amber-group-denies-allegations-of-insolvency/</id>
+        <link href="https://thedefiant.io/amber-group-denies-allegations-of-insolvency/"/>
+        <updated>2022-12-07T13:03:32.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Urges DeFi to Embrace Real World Assets]]></title>
+        <id>https://thedefiant.io/vitalik-urges-defi-to-embrace-real-world-assets/</id>
+        <link href="https://thedefiant.io/vitalik-urges-defi-to-embrace-real-world-assets/"/>
+        <updated>2022-12-07T11:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s Chief Scientist Predicts Stablecoins Will Split Into Three Groups]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is This the Endgame? with Itay Vinik]]></title>
+        <id>https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik</id>
+        <link href="https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik"/>
+        <updated>2022-12-07T11:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (79 min) | When’s the Fed Going to Pivot?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Amber Group Financial Problems, Tessera Live, Automated Strategies, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-amber-group-financial</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-amber-group-financial"/>
+        <updated>2022-12-07T10:52:03.000Z</updated>
+        <summary type="html"><![CDATA[Amber Group Financial Problems Amber Group, an Asia crypto firm, seems to have liquidity problems according to on-chain analysis. Amber’s asset management platform WhaleFin and CeDeFi lending protocol Clearpool are the two related firms/borrowers that might be affected by Amber’s shortage of funds. (source:]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi and Web3 Startups Attract $3B in Funding in Third Quarter]]></title>
+        <id>https://thedefiant.io/defi-and-web3-startups-attract-3b-in-funding-in-third-quarter/</id>
+        <link href="https://thedefiant.io/defi-and-web3-startups-attract-3b-in-funding-in-third-quarter/"/>
+        <updated>2022-12-07T10:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Fundraising is Down 24% But Decentralized Sector Holding Its Own in Harsh Year]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ApeCoin Holders Pre-stake $34M Ahead Of Rewards Launch]]></title>
+        <id>https://thedefiant.io/apecoin-holders-pre-stake-34m-ahead-of-rewards-launch/</id>
+        <link href="https://thedefiant.io/apecoin-holders-pre-stake-34m-ahead-of-rewards-launch/"/>
+        <updated>2022-12-07T09:29:27.000Z</updated>
+        <summary type="html"><![CDATA[NFT Collectors Pile Into Pudgy Penguins After Art Basel]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happened at FTX?]]></title>
+        <id>https://thedefiant.io/what-happened-at-ftx/</id>
+        <link href="https://thedefiant.io/what-happened-at-ftx/"/>
+        <updated>2022-12-07T08:50:54.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to the Collapse of the Crypto Exchange]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget the Snickering… Here’s Why the Metaverse Will Prevail]]></title>
+        <id>https://thedefiant.io/forget-the-snickering-heres-why-the-metaverse-will-prevail/</id>
+        <link href="https://thedefiant.io/forget-the-snickering-heres-why-the-metaverse-will-prevail/"/>
+        <updated>2022-12-07T08:48:05.000Z</updated>
+        <summary type="html"><![CDATA[The Internet, Broadband, Mobile Computing… Sweeping Change Takes Time and the
+Metaverse Will be No Different]]></summary>
+        <author>
+            <name>Stephen Fromkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainlink Launches Staking Service as LINK Rallies 32%]]></title>
+        <id>https://thedefiant.io/chainlink-launches-staking-service-as-link-rallies-32/</id>
+        <link href="https://thedefiant.io/chainlink-launches-staking-service-as-link-rallies-32/"/>
+        <updated>2022-12-07T08:38:26.000Z</updated>
+        <summary type="html"><![CDATA[Web3 Oracle Provider Offers Tokenholders Native Yields for First Time]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amber Group Denies Allegations Of Insolvency]]></title>
+        <id>https://thedefiant.io/amber-group-denies-insolvency-claims/</id>
+        <link href="https://thedefiant.io/amber-group-denies-insolvency-claims/"/>
+        <updated>2022-12-07T03:38:09.000Z</updated>
+        <summary type="html"><![CDATA[On-chain Data Shows $11M In Assets at Trading Firm]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Maple Cuts Orthogonal, APE Staking Live, Lending on BnB Chain, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-maple-cuts-orthogonal</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-maple-cuts-orthogonal"/>
+        <updated>2022-12-06T16:02:09.000Z</updated>
+        <summary type="html"><![CDATA[Maple Cuts Orthogonal Orthogonal Trading, a crypto firm that has funds stuck on FTX, and is also a significant borrower on lending protocol Maple Finance, has defaulted on eight loans totalling $36 million on Maple. Creditor M11 Credit issued a default notice to Orthogonal for its loans, while Maple severed all ties with Orthogonal for misrepresenting its financial position.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Debates DAO Governance After Vitalik’s Critique]]></title>
+        <id>https://thedefiant.io/defi-debates-dao-governance-after-vitaliks-critique/</id>
+        <link href="https://thedefiant.io/defi-debates-dao-governance-after-vitaliks-critique/"/>
+        <updated>2022-12-06T13:38:14.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polkadot Projects Forge Alliance to Protect Blockchain From Bad Actors]]></title>
+        <id>https://thedefiant.io/polkadot-projects-forge-alliance-to-protect-blockchain-from-bad-actors/</id>
+        <link href="https://thedefiant.io/polkadot-projects-forge-alliance-to-protect-blockchain-from-bad-actors/"/>
+        <updated>2022-12-06T10:28:03.000Z</updated>
+        <summary type="html"><![CDATA[Seven Founding Projects Include Acala, Astar and Interlay]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mints Double at Music NFT Platform as Collectors Shrug Off Bear Market]]></title>
+        <id>https://thedefiant.io/mints-double-at-music-nft-platform-as-collectors-shrug-off-bear-market/</id>
+        <link href="https://thedefiant.io/mints-double-at-music-nft-platform-as-collectors-shrug-off-bear-market/"/>
+        <updated>2022-12-06T08:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Sound Records Heavy Minting Action in Last Two Months]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik’s Top 5 Crypto Use-Cases]]></title>
+        <id>https://thedefiant.io/vitaliks-top-5-crypto-use-cases/</id>
+        <link href="https://thedefiant.io/vitaliks-top-5-crypto-use-cases/"/>
+        <updated>2022-12-06T08:16:09.000Z</updated>
+        <summary type="html"><![CDATA[5 Things That Excite Vitalik]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Arrows Liquidators Target $30M Yacht in Hunt for Assets]]></title>
+        <id>https://thedefiant.io/three-arrows-yacht-creditors-liquidation/</id>
+        <link href="https://thedefiant.io/three-arrows-yacht-creditors-liquidation/"/>
+        <updated>2022-12-06T08:07:20.000Z</updated>
+        <summary type="html"><![CDATA[Teneo Says Hedge Fund Founders Are Uncooperative as It Corrals Assets for
+Creditors]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orthogonal Trading Misses $10M Loan Payment]]></title>
+        <id>https://thedefiant.io/orthogonal-rekt-ftx-exposure/</id>
+        <link href="https://thedefiant.io/orthogonal-rekt-ftx-exposure/"/>
+        <updated>2022-12-06T05:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Maple Finance and M11 Credit Allege Firm Misrepresented Financial Position]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Debates DAO Governance After Vitalik’s Critique]]></title>
+        <id>https://thedefiant.io/buterin-criticizes-governance-tokens/</id>
+        <link href="https://thedefiant.io/buterin-criticizes-governance-tokens/"/>
+        <updated>2022-12-05T13:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s Chief Scientist Said Governance Tokens Benefit Whales at Expense of
+Users]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Uniswap NFT Aggregator, LINK Staking Coming, Aave Froze V2 Markets, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-uniswap-nft-aggregator</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-uniswap-nft-aggregator"/>
+        <updated>2022-12-05T11:29:50.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Nov. 28th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will Maple recover from this?]]></title>
+        <id>https://thedefiant.io/will-maple-recover-from-this/</id>
+        <link href="https://thedefiant.io/will-maple-recover-from-this/"/>
+        <updated>2022-12-05T07:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Maple’s Sticky Situation]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recap: DeFi Week of Nov. 27]]></title>
+        <id>https://thedefiant.io/recap-defi-week-of-nov-27/</id>
+        <link href="https://thedefiant.io/recap-defi-week-of-nov-27/"/>
+        <updated>2022-12-04T13:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Happy weekend!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⍺ DeFi Alpha: Track Your Airdrops, Mints and Governance Votes with Daylight]]></title>
+        <id>https://thedefiant.io/defi-alpha-track-airdrops-mints-daylight/</id>
+        <link href="https://thedefiant.io/defi-alpha-track-airdrops-mints-daylight/"/>
+        <updated>2022-12-04T05:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Enter/Exit DeFi LPs in 1-Click with Portals]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📬 Inbox Dump #79]]></title>
+        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-79/</id>
+        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-79/"/>
+        <updated>2022-12-03T18:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markets Rally After Powell Hints At Smaller Interest Rate Hikes]]></title>
+        <id>https://thedefiant.io/markets-rally-powell-slowdown/</id>
+        <link href="https://thedefiant.io/markets-rally-powell-slowdown/"/>
+        <updated>2022-12-03T04:52:10.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ether Hit Three-Week Highs]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNI Surges After ‘Fee Switch’ Vote is Proposed]]></title>
+        <id>https://thedefiant.io/uni-surges-fee-switch-vote/</id>
+        <link href="https://thedefiant.io/uni-surges-fee-switch-vote/"/>
+        <updated>2022-12-03T04:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Pilot Program Would Divert 10% Of Trading Fees From Three Liquidity Pools To
+Uniswap’s Treasury]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacker Mints Six Quadrillion of Ankr’s BNB Staking Tokens]]></title>
+        <id>https://thedefiant.io/hacker-mints-six-quadrillion-of-ankrs-bnb-staking-tokens/</id>
+        <link href="https://thedefiant.io/hacker-mints-six-quadrillion-of-ankrs-bnb-staking-tokens/"/>
+        <updated>2022-12-02T13:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Ankr aBNB Exploit, Fantom Gas Monetization, Explore Delta Neutral Strategies, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-ankr-abnb-exploit-fantom</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-ankr-abnb-exploit-fantom"/>
+        <updated>2022-12-02T10:08:26.000Z</updated>
+        <summary type="html"><![CDATA[Ankr aBNBc Exploit BnB chain node operator Ankr suffered a governance key compromise. The attacker d deployed a malicious contract to mint a very large amount of aBNBc, Ankr’s reward-bearing staked BNB token, and profited ~$7m by dumping what he minted.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: SBF Live Interviews | BlockFi Bankruptcy | Crypto Bottom Signals | MetaMask Privacy Policy | Earnifi]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-sbf-live-interviews-blockfi</id>
+        <link href="https://shows.banklesshq.com/p/rollup-sbf-live-interviews-blockfi"/>
+        <updated>2022-12-02T10:04:25.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (95 min) | 1st Week of December, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Saagar Enjeti]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-saagar-enjeti</id>
+        <link href="https://shows.banklesshq.com/p/debrief-saagar-enjeti"/>
+        <updated>2022-12-02T09:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (28 min) | Ryan and David debrief the Saagar Enjeti episode.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[147 - Why Mainstream Media Sucks & How to Fix It with Saagar Enjeti]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-why-mainstream-media</id>
+        <link href="https://shows.banklesshq.com/p/early-access-why-mainstream-media"/>
+        <updated>2022-12-02T09:41:42.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (83 min) | New vs. Old Media]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacker Makes Off With Millions After Minting Six Quadrillion of Ankr’s BNB Staking Tokens]]></title>
+        <id>https://thedefiant.io/ankr-exploit/</id>
+        <link href="https://thedefiant.io/ankr-exploit/"/>
+        <updated>2022-12-02T04:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Liquid Staking Provider Says Underlying Assets Are Safe]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Aims To Become Marketplace For ‘All Digital Assets’: NFT Chief]]></title>
+        <id>https://thedefiant.io/uniswap-marketplace-all-digital-assets/</id>
+        <link href="https://thedefiant.io/uniswap-marketplace-all-digital-assets/"/>
+        <updated>2022-12-02T04:16:41.000Z</updated>
+        <summary type="html"><![CDATA[New Aggregator Won’t Compete With Sudoswap On AMM Pools, Plans To Integrate Blur]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF Reveals FTX Was Selling Assets That Didn’t Exist]]></title>
+        <id>https://thedefiant.io/ftx-sold-fake-bitcoin/</id>
+        <link href="https://thedefiant.io/ftx-sold-fake-bitcoin/"/>
+        <updated>2022-12-02T04:01:56.000Z</updated>
+        <summary type="html"><![CDATA[FTX Customers Were Credited With Notional Balances While Their Deposits Remained
+In Alameda’s Account]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filecoin’s Juan Benet on Upgrading the Heart of The Internet with Blockchains]]></title>
+        <id>https://thedefiant.io/filecoins-juan-benet-on-upgrading-the-heart-of-the-internet-with-blockchains/</id>
+        <link href="https://thedefiant.io/filecoins-juan-benet-on-upgrading-the-heart-of-the-internet-with-blockchains/"/>
+        <updated>2022-12-01T22:55:03.000Z</updated>
+        <summary type="html"><![CDATA[This week on The Defiant Podcast, we speak with Juan Benet, the founder of
+Protocol Labs and the inventor of the InterPlanetary File System.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Blocks Coinbase Wallet’s iOS App]]></title>
+        <id>https://thedefiant.io/apple-blocks-coinbase-wallet/</id>
+        <link href="https://thedefiant.io/apple-blocks-coinbase-wallet/"/>
+        <updated>2022-12-01T20:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Tech Giant Reportedly Wants A Cut Of Blockchain Transaction Fees]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auros Misses $3.1M Loan Payment on Maple Finance]]></title>
+        <id>https://thedefiant.io/auros-misses-3-1m-loan-payment-on-maple-finance/</id>
+        <link href="https://thedefiant.io/auros-misses-3-1m-loan-payment-on-maple-finance/"/>
+        <updated>2022-12-01T20:48:51.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Uniswap NFT Aggregator, LINK Staking Update, Trading Options on Arbitrum, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator"/>
+        <updated>2022-12-01T11:39:14.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap NFT Aggregator Uniswap launches its NFT aggregator, allowing users to search, trade, and discover trends on NFTs. LINK Staking Update Chainlink is launching staking v0.1 on Dec. 6th. Stakers will be locking their funds til the planned launch of v0.2 (in 9-12 months) when the funds can be unlocked or migrated.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senator Pat Toomey's Concerns about the SEC & Crypto]]></title>
+        <id>https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about</id>
+        <link href="https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about"/>
+        <updated>2022-12-01T11:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (37 min) | We need regulatory clarity and we need it now]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Merge Testnet to Shut Down as Ethereum Moves Ahead on PoS]]></title>
+        <id>https://thedefiant.io/first-merge-testnet-to-shut-down-as-ethereum-moves-ahead-on-pos/</id>
+        <link href="https://thedefiant.io/first-merge-testnet-to-shut-down-as-ethereum-moves-ahead-on-pos/"/>
+        <updated>2022-12-01T10:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Ropsten Testnet to be Decommissioned This Month]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are ZK-Rollups?]]></title>
+        <id>https://thedefiant.io/what-are-zk-rollups/</id>
+        <link href="https://thedefiant.io/what-are-zk-rollups/"/>
+        <updated>2022-12-01T10:26:26.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to the Transaction Verification Tool]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why won’t SBF Shut up?]]></title>
+        <id>https://thedefiant.io/why-wont-sbf-shut-up/</id>
+        <link href="https://thedefiant.io/why-wont-sbf-shut-up/"/>
+        <updated>2022-12-01T06:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Why is SBF still being given the time of day by the mainstream media?]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juan Benet is Working to Upgrade the Heart of The Internet with Blockchains]]></title>
+        <id>https://thedefiant.io/juan-benet-is-working-to-upgrade-the-heart-of-the-internet-with-blockchains/</id>
+        <link href="https://thedefiant.io/juan-benet-is-working-to-upgrade-the-heart-of-the-internet-with-blockchains/"/>
+        <updated>2022-12-01T06:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Upgrading the Internet w/ Blockchains]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Alpha Call #29]]></title>
+        <id>https://thedefiant.io/defi-alpha-call-29/</id>
+        <link href="https://thedefiant.io/defi-alpha-call-29/"/>
+        <updated>2022-12-01T05:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! This is a recap of our latest DeFi Alpha Call that took place on
+11/28/2022 in Discord.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auros Misses $3.1M Loan Payment on Maple Finance]]></title>
+        <id>https://thedefiant.io/auros-misses-3m-payment-on-maple/</id>
+        <link href="https://thedefiant.io/auros-misses-3m-payment-on-maple/"/>
+        <updated>2022-12-01T04:42:25.000Z</updated>
+        <summary type="html"><![CDATA[Pool Delegate M11 Credit Cites FTX Exposure]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF Says He ‘Did Not Commit Fraud’ in Latest Public Comments]]></title>
+        <id>https://thedefiant.io/sbf-interview-dealbook/</id>
+        <link href="https://thedefiant.io/sbf-interview-dealbook/"/>
+        <updated>2022-12-01T04:34:17.000Z</updated>
+        <summary type="html"><![CDATA[‘I Have a Duty to Talk to People,’ Disgraced Founder Says Despite Threat of
+Self-Incrimination]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer 1s Fall Back to Earth After Surge in Popularity]]></title>
+        <id>https://thedefiant.io/layer-1s-fall-back-to-earth-after-surge-in-popularity-2/</id>
+        <link href="https://thedefiant.io/layer-1s-fall-back-to-earth-after-surge-in-popularity-2/"/>
+        <updated>2022-11-30T17:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Launches NFT Marketplace With $5M Airdrop For Genie Users]]></title>
+        <id>https://thedefiant.io/uniswap-nfts-genie-airdrop/</id>
+        <link href="https://thedefiant.io/uniswap-nfts-genie-airdrop/"/>
+        <updated>2022-11-30T16:40:03.000Z</updated>
+        <summary type="html"><![CDATA[First 22,000 Users Will Receive a Gas Rebate]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Phantom to Support Ethereum, Polygon, BracketX Live on Arbitrum, Borrowing on Arbitrum, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-phantom-to-support</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-phantom-to-support"/>
+        <updated>2022-11-30T11:51:23.000Z</updated>
+        <summary type="html"><![CDATA[Phantom to Support Ethereum, Polygon Solana-based wallet Phantom will launch beta and public access for storing/transferring tokens and NFTs on Ethereum and Polygon. BracketX Live on Arbitrum Structured product protocol BracketX is live on Arbitrum. BracketX is one of Bracket Protocol’s products, providing]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Isn't Sam Bankman-Fried in Jail?]]></title>
+        <id>https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail</id>
+        <link href="https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail"/>
+        <updated>2022-11-30T11:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (70 min) | Day 20 with zero consequences]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Bureaucrats face off with Crypto Twitter]]></title>
+        <id>https://thedefiant.io/eu-bureaucrats-face-off-with-crypto-twitter/</id>
+        <link href="https://thedefiant.io/eu-bureaucrats-face-off-with-crypto-twitter/"/>
+        <updated>2022-11-30T11:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Road to Irrelevance]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer 1s Fall Back to Earth After Surge in Popularity]]></title>
+        <id>https://thedefiant.io/layer-1s-fall-back-to-earth-after-surge-in-popularity/</id>
+        <link href="https://thedefiant.io/layer-1s-fall-back-to-earth-after-surge-in-popularity/"/>
+        <updated>2022-11-30T08:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Fantom, Avalanche and Other EVM Networks Have Become DeFi Infrastructure Amid
+Falling Revenue]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Liquity?]]></title>
+        <id>https://thedefiant.io/what-is-liquity/</id>
+        <link href="https://thedefiant.io/what-is-liquity/"/>
+        <updated>2022-11-30T08:33:57.000Z</updated>
+        <summary type="html"><![CDATA[A Step-by-Step Guide to the DeFi Lending dApp]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSea Launches On BNB Chain]]></title>
+        <id>https://thedefiant.io/opensea-launch-bnb-chain/</id>
+        <link href="https://thedefiant.io/opensea-launch-bnb-chain/"/>
+        <updated>2022-11-30T03:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Leading NFT Marketplace Now Supports Eight Blockchains]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regulators are coming to crypto post FTX]]></title>
+        <id>https://thedefiant.io/regulators-are-coming-to-crypto-post-ftx/</id>
+        <link href="https://thedefiant.io/regulators-are-coming-to-crypto-post-ftx/"/>
+        <updated>2022-11-30T01:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Regulators are coming]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cronje Explains Why Fantom is Poised to Run 30 Years — DeFi]]></title>
+        <id>https://thedefiant.io/cronje-explains-why-fantom-is-poised-to-run-30-years-defi/</id>
+        <link href="https://thedefiant.io/cronje-explains-why-fantom-is-poised-to-run-30-years-defi/"/>
+        <updated>2022-11-29T21:25:55.000Z</updated>
+        <summary type="html"><![CDATA[Foundation Increased Treasury from $3M to $1.5B in a Year]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compound Caps Borrowing Levels for 10 Assets to Reduce Risk]]></title>
+        <id>https://thedefiant.io/compound-caps-borrowing-levels-for-10-assets-to-reduce-risk-2/</id>
+        <link href="https://thedefiant.io/compound-caps-borrowing-levels-for-10-assets-to-reduce-risk-2/"/>
+        <updated>2022-11-29T16:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SPONSORED] Opolis: A Public Utility for Employment]]></title>
+        <id>https://thedefiant.io/opolis-a-public-utility-for-employment/</id>
+        <link href="https://thedefiant.io/opolis-a-public-utility-for-employment/"/>
+        <updated>2022-11-29T12:22:20.000Z</updated>
+        <summary type="html"><![CDATA[An Employment DAO providing infrastructure, shared services, and support to
+solopreneurs so they can realize sustainable freedom and flexibility in their
+independent work.]]></summary>
+        <author>
+            <name>Opolis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aave Freezes V2 Markets, AdaSwap Live on Cardano, Trading NFT Perps, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-aave-freezes-v2-markets</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-aave-freezes-v2-markets"/>
+        <updated>2022-11-29T12:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Aave Freezes V2 Markets Aave governance has temporarily frozen 17 lending markets on V2 to fend off further liquidity attacks. Paused markets include YFI, CRV, ZRX, MANA, 1INCH, MKR, etc. AdaSwap Live on Cardano Mainnet Cardano-based DEX Adaswap is now live on mainnet, enabling trading & bridging for Cardano tokens and NFTs.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loyalty NFTs Have the Power to Drive the Next Bull Run]]></title>
+        <id>https://thedefiant.io/loyalty-nfts-have-the-power-to-drive-the-next-bull-run/</id>
+        <link href="https://thedefiant.io/loyalty-nfts-have-the-power-to-drive-the-next-bull-run/"/>
+        <updated>2022-11-29T10:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Now That NFTs Have Proven Their Utility in a Very Tough Year Comes the Next
+Phase]]></summary>
+        <author>
+            <name>Huy Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compound Caps Borrowing Levels for 10 Assets to Reduce Risk]]></title>
+        <id>https://thedefiant.io/compound-caps-borrowing-levels-for-10-assets-to-reduce-risk/</id>
+        <link href="https://thedefiant.io/compound-caps-borrowing-levels-for-10-assets-to-reduce-risk/"/>
+        <updated>2022-11-29T09:31:26.000Z</updated>
+        <summary type="html"><![CDATA[COMP Tokenholders Vote to Limit Debt After Aave Freezes Lending Pools]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlockFi Files For Bankruptcy]]></title>
+        <id>https://thedefiant.io/blockfi-files-for-bankruptcy/</id>
+        <link href="https://thedefiant.io/blockfi-files-for-bankruptcy/"/>
+        <updated>2022-11-28T22:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Last week, on this show, we wondered whether Genesis, the struggling crypto
+lender, would be the next domino to fall in the wake of FTX’s collapse.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlockFi Files For Chapter 11 Bankruptcy]]></title>
+        <id>https://thedefiant.io/blockfi-bankrupt/</id>
+        <link href="https://thedefiant.io/blockfi-bankrupt/"/>
+        <updated>2022-11-28T16:52:18.000Z</updated>
+        <summary type="html"><![CDATA[Crypto Lender Paused Withdrawals On Nov. 10 Citing FTX Exposure]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⍺ DeFi Alpha: Lending with Banker Joe by Trader Joe]]></title>
+        <id>https://thedefiant.io/defi-alpha-lending-with-banker-joe-by-trader-joe/</id>
+        <link href="https://thedefiant.io/defi-alpha-lending-with-banker-joe-by-trader-joe/"/>
+        <updated>2022-11-28T13:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Using Delegate Cash to Keep Your Valuable NFTs Secure]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - nftperp Beta Live, Binance Industry Recovery Initiative, Pendle V2 AMM, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-nftperp-beta-live</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-nftperp-beta-live"/>
+        <updated>2022-11-28T11:06:54.000Z</updated>
+        <summary type="html"><![CDATA[Product Launches 🚀 nftperp Beta Live NFT derivative protocol nftperp launches closed beta for whitelisted users, with PUNK/ETH and BAYC/ETH pairs live for trading. Tranchess on Ethereum & qETH Live BnB-based yield protocol Tranchess expands to Ethereum with its own ETH staking product qETH live for stakers to earn yield.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave Decommissions Low Liquidity Asset Pools To Protect Against Attacks]]></title>
+        <id>https://thedefiant.io/aave-freezes-17-v2-markets/</id>
+        <link href="https://thedefiant.io/aave-freezes-17-v2-markets/"/>
+        <updated>2022-11-28T04:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Large CRV Trade Left DeFi Lender With $1.6M Bad Debt Last Week]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantom: an inside financial peak at being a “crypto company”]]></title>
+        <id>https://medium.com/p/323d29fb5e81</id>
+        <link href="https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2"/>
+        <updated>2022-11-28T03:51:52.000Z</updated>
+        <summary type="html"><![CDATA[16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abracadabra Calls On Sushi For Emergency Assistance As Faulty Oracle Places $10M At Risk]]></title>
+        <id>https://thedefiant.io/sushi-assists-abracadabra/</id>
+        <link href="https://thedefiant.io/sushi-assists-abracadabra/"/>
+        <updated>2022-11-28T03:00:14.000Z</updated>
+        <summary type="html"><![CDATA[renBTC Cauldron Could Accrue Bad Debt If Open Positions Are Not Closed]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🦄 Recap: DeFi Week of Nov. 20]]></title>
+        <id>https://thedefiant.io/%f0%9f%a6%84-recap-defi-week-of-nov-20/</id>
+        <link href="https://thedefiant.io/%f0%9f%a6%84-recap-defi-week-of-nov-20/"/>
+        <updated>2022-11-27T17:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Happy weekend!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WBTC Depeg Has DeFi Community On Edge]]></title>
+        <id>https://thedefiant.io/wbtc-depeg/</id>
+        <link href="https://thedefiant.io/wbtc-depeg/"/>
+        <updated>2022-11-26T21:56:57.000Z</updated>
+        <summary type="html"><![CDATA[BitGo COO Assures Investors that WTBC Reserves Can Be Verified On-Chain]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📬 Inbox Dump #78]]></title>
+        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-78/</id>
+        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-78/"/>
+        <updated>2022-11-26T17:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White Man]]></title>
+        <id>https://medium.com/p/5001d38a5e4e</id>
+        <link href="https://cryptohayes.medium.com/white-man-5001d38a5e4e?source=rss-2f6e06954878------2"/>
+        <updated>2022-11-26T00:02:06.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investors Eye Digital Currency Group After FTX’s Implosion]]></title>
+        <id>https://thedefiant.io/investors-eye-digital-currency-group-after-ftxs-implosion/</id>
+        <link href="https://thedefiant.io/investors-eye-digital-currency-group-after-ftxs-implosion/"/>
+        <updated>2022-11-25T22:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today:]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US ApeCoin Holders Blocked From Official Staking Website]]></title>
+        <id>https://thedefiant.io/ape-staking-geoblock/</id>
+        <link href="https://thedefiant.io/ape-staking-geoblock/"/>
+        <updated>2022-11-25T19:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Eleventh-Hour Decision Riles BAYC Community]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paradigm Accused Of Copying Code For Rust-Based Ethereum Client]]></title>
+        <id>https://thedefiant.io/paradigm-accused-copying-code/</id>
+        <link href="https://thedefiant.io/paradigm-accused-copying-code/"/>
+        <updated>2022-11-25T16:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Erigon To Wind Down Support For Akula]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaMask Is Tracking You]]></title>
+        <id>https://thedefiant.io/metamask-is-tracking-you/</id>
+        <link href="https://thedefiant.io/metamask-is-tracking-you/"/>
+        <updated>2022-11-25T10:17:18.000Z</updated>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Binance Recovery Fund, Pendle V2 AMM, Trading BTC/ETH Volatility, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund"/>
+        <updated>2022-11-25T09:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Binance Industry Recovery Initiative Binance led a $1b Industry Recovery Initiative (IRI) to fund web3 developments. Third-party firms and ventures including Jump Crypto, Aptos Labs, Polygon Ventures, Animoca Brands, GSR, Kronos, and Brooker Group have joined and contributed another $50m to the co-investment.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saga’s Bogdan Alexandrescu on Making Web3 More Accessible to Builders]]></title>
+        <id>https://thedefiant.io/sagas-bogdan-alexandrescu-on-making-web3-more-accessible-to-builders/</id>
+        <link href="https://thedefiant.io/sagas-bogdan-alexandrescu-on-making-web3-more-accessible-to-builders/"/>
+        <updated>2022-11-25T05:34:44.000Z</updated>
+        <summary type="html"><![CDATA[This week on The Defiant Podcast, Tegan Kline speaks with Bogdan Alexandrescu,
+co-founder and VP of Engineering at SAGA.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer 2 Gas Usage Up 170% in 2022 as Adoption Surges]]></title>
+        <id>https://thedefiant.io/layer-2-gas-spend-ath/</id>
+        <link href="https://thedefiant.io/layer-2-gas-spend-ath/"/>
+        <updated>2022-11-25T05:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum Continues to Lead Sector After Nitro Upgrade and OpenSea Integration]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ‘DEF CON Scenario’: Investors Eye Digital Currency Group After FTX’s Implosion]]></title>
+        <id>https://thedefiant.io/dcg-grayscale-genesis-ftx-fallout/</id>
+        <link href="https://thedefiant.io/dcg-grayscale-genesis-ftx-fallout/"/>
+        <updated>2022-11-25T04:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Genesis Reportedly Considering Bankruptcy As Funding Proves Elusive]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thankful for Crypto]]></title>
+        <id>https://thedefiant.io/thankful-for-crypto/</id>
+        <link href="https://thedefiant.io/thankful-for-crypto/"/>
+        <updated>2022-11-24T21:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Thankful for Crypto]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Accessible Web 3]]></title>
+        <id>https://thedefiant.io/more-accessible-web-3/</id>
+        <link href="https://thedefiant.io/more-accessible-web-3/"/>
+        <updated>2022-11-24T21:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Bogdan Alexandrescu is the co-founder and VP of engineering at SAGA.]]></summary>
+        <author>
+            <name>Tegan Kline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ConsenSys Under Fire for Collecting MetaMask Users’ Wallet and IP Addresses]]></title>
+        <id>https://thedefiant.io/consensys-under-fire-for-collecting-metamask-users-wallet-and-ip-addresses/</id>
+        <link href="https://thedefiant.io/consensys-under-fire-for-collecting-metamask-users-wallet-and-ip-addresses/"/>
+        <updated>2022-11-24T18:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today:]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO to Liquidate Overleveraged Vaults and Absorb $1.3M in Bad Debt]]></title>
+        <id>https://thedefiant.io/makerdao-liquidations-bad-debt/</id>
+        <link href="https://thedefiant.io/makerdao-liquidations-bad-debt/"/>
+        <updated>2022-11-24T17:35:51.000Z</updated>
+        <summary type="html"><![CDATA[USDC, USDP and GUSD Vaults Affected]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Genesis, Grayscale, DCG Failure? | FTX Contagion Continues | Mango Solana Exploit]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure</id>
+        <link href="https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure"/>
+        <updated>2022-11-24T11:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Thanksgiving 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Ape NFTs Marketplace Live, Volmex V2 Live on Polygon, L2 Lending, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-ape-nfts-marketplace</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-ape-nfts-marketplace"/>
+        <updated>2022-11-24T09:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Ape NFTs Marketplace Live A white-label marketplace for ApeCoin DAO, built by Snag Solutions, launches today. The marketplace will sell BAYC, MAYC, BAKC, and Otherdeed NFTs. Fees charged on sellers will be 5% on ETH sales and .25% on APE, and a full .25% of each sale is held in a multi-sig to fund DAO initiatives.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Tim Ferriss]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-tim-ferriss</id>
+        <link href="https://shows.banklesshq.com/p/debrief-tim-ferriss"/>
+        <updated>2022-11-24T07:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (21 min) | Debriefing the Tim Ferriss episode]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[146 - Tim Ferriss on NFTs and 'Cockpunch']]></title>
+        <id>https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts</id>
+        <link href="https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts"/>
+        <updated>2022-11-24T07:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (129 min) | The next chapter of Tim's career]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tornado Cash Developer to Remain in Detention for Another Three Months]]></title>
+        <id>https://thedefiant.io/pertsev-jail-another-3-months/</id>
+        <link href="https://thedefiant.io/pertsev-jail-another-3-months/"/>
+        <updated>2022-11-24T05:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Alexey Pertsev Will Have Been Jailed For 193 Days Before Trial Begins]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ConsenSys Under Fire for Collecting MetaMask Users’ Wallet and IP Addresses]]></title>
+        <id>https://thedefiant.io/consensys-metamask-privacy-policy/</id>
+        <link href="https://thedefiant.io/consensys-metamask-privacy-policy/"/>
+        <updated>2022-11-24T05:09:05.000Z</updated>
+        <summary type="html"><![CDATA[Leading Ethereum Wallet Has Over 30M Users]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation To Test Withdrawals of Staked ETH]]></title>
+        <id>https://thedefiant.io/ethereum-foundation-testing-withdrawals/</id>
+        <link href="https://thedefiant.io/ethereum-foundation-testing-withdrawals/"/>
+        <updated>2022-11-24T03:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Shandong Testnet Will Relaunch With Withdrawals Enabled]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Contagion: Are DCG and Genesis next?]]></title>
+        <id>https://thedefiant.io/ftx-contagion-are-dcg-and-genesis-next/</id>
+        <link href="https://thedefiant.io/ftx-contagion-are-dcg-and-genesis-next/"/>
+        <updated>2022-11-24T01:59:57.000Z</updated>
+        <summary type="html"><![CDATA[After the collapse of FTX, everyone looked around, wondering, “what’s the next
+domino to fall?” Well, everyone’s now looking at Digital Currency Group,
+nervously watching it totter.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major CRV Trade on Aave Leaves Money Market With $1.6M in Bad Debt]]></title>
+        <id>https://thedefiant.io/crv-trade-aave-bad-debt/</id>
+        <link href="https://thedefiant.io/crv-trade-aave-bad-debt/"/>
+        <updated>2022-11-23T17:44:25.000Z</updated>
+        <summary type="html"><![CDATA[Trader Had Warned Aave of ‘Trading Strategy’ Last Month]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SPONSORED] Turnout for Burnout: Limited Edition Generative Art Mint to Uplift Frontline Health Workers]]></title>
+        <id>https://thedefiant.io/turnout-for-burnout-limited-edition-generative-art-mint-to-uplift-frontline-health-workers/</id>
+        <link href="https://thedefiant.io/turnout-for-burnout-limited-edition-generative-art-mint-to-uplift-frontline-health-workers/"/>
+        <updated>2022-11-23T12:23:44.000Z</updated>
+        <summary type="html"><![CDATA[This giving season, Web3 unites with health workers to create wellness through
+collective action.]]></summary>
+        <author>
+            <name>Endaoment</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was 2021 Just a Gigantic PONZI?]]></title>
+        <id>https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi</id>
+        <link href="https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi"/>
+        <updated>2022-11-23T11:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (104 min) | The Genesis & DCG Meltdown. Is the Contagion Over?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - crvUSD Whitepaper, Ankr Supports Sui, Intro to Polynomial, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-crvusd-whitepaper-ankr</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-crvusd-whitepaper-ankr"/>
+        <updated>2022-11-23T11:29:25.000Z</updated>
+        <summary type="html"><![CDATA[crvUSD Whitepaper Curve team releases the code and whitepaper for its stablecoin crvUSD. Curve stablecoin will be overcollateralized with crypto assets and will rely on the Lending-Liquidating AMM (LLAMMA) algorithm to manage potential collateralization risks.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stablecoins Show Signs of Stabilizing After FTX Storm]]></title>
+        <id>https://thedefiant.io/stablecoins-show-signs-of-stabilizing-after-ftx-storm/</id>
+        <link href="https://thedefiant.io/stablecoins-show-signs-of-stabilizing-after-ftx-storm/"/>
+        <updated>2022-11-23T10:29:55.000Z</updated>
+        <summary type="html"><![CDATA[TVL for Top Five Stablecoins Falls 18% Since FTX Meltdown]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Cup Fan Tokens Rise and Fall With Action on the Pitch]]></title>
+        <id>https://thedefiant.io/world-cup-fan-tokens-rise-and-fall-with-action-on-the-pitch/</id>
+        <link href="https://thedefiant.io/world-cup-fan-tokens-rise-and-fall-with-action-on-the-pitch/"/>
+        <updated>2022-11-23T10:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Argentina’s Fan Token Slumps After Shock Loss to Saudi Arabia]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Perpetual Open Interest Dives 43% in Wake of FTX Collapse]]></title>
+        <id>https://thedefiant.io/perp-oi-dives-after-ftx/</id>
+        <link href="https://thedefiant.io/perp-oi-dives-after-ftx/"/>
+        <updated>2022-11-23T06:29:56.000Z</updated>
+        <summary type="html"><![CDATA[Binance Holds a Larger Piece of a Smaller Pie]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve Releases Whitepaper for crvUSD Stablecoin]]></title>
+        <id>https://thedefiant.io/curve-crvusd-whitepaper/</id>
+        <link href="https://thedefiant.io/curve-crvusd-whitepaper/"/>
+        <updated>2022-11-22T18:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Overcollateralized Design Will Use a Novel Lending-Liquidating AMM Algorithm
+(LLAMMA)]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Ren to Sunset 1.0, rETH as DAI Collateral, Intro to Quoll Finance, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-ren-to-sunset-10-reth</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-ren-to-sunset-10-reth"/>
+        <updated>2022-11-22T16:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Ren to Sunset 1.0 While working on the 2.0, Ren will sunset its 1.0 within 30 days. Ren-assets holders are recommended to redeem their assets to avoid potential damage/fund loss. rETH as DAI Collateral MakerDAO has deployed rETH (RocketPool staked ETH) as a new collateral type to generate DAI. The rETH-A vault has the min. collateral ratio of 170%, a 1.5% stability fee, and a 5m DAI debt ceiling.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SPONSORED] Aave Grants Retrospective]]></title>
+        <id>https://thedefiant.io/aave-grants-retrospective/</id>
+        <link href="https://thedefiant.io/aave-grants-retrospective/"/>
+        <updated>2022-11-22T11:01:13.000Z</updated>
+        <summary type="html"><![CDATA[The Ghost of Grants]]></summary>
+        <author>
+            <name>Aave Grants DAO and Sov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Riles Up Users With Plan to Share Wallet Addresses]]></title>
+        <id>https://thedefiant.io/uniswap-privacy-policy-wallets/</id>
+        <link href="https://thedefiant.io/uniswap-privacy-policy-wallets/"/>
+        <updated>2022-11-22T09:51:39.000Z</updated>
+        <summary type="html"><![CDATA[New Privacy Policy Says Exchange May Share Personal Data in Certain Cases]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avalanche Surges to New High in Boost for ‘Subnet’ Strategy]]></title>
+        <id>https://thedefiant.io/avalanche-surges-to-new-high-in-boost-for-subnet-strategy/</id>
+        <link href="https://thedefiant.io/avalanche-surges-to-new-high-in-boost-for-subnet-strategy/"/>
+        <updated>2022-11-22T09:42:51.000Z</updated>
+        <summary type="html"><![CDATA[DFK Chain Subnet Drives 51% Jump in Transactions Processed in September]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alex Pertsev Remains Jailed]]></title>
+        <id>https://thedefiant.io/alex-pertsev-remains-jailed/</id>
+        <link href="https://thedefiant.io/alex-pertsev-remains-jailed/"/>
+        <updated>2022-11-22T06:34:33.000Z</updated>
+        <summary type="html"><![CDATA[Tornado Cash Developer Remains Jailed]]></summary>
+        <author>
+            <name>Marvin Lanes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO Brings Aboard Rocket Pool’s LSD Token]]></title>
+        <id>https://thedefiant.io/makerdao-brings-aboard-rocket-pools-lsd-token/</id>
+        <link href="https://thedefiant.io/makerdao-brings-aboard-rocket-pools-lsd-token/"/>
+        <updated>2022-11-21T15:38:01.000Z</updated>
+        <summary type="html"><![CDATA[Deal Challenges Liquidity Staking Giant Lido]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Hacker is on the move]]></title>
+        <id>https://thedefiant.io/ftx-hacker-is-on-the-move/</id>
+        <link href="https://thedefiant.io/ftx-hacker-is-on-the-move/"/>
+        <updated>2022-11-21T13:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Someone stole almost half a billion dollars from FTX on Nov. 11, just hours
+after it declared bankruptcy. Now, some of the funds are on the move.]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New headwinds in the crypto markets]]></title>
+        <id>https://thedefiant.io/new-headwinds-in-the-crypto-markets/</id>
+        <link href="https://thedefiant.io/new-headwinds-in-the-crypto-markets/"/>
+        <updated>2022-11-21T13:15:22.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Markets Roundup, brought to you by Sent Galaxy x The Defiant. Check
+in every Monday to keep up with the latest market moves on DeFi, CeFi, NFTs, and
+everything in between.]]></summary>
+        <author>
+            <name>Nick Mancini</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[145 - Is The Fed Corrupt? with Christopher Leonard]]></title>
+        <id>https://shows.banklesshq.com/p/145-is-the-fed-corrupt-with-christopher</id>
+        <link href="https://shows.banklesshq.com/p/145-is-the-fed-corrupt-with-christopher"/>
+        <updated>2022-11-21T11:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | The Lords of Easy Money]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Is the Fed Corrupt?]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-leonard</id>
+        <link href="https://shows.banklesshq.com/p/debrief-leonard"/>
+        <updated>2022-11-21T11:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (26 min) | Debriefing the Christopher Leonard Episode]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - LemmaSwap Live on Optimism, Atom 2.0 Rejected, Ren 2.0 Announced, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-lemmaswap-live</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-lemmaswap-live"/>
+        <updated>2022-11-21T10:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Nov. 14th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Zero Knowledge Proofs Can Restore Digital Trust]]></title>
+        <id>https://thedefiant.io/zero-knowledge-proofs-digital-trust/</id>
+        <link href="https://thedefiant.io/zero-knowledge-proofs-digital-trust/"/>
+        <updated>2022-11-21T09:34:00.000Z</updated>
+        <summary type="html"><![CDATA[New Technology Can Deliver a User-Controlled Web and Propel the Expansion of
+DeFi]]></summary>
+        <author>
+            <name>Evan Shapiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Hack Mystery Deepens with Statement from Bahamian Regulators]]></title>
+        <id>https://thedefiant.io/ftx-hack-mystery-deepens/</id>
+        <link href="https://thedefiant.io/ftx-hack-mystery-deepens/"/>
+        <updated>2022-11-20T21:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Nearly $500M Was Drained From Bankrupt Exchange On Nov. 11]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Hacker Offloads Over $59M of ETH and Sells for BTC]]></title>
+        <id>https://thedefiant.io/ftx-hackers-sells-eth-for-btc/</id>
+        <link href="https://thedefiant.io/ftx-hackers-sells-eth-for-btc/"/>
+        <updated>2022-11-20T20:54:48.000Z</updated>
+        <summary type="html"><![CDATA[0x59 still has over 200,735 ETH, worth around $236M, in its wallet.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⍺ DeFi Alpha: Claim a Dawn NFT on the SEI Testnet for a Potential Airdrop]]></title>
+        <id>https://thedefiant.io/defi-alpha-claim-a-dawn-nft-on-the-sei-testnet-for-a-potential-airdrop/</id>
+        <link href="https://thedefiant.io/defi-alpha-claim-a-dawn-nft-on-the-sei-testnet-for-a-potential-airdrop/"/>
+        <updated>2022-11-20T01:58:46.000Z</updated>
+        <summary type="html"><![CDATA[Earn up to 17% APR with the wstETH/ETH LP on KyberSwap (Optimism)]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📬 Inbox Dump #77]]></title>
+        <id>https://thedefiant.io/inbox-dump-77/</id>
+        <link href="https://thedefiant.io/inbox-dump-77/"/>
+        <updated>2022-11-20T01:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Welcome to Inbox Dump where we include the updates and
+announcements that flood our DMs each week and didn’t make it to The Defiant’s
+content platforms. Sometimes announcements here didn’t meet the bar to become a
+news story, sometimes they may have slipped through the cracks, or they came
+late and we haven’t had a …]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grayscale Reassures Investors After Sister Firm Seeks Emergency Funding]]></title>
+        <id>https://thedefiant.io/grayscale-insists-gbtc-is-safe/</id>
+        <link href="https://thedefiant.io/grayscale-insists-gbtc-is-safe/"/>
+        <updated>2022-11-19T16:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Cites Security Concerns for Not Publishing Proof-of-Reserves]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🌪 Solana Endures ‘Crucible’ as FTX Connection Deletes 70% of TVL]]></title>
+        <id>https://thedefiant.io/%f0%9f%8c%aa-solana-endures-crucible-as-ftx-connection-deletes-70-of-tvl/</id>
+        <link href="https://thedefiant.io/%f0%9f%8c%aa-solana-endures-crucible-as-ftx-connection-deletes-70-of-tvl/"/>
+        <updated>2022-11-19T02:28:07.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we’re covering today:]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ Onyx’s Tyrone Lobban Takes Us Behind the Scenes of JP Morgan’s First DeFi Trade]]></title>
+        <id>https://thedefiant.io/onyxs-tyrone-lobban-takes-us-behind-the-scenes-of-jp-morgans-first-defi-trade/</id>
+        <link href="https://thedefiant.io/onyxs-tyrone-lobban-takes-us-behind-the-scenes-of-jp-morgans-first-defi-trade/"/>
+        <updated>2022-11-19T02:12:24.000Z</updated>
+        <summary type="html"><![CDATA[This week on The Defiant Podcast we speak with Tyrone Lobban, the head of
+blockchain at JPMorgan’s Onyx, a business unit focused on digital assets.  In
+the craziness of the past couple weeks, it’s easy to overlook or forget good
+news and positive developments. JP Morgan recently made history by becoming the
+first major bank …]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpha Leak | The Bull Case for zkBTC]]></title>
+        <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-zkbtc</id>
+        <link href="https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-zkbtc"/>
+        <updated>2022-11-18T19:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (74 min) | The frontier's frontier]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audit Shows Terra Groups Spent $3.4B to Defend Dollar Peg in UST]]></title>
+        <id>https://thedefiant.io/audit-shows-terra-groups-spent-3-4b-to-defend-dollar-peg-in-ust/</id>
+        <link href="https://thedefiant.io/audit-shows-terra-groups-spent-3-4b-to-defend-dollar-peg-in-ust/"/>
+        <updated>2022-11-18T12:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Terraform Labs Commissioned Study to Quantify Support for Stablecoin During May
+Crisis]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Endures ‘Crucible’ as FTX Connection Deletes 70% of TVL]]></title>
+        <id>https://thedefiant.io/solana-test-ftx-crisis/</id>
+        <link href="https://thedefiant.io/solana-test-ftx-crisis/"/>
+        <updated>2022-11-18T12:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Fall of SBF’s Empire Rocks Layer 1 As It Was Rebounding From Tough Year]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: FTX Contagion | SBF Tweet Thread | Genesis Trading | Gemini Earn | StarkNet Token | Cosmos ATOM 2.0]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-ftx-contagion-sbf-tweet-thread</id>
+        <link href="https://shows.banklesshq.com/p/rollup-ftx-contagion-sbf-tweet-thread"/>
+        <updated>2022-11-18T11:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (82 min) | 2nd Week of November, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Trove Supports Arbitrum Nova, Uniswap Permit2 & Universal Router, Intro to LemmaSwap, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-trove-supports-arbitrum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-trove-supports-arbitrum"/>
+        <updated>2022-11-18T10:32:06.000Z</updated>
+        <summary type="html"><![CDATA[Trove Supports Arbitrum Nova Trove, the NFT marketplace built around TreasureDAO ecosystem, now supports GameFi projects built on Arbitrum Nova, a gaming and social app-focused L2. Uniswap Permit2 & Universal Router Uniswap launches two infrastructure contracts: Permit2 that allows token approvals to be shared and managed across dApps; Universal Router that unifies ERC20 and NFT swapping into a single swap router.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Fallout’s Ugliest Turn Yet]]></title>
+        <id>https://thedefiant.io/ftx-fallouts-ugliest-turn-yet/</id>
+        <link href="https://thedefiant.io/ftx-fallouts-ugliest-turn-yet/"/>
+        <updated>2022-11-18T06:44:58.000Z</updated>
+        <summary type="html"><![CDATA[On today’s live: All the latest on FTX, how far the contagion spread, and did
+DeFi really win?]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Users Jump But Boom is a Mirage: Chainalysis]]></title>
+        <id>https://thedefiant.io/defi-boom-mirage-chainalysis/</id>
+        <link href="https://thedefiant.io/defi-boom-mirage-chainalysis/"/>
+        <updated>2022-11-18T04:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Data Shows Activity Spike Came from Existing Users and MEV Bot]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏎 MakerDAO Releases Speedy DAI Transfers and Tightens Controls on Vaults]]></title>
+        <id>https://thedefiant.io/%f0%9f%8f%8e-makerdao-releases-speedy-dai-transfers-and-tightens-controls-on-vaults/</id>
+        <link href="https://thedefiant.io/%f0%9f%8f%8e-makerdao-releases-speedy-dai-transfers-and-tightens-controls-on-vaults/"/>
+        <updated>2022-11-18T02:33:05.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we’re covering today:]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White Boy]]></title>
+        <id>https://medium.com/p/b12c33484a2e</id>
+        <link href="https://entrepreneurshandbook.co/white-boy-b12c33484a2e?source=rss-2f6e06954878------2"/>
+        <updated>2022-11-18T00:01:27.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spaces - Why Chris Burniske is Calling the Bottom]]></title>
+        <id>https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling</id>
+        <link href="https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling"/>
+        <updated>2022-11-17T18:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (50 min) | FTX happened. But is the worst over? Crypto OG Chris Burniske believes so.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF Rues FTX Bankruptcy Filing As Screws Tighten: Report]]></title>
+        <id>https://thedefiant.io/sbf-altruism-just-pr/</id>
+        <link href="https://thedefiant.io/sbf-altruism-just-pr/"/>
+        <updated>2022-11-17T17:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Bankman-Fried Says Altruist Persona Was ‘Just PR’ in Wide-ranging Interview with
+Vox]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Leadership Borrowed Over $1B From Alameda]]></title>
+        <id>https://thedefiant.io/alameda-loaned-ftx-execs-1b/</id>
+        <link href="https://thedefiant.io/alameda-loaned-ftx-execs-1b/"/>
+        <updated>2022-11-17T16:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Incoming CEO John Ray Cites ‘Complete Absence of Trustworthy Financial
+Information’]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - LemmaSwap V2 Live, USDV Depeg, Intro to BendDAO, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-lemmaswap-v2-live-usdv</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-lemmaswap-v2-live-usdv"/>
+        <updated>2022-11-17T13:51:52.000Z</updated>
+        <summary type="html"><![CDATA[LemmaSwap V2 Live on Optimism Lemma launches a new swap protocol on Optimism. LemmaSwap allows traders to execute spot swaps using Perpetual Protocol’s liquidity and allows LPs to earn yield from spot trading fees and funding rate PnL. USDV Depeg USDV, the stablecoin on the Velas chain, lost over 99% of its value after a 10B token dump on the Velas-based DEX WagyuSwap.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Rebuild with Jesse Powell of Kraken Exchange]]></title>
+        <id>https://shows.banklesshq.com/p/how-we-rebuild-with-jesse-powell</id>
+        <link href="https://shows.banklesshq.com/p/how-we-rebuild-with-jesse-powell"/>
+        <updated>2022-11-17T11:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (46 min) | Brick by brick]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congressional Hearing on FTX to Cast Spotlight on Crypto’s Annus Horribilis]]></title>
+        <id>https://thedefiant.io/ftx-congressional-hearing/</id>
+        <link href="https://thedefiant.io/ftx-congressional-hearing/"/>
+        <updated>2022-11-17T10:34:21.000Z</updated>
+        <summary type="html"><![CDATA[House Financial Services Committee to Call SBF to Testify on Exchange’s Failure
+and Practices]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Genesis Halts Withdrawals, Maker Teleport, Intro to Bebop, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-genesis-halts-withdrawals</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-genesis-halts-withdrawals"/>
+        <updated>2022-11-16T14:58:22.000Z</updated>
+        <summary type="html"><![CDATA[Genesis Lending Halts Withdrawals As part of the fallout from FTX, Genesis Trading has halted withdrawals of its lending product. This may have ramifications for Gemini’s Earn program, which uses Genesis. Maker DAI Teleport Maker launches Teleport - infrastructure for projects to utilize and transfer DAI across multichains. Maker also set up a 19k DAI integration grant for developers to create a front end for this back end technology.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the FTX Meltdown Happened—explained by Castle Island's Matt Walsh]]></title>
+        <id>https://shows.banklesshq.com/p/how-the-ftx-meltdown-happenedexplained</id>
+        <link href="https://shows.banklesshq.com/p/how-the-ftx-meltdown-happenedexplained"/>
+        <updated>2022-11-16T11:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (60 min) | What caused the first domino and when the last will fall]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantom: envisioning a zk future]]></title>
+        <id>https://medium.com/p/a9128f927f82</id>
+        <link href="https://andrecronje.medium.com/fantom-envisioning-a-zk-future-a9128f927f82?source=rss-34f4446c6ba1------2"/>
+        <updated>2022-11-16T06:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Intro]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LayerZero: Interoperability For All]]></title>
+        <id>https://phdcapital.substack.com/p/layerzero-interoperability-for-all</id>
+        <link href="https://phdcapital.substack.com/p/layerzero-interoperability-for-all"/>
+        <updated>2022-11-15T19:12:37.000Z</updated>
+        <summary type="html"><![CDATA[A report on the tech, problems it solves, and what's being built on top of it]]></summary>
+        <author>
+            <name>PHD Capital</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Path Forward | Livestream]]></title>
+        <id>https://shows.banklesshq.com/p/the-path-forward-livestream</id>
+        <link href="https://shows.banklesshq.com/p/the-path-forward-livestream"/>
+        <updated>2022-11-15T11:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (59 min) | Where Do We Go From Here?]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Atom 2.0 Rejected, Nike NFTs Coming to Polygon, Intro to Sentiment.xyz, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-atom-20-rejected-nike</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-atom-20-rejected-nike"/>
+        <updated>2022-11-15T10:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Atom 2.0 Rejected The vote for Proposal 82 (Atom 2.0) vote has been rejected. The proposal called for a number of radical changes including Social Coordination Technology Interchain Security, Liquid Staking, as well as changes to issuance(potentially what caused the contention).]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantom: Consensus practically explained]]></title>
+        <id>https://medium.com/p/a133aff0f4e9</id>
+        <link href="https://andrecronje.medium.com/fantom-consensus-practically-explained-a133aff0f4e9?source=rss-34f4446c6ba1------2"/>
+        <updated>2022-11-15T07:30:26.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will compare time ordering, proof of work (PoW), proof of stake (PoS), and lachesis (fantom consensus) in simple to…]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - FTX Aftermath, MetaMask Bridges, Aptos x Google Cloud, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-ftx-aftermath-metamask</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-ftx-aftermath-metamask"/>
+        <updated>2022-11-14T11:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Nov. 7th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debrief - Web3 Is Going Great!!]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-molly-white</id>
+        <link href="https://shows.banklesshq.com/p/debrief-molly-white"/>
+        <updated>2022-11-12T02:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (27 min) | Debriefing the Molly White episode]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[144 - Web3 Is Going Great!! with Molly White]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-web3-is-going-great</id>
+        <link href="https://shows.banklesshq.com/p/early-access-web3-is-going-great"/>
+        <updated>2022-11-12T02:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (85 min) | An articulate crypto critic's perspective]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aptos x Google Cloud, DFX Reentrancy Exploit, WooFi Arbitrum Farming, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-aptos-x-google-cloud</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-aptos-x-google-cloud"/>
+        <updated>2022-11-11T10:58:46.000Z</updated>
+        <summary type="html"><![CDATA[Aptos x Google Cloud Google Cloud will validate nodes and participate on the Aptos mainnet, and Aptos blockchain will also be indexed and made available on Google Cloud's BigQuery service. Both parties are also set to launch an accelerator program as well as co-host a hackathon.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - FTX Situation, MetaMask Bridges, Intro to Grizzly, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-ftx-situation-metamask</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-ftx-situation-metamask"/>
+        <updated>2022-11-10T11:45:40.000Z</updated>
+        <summary type="html"><![CDATA[FTX Situation Update Today Binance stated it will not pursue the FTX deal due to their DD. Primary holdings of FTX/Alameda (besides stables) include $FTT, SOL, SRM, BIT, xSUSHI, LDO, etc. and investments of FTX ventures include $NEAR, APE, APT, MINA, HNT, etc]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speechless]]></title>
+        <id>https://medium.com/p/9b1b5114bb2c</id>
+        <link href="https://entrepreneurshandbook.co/speechless-9b1b5114bb2c?source=rss-2f6e06954878------2"/>
+        <updated>2022-11-09T16:00:06.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn from my mistakes]]></title>
+        <id>https://medium.com/p/4cc8faf98468</id>
+        <link href="https://andrecronje.medium.com/learn-from-my-mistakes-4cc8faf98468?source=rss-34f4446c6ba1------2"/>
+        <updated>2022-11-09T09:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Projects]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
 </feed>
