@@ -9,4 +9,13 @@ cacheMaxDays: 30
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://web3cave.github.io/flat-data-template/data.xml
+  - href: https://phdcapital.substack.com/feed
+  - href: https://medium.com/feed/@cryptohayes
+  - href: https://substack.com/profile/85977139-onchain-wizard
+  - href: https://medium.com/feed/@traderbagel
+  - href: https://future.a16z.com/feed
+  - href: https://thedefiant.io/feed/
+  - href: https://shows.banklesshq.com/feed
+  - href: https://research.paradigm.xyz/feed.xml
+  - href: https://andrecronje.medium.com/feed
+  - href: https://todayindefi.substack.com/feed
