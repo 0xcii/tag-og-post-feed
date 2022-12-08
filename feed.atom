@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-08T12:27:23.475Z</id>
+    <id>urn:2022-12-08T13:21:40.473Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-08T12:27:23.475Z</updated>
+    <updated>2022-12-08T13:21:40.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Devs Delay Surge and Prioritize Staked ETH Withdrawals]]></title>
+        <id>https://thedefiant.io/ethereum-devs-delay-surge-and-prioritize-staked-eth-withdrawals/</id>
+        <link href="https://thedefiant.io/ethereum-devs-delay-surge-and-prioritize-staked-eth-withdrawals/"/>
+        <updated>2022-12-08T12:36:12.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we’re covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Perennial Live, Compound Extensions, Farming on Arbitrum, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-perennial-live-compound</id>
@@ -1334,17 +1344,6 @@ Crisis]]></summary>
         <summary type="html"><![CDATA[Trove Supports Arbitrum Nova Trove, the NFT marketplace built around TreasureDAO ecosystem, now supports GameFi projects built on Arbitrum Nova, a gaming and social app-focused L2. Uniswap Permit2 & Universal Router Uniswap launches two infrastructure contracts: Permit2 that allows token approvals to be shared and managed across dApps; Universal Router that unifies ERC20 and NFT swapping into a single swap router.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Fallout’s Ugliest Turn Yet]]></title>
-        <id>https://thedefiant.io/ftx-fallouts-ugliest-turn-yet/</id>
-        <link href="https://thedefiant.io/ftx-fallouts-ugliest-turn-yet/"/>
-        <updated>2022-11-18T06:44:58.000Z</updated>
-        <summary type="html"><![CDATA[On today’s live: All the latest on FTX, how far the contagion spread, and did
-DeFi really win?]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
