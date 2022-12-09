@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T18:17:23.582Z</id>
+    <id>urn:2022-12-09T19:11:49.666Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-09T18:17:23.582Z</updated>
+    <updated>2022-12-09T19:11:49.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bad Debt Piles Up at DeFi Lending Protocols]]></title>
+        <id>https://thedefiant.io/bad-debt-piles-up-at-defi-lending-protocols/</id>
+        <link href="https://thedefiant.io/bad-debt-piles-up-at-defi-lending-protocols/"/>
+        <updated>2022-12-09T19:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Stalwarts Explore Tie-Ups to Weather Bear Market and FTX Fallout]]></title>
+        <id>https://thedefiant.io/defi-stalwarts-explore-tie-ups-to-weather-bear-market-and-ftx-fallout/</id>
+        <link href="https://thedefiant.io/defi-stalwarts-explore-tie-ups-to-weather-bear-market-and-ftx-fallout/"/>
+        <updated>2022-12-09T19:03:07.000Z</updated>
+        <summary type="html"><![CDATA[Aave, MakerDAO, Compound and Yearn Seek Partnerships as DeFi Shifts into Next
+Phase]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBF Spars with CZ And Denies ‘Hunting’ Three Arrows]]></title>
         <id>https://thedefiant.io/sbf-spars-with-cz/</id>
@@ -1328,27 +1349,6 @@ everything in between.]]></summary>
         <summary type="html"><![CDATA[Recap: Week of Nov. 14th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Zero Knowledge Proofs Can Restore Digital Trust]]></title>
-        <id>https://thedefiant.io/zero-knowledge-proofs-digital-trust/</id>
-        <link href="https://thedefiant.io/zero-knowledge-proofs-digital-trust/"/>
-        <updated>2022-11-21T09:34:00.000Z</updated>
-        <summary type="html"><![CDATA[New Technology Can Deliver a User-Controlled Web and Propel the Expansion of
-DeFi]]></summary>
-        <author>
-            <name>Evan Shapiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Hack Mystery Deepens with Statement from Bahamian Regulators]]></title>
-        <id>https://thedefiant.io/ftx-hack-mystery-deepens/</id>
-        <link href="https://thedefiant.io/ftx-hack-mystery-deepens/"/>
-        <updated>2022-11-20T21:13:43.000Z</updated>
-        <summary type="html"><![CDATA[Nearly $500M Was Drained From Bankrupt Exchange On Nov. 11]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>
