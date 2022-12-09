@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T08:18:14.297Z</id>
+    <id>urn:2022-12-09T09:13:43.688Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-09T08:18:14.297Z</updated>
+    <updated>2022-12-09T09:13:43.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is DeFi Borrowing?]]></title>
+        <id>https://thedefiant.io/what-is-defi-borrowing/</id>
+        <link href="https://thedefiant.io/what-is-defi-borrowing/"/>
+        <updated>2022-12-09T09:13:12.000Z</updated>
+        <summary type="html"><![CDATA[A Primer for One of the Most Popular Practices in DeFi]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Offers Free Trades from USDT to USDC]]></title>
         <id>https://thedefiant.io/coinbase-free-swaps-usdt-to-usdc/</id>
@@ -66,7 +76,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gnosis to Execute Its Own Merge in Shift to PoS]]></title>
+        <title type="html"><![CDATA[Gnosis Executes Its Own Merge in Shift to PoS in Boost for Staking]]></title>
         <id>https://thedefiant.io/gnosis-to-execute-its-own-merge-in-shift-to-pos/</id>
         <link href="https://thedefiant.io/gnosis-to-execute-its-own-merge-in-shift-to-pos/"/>
         <updated>2022-12-08T09:59:51.000Z</updated>
@@ -1310,16 +1320,6 @@ news story, sometimes they may have slipped through the cracks, or they came
 late and we haven’t had a …]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale Reassures Investors After Sister Firm Seeks Emergency Funding]]></title>
-        <id>https://thedefiant.io/grayscale-insists-gbtc-is-safe/</id>
-        <link href="https://thedefiant.io/grayscale-insists-gbtc-is-safe/"/>
-        <updated>2022-11-19T16:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Cites Security Concerns for Not Publishing Proof-of-Reserves]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
