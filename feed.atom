@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T03:17:06.165Z</id>
+    <id>urn:2022-12-09T04:17:51.955Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-09T03:17:06.165Z</updated>
+    <updated>2022-12-09T04:17:51.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Looks Like SBF Incriminated Himself]]></title>
+        <id>https://thedefiant.io/looks-like-sbf-incriminated-himself/</id>
+        <link href="https://thedefiant.io/looks-like-sbf-incriminated-himself/"/>
+        <updated>2022-12-08T22:43:00.000Z</updated>
+        <summary type="html"><![CDATA[SBF Admits FTX commingled user funds]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alpha Leak | The Bull Case for Modular Blockchains]]></title>
         <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular</id>
@@ -13,6 +23,16 @@
         <summary type="html"><![CDATA[Listen now (58 min) | Fuel & Celestia]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Williams On Storing Files On-Chain For Eternity]]></title>
+        <id>https://thedefiant.io/sam-williams-on-storing-files-on-chain-for-eternity/</id>
+        <link href="https://thedefiant.io/sam-williams-on-storing-files-on-chain-for-eternity/"/>
+        <updated>2022-12-08T17:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Store Data Forever]]></summary>
+        <author>
+            <name>Tegan Kline</name>
         </author>
     </entry>
     <entry>
@@ -1316,27 +1336,6 @@ first major bank …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audit Shows Terra Groups Spent $3.4B to Defend Dollar Peg in UST]]></title>
-        <id>https://thedefiant.io/audit-shows-terra-groups-spent-3-4b-to-defend-dollar-peg-in-ust/</id>
-        <link href="https://thedefiant.io/audit-shows-terra-groups-spent-3-4b-to-defend-dollar-peg-in-ust/"/>
-        <updated>2022-11-18T12:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Terraform Labs Commissioned Study to Quantify Support for Stablecoin During May
-Crisis]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Endures ‘Crucible’ as FTX Connection Deletes 70% of TVL]]></title>
-        <id>https://thedefiant.io/solana-test-ftx-crisis/</id>
-        <link href="https://thedefiant.io/solana-test-ftx-crisis/"/>
-        <updated>2022-11-18T12:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Fall of SBF’s Empire Rocks Layer 1 As It Was Rebounding From Tough Year]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ROLLUP: FTX Contagion | SBF Tweet Thread | Genesis Trading | Gemini Earn | StarkNet Token | Cosmos ATOM 2.0]]></title>
         <id>https://shows.banklesshq.com/p/rollup-ftx-contagion-sbf-tweet-thread</id>
         <link href="https://shows.banklesshq.com/p/rollup-ftx-contagion-sbf-tweet-thread"/>
@@ -1494,16 +1493,6 @@ Crisis]]></summary>
         <summary type="html"><![CDATA[Aptos x Google Cloud Google Cloud will validate nodes and participate on the Aptos mainnet, and Aptos blockchain will also be indexed and made available on Google Cloud's BigQuery service. Both parties are also set to launch an accelerator program as well as co-host a hackathon.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speechless]]></title>
-        <id>https://medium.com/p/9b1b5114bb2c</id>
-        <link href="https://entrepreneurshandbook.co/speechless-9b1b5114bb2c?source=rss-2f6e06954878------2"/>
-        <updated>2022-11-09T16:00:06.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
-        <author>
-            <name>Arthur Hayes</name>
         </author>
     </entry>
 </feed>

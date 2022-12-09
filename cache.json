@@ -47,16 +47,6 @@
           "wordCount": 11844,
           "title": "White Boy",
           "imageUrl": "https://miro.medium.com/max/400/0*KZKszBkTvIWv0ii8"
-        },
-        {
-          "id": "https://medium.com/p/9b1b5114bb2c",
-          "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
-          "link": "https://entrepreneurshandbook.co/speechless-9b1b5114bb2c?source=rss-2f6e06954878------2",
-          "publishedOn": "2022-11-09T16:00:06.000Z",
-          "wordCount": 5658,
-          "title": "Speechless",
-          "imageUrl": "https://miro.medium.com/max/400/0*XLVgBWXGvUydhRSV"
         }
       ]
     },
@@ -77,6 +67,26 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/looks-like-sbf-incriminated-himself/",
+          "author": "Jack Dunham",
+          "description": "SBF Admits FTX commingled user funds",
+          "link": "https://thedefiant.io/looks-like-sbf-incriminated-himself/",
+          "publishedOn": "2022-12-08T22:43:00.000Z",
+          "wordCount": 778,
+          "title": "Looks Like SBF Incriminated Himself",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/08234634/Looks-Like-SBF-Incriminated-Himself.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/sam-williams-on-storing-files-on-chain-for-eternity/",
+          "author": "Tegan Kline",
+          "description": "Store Data Forever",
+          "link": "https://thedefiant.io/sam-williams-on-storing-files-on-chain-for-eternity/",
+          "publishedOn": "2022-12-08T17:39:00.000Z",
+          "wordCount": 797,
+          "title": "Sam Williams On Storing Files On-Chain For Eternity",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/08234213/Sam-Williams-On-Storing-Files-On-Chain-For-Eternity.jpg"
+        },
         {
           "id": "https://thedefiant.io/ethereum-devs-delay-surge-and-prioritize-staked-eth-withdrawals/",
           "author": "The Defiant Team",
@@ -1056,26 +1066,6 @@
           "wordCount": 993,
           "title": "🎙️ Onyx’s Tyrone Lobban Takes Us Behind the Scenes of JP Morgan’s First DeFi Trade",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/21221516/ab6765630000ba8a3afa14ead911361d95f6b25f.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/audit-shows-terra-groups-spent-3-4b-to-defend-dollar-peg-in-ust/",
-          "author": "Owen Fernau",
-          "description": "Terraform Labs Commissioned Study to Quantify Support for Stablecoin During May\nCrisis",
-          "link": "https://thedefiant.io/audit-shows-terra-groups-spent-3-4b-to-defend-dollar-peg-in-ust/",
-          "publishedOn": "2022-11-18T12:44:29.000Z",
-          "wordCount": 1828,
-          "title": "Audit Shows Terra Groups Spent $3.4B to Defend Dollar Peg in UST",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/05/24192715/TerraRoundup.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/solana-test-ftx-crisis/",
-          "author": "Tarang Khaitan",
-          "description": "Fall of SBF’s Empire Rocks Layer 1 As It Was Rebounding From Tough Year",
-          "link": "https://thedefiant.io/solana-test-ftx-crisis/",
-          "publishedOn": "2022-11-18T12:22:16.000Z",
-          "wordCount": 2529,
-          "title": "Solana Endures ‘Crucible’ as FTX Connection Deletes 70% of TVL",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/18080753/Dominoes_Falling-1.jpg"
         }
       ]
     },
