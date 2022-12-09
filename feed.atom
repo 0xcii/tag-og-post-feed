@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T09:13:43.688Z</id>
+    <id>urn:2022-12-09T10:15:21.552Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-09T09:13:43.688Z</updated>
+    <updated>2022-12-09T10:15:21.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bad Debt Piles up at DeFi Lending Protocols]]></title>
+        <id>https://thedefiant.io/bad-debt-defi-protocols/</id>
+        <link href="https://thedefiant.io/bad-debt-defi-protocols/"/>
+        <updated>2022-12-09T09:41:23.000Z</updated>
+        <summary type="html"><![CDATA[Venus Protocol and Iron Bank Incur Eight-Digit Liabilities as MakerDAO Keeps a
+Clean Sheet]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is DeFi Borrowing?]]></title>
         <id>https://thedefiant.io/what-is-defi-borrowing/</id>
@@ -1304,20 +1315,6 @@ DeFi]]></summary>
         <link href="https://thedefiant.io/defi-alpha-claim-a-dawn-nft-on-the-sei-testnet-for-a-potential-airdrop/"/>
         <updated>2022-11-20T01:58:46.000Z</updated>
         <summary type="html"><![CDATA[Earn up to 17% APR with the wstETH/ETH LP on KyberSwap (Optimism)]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📬 Inbox Dump #77]]></title>
-        <id>https://thedefiant.io/inbox-dump-77/</id>
-        <link href="https://thedefiant.io/inbox-dump-77/"/>
-        <updated>2022-11-20T01:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Welcome to Inbox Dump where we include the updates and
-announcements that flood our DMs each week and didn’t make it to The Defiant’s
-content platforms. Sometimes announcements here didn’t meet the bar to become a
-news story, sometimes they may have slipped through the cracks, or they came
-late and we haven’t had a …]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
