@@ -110,6 +110,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://shows.banklesshq.com/p/phantom-wallet-on-ethereum",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (59 min) | Co-Founders Discussing the DeFi Wallet Landscape",
+          "link": "https://shows.banklesshq.com/p/phantom-wallet-on-ethereum",
+          "publishedOn": "2022-12-08T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Phantom Wallet on Ethereum!",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/89870595.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik",
           "author": "Ryan Sean Adams",
           "description": "Listen now (79 min) | When’s the Fed Going to Pivot?",
@@ -380,22 +396,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-path-forward-livestream",
-          "author": "David Hoffman",
-          "description": "Listen now (59 min) | Where Do We Go From Here?",
-          "link": "https://shows.banklesshq.com/p/the-path-forward-livestream",
-          "publishedOn": "2022-11-15T11:30:51.000Z",
-          "wordCount": null,
-          "title": "The Path Forward | Livestream",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/84620233.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -416,7 +416,7 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 2991,
+          "wordCount": 2975,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         },

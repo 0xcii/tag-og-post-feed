@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-10T22:12:45.061Z</id>
+    <id>urn:2022-12-10T23:13:58.976Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-10T22:12:45.061Z</updated>
+    <updated>2022-12-10T23:13:58.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -53,6 +53,16 @@
         <summary type="html"><![CDATA[Perennial Live Derivatives protocol Perennial is now live on the Ethereum mainnet. Perennial offers infrastructure for derivative markets, with V1 currently supporting Long-ETH, Short-ETH, and Long-Squeeth markets. Compound Extensions Compound releases Extensions for its V3 users. Extensions are a series of add-on features to enhance users’ experience, including Advance Transactions, Position Migrator, Position Management (by]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phantom Wallet on Ethereum!]]></title>
+        <id>https://shows.banklesshq.com/p/phantom-wallet-on-ethereum</id>
+        <link href="https://shows.banklesshq.com/p/phantom-wallet-on-ethereum"/>
+        <updated>2022-12-08T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (59 min) | Co-Founders Discussing the DeFi Wallet Landscape]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
         </author>
     </entry>
     <entry>
@@ -433,16 +443,6 @@
         <summary type="html"><![CDATA[A report on the tech, problems it solves, and what's being built on top of it]]></summary>
         <author>
             <name>PHD Capital</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Path Forward | Livestream]]></title>
-        <id>https://shows.banklesshq.com/p/the-path-forward-livestream</id>
-        <link href="https://shows.banklesshq.com/p/the-path-forward-livestream"/>
-        <updated>2022-11-15T11:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (59 min) | Where Do We Go From Here?]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
     <entry>
