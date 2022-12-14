@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-14T10:15:42.610Z</id>
+    <id>urn:2022-12-14T11:11:54.714Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-14T10:15:42.610Z</updated>
+    <updated>2022-12-14T11:11:54.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2022's Biggest Crypto Moments]]></title>
+        <id>https://shows.banklesshq.com/p/2022s-biggest-crypto-moments</id>
+        <link href="https://shows.banklesshq.com/p/2022s-biggest-crypto-moments"/>
+        <updated>2022-12-14T10:54:03.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (62 min) | The Best, The Worst, The Villains, and the Heroes]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Yearn veYFI Live, Sushi Voting to Increase Treasury Ratio, Trading Volatility, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-yearn-veyfi-live-sushi</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-veyfi-live-sushi"/>
+        <updated>2022-12-14T10:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Yearn veYFI Live Yearn launches UI for users to stake YFI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn. Signal Vote: Increase Sushi Kanpai Payout Ratio The Sushiswap community is voting to produce a signal on whether to redirect 100% of the Sushi fees redirect to the Kanpai Treasury for 1-year.]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balancer Ends Long Governance Battle With Whale]]></title>
         <id>https://thedefiant.io/balancer-ve-tokenomics-whale/</id>
@@ -1444,31 +1464,11 @@ co-founder and VP of Engineering at SAGA.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spaces - Why Chris Burniske is Calling the Bottom]]></title>
-        <id>https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling</id>
-        <link href="https://shows.banklesshq.com/p/spaces-why-chris-burniske-is-calling"/>
-        <updated>2022-11-17T18:37:32.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (50 min) | FTX happened. But is the worst over? Crypto OG Chris Burniske believes so.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - LemmaSwap V2 Live, USDV Depeg, Intro to BendDAO, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-lemmaswap-v2-live-usdv</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-lemmaswap-v2-live-usdv"/>
         <updated>2022-11-17T13:51:52.000Z</updated>
         <summary type="html"><![CDATA[LemmaSwap V2 Live on Optimism Lemma launches a new swap protocol on Optimism. LemmaSwap allows traders to execute spot swaps using Perpetual Protocol’s liquidity and allows LPs to earn yield from spot trading fees and funding rate PnL. USDV Depeg USDV, the stablecoin on the Velas chain, lost over 99% of its value after a 10B token dump on the Velas-based DEX WagyuSwap.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Genesis Halts Withdrawals, Maker Teleport, Intro to Bebop, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-genesis-halts-withdrawals</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-genesis-halts-withdrawals"/>
-        <updated>2022-11-16T14:58:22.000Z</updated>
-        <summary type="html"><![CDATA[Genesis Lending Halts Withdrawals As part of the fallout from FTX, Genesis Trading has halted withdrawals of its lending product. This may have ramifications for Gemini’s Earn program, which uses Genesis. Maker DAI Teleport Maker launches Teleport - infrastructure for projects to utilize and transfer DAI across multichains. Maker also set up a 19k DAI integration grant for developers to create a front end for this back end technology.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
