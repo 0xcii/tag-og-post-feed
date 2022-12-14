@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-14T19:11:46.060Z</id>
+    <id>urn:2022-12-14T20:16:47.017Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-14T19:11:46.060Z</updated>
+    <updated>2022-12-14T20:16:47.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1504,16 +1504,6 @@ lender, would be the next domino to fall in the wake of FTX’s collapse.]]></su
         <summary type="html"><![CDATA[A report on the tech, problems it solves, and what's being built on top of it]]></summary>
         <author>
             <name>PHD Capital</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantom: Consensus practically explained]]></title>
-        <id>https://medium.com/p/a133aff0f4e9</id>
-        <link href="https://andrecronje.medium.com/fantom-consensus-practically-explained-a133aff0f4e9?source=rss-34f4446c6ba1------2"/>
-        <updated>2022-11-15T07:30:26.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will compare time ordering, proof of work (PoW), proof of stake (PoS), and lachesis (fantom consensus) in simple to…]]></summary>
-        <author>
-            <name>Andre Cronje</name>
         </author>
     </entry>
 </feed>
