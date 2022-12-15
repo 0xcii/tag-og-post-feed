@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-15T18:16:26.467Z</id>
+    <id>urn:2022-12-15T19:11:16.211Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-15T18:16:26.467Z</updated>
+    <updated>2022-12-15T19:11:16.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BitGo’s Mike Belshe on What’s Next for WBTC & Crypto Custodians]]></title>
+        <id>https://thedefiant.io/bitgos-mike-belshe-on-whats-next-for-wbtc-crypto-custodians/</id>
+        <link href="https://thedefiant.io/bitgos-mike-belshe-on-whats-next-for-wbtc-crypto-custodians/"/>
+        <updated>2022-12-15T19:05:58.000Z</updated>
+        <summary type="html"><![CDATA[This week on The Defiant Podcast, we speak with Mike Belshe, the CEO of BitGo, a
+digital asset custodian, wallet, and issuer of wrapped Bitcoin (WBTC).]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warren-Marshall Bill Assailed as ‘Direct Attack’ on Crypto Users]]></title>
         <id>https://thedefiant.io/warren-marshall-bill-assailed-as-direct-attack-on-crypto-users/</id>
@@ -1307,16 +1318,6 @@ lender, would be the next domino to fall in the wake of FTX’s collapse.]]></su
         <summary type="html"><![CDATA[Crypto Lender Paused Withdrawals On Nov. 10 Citing FTX Exposure]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⍺ DeFi Alpha: Lending with Banker Joe by Trader Joe]]></title>
-        <id>https://thedefiant.io/defi-alpha-lending-with-banker-joe-by-trader-joe/</id>
-        <link href="https://thedefiant.io/defi-alpha-lending-with-banker-joe-by-trader-joe/"/>
-        <updated>2022-11-28T13:55:32.000Z</updated>
-        <summary type="html"><![CDATA[Using Delegate Cash to Keep Your Valuable NFTs Secure]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
