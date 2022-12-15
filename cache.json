@@ -1438,6 +1438,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-maple-20-makerdao-to",
+          "author": null,
+          "description": "Maple Released 2.0 Maple releases a new version that focuses on diversifying borrowers and improving risk management parameters. Maple recently experienced a borrower default. MakerDAO to Fund RWA MakerDAO passed the executive vote and will deploy four vaults to fund investments in real-world assets (RWA), originated by BlockTower and issued on-chain through",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-maple-20-makerdao-to",
+          "publishedOn": "2022-12-15T11:28:36.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Maple 2.0, MakerDAO to Fund RWA, Stable Farms on Optimism, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/macfaf4hpeycdq1x5b9q",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/macfaf4hpeycdq1x5b9q"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-yearn-veyfi-live-sushi",
           "author": null,
           "description": "Yearn veYFI Live Yearn launches UI for users to stake YFI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn. Signal Vote: Increase Sushi Kanpai Payout Ratio The Sushiswap community is voting to produce a signal on whether to redirect 100% of the Sushi fees redirect to the Kanpai Treasury for 1-year.",
@@ -1740,22 +1756,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhyZ_YyUYAAX_FU.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-lemmaswap-v2-live-usdv",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "LemmaSwap V2 Live on Optimism Lemma launches a new swap protocol on Optimism. LemmaSwap allows traders to execute spot swaps using Perpetual Protocol’s liquidity and allows LPs to earn yield from spot trading fees and funding rate PnL. USDV Depeg USDV, the stablecoin on the Velas chain, lost over 99% of its value after a 10B token dump on the Velas-based DEX WagyuSwap.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-lemmaswap-v2-live-usdv",
-          "publishedOn": "2022-11-17T13:51:52.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - LemmaSwap V2 Live, USDV Depeg, Intro to BendDAO, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhsuY7mXkAITVsB.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFhsuY7mXkAITVsB.jpg"
         }
       ]
     }
