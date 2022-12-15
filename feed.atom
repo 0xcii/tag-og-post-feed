@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-15T19:11:16.211Z</id>
+    <id>urn:2022-12-15T20:14:03.719Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-15T19:11:16.211Z</updated>
+    <updated>2022-12-15T20:14:03.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Unveils Recovery Tool For Unsupported Assets]]></title>
+        <id>https://thedefiant.io/coinbase-token-recovery-tool/</id>
+        <link href="https://thedefiant.io/coinbase-token-recovery-tool/"/>
+        <updated>2022-12-15T20:04:49.000Z</updated>
+        <summary type="html"><![CDATA[Users Will Be Able To Withdraw Almost 4,000 Trapped ERC-20 Tokens]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BitGo’s Mike Belshe on What’s Next for WBTC & Crypto Custodians]]></title>
         <id>https://thedefiant.io/bitgos-mike-belshe-on-whats-next-for-wbtc-crypto-custodians/</id>
@@ -1306,16 +1316,6 @@ Phase]]></summary>
         <updated>2022-11-28T22:56:00.000Z</updated>
         <summary type="html"><![CDATA[Last week, on this show, we wondered whether Genesis, the struggling crypto
 lender, would be the next domino to fall in the wake of FTX’s collapse.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockFi Files For Chapter 11 Bankruptcy]]></title>
-        <id>https://thedefiant.io/blockfi-bankrupt/</id>
-        <link href="https://thedefiant.io/blockfi-bankrupt/"/>
-        <updated>2022-11-28T16:52:18.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Lender Paused Withdrawals On Nov. 10 Citing FTX Exposure]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
         </author>
