@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-15T17:13:03.946Z</id>
+    <id>urn:2022-12-15T18:16:26.467Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-15T17:13:03.946Z</updated>
+    <updated>2022-12-15T18:16:26.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1497,16 +1497,6 @@ lender, would be the next domino to fall in the wake of FTX’s collapse.]]></su
         <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantom: envisioning a zk future]]></title>
-        <id>https://medium.com/p/a9128f927f82</id>
-        <link href="https://andrecronje.medium.com/fantom-envisioning-a-zk-future-a9128f927f82?source=rss-34f4446c6ba1------2"/>
-        <updated>2022-11-16T06:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Intro]]></summary>
-        <author>
-            <name>Andre Cronje</name>
         </author>
     </entry>
 </feed>
