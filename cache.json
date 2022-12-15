@@ -61,6 +61,26 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/apecoin-staking-bored-ape/",
+          "author": "IntoTheBlock",
+          "description": "Staking Mechanism Seeks to Spur Interest in Yuga Collections — Is it Working?",
+          "link": "https://thedefiant.io/apecoin-staking-bored-ape/",
+          "publishedOn": "2022-12-15T08:55:54.000Z",
+          "wordCount": 2694,
+          "title": "An On-Chain Look Into The ApeCoin Staking Launch",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15045547/ItBApeStaking.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/what-are-swap-rates/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Step-by-Step Guide to An Important Function in DeFi",
+          "link": "https://thedefiant.io/what-are-swap-rates/",
+          "publishedOn": "2022-12-15T08:55:01.000Z",
+          "wordCount": 3202,
+          "title": "What are Swap Rates?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14135133/WhatAreSwapRates.jpg"
+        },
+        {
           "id": "https://thedefiant.io/defi-alpha-call-31/",
           "author": "The Defiant Team",
           "description": "This is a recap of our latest DeFi Alpha Call that took place on 12/12/2022 in\nDiscord.",
@@ -76,7 +96,7 @@
           "description": "Move Enables US Users To Easily Access Web3",
           "link": "https://thedefiant.io/metamask-paypal-integration/",
           "publishedOn": "2022-12-15T05:04:12.000Z",
-          "wordCount": 1339,
+          "wordCount": 1481,
           "title": "MetaMask Launches PayPal Integration For ETH Purchases",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15010209/PaypalMMEth.jpg"
         },
@@ -149,6 +169,16 @@
           "wordCount": 3429,
           "title": "What are DeFi Protocols?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14051820/WhatAreDeFiProtocols.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/prosecutors-throw-everything-theyve-got-at-sbf-hint-theres-more-to-come/",
+          "author": "Aleksandar Gilbert",
+          "description": "Fraud. Conspiracy. Money Laundering. Quickbooks.",
+          "link": "https://thedefiant.io/prosecutors-throw-everything-theyve-got-at-sbf-hint-theres-more-to-come/",
+          "publishedOn": "2022-12-14T09:07:20.000Z",
+          "wordCount": 1094,
+          "title": "Prosecutors Throw Everything They’ve got at SBF, Hint There’s More to Come",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15050956/Prosecutors-Throw-Everything-Theyve-got-at-SBF-Hint-Theres-More-to-Come-.jpeg"
         },
         {
           "id": "https://thedefiant.io/cowswap-limit-orders/",
@@ -1029,36 +1059,6 @@
           "wordCount": 1634,
           "title": "Abracadabra Calls On Sushi For Emergency Assistance As Faulty Oracle Places $10M At Risk",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/27225832/Sushi2.webp"
-        },
-        {
-          "id": "https://thedefiant.io/%f0%9f%a6%84-recap-defi-week-of-nov-20/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Happy weekend!",
-          "link": "https://thedefiant.io/%f0%9f%a6%84-recap-defi-week-of-nov-20/",
-          "publishedOn": "2022-11-27T17:13:08.000Z",
-          "wordCount": 444,
-          "title": "🦄 Recap: DeFi Week of Nov. 20",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/26135457/b5bd30fd-a004-4175-b052-a38e36499761_880x495.webp"
-        },
-        {
-          "id": "https://thedefiant.io/wbtc-depeg/",
-          "author": "Samuel Haig",
-          "description": "BitGo COO Assures Investors that WTBC Reserves Can Be Verified On-Chain",
-          "link": "https://thedefiant.io/wbtc-depeg/",
-          "publishedOn": "2022-11-26T21:56:57.000Z",
-          "wordCount": 1650,
-          "title": "WBTC Depeg Has DeFi Community On Edge",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/26175546/wbtcdepeg.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-78/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers!",
-          "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-78/",
-          "publishedOn": "2022-11-26T17:27:23.000Z",
-          "wordCount": 3147,
-          "title": "📬 Inbox Dump #78",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
         }
       ]
     },
@@ -1406,7 +1406,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 1927,
+          "wordCount": 1930,
           "title": "The decentralized CEO",
           "imageUrl": null
         },
@@ -1416,7 +1416,7 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 2965,
+          "wordCount": 3016,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         },
@@ -1426,7 +1426,7 @@
           "description": "Intro",
           "link": "https://andrecronje.medium.com/fantom-envisioning-a-zk-future-a9128f927f82?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-16T06:01:07.000Z",
-          "wordCount": 2111,
+          "wordCount": 2147,
           "title": "Fantom: envisioning a zk future",
           "imageUrl": "https://miro.medium.com/max/1050/1*L4_7q8lLz-m_1oKL9IvDsQ.jpeg"
         }
