@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-15T06:18:20.742Z</id>
+    <id>urn:2022-12-15T07:13:11.331Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-15T06:18:20.742Z</updated>
+    <updated>2022-12-15T07:13:11.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1506,16 +1506,6 @@ lender, would be the next domino to fall in the wake of FTX’s collapse.]]></su
         <summary type="html"><![CDATA[Intro]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerZero: Interoperability For All]]></title>
-        <id>https://phdcapital.substack.com/p/layerzero-interoperability-for-all</id>
-        <link href="https://phdcapital.substack.com/p/layerzero-interoperability-for-all"/>
-        <updated>2022-11-15T19:12:37.000Z</updated>
-        <summary type="html"><![CDATA[A report on the tech, problems it solves, and what's being built on top of it]]></summary>
-        <author>
-            <name>PHD Capital</name>
         </author>
     </entry>
 </feed>
