@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T09:12:56.971Z</id>
+    <id>urn:2022-12-16T10:14:38.569Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-16T09:12:56.971Z</updated>
+    <updated>2022-12-16T10:14:38.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Magic Eden Supports Polygon, Phi Live on Polygon, DEX Aggregator with No Slippage, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-magic-eden-supports</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-magic-eden-supports"/>
+        <updated>2022-12-16T09:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Magic Eden Supports Polygon NFT marketplace Magic Eden now supports buy/sell/mint Polygon NFTs. Phi Launches on Polygon Phi.xyz, a metaverse project built around ENS & wallet activities, launches Phi Land & Phi Quest on Polygon, allowing users to create lands and/or explore quests of projects.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - Vitalik Buterin]]></title>
+        <id>https://shows.banklesshq.com/p/vitalik-buterin-2023-debrief</id>
+        <link href="https://shows.banklesshq.com/p/vitalik-buterin-2023-debrief"/>
+        <updated>2022-12-16T09:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (20 min) | Debriefing the Vitalik episode]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Ethereum in 2023 with Vitalik Buterin]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-ethereum-in-2023-with</id>
+        <link href="https://shows.banklesshq.com/p/early-access-ethereum-in-2023-with"/>
+        <updated>2022-12-16T09:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (100 min) | Will it be even better than 2022?]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: SBF Arrested | Trump NFTs | Binance Bank Run | Fed Inflation | Proof of Reserves | Bored Ape Lawsuit]]></title>
         <id>https://shows.banklesshq.com/p/rollup-sbf-arrested-trump-nfts-binance</id>
@@ -1447,41 +1477,11 @@ Falling Revenue]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debrief - Is the Fed Corrupt?]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-leonard</id>
-        <link href="https://shows.banklesshq.com/p/debrief-leonard"/>
-        <updated>2022-11-21T11:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (26 min) | Debriefing the Christopher Leonard Episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - LemmaSwap Live on Optimism, Atom 2.0 Rejected, Ren 2.0 Announced, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-lemmaswap-live</id>
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-lemmaswap-live"/>
         <updated>2022-11-21T10:53:09.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Nov. 14th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpha Leak | The Bull Case for zkBTC]]></title>
-        <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-zkbtc</id>
-        <link href="https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-zkbtc"/>
-        <updated>2022-11-18T19:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (74 min) | The frontier's frontier]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Trove Supports Arbitrum Nova, Uniswap Permit2 & Universal Router, Intro to LemmaSwap, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-trove-supports-arbitrum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-trove-supports-arbitrum"/>
-        <updated>2022-11-18T10:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Trove Supports Arbitrum Nova Trove, the NFT marketplace built around TreasureDAO ecosystem, now supports GameFi projects built on Arbitrum Nova, a gaming and social app-focused L2. Uniswap Permit2 & Universal Router Uniswap launches two infrastructure contracts: Permit2 that allows token approvals to be shared and managed across dApps; Universal Router that unifies ERC20 and NFT swapping into a single swap router.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
