@@ -61,6 +61,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/markets-slide-on-hawkish-fed/",
+          "author": "Owen Fernau",
+          "description": "ECB Follows With 50bps Hike",
+          "link": "https://thedefiant.io/markets-slide-on-hawkish-fed/",
+          "publishedOn": "2022-12-16T05:04:25.000Z",
+          "wordCount": 1498,
+          "title": "Markets Slide As Fed Says Higher Rates Are Here To Stay",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16010317/image-18.png"
+        },
+        {
           "id": "https://thedefiant.io/aztec-100m-raise/",
           "author": "Aleksandar Gilbert",
           "description": "Series B Led By a16z",
@@ -1049,16 +1059,6 @@
           "wordCount": 2444,
           "title": "Loyalty NFTs Have the Power to Drive the Next Bull Run",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/29200751/LoyaltyNFTs.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/compound-caps-borrowing-levels-for-10-assets-to-reduce-risk/",
-          "author": "Owen Fernau",
-          "description": "COMP Tokenholders Vote to Limit Debt After Aave Freezes Lending Pools",
-          "link": "https://thedefiant.io/compound-caps-borrowing-levels-for-10-assets-to-reduce-risk/",
-          "publishedOn": "2022-11-29T09:31:26.000Z",
-          "wordCount": 2133,
-          "title": "Compound Caps Borrowing Levels for 10 Assets to Reduce Risk",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/29052710/CompoundLimits.jpg"
         }
       ]
     },
@@ -1416,7 +1416,7 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 2965,
+          "wordCount": 2916,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         }
