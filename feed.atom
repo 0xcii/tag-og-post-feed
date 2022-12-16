@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T07:12:23.517Z</id>
+    <id>urn:2022-12-16T08:17:15.647Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-16T07:12:23.517Z</updated>
+    <updated>2022-12-16T08:17:15.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -95,6 +95,26 @@ Cryptocurrencies]]></summary>
         <summary type="html"><![CDATA[A Step-by-Step Guide to An Important Function in DeFi]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitGo’s Mike Belshe on What’s Next for WBTC & Crypto Custodians]]></title>
+        <id>https://thedefiant.io/bitgos-mike-belshe-on-whats-next-for-wbtc-crypto-custodians-2/</id>
+        <link href="https://thedefiant.io/bitgos-mike-belshe-on-whats-next-for-wbtc-crypto-custodians-2/"/>
+        <updated>2022-12-15T07:53:10.000Z</updated>
+        <summary type="html"><![CDATA[CeFi’s Wake up Call]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Nonsense Crypto Bill From Warren]]></title>
+        <id>https://thedefiant.io/another-nonsense-crypto-bill-from-warren/</id>
+        <link href="https://thedefiant.io/another-nonsense-crypto-bill-from-warren/"/>
+        <updated>2022-12-15T07:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Warren’s War on Privacy]]></summary>
+        <author>
+            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
@@ -1287,18 +1307,6 @@ Falling Revenue]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[SPONSORED] Opolis: A Public Utility for Employment]]></title>
-        <id>https://thedefiant.io/opolis-a-public-utility-for-employment/</id>
-        <link href="https://thedefiant.io/opolis-a-public-utility-for-employment/"/>
-        <updated>2022-11-29T12:22:20.000Z</updated>
-        <summary type="html"><![CDATA[An Employment DAO providing infrastructure, shared services, and support to
-solopreneurs so they can realize sustainable freedom and flexibility in their
-independent work.]]></summary>
-        <author>
-            <name>Opolis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Aave Freezes V2 Markets, AdaSwap Live on Cardano, Trading NFT Perps, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-aave-freezes-v2-markets</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-aave-freezes-v2-markets"/>
@@ -1306,17 +1314,6 @@ independent work.]]></summary>
         <summary type="html"><![CDATA[Aave Freezes V2 Markets Aave governance has temporarily frozen 17 lending markets on V2 to fend off further liquidity attacks. Paused markets include YFI, CRV, ZRX, MANA, 1INCH, MKR, etc. AdaSwap Live on Cardano Mainnet Cardano-based DEX Adaswap is now live on mainnet, enabling trading & bridging for Cardano tokens and NFTs.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loyalty NFTs Have the Power to Drive the Next Bull Run]]></title>
-        <id>https://thedefiant.io/loyalty-nfts-have-the-power-to-drive-the-next-bull-run/</id>
-        <link href="https://thedefiant.io/loyalty-nfts-have-the-power-to-drive-the-next-bull-run/"/>
-        <updated>2022-11-29T10:40:49.000Z</updated>
-        <summary type="html"><![CDATA[Now That NFTs Have Proven Their Utility in a Very Tough Year Comes the Next
-Phase]]></summary>
-        <author>
-            <name>Huy Nguyen</name>
         </author>
     </entry>
     <entry>
