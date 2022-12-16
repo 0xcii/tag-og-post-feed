@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T22:12:54.902Z</id>
+    <id>urn:2022-12-16T23:13:11.854Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-16T22:12:54.902Z</updated>
+    <updated>2022-12-16T23:13:11.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik's Top 5 Crypto Wins of 2022]]></title>
+        <id>https://shows.banklesshq.com/p/vitaliks-top-5-crypto-wins-of-2022</id>
+        <link href="https://shows.banklesshq.com/p/vitaliks-top-5-crypto-wins-of-2022"/>
+        <updated>2022-12-16T22:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Vitalik Buterin discusses this year's silver linings and 2023's opportunities.]]></summary>
+        <author>
+            <name>Lucas Matney</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana DEX Raydium Hacked for $2.2M]]></title>
         <id>https://thedefiant.io/raydium-exploit/</id>
@@ -1464,16 +1474,6 @@ Falling Revenue]]></summary>
         <summary type="html"><![CDATA[Ren to Sunset 1.0 While working on the 2.0, Ren will sunset its 1.0 within 30 days. Ren-assets holders are recommended to redeem their assets to avoid potential damage/fund loss. rETH as DAI Collateral MakerDAO has deployed rETH (RocketPool staked ETH) as a new collateral type to generate DAI. The rETH-A vault has the min. collateral ratio of 170%, a 1.5% stability fee, and a 5m DAI debt ceiling.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[145 - Is The Fed Corrupt? with Christopher Leonard]]></title>
-        <id>https://shows.banklesshq.com/p/145-is-the-fed-corrupt-with-christopher</id>
-        <link href="https://shows.banklesshq.com/p/145-is-the-fed-corrupt-with-christopher"/>
-        <updated>2022-11-21T11:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | The Lords of Easy Money]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
     <entry>
