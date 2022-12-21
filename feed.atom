@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-21T13:19:21.352Z</id>
+    <id>urn:2022-12-21T14:13:04.569Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-21T13:19:21.352Z</updated>
+    <updated>2022-12-21T14:13:04.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - NEAR MetaMask Compatibility, Sturdy V1, Trading Perps on Solana, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility"/>
+        <updated>2022-12-21T13:52:11.000Z</updated>
+        <summary type="html"><![CDATA[NEAR MetaMask Compatibility NEAR developer Proximity Labs releases NETH, a smart contract that allows users to directly interact with NEAR dApps using their Ethereum wallets, such as MetaMask. Sturdy V1 Live Lending protocol Sturdy releases a revamped UI for 1.0, including integrated information and historical yield graphs. Sturdy also expands into the ETH market and will allow users to deposit LSDs as collateral to borrow ETH.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX Finds $1B in Hundreds of Company Bank Accounts]]></title>
         <id>https://thedefiant.io/ftx-finds-1b-in-hundreds-of-company-bank-accounts/</id>
@@ -1471,16 +1481,6 @@ Uniswap’s Treasury]]></summary>
         <summary type="html"><![CDATA[Listen now (104 min) | The Genesis & DCG Meltdown. Is the Contagion Over?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - crvUSD Whitepaper, Ankr Supports Sui, Intro to Polynomial, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-crvusd-whitepaper-ankr</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-crvusd-whitepaper-ankr"/>
-        <updated>2022-11-23T11:29:25.000Z</updated>
-        <summary type="html"><![CDATA[crvUSD Whitepaper Curve team releases the code and whitepaper for its stablecoin crvUSD. Curve stablecoin will be overcollateralized with crypto assets and will rely on the Lending-Liquidating AMM (LLAMMA) algorithm to manage potential collateralization risks.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>

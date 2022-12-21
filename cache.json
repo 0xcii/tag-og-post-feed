@@ -566,7 +566,7 @@
           "description": "A call-to-action for adopting fast, transparent & fraud-proof alternatives",
           "link": "https://thedefiant.io/the-case-for-defi-in-a-post-ftx-world-algofi/",
           "publishedOn": "2022-12-13T09:11:48.000Z",
-          "wordCount": 4595,
+          "wordCount": 4581,
           "title": "[SPONSORED] The Case for DeFi in a Post-FTX World: Algofi",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/13050636/The-Case-for-DeFi-in-a-Post-FTX-World-Algofi.png"
         },
@@ -586,7 +586,7 @@
           "description": "ETH Devs Biased?",
           "link": "https://thedefiant.io/eip-snub-criticism-riles-uniswap-founder/",
           "publishedOn": "2022-12-13T01:37:00.000Z",
-          "wordCount": 1049,
+          "wordCount": 1035,
           "title": "EIP Snub, Criticism Riles Uniswap Founder",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/13004533/EIP-Snub-Criticism-Riles-Uniswap-Founder.jpg"
         },
@@ -686,7 +686,7 @@
           "description": "Disgraced FTX CEO Commits to Testifying Before Congress",
           "link": "https://thedefiant.io/sbf-spars-with-cz/",
           "publishedOn": "2022-12-09T17:13:40.000Z",
-          "wordCount": 2005,
+          "wordCount": 1991,
           "title": "SBF Spars with CZ And Denies ‘Hunting’ Three Arrows",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09131237/SBFCZTweets.jpg"
         },
@@ -736,7 +736,7 @@
           "description": "SBF Admits FTX commingled user funds",
           "link": "https://thedefiant.io/looks-like-sbf-incriminated-himself/",
           "publishedOn": "2022-12-08T22:43:00.000Z",
-          "wordCount": 769,
+          "wordCount": 755,
           "title": "Looks Like SBF Incriminated Himself",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09085433/SBF-admits-FTX-commingled-user-funds.jpg"
         },
@@ -896,7 +896,7 @@
           "description": "Contagion Continues",
           "link": "https://thedefiant.io/mapping-the-ftx-contagion-part-2/",
           "publishedOn": "2022-12-07T07:20:11.000Z",
-          "wordCount": 706,
+          "wordCount": 692,
           "title": "Mapping the FTX Contagion: Part 2",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/08032327/Mapping-the-FTX-Contagion-Part-2-.jpeg"
         },
@@ -946,7 +946,7 @@
           "description": "5 Things That Excite Vitalik",
           "link": "https://thedefiant.io/vitaliks-top-5-crypto-use-cases/",
           "publishedOn": "2022-12-06T08:16:09.000Z",
-          "wordCount": 733,
+          "wordCount": 719,
           "title": "Vitalik’s Top 5 Crypto Use-Cases",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07042744/Vitaliks-Top-5-Crypto-Use-Cases.jpg"
         },
@@ -986,7 +986,7 @@
           "description": "Maple’s Sticky Situation",
           "link": "https://thedefiant.io/will-maple-recover-from-this/",
           "publishedOn": "2022-12-05T07:43:56.000Z",
-          "wordCount": 705,
+          "wordCount": 691,
           "title": "Will Maple recover from this?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/06034528/Will-Maple-recover-from-this.png"
         },
@@ -1406,7 +1406,7 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 2986,
+          "wordCount": 2957,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         }
@@ -1417,6 +1417,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "NEAR MetaMask Compatibility NEAR developer Proximity Labs releases NETH, a smart contract that allows users to directly interact with NEAR dApps using their Ethereum wallets, such as MetaMask. Sturdy V1 Live Lending protocol Sturdy releases a revamped UI for 1.0, including integrated information and historical yield graphs. Sturdy also expands into the ETH market and will allow users to deposit LSDs as collateral to borrow ETH.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility",
+          "publishedOn": "2022-12-21T13:52:11.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - NEAR MetaMask Compatibility, Sturdy V1, Trading Perps on Solana, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWu4PKUYAAOBsv.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWu4PKUYAAOBsv.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-fluidity-live-visa",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -1720,22 +1736,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiQ2-XUUcAE1tdH.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-crvusd-whitepaper-ankr",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "crvUSD Whitepaper Curve team releases the code and whitepaper for its stablecoin crvUSD. Curve stablecoin will be overcollateralized with crypto assets and will rely on the Lending-Liquidating AMM (LLAMMA) algorithm to manage potential collateralization risks.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-crvusd-whitepaper-ankr",
-          "publishedOn": "2022-11-23T11:29:25.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - crvUSD Whitepaper, Ankr Supports Sui, Intro to Polynomial, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiLldqZXkAAJdqw.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiLldqZXkAAJdqw.jpg"
         }
       ]
     }
