@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "PHD Capital Research",
+      "feedUrl": "https://phdcapital.substack.com/feed",
+      "siteUrl": "https://phdcapital.substack.com",
+      "articles": []
+    },
+    {
       "title": "Stories by Arthur Hayes on Medium",
       "feedUrl": "https://medium.com/feed/@cryptohayes",
       "siteUrl": "https://medium.com/@cryptohayes?source=rss-2f6e06954878------2",
@@ -21,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/white-man-5001d38a5e4e?source=rss-2f6e06954878------2",
           "publishedOn": "2022-11-26T00:02:06.000Z",
-          "wordCount": 14492,
+          "wordCount": 14418,
           "title": "White Man",
           "imageUrl": "https://miro.medium.com/max/400/0*1_HOlLXPg8wFtcms"
         }
@@ -50,7 +56,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/ftx-finds-1b-in-hundreds-of-company-bank-accounts/",
           "publishedOn": "2022-12-21T11:52:52.000Z",
-          "wordCount": 1653,
+          "wordCount": 1645,
           "title": "FTX Finds $1B in Hundreds of Company Bank Accounts",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/21054818/FTX1BCash.jpg"
         },
@@ -60,7 +66,7 @@
           "description": "New Management Corral Assets Under Bankruptcy Process as SBF Returns to U.S.",
           "link": "https://thedefiant.io/ftx-finds-1b/",
           "publishedOn": "2022-12-21T09:56:44.000Z",
-          "wordCount": 1838,
+          "wordCount": 1824,
           "title": "FTX Finds $1B in Hundreds of Company Bank Accounts",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/21054818/FTX1BCash.jpg"
         },
@@ -70,7 +76,7 @@
           "description": "Technology Revolutions Take Time to Break Through and Web3’s Promise Remains\nStrong",
           "link": "https://thedefiant.io/it-may-take-time-but-web3-is-coming-history-tells-us-so/",
           "publishedOn": "2022-12-21T09:17:10.000Z",
-          "wordCount": 2866,
+          "wordCount": 2852,
           "title": "It May Take Time But Web3 is Coming — History Tells Us So",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/21051652/WebEvolution.jpg"
         },
@@ -80,7 +86,7 @@
           "description": "New CEO Joins Yuga Labs From Activision Blizzard",
           "link": "https://thedefiant.io/apecoin-dao-administrator-vote/",
           "publishedOn": "2022-12-21T04:15:50.000Z",
-          "wordCount": 1549,
+          "wordCount": 1535,
           "title": "ApeCoin DAO Set to Cut Ties with Administrator Over Fees",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/21001446/dalegreBAYC.jpg"
         },
@@ -90,7 +96,7 @@
           "description": "Trust Crisis?",
           "link": "https://thedefiant.io/can-czs-binance-weather-the-storm/",
           "publishedOn": "2022-12-20T20:25:00.000Z",
-          "wordCount": 749,
+          "wordCount": 735,
           "title": "Can CZ’s Binance weather the storm?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/21024051/Can-CZs-Binance-weather-the-storm.jpg"
         },
@@ -100,7 +106,7 @@
           "description": "DeFi Exchange’s Deal Also Supports Credit Cards and bank Transfers",
           "link": "https://thedefiant.io/uniswap-moonpay-debit-card-fiat/",
           "publishedOn": "2022-12-20T17:23:01.000Z",
-          "wordCount": 1276,
+          "wordCount": 1262,
           "title": "Uniswap Allies With MoonPay to Bolster Debit Card Transfers",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/20060906/FIATRampUniMoon.jpg"
         },
@@ -110,7 +116,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/sushi-requires-immediate-action-to-bolster-revenue/",
           "publishedOn": "2022-12-20T13:00:42.000Z",
-          "wordCount": 2031,
+          "wordCount": 2023,
           "title": "Sushi Requires ‘Immediate Action’ to Bolster Revenue",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/19072522/SushiFeeSwitch.jpg"
         },
@@ -120,7 +126,7 @@
           "description": "Binance.US Bid to be Submitted to Bankruptcy Court for Approval",
           "link": "https://thedefiant.io/binance-affiliate-poised-to-acquire-stricken-voyager-for-1b/",
           "publishedOn": "2022-12-20T10:04:16.000Z",
-          "wordCount": 1558,
+          "wordCount": 1544,
           "title": "Binance Affiliate Poised to Acquire Stricken Voyager for $1B",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/20055926/BinanceVoyage2.jpg"
         },
@@ -130,7 +136,7 @@
           "description": "Incentivizing community-wide vote participation free from lockups",
           "link": "https://thedefiant.io/railgun-dao-pioneers-new-type-of-governance-incentives/",
           "publishedOn": "2022-12-20T08:45:56.000Z",
-          "wordCount": 2326,
+          "wordCount": 2312,
           "title": "[SPONSORED] RAILGUN DAO Pioneers New Type of Governance Incentives",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/20042946/RAILGUN-DAO-Pioneers-New-Type-of-Governance-Incentives.png"
         },
@@ -140,7 +146,7 @@
           "description": "CEO Expects Court Decision Early Next Year",
           "link": "https://thedefiant.io/grayscale-plan-b-tender-offer/",
           "publishedOn": "2022-12-20T03:51:19.000Z",
-          "wordCount": 1458,
+          "wordCount": 1444,
           "title": "Grayscale To Consider Tender Offer If ETF Conversion Fails",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/19235002/GBTCSEC.jpg"
         },
@@ -150,7 +156,7 @@
           "description": "Andreessen Undeterred by Regulatory Threats as His Firm Leads $100M Round in\n‘VPN for Ethereum’",
           "link": "https://thedefiant.io/aztec-founders-talk-100m-raise/",
           "publishedOn": "2022-12-20T02:32:37.000Z",
-          "wordCount": 2627,
+          "wordCount": 2613,
           "title": "Aztec Bets Financial Privacy Will Weather ‘Crypto War’",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/19223049/AztecFollowUp.jpg"
         },
@@ -160,7 +166,7 @@
           "description": "Payments Giant Chooses StarkNet For Proposed Implementation",
           "link": "https://thedefiant.io/visa-autopayments-self-custody/",
           "publishedOn": "2022-12-20T02:26:02.000Z",
-          "wordCount": 1438,
+          "wordCount": 1424,
           "title": "Visa Unveils Plans For Auto-Payments From Self-Custodied Wallets",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/19222510/VISAExploresBlockchainTechForAutomatedPayments.jpg"
         },
@@ -170,7 +176,7 @@
           "description": "Tender Offer?",
           "link": "https://thedefiant.io/grayscales-got-a-plan/",
           "publishedOn": "2022-12-20T01:03:00.000Z",
-          "wordCount": 955,
+          "wordCount": 941,
           "title": "Grayscale’s Got a Plan",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/20000504/Grayscales-Got-a-Plan.jpg"
         },
@@ -180,7 +186,7 @@
           "description": "Swap Multiple Tokens With Zero Slippage Using Bebop",
           "link": "https://thedefiant.io/defi-alpha-shapeshift-bonds-arbor-finance/",
           "publishedOn": "2022-12-19T16:50:55.000Z",
-          "wordCount": 462,
+          "wordCount": 454,
           "title": "⍺ DeFi Alpha: Earn 20% YTM with a Shapeshift Bond on Arbor Finance",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         },
@@ -190,7 +196,7 @@
           "description": "Head Chef Grey Proposes Diverting Transaction Fees to Treasury From Stakers",
           "link": "https://thedefiant.io/sushi-proposal-debate-revenue-hot-water/",
           "publishedOn": "2022-12-19T11:34:19.000Z",
-          "wordCount": 2487,
+          "wordCount": 2473,
           "title": "Sushi Requires ‘Immediate Action’ To Bolster Revenue",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/19072522/SushiFeeSwitch.jpg"
         },
@@ -200,7 +206,7 @@
           "description": "Hello Defiers! Happy weekend!",
           "link": "https://thedefiant.io/recap-defi-week-dec-11/",
           "publishedOn": "2022-12-18T16:46:40.000Z",
-          "wordCount": 436,
+          "wordCount": 428,
           "title": "Recap: DeFi Week Dec. 11",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16063451/newsletter_thumbnails-01-1-scaled.webp"
         },
@@ -220,7 +226,7 @@
           "description": "ENS Domain To Be Redirected To Community-Built Interface",
           "link": "https://thedefiant.io/tornado-dao-passes-first-proposal-since-sanctions/",
           "publishedOn": "2022-12-17T05:25:11.000Z",
-          "wordCount": 1678,
+          "wordCount": 1664,
           "title": "Tornado Cash Passes First Governance Proposal Since Sanctions",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/17012357/TCForVote.jpg"
         },
@@ -230,7 +236,7 @@
           "description": "Protocol’s Admin Keys Likely Compromised",
           "link": "https://thedefiant.io/raydium-exploit/",
           "publishedOn": "2022-12-16T18:36:26.000Z",
-          "wordCount": 996,
+          "wordCount": 982,
           "title": "Solana DEX Raydium Hacked for $2.2M",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16143617/RaydiumHACKED.jpg"
         },
@@ -240,7 +246,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/markets-slide-as-fed-says-higher-rates-are-here-to-stay/",
           "publishedOn": "2022-12-16T13:44:15.000Z",
-          "wordCount": 1926,
+          "wordCount": 1918,
           "title": "Markets Slide as Fed Says Higher Rates Are Here to Stay",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16010317/image-18.png"
         },
@@ -250,7 +256,7 @@
           "description": "Blur Airdrop Farmers Boost Trading Volumes",
           "link": "https://thedefiant.io/trump-nfts/",
           "publishedOn": "2022-12-16T08:32:16.000Z",
-          "wordCount": 1358,
+          "wordCount": 1344,
           "title": "Trump Drops Self-Styled NFT Trading Cards",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16042412/TrumpNFTs2.jpg"
         },
@@ -260,7 +266,7 @@
           "description": "",
           "link": "https://thedefiant.io/sbf-arrested-cz-under-investigation/",
           "publishedOn": "2022-12-16T05:30:50.000Z",
-          "wordCount": 590,
+          "wordCount": 576,
           "title": "SBF Arrested; CZ Under Investigation",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/17013438/SBF-Arrested-CZ-Under-Investigation.jpg"
         },
@@ -270,7 +276,7 @@
           "description": "ECB Follows With 50bps Hike",
           "link": "https://thedefiant.io/markets-slide-on-hawkish-fed/",
           "publishedOn": "2022-12-16T05:04:25.000Z",
-          "wordCount": 1445,
+          "wordCount": 1431,
           "title": "Markets Slide As Fed Says Higher Rates Are Here To Stay",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16010317/image-18.png"
         },
@@ -280,7 +286,7 @@
           "description": "VCs Make Big Bet on VPN Player as Regulatory Risk Rises",
           "link": "https://thedefiant.io/aztec-100m-raise/",
           "publishedOn": "2022-12-16T03:22:50.000Z",
-          "wordCount": 2060,
+          "wordCount": 2046,
           "title": "Privacy Protocol Aztec Raises $100M",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15232203/Aztec100MRaise.jpg"
         },
@@ -290,7 +296,7 @@
           "description": "Users Will Be Able To Withdraw Almost 4,000 Trapped ERC-20 Tokens",
           "link": "https://thedefiant.io/coinbase-token-recovery-tool/",
           "publishedOn": "2022-12-15T20:04:49.000Z",
-          "wordCount": 1170,
+          "wordCount": 1156,
           "title": "Coinbase Unveils Recovery Tool For Unsupported Assets",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15160350/image-17.png"
         },
@@ -300,7 +306,7 @@
           "description": "This week on The Defiant Podcast, we speak with Mike Belshe, the CEO of BitGo, a\ndigital asset custodian, wallet, and issuer of wrapped Bitcoin (WBTC).",
           "link": "https://thedefiant.io/bitgos-mike-belshe-on-whats-next-for-wbtc-crypto-custodians/",
           "publishedOn": "2022-12-15T19:05:58.000Z",
-          "wordCount": 526,
+          "wordCount": 518,
           "title": "BitGo’s Mike Belshe on What’s Next for WBTC & Crypto Custodians",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15144652/MikeBelshe169.jpg"
         },
@@ -310,7 +316,7 @@
           "description": "Hello Defiers! This is what we are covering today!",
           "link": "https://thedefiant.io/warren-marshall-bill-assailed-as-direct-attack-on-crypto-users/",
           "publishedOn": "2022-12-15T14:02:34.000Z",
-          "wordCount": 2142,
+          "wordCount": 2134,
           "title": "Warren-Marshall Bill Assailed as ‘Direct Attack’ on Crypto Users",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15102807/WarrenMarshallBill.jpg"
         },
@@ -320,7 +326,7 @@
           "description": "Senators Say Law is Needed to Curb Money Laundering and Criminal Use of\nCryptocurrencies",
           "link": "https://thedefiant.io/warren-crypto-bill-direct-attack/",
           "publishedOn": "2022-12-15T10:21:32.000Z",
-          "wordCount": 2574,
+          "wordCount": 2560,
           "title": "Warren-Marshall Bill Assailed as a ‘Direct Attack’ on Crypto Users",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15102807/WarrenMarshallBill.jpg"
         },
@@ -330,7 +336,7 @@
           "description": "Staking Mechanism Seeks to Spur Interest in Yuga Collections — Is it Working?",
           "link": "https://thedefiant.io/apecoin-staking-bored-ape/",
           "publishedOn": "2022-12-15T08:55:54.000Z",
-          "wordCount": 2656,
+          "wordCount": 2642,
           "title": "An On-Chain Look Into The ApeCoin Staking Launch",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15045547/ItBApeStaking.jpg"
         },
@@ -340,7 +346,7 @@
           "description": "A Step-by-Step Guide to An Important Function in DeFi",
           "link": "https://thedefiant.io/what-are-swap-rates/",
           "publishedOn": "2022-12-15T08:55:01.000Z",
-          "wordCount": 3165,
+          "wordCount": 3151,
           "title": "What are Swap Rates?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14135133/WhatAreSwapRates.jpg"
         },
@@ -350,7 +356,7 @@
           "description": "CeFi’s Wake up Call",
           "link": "https://thedefiant.io/bitgos-mike-belshe-on-whats-next-for-wbtc-crypto-custodians-2/",
           "publishedOn": "2022-12-15T07:53:10.000Z",
-          "wordCount": 821,
+          "wordCount": 807,
           "title": "BitGo’s Mike Belshe on What’s Next for WBTC & Crypto Custodians",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16035517/BitGos-Mike-Belshe-on-Whats-Next-for-WBTC-Crypto-Custodians.jpg"
         },
@@ -360,7 +366,7 @@
           "description": "Warren’s War on Privacy",
           "link": "https://thedefiant.io/another-nonsense-crypto-bill-from-warren/",
           "publishedOn": "2022-12-15T07:40:21.000Z",
-          "wordCount": 783,
+          "wordCount": 769,
           "title": "Another Nonsense Crypto Bill From Warren",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16065543/Warrens-war-on-privacy.jpg"
         },
@@ -370,7 +376,7 @@
           "description": "This is a recap of our latest DeFi Alpha Call that took place on 12/12/2022 in\nDiscord.",
           "link": "https://thedefiant.io/defi-alpha-call-31/",
           "publishedOn": "2022-12-15T05:19:19.000Z",
-          "wordCount": 414,
+          "wordCount": 406,
           "title": "DeFi Alpha Call #31",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/30125501/DeFiAlphaCall_test.png"
         },
@@ -380,7 +386,7 @@
           "description": "Move Enables US Users To Easily Access Web3",
           "link": "https://thedefiant.io/metamask-paypal-integration/",
           "publishedOn": "2022-12-15T05:04:12.000Z",
-          "wordCount": 1443,
+          "wordCount": 1429,
           "title": "MetaMask Launches PayPal Integration For ETH Purchases",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15010209/PaypalMMEth.jpg"
         },
@@ -390,7 +396,7 @@
           "description": "Fractional Owners Can Mint NFT Derivatives, Claim Airdrops and Participate in\nGovernance",
           "link": "https://thedefiant.io/partybid-v2/",
           "publishedOn": "2022-12-15T04:40:10.000Z",
-          "wordCount": 1541,
+          "wordCount": 1527,
           "title": "PartyBid V2 Unlocks Community Control of NFTs",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16130352/PartyV2.jpg"
         },
@@ -400,7 +406,7 @@
           "description": "San Francisco, USA, 13th December, 2022, Chainwire Azarus will be hosting a\nkeynote stream in partnership with Animoca Brands at 7am UTC on Wednesday,\nDecember 14th (11pm PST on Tuesday, December 13th) to reveal the imminent\nlisting on Uniswap of the AzaCoin, an ERC-20 Token on Ethereum Mainnet, which\nwill list on Uniswap on January […]",
           "link": "https://thedefiant.io/gaming-platform-azarus-to-list-on-uniswap-onramps-multi-million-streaming-audience-to-blockchain/",
           "publishedOn": "2022-12-14T17:32:44.000Z",
-          "wordCount": 2020,
+          "wordCount": 2006,
           "title": "Gaming Platform Azarus to list on Uniswap – onramps multi-million streaming audience to blockchain",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/13121126/twitch_announcement_1670884043f6phcNOdNV.jpeg"
         },
@@ -410,7 +416,7 @@
           "description": "Hong Kong, Hong Kong, 13th December, 2022, Chainwire Platypus Finance is\nlaunching USP, a protocol-native stablecoin. USP’s deployment has emerged from\nPlatypus’ goal of improving capital efficiency for its users. USP also resolves\nlong-running collateral issues associated with stablecoins. The native Platypus\nFinance stablecoin has been designed to reduce the liquidity fragmentation and\nscattered assets […]",
           "link": "https://thedefiant.io/platypus-launches-native-stablecoin-usp/",
           "publishedOn": "2022-12-14T16:06:30.000Z",
-          "wordCount": 1580,
+          "wordCount": 1566,
           "title": "Platypus Launches Native Stablecoin USP",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14120631/USPlaunvh_16705826432Lx6OmXkbs.jpg"
         },
@@ -420,7 +426,7 @@
           "description": "Singapore, Singapore, 12th December, 2022, Chainwire BinaryX launches a new\n220,000 BNX Cyber Incubation Fund, aimed at driving the growth and adoption of\nWeb3 games.  The fund, supported by the project team, seed investors and members\nof the BNX community, will be used to invest in on-chain gaming projects that\nutilize or are experimenting with […]",
           "link": "https://thedefiant.io/binaryx-introduces-cyber-incubation-fund-to-support-blockchain-games/",
           "publishedOn": "2022-12-14T15:37:30.000Z",
-          "wordCount": 1851,
+          "wordCount": 1837,
           "title": "BinaryX Introduces Cyber Incubation Fund to Support Blockchain Games",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14113730/Cyber-Incubation-Fund2_1670823708nEWjGmPJJJ.jpg"
         },
@@ -430,7 +436,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/ftx-ceo-blames-exchanges-collapse-on-sbfs-mismanagement/",
           "publishedOn": "2022-12-14T13:00:55.000Z",
-          "wordCount": 2238,
+          "wordCount": 2230,
           "title": "FTX CEO Blames Exchange’s Collapse on SBF’s Mismanagement",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14010902/RayTestifies.jpg"
         },
@@ -440,7 +446,7 @@
           "description": "DEX’s Members Vote to Make Peace with Investor in Duel Over VE Tokenomics",
           "link": "https://thedefiant.io/balancer-ve-tokenomics-whale/",
           "publishedOn": "2022-12-14T09:35:09.000Z",
-          "wordCount": 2465,
+          "wordCount": 2451,
           "title": "Balancer Ends Long Governance Battle With Whale",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14052736/BalancerVWhale.jpg"
         },
@@ -450,7 +456,7 @@
           "description": "A Step-by-Step Guide to How These Crucial Projects Work",
           "link": "https://thedefiant.io/what-are-defi-protocols/",
           "publishedOn": "2022-12-14T09:26:04.000Z",
-          "wordCount": 3392,
+          "wordCount": 3378,
           "title": "What are DeFi Protocols?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14051820/WhatAreDeFiProtocols.jpg"
         },
@@ -460,7 +466,7 @@
           "description": "Fraud. Conspiracy. Money Laundering. Quickbooks.",
           "link": "https://thedefiant.io/prosecutors-throw-everything-theyve-got-at-sbf-hint-theres-more-to-come/",
           "publishedOn": "2022-12-14T09:07:20.000Z",
-          "wordCount": 1057,
+          "wordCount": 1043,
           "title": "Prosecutors Throw Everything They’ve got at SBF, Hint There’s More to Come",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15050956/Prosecutors-Throw-Everything-Theyve-got-at-SBF-Hint-Theres-More-to-Come-.jpeg"
         },
@@ -470,7 +476,7 @@
           "description": "MetaDEX Aggregator Has Facilitated Over $18B In Trades",
           "link": "https://thedefiant.io/cowswap-limit-orders/",
           "publishedOn": "2022-12-14T06:23:49.000Z",
-          "wordCount": 1570,
+          "wordCount": 1556,
           "title": "CowSwap Launches ‘Surplus-Capturing’ Limit Orders",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14022311/CowSwapLimit2.jpg"
         },
@@ -480,7 +486,7 @@
           "description": "“Old-fashioned Embezzlement,” John Ray Tells Congress",
           "link": "https://thedefiant.io/ftx-ceo-john-ray-congress/",
           "publishedOn": "2022-12-14T05:10:23.000Z",
-          "wordCount": 2555,
+          "wordCount": 2541,
           "title": "FTX CEO Blames Exchange’s Collapse on SBF’s Mismanagement",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14010902/RayTestifies.jpg"
         },
@@ -490,7 +496,7 @@
           "description": "Binance next?",
           "link": "https://thedefiant.io/is-binance-the-next-crypto-giant-to-fall/",
           "publishedOn": "2022-12-13T19:44:00.000Z",
-          "wordCount": 801,
+          "wordCount": 787,
           "title": "Is Binance the next crypto giant to fall?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14034559/Is-Binance-the-next-crypto-giant-to-fall.jpg"
         },
@@ -500,7 +506,7 @@
           "description": "Bitcoin and Ether Surge To 4-Week Highs",
           "link": "https://thedefiant.io/markets-rally-as-inflation-cools/",
           "publishedOn": "2022-12-13T17:21:04.000Z",
-          "wordCount": 1280,
+          "wordCount": 1266,
           "title": "Markets Rally Ahead Of Fed As US Inflation Cools",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/13132058/MarketsRallyInflationCools.jpg"
         },
@@ -510,7 +516,7 @@
           "description": "Bankman-Fried Charged with Fraud and Conspiracy by Three U.S. Authorities",
           "link": "https://thedefiant.io/feds-accuse-sbf-of-plundering-billions-in-client-assets-to-save-alameda/",
           "publishedOn": "2022-12-13T15:45:18.000Z",
-          "wordCount": 2225,
+          "wordCount": 2211,
           "title": "Feds Accuse SBF of Plundering ‘Billions’ in Client Assets to Save Alameda",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/13133411/PlunderedBillionsToSaveAlameda.jpg"
         },
@@ -520,7 +526,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/sbf-to-face-u-s-charges-as-ray-prepares-to-share-autopsy-of-ftx-2/",
           "publishedOn": "2022-12-13T13:30:12.000Z",
-          "wordCount": 2761,
+          "wordCount": 2753,
           "title": "SBF to Face U.S. Charges as Ray Prepares Autopsy of FTX",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/12203647/SBF-Arrested.jpeg"
         },
@@ -530,7 +536,7 @@
           "description": "Adams Says EIP 1153 Hits ‘Perfect Sweet Spot’ as Critics Argue it Favors DEX",
           "link": "https://thedefiant.io/adams-dispute-ethereum-upgrade-uniswap/",
           "publishedOn": "2022-12-13T11:37:46.000Z",
-          "wordCount": 2466,
+          "wordCount": 2452,
           "title": "Uniswap’s Adams Fires Back at Opponents of  His Support for Ethereum Upgrade",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/13072747/UniEthACDDecisions.jpg"
         },
@@ -540,7 +546,7 @@
           "description": "Onetime Darling of 2021 GameFi Market Returns with Overworld in Beta for 30,000\nGamers",
           "link": "https://thedefiant.io/illuviums-new-offering-buoys-web3-gaming/",
           "publishedOn": "2022-12-13T10:08:58.000Z",
-          "wordCount": 1643,
+          "wordCount": 1629,
           "title": "Illuvium’s New Offering Buoys Web3 Gaming",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/13060519/IlluvOverworld.jpg"
         },
@@ -550,7 +556,7 @@
           "description": "Prosecutors to Unseal Indictment on Same Day CEO to Tell Congress What Went\nWrong at Exchange",
           "link": "https://thedefiant.io/sbf-to-face-u-s-charges-as-ray-prepares-to-share-autopsy-of-ftx/",
           "publishedOn": "2022-12-13T09:54:56.000Z",
-          "wordCount": 1788,
+          "wordCount": 1774,
           "title": "SBF to Face U.S. Charges as Ray Prepares to Share Autopsy of FTX",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/12203647/SBF-Arrested.jpeg"
         },
@@ -570,7 +576,7 @@
           "description": "Investors Pull Assets From Binance As Allegations Fly",
           "link": "https://thedefiant.io/binance-doj-charges/",
           "publishedOn": "2022-12-13T05:01:08.000Z",
-          "wordCount": 1674,
+          "wordCount": 1660,
           "title": "Binance Could Face Criminal Charges From U.S. Department of Justice",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/13005957/BinanceFUD.jpg"
         },
@@ -590,7 +596,7 @@
           "description": "Hello Defiers! Here’s what we covered this week!",
           "link": "https://thedefiant.io/recap-defi-week-dec-4/",
           "publishedOn": "2022-12-11T15:17:20.000Z",
-          "wordCount": 468,
+          "wordCount": 460,
           "title": "Recap: DeFi Week Dec. 4",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124904/newsletter_thumbnails-01-1.png"
         },
@@ -600,7 +606,7 @@
           "description": "Using ZetaChain for a Potential Airdrop",
           "link": "https://thedefiant.io/defi-alpha-earn-yield-staked-eth-balancer/",
           "publishedOn": "2022-12-11T06:30:14.000Z",
-          "wordCount": 454,
+          "wordCount": 446,
           "title": "⍺ DeFi Alpha: Earn 54% APR as a Staked ETH LP on Balancer",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         },
@@ -610,7 +616,7 @@
           "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content\nplatforms. Sometimes announcements here didn’t meet the bar to become a news\nstory, sometimes they may have slipped through the cracks, or they came late and\nwe haven’t had a chance to […]",
           "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-80/",
           "publishedOn": "2022-12-10T17:27:51.000Z",
-          "wordCount": 611,
+          "wordCount": 603,
           "title": "📬 Inbox Dump #80",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
         },
@@ -620,7 +626,7 @@
           "description": "In August, just a few months ago on these very streets in Amsterdam, armed\nagents from the Fiscal Information and Investigation service (FIOD) suddenly\narrested a man by the name of Alexey Pertsev…much to his own surprise. We do not\nyet know all the details surrounding his arrest, but what we do know is that […]",
           "link": "https://thedefiant.io/the-war-on-code/",
           "publishedOn": "2022-12-10T16:00:00.000Z",
-          "wordCount": 1616,
+          "wordCount": 1602,
           "title": "The War On Code: Investigating the Tornado Cash Sanctions and the Arrest of Alexey Pertsev",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/11130555/The-War-On-Code-Investigating-the-Tornado-Cash-Sanctions-and-the-Arrest-of-Alexey-Pertsev.jpeg"
         },
@@ -630,7 +636,7 @@
           "description": "DEFG Tracks A Basket Of UNI, AAVE, MKR, CRV and COMP",
           "link": "https://thedefiant.io/grayscale-defi-fund/",
           "publishedOn": "2022-12-10T04:55:48.000Z",
-          "wordCount": 1017,
+          "wordCount": 1003,
           "title": "Grayscale DeFi Fund Starts Trading",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/10005441/GrayscaleDeFiFund.jpg"
         },
@@ -640,7 +646,7 @@
           "description": "Manifold Releases Marketplace Blocker",
           "link": "https://thedefiant.io/opensea-cori/",
           "publishedOn": "2022-12-10T04:43:31.000Z",
-          "wordCount": 1382,
+          "wordCount": 1368,
           "title": "OpenSea To Transfer Control Of Royalty Enforcement Tool to Industry Collective",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/10004230/OSCori.jpg"
         },
@@ -650,7 +656,7 @@
           "description": "SEC Chair Calls Crypto Exchanges ‘Casinos’",
           "link": "https://thedefiant.io/gensler-crypto-exchanges-casinos/",
           "publishedOn": "2022-12-09T20:40:53.000Z",
-          "wordCount": 2013,
+          "wordCount": 1999,
           "title": "The Runway is Getting Shorter : Gensler",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09163952/GenslerSpeaks.jpg"
         },
@@ -660,7 +666,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/bad-debt-piles-up-at-defi-lending-protocols/",
           "publishedOn": "2022-12-09T19:08:37.000Z",
-          "wordCount": 2245,
+          "wordCount": 2237,
           "title": "Bad Debt Piles Up at DeFi Lending Protocols",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09052047/BADDEBT.jpg"
         },
@@ -670,7 +676,7 @@
           "description": "Aave, MakerDAO, Compound and Yearn Seek Partnerships as DeFi Shifts into Next\nPhase",
           "link": "https://thedefiant.io/defi-stalwarts-explore-tie-ups-to-weather-bear-market-and-ftx-fallout/",
           "publishedOn": "2022-12-09T19:03:07.000Z",
-          "wordCount": 1860,
+          "wordCount": 1846,
           "title": "DeFi Stalwarts Explore Tie-Ups to Weather Bear Market and FTX Fallout",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09145517/DeFiBandsTogether.jpeg"
         },
@@ -690,7 +696,7 @@
           "description": "This week on The Defiant Podcast, Tegan Kline speaks with Sam Williams, the\nco-founder and CEO of Arweave, a ‘collectively owned hard drive’ that enables\nusers to store data, applications, and documents on-chain, forever.",
           "link": "https://thedefiant.io/arweaves-sam-williams-on-storing-files-on-chain-for-eternity/",
           "publishedOn": "2022-12-09T15:43:10.000Z",
-          "wordCount": 567,
+          "wordCount": 559,
           "title": "Arweave’s Sam Williams on Storing Files On-Chain for Eternity",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/08234213/Sam-Williams-On-Storing-Files-On-Chain-For-Eternity.jpg"
         },
@@ -700,7 +706,7 @@
           "description": "Venus Protocol and Iron Bank Incur Eight-Digit Liabilities as MakerDAO Keeps a\nClean Sheet",
           "link": "https://thedefiant.io/bad-debt-defi-protocols/",
           "publishedOn": "2022-12-09T09:41:23.000Z",
-          "wordCount": 1798,
+          "wordCount": 1784,
           "title": "Bad Debt Piles up at DeFi Lending Protocols",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09052047/BADDEBT.jpg"
         },
@@ -710,7 +716,7 @@
           "description": "A Primer for One of the Most Popular Practices in DeFi",
           "link": "https://thedefiant.io/what-is-defi-borrowing/",
           "publishedOn": "2022-12-09T09:13:12.000Z",
-          "wordCount": 3294,
+          "wordCount": 3280,
           "title": "What is DeFi Borrowing?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/12160020/WhatIsDefiBorrowing.jpg"
         },
@@ -720,7 +726,7 @@
           "description": "Exchange Takes Aim At Tether With Emphasis On ‘Stability and Trust’",
           "link": "https://thedefiant.io/coinbase-free-swaps-usdt-to-usdc/",
           "publishedOn": "2022-12-09T04:49:09.000Z",
-          "wordCount": 1096,
+          "wordCount": 1082,
           "title": "Coinbase Offers Free Trades from USDT to USDC",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09004903/USDTtoUSDC.jpg"
         },
@@ -740,7 +746,7 @@
           "description": "Store Data Forever",
           "link": "https://thedefiant.io/sam-williams-on-storing-files-on-chain-for-eternity/",
           "publishedOn": "2022-12-08T17:39:00.000Z",
-          "wordCount": 784,
+          "wordCount": 770,
           "title": "Sam Williams On Storing Files On-Chain For Eternity",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/08234213/Sam-Williams-On-Storing-Files-On-Chain-For-Eternity.jpg"
         },
@@ -750,7 +756,7 @@
           "description": "Hello Defiers! Here’s what we’re covering today!",
           "link": "https://thedefiant.io/ethereum-devs-delay-surge-and-prioritize-staked-eth-withdrawals/",
           "publishedOn": "2022-12-08T12:36:12.000Z",
-          "wordCount": 2058,
+          "wordCount": 2050,
           "title": "Ethereum Devs Delay Surge and Prioritize Staked ETH Withdrawals",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/08050655/ETHWithdrawals.jpg"
         },
@@ -760,7 +766,7 @@
           "description": "Layer 1 Will Be the First Blockchain After Ethereum to Adopt New Consensus\nMechanism",
           "link": "https://thedefiant.io/gnosis-to-execute-its-own-merge-in-shift-to-pos/",
           "publishedOn": "2022-12-08T09:59:51.000Z",
-          "wordCount": 1798,
+          "wordCount": 1784,
           "title": "Gnosis Executes Its Own Merge in Shift to PoS in Boost for Staking",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/08055032/GnosisMerge.jpg"
         },
@@ -770,7 +776,7 @@
           "description": "Ethereum to Set Window for Withdrawals as Shanghai Upgrade Takes Shape",
           "link": "https://thedefiant.io/surge-staked-eth-withdrawals/",
           "publishedOn": "2022-12-08T09:31:10.000Z",
-          "wordCount": 1646,
+          "wordCount": 1632,
           "title": "Ethereum Devs Opt to Delay Surge and Prioritize Staked ETH Withdrawals",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/08050655/ETHWithdrawals.jpg"
         },
@@ -780,7 +786,7 @@
           "description": "A Step-by-Step Guide to the Solana-based Lender",
           "link": "https://thedefiant.io/what-is-solend/",
           "publishedOn": "2022-12-08T08:56:24.000Z",
-          "wordCount": 3140,
+          "wordCount": 3126,
           "title": "What is Solend?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07045341/WhatIsSolend.jpg"
         },
@@ -790,7 +796,7 @@
           "description": "Pitfalls of CeFi Intermediaries on Vivid Display in SBF’s Fiasco",
           "link": "https://thedefiant.io/power-of-self-custody-is-the-takeaway-from-ftx/",
           "publishedOn": "2022-12-08T08:54:51.000Z",
-          "wordCount": 2125,
+          "wordCount": 2111,
           "title": "Power of Self-Custody is the Takeaway from FTX",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07132756/LessonsLearned_FTX.jpg"
         },
@@ -800,7 +806,7 @@
           "description": "This is a recap of our latest DeFi Alpha Call that took place on 12/05/2022 in\nDiscord.",
           "link": "https://thedefiant.io/defi-alpha-call-30/",
           "publishedOn": "2022-12-07T19:05:25.000Z",
-          "wordCount": 427,
+          "wordCount": 419,
           "title": "DeFi Alpha Call #30",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/30125501/DeFiAlphaCall_test.png"
         },
@@ -810,7 +816,7 @@
           "description": "USDC Issuer Was Valued At $9B In February",
           "link": "https://thedefiant.io/circle-abandons-spac-ipo/",
           "publishedOn": "2022-12-07T17:00:18.000Z",
-          "wordCount": 1363,
+          "wordCount": 1349,
           "title": "Circle Abandons IPO Plans",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07125854/CircleSPACMergerDealTerminated.jpg"
         },
@@ -820,7 +826,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/amber-group-denies-allegations-of-insolvency/",
           "publishedOn": "2022-12-07T13:03:32.000Z",
-          "wordCount": 2785,
+          "wordCount": 2777,
           "title": "Amber Group Denies Allegations of Insolvency",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/06233724/AmberRekt.jpg"
         },
@@ -830,7 +836,7 @@
           "description": "Ethereum’s Chief Scientist Predicts Stablecoins Will Split Into Three Groups",
           "link": "https://thedefiant.io/vitalik-urges-defi-to-embrace-real-world-assets/",
           "publishedOn": "2022-12-07T11:37:12.000Z",
-          "wordCount": 1905,
+          "wordCount": 1891,
           "title": "Vitalik Urges DeFi to Embrace Real World Assets",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/06054612/VitalikEthExciting.jpg"
         },
@@ -840,7 +846,7 @@
           "description": "Fundraising is Down 24% But Decentralized Sector Holding Its Own in Harsh Year",
           "link": "https://thedefiant.io/defi-and-web3-startups-attract-3b-in-funding-in-third-quarter/",
           "publishedOn": "2022-12-07T10:20:17.000Z",
-          "wordCount": 1374,
+          "wordCount": 1360,
           "title": "DeFi and Web3 Startups Attract $3B in Funding in Third Quarter",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07061634/fundraisingtotalsdeclining.jpg"
         },
@@ -850,7 +856,7 @@
           "description": "NFT Collectors Pile Into Pudgy Penguins After Art Basel",
           "link": "https://thedefiant.io/apecoin-holders-pre-stake-34m-ahead-of-rewards-launch/",
           "publishedOn": "2022-12-07T09:29:27.000Z",
-          "wordCount": 1741,
+          "wordCount": 1727,
           "title": "ApeCoin Holders Pre-stake $34M Ahead Of Rewards Launch",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07051957/NFTRoundupArtBasel.jpg"
         },
@@ -860,7 +866,7 @@
           "description": "A Step-by-Step Guide to the Collapse of the Crypto Exchange",
           "link": "https://thedefiant.io/what-happened-at-ftx/",
           "publishedOn": "2022-12-07T08:50:54.000Z",
-          "wordCount": 3762,
+          "wordCount": 3748,
           "title": "What Happened at FTX?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07044909/WhatHappenedAtFTX.jpg"
         },
@@ -870,7 +876,7 @@
           "description": "The Internet, Broadband, Mobile Computing… Sweeping Change Takes Time and the\nMetaverse Will be No Different",
           "link": "https://thedefiant.io/forget-the-snickering-heres-why-the-metaverse-will-prevail/",
           "publishedOn": "2022-12-07T08:48:05.000Z",
-          "wordCount": 3015,
+          "wordCount": 3001,
           "title": "Forget the Snickering… Here’s Why the Metaverse Will Prevail",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07044225/MetaverseWillPrevail2.jpg"
         },
@@ -880,7 +886,7 @@
           "description": "Web3 Oracle Provider Offers Tokenholders Native Yields for First Time",
           "link": "https://thedefiant.io/chainlink-launches-staking-service-as-link-rallies-32/",
           "publishedOn": "2022-12-07T08:38:26.000Z",
-          "wordCount": 1908,
+          "wordCount": 1894,
           "title": "Chainlink Launches Staking Service as LINK Rallies 32%",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/06061252/ChainLinkStaking.jpg"
         },
@@ -890,7 +896,7 @@
           "description": "Contagion Continues",
           "link": "https://thedefiant.io/mapping-the-ftx-contagion-part-2/",
           "publishedOn": "2022-12-07T07:20:11.000Z",
-          "wordCount": 706,
+          "wordCount": 692,
           "title": "Mapping the FTX Contagion: Part 2",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/08032327/Mapping-the-FTX-Contagion-Part-2-.jpeg"
         },
@@ -900,7 +906,7 @@
           "description": "On-chain Data Shows $11M In Assets at Trading Firm",
           "link": "https://thedefiant.io/amber-group-denies-insolvency-claims/",
           "publishedOn": "2022-12-07T03:38:09.000Z",
-          "wordCount": 1307,
+          "wordCount": 1293,
           "title": "Amber Group Denies Allegations Of Insolvency",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/06233724/AmberRekt.jpg"
         },
@@ -910,7 +916,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-debates-dao-governance-after-vitaliks-critique/",
           "publishedOn": "2022-12-06T13:38:14.000Z",
-          "wordCount": 2555,
+          "wordCount": 2547,
           "title": "DeFi Debates DAO Governance After Vitalik’s Critique",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193956/VitalikFutureOfFrance.jpg"
         },
@@ -930,7 +936,7 @@
           "description": "Sound Records Heavy Minting Action in Last Two Months",
           "link": "https://thedefiant.io/mints-double-at-music-nft-platform-as-collectors-shrug-off-bear-market/",
           "publishedOn": "2022-12-06T08:22:29.000Z",
-          "wordCount": 1838,
+          "wordCount": 1824,
           "title": "Mints Double at Music NFT Platform as Collectors Shrug Off Bear Market",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/06041201/SoundNFTsHitHigh.jpg"
         },
@@ -950,7 +956,7 @@
           "description": "Teneo Says Hedge Fund Founders Are Uncooperative as It Corrals Assets for\nCreditors",
           "link": "https://thedefiant.io/three-arrows-yacht-creditors-liquidation/",
           "publishedOn": "2022-12-06T08:07:20.000Z",
-          "wordCount": 1761,
+          "wordCount": 1747,
           "title": "Three Arrows Liquidators Target $30M Yacht in Hunt for Assets",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/06040144/3ACFiling.jpg"
         },
@@ -960,7 +966,7 @@
           "description": "Maple Finance and M11 Credit Allege Firm Misrepresented Financial Position",
           "link": "https://thedefiant.io/orthogonal-rekt-ftx-exposure/",
           "publishedOn": "2022-12-06T05:01:29.000Z",
-          "wordCount": 1716,
+          "wordCount": 1702,
           "title": "Orthogonal Trading Misses $10M Loan Payment",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/06010017/OrthoREKT.jpg"
         },
@@ -970,7 +976,7 @@
           "description": "Ethereum’s Chief Scientist Said Governance Tokens Benefit Whales at Expense of\nUsers",
           "link": "https://thedefiant.io/buterin-criticizes-governance-tokens/",
           "publishedOn": "2022-12-05T13:07:15.000Z",
-          "wordCount": 2532,
+          "wordCount": 2518,
           "title": "DeFi Debates DAO Governance After Vitalik’s Critique",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193956/VitalikFutureOfFrance.jpg"
         },
@@ -980,7 +986,7 @@
           "description": "Maple’s Sticky Situation",
           "link": "https://thedefiant.io/will-maple-recover-from-this/",
           "publishedOn": "2022-12-05T07:43:56.000Z",
-          "wordCount": 705,
+          "wordCount": 691,
           "title": "Will Maple recover from this?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/06034528/Will-Maple-recover-from-this.png"
         },
@@ -990,7 +996,7 @@
           "description": "Hello Defiers! Happy weekend!",
           "link": "https://thedefiant.io/recap-defi-week-of-nov-27/",
           "publishedOn": "2022-12-04T13:32:41.000Z",
-          "wordCount": 402,
+          "wordCount": 394,
           "title": "Recap: DeFi Week of Nov. 27",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124904/newsletter_thumbnails-01-1.png"
         },
@@ -1000,7 +1006,7 @@
           "description": "Enter/Exit DeFi LPs in 1-Click with Portals",
           "link": "https://thedefiant.io/defi-alpha-track-airdrops-mints-daylight/",
           "publishedOn": "2022-12-04T05:43:14.000Z",
-          "wordCount": 446,
+          "wordCount": 438,
           "title": "⍺ DeFi Alpha: Track Your Airdrops, Mints and Governance Votes with Daylight",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         },
@@ -1010,7 +1016,7 @@
           "description": "Hello Defiers!",
           "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-79/",
           "publishedOn": "2022-12-03T18:03:08.000Z",
-          "wordCount": 389,
+          "wordCount": 381,
           "title": "📬 Inbox Dump #79",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
         },
@@ -1020,7 +1026,7 @@
           "description": "Bitcoin and Ether Hit Three-Week Highs",
           "link": "https://thedefiant.io/markets-rally-powell-slowdown/",
           "publishedOn": "2022-12-03T04:52:10.000Z",
-          "wordCount": 1309,
+          "wordCount": 1295,
           "title": "Markets Rally After Powell Hints At Smaller Interest Rate Hikes",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/03004950/MarketsUpdateBTCandETH2wHigh.jpg"
         },
@@ -1030,7 +1036,7 @@
           "description": "Pilot Program Would Divert 10% Of Trading Fees From Three Liquidity Pools To\nUniswap’s Treasury",
           "link": "https://thedefiant.io/uni-surges-fee-switch-vote/",
           "publishedOn": "2022-12-03T04:27:49.000Z",
-          "wordCount": 1777,
+          "wordCount": 1763,
           "title": "UNI Surges After ‘Fee Switch’ Vote is Proposed",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/03002709/unifeeswitch.jpg"
         },
@@ -1040,9 +1046,336 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/hacker-mints-six-quadrillion-of-ankrs-bnb-staking-tokens/",
           "publishedOn": "2022-12-02T13:27:07.000Z",
-          "wordCount": 1843,
+          "wordCount": 1835,
           "title": "Hacker Mints Six Quadrillion of Ankr’s BNB Staking Tokens",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/02055044/Exploit-1.webp"
+        }
+      ]
+    },
+    {
+      "title": "Bankless Shows",
+      "feedUrl": "https://shows.banklesshq.com/feed",
+      "siteUrl": "https://shows.banklesshq.com",
+      "articles": [
+        {
+          "id": "https://shows.banklesshq.com/p/vitaliks-top-5-crypto-wins-of-2022",
+          "author": "Lucas Matney",
+          "description": "Vitalik Buterin discusses this year's silver linings and 2023's opportunities.",
+          "link": "https://shows.banklesshq.com/p/vitaliks-top-5-crypto-wins-of-2022",
+          "publishedOn": "2022-12-16T22:46:13.000Z",
+          "wordCount": null,
+          "title": "Vitalik's Top 5 Crypto Wins of 2022",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/91085131.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/vitalik-buterin-2023-debrief",
+          "author": null,
+          "description": "Listen now (26 min) | Debriefing the Vitalik episode",
+          "link": "https://shows.banklesshq.com/p/vitalik-buterin-2023-debrief",
+          "publishedOn": "2022-12-16T09:30:18.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - Vitalik Buterin",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/91000923.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-ethereum-in-2023-with",
+          "author": null,
+          "description": "Listen now (100 min) | Will it be even better than 2022?",
+          "link": "https://shows.banklesshq.com/p/early-access-ethereum-in-2023-with",
+          "publishedOn": "2022-12-16T09:30:07.000Z",
+          "wordCount": null,
+          "title": "149 - Ethereum in 2023 with Vitalik Buterin",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/90999894.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-sbf-arrested-trump-nfts-binance",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (90 min) | 2nd Week of December, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-sbf-arrested-trump-nfts-binance",
+          "publishedOn": "2022-12-16T08:49:11.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: SBF Arrested | Trump NFTs | Binance Bank Run | Fed Inflation | Proof of Reserves | Bored Ape Lawsuit",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/90996931.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/2022s-biggest-crypto-moments",
+          "author": null,
+          "description": "Listen now (58 min) | The Best, The Worst, The Villains, and the Heroes",
+          "link": "https://shows.banklesshq.com/p/2022s-biggest-crypto-moments",
+          "publishedOn": "2022-12-14T10:54:03.000Z",
+          "wordCount": null,
+          "title": "2022's Biggest Crypto Moments",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/90605009.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/148-this-is-how-crypto-fixes-the",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (77 min) | How Web3 Revolutionizes the Digital Advertising Model",
+          "link": "https://shows.banklesshq.com/p/148-this-is-how-crypto-fixes-the",
+          "publishedOn": "2022-12-12T09:55:32.000Z",
+          "wordCount": null,
+          "title": "148 - This is How Crypto Fixes the Internet | Antonio García Martínez",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/90136094.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/debrief-antonio",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (27 min) | Debriefing the Episode with Antonio",
+          "link": "https://shows.banklesshq.com/p/debrief-antonio",
+          "publishedOn": "2022-12-12T09:54:50.000Z",
+          "wordCount": null,
+          "title": "Debrief - Antonio García Martínez",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/90136870.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-coinbase-vs-apple-crypto-market",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (96 min) | 2nd Week of December 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-coinbase-vs-apple-crypto-market",
+          "publishedOn": "2022-12-09T11:30:55.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Coinbase vs Apple | Crypto Market Bottom Signals | Genesis Fallout | SBF Scandal | Reddit NFTs",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/89575261.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (58 min) | Fuel & Celestia",
+          "link": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular",
+          "publishedOn": "2022-12-08T19:00:57.000Z",
+          "wordCount": null,
+          "title": "Alpha Leak | The Bull Case for Modular Blockchains",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/89319871.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/phantom-wallet-on-ethereum",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (59 min) | Co-Founders Discussing the DeFi Wallet Landscape",
+          "link": "https://shows.banklesshq.com/p/phantom-wallet-on-ethereum",
+          "publishedOn": "2022-12-08T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Phantom Wallet on Ethereum!",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/89870595.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (79 min) | When’s the Fed Going to Pivot?",
+          "link": "https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik",
+          "publishedOn": "2022-12-07T11:31:04.000Z",
+          "wordCount": null,
+          "title": "Is This the Endgame? with Itay Vinik",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/89117498.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-sbf-live-interviews-blockfi",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (95 min) | 1st Week of December, 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-sbf-live-interviews-blockfi",
+          "publishedOn": "2022-12-02T10:04:25.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: SBF Live Interviews | BlockFi Bankruptcy | Crypto Bottom Signals | MetaMask Privacy Policy | Earnifi",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/88178190.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/debrief-saagar-enjeti",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (28 min) | Ryan and David debrief the Saagar Enjeti episode.",
+          "link": "https://shows.banklesshq.com/p/debrief-saagar-enjeti",
+          "publishedOn": "2022-12-02T09:42:05.000Z",
+          "wordCount": null,
+          "title": "Debrief - Saagar Enjeti",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/88175634.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-why-mainstream-media",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (83 min) | New vs. Old Media",
+          "link": "https://shows.banklesshq.com/p/early-access-why-mainstream-media",
+          "publishedOn": "2022-12-02T09:41:42.000Z",
+          "wordCount": null,
+          "title": "147 - Why Mainstream Media Sucks & How to Fix It with Saagar Enjeti",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/88174942.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (37 min) | We need regulatory clarity and we need it now",
+          "link": "https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about",
+          "publishedOn": "2022-12-01T11:30:52.000Z",
+          "wordCount": null,
+          "title": "Senator Pat Toomey's Concerns about the SEC & Crypto",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/87929106.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (70 min) | Day 20 with zero consequences",
+          "link": "https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail",
+          "publishedOn": "2022-11-30T11:30:51.000Z",
+          "wordCount": null,
+          "title": "Why Isn't Sam Bankman-Fried in Jail?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/87702957.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now | Thanksgiving 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure",
+          "publishedOn": "2022-11-24T11:30:54.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Genesis, Grayscale, DCG Failure? | FTX Contagion Continues | Mango Solana Exploit",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/86511212.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/debrief-tim-ferriss",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (21 min) | Debriefing the Tim Ferriss episode",
+          "link": "https://shows.banklesshq.com/p/debrief-tim-ferriss",
+          "publishedOn": "2022-11-24T07:25:08.000Z",
+          "wordCount": null,
+          "title": "Debrief - Tim Ferriss",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/86535044.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (129 min) | The next chapter of Tim's career",
+          "link": "https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts",
+          "publishedOn": "2022-11-24T07:24:56.000Z",
+          "wordCount": null,
+          "title": "146 - Tim Ferriss on NFTs and 'Cockpunch'",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/86534203.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (104 min) | The Genesis & DCG Meltdown. Is the Contagion Over?",
+          "link": "https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi",
+          "publishedOn": "2022-11-23T11:31:03.000Z",
+          "wordCount": null,
+          "title": "Was 2021 Just a Gigantic PONZI?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/86305417.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
         }
       ]
     },
@@ -1076,6 +1409,333 @@
           "wordCount": 2986,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
+        }
+      ]
+    },
+    {
+      "title": "Today in DeFi",
+      "feedUrl": "https://todayindefi.substack.com/feed",
+      "siteUrl": "https://todayindefi.substack.com",
+      "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "NEAR MetaMask Compatibility NEAR developer Proximity Labs releases NETH, a smart contract that allows users to directly interact with NEAR dApps using their Ethereum wallets, such as MetaMask. Sturdy V1 Live Lending protocol Sturdy releases a revamped UI for 1.0, including integrated information and historical yield graphs. Sturdy also expands into the ETH market and will allow users to deposit LSDs as collateral to borrow ETH.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility",
+          "publishedOn": "2022-12-21T13:52:11.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - NEAR MetaMask Compatibility, Sturdy V1, Trading Perps on Solana, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWu4PKUYAAOBsv.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWu4PKUYAAOBsv.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-fluidity-live-visa",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Fluidity Live Fluidity, a protocol that rewards users for actually using their cryptos, is live on Ethereum. Users can wrap their tokens into fAssets and start earning rewards for transacting. The rewards are generated by user assets lent to money markets.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-fluidity-live-visa",
+          "publishedOn": "2022-12-20T13:03:27.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Fluidity Live, Visa Autopayments, Trading Expirables on Arbitrum, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWiBz-UAAAyZX3.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWiBz-UAAAyZX3.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-mulyibtc-live-sbf",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Product Launches 🚀 Multichain multiBTC Live Multichain launches multiBTC and a BTC bridge. Meanwhile, Curve launches a multiBTC/WBTC/sBTC pool and launched a proposal vote for adding liquidity incentives to the pool. Yearn veYFI Live Yearn launched the staking UI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn.",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-mulyibtc-live-sbf",
+          "publishedOn": "2022-12-19T11:57:08.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - multiBTC Live, SBF Arrested, Ren to Shut Down 1.0, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff96e6ef2-4d81-4ecb-b0d9-a9f63aa1079f_2932x1712.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff96e6ef2-4d81-4ecb-b0d9-a9f63aa1079f_2932x1712.jpeg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-magic-eden-supports",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Magic Eden Supports Polygon NFT marketplace Magic Eden now supports buy/sell/mint Polygon NFTs. Phi Launches on Polygon Phi.xyz, a metaverse project built around ENS & wallet activities, launches Phi Land & Phi Quest on Polygon, allowing users to create lands and/or explore quests of projects.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-magic-eden-supports",
+          "publishedOn": "2022-12-16T09:41:36.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Magic Eden Supports Polygon, Phi Live on Polygon, DEX Aggregator with No Slippage, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/ty4lpxxwivds8u6ncm3b",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/ty4lpxxwivds8u6ncm3b"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-maple-20-makerdao-to",
+          "author": null,
+          "description": "Maple Released 2.0 Maple releases a new version that focuses on diversifying borrowers and improving risk management parameters. Maple recently experienced a borrower default. MakerDAO to Fund RWA MakerDAO passed the executive vote and will deploy four vaults to fund investments in real-world assets (RWA), originated by BlockTower and issued on-chain through",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-maple-20-makerdao-to",
+          "publishedOn": "2022-12-15T11:28:36.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Maple 2.0, MakerDAO to Fund RWA, Stable Farms on Optimism, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/macfaf4hpeycdq1x5b9q",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/macfaf4hpeycdq1x5b9q"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-yearn-veyfi-live-sushi",
+          "author": null,
+          "description": "Yearn veYFI Live Yearn launches UI for users to stake YFI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn. Signal Vote: Increase Sushi Kanpai Payout Ratio The Sushiswap community is voting to produce a signal on whether to redirect 100% of the Sushi fees redirect to the Kanpai Treasury for 1-year.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-yearn-veyfi-live-sushi",
+          "publishedOn": "2022-12-14T10:30:23.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Yearn veYFI Live, Sushi Voting to Increase Treasury Ratio, Trading Volatility, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjrb3fLVIAEmDaB.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjrb3fLVIAEmDaB.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-makerdao-key-deployments",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "MakerDAO Key Deployments Maker executed a bunch of proposals today. Key deployments include DSR Savings increase to 1%, GNO onboarding, and renBTC-A offboarding, among other changes. SBF Arrested SBF has been arrested in the Bahamas the day before appearing before Congress. Reports say the US is likely to request extradition.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-makerdao-key-deployments",
+          "publishedOn": "2022-12-13T08:03:20.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - MakerDAO Key Deployments, SBF Arrested, Interest-Free Borrowing, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjyoD3cXgAAlIOn.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjyoD3cXgAAlIOn.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-perennial-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Dec. 5th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-perennial-live",
+          "publishedOn": "2022-12-12T09:11:04.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Perennial Live, Lodestar Exploit, Maple 2.0, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0e55a6ae-3931-486a-83ab-8b6951307399_600x338.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0e55a6ae-3931-486a-83ab-8b6951307399_600x338.webp"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-ethereum-shanghai-coming",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Ethereum Shanghai Coming 2023 Ethereum developers set March 2023 as a tentative shipping date for the Shanghai upgrade. The upgrade will enable staked ETH withdrawals, and implement big EOF and warm coinbase, etc., among other updates. DeFi Kingdoms, LayerZero on Klaytn",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-ethereum-shanghai-coming",
+          "publishedOn": "2022-12-09T13:21:09.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Ethereum Shanghai Coming 2023, DeFi Kingdoms Live on Klaytn, Farming on Arbitrum, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdffb8b46-d724-40d2-a817-bff43716a624_1200x600.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdffb8b46-d724-40d2-a817-bff43716a624_1200x600.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-perennial-live-compound",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Perennial Live Derivatives protocol Perennial is now live on the Ethereum mainnet. Perennial offers infrastructure for derivative markets, with V1 currently supporting Long-ETH, Short-ETH, and Long-Squeeth markets. Compound Extensions Compound releases Extensions for its V3 users. Extensions are a series of add-on features to enhance users’ experience, including Advance Transactions, Position Migrator, Position Management (by",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-perennial-live-compound",
+          "publishedOn": "2022-12-08T11:45:29.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Perennial Live, Compound Extensions, Farming on Arbitrum, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d018fed-26fb-4244-b278-bf317079184e_1200x397.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2d018fed-26fb-4244-b278-bf317079184e_1200x397.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-amber-group-financial",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Amber Group Financial Problems Amber Group, an Asia crypto firm, seems to have liquidity problems according to on-chain analysis. Amber’s asset management platform WhaleFin and CeDeFi lending protocol Clearpool are the two related firms/borrowers that might be affected by Amber’s shortage of funds. (source:",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-amber-group-financial",
+          "publishedOn": "2022-12-07T10:52:03.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Amber Group Financial Problems, Tessera Live, Automated Strategies, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjTxfbOUAAUngsf.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjTxfbOUAAUngsf.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-maple-cuts-orthogonal",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Maple Cuts Orthogonal Orthogonal Trading, a crypto firm that has funds stuck on FTX, and is also a significant borrower on lending protocol Maple Finance, has defaulted on eight loans totalling $36 million on Maple. Creditor M11 Credit issued a default notice to Orthogonal for its loans, while Maple severed all ties with Orthogonal for misrepresenting its financial position.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-maple-cuts-orthogonal",
+          "publishedOn": "2022-12-06T16:02:09.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Maple Cuts Orthogonal, APE Staking Live, Lending on BnB Chain, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5dbd9285-a2ea-471a-affb-a7ba97832ee7_1000x526.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5dbd9285-a2ea-471a-affb-a7ba97832ee7_1000x526.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-nft-aggregator",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Nov. 28th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-uniswap-nft-aggregator",
+          "publishedOn": "2022-12-05T11:29:50.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Uniswap NFT Aggregator, LINK Staking Coming, Aave Froze V2 Markets, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2aea30a6-d9f0-4ce3-a8c8-0fb4c82d3acd_1456x714.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2aea30a6-d9f0-4ce3-a8c8-0fb4c82d3acd_1456x714.webp"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-ankr-abnb-exploit-fantom",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Ankr aBNBc Exploit BnB chain node operator Ankr suffered a governance key compromise. The attacker d deployed a malicious contract to mint a very large amount of aBNBc, Ankr’s reward-bearing staked BNB token, and profited ~$7m by dumping what he minted.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-ankr-abnb-exploit-fantom",
+          "publishedOn": "2022-12-02T10:08:26.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Ankr aBNB Exploit, Fantom Gas Monetization, Explore Delta Neutral Strategies, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFi796jaWIAATHCp.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFi796jaWIAATHCp.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Uniswap NFT Aggregator Uniswap launches its NFT aggregator, allowing users to search, trade, and discover trends on NFTs. LINK Staking Update Chainlink is launching staking v0.1 on Dec. 6th. Stakers will be locking their funds til the planned launch of v0.2 (in 9-12 months) when the funds can be unlocked or migrated.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator",
+          "publishedOn": "2022-12-01T11:39:14.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Uniswap NFT Aggregator, LINK Staking Update, Trading Options on Arbitrum, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/moasuw8feynsi0dsfk0x",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/moasuw8feynsi0dsfk0x"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-phantom-to-support",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Phantom to Support Ethereum, Polygon Solana-based wallet Phantom will launch beta and public access for storing/transferring tokens and NFTs on Ethereum and Polygon. BracketX Live on Arbitrum Structured product protocol BracketX is live on Arbitrum. BracketX is one of Bracket Protocol’s products, providing",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-phantom-to-support",
+          "publishedOn": "2022-11-30T11:51:23.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Phantom to Support Ethereum, Polygon, BracketX Live on Arbitrum, Borrowing on Arbitrum, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/f4uo8qi23ulkm8sqv0ck",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/f4uo8qi23ulkm8sqv0ck"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-aave-freezes-v2-markets",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aave Freezes V2 Markets Aave governance has temporarily frozen 17 lending markets on V2 to fend off further liquidity attacks. Paused markets include YFI, CRV, ZRX, MANA, 1INCH, MKR, etc. AdaSwap Live on Cardano Mainnet Cardano-based DEX Adaswap is now live on mainnet, enabling trading & bridging for Cardano tokens and NFTs.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-aave-freezes-v2-markets",
+          "publishedOn": "2022-11-29T12:06:36.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Aave Freezes V2 Markets, AdaSwap Live on Cardano, Trading NFT Perps, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiqpFn_XEAQOAsh.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiqpFn_XEAQOAsh.jpg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-nftperp-beta-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Product Launches 🚀 nftperp Beta Live NFT derivative protocol nftperp launches closed beta for whitelisted users, with PUNK/ETH and BAYC/ETH pairs live for trading. Tranchess on Ethereum & qETH Live BnB-based yield protocol Tranchess expands to Ethereum with its own ETH staking product qETH live for stakers to earn yield.",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-nftperp-beta-live",
+          "publishedOn": "2022-11-28T11:06:54.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - nftperp Beta Live, Binance Industry Recovery Initiative, Pendle V2 AMM, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf4f93c-d1a2-4448-8d11-914857105447_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf4f93c-d1a2-4448-8d11-914857105447_1200x675.jpeg"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Binance Industry Recovery Initiative Binance led a $1b Industry Recovery Initiative (IRI) to fund web3 developments. Third-party firms and ventures including Jump Crypto, Aptos Labs, Polygon Ventures, Animoca Brands, GSR, Kronos, and Brooker Group have joined and contributed another $50m to the co-investment.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund",
+          "publishedOn": "2022-11-25T09:57:20.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Binance Recovery Fund, Pendle V2 AMM, Trading BTC/ETH Volatility, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d064ec1-c2d7-44a7-95a3-da3adb69cab4_600x343.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d064ec1-c2d7-44a7-95a3-da3adb69cab4_600x343.png"
+        },
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-ape-nfts-marketplace",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Ape NFTs Marketplace Live A white-label marketplace for ApeCoin DAO, built by Snag Solutions, launches today. The marketplace will sell BAYC, MAYC, BAKC, and Otherdeed NFTs. Fees charged on sellers will be 5% on ETH sales and .25% on APE, and a full .25% of each sale is held in a multi-sig to fund DAO initiatives.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-ape-nfts-marketplace",
+          "publishedOn": "2022-11-24T09:32:51.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Ape NFTs Marketplace Live, Volmex V2 Live on Polygon, L2 Lending, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiQ2-XUUcAE1tdH.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFiQ2-XUUcAE1tdH.jpg"
         }
       ]
     }
