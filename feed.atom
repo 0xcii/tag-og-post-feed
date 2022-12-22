@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-22T21:12:14.051Z</id>
+    <id>urn:2022-12-22T22:13:03.318Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-22T21:12:14.051Z</updated>
+    <updated>2022-12-22T22:13:03.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Thesis for 2023 | Ryan Selkis]]></title>
+        <id>https://shows.banklesshq.com/p/crypto-thesis-for-2023-ryan-selkis</id>
+        <link href="https://shows.banklesshq.com/p/crypto-thesis-for-2023-ryan-selkis"/>
+        <updated>2022-12-22T21:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (95 min) | Crypto is Still Inevitable]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaMask Swap Expands To Arbitrum and Optimism]]></title>
+        <id>https://thedefiant.io/metamask-swap-arbitrum-optimism/</id>
+        <link href="https://thedefiant.io/metamask-swap-arbitrum-optimism/"/>
+        <updated>2022-12-22T21:14:04.000Z</updated>
+        <summary type="html"><![CDATA[Swap Feature Has Facilitated $24B Of Trades Since Launch]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notorious Threadooor Adam Cochran Explains Crypto Shopping and Shorting List]]></title>
         <id>https://thedefiant.io/adam-cochran-crypto-shopping-list/</id>
@@ -1297,16 +1317,6 @@ Users]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Will Maple recover from this?]]></title>
-        <id>https://thedefiant.io/will-maple-recover-from-this/</id>
-        <link href="https://thedefiant.io/will-maple-recover-from-this/"/>
-        <updated>2022-12-05T07:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Maple’s Sticky Situation]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Ankr aBNB Exploit, Fantom Gas Monetization, Explore Delta Neutral Strategies, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-ankr-abnb-exploit-fantom</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-ankr-abnb-exploit-fantom"/>
@@ -1472,16 +1482,6 @@ Users]]></summary>
         <link href="https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts"/>
         <updated>2022-11-24T07:24:56.000Z</updated>
         <summary type="html"><![CDATA[Listen now (129 min) | The next chapter of Tim's career]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Was 2021 Just a Gigantic PONZI?]]></title>
-        <id>https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi</id>
-        <link href="https://shows.banklesshq.com/p/was-2021-just-a-gigantic-ponzi"/>
-        <updated>2022-11-23T11:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (104 min) | The Genesis & DCG Meltdown. Is the Contagion Over?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
