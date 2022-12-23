@@ -51,6 +51,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/stablecoin-volume-hits-record-high-of-7-4t-in-2022/",
+          "author": "Samuel Haig",
+          "description": "Stablecoin Surge Exceeds MasterCard and American Express",
+          "link": "https://thedefiant.io/stablecoin-volume-hits-record-high-of-7-4t-in-2022/",
+          "publishedOn": "2022-12-23T09:50:06.000Z",
+          "wordCount": 1538,
+          "title": "Stablecoin Volume Hits Record High of $7.4T in 2022",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/23054346/StablecoinVolume.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/gensler-vows-to-intensify-crypto-crackdown/",
+          "author": "Samuel Haig",
+          "description": "SEC Chair Doubles Down on Vows to Force Crypto Platforms to Register Tokens as\nSecurities",
+          "link": "https://thedefiant.io/gensler-vows-to-intensify-crypto-crackdown/",
+          "publishedOn": "2022-12-23T09:37:35.000Z",
+          "wordCount": 2447,
+          "title": "Gensler Vows to Intensify Crypto Crackdown",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/23052421/GenslerCrackdown.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/real-world-assets-poised-to-be-defi-growth-engine-coinbase/",
+          "author": "Samuel Haig",
+          "description": "Leading Crypto Exchange Says Tie-ups Between DeFi and TradFi Assets to be Major\nTrend in 2023",
+          "link": "https://thedefiant.io/real-world-assets-poised-to-be-defi-growth-engine-coinbase/",
+          "publishedOn": "2022-12-23T09:16:37.000Z",
+          "wordCount": 2230,
+          "title": "Real World Assets Poised to Be DeFi Growth Engine: Coinbase",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/23050618/CoinbaseReport.jpg"
+        },
+        {
           "id": "https://thedefiant.io/metamask-swap-arbitrum-optimism/",
           "author": "Tarang Khaitan",
           "description": "Swap Feature Has Facilitated $24B Of Trades Since Launch",
@@ -1019,36 +1049,6 @@
           "wordCount": 742,
           "title": "Vitalik’s Top 5 Crypto Use-Cases",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07042744/Vitaliks-Top-5-Crypto-Use-Cases.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/three-arrows-yacht-creditors-liquidation/",
-          "author": "Aleksandar Gilbert",
-          "description": "Teneo Says Hedge Fund Founders Are Uncooperative as It Corrals Assets for\nCreditors",
-          "link": "https://thedefiant.io/three-arrows-yacht-creditors-liquidation/",
-          "publishedOn": "2022-12-06T08:07:20.000Z",
-          "wordCount": 1770,
-          "title": "Three Arrows Liquidators Target $30M Yacht in Hunt for Assets",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/06040144/3ACFiling.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/orthogonal-rekt-ftx-exposure/",
-          "author": "Owen Fernau",
-          "description": "Maple Finance and M11 Credit Allege Firm Misrepresented Financial Position",
-          "link": "https://thedefiant.io/orthogonal-rekt-ftx-exposure/",
-          "publishedOn": "2022-12-06T05:01:29.000Z",
-          "wordCount": 1725,
-          "title": "Orthogonal Trading Misses $10M Loan Payment",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/06010017/OrthoREKT.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/buterin-criticizes-governance-tokens/",
-          "author": "Samuel Haig",
-          "description": "Ethereum’s Chief Scientist Said Governance Tokens Benefit Whales at Expense of\nUsers",
-          "link": "https://thedefiant.io/buterin-criticizes-governance-tokens/",
-          "publishedOn": "2022-12-05T13:07:15.000Z",
-          "wordCount": 2541,
-          "title": "DeFi Debates DAO Governance After Vitalik’s Critique",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/07/24193956/VitalikFutureOfFrance.jpg"
         }
       ]
     },
@@ -1396,7 +1396,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2299,
+          "wordCount": 2262,
           "title": "The decentralized CEO",
           "imageUrl": null
         },
@@ -1417,6 +1417,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-synthetix-perps-v2",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Synthetix Perps V2 Live Synthetix launches perps v2 with frontends on Optimism. Perps V2 reduces perps fees by using an off-chain oracle system and minimizes risks for perps LPs with new risk management features. Waves USDN Resolution Plan Waves team released a resolution plan for its severely depegged stablecoin USDN, aiming to stabilize the peg with proposals including token backings, team donations, swap reactivation, incentives for reserve holders, and adaptive vesting for USDN holders.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-synthetix-perps-v2",
+          "publishedOn": "2022-12-23T09:30:05.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Synthetix Perps V2 Live, Waves USDN Resolution Plan, Delta-Neutral Strategies, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/ffl7sjdtdt2g8gpfuj7g",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/ffl7sjdtdt2g8gpfuj7g"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-symbiosis-v2-openocean",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -1720,22 +1736,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf4f93c-d1a2-4448-8d11-914857105447_1200x675.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Binance Industry Recovery Initiative Binance led a $1b Industry Recovery Initiative (IRI) to fund web3 developments. Third-party firms and ventures including Jump Crypto, Aptos Labs, Polygon Ventures, Animoca Brands, GSR, Kronos, and Brooker Group have joined and contributed another $50m to the co-investment.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund",
-          "publishedOn": "2022-11-25T09:57:20.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Binance Recovery Fund, Pendle V2 AMM, Trading BTC/ETH Volatility, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d064ec1-c2d7-44a7-95a3-da3adb69cab4_600x343.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d064ec1-c2d7-44a7-95a3-da3adb69cab4_600x343.png"
         }
       ]
     }

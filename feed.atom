@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T09:14:08.769Z</id>
+    <id>urn:2022-12-23T10:14:56.017Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-23T09:14:08.769Z</updated>
+    <updated>2022-12-23T10:14:56.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stablecoin Volume Hits Record High of $7.4T in 2022]]></title>
+        <id>https://thedefiant.io/stablecoin-volume-hits-record-high-of-7-4t-in-2022/</id>
+        <link href="https://thedefiant.io/stablecoin-volume-hits-record-high-of-7-4t-in-2022/"/>
+        <updated>2022-12-23T09:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Stablecoin Surge Exceeds MasterCard and American Express]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gensler Vows to Intensify Crypto Crackdown]]></title>
+        <id>https://thedefiant.io/gensler-vows-to-intensify-crypto-crackdown/</id>
+        <link href="https://thedefiant.io/gensler-vows-to-intensify-crypto-crackdown/"/>
+        <updated>2022-12-23T09:37:35.000Z</updated>
+        <summary type="html"><![CDATA[SEC Chair Doubles Down on Vows to Force Crypto Platforms to Register Tokens as
+Securities]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Synthetix Perps V2 Live, Waves USDN Resolution Plan, Delta-Neutral Strategies, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-synthetix-perps-v2</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-synthetix-perps-v2"/>
+        <updated>2022-12-23T09:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Synthetix Perps V2 Live Synthetix launches perps v2 with frontends on Optimism. Perps V2 reduces perps fees by using an off-chain oracle system and minimizes risks for perps LPs with new risk management features. Waves USDN Resolution Plan Waves team released a resolution plan for its severely depegged stablecoin USDN, aiming to stabilize the peg with proposals including token backings, team donations, swap reactivation, incentives for reserve holders, and adaptive vesting for USDN holders.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real World Assets Poised to Be DeFi Growth Engine: Coinbase]]></title>
+        <id>https://thedefiant.io/real-world-assets-poised-to-be-defi-growth-engine-coinbase/</id>
+        <link href="https://thedefiant.io/real-world-assets-poised-to-be-defi-growth-engine-coinbase/"/>
+        <updated>2022-12-23T09:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Leading Crypto Exchange Says Tie-ups Between DeFi and TradFi Assets to be Major
+Trend in 2023]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EARLY ACCESS - Bull Case for Ethereum IV with Justin Drake, DCinvestor, & Anthony Sassano]]></title>
         <id>https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum</id>
@@ -1295,38 +1337,6 @@ Metaverse Will be No Different]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Three Arrows Liquidators Target $30M Yacht in Hunt for Assets]]></title>
-        <id>https://thedefiant.io/three-arrows-yacht-creditors-liquidation/</id>
-        <link href="https://thedefiant.io/three-arrows-yacht-creditors-liquidation/"/>
-        <updated>2022-12-06T08:07:20.000Z</updated>
-        <summary type="html"><![CDATA[Teneo Says Hedge Fund Founders Are Uncooperative as It Corrals Assets for
-Creditors]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orthogonal Trading Misses $10M Loan Payment]]></title>
-        <id>https://thedefiant.io/orthogonal-rekt-ftx-exposure/</id>
-        <link href="https://thedefiant.io/orthogonal-rekt-ftx-exposure/"/>
-        <updated>2022-12-06T05:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Maple Finance and M11 Credit Allege Firm Misrepresented Financial Position]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Debates DAO Governance After Vitalik’s Critique]]></title>
-        <id>https://thedefiant.io/buterin-criticizes-governance-tokens/</id>
-        <link href="https://thedefiant.io/buterin-criticizes-governance-tokens/"/>
-        <updated>2022-12-05T13:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum’s Chief Scientist Said Governance Tokens Benefit Whales at Expense of
-Users]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Uniswap NFT Aggregator, LINK Staking Coming, Aave Froze V2 Markets, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-uniswap-nft-aggregator</id>
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-uniswap-nft-aggregator"/>
@@ -1454,16 +1464,6 @@ Users]]></summary>
         <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Binance Recovery Fund, Pendle V2 AMM, Trading BTC/ETH Volatility, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-binance-recovery-fund"/>
-        <updated>2022-11-25T09:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Binance Industry Recovery Initiative Binance led a $1b Industry Recovery Initiative (IRI) to fund web3 developments. Third-party firms and ventures including Jump Crypto, Aptos Labs, Polygon Ventures, Animoca Brands, GSR, Kronos, and Brooker Group have joined and contributed another $50m to the co-investment.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
