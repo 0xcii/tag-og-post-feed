@@ -1058,6 +1058,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum",
+          "author": null,
+          "description": "Listen now (98 min) | What's 2023 going to look like?",
+          "link": "https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum",
+          "publishedOn": "2022-12-23T07:14:41.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Bull Case for Ethereum IV with Justin Drake, DCinvestor, & Anthony Sassano",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/92420764.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/crypto-thesis-for-2023-ryan-selkis",
           "author": "Ryan Sean Adams",
           "description": "Listen now (95 min) | Crypto is Still Inevitable",
@@ -1360,22 +1376,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (129 min) | The next chapter of Tim's career",
-          "link": "https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts",
-          "publishedOn": "2022-11-24T07:24:56.000Z",
-          "wordCount": null,
-          "title": "146 - Tim Ferriss on NFTs and 'Cockpunch'",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/86534203.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1396,7 +1396,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2299,
+          "wordCount": 2262,
           "title": "The decentralized CEO",
           "imageUrl": null
         },

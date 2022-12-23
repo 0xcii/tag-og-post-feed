@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T07:12:46.129Z</id>
+    <id>urn:2022-12-23T08:17:11.518Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-23T07:12:46.129Z</updated>
+    <updated>2022-12-23T08:17:11.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Bull Case for Ethereum IV with Justin Drake, DCinvestor, & Anthony Sassano]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum</id>
+        <link href="https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum"/>
+        <updated>2022-12-23T07:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (98 min) | What's 2023 going to look like?]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Symbiosis V2, OpenOcean Swap Aggregator, IL-less DEX, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-symbiosis-v2-openocean</id>
@@ -1472,16 +1482,6 @@ Users]]></summary>
         <link href="https://shows.banklesshq.com/p/debrief-tim-ferriss"/>
         <updated>2022-11-24T07:25:08.000Z</updated>
         <summary type="html"><![CDATA[Listen now (21 min) | Debriefing the Tim Ferriss episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[146 - Tim Ferriss on NFTs and 'Cockpunch']]></title>
-        <id>https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts</id>
-        <link href="https://shows.banklesshq.com/p/early-access-tim-ferriss-on-nfts"/>
-        <updated>2022-11-24T07:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (129 min) | The next chapter of Tim's career]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
