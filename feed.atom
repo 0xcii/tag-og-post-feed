@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T11:11:38.104Z</id>
+    <id>urn:2022-12-23T12:25:37.261Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-23T11:11:38.104Z</updated>
+    <updated>2022-12-23T12:25:37.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Real World Assets Poised to Be DeFi Growth Engine]]></title>
+        <id>https://thedefiant.io/real-world-assets-poised-to-be-defi-growth-engine/</id>
+        <link href="https://thedefiant.io/real-world-assets-poised-to-be-defi-growth-engine/"/>
+        <updated>2022-12-23T11:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: SBF in the USA | Visa Ethereum Payments | Trump NFTs | Binance Buys Voyager]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-sbf-in-the-usa-visa-ethereum</id>
+        <link href="https://shows.banklesshq.com/p/rollup-sbf-in-the-usa-visa-ethereum"/>
+        <updated>2022-12-23T11:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (76 min) | December 23, 2022]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stablecoin Volume Hits Record High of $7.4T in 2022]]></title>
         <id>https://thedefiant.io/stablecoin-volume-hits-record-high-of-7-4t-in-2022/</id>
@@ -1327,16 +1347,6 @@ Metaverse Will be No Different]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vitalik’s Top 5 Crypto Use-Cases]]></title>
-        <id>https://thedefiant.io/vitaliks-top-5-crypto-use-cases/</id>
-        <link href="https://thedefiant.io/vitaliks-top-5-crypto-use-cases/"/>
-        <updated>2022-12-06T08:16:09.000Z</updated>
-        <summary type="html"><![CDATA[5 Things That Excite Vitalik]]></summary>
-        <author>
-            <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Uniswap NFT Aggregator, LINK Staking Coming, Aave Froze V2 Markets, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-uniswap-nft-aggregator</id>
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-uniswap-nft-aggregator"/>
@@ -1472,16 +1482,6 @@ Metaverse Will be No Different]]></summary>
         <link href="https://shows.banklesshq.com/p/rollup-genesis-grayscale-dcg-failure"/>
         <updated>2022-11-24T11:30:54.000Z</updated>
         <summary type="html"><![CDATA[Listen now | Thanksgiving 2022]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debrief - Tim Ferriss]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-tim-ferriss</id>
-        <link href="https://shows.banklesshq.com/p/debrief-tim-ferriss"/>
-        <updated>2022-11-24T07:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (21 min) | Debriefing the Tim Ferriss episode]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
