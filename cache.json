@@ -41,6 +41,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/recap-defi-week-dec-18/",
+          "author": "Edward Robinson",
+          "description": "Hello Defiers! Here’s what we covered this week!",
+          "link": "https://thedefiant.io/recap-defi-week-dec-18/",
+          "publishedOn": "2022-12-25T23:05:39.000Z",
+          "wordCount": 400,
+          "title": "Recap: DeFi Week Dec. 18",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16063451/newsletter_thumbnails-01-1-scaled.webp"
+        },
+        {
           "id": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-82/",
           "author": "The Defiant Team",
           "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
@@ -1029,16 +1039,6 @@
           "wordCount": 3794,
           "title": "What Happened at FTX?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07044909/WhatHappenedAtFTX.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/forget-the-snickering-heres-why-the-metaverse-will-prevail/",
-          "author": "Stephen Fromkin",
-          "description": "The Internet, Broadband, Mobile Computing… Sweeping Change Takes Time and the\nMetaverse Will be No Different",
-          "link": "https://thedefiant.io/forget-the-snickering-heres-why-the-metaverse-will-prevail/",
-          "publishedOn": "2022-12-07T08:48:05.000Z",
-          "wordCount": 3047,
-          "title": "Forget the Snickering… Here’s Why the Metaverse Will Prevail",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/07044225/MetaverseWillPrevail2.jpg"
         }
       ]
     },
@@ -1390,7 +1390,7 @@
           "description": "16 June 2018 — Fantom raised $40,000,000 (mostly in ETH @ $450-$700).",
           "link": "https://andrecronje.medium.com/fantom-an-inside-financial-peak-at-being-a-crypto-company-323d29fb5e81?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-11-28T03:51:52.000Z",
-          "wordCount": 2928,
+          "wordCount": 2992,
           "title": "Fantom: an inside financial peak at being a “crypto company”",
           "imageUrl": "https://miro.medium.com/max/1200/1*2asQ7ezofw7kilMOYy9xtg.png"
         }
