@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-28T07:12:40.919Z</id>
+    <id>urn:2022-12-28T08:17:19.708Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-28T07:12:40.919Z</updated>
+    <updated>2022-12-28T08:17:19.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - Erik Voorhees]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-erik-voorhees-why-are-we-here</id>
+        <link href="https://shows.banklesshq.com/p/debrief-erik-voorhees-why-are-we-here"/>
+        <updated>2022-12-28T07:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (34 min) | Debriefing the Why Are We Here? with Erik Voorhees episode]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Why Are We Here? with Erik Voorhees]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-why-are-we-here-with</id>
+        <link href="https://shows.banklesshq.com/p/early-access-why-are-we-here-with"/>
+        <updated>2022-12-28T07:25:37.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (90 min) | Why stay?]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adams Defies Rough Year to Make Uniswap a True Unicorn]]></title>
         <id>https://thedefiant.io/adams-defies-rough-year-to-make-uniswap-a-true-unicorn/</id>
@@ -1455,16 +1475,6 @@ Mechanism]]></summary>
         <summary type="html"><![CDATA[Phantom to Support Ethereum, Polygon Solana-based wallet Phantom will launch beta and public access for storing/transferring tokens and NFTs on Ethereum and Polygon. BracketX Live on Arbitrum Structured product protocol BracketX is live on Arbitrum. BracketX is one of Bracket Protocol’s products, providing]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Isn't Sam Bankman-Fried in Jail?]]></title>
-        <id>https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail</id>
-        <link href="https://shows.banklesshq.com/p/why-isnt-sam-bankman-fried-in-jail"/>
-        <updated>2022-11-30T11:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (70 min) | Day 20 with zero consequences]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
     <entry>
