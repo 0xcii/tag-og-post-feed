@@ -96,9 +96,9 @@
           "description": "FTX, Celsius, 3AC Left a Trail of Wreckage in Centralized Finance",
           "link": "https://thedefiant.io/cefi-rekt-was-the-main-event-in-cryptos-annus-horribilis/",
           "publishedOn": "2022-12-27T10:41:30.000Z",
-          "wordCount": 2725,
+          "wordCount": null,
           "title": "CeFi Rekt Was the Main Event in Crypto’s Annus Horribilis",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/22152406/CeFiRekt.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://thedefiant.io/stablecoins-seek-to-regain-well-stability-in-2023/",
@@ -106,9 +106,9 @@
           "description": "Stablecoins Used to be Immune to Stress — Now they Must Withstand Volatility",
           "link": "https://thedefiant.io/stablecoins-seek-to-regain-well-stability-in-2023/",
           "publishedOn": "2022-12-27T10:40:18.000Z",
-          "wordCount": 1682,
+          "wordCount": null,
           "title": "Stablecoins Seek to Regain, Well, Stability in 2023",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/22160038/StablecoinsUnderStress.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://thedefiant.io/the-surge-shanghai-staking/",
@@ -1406,7 +1406,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2337,
+          "wordCount": 2320,
           "title": "The decentralized CEO",
           "imageUrl": null
         }
@@ -1417,6 +1417,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-synthetix-perps",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Dec. 19th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-synthetix-perps",
+          "publishedOn": "2022-12-28T10:36:12.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Synthetix Perps V2, Visa Autopayments, NEAR Metamask Compatibility, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b080e1e-040d-4dfa-b6b5-bf97b24203e9_600x306.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b080e1e-040d-4dfa-b6b5-bf97b24203e9_600x306.webp"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-synthetix-perps-v2",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
