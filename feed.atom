@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-28T15:13:38.126Z</id>
+    <id>urn:2022-12-28T16:18:14.411Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-28T15:13:38.126Z</updated>
+    <updated>2022-12-28T16:18:14.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Exploit Explosion Rocked Crypto in 2022]]></title>
+        <id>https://thedefiant.io/exploit-explosion-rocked-crypto-in-2022/</id>
+        <link href="https://thedefiant.io/exploit-explosion-rocked-crypto-in-2022/"/>
+        <updated>2022-12-28T15:08:58.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s our review of the biggest stories in 2022! Plus a bonus
+video!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Synthetix Perps V2, Visa Autopayments, NEAR Metamask Compatibility, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-synthetix-perps</id>
@@ -1364,17 +1375,6 @@ Clean Sheet]]></summary>
         <summary type="html"><![CDATA[Listen now (59 min) | Co-Founders Discussing the DeFi Wallet Landscape]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gnosis Executes Its Own Merge in Shift to PoS in Boost for Staking]]></title>
-        <id>https://thedefiant.io/gnosis-to-execute-its-own-merge-in-shift-to-pos/</id>
-        <link href="https://thedefiant.io/gnosis-to-execute-its-own-merge-in-shift-to-pos/"/>
-        <updated>2022-12-08T09:59:51.000Z</updated>
-        <summary type="html"><![CDATA[Layer 1 Will Be the First Blockchain After Ethereum to Adopt New Consensus
-Mechanism]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
