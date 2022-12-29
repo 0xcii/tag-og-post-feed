@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-29T11:11:29.111Z</id>
+    <id>urn:2022-12-29T12:25:05.341Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-29T11:11:29.111Z</updated>
+    <updated>2022-12-29T12:25:05.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Mean Finance on Ethereum, Gamma Strategies on Arbitrum, Strategy for the Calm Market, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum"/>
+        <updated>2022-12-29T11:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Mean Finance Live on Ethereum Previously on Polygon and L2s, DCA protocol Mean Finance is now available on Ethereum, offering DCA tools with MEV-protected & gasless swaps. Gamma Strategies on Arbitrum Uniswap V3 liquidity management protocol Gamma Strategies launches on Arbitrum, supporting new pairs for Arbitrum-based assets.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taking Aim at Code Itself Feds Sent Crypto a Clear Message]]></title>
         <id>https://thedefiant.io/taking-aim-at-code-itself-feds-sent-crypto-a-clear-message/</id>
