@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T09:12:44.128Z</id>
+    <id>urn:2022-12-30T10:14:08.449Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-30T09:12:44.129Z</updated>
+    <updated>2022-12-30T10:14:08.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Insrt Live, Vader Shutting Down, On-Chain DCA, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting"/>
+        <updated>2022-12-30T10:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Insrt Live NFTfi yield protocol Insrt launches on Ethereum. The first deployed vault type is ShardVault, which allows users to take a directional bet that the price of a bluechip NFT collection goes up and farm yield passively. Vader Shutting Down Stablecoin protocol Vader announces the plan to shut down as the team found no notable breakthrough in the algorithmic stablecoin design that is capital efficient.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taking Aim at Code Itself Feds Sent Crypto a Clear Message]]></title>
         <id>https://thedefiant.io/taking-aim-at-code-itself-feds-sent-crypto-a-clear-message-2/</id>
