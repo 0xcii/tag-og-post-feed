@@ -41,6 +41,26 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/defi-breakthrough-chicken-bonds/",
+          "author": "Owen Fernau",
+          "description": "Novel Liquidity Mechanism Attracted More Than $70M",
+          "link": "https://thedefiant.io/defi-breakthrough-chicken-bonds/",
+          "publishedOn": "2022-12-30T11:05:39.000Z",
+          "wordCount": 1855,
+          "title": "Chicken Bonds Pecked Their Way Into a Reward-Hungry Market",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/30011507/DeFiBreakthroughOTY.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/bear-attack-2022/",
+          "author": "yyctrader",
+          "description": "Global Markets Had A Volatile Year As Inflation Took Centre Stage",
+          "link": "https://thedefiant.io/bear-attack-2022/",
+          "publishedOn": "2022-12-30T10:52:17.000Z",
+          "wordCount": 1758,
+          "title": "Bear Attack: Investors Lick Their Wounds After Grim 2022",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/30012956/BearAttack.jpg"
+        },
+        {
           "id": "https://thedefiant.io/zachxbt-defier-of-the-year/",
           "author": "Aleksandar Gilbert",
           "description": "Deeply Researched Probes of Questionable Projects Proved ‘Invaluable’ in Mad\nYear",
@@ -66,7 +86,7 @@
           "description": "Hello Defiers! Here’s the latest edition of our DeFi Year in Review stories!",
           "link": "https://thedefiant.io/taking-aim-at-code-itself-feds-sent-crypto-a-clear-message-2/",
           "publishedOn": "2022-12-29T13:13:03.000Z",
-          "wordCount": 1570,
+          "wordCount": 1572,
           "title": "Taking Aim at Code Itself Feds Sent Crypto a Clear Message",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/29054601/CryptoReg2.0.jpg"
         },
@@ -1019,26 +1039,6 @@
           "wordCount": 1911,
           "title": "DeFi Stalwarts Explore Tie-Ups to Weather Bear Market and FTX Fallout",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09145517/DeFiBandsTogether.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/sbf-spars-with-cz/",
-          "author": "Aleksandar Gilbert",
-          "description": "Disgraced FTX CEO Commits to Testifying Before Congress",
-          "link": "https://thedefiant.io/sbf-spars-with-cz/",
-          "publishedOn": "2022-12-09T17:13:40.000Z",
-          "wordCount": 2056,
-          "title": "SBF Spars with CZ And Denies ‘Hunting’ Three Arrows",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09131237/SBFCZTweets.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/arweaves-sam-williams-on-storing-files-on-chain-for-eternity/",
-          "author": "The Defiant Team",
-          "description": "This week on The Defiant Podcast, Tegan Kline speaks with Sam Williams, the\nco-founder and CEO of Arweave, a ‘collectively owned hard drive’ that enables\nusers to store data, applications, and documents on-chain, forever.",
-          "link": "https://thedefiant.io/arweaves-sam-williams-on-storing-files-on-chain-for-eternity/",
-          "publishedOn": "2022-12-09T15:43:10.000Z",
-          "wordCount": 610,
-          "title": "Arweave’s Sam Williams on Storing Files On-Chain for Eternity",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/08234213/Sam-Williams-On-Storing-Files-On-Chain-For-Eternity.jpg"
         }
       ]
     },
@@ -1386,7 +1386,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2801,
+          "wordCount": 2868,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -1396,7 +1396,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1955,
+          "wordCount": 1935,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         },
@@ -1406,7 +1406,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2337,
+          "wordCount": 2248,
           "title": "The decentralized CEO",
           "imageUrl": null
         }

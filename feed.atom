@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T11:11:10.022Z</id>
+    <id>urn:2022-12-30T12:24:28.365Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-30T11:11:10.022Z</updated>
+    <updated>2022-12-30T12:24:28.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chicken Bonds Pecked Their Way Into a Reward-Hungry Market]]></title>
+        <id>https://thedefiant.io/defi-breakthrough-chicken-bonds/</id>
+        <link href="https://thedefiant.io/defi-breakthrough-chicken-bonds/"/>
+        <updated>2022-12-30T11:05:39.000Z</updated>
+        <summary type="html"><![CDATA[Novel Liquidity Mechanism Attracted More Than $70M]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Why Solana is Down Bad | Avi Arrested | MicroStrategy Purchases $41M Bitcoin | Gemini Sued Over Gemini Earn]]></title>
         <id>https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi</id>
@@ -13,6 +23,16 @@
         <summary type="html"><![CDATA[Listen now (81 min) | Last Week of 2022]]></summary>
         <author>
             <name>Bankless Shows</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bear Attack: Investors Lick Their Wounds After Grim 2022]]></title>
+        <id>https://thedefiant.io/bear-attack-2022/</id>
+        <link href="https://thedefiant.io/bear-attack-2022/"/>
+        <updated>2022-12-30T10:52:17.000Z</updated>
+        <summary type="html"><![CDATA[Global Markets Had A Volatile Year As Inflation Took Centre Stage]]></summary>
+        <author>
+            <name>yyctrader</name>
         </author>
     </entry>
     <entry>
@@ -1325,28 +1345,6 @@ yet know all the details surrounding his arrest, but what we do know is that [�
 Phase]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF Spars with CZ And Denies ‘Hunting’ Three Arrows]]></title>
-        <id>https://thedefiant.io/sbf-spars-with-cz/</id>
-        <link href="https://thedefiant.io/sbf-spars-with-cz/"/>
-        <updated>2022-12-09T17:13:40.000Z</updated>
-        <summary type="html"><![CDATA[Disgraced FTX CEO Commits to Testifying Before Congress]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arweave’s Sam Williams on Storing Files On-Chain for Eternity]]></title>
-        <id>https://thedefiant.io/arweaves-sam-williams-on-storing-files-on-chain-for-eternity/</id>
-        <link href="https://thedefiant.io/arweaves-sam-williams-on-storing-files-on-chain-for-eternity/"/>
-        <updated>2022-12-09T15:43:10.000Z</updated>
-        <summary type="html"><![CDATA[This week on The Defiant Podcast, Tegan Kline speaks with Sam Williams, the
-co-founder and CEO of Arweave, a ‘collectively owned hard drive’ that enables
-users to store data, applications, and documents on-chain, forever.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
