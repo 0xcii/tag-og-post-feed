@@ -41,6 +41,26 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/zachxbt-defier-of-the-year/",
+          "author": "Aleksandar Gilbert",
+          "description": "Deeply Researched Probes of Questionable Projects Proved ‘Invaluable’ in Mad\nYear",
+          "link": "https://thedefiant.io/zachxbt-defier-of-the-year/",
+          "publishedOn": "2022-12-30T10:38:20.000Z",
+          "wordCount": 2696,
+          "title": "Crypto Sleuth ZachXBT Exposed Chicanery For a Grateful DeFi Community",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/30060952/DEFIERoty.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/cefi-vs-defi/",
+          "author": "Owen Fernau",
+          "description": "Collapse Of Centralized Crypto Players Makes The Case For Self-Custody",
+          "link": "https://thedefiant.io/cefi-vs-defi/",
+          "publishedOn": "2022-12-30T10:07:01.000Z",
+          "wordCount": 1793,
+          "title": "DeFi To Widen Gap With CeFi After Stormy Year",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/30014314/CEFIvDEFI.jpg"
+        },
+        {
           "id": "https://thedefiant.io/taking-aim-at-code-itself-feds-sent-crypto-a-clear-message-2/",
           "author": "The Defiant Team",
           "description": "Hello Defiers! Here’s the latest edition of our DeFi Year in Review stories!",
@@ -66,7 +86,7 @@
           "description": "Registering Like Companies Brings a Slew of Opportunities, and Challenges, for\nDigital Co-ops",
           "link": "https://thedefiant.io/daos-legal-structures/",
           "publishedOn": "2022-12-29T09:38:00.000Z",
-          "wordCount": 2068,
+          "wordCount": 2071,
           "title": "DAOs Make Peace With ‘Legacy Legal’ Requirements",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/29054112/DAOsGetReal.jpg"
         },
@@ -1019,26 +1039,6 @@
           "wordCount": 610,
           "title": "Arweave’s Sam Williams on Storing Files On-Chain for Eternity",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/08234213/Sam-Williams-On-Storing-Files-On-Chain-For-Eternity.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/bad-debt-defi-protocols/",
-          "author": "Samuel Haig",
-          "description": "Venus Protocol and Iron Bank Incur Eight-Digit Liabilities as MakerDAO Keeps a\nClean Sheet",
-          "link": "https://thedefiant.io/bad-debt-defi-protocols/",
-          "publishedOn": "2022-12-09T09:41:23.000Z",
-          "wordCount": 1849,
-          "title": "Bad Debt Piles up at DeFi Lending Protocols",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09052047/BADDEBT.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/what-is-defi-borrowing/",
-          "author": "Rahul Nambiampurath",
-          "description": "A Primer for One of the Most Popular Practices in DeFi",
-          "link": "https://thedefiant.io/what-is-defi-borrowing/",
-          "publishedOn": "2022-12-09T09:13:12.000Z",
-          "wordCount": 3345,
-          "title": "What is DeFi Borrowing?",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/12160020/WhatIsDefiBorrowing.jpg"
         }
       ]
     },
@@ -1047,6 +1047,22 @@
       "feedUrl": "https://shows.banklesshq.com/feed",
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi",
+          "author": null,
+          "description": "Listen now (81 min) | Last Week of 2022",
+          "link": "https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi",
+          "publishedOn": "2022-12-30T11:01:17.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Why Solana is Down Bad | Avi Arrested | MicroStrategy Purchases $41M Bitcoin | Gemini Sued Over Gemini Earn",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/93714920.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://shows.banklesshq.com/p/debrief-erik-voorhees-why-are-we-here",
           "author": null,
@@ -1350,22 +1366,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (37 min) | We need regulatory clarity and we need it now",
-          "link": "https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about",
-          "publishedOn": "2022-12-01T11:30:52.000Z",
-          "wordCount": null,
-          "title": "Senator Pat Toomey's Concerns about the SEC & Crypto",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/87929106.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1386,7 +1386,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2868,
+          "wordCount": 2801,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -1406,7 +1406,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2248,
+          "wordCount": 2337,
           "title": "The decentralized CEO",
           "imageUrl": null
         }

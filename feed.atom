@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T10:14:08.449Z</id>
+    <id>urn:2022-12-30T11:11:10.022Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-30T10:14:08.449Z</updated>
+    <updated>2022-12-30T11:11:10.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Why Solana is Down Bad | Avi Arrested | MicroStrategy Purchases $41M Bitcoin | Gemini Sued Over Gemini Earn]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi</id>
+        <link href="https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi"/>
+        <updated>2022-12-30T11:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (81 min) | Last Week of 2022]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Sleuth ZachXBT Exposed Chicanery For a Grateful DeFi Community]]></title>
+        <id>https://thedefiant.io/zachxbt-defier-of-the-year/</id>
+        <link href="https://thedefiant.io/zachxbt-defier-of-the-year/"/>
+        <updated>2022-12-30T10:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Deeply Researched Probes of Questionable Projects Proved ‘Invaluable’ in Mad
+Year]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Insrt Live, Vader Shutting Down, On-Chain DCA, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting</id>
@@ -13,6 +34,16 @@
         <summary type="html"><![CDATA[Insrt Live NFTfi yield protocol Insrt launches on Ethereum. The first deployed vault type is ShardVault, which allows users to take a directional bet that the price of a bluechip NFT collection goes up and farm yield passively. Vader Shutting Down Stablecoin protocol Vader announces the plan to shut down as the team found no notable breakthrough in the algorithmic stablecoin design that is capital efficient.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi To Widen Gap With CeFi After Stormy Year]]></title>
+        <id>https://thedefiant.io/cefi-vs-defi/</id>
+        <link href="https://thedefiant.io/cefi-vs-defi/"/>
+        <updated>2022-12-30T10:07:01.000Z</updated>
+        <summary type="html"><![CDATA[Collapse Of Centralized Crypto Players Makes The Case For Self-Custody]]></summary>
+        <author>
+            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
@@ -1349,27 +1380,6 @@ users to store data, applications, and documents on-chain, forever.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bad Debt Piles up at DeFi Lending Protocols]]></title>
-        <id>https://thedefiant.io/bad-debt-defi-protocols/</id>
-        <link href="https://thedefiant.io/bad-debt-defi-protocols/"/>
-        <updated>2022-12-09T09:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Venus Protocol and Iron Bank Incur Eight-Digit Liabilities as MakerDAO Keeps a
-Clean Sheet]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is DeFi Borrowing?]]></title>
-        <id>https://thedefiant.io/what-is-defi-borrowing/</id>
-        <link href="https://thedefiant.io/what-is-defi-borrowing/"/>
-        <updated>2022-12-09T09:13:12.000Z</updated>
-        <summary type="html"><![CDATA[A Primer for One of the Most Popular Practices in DeFi]]></summary>
-        <author>
-            <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Alpha Leak | The Bull Case for Modular Blockchains]]></title>
         <id>https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular</id>
         <link href="https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular"/>
@@ -1487,16 +1497,6 @@ Clean Sheet]]></summary>
         <summary type="html"><![CDATA[Uniswap NFT Aggregator Uniswap launches its NFT aggregator, allowing users to search, trade, and discover trends on NFTs. LINK Staking Update Chainlink is launching staking v0.1 on Dec. 6th. Stakers will be locking their funds til the planned launch of v0.2 (in 9-12 months) when the funds can be unlocked or migrated.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senator Pat Toomey's Concerns about the SEC & Crypto]]></title>
-        <id>https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about</id>
-        <link href="https://shows.banklesshq.com/p/senator-pat-toomeys-concerns-about"/>
-        <updated>2022-12-01T11:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (37 min) | We need regulatory clarity and we need it now]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
