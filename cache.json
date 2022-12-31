@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/pemdas-4362df99a509?source=rss-2f6e06954878------2",
           "publishedOn": "2022-12-09T14:15:04.000Z",
-          "wordCount": 7983,
+          "wordCount": 8044,
           "title": "PEMDAS",
           "imageUrl": "https://miro.medium.com/max/400/0*Kq7muZQCc9Hw6L4S"
         }
@@ -40,6 +40,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/defi-2022-heroes-rogues-and-breakthroughs/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s a compendium of our Year in Review stories published this\nweek!",
+          "link": "https://thedefiant.io/defi-2022-heroes-rogues-and-breakthroughs/",
+          "publishedOn": "2022-12-31T13:41:23.000Z",
+          "wordCount": 3375,
+          "title": "DeFi 2022: Heroes, Rogues, and Breakthroughs",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16063451/newsletter_thumbnails-01-1-scaled.webp"
+        },
         {
           "id": "https://thedefiant.io/crypto-sleuth-zachxbt-exposed-chicanery-for-grateful-community/",
           "author": "The Defiant Team",
@@ -1029,16 +1039,6 @@
           "wordCount": 2056,
           "title": "The Runway is Getting Shorter : Gensler",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09163952/GenslerSpeaks.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/bad-debt-piles-up-at-defi-lending-protocols/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we are covering today!",
-          "link": "https://thedefiant.io/bad-debt-piles-up-at-defi-lending-protocols/",
-          "publishedOn": "2022-12-09T19:08:37.000Z",
-          "wordCount": 2284,
-          "title": "Bad Debt Piles Up at DeFi Lending Protocols",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09052047/BADDEBT.jpg"
         }
       ]
     },
@@ -1396,7 +1396,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1935,
+          "wordCount": 1973,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         },
