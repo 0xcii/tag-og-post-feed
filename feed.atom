@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T23:13:23.206Z</id>
+    <id>urn:2022-12-31T01:05:52.515Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-30T23:13:23.206Z</updated>
+    <updated>2022-12-31T01:05:52.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1485,16 +1485,6 @@ yet know all the details surrounding his arrest, but what we do know is that [�
         <summary type="html"><![CDATA[Listen now (83 min) | New vs. Old Media]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Uniswap NFT Aggregator, LINK Staking Update, Trading Options on Arbitrum, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-nft-aggregator"/>
-        <updated>2022-12-01T11:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap NFT Aggregator Uniswap launches its NFT aggregator, allowing users to search, trade, and discover trends on NFTs. LINK Staking Update Chainlink is launching staking v0.1 on Dec. 6th. Stakers will be locking their funds til the planned launch of v0.2 (in 9-12 months) when the funds can be unlocked or migrated.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
