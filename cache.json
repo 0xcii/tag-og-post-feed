@@ -111,6 +111,16 @@
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/30014314/CEFIvDEFI.jpg"
         },
         {
+          "id": "https://thedefiant.io/2023-outlook/",
+          "author": "Aleksandar Gilbert",
+          "description": "Today we’re looking out into the year ahead and highlighting some key themes\nlikely to shape the DeFi space. If you haven’t already done so, check out the\n2022 review we released two days ago, and get caught up on the Defiant’s highs,\nlows and surprising moments of this past year.",
+          "link": "https://thedefiant.io/2023-outlook/",
+          "publishedOn": "2022-12-29T15:36:46.000Z",
+          "wordCount": null,
+          "title": "2023 Outlook",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/taking-aim-at-code-itself-feds-sent-crypto-a-clear-message-2/",
           "author": "The Defiant Team",
           "description": "Hello Defiers! Here’s the latest edition of our DeFi Year in Review stories!",
@@ -189,6 +199,16 @@
           "wordCount": 1963,
           "title": "NFTs That Bucked The Bear Market",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/28021429/NFTCollectionsThatBuckedTheBear2.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/2022-year-in-review/",
+          "author": "Aleksandar Gilbert",
+          "description": "Today we’re looking back at the biggest developments: the highs, the lows, and\nthe biggest surprises in DeFi over the past twelve months. Don’t forget to\nsubscribe to the Defiant for objective coverage on everything DeFi related,\nincluding our 2023 outlook, coming soon!",
+          "link": "https://thedefiant.io/2022-year-in-review/",
+          "publishedOn": "2022-12-27T15:34:00.000Z",
+          "wordCount": null,
+          "title": "2022 – Year In Review",
+          "imageUrl": null
         },
         {
           "id": "https://thedefiant.io/adams-defies-rough-year-to-make-uniswap-a-true-unicorn/",
@@ -1019,26 +1039,6 @@
           "wordCount": 1650,
           "title": "The War On Code: Investigating the Tornado Cash Sanctions and the Arrest of Alexey Pertsev",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/11130555/The-War-On-Code-Investigating-the-Tornado-Cash-Sanctions-and-the-Arrest-of-Alexey-Pertsev.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/grayscale-defi-fund/",
-          "author": "Owen Fernau",
-          "description": "DEFG Tracks A Basket Of UNI, AAVE, MKR, CRV and COMP",
-          "link": "https://thedefiant.io/grayscale-defi-fund/",
-          "publishedOn": "2022-12-10T04:55:48.000Z",
-          "wordCount": 1051,
-          "title": "Grayscale DeFi Fund Starts Trading",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/10005441/GrayscaleDeFiFund.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/opensea-cori/",
-          "author": "Owen Fernau",
-          "description": "Manifold Releases Marketplace Blocker",
-          "link": "https://thedefiant.io/opensea-cori/",
-          "publishedOn": "2022-12-10T04:43:31.000Z",
-          "wordCount": 1416,
-          "title": "OpenSea To Transfer Control Of Royalty Enforcement Tool to Industry Collective",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/10004230/OSCori.jpg"
         }
       ]
     },
