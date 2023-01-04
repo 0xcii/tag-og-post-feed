@@ -1048,6 +1048,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/are-nfts-securities-with-brian-frye",
+          "author": "David Hoffman",
+          "description": "Listen now (75 min) | Securities Lawyer Trolls the SEC",
+          "link": "https://shows.banklesshq.com/p/are-nfts-securities-with-brian-frye",
+          "publishedOn": "2023-01-04T05:53:23.000Z",
+          "wordCount": null,
+          "title": "Are NFTs Securities? with Brian Frye",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/94568098.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi",
           "author": null,
           "description": "Listen now (81 min) | Last Week of 2022",
@@ -1338,7 +1354,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2804,
+          "wordCount": 2836,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
