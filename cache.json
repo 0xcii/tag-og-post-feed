@@ -14,12 +14,12 @@
         {
           "id": "https://medium.com/p/4362df99a509",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/pemdas-4362df99a509?source=rss-2f6e06954878------2",
           "publishedOn": "2022-12-09T14:15:04.000Z",
-          "wordCount": 8084,
+          "wordCount": null,
           "title": "PEMDAS",
-          "imageUrl": "https://miro.medium.com/max/400/0*Kq7muZQCc9Hw6L4S"
+          "imageUrl": null
         }
       ]
     },
@@ -40,6 +40,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/what-is-ethersic/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Step-by-Step Guide to DeFi Insurance",
+          "link": "https://thedefiant.io/what-is-ethersic/",
+          "publishedOn": "2023-01-04T12:04:13.000Z",
+          "wordCount": 2811,
+          "title": "What is Ethersic?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/04080009/WhatIsEthersic.jpg"
+        },
         {
           "id": "https://thedefiant.io/sbf-pleads-not-guilty/",
           "author": "Aleksandar Gilbert",
@@ -1029,16 +1039,6 @@
           "wordCount": 1077,
           "title": "EIP Snub, Criticism Riles Uniswap Founder",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/13004533/EIP-Snub-Criticism-Riles-Uniswap-Founder.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/recap-defi-week-dec-4/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we covered this week!",
-          "link": "https://thedefiant.io/recap-defi-week-dec-4/",
-          "publishedOn": "2022-12-11T15:17:20.000Z",
-          "wordCount": 490,
-          "title": "Recap: DeFi Week Dec. 4",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124904/newsletter_thumbnails-01-1.png"
         }
       ]
     },
@@ -1354,7 +1354,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2760,
+          "wordCount": 2804,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
