@@ -41,6 +41,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/we-have-the-tools-to-reshape-cross-chain-identity/",
+          "author": "JP Bedoya",
+          "description": "A Primer on the Power of Soulbound Tokens, Decentralized Identifiers, and\nVerified Credentials",
+          "link": "https://thedefiant.io/we-have-the-tools-to-reshape-cross-chain-identity/",
+          "publishedOn": "2023-01-05T20:49:26.000Z",
+          "wordCount": 2331,
+          "title": "We Have the Tools to Reshape Cross-Chain Identity",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/09050825/FWVsxgSaQAAFFFC.jpg"
+        },
+        {
           "id": "https://thedefiant.io/coinbase-celsius-penalties-lawsuit/",
           "author": "Aleksandar Gilbert",
           "description": "NY Attorney General Alleges Celsius Founder of Defrauded Customers; Coinbase\nFined $50M",
@@ -1029,16 +1039,6 @@
           "wordCount": 2617,
           "title": "FTX CEO Blames Exchange’s Collapse on SBF’s Mismanagement",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14010902/RayTestifies.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/is-binance-the-next-crypto-giant-to-fall/",
-          "author": "Jack Dunham",
-          "description": "Binance next?",
-          "link": "https://thedefiant.io/is-binance-the-next-crypto-giant-to-fall/",
-          "publishedOn": "2022-12-13T19:44:00.000Z",
-          "wordCount": 863,
-          "title": "Is Binance the next crypto giant to fall?",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14034559/Is-Binance-the-next-crypto-giant-to-fall.jpg"
         }
       ]
     },
@@ -1370,7 +1370,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2832,
+          "wordCount": 2760,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -1390,7 +1390,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2268,
+          "wordCount": 2255,
           "title": "The decentralized CEO",
           "imageUrl": null
         }
