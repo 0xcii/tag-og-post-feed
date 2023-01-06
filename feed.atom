@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-06T12:26:53.422Z</id>
+    <id>urn:2023-01-06T13:19:52.495Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-06T12:26:53.422Z</updated>
+    <updated>2023-01-06T13:19:52.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[China Reverses Course on NFTs With Platform Launch]]></title>
+        <id>https://thedefiant.io/daily-defiant/</id>
+        <link href="https://thedefiant.io/daily-defiant/"/>
+        <updated>2023-01-06T12:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we’re covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Reverses Course on NFTs With Platform Launch]]></title>
+        <id>https://thedefiant.io/china-launches-nft-platform/</id>
+        <link href="https://thedefiant.io/china-launches-nft-platform/"/>
+        <updated>2023-01-06T11:37:17.000Z</updated>
+        <summary type="html"><![CDATA[After Years of Checking Crypto Beijing Warms to NFTs on its Own Terms]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mojo Builds for Hong Kong CBDC]]></title>
         <id>https://thedefiant.io/hong-kong-digital-dollar/</id>
@@ -1369,16 +1389,6 @@ utilize or are experimenting with […]]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FTX CEO Blames Exchange’s Collapse on SBF’s Mismanagement]]></title>
-        <id>https://thedefiant.io/ftx-ceo-blames-exchanges-collapse-on-sbfs-mismanagement/</id>
-        <link href="https://thedefiant.io/ftx-ceo-blames-exchanges-collapse-on-sbfs-mismanagement/"/>
-        <updated>2022-12-14T13:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022's Biggest Crypto Moments]]></title>
         <id>https://shows.banklesshq.com/p/2022s-biggest-crypto-moments</id>
         <link href="https://shows.banklesshq.com/p/2022s-biggest-crypto-moments"/>
@@ -1396,16 +1406,6 @@ utilize or are experimenting with […]]]></summary>
         <summary type="html"><![CDATA[Yearn veYFI Live Yearn launches UI for users to stake YFI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn. Signal Vote: Increase Sushi Kanpai Payout Ratio The Sushiswap community is voting to produce a signal on whether to redirect 100% of the Sushi fees redirect to the Kanpai Treasury for 1-year.]]></summary>
         <author>
             <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balancer Ends Long Governance Battle With Whale]]></title>
-        <id>https://thedefiant.io/balancer-ve-tokenomics-whale/</id>
-        <link href="https://thedefiant.io/balancer-ve-tokenomics-whale/"/>
-        <updated>2022-12-14T09:35:09.000Z</updated>
-        <summary type="html"><![CDATA[DEX’s Members Vote to Make Peace with Investor in Duel Over VE Tokenomics]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
