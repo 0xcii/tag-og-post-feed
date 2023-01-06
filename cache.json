@@ -51,6 +51,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/new-year-rally/",
+          "author": "Tarang Khaitan",
+          "description": "Lido And Solana Outperform As Markets Rally",
+          "link": "https://thedefiant.io/new-year-rally/",
+          "publishedOn": "2023-01-06T04:52:21.000Z",
+          "wordCount": 1502,
+          "title": "New Year Brings Some Relief To Crypto Investors",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/06005045/NewYearRally.jpg"
+        },
+        {
           "id": "https://thedefiant.io/we-have-the-tools-to-reshape-cross-chain-identity/",
           "author": "JP Bedoya",
           "description": "A Primer on the Power of Soulbound Tokens, Decentralized Identifiers, and\nVerified Credentials",
@@ -506,7 +516,7 @@
           "description": "SEC Chair Doubles Down on Vows to Force Crypto Platforms to Register Tokens as\nSecurities",
           "link": "https://thedefiant.io/gensler-vows-to-intensify-crypto-crackdown/",
           "publishedOn": "2022-12-23T09:37:35.000Z",
-          "wordCount": 2500,
+          "wordCount": 2471,
           "title": "Gensler Vows to Intensify Crypto Crackdown",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/23052421/GenslerCrackdown.jpg"
         },
@@ -946,7 +956,7 @@
           "description": "Move Enables US Users To Easily Access Web3",
           "link": "https://thedefiant.io/metamask-paypal-integration/",
           "publishedOn": "2022-12-15T05:04:12.000Z",
-          "wordCount": 1505,
+          "wordCount": 1476,
           "title": "MetaMask Launches PayPal Integration For ETH Purchases",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15010209/PaypalMMEth.jpg"
         },
@@ -1039,16 +1049,6 @@
           "wordCount": 1603,
           "title": "CowSwap Launches ‘Surplus-Capturing’ Limit Orders",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14022311/CowSwapLimit2.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/ftx-ceo-john-ray-congress/",
-          "author": "Aleksandar Gilbert",
-          "description": "“Old-fashioned Embezzlement,” John Ray Tells Congress",
-          "link": "https://thedefiant.io/ftx-ceo-john-ray-congress/",
-          "publishedOn": "2022-12-14T05:10:23.000Z",
-          "wordCount": 2588,
-          "title": "FTX CEO Blames Exchange’s Collapse on SBF’s Mismanagement",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/14010902/RayTestifies.jpg"
         }
       ]
     },
@@ -1359,6 +1359,16 @@
       "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
       "articles": [
         {
+          "id": "https://medium.com/p/ab7ce23da15b",
+          "author": "Andre Cronje",
+          "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
+          "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
+          "publishedOn": "2023-01-06T05:15:24.000Z",
+          "wordCount": 2211,
+          "title": "Oracle Evolution",
+          "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
+        },
+        {
           "id": "https://medium.com/p/eb3d870c6be8",
           "author": "Andre Cronje",
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
@@ -1395,6 +1405,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Fantom Voted For Gas Monetization Fantom governance passed the gas monetization proposal, in which Fantom will reduce the burn rate from 20% to 5%, and redirect the 15% to incentivize usage/transactions of Fantom dApps. Celsius Owns Account Assets The Judge of the Celsius bankruptcy case ruled that the funds deposited to Earn Accounts, which amount to $4.2 billion, are the property of Celsius, not the investors.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization",
+          "publishedOn": "2023-01-06T05:55:22.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Fantom Gas Monetization, Celsius Owns Account Assets, Own and Earn on Bluechip NFTs, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlpnSX7XwA4tbPz.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlpnSX7XwA4tbPz.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-router-vulnerability",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",

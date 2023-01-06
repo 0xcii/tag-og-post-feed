@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-06T05:13:05.873Z</id>
+    <id>urn:2023-01-06T06:17:48.093Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-06T05:13:05.873Z</updated>
+    <updated>2023-01-06T06:17:48.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Fantom Gas Monetization, Celsius Owns Account Assets, Own and Earn on Bluechip NFTs, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization"/>
+        <updated>2023-01-06T05:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Fantom Voted For Gas Monetization Fantom governance passed the gas monetization proposal, in which Fantom will reduce the burn rate from 20% to 5%, and redirect the 15% to incentivize usage/transactions of Fantom dApps. Celsius Owns Account Assets The Judge of the Celsius bankruptcy case ruled that the funds deposited to Earn Accounts, which amount to $4.2 billion, are the property of Celsius, not the investors.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle Evolution]]></title>
+        <id>https://medium.com/p/ab7ce23da15b</id>
+        <link href="https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2"/>
+        <updated>2023-01-06T05:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Year Brings Some Relief To Crypto Investors]]></title>
+        <id>https://thedefiant.io/new-year-rally/</id>
+        <link href="https://thedefiant.io/new-year-rally/"/>
+        <updated>2023-01-06T04:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Lido And Solana Outperform As Markets Rally]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vitiligo]]></title>
         <id>https://medium.com/p/b401cc31cd57</id>
@@ -1359,16 +1389,6 @@ utilize or are experimenting with […]]]></summary>
         <summary type="html"><![CDATA[MetaDEX Aggregator Has Facilitated Over $18B In Trades]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX CEO Blames Exchange’s Collapse on SBF’s Mismanagement]]></title>
-        <id>https://thedefiant.io/ftx-ceo-john-ray-congress/</id>
-        <link href="https://thedefiant.io/ftx-ceo-john-ray-congress/"/>
-        <updated>2022-12-14T05:10:23.000Z</updated>
-        <summary type="html"><![CDATA[“Old-fashioned Embezzlement,” John Ray Tells Congress]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>
