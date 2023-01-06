@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-05T23:15:38.535Z</id>
+    <id>urn:2023-01-06T01:11:32.310Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-05T23:15:38.535Z</updated>
+    <updated>2023-01-06T01:11:32.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitiligo]]></title>
+        <id>https://medium.com/p/b401cc31cd57</id>
+        <link href="https://cryptohayes.medium.com/vitiligo-b401cc31cd57?source=rss-2f6e06954878------2"/>
+        <updated>2023-01-06T00:01:42.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We Have the Tools to Reshape Cross-Chain Identity]]></title>
         <id>https://thedefiant.io/we-have-the-tools-to-reshape-cross-chain-identity/</id>
@@ -1457,16 +1467,6 @@ utilize or are experimenting with […]]]></summary>
         <link href="https://shows.banklesshq.com/p/phantom-wallet-on-ethereum"/>
         <updated>2022-12-08T11:30:00.000Z</updated>
         <summary type="html"><![CDATA[Listen now (59 min) | Co-Founders Discussing the DeFi Wallet Landscape]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is This the Endgame? with Itay Vinik]]></title>
-        <id>https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik</id>
-        <link href="https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik"/>
-        <updated>2022-12-07T11:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (79 min) | When’s the Fed Going to Pivot?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

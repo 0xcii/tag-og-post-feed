@@ -12,6 +12,16 @@
       "siteUrl": "https://medium.com/@cryptohayes?source=rss-2f6e06954878------2",
       "articles": [
         {
+          "id": "https://medium.com/p/b401cc31cd57",
+          "author": "Arthur Hayes",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "link": "https://cryptohayes.medium.com/vitiligo-b401cc31cd57?source=rss-2f6e06954878------2",
+          "publishedOn": "2023-01-06T00:01:42.000Z",
+          "wordCount": 12415,
+          "title": "Vitiligo",
+          "imageUrl": "https://miro.medium.com/max/400/0*tlGQDfuHcTy9yJ9j"
+        },
+        {
           "id": "https://medium.com/p/4362df99a509",
           "author": "Arthur Hayes",
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
@@ -1334,22 +1344,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (79 min) | When’s the Fed Going to Pivot?",
-          "link": "https://shows.banklesshq.com/p/is-this-the-endgame-with-itay-vinik",
-          "publishedOn": "2022-12-07T11:31:04.000Z",
-          "wordCount": null,
-          "title": "Is This the Endgame? with Itay Vinik",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/89117498.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1370,7 +1364,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2760,
+          "wordCount": 2832,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -1390,7 +1384,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2268,
+          "wordCount": 2248,
           "title": "The decentralized CEO",
           "imageUrl": null
         }
