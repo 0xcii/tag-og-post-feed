@@ -876,7 +876,7 @@
           "description": "Blur Airdrop Farmers Boost Trading Volumes",
           "link": "https://thedefiant.io/trump-nfts/",
           "publishedOn": "2022-12-16T08:32:16.000Z",
-          "wordCount": 1391,
+          "wordCount": 1396,
           "title": "Trump Drops Self-Styled NFT Trading Cards",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16042412/TrumpNFTs2.jpg"
         },
@@ -1390,7 +1390,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2832,
+          "wordCount": 2850,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -1400,7 +1400,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1940,
+          "wordCount": 2049,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         },
@@ -1421,6 +1421,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-avalanche-nfts-on-shopify",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Avalanche NFTs on Shopify Shopify merchants can now mint NFTs on Avalanche and list NFTs on their stores for sale, instead of directing visitors to OpenSea or Magic Eden. Trader Joe Coming to BnB Chain Avalanche-based trading platform Trader Joe will deploy its DEX and NFT marketplace to the BnB chain by the end of March.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-avalanche-nfts-on-shopify",
+          "publishedOn": "2023-01-06T13:12:42.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Avalanche NFTs on Shopify, Trader Joe Coming to BnB Chain, Uni V3 LP Strategies, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/raocmkqifj8fb8pt3y4x",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/raocmkqifj8fb8pt3y4x"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
