@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-06T09:13:26.235Z</id>
+    <id>urn:2023-01-06T10:15:03.734Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-06T09:13:26.235Z</updated>
+    <updated>2023-01-06T10:15:03.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: SBF Pleads Not Guilty | Winklevoss vs Barry Silbert | Predicting 2023 | ETH Staking]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-sbf-pleads-not-guilty-winklevoss</id>
+        <link href="https://shows.banklesshq.com/p/rollup-sbf-pleads-not-guilty-winklevoss"/>
+        <updated>2023-01-06T09:17:33.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | 1st Week of 2023]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Fantom Gas Monetization, Celsius Owns Account Assets, Own and Earn on Bluechip NFTs, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization</id>

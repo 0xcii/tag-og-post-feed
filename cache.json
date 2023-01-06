@@ -1058,6 +1058,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-sbf-pleads-not-guilty-winklevoss",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now | 1st Week of 2023",
+          "link": "https://shows.banklesshq.com/p/rollup-sbf-pleads-not-guilty-winklevoss",
+          "publishedOn": "2023-01-06T09:17:33.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: SBF Pleads Not Guilty | Winklevoss vs Barry Silbert | Predicting 2023 | ETH Staking",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/94970556.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/whats-the-point-of-securities-laws",
           "author": "David Hoffman",
           "description": "Listen now (61 min) | The securities rabbit hole continues",
@@ -1364,7 +1380,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2211,
+          "wordCount": 1995,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
