@@ -1328,22 +1328,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (58 min) | Fuel & Celestia",
-          "link": "https://shows.banklesshq.com/p/alpha-leak-the-bull-case-for-modular",
-          "publishedOn": "2022-12-08T19:00:57.000Z",
-          "wordCount": null,
-          "title": "Alpha Leak | The Bull Case for Modular Blockchains",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/89319871.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1364,7 +1348,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2282,
+          "wordCount": 2211,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
