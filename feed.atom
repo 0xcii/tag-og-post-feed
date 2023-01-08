@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-08T01:13:27.815Z</id>
+    <id>urn:2023-01-08T02:42:58.311Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-08T01:13:27.815Z</updated>
+    <updated>2023-01-08T02:42:58.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1442,26 +1442,6 @@ Governance]]></summary>
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-perennial-live"/>
         <updated>2022-12-12T09:11:04.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Dec. 5th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEMDAS]]></title>
-        <id>https://medium.com/p/4362df99a509</id>
-        <link href="https://entrepreneurshandbook.co/pemdas-4362df99a509?source=rss-2f6e06954878------2"/>
-        <updated>2022-12-09T14:15:04.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
-        <author>
-            <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Ethereum Shanghai Coming 2023, DeFi Kingdoms Live on Klaytn, Farming on Arbitrum, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-ethereum-shanghai-coming</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-ethereum-shanghai-coming"/>
-        <updated>2022-12-09T13:21:09.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Shanghai Coming 2023 Ethereum developers set March 2023 as a tentative shipping date for the Shanghai upgrade. The upgrade will enable staked ETH withdrawals, and implement big EOF and warm coinbase, etc., among other updates. DeFi Kingdoms, LayerZero on Klaytn]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
