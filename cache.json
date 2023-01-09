@@ -14,12 +14,12 @@
         {
           "id": "https://medium.com/p/b401cc31cd57",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/vitiligo-b401cc31cd57?source=rss-2f6e06954878------2",
           "publishedOn": "2023-01-06T00:01:42.000Z",
-          "wordCount": 12608,
+          "wordCount": null,
           "title": "Vitiligo",
-          "imageUrl": "https://miro.medium.com/max/400/0*tlGQDfuHcTy9yJ9j"
+          "imageUrl": null
         }
       ]
     },
@@ -1322,7 +1322,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2303,
+          "wordCount": 2319,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
@@ -1352,7 +1352,7 @@
           "description": "If you read the title, and saw the oxymoron, you get it.",
           "link": "https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-15T00:05:16.000Z",
-          "wordCount": 2261,
+          "wordCount": 2276,
           "title": "The decentralized CEO",
           "imageUrl": null
         }
@@ -1363,6 +1363,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-mux-v2-live-on",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Jan. 2nd",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-mux-v2-live-on",
+          "publishedOn": "2023-01-09T09:08:43.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Mux V2 Live on Arbitrum, Mastercard Artist Accelerator on Polygon, Ethereum Shanghai Hardfork, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeb203c7-0122-4172-8cc1-8fa117ad9646_1200x600.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeb203c7-0122-4172-8cc1-8fa117ad9646_1200x600.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-avalanche-nfts-on-shopify",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
