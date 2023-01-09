@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-09T14:16:01.274Z</id>
+    <id>urn:2023-01-09T15:20:49.579Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-09T14:16:01.274Z</updated>
+    <updated>2023-01-09T15:20:49.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Devs Prep Plan to Let Stakers Withdraw ETH From Beacon]]></title>
+        <id>https://thedefiant.io/ethereum-devs-prime-beacon-for-eth-withdrawal/</id>
+        <link href="https://thedefiant.io/ethereum-devs-prime-beacon-for-eth-withdrawal/"/>
+        <updated>2023-01-09T14:54:12.000Z</updated>
+        <summary type="html"><![CDATA[ETH Stakers May Be Able to Initiate Withdrawals in March]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEBRIEF - Liv Boeree]]></title>
         <id>https://shows.banklesshq.com/p/liv-boeree</id>
@@ -1392,17 +1402,6 @@ Cryptocurrencies]]></summary>
         <summary type="html"><![CDATA[Warren’s War on Privacy]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Alpha Call #31]]></title>
-        <id>https://thedefiant.io/defi-alpha-call-31/</id>
-        <link href="https://thedefiant.io/defi-alpha-call-31/"/>
-        <updated>2022-12-15T05:19:19.000Z</updated>
-        <summary type="html"><![CDATA[This is a recap of our latest DeFi Alpha Call that took place on 12/12/2022 in
-Discord.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
