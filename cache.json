@@ -41,6 +41,26 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/lido-rides-liquid-staking-wave-to-become-largest-defi-protocol/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Happy Tuesday! Here’s what we are covering today.",
+          "link": "https://thedefiant.io/lido-rides-liquid-staking-wave-to-become-largest-defi-protocol/",
+          "publishedOn": "2023-01-10T14:48:18.000Z",
+          "wordCount": 2047,
+          "title": "Lido Rides Liquid Staking Wave to Become Largest DeFi Protocol",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/06170640/LSDRally.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/what-are-defi-derivatives/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Primer on High-Risk Instruments Used in Decentralized Finance",
+          "link": "https://thedefiant.io/what-are-defi-derivatives/",
+          "publishedOn": "2023-01-10T14:38:47.000Z",
+          "wordCount": 2722,
+          "title": "What Are DeFi Derivatives?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/10103735/WhatAreDeFiDerivs.jpg"
+        },
+        {
           "id": "https://thedefiant.io/layer-1-tokens-outperform-as-market-rallies/",
           "author": "Aleksandar Gilbert",
           "description": "Layer 1 Tokens Outperform",
@@ -56,8 +76,8 @@
           "description": "Vitalik Emphasizes Need For Stability Of Ethereum’s Virtual Machine",
           "link": "https://thedefiant.io/eip5988-zk-compatibility-evm/",
           "publishedOn": "2023-01-10T03:13:47.000Z",
-          "wordCount": 1870,
-          "title": "Proposed EIP-5988 Aims To Improve ZK-Rollups’ Compatibility With Ethereum",
+          "wordCount": 1858,
+          "title": "EIP-5988 Poised To Improve ZK-Rollups’ Compatibility With Ethereum",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/09231243/EIP5988.jpg"
         },
         {
@@ -1019,26 +1039,6 @@
           "wordCount": 633,
           "title": "SBF Arrested; CZ Under Investigation",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/17013438/SBF-Arrested-CZ-Under-Investigation.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/markets-slide-on-hawkish-fed/",
-          "author": "Owen Fernau",
-          "description": "ECB Follows With 50bps Hike",
-          "link": "https://thedefiant.io/markets-slide-on-hawkish-fed/",
-          "publishedOn": "2022-12-16T05:04:25.000Z",
-          "wordCount": 1488,
-          "title": "Markets Slide As Fed Says Higher Rates Are Here To Stay",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16010317/image-18.png"
-        },
-        {
-          "id": "https://thedefiant.io/aztec-100m-raise/",
-          "author": "Aleksandar Gilbert",
-          "description": "VCs Make Big Bet on VPN Player as Regulatory Risk Rises",
-          "link": "https://thedefiant.io/aztec-100m-raise/",
-          "publishedOn": "2022-12-16T03:22:50.000Z",
-          "wordCount": 2103,
-          "title": "Privacy Protocol Aztec Raises $100M",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/15232203/Aztec100MRaise.jpg"
         }
       ]
     },
