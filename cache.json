@@ -41,6 +41,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/pleasrdao-game-show-snowden-ellsberg/",
+          "author": "Owen Fernau",
+          "description": "First Episode Set To Air On Jan. 12",
+          "link": "https://thedefiant.io/pleasrdao-game-show-snowden-ellsberg/",
+          "publishedOn": "2023-01-10T19:00:16.000Z",
+          "wordCount": 1687,
+          "title": "PleasrDAO to Launch Game Show Featuring Snowden and Ellsberg",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/10145902/PleasrHouseSnowdenEllsberg.jpg"
+        },
+        {
           "id": "https://thedefiant.io/winklevoss-accuses-silbert-fraud/",
           "author": "Aleksandar Gilbert",
           "description": "Gemini CEO Calls For Silbert’s Termination",
@@ -1029,16 +1039,6 @@
           "wordCount": 1043,
           "title": "Solana DEX Raydium Hacked for $2.2M",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16143617/RaydiumHACKED.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/markets-slide-as-fed-says-higher-rates-are-here-to-stay/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we are covering today!",
-          "link": "https://thedefiant.io/markets-slide-as-fed-says-higher-rates-are-here-to-stay/",
-          "publishedOn": "2022-12-16T13:44:15.000Z",
-          "wordCount": 1952,
-          "title": "Markets Slide as Fed Says Higher Rates Are Here to Stay",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/16010317/image-18.png"
         }
       ]
     },
@@ -1374,7 +1374,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1942,
+          "wordCount": 1956,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         },
