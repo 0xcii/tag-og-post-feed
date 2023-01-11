@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T09:16:24.179Z</id>
+    <id>urn:2023-01-11T10:18:12.441Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-11T09:16:24.179Z</updated>
+    <updated>2023-01-11T10:18:12.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Yearn Permissionless Vault Factory, Woo Tokenomics Revamp, ETH Staking Derivative Options, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless"/>
+        <updated>2023-01-11T09:17:12.000Z</updated>
+        <summary type="html"><![CDATA[Yearn Premissionless Vault Factory Yearn launches Permissionless Vault Factory, allowing anyone to deploy an auto-compounding yVault for any Curve pool with an active liquidity gauge. Yearn charges a 10% fee on Factory-deployed vaults. Woo Tokenomics Revamp]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism Activity Hits New Highs As Layer 2s Close In On Ethereum]]></title>
         <id>https://thedefiant.io/optimism-transactions-ath/</id>
