@@ -1048,6 +1048,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (76 min) | Our hottest predictions + ultra alpha leak",
+          "link": "https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan",
+          "publishedOn": "2023-01-11T00:12:07.000Z",
+          "wordCount": null,
+          "title": "10 Predictions for 2023 with Ryan & David",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/95943977.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/liv-boeree",
           "author": "David Hoffman",
           "description": "Listen now (26 min) | Debriefing the Why Can't We Have Nice Things with Liv Boeree episode",
@@ -1332,7 +1348,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2830,
+          "wordCount": 2791,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -1342,7 +1358,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1942,
+          "wordCount": 1826,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         },

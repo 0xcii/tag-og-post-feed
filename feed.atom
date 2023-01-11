@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-10T23:14:23.822Z</id>
+    <id>urn:2023-01-11T01:10:29.523Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-10T23:14:23.822Z</updated>
+    <updated>2023-01-11T01:10:29.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[10 Predictions for 2023 with Ryan & David]]></title>
+        <id>https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan</id>
+        <link href="https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan"/>
+        <updated>2023-01-11T00:12:07.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (76 min) | Our hottest predictions + ultra alpha leak]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Court Hands Down 10-Month Sentence in Coinbase Insider Trading Case]]></title>
         <id>https://thedefiant.io/coinbase-insider-trading-10m-sentence/</id>
