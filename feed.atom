@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T13:24:35.575Z</id>
+    <id>urn:2023-01-11T14:18:48.854Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-11T13:24:35.575Z</updated>
+    <updated>2023-01-11T14:18:48.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CZ Zings Genesis-Gemini Fracas With Vow to Protect Customer Assets]]></title>
+        <id>https://thedefiant.io/cz-gemini-genesis/</id>
+        <link href="https://thedefiant.io/cz-gemini-genesis/"/>
+        <updated>2023-01-11T13:28:40.000Z</updated>
+        <summary type="html"><![CDATA[CZ Addressed Concerns about Binance and the Market]]></summary>
+        <author>
+            <name>Edward Robinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Yearn Permissionless Vault Factory, Woo Tokenomics Revamp, ETH Staking Derivative Options, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless</id>
@@ -1376,16 +1386,6 @@ Strong]]></summary>
         <summary type="html"><![CDATA[Product Launches 🚀 Multichain multiBTC Live Multichain launches multiBTC and a BTC bridge. Meanwhile, Curve launches a multiBTC/WBTC/sBTC pool and launched a proposal vote for adding liquidity incentives to the pool. Yearn veYFI Live Yearn launched the staking UI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sushi Requires ‘Immediate Action’ To Bolster Revenue]]></title>
-        <id>https://thedefiant.io/sushi-proposal-debate-revenue-hot-water/</id>
-        <link href="https://thedefiant.io/sushi-proposal-debate-revenue-hot-water/"/>
-        <updated>2022-12-19T11:34:19.000Z</updated>
-        <summary type="html"><![CDATA[Head Chef Grey Proposes Diverting Transaction Fees to Treasury From Stakers]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
