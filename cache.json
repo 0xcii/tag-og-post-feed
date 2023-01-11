@@ -58,6 +58,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/binance-lapse-busd-reserves/",
+          "author": "Tarang Khaitan",
+          "description": "Binance-peg BUSD Was Insufficiently Backed From 2020 To 2021",
+          "link": "https://thedefiant.io/binance-lapse-busd-reserves/",
+          "publishedOn": "2023-01-11T18:48:58.000Z",
+          "wordCount": 1447,
+          "title": "Binance Admits Lapse In Maintaining Stablecoin Reserves",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/11144759/BUSDReservesInTrouble.jpg"
+        },
+        {
           "id": "https://thedefiant.io/venom-foundation-in-partnership-with-iceberg-capital-launches-1-billion-venom-ventures-fund/",
           "author": "chainwire",
           "description": "Abu Dhabi, Abu Dhabi, 11th January, 2023, Chainwire Venom Foundation, the first\nLayer-1 blockchain licensed and regulated by the Abu Dhabi Global Market (ADGM),\nand Iceberg Capital, an ADGM regulated investment manager, officially announce\nthat they have partnered to launch a $1 billion venture fund called Venom\nVentures Fund (VVF).  The blockchain-agnostic fund will invest […]",
@@ -1046,16 +1056,6 @@
           "wordCount": 2744,
           "title": "Aztec Bets Financial Privacy Will Weather ‘Crypto War’",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/19223049/AztecFollowUp.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/visa-autopayments-self-custody/",
-          "author": "Owen Fernau",
-          "description": "Payments Giant Chooses StarkNet For Proposed Implementation",
-          "link": "https://thedefiant.io/visa-autopayments-self-custody/",
-          "publishedOn": "2022-12-20T02:26:02.000Z",
-          "wordCount": 1555,
-          "title": "Visa Unveils Plans For Auto-Payments From Self-Custodied Wallets",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/19222510/VISAExploresBlockchainTechForAutomatedPayments.jpg"
         }
       ]
     },
@@ -1683,22 +1683,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjrb3fLVIAEmDaB.jpg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-makerdao-key-deployments",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "MakerDAO Key Deployments Maker executed a bunch of proposals today. Key deployments include DSR Savings increase to 1%, GNO onboarding, and renBTC-A offboarding, among other changes. SBF Arrested SBF has been arrested in the Bahamas the day before appearing before Congress. Reports say the US is likely to request extradition.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-makerdao-key-deployments",
-          "publishedOn": "2022-12-13T08:03:20.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - MakerDAO Key Deployments, SBF Arrested, Interest-Free Borrowing, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjyoD3cXgAAlIOn.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFjyoD3cXgAAlIOn.jpg"
         }
       ]
     }

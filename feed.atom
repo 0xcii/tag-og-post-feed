@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T19:12:21.987Z</id>
+    <id>urn:2023-01-11T20:14:37.780Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-11T19:12:21.987Z</updated>
+    <updated>2023-01-11T20:14:37.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binance Admits Lapse In Maintaining Stablecoin Reserves]]></title>
+        <id>https://thedefiant.io/binance-lapse-busd-reserves/</id>
+        <link href="https://thedefiant.io/binance-lapse-busd-reserves/"/>
+        <updated>2023-01-11T18:48:58.000Z</updated>
+        <summary type="html"><![CDATA[Binance-peg BUSD Was Insufficiently Backed From 2020 To 2021]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Venom Foundation in Partnership With Iceberg Capital Launches $1 Billion Venom Ventures Fund]]></title>
         <id>https://thedefiant.io/venom-foundation-in-partnership-with-iceberg-capital-launches-1-billion-venom-ventures-fund/</id>
@@ -1383,16 +1393,6 @@ Strong]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visa Unveils Plans For Auto-Payments From Self-Custodied Wallets]]></title>
-        <id>https://thedefiant.io/visa-autopayments-self-custody/</id>
-        <link href="https://thedefiant.io/visa-autopayments-self-custody/"/>
-        <updated>2022-12-20T02:26:02.000Z</updated>
-        <summary type="html"><![CDATA[Payments Giant Chooses StarkNet For Proposed Implementation]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - multiBTC Live, SBF Arrested, Ren to Shut Down 1.0, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-mulyibtc-live-sbf</id>
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-mulyibtc-live-sbf"/>
@@ -1490,16 +1490,6 @@ Strong]]></summary>
         <summary type="html"><![CDATA[Yearn veYFI Live Yearn launches UI for users to stake YFI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn. Signal Vote: Increase Sushi Kanpai Payout Ratio The Sushiswap community is voting to produce a signal on whether to redirect 100% of the Sushi fees redirect to the Kanpai Treasury for 1-year.]]></summary>
         <author>
             <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - MakerDAO Key Deployments, SBF Arrested, Interest-Free Borrowing, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-makerdao-key-deployments</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-makerdao-key-deployments"/>
-        <updated>2022-12-13T08:03:20.000Z</updated>
-        <summary type="html"><![CDATA[MakerDAO Key Deployments Maker executed a bunch of proposals today. Key deployments include DSR Savings increase to 1%, GNO onboarding, and renBTC-A offboarding, among other changes. SBF Arrested SBF has been arrested in the Bahamas the day before appearing before Congress. Reports say the US is likely to request extradition.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
