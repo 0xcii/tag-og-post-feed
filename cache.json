@@ -58,6 +58,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/avalanche-aws-partnership/",
+          "author": "Aleksandar Gilbert",
+          "description": "AWS to Distribute Credits to Avalanche Projects",
+          "link": "https://thedefiant.io/avalanche-aws-partnership/",
+          "publishedOn": "2023-01-12T04:52:59.000Z",
+          "wordCount": 1283,
+          "title": "Avalanche and Amazon Ink Partnership to Boost Subnet Deployment",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/12004824/AVAXAWS.jpg"
+        },
+        {
           "id": "https://thedefiant.io/consensys-zkevm-testnet/",
           "author": "Samuel Haig",
           "description": "Early Testnet Users Could Qualify For a Potential Airdrop",
@@ -1046,16 +1056,6 @@
           "wordCount": 2443,
           "title": "[SPONSORED] RAILGUN DAO Pioneers New Type of Governance Incentives",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/20042946/RAILGUN-DAO-Pioneers-New-Type-of-Governance-Incentives.png"
-        },
-        {
-          "id": "https://thedefiant.io/grayscale-plan-b-tender-offer/",
-          "author": "Aleksandar Gilbert",
-          "description": "CEO Expects Court Decision Early Next Year",
-          "link": "https://thedefiant.io/grayscale-plan-b-tender-offer/",
-          "publishedOn": "2022-12-20T03:51:19.000Z",
-          "wordCount": 1575,
-          "title": "Grayscale To Consider Tender Offer If ETF Conversion Fails",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/19235002/GBTCSEC.jpg"
         }
       ]
     },
@@ -1064,6 +1064,54 @@
       "feedUrl": "https://shows.banklesshq.com/feed",
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
+        {
+          "id": "https://shows.banklesshq.com/p/tyler-cowen-debrief",
+          "author": "David Hoffman",
+          "description": "Listen now (32 min) | Debriefing the Why Crypto is Underrated with Tyler Cowen episode",
+          "link": "https://shows.banklesshq.com/p/tyler-cowen-debrief",
+          "publishedOn": "2023-01-12T06:07:56.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - Tyler Cowen",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/96196440.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (58 min) | A polymath's perspective",
+          "link": "https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated",
+          "publishedOn": "2023-01-12T06:07:47.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - Why Crypto is Underrated with Tyler Cowen",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/96196441.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/pleasrdaos-nft-auction-house-with",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (33 min) | An afternoon with the Chief Pleasr",
+          "link": "https://shows.banklesshq.com/p/pleasrdaos-nft-auction-house-with",
+          "publishedOn": "2023-01-12T05:32:25.000Z",
+          "wordCount": null,
+          "title": "PleasrDAO's NFT Auction House with Jamis Johnson",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/96193583.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan",
           "author": "Ryan Sean Adams",
@@ -1355,7 +1403,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2211,
+          "wordCount": 2283,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
@@ -1365,7 +1413,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2765,
+          "wordCount": 2828,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -1375,7 +1423,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1826,
+          "wordCount": 1920,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         },
