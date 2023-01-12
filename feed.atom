@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-12T22:14:10.462Z</id>
+    <id>urn:2023-01-12T23:14:50.519Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-12T22:14:10.462Z</updated>
+    <updated>2023-01-12T23:14:50.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1517,26 +1517,6 @@ threads.]]></summary>
         <summary type="html"><![CDATA[If you read the title, and saw the oxymoron, you get it.]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022's Biggest Crypto Moments]]></title>
-        <id>https://shows.banklesshq.com/p/2022s-biggest-crypto-moments</id>
-        <link href="https://shows.banklesshq.com/p/2022s-biggest-crypto-moments"/>
-        <updated>2022-12-14T10:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (58 min) | The Best, The Worst, The Villains, and the Heroes]]></summary>
-        <author>
-            <name>Bankless Shows</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Yearn veYFI Live, Sushi Voting to Increase Treasury Ratio, Trading Volatility, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-yearn-veyfi-live-sushi</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-veyfi-live-sushi"/>
-        <updated>2022-12-14T10:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Yearn veYFI Live Yearn launches UI for users to stake YFI for veYFI. Previously, users can take part in governance using YFI, and going forward veYFI will be the only governance token on Yearn. Signal Vote: Increase Sushi Kanpai Payout Ratio The Sushiswap community is voting to produce a signal on whether to redirect 100% of the Sushi fees redirect to the Kanpai Treasury for 1-year.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
 </feed>
