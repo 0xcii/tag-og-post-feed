@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-12T09:15:31.029Z</id>
+    <id>urn:2023-01-12T10:17:11.832Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-12T09:15:31.029Z</updated>
+    <updated>2023-01-12T10:17:11.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Myso v1 Live, Flare L1 Live, L2 airdrops, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-myso-v1-live-flare</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-myso-v1-live-flare"/>
+        <updated>2023-01-12T10:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Myso v1 Live Zero-liquidation lending protocol Myso launches V1 on Ethereum, with the initial rETH/wETH pool live for lenders and borrowers. Myso also launched gated LP program and a referral program for users. Flare L1 Live L1 oracle network Flare launches its mainnet and the first token distribution. Flare has two core protocols]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Needs to Up Its Game on Privacy]]></title>
+        <id>https://thedefiant.io/crypto-needs-to-up-its-game-on-privacy/</id>
+        <link href="https://thedefiant.io/crypto-needs-to-up-its-game-on-privacy/"/>
+        <updated>2023-01-12T08:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Spirit of CypherPunks Lives on in Maturing Industry]]></summary>
+        <author>
+            <name>Sam Harrison</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Alpha Call #33]]></title>
         <id>https://thedefiant.io/defi-alpha-call-33/</id>
@@ -38,7 +58,7 @@ hottest NFTs.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gitcoin Announces ‘Alpha’ Round To Test Decentralized Funding Protocol]]></title>
+        <title type="html"><![CDATA[Gitcoin To Test Decentralized Funding Protocol]]></title>
         <id>https://thedefiant.io/gitcoin-alpha-round/</id>
         <link href="https://thedefiant.io/gitcoin-alpha-round/"/>
         <updated>2023-01-12T05:54:56.000Z</updated>
@@ -1401,16 +1421,6 @@ hottest NFTs.]]></summary>
 Strong]]></summary>
         <author>
             <name>Jsson Xia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ApeCoin DAO Set to Cut Ties with Administrator Over Fees]]></title>
-        <id>https://thedefiant.io/apecoin-dao-administrator-vote/</id>
-        <link href="https://thedefiant.io/apecoin-dao-administrator-vote/"/>
-        <updated>2022-12-21T04:15:50.000Z</updated>
-        <summary type="html"><![CDATA[New CEO Joins Yuga Labs From Activision Blizzard]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>

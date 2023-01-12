@@ -58,6 +58,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/crypto-needs-to-up-its-game-on-privacy/",
+          "author": "Sam Harrison",
+          "description": "Spirit of CypherPunks Lives on in Maturing Industry",
+          "link": "https://thedefiant.io/crypto-needs-to-up-its-game-on-privacy/",
+          "publishedOn": "2023-01-12T08:46:56.000Z",
+          "wordCount": 2893,
+          "title": "Crypto Needs to Up Its Game on Privacy",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/11041413/CryptoPrivacy.png"
+        },
+        {
           "id": "https://thedefiant.io/defi-alpha-call-33/",
           "author": "The Defiant Team",
           "description": "The DeFi Alpha Call is an exclusive weekly call for our premium subscribers\nwhere yyctrader and Diego talk about the market, the newest tutorials, and the\nhottest NFTs.",
@@ -74,7 +84,7 @@
           "link": "https://thedefiant.io/gitcoin-alpha-round/",
           "publishedOn": "2023-01-12T05:54:56.000Z",
           "wordCount": 1393,
-          "title": "Gitcoin Announces ‘Alpha’ Round To Test Decentralized Funding Protocol",
+          "title": "Gitcoin To Test Decentralized Funding Protocol",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/12015201/GTCAlphaRound.jpg"
         },
         {
@@ -1046,16 +1056,6 @@
           "wordCount": 2983,
           "title": "It May Take Time But Web3 is Coming — History Tells Us So",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/21051652/WebEvolution.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/apecoin-dao-administrator-vote/",
-          "author": "Owen Fernau",
-          "description": "New CEO Joins Yuga Labs From Activision Blizzard",
-          "link": "https://thedefiant.io/apecoin-dao-administrator-vote/",
-          "publishedOn": "2022-12-21T04:15:50.000Z",
-          "wordCount": 1666,
-          "title": "ApeCoin DAO Set to Cut Ties with Administrator Over Fees",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/21001446/dalegreBAYC.jpg"
         }
       ]
     },
@@ -1413,7 +1413,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2765,
+          "wordCount": 2828,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -1444,6 +1444,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-myso-v1-live-flare",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Myso v1 Live Zero-liquidation lending protocol Myso launches V1 on Ethereum, with the initial rETH/wETH pool live for lenders and borrowers. Myso also launched gated LP program and a referral program for users. Flare L1 Live L1 oracle network Flare launches its mainnet and the first token distribution. Flare has two core protocols",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-myso-v1-live-flare",
+          "publishedOn": "2023-01-12T10:15:37.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Myso v1 Live, Flare L1 Live, L2 airdrops, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90c3abf7-14aa-4117-b71e-e0a24eeb1403_1200x620.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90c3abf7-14aa-4117-b71e-e0a24eeb1403_1200x620.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
