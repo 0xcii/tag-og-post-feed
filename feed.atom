@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-13T11:11:48.435Z</id>
+    <id>urn:2023-01-13T12:26:54.193Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-13T11:11:48.435Z</updated>
+    <updated>2023-01-13T12:26:54.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rocket Pool Chases Lido With New Deal]]></title>
+        <id>https://thedefiant.io/daily-defiant-rocket-pool/</id>
+        <link href="https://thedefiant.io/daily-defiant-rocket-pool/"/>
+        <updated>2023-01-13T11:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we’re covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket Pool Bets Coinbase Deal Will Help it Catch Lido]]></title>
+        <id>https://thedefiant.io/coinbase-rocket-pool-lido/</id>
+        <link href="https://thedefiant.io/coinbase-rocket-pool-lido/"/>
+        <updated>2023-01-13T11:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Liquidity Staking Race Ratchets Up as Rocket Pool Members Size Up Latest Move]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Crypto Rallies | Gemini vs Barry Silbert | Game of Thrones NFT | Ethereum Liquid Staking]]></title>
         <id>https://shows.banklesshq.com/p/rollup-crypto-rallies-gemini-vs-barry</id>
@@ -1423,28 +1443,6 @@ Trend in 2023]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notorious Threadooor Adam Cochran Explains Crypto Shopping and Shorting List]]></title>
-        <id>https://thedefiant.io/adam-cochran-crypto-shopping-list/</id>
-        <link href="https://thedefiant.io/adam-cochran-crypto-shopping-list/"/>
-        <updated>2022-12-22T18:12:03.000Z</updated>
-        <summary type="html"><![CDATA[This week on The Defiant Podcast, we speak with Adam Cochran, an investor at
-Cinneamhain Ventures, who’s probably most known for his extensive Twitter
-threads.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notorious Threadooor Adam Cochran explains his Crypto Shopping and Shorting List]]></title>
-        <id>https://thedefiant.io/notorious-threadooor-adam-cochran-explains-his-crypto-shopping-and-shorting-list/</id>
-        <link href="https://thedefiant.io/notorious-threadooor-adam-cochran-explains-his-crypto-shopping-and-shorting-list/"/>
-        <updated>2022-12-22T15:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Shopping List Thesis]]></summary>
-        <author>
-            <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - NEAR MetaMask Compatibility, Sturdy V1, Trading Perps on Solana, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility"/>
@@ -1532,16 +1530,6 @@ threads.]]></summary>
         <summary type="html"><![CDATA[Maple Released 2.0 Maple releases a new version that focuses on diversifying borrowers and improving risk management parameters. Maple recently experienced a borrower default. MakerDAO to Fund RWA MakerDAO passed the executive vote and will deploy four vaults to fund investments in real-world assets (RWA), originated by BlockTower and issued on-chain through]]></summary>
         <author>
             <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The decentralized CEO]]></title>
-        <id>https://medium.com/p/2524765b13bf</id>
-        <link href="https://andrecronje.medium.com/the-decentralized-ceo-2524765b13bf?source=rss-34f4446c6ba1------2"/>
-        <updated>2022-12-15T00:05:16.000Z</updated>
-        <summary type="html"><![CDATA[If you read the title, and saw the oxymoron, you get it.]]></summary>
-        <author>
-            <name>Andre Cronje</name>
         </author>
     </entry>
 </feed>
