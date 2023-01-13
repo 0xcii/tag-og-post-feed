@@ -63,7 +63,7 @@
           "description": "Agency Specifically Targets Gemini’s Earn Product",
           "link": "https://thedefiant.io/sec-charges-gemini-genesis/",
           "publishedOn": "2023-01-12T23:15:34.000Z",
-          "wordCount": 1340,
+          "wordCount": 1430,
           "title": "SEC Charges Gemini and Genesis With Selling Unregistered Securities",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/12191344/GeminiGenesisGenslerOfficeHours.jpg"
         },
@@ -1381,6 +1381,16 @@
       "feedUrl": "https://andrecronje.medium.com/feed",
       "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
       "articles": [
+        {
+          "id": "https://medium.com/p/7a5292cb5b32",
+          "author": "Andre Cronje",
+          "description": "Fastest confirmation times (sub 900ms finality)",
+          "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
+          "publishedOn": "2023-01-13T02:27:00.000Z",
+          "wordCount": 1077,
+          "title": "Why build on Fantom?",
+          "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
+        },
         {
           "id": "https://medium.com/p/ab7ce23da15b",
           "author": "Andre Cronje",
