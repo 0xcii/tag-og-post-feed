@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-13T23:13:40.106Z</id>
+    <id>urn:2023-01-14T01:05:56.492Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-13T23:13:40.107Z</updated>
+    <updated>2023-01-14T01:05:56.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1534,16 +1534,6 @@ Trend in 2023]]></summary>
         <summary type="html"><![CDATA[Listen now (90 min) | 2nd Week of December, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Maple 2.0, MakerDAO to Fund RWA, Stable Farms on Optimism, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-maple-20-makerdao-to</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-maple-20-makerdao-to"/>
-        <updated>2022-12-15T11:28:36.000Z</updated>
-        <summary type="html"><![CDATA[Maple Released 2.0 Maple releases a new version that focuses on diversifying borrowers and improving risk management parameters. Maple recently experienced a borrower default. MakerDAO to Fund RWA MakerDAO passed the executive vote and will deploy four vaults to fund investments in real-world assets (RWA), originated by BlockTower and issued on-chain through]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
 </feed>
