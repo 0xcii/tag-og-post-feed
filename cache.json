@@ -34,7 +34,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/vitiligo-b401cc31cd57?source=rss-2f6e06954878------2",
           "publishedOn": "2023-01-06T00:01:42.000Z",
-          "wordCount": 12618,
+          "wordCount": 12584,
           "title": "Vitiligo",
           "imageUrl": "https://miro.medium.com/max/400/0*tlGQDfuHcTy9yJ9j"
         }
@@ -1349,7 +1349,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2263,
+          "wordCount": 2179,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
@@ -1359,7 +1359,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2805,
+          "wordCount": 2858,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -1380,6 +1380,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-myso-v1-avalanche",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Jan. 9th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-myso-v1-avalanche",
+          "publishedOn": "2023-01-16T12:38:13.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Myso V1, Avalanche x AWS, Nexo Under Investigation, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafcc6a3c-5114-46a5-adc4-2238b76d2721_600x314.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafcc6a3c-5114-46a5-adc4-2238b76d2721_600x314.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-nexo-under-investigation",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
