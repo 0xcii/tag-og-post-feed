@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-17T19:11:41.514Z</id>
+    <id>urn:2023-01-17T20:13:20.959Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-17T19:11:41.514Z</updated>
+    <updated>2023-01-17T20:13:20.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Yuga Labs Launches Dookey Dash Skill-Based NFT Game]]></title>
+        <id>https://thedefiant.io/yuga-labs-dookey-dash/</id>
+        <link href="https://thedefiant.io/yuga-labs-dookey-dash/"/>
+        <updated>2023-01-17T19:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Holders Of Bored Apes and Mutant Apes Can Claim Free ‘Sewer Passes’]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase-Backed DeSo DEX Launches as World’s Fastest On-Chain Order Book Exchange]]></title>
         <id>https://thedefiant.io/coinbase-backed-deso-dex-launches-as-worlds-fastest-on-chain-order-book-exchange/</id>
@@ -379,7 +389,7 @@ Ventures Fund (VVF).  The blockchain-agnostic fund will invest […]]]></summar
         <id>https://phdcapital.substack.com/p/deciphering-ethereum-scaling-and</id>
         <link href="https://phdcapital.substack.com/p/deciphering-ethereum-scaling-and"/>
         <updated>2023-01-11T15:20:15.000Z</updated>
-        <summary type="html"><![CDATA[Written by our new analyst Alex Sampson A recap of scaling technology Rather than solely scaling Ethereum through native Layer 1 (L1) architecture changes, the Ethereum community has pushed for a rollup-centric roadmap. Layer 2s (L2s) are third-party solutions that exist in conjunction with the main blockchain. As we’ll touch on later, this second layer is critical to the network’s development - you can only “boost” scalability once. From state channels, sidechains, and plasma, the industry has largely converged on Optimistic Rollups (ORs) and Zero Knowledge Rollups (ZKRs) as the preferred method. Rollups execute transactions outside of the L1 blockchain and send the data back to the main Ethereum network. As such, rollups’ primary function is to address two bottlenecks for Ethereum - data and computation (e.g. fraud proofs or SNARKs).]]></summary>
+        <summary type="html"><![CDATA[Written by our new analyst Alex Sampson A recap of scaling technology Rather than solely scaling Ethereum through native Layer 1 (L1) architecture changes, the Ethereum community has pushed for a rollup-centric roadmap. Layer 2s (L2s) are third-party solutions that exist in conjunction with the main blockchain. As we’ll touch on later, this second layer is critical to the network’s development - you can only “boost” scalability once. From state channels, sidechains, and plasma, the industry and market has largely converged on Optimistic Rollups (ORs) and Zero Knowledge Rollups (ZKRs) as the preferred method. Rollups execute transactions outside of the L1 blockchain and send the data back to the main Ethereum network. As such, rollups’ primary function is to address two bottlenecks for Ethereum - data and computation (e.g. fraud proofs or SNARKs).]]></summary>
         <author>
             <name>PHD Capital</name>
         </author>
@@ -1409,20 +1419,6 @@ Compounder Vault]]></summary>
         <summary type="html"><![CDATA[The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deso Blockchain Crosses 2 Million Accounts Amid Elon Musk’s Twitter Revamp]]></title>
-        <id>https://thedefiant.io/deso-blockchain-crosses-2-million-accounts-amid-elon-musks-twitter-revamp/</id>
-        <link href="https://thedefiant.io/deso-blockchain-crosses-2-million-accounts-amid-elon-musks-twitter-revamp/"/>
-        <updated>2022-12-23T16:21:12.000Z</updated>
-        <summary type="html"><![CDATA[Los Angeles, California, 21st December, 2022, Chainwire Takeaways Elon Musk
-posted a poll asking if he should step down as CEO due to backlash from a recent
-policy change that stated that rival social networks could not post on Twitter
-People immediately began calling for decentralized alternatives as a solution to
-current centralized social media […]]]></summary>
-        <author>
-            <name>chainwire</name>
         </author>
     </entry>
     <entry>

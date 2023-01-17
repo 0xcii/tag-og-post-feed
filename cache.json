@@ -8,18 +8,18 @@
         {
           "id": "https://phdcapital.substack.com/p/deciphering-ethereum-scaling-and",
           "author": "PHD Capital",
-          "description": "Written by our new analyst Alex Sampson A recap of scaling technology Rather than solely scaling Ethereum through native Layer 1 (L1) architecture changes, the Ethereum community has pushed for a rollup-centric roadmap. Layer 2s (L2s) are third-party solutions that exist in conjunction with the main blockchain. As we’ll touch on later, this second layer is critical to the network’s development - you can only “boost” scalability once. From state channels, sidechains, and plasma, the industry has largely converged on Optimistic Rollups (ORs) and Zero Knowledge Rollups (ZKRs) as the preferred method. Rollups execute transactions outside of the L1 blockchain and send the data back to the main Ethereum network. As such, rollups’ primary function is to address two bottlenecks for Ethereum - data and computation (e.g. fraud proofs or SNARKs).",
+          "description": "Written by our new analyst Alex Sampson A recap of scaling technology Rather than solely scaling Ethereum through native Layer 1 (L1) architecture changes, the Ethereum community has pushed for a rollup-centric roadmap. Layer 2s (L2s) are third-party solutions that exist in conjunction with the main blockchain. As we’ll touch on later, this second layer is critical to the network’s development - you can only “boost” scalability once. From state channels, sidechains, and plasma, the industry and market has largely converged on Optimistic Rollups (ORs) and Zero Knowledge Rollups (ZKRs) as the preferred method. Rollups execute transactions outside of the L1 blockchain and send the data back to the main Ethereum network. As such, rollups’ primary function is to address two bottlenecks for Ethereum - data and computation (e.g. fraud proofs or SNARKs).",
           "link": "https://phdcapital.substack.com/p/deciphering-ethereum-scaling-and",
           "publishedOn": "2023-01-11T15:20:15.000Z",
           "wordCount": null,
           "title": "Deciphering Ethereum Scaling and Zero-Knowledge",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3096424b-5c08-46fa-bfde-4b9fadbb7c37_1400x787.jpeg",
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F124159d3-5893-4e6c-87ef-312a3c119346_1400x787.jpeg",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3096424b-5c08-46fa-bfde-4b9fadbb7c37_1400x787.jpeg"
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F124159d3-5893-4e6c-87ef-312a3c119346_1400x787.jpeg"
         }
       ]
     },
@@ -34,7 +34,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/vitiligo-b401cc31cd57?source=rss-2f6e06954878------2",
           "publishedOn": "2023-01-06T00:01:42.000Z",
-          "wordCount": 12574,
+          "wordCount": 12605,
           "title": "Vitiligo",
           "imageUrl": "https://miro.medium.com/max/400/0*tlGQDfuHcTy9yJ9j"
         }
@@ -57,6 +57,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/yuga-labs-dookey-dash/",
+          "author": "Tarang Khaitan",
+          "description": "Holders Of Bored Apes and Mutant Apes Can Claim Free ‘Sewer Passes’",
+          "link": "https://thedefiant.io/yuga-labs-dookey-dash/",
+          "publishedOn": "2023-01-17T19:45:26.000Z",
+          "wordCount": 1357,
+          "title": "Yuga Labs Launches Dookey Dash Skill-Based NFT Game",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/17154409/YUGAGamifiesNFTMint.jpg"
+        },
         {
           "id": "https://thedefiant.io/coinbase-backed-deso-dex-launches-as-worlds-fastest-on-chain-order-book-exchange/",
           "author": "chainwire",
@@ -1046,16 +1056,6 @@
           "wordCount": 578,
           "title": "⍺ DeFi Alpha: Build a Virtual City Based On Your On-Chain Activity Using Phi",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
-        },
-        {
-          "id": "https://thedefiant.io/deso-blockchain-crosses-2-million-accounts-amid-elon-musks-twitter-revamp/",
-          "author": "chainwire",
-          "description": "Los Angeles, California, 21st December, 2022, Chainwire Takeaways Elon Musk\nposted a poll asking if he should step down as CEO due to backlash from a recent\npolicy change that stated that rival social networks could not post on Twitter\nPeople immediately began calling for decentralized alternatives as a solution to\ncurrent centralized social media […]",
-          "link": "https://thedefiant.io/deso-blockchain-crosses-2-million-accounts-amid-elon-musks-twitter-revamp/",
-          "publishedOn": "2022-12-23T16:21:12.000Z",
-          "wordCount": 1647,
-          "title": "Deso Blockchain Crosses 2 Million Accounts Amid Elon Musk’s Twitter Revamp",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/21163743/DeSo_Logo_1671648806Z3Hd5Mh3u7.jpeg"
         }
       ]
     },
@@ -1349,7 +1349,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2187,
+          "wordCount": 2179,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
@@ -1369,7 +1369,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1922,
+          "wordCount": 1964,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         }
