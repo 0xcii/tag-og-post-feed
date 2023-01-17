@@ -58,6 +58,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/defi-tradfi-the-beginning-of-a-beautiful-friendship/",
+          "author": "Edward Robinson",
+          "description": "Crypto Players Gather in the Shadow of the Alps and FTX",
+          "link": "https://thedefiant.io/defi-tradfi-the-beginning-of-a-beautiful-friendship/",
+          "publishedOn": "2023-01-17T20:17:01.000Z",
+          "wordCount": 3525,
+          "title": "DeFi + TradFi: The Beginning of a Beautiful Friendship",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/17155405/StMoritzFt.jpg"
+        },
+        {
           "id": "https://thedefiant.io/yuga-labs-dookey-dash/",
           "author": "Tarang Khaitan",
           "description": "Holders Of Bored Apes and Mutant Apes Can Claim Free ‘Sewer Passes’",
@@ -363,7 +373,7 @@
           "description": "Tokens Will Represent Deposits In Popular Bond ETFs From Blackrock and PIMCO",
           "link": "https://thedefiant.io/ondo-finance-bond-etf-tokens/",
           "publishedOn": "2023-01-11T05:55:58.000Z",
-          "wordCount": 2006,
+          "wordCount": 2015,
           "title": "Ondo Finance Launches Tokenized US Treasuries and Corporate Bonds",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/11015500/OndoOnChainBonds-1.jpg"
         },
@@ -1046,16 +1056,6 @@
           "wordCount": 544,
           "title": "📬 Inbox Dump #82",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
-        },
-        {
-          "id": "https://thedefiant.io/%e2%8d%ba-defi-alpha-build-a-virtual-city-based-on-your-on-chain-activity-using-phi/",
-          "author": "yyctrader",
-          "description": "Earn Up to 8.6% APR with ETH-frxETH Curve LP Auto-Compounding via Concentrator\nCompounder Vault",
-          "link": "https://thedefiant.io/%e2%8d%ba-defi-alpha-build-a-virtual-city-based-on-your-on-chain-activity-using-phi/",
-          "publishedOn": "2022-12-24T06:04:33.000Z",
-          "wordCount": 578,
-          "title": "⍺ DeFi Alpha: Build a Virtual City Based On Your On-Chain Activity Using Phi",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         }
       ]
     },
@@ -1349,7 +1349,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2179,
+          "wordCount": 2187,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
@@ -1359,7 +1359,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2858,
+          "wordCount": 2729,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -1369,7 +1369,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1964,
+          "wordCount": 1922,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         }
