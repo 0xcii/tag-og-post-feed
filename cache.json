@@ -58,6 +58,26 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/nft-royalties-smart-contracts/",
+          "author": "Owen Fernau",
+          "description": "NFT Creators May Get Help on Royalties from Limit Break Plan",
+          "link": "https://thedefiant.io/nft-royalties-smart-contracts/",
+          "publishedOn": "2023-01-18T11:23:51.000Z",
+          "wordCount": 2161,
+          "title": "Gamemaker Shakes Up NFT Royalties With New Smart Contracts",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/18071837/ERC721LimitBreakStakingInnov2.jpeg"
+        },
+        {
+          "id": "https://thedefiant.io/perpetuals-action-soars-as-volatility-stokes-trading/",
+          "author": "Owen Fernau",
+          "description": "Synthetix Records ATH in Users After Release of V2",
+          "link": "https://thedefiant.io/perpetuals-action-soars-as-volatility-stokes-trading/",
+          "publishedOn": "2023-01-18T10:29:50.000Z",
+          "wordCount": 1917,
+          "title": "Perpetuals Action Soars as Volatility Stokes Trading",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/18055235/SynthetixRally.jpg"
+        },
+        {
           "id": "https://thedefiant.io/daily-defiant-2/",
           "author": "The Defiant Team",
           "description": "Hello Defiers! Here’s what we’re covering today!",
@@ -1036,26 +1056,6 @@
           "wordCount": 1724,
           "title": "Stablecoins Seek to Regain, Well, Stability in 2023",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/22160038/StablecoinsUnderStress.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/the-surge-shanghai-staking/",
-          "author": "Samuel Haig",
-          "description": "Ethereum Devs Taking Care of Staking Issues Before Next Upgrade Unfolds",
-          "link": "https://thedefiant.io/the-surge-shanghai-staking/",
-          "publishedOn": "2022-12-26T15:49:46.000Z",
-          "wordCount": 2132,
-          "title": "The Surge Comes Next for Ethereum… Eventually",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/21060731/WhatsNextETHSurge.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/adams-defies-a-rough-year-to-make-uniswap-a-true-unicorn/",
-          "author": "Aleksandar Gilbert",
-          "description": "With Deals in the Payments and NFT Sectors Uniswap Flexed as Other Crypto\nProjects Ducked",
-          "link": "https://thedefiant.io/adams-defies-a-rough-year-to-make-uniswap-a-true-unicorn/",
-          "publishedOn": "2022-12-26T15:48:31.000Z",
-          "wordCount": 2458,
-          "title": "Adams Defies a Rough Year to Make Uniswap a True Unicorn",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/23152728/FOUNDERoty.jpg"
         }
       ]
     },
@@ -1064,6 +1064,22 @@
       "feedUrl": "https://shows.banklesshq.com/feed",
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
+        {
+          "id": "https://shows.banklesshq.com/p/whats-hot-in-arbitrum-arbitrum-ecosystem",
+          "author": "David Freiburger",
+          "description": "Listen now (70 min) | Everything you need to know about Arbitrum",
+          "link": "https://shows.banklesshq.com/p/whats-hot-in-arbitrum-arbitrum-ecosystem",
+          "publishedOn": "2023-01-18T11:30:09.000Z",
+          "wordCount": null,
+          "title": "What's Hot in Arbitrum? | Arbitrum Ecosystem Guide",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/97408858.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://shows.banklesshq.com/p/rollup-crypto-rallies-gemini-vs-barry",
           "author": "Ryan Sean Adams",
@@ -1359,7 +1375,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2723,
+          "wordCount": 2729,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
