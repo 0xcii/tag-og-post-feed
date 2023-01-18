@@ -58,6 +58,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/daily-defiant-perpetuals-soaring/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we’re covering today!",
+          "link": "https://thedefiant.io/daily-defiant-perpetuals-soaring/",
+          "publishedOn": "2023-01-18T13:32:22.000Z",
+          "wordCount": 1000,
+          "title": "Perpetuals Action Soars as Volatility Stokes Trading",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/18055235/SynthetixRally.jpg"
+        },
+        {
           "id": "https://thedefiant.io/nft-royalties-smart-contracts/",
           "author": "Owen Fernau",
           "description": "NFT Creators May Get Help on Royalties from Limit Break Plan",
@@ -1046,16 +1056,6 @@
           "wordCount": 2767,
           "title": "CeFi Rekt Was the Main Event in Crypto’s Annus Horribilis",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/22152406/CeFiRekt.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/stablecoins-seek-to-regain-well-stability-in-2023/",
-          "author": "Owen Fernau",
-          "description": "Stablecoins Used to be Immune to Stress — Now they Must Withstand Volatility",
-          "link": "https://thedefiant.io/stablecoins-seek-to-regain-well-stability-in-2023/",
-          "publishedOn": "2022-12-27T10:40:18.000Z",
-          "wordCount": 1724,
-          "title": "Stablecoins Seek to Regain, Well, Stability in 2023",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/22160038/StablecoinsUnderStress.jpg"
         }
       ]
     },
@@ -1375,7 +1375,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2729,
+          "wordCount": 2723,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -1385,7 +1385,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1922,
+          "wordCount": 1956,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         }
