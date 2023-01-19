@@ -34,7 +34,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/bouncy-castle-1b92183c61a1?source=rss-2f6e06954878------2",
           "publishedOn": "2023-01-19T11:02:28.000Z",
-          "wordCount": 7278,
+          "wordCount": 7096,
           "title": "Bouncy Castle",
           "imageUrl": "https://miro.medium.com/max/400/0*28Rn3J3GNG7rgC0B"
         },
@@ -1438,6 +1438,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Gemzy Vaults Live NFT ownership sharing protocol Gemzy is live with a few vaults available. Gemzy vaults allow a group of participants to pool ETH and purchase NFTs through the Opensea platform, or directly OTC, and split ownership of the purchased NFT among participants based on the % of ETH they contributed to the purchase.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie",
+          "publishedOn": "2023-01-19T15:04:13.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Gemzy Vaults Live, Harpie ON-chain 2FA, Cosmos L1 Airdrop, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmsPG3lakAEp54e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFmsPG3lakAEp54e.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-polygon-pos-hardfork",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
