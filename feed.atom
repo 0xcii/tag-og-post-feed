@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-19T15:15:59.958Z</id>
+    <id>urn:2023-01-19T16:19:47.827Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-19T15:15:59.958Z</updated>
+    <updated>2023-01-19T16:19:47.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Alpha Call #34]]></title>
+        <id>https://thedefiant.io/defi-alpha-call-34/</id>
+        <link href="https://thedefiant.io/defi-alpha-call-34/"/>
+        <updated>2023-01-19T15:29:11.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi Alpha Call is an exclusive weekly call for our premium subscribers
+where yyctrader and Diego talk about the market, the newest tutorials, and the
+hottest NFTs.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Gemzy Vaults Live, Harpie ON-chain 2FA, Cosmos L1 Airdrop, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-gemzy-vaults-live-harpie</id>
@@ -1426,16 +1438,6 @@ video!]]></summary>
         <summary type="html"><![CDATA[Recap: Week of Dec. 19th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploit Explosion Rocked Crypto in 2022]]></title>
-        <id>https://thedefiant.io/exploits-2022/</id>
-        <link href="https://thedefiant.io/exploits-2022/"/>
-        <updated>2022-12-28T09:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Bridging Protocols Hardest Hit in Year That Exposed Key Vulnerability]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
