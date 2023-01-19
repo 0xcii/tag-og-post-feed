@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/ftx-ceo-restart-exchange/",
+          "author": "Aleksandar Gilbert",
+          "description": "FTT Soars 35%",
+          "link": "https://thedefiant.io/ftx-ceo-restart-exchange/",
+          "publishedOn": "2023-01-19T19:41:28.000Z",
+          "wordCount": 1150,
+          "title": "FTX CEO Says Exchange Could Restart Operations",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/19154009/FTXRestartJohnRay.jpg"
+        },
+        {
           "id": "https://thedefiant.io/defi-alpha-call-34/",
           "author": "The Defiant Team",
           "description": "The DeFi Alpha Call is an exclusive weekly call for our premium subscribers\nwhere yyctrader and Diego talk about the market, the newest tutorials, and the\nhottest NFTs.",
@@ -1056,16 +1066,6 @@
           "wordCount": 2041,
           "title": "Crypto’s Lobbyist Kept Cool in a Mad, Mad Year",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/22150113/CapitolPlayer.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/exploit-explosion-rocked-crypto-in-2022/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s our review of the biggest stories in 2022! Plus a bonus\nvideo!",
-          "link": "https://thedefiant.io/exploit-explosion-rocked-crypto-in-2022/",
-          "publishedOn": "2022-12-28T15:08:58.000Z",
-          "wordCount": 1475,
-          "title": "Exploit Explosion Rocked Crypto in 2022",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/20103925/ExploitExplosion.jpg"
         }
       ]
     },
@@ -1407,7 +1407,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2226,
+          "wordCount": 2175,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
@@ -1417,7 +1417,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2723,
+          "wordCount": 2766,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         },
@@ -1427,7 +1427,7 @@
           "description": "The signal-to-noise ratio in crypto is incredibly low. The noise frequency is incredibly high.",
           "link": "https://andrecronje.medium.com/fantom-in-review-928baf1d3bb4?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-24T00:37:15.000Z",
-          "wordCount": 1906,
+          "wordCount": 1956,
           "title": "Fantom in review",
           "imageUrl": "https://miro.medium.com/max/1200/1*kU07D5YkqjZnxzWzGvaAPg.png"
         }
