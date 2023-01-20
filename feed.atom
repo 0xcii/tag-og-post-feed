@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-20T11:12:12.337Z</id>
+    <id>urn:2023-01-20T12:28:03.577Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-20T11:12:12.337Z</updated>
+    <updated>2023-01-20T12:28:03.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Sushi’s Ambitious Revamp May be ‘Too Complex’]]></title>
+        <title type="html"><![CDATA[Frax Triples in Value as Stablecoin Takes Shape]]></title>
+        <id>https://thedefiant.io/daily-defiant-frax-centrifuge/</id>
+        <link href="https://thedefiant.io/daily-defiant-frax-centrifuge/"/>
+        <updated>2023-01-20T11:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centrifuge Quietly Sets Pace in Real World Assets Race]]></title>
+        <id>https://thedefiant.io/centrifuge-quietly-sets-pace-in-real-world-assets-race/</id>
+        <link href="https://thedefiant.io/centrifuge-quietly-sets-pace-in-real-world-assets-race/"/>
+        <updated>2023-01-20T11:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Co-founder Lucas Vogelsang on How Any Asset Can go On-Chain and the Rise of RWAs]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sushi’s Ambitious Revamp May Be ‘Too Complex’]]></title>
         <id>https://thedefiant.io/sushi-revitalization-plan/</id>
         <link href="https://thedefiant.io/sushi-revitalization-plan/"/>
         <updated>2023-01-20T09:50:34.000Z</updated>
@@ -37,11 +57,11 @@ Reserve]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frax Triples in Value Amid the Wreckage of FTX]]></title>
+        <title type="html"><![CDATA[Frax Triples in Value as Stablecoin System Takes Shape]]></title>
         <id>https://thedefiant.io/frax-triples-in-value/</id>
         <link href="https://thedefiant.io/frax-triples-in-value/"/>
         <updated>2023-01-20T08:57:17.000Z</updated>
-        <summary type="html"><![CDATA[Founder Sam Kazemian Makes Strides in Building New Stablecoin Ecosystem]]></summary>
+        <summary type="html"><![CDATA[Founder Sam Kazemian Makes Strides in Building New Stablecoin Infrastructure]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
         </author>
@@ -1396,17 +1416,6 @@ week!]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Sleuth ZachXBT Exposed Chicanery For a Grateful DeFi Community]]></title>
-        <id>https://thedefiant.io/zachxbt-defier-of-the-year/</id>
-        <link href="https://thedefiant.io/zachxbt-defier-of-the-year/"/>
-        <updated>2022-12-30T10:38:20.000Z</updated>
-        <summary type="html"><![CDATA[Deeply Researched Probes of Questionable Projects Proved ‘Invaluable’ in Mad
-Year]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Insrt Live, Vader Shutting Down, On-Chain DCA, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-insrt-live-vader-shutting"/>
@@ -1414,16 +1423,6 @@ Year]]></summary>
         <summary type="html"><![CDATA[Insrt Live NFTfi yield protocol Insrt launches on Ethereum. The first deployed vault type is ShardVault, which allows users to take a directional bet that the price of a bluechip NFT collection goes up and farm yield passively. Vader Shutting Down Stablecoin protocol Vader announces the plan to shut down as the team found no notable breakthrough in the algorithmic stablecoin design that is capital efficient.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi To Widen Gap With CeFi After Stormy Year]]></title>
-        <id>https://thedefiant.io/cefi-vs-defi/</id>
-        <link href="https://thedefiant.io/cefi-vs-defi/"/>
-        <updated>2022-12-30T10:07:01.000Z</updated>
-        <summary type="html"><![CDATA[Collapse Of Centralized Crypto Players Makes The Case For Self-Custody]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
