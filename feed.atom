@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-20T09:13:59.995Z</id>
+    <id>urn:2023-01-20T10:16:11.612Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-20T09:13:59.995Z</updated>
+    <updated>2023-01-20T10:16:11.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sushi’s Ambitious Revamp May be ‘Too Complex’]]></title>
+        <id>https://thedefiant.io/sushi-revitalization-plan/</id>
+        <link href="https://thedefiant.io/sushi-revitalization-plan/"/>
+        <updated>2023-01-20T09:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Head Chef Jared Grey Aims to Roll Out NFT Marketplace and DEX Aggregator]]></summary>
+        <author>
+            <name>Tarang Khaitan and Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frax Poised to Roll Out ‘Compliant’ Stablecoin]]></title>
+        <id>https://thedefiant.io/frax-compliant-stablecoin/</id>
+        <link href="https://thedefiant.io/frax-compliant-stablecoin/"/>
+        <updated>2023-01-20T09:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Founder Sam Kazemian Hopeful Way is Open to Register Stablecoin With Federal
+Reserve]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: Genesis Bankrupt | SEC vs Gemini | Bizlato | New 3AC Exchange GTX | MetaMask Staking | ETH Denver]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini</id>
+        <link href="https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini"/>
+        <updated>2023-01-20T09:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (80 min) | 3rd Week of January, 2023]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frax Triples in Value Amid the Wreckage of FTX]]></title>
+        <id>https://thedefiant.io/frax-triples-in-value/</id>
+        <link href="https://thedefiant.io/frax-triples-in-value/"/>
+        <updated>2023-01-20T08:57:17.000Z</updated>
+        <summary type="html"><![CDATA[Founder Sam Kazemian Makes Strides in Building New Stablecoin Ecosystem]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Inside look Into Solana After FTX’s Collapse]]></title>
         <id>https://thedefiant.io/podcast-tal-tchwella-solana-labs/</id>
@@ -1386,29 +1427,6 @@ Year]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 Outlook]]></title>
-        <id>https://thedefiant.io/2023-outlook/</id>
-        <link href="https://thedefiant.io/2023-outlook/"/>
-        <updated>2022-12-29T15:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Today we’re looking out into the year ahead and highlighting some key themes
-likely to shape the DeFi space. If you haven’t already done so, check out the
-2022 review we released two days ago, and get caught up on the Defiant’s highs,
-lows and surprising moments of this past year.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking Aim at Code Itself Feds Sent Crypto a Clear Message]]></title>
-        <id>https://thedefiant.io/taking-aim-at-code-itself-feds-sent-crypto-a-clear-message-2/</id>
-        <link href="https://thedefiant.io/taking-aim-at-code-itself-feds-sent-crypto-a-clear-message-2/"/>
-        <updated>2022-12-29T13:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s the latest edition of our DeFi Year in Review stories!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Mean Finance on Ethereum, Gamma Strategies on Arbitrum, Strategy for the Calm Market, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum"/>
@@ -1416,16 +1434,6 @@ lows and surprising moments of this past year.]]></summary>
         <summary type="html"><![CDATA[Mean Finance Live on Ethereum Previously on Polygon and L2s, DCA protocol Mean Finance is now available on Ethereum, offering DCA tools with MEV-protected & gasless swaps. Gamma Strategies on Arbitrum Uniswap V3 liquidity management protocol Gamma Strategies launches on Arbitrum, supporting new pairs for Arbitrum-based assets.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking Aim at Code Itself Feds Sent Crypto a Clear Message]]></title>
-        <id>https://thedefiant.io/taking-aim-at-code-itself-feds-sent-crypto-a-clear-message/</id>
-        <link href="https://thedefiant.io/taking-aim-at-code-itself-feds-sent-crypto-a-clear-message/"/>
-        <updated>2022-12-29T10:01:01.000Z</updated>
-        <summary type="html"><![CDATA[DAOs, Mixers, and Exchanges Felt the Sting of Officialdom in a Watershed Year]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
