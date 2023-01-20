@@ -1725,22 +1725,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkFc-wjVEAARFFZ.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "NEAR MetaMask Compatibility NEAR developer Proximity Labs releases NETH, a smart contract that allows users to directly interact with NEAR dApps using their Ethereum wallets, such as MetaMask. Sturdy V1 Live Lending protocol Sturdy releases a revamped UI for 1.0, including integrated information and historical yield graphs. Sturdy also expands into the ETH market and will allow users to deposit LSDs as collateral to borrow ETH.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-near-metamask-compatibility",
-          "publishedOn": "2022-12-21T13:52:11.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - NEAR MetaMask Compatibility, Sturdy V1, Trading Perps on Solana, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWu4PKUYAAOBsv.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFkWu4PKUYAAOBsv.jpg"
         }
       ]
     }
