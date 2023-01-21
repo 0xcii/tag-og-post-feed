@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T19:10:19.900Z</id>
+    <id>urn:2023-01-21T20:13:23.527Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-21T19:10:19.900Z</updated>
+    <updated>2023-01-21T20:13:23.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Resurgent: Weekly Recap Jan. 15]]></title>
+        <id>https://thedefiant.io/defiant-weekly-recap-defi-resurgent/</id>
+        <link href="https://thedefiant.io/defiant-weekly-recap-defi-resurgent/"/>
+        <updated>2023-01-21T18:56:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Happy Weekend! Here’s what we covered this week…]]></summary>
+        <author>
+            <name>Edward Robinson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📬 Inbox Dump #86]]></title>
         <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-86/</id>
@@ -1399,16 +1409,6 @@ customer [?] money. But the case has a couple of parallels with SBF’s […]]]>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Winklevoss’ Salvo on Silbert Opens New Year on Combative Note]]></title>
-        <id>https://thedefiant.io/winklevoss-silbert-conflict-dcg/</id>
-        <link href="https://thedefiant.io/winklevoss-silbert-conflict-dcg/"/>
-        <updated>2023-01-03T10:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Gemini Co-founder Accuses DCG Honcho of Mismanagement and ‘Bad Faith’]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ROLLUP: Why Solana is Down Bad | Avi Arrested | MicroStrategy Purchases $41M Bitcoin | Gemini Sued Over Gemini Earn]]></title>
         <id>https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi</id>
         <link href="https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi"/>
@@ -1506,16 +1506,6 @@ customer [?] money. But the case has a couple of parallels with SBF’s […]]]>
         <summary type="html"><![CDATA[Synthetix Perps V2 Live Synthetix launches perps v2 with frontends on Optimism. Perps V2 reduces perps fees by using an off-chain oracle system and minimizes risks for perps LPs with new risk management features. Waves USDN Resolution Plan Waves team released a resolution plan for its severely depegged stablecoin USDN, aiming to stabilize the peg with proposals including token backings, team donations, swap reactivation, incentives for reserve holders, and adaptive vesting for USDN holders.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[150 - Bull Case for Ethereum IV with Justin Drake, DCinvestor, & Anthony Sassano]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum</id>
-        <link href="https://shows.banklesshq.com/p/early-access-bull-case-for-ethereum"/>
-        <updated>2022-12-23T07:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (98 min) | What's 2023 going to look like?]]></summary>
-        <author>
-            <name>Bankless Shows</name>
         </author>
     </entry>
 </feed>
