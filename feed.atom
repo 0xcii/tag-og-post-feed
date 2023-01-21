@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T09:12:30.445Z</id>
+    <id>urn:2023-01-21T10:13:36.660Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-21T09:12:30.445Z</updated>
+    <updated>2023-01-21T10:13:36.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1529,16 +1529,6 @@ battle against […]]]></summary>
         <summary type="html"><![CDATA[Symbiosis V2 Cross-chain AMM Symbiosis launches V2, enabling a serving network (Boba BNB L2) and single-sided AMM pool, making it easier to support more chains and increasing pool efficiency. OpenOcean Cross-chain Swap OpenOcean launches 1-click cross-chain swap, supporting multiple chains with better swap rates and better UX by implementing Celer’s IM Framework.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Thesis for 2023 | Ryan Selkis]]></title>
-        <id>https://shows.banklesshq.com/p/crypto-thesis-for-2023-ryan-selkis</id>
-        <link href="https://shows.banklesshq.com/p/crypto-thesis-for-2023-ryan-selkis"/>
-        <updated>2022-12-22T21:56:19.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (95 min) | Crypto is Still Inevitable]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
 </feed>
