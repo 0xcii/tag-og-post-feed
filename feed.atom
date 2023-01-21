@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T21:11:29.589Z</id>
+    <id>urn:2023-01-21T22:12:46.440Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-21T21:11:29.589Z</updated>
+    <updated>2023-01-21T22:12:46.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1496,16 +1496,6 @@ customer [?] money. But the case has a couple of parallels with SBF’s […]]]>
         <summary type="html"><![CDATA[Listen now (76 min) | December 23, 2022]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Synthetix Perps V2 Live, Waves USDN Resolution Plan, Delta-Neutral Strategies, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-synthetix-perps-v2</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-synthetix-perps-v2"/>
-        <updated>2022-12-23T09:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Synthetix Perps V2 Live Synthetix launches perps v2 with frontends on Optimism. Perps V2 reduces perps fees by using an off-chain oracle system and minimizes risks for perps LPs with new risk management features. Waves USDN Resolution Plan Waves team released a resolution plan for its severely depegged stablecoin USDN, aiming to stabilize the peg with proposals including token backings, team donations, swap reactivation, incentives for reserve holders, and adaptive vesting for USDN holders.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
