@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T15:12:47.590Z</id>
+    <id>urn:2023-01-21T16:18:05.777Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-21T15:12:47.590Z</updated>
+    <updated>2023-01-21T16:18:05.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1519,16 +1519,6 @@ battle against […]]]></summary>
         <summary type="html"><![CDATA[Listen now (98 min) | What's 2023 going to look like?]]></summary>
         <author>
             <name>Bankless Shows</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Symbiosis V2, OpenOcean Swap Aggregator, IL-less DEX, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-symbiosis-v2-openocean</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-symbiosis-v2-openocean"/>
-        <updated>2022-12-23T03:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Symbiosis V2 Cross-chain AMM Symbiosis launches V2, enabling a serving network (Boba BNB L2) and single-sided AMM pool, making it easier to support more chains and increasing pool efficiency. OpenOcean Cross-chain Swap OpenOcean launches 1-click cross-chain swap, supporting multiple chains with better swap rates and better UX by implementing Celer’s IM Framework.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
