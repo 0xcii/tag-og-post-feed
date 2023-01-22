@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/reunit-wallet-token-presale-open-and-airdrop-to-stg-holders/",
+          "author": "Reunit",
+          "description": "Reunit, the long-awaited first omni-chain wallet capable of using funds from\nmultiple blockchains simultaneously, will launch its beta and presale of the\n$REUNI token in February. Whitelisting for presale is now open.",
+          "link": "https://thedefiant.io/reunit-wallet-token-presale-open-and-airdrop-to-stg-holders/",
+          "publishedOn": "2023-01-22T12:15:42.000Z",
+          "wordCount": 1777,
+          "title": "[SPONSORED] Reunit wallet: Token presale open and airdrop to STG holders",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/21081050/Reunit-wallet-Token-presale-open-and-airdrop-to-STG-holders.png"
+        },
+        {
           "id": "https://thedefiant.io/defiant-weekly-recap-defi-resurgent/",
           "author": "Edward Robinson",
           "description": "Hello Defiers! Happy Weekend! Here’s what we covered this week…",
@@ -1056,16 +1066,6 @@
           "wordCount": 1009,
           "title": "2023’s First Crypto Villain",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/06024407/2023s-First-Crypto-Villain.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/sbf-pleads-not-guilty/",
-          "author": "Aleksandar Gilbert",
-          "description": "Judge Grants Anonymity to SBF Bail Bond Signers",
-          "link": "https://thedefiant.io/sbf-pleads-not-guilty/",
-          "publishedOn": "2023-01-04T06:40:49.000Z",
-          "wordCount": 1532,
-          "title": "Sam Bankman-Fried Pleads Not Guilty To Fraud Charges",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/04023936/SBFBailBondUnderwriters.jpg"
         }
       ]
     },
@@ -1365,7 +1365,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1288,
+          "wordCount": 1354,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         },
@@ -1375,7 +1375,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2261,
+          "wordCount": 2259,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
@@ -1385,7 +1385,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2819,
+          "wordCount": 2793,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         }
