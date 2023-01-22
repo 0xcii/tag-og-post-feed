@@ -1345,22 +1345,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-sbf-in-the-usa-visa-ethereum",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (76 min) | December 23, 2022",
-          "link": "https://shows.banklesshq.com/p/rollup-sbf-in-the-usa-visa-ethereum",
-          "publishedOn": "2022-12-23T11:30:57.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: SBF in the USA | Visa Ethereum Payments | Trump NFTs | Binance Buys Voyager",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/92416177.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1391,7 +1375,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2304,
+          "wordCount": 2259,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         },
