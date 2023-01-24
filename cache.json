@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/ethereum-steps-closer-to-shanghai/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/ethereum-steps-closer-to-shanghai/",
+          "publishedOn": "2023-01-24T13:13:49.000Z",
+          "wordCount": 1689,
+          "title": "Ethereum Steps Closer to Shanghai",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/24054356/ETHShadowFork.jpg"
+        },
+        {
           "id": "https://thedefiant.io/ethereum-shadow-forks-shanghai/",
           "author": "Samuel Haig",
           "description": "Devs Deploy Shadow Fork to Support Staked ETH Withdrawals",
@@ -1056,16 +1066,6 @@
           "wordCount": 2950,
           "title": "Machine Learning Best Way to Defend Web3 From Exploits",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/21143958/MoreHacksAndScams.webp"
-        },
-        {
-          "id": "https://thedefiant.io/4-2bn-belongs-to-celsius-not-customers/",
-          "author": "Jack Dunham",
-          "description": "Today we’re talking about a bankruptcy Judge’s Ruling on Celsius, whose founder\nand ex-CEO Alex Mashinsky was sued for fraud by New York’s Attorney General just\ntoday. The Judge delivered a bittersweet ruling about customer assets, as users\nwho may finally be able to get some of their money back may also have to pay […]",
-          "link": "https://thedefiant.io/4-2bn-belongs-to-celsius-not-customers/",
-          "publishedOn": "2023-01-05T06:46:21.000Z",
-          "wordCount": 1054,
-          "title": "$4.2bn belongs to Celsius, not customers",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/06025408/4.2bn-belongs-to-Celsius-not-customers.webp"
         }
       ]
     },
@@ -1385,7 +1385,7 @@
           "description": "A few days ago we shared a letter with Fantom Foundation team, as a distributed foundation it can sometimes be difficult to align everyone…",
           "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8?source=rss-34f4446c6ba1------2",
           "publishedOn": "2022-12-26T03:50:52.000Z",
-          "wordCount": 2776,
+          "wordCount": 2793,
           "title": "Letter to Fantom Foundation team",
           "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
         }
