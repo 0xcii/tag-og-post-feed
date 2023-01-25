@@ -1075,6 +1075,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with",
+          "author": "Ryan Sean Adams",
+          "description": "Jetzt anhören (66 min) | The future of Enterprise Blockchain",
+          "link": "https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with",
+          "publishedOn": "2023-01-25T11:30:59.000Z",
+          "wordCount": null,
+          "title": "Unlocking Privacy on Ethereum with Paul Brody",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/98836606.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini",
           "author": "David Hoffman",
           "description": "Listen now (80 min) | 3rd Week of January, 2023",
@@ -1365,7 +1381,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1423,
+          "wordCount": 1364,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         },
