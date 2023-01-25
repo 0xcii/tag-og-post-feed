@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-25T09:13:31.424Z</id>
+    <id>urn:2023-01-25T10:14:54.700Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-25T09:13:31.424Z</updated>
+    <updated>2023-01-25T10:14:54.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RAI Founder Rues ‘Mistake’ of Dependency on ETH]]></title>
+        <id>https://thedefiant.io/rai-regrets-mistake-eth/</id>
+        <link href="https://thedefiant.io/rai-regrets-mistake-eth/"/>
+        <updated>2023-01-25T09:21:11.000Z</updated>
+        <summary type="html"><![CDATA[Market Caps and Volume Crater for Stablecoins RAI and Liquidity USD]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soulbound Tokens Come Into Their Own With Pudgy Penguins Move]]></title>
+        <id>https://thedefiant.io/sbts-pudgy-penguins/</id>
+        <link href="https://thedefiant.io/sbts-pudgy-penguins/"/>
+        <updated>2023-01-25T08:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Buterin Big Supporter of Non-transferable Version of NFTs]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFTs Set to Go Local and Physical]]></title>
         <id>https://thedefiant.io/nfts-go-physical/</id>
@@ -1301,17 +1321,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mojo Builds for Hong Kong CBDC]]></title>
-        <id>https://thedefiant.io/hong-kong-digital-dollar/</id>
-        <link href="https://thedefiant.io/hong-kong-digital-dollar/"/>
-        <updated>2023-01-06T11:12:30.000Z</updated>
-        <summary type="html"><![CDATA[Hong Kong Lawmaker Asks Beijing to Permit Digital Dollar and Conversion to
-Stablecoin]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ROLLUP: SBF Pleads Not Guilty | Winklevoss vs Barry Silbert | Predicting 2023 | ETH Staking]]></title>
         <id>https://shows.banklesshq.com/p/rollup-sbf-pleads-not-guilty-winklevoss</id>
         <link href="https://shows.banklesshq.com/p/rollup-sbf-pleads-not-guilty-winklevoss"/>
@@ -1339,16 +1348,6 @@ Stablecoin]]></summary>
         <summary type="html"><![CDATA[Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Year Brings Some Relief To Crypto Investors]]></title>
-        <id>https://thedefiant.io/new-year-rally/</id>
-        <link href="https://thedefiant.io/new-year-rally/"/>
-        <updated>2023-01-06T04:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Lido And Solana Outperform As Markets Rally]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
     <entry>
