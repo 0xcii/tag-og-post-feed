@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/daily-defiant-sbts/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/daily-defiant-sbts/",
+          "publishedOn": "2023-01-25T13:33:24.000Z",
+          "wordCount": 1901,
+          "title": "RAI Founder Rues ‘Mistake’ on Ethereum",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/25051610/RAIProblems.jpg"
+        },
+        {
           "id": "https://thedefiant.io/kuchelov-interview-gho-stablecoin/",
           "author": "Aleksandar Gilbert",
           "description": "Kuchelov Tells The Defiant Aave Stablecoin Will Boost Revenue",
@@ -163,7 +173,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/ethereum-steps-closer-to-shanghai/",
           "publishedOn": "2023-01-24T13:13:49.000Z",
-          "wordCount": 1691,
+          "wordCount": 1678,
           "title": "Ethereum Steps Closer to Shanghai",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/24054356/ETHShadowFork.jpg"
         },
@@ -293,7 +303,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/daily-defiant-frax-centrifuge/",
           "publishedOn": "2023-01-20T11:53:59.000Z",
-          "wordCount": 1447,
+          "wordCount": 1434,
           "title": "Frax Triples in Value as Stablecoin Takes Shape",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/20044519/FRAX.jpg"
         },
@@ -1056,16 +1066,6 @@
           "wordCount": 1731,
           "title": "Lido Rides Liquid Staking Wave To Become Largest DeFi Protocol",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/06170640/LSDRally.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/daily-defiant/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we’re covering today!",
-          "link": "https://thedefiant.io/daily-defiant/",
-          "publishedOn": "2023-01-06T12:49:33.000Z",
-          "wordCount": 1811,
-          "title": "China Reverses Course on NFTs With Platform Launch",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/06073235/MktsDec22.jpg"
         }
       ]
     },
@@ -1391,7 +1391,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2281,
+          "wordCount": 2276,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         }

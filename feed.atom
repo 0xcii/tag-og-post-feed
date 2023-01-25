@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-25T13:19:53.497Z</id>
+    <id>urn:2023-01-25T14:12:46.312Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-25T13:19:53.497Z</updated>
+    <updated>2023-01-25T14:12:46.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RAI Founder Rues ‘Mistake’ on Ethereum]]></title>
+        <id>https://thedefiant.io/daily-defiant-sbts/</id>
+        <link href="https://thedefiant.io/daily-defiant-sbts/"/>
+        <updated>2023-01-25T13:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlocking Privacy on Ethereum with Paul Brody]]></title>
         <id>https://shows.banklesshq.com/p/unlocking-privacy-on-ethereum-with</id>
@@ -1318,16 +1328,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[Avalanche NFTs on Shopify Shopify merchants can now mint NFTs on Avalanche and list NFTs on their stores for sale, instead of directing visitors to OpenSea or Magic Eden. Trader Joe Coming to BnB Chain Avalanche-based trading platform Trader Joe will deploy its DEX and NFT marketplace to the BnB chain by the end of March.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Reverses Course on NFTs With Platform Launch]]></title>
-        <id>https://thedefiant.io/daily-defiant/</id>
-        <link href="https://thedefiant.io/daily-defiant/"/>
-        <updated>2023-01-06T12:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we’re covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
