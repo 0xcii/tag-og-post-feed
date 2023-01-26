@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/daily-defiant-dydx-rallies/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we’re covering today!",
+          "link": "https://thedefiant.io/daily-defiant-dydx-rallies/",
+          "publishedOn": "2023-01-26T13:23:10.000Z",
+          "wordCount": 1452,
+          "title": "DYDX Rallies 18% After Token Release Delayed",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/26054115/DYDXInvestorLockupExtension.jpg"
+        },
+        {
           "id": "https://thedefiant.io/pudgy-penguins-doodles-gas-fees-layer-1/",
           "author": "Samuel Haig",
           "description": "Top NFT Collections Fear Return of High Gas Fees and Look to Layer 1s",
@@ -1056,16 +1066,6 @@
           "wordCount": 5213,
           "title": "⍺ DeFi Alpha: Using Opyn’s ETH Zen Bull Strategy To Capitalize On Low Volatility",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
-        },
-        {
-          "id": "https://thedefiant.io/ethereum-devs-prime-beacon-for-eth-withdrawal/",
-          "author": "Samuel Haig",
-          "description": "ETH Stakers May Be Able to Initiate Withdrawals in March",
-          "link": "https://thedefiant.io/ethereum-devs-prime-beacon-for-eth-withdrawal/",
-          "publishedOn": "2023-01-09T14:54:12.000Z",
-          "wordCount": 1882,
-          "title": "Ethereum Devs Prep Plan to Let Stakers Withdraw ETH From Beacon",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/09150217/ETHShanghaiUpgrade.jpg"
         }
       ]
     },
@@ -1413,7 +1413,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1392,
+          "wordCount": 1343,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         },
