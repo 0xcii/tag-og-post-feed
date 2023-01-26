@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-26T19:11:16.771Z</id>
+    <id>urn:2023-01-26T20:13:39.554Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-26T19:11:16.771Z</updated>
+    <updated>2023-01-26T20:13:39.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1490,16 +1490,6 @@ functionality on the public testnet Shibuya. It gives projects building […]]]>
         <summary type="html"><![CDATA[Recap: Week of Dec. 19th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - Erik Voorhees]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-erik-voorhees-why-are-we-here</id>
-        <link href="https://shows.banklesshq.com/p/debrief-erik-voorhees-why-are-we-here"/>
-        <updated>2022-12-28T07:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (34 min) | Debriefing the Why Are We Here? with Erik Voorhees episode]]></summary>
-        <author>
-            <name>Bankless Shows</name>
         </author>
     </entry>
 </feed>
