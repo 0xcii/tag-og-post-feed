@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-26T04:17:08.330Z</id>
+    <id>urn:2023-01-26T05:13:12.804Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-26T04:17:08.330Z</updated>
+    <updated>2023-01-26T05:13:12.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - The Rise of Decentralized Social Networks]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-dan-romero</id>
+        <link href="https://shows.banklesshq.com/p/debrief-dan-romero"/>
+        <updated>2023-01-26T04:50:11.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (25 min) | Debriefing the Dan Romero, The Rise of Decentralized Social Networks episode.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - The Rise of Decentralized Social Networks with Farcaster’s Dan Romero]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized</id>
+        <link href="https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized"/>
+        <updated>2023-01-26T04:50:05.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (85 min) | First we take back our money, then our identity.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimism Activity Plummets After NFT Incentives End]]></title>
+        <id>https://thedefiant.io/optimism-token-up-activity-down/</id>
+        <link href="https://thedefiant.io/optimism-token-up-activity-down/"/>
+        <updated>2023-01-26T04:28:46.000Z</updated>
+        <summary type="html"><![CDATA[OP Rallies To All-Time High]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China’s “Instagram” chooses Conflux Network for permissionless blockchain integration]]></title>
         <id>https://thedefiant.io/chinas-instagram-chooses-conflux-network-for-permissionless-blockchain-integration/</id>
@@ -1320,16 +1350,6 @@ functionality on the public testnet Shibuya. It gives projects building […]]]>
         <summary type="html"><![CDATA[Solvency Fears Mount At Yet Another Centralized Exchange]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recap: DeFi Week Jan. 1]]></title>
-        <id>https://thedefiant.io/defiant-weekly-recap/</id>
-        <link href="https://thedefiant.io/defiant-weekly-recap/"/>
-        <updated>2023-01-08T12:57:01.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Happy New Year! Here’s what we covered this week.]]></summary>
-        <author>
-            <name>Edward Robinson</name>
         </author>
     </entry>
     <entry>
