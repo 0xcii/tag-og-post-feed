@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-27T14:12:54.342Z</id>
+    <id>urn:2023-01-27T15:14:25.441Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-27T14:12:54.342Z</updated>
+    <updated>2023-01-27T15:14:25.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Obscure NFT Collection Rockets to $83M]]></title>
+        <id>https://thedefiant.io/obscure-nft-collection-rockets-to-83m/</id>
+        <link href="https://thedefiant.io/obscure-nft-collection-rockets-to-83m/"/>
+        <updated>2023-01-27T14:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROLLUP: Genesis Bankruptcy | SEC Crypto Crackdown | Kevin Rose NFTs Hacked | Aptos Token | BAYC Sewer Pass]]></title>
         <id>https://shows.banklesshq.com/p/rollup-genesis-bankruptcy-sec-crypto</id>
@@ -1364,17 +1374,6 @@ Stablecoin]]></summary>
 Verified Credentials]]></summary>
         <author>
             <name>JP Bedoya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Crackdown Intensifies as NY Hits Coinbase and Mashinsky]]></title>
-        <id>https://thedefiant.io/coinbase-celsius-penalties-lawsuit/</id>
-        <link href="https://thedefiant.io/coinbase-celsius-penalties-lawsuit/"/>
-        <updated>2023-01-05T20:30:10.000Z</updated>
-        <summary type="html"><![CDATA[NY Attorney General Alleges Celsius Founder of Defrauded Customers; Coinbase
-Fined $50M]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>
