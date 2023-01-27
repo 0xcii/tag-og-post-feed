@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/tekin-salimi-on-managing-125m-through-a-dao/",
+          "author": "The Defiant Team",
+          "description": "This week on The Defiant Podcast, we speak with Tekin Salimi, the founder of\ndao5, a Web 3 investment fund founded last year. Tekin was previously at\nPolychain Capital.",
+          "link": "https://thedefiant.io/tekin-salimi-on-managing-125m-through-a-dao/",
+          "publishedOn": "2023-01-27T21:09:12.000Z",
+          "wordCount": 615,
+          "title": "Tekin Salimi on Managing $125M Through A DAO",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/27165415/TekinSalimiThumb.jpg"
+        },
+        {
           "id": "https://thedefiant.io/obscure-nft-collection-rockets-to-83m/",
           "author": "The Defiant Team",
           "description": "Hello Defiers! Here’s what we are covering today!",
@@ -1056,16 +1066,6 @@
           "wordCount": 1598,
           "title": "New Year Brings Some Relief To Crypto Investors",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/06005045/NewYearRally.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/we-have-the-tools-to-reshape-cross-chain-identity/",
-          "author": "JP Bedoya",
-          "description": "A Primer on the Power of Soulbound Tokens, Decentralized Identifiers, and\nVerified Credentials",
-          "link": "https://thedefiant.io/we-have-the-tools-to-reshape-cross-chain-identity/",
-          "publishedOn": "2023-01-05T20:49:26.000Z",
-          "wordCount": 2427,
-          "title": "We Have the Tools to Reshape Cross-Chain Identity",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/06170344/CrossChainID.jpg"
         }
       ]
     },
