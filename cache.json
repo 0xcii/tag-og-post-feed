@@ -1413,7 +1413,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1343,
+          "wordCount": 1279,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         },
@@ -1689,22 +1689,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/gwozsjcqbheislcb3hnn"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Mean Finance Live on Ethereum Previously on Polygon and L2s, DCA protocol Mean Finance is now available on Ethereum, offering DCA tools with MEV-protected & gasless swaps. Gamma Strategies on Arbitrum Uniswap V3 liquidity management protocol Gamma Strategies launches on Arbitrum, supporting new pairs for Arbitrum-based assets.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-mean-finance-on-ethereum",
-          "publishedOn": "2022-12-29T11:58:29.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Mean Finance on Ethereum, Gamma Strategies on Arbitrum, Strategy for the Calm Market, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlAQYS8aUAE93PY.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlAQYS8aUAE93PY.jpg"
         }
       ]
     }
