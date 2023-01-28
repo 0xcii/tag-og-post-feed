@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-28T07:11:51.590Z</id>
+    <id>urn:2023-01-28T08:16:55.041Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-28T07:11:51.590Z</updated>
+    <updated>2023-01-28T08:16:55.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - Investing in Waves]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-chris-burniske</id>
+        <link href="https://shows.banklesshq.com/p/debrief-chris-burniske"/>
+        <updated>2023-01-28T07:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (12 min) | Debriefing the Chris Burniske, Investing in Waves episode.]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - Investing in Waves with Chris Burniske]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-investing-in-waves-with</id>
+        <link href="https://shows.banklesshq.com/p/early-access-investing-in-waves-with"/>
+        <updated>2023-01-28T07:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (109 min) | Why crypto is like surfing and how you catch a good wave]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tekin Salimi on Managing $125M Through A DAO]]></title>
         <id>https://thedefiant.io/tekin-salimi-on-managing-125m-through-a-dao/</id>
@@ -1398,16 +1418,6 @@ Stablecoin]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are NFTs Securities? with Brian Frye]]></title>
-        <id>https://shows.banklesshq.com/p/are-nfts-securities-with-brian-frye</id>
-        <link href="https://shows.banklesshq.com/p/are-nfts-securities-with-brian-frye"/>
-        <updated>2023-01-04T05:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (75 min) | Securities Lawyer Trolls the SEC]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - LlamaSwap Live, Sushi New Tokenomics, Convex cvxCRV Update, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-llamaswap-live</id>
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-llamaswap-live"/>
@@ -1415,16 +1425,6 @@ Stablecoin]]></summary>
         <summary type="html"><![CDATA[Recap: Week of Dec. 26th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Why Solana is Down Bad | Avi Arrested | MicroStrategy Purchases $41M Bitcoin | Gemini Sued Over Gemini Earn]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi</id>
-        <link href="https://shows.banklesshq.com/p/rollup-why-solana-is-down-bad-avi"/>
-        <updated>2022-12-30T11:01:17.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (81 min) | Last Week of 2022]]></summary>
-        <author>
-            <name>Bankless Shows</name>
         </author>
     </entry>
     <entry>
