@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-28T16:17:21.523Z</id>
+    <id>urn:2023-01-28T17:11:45.765Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-28T16:17:21.523Z</updated>
+    <updated>2023-01-28T17:11:45.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[📬 Inbox Dump #87]]></title>
+        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-87/</id>
+        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-87/"/>
+        <updated>2023-01-28T16:59:57.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Inbox Dump where we include the updates and announcements that flood
+our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEBRIEF - Investing in Waves]]></title>
         <id>https://shows.banklesshq.com/p/debrief-chris-burniske</id>
@@ -1375,16 +1386,6 @@ Stablecoin]]></summary>
         <summary type="html"><![CDATA[Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Year Brings Some Relief To Crypto Investors]]></title>
-        <id>https://thedefiant.io/new-year-rally/</id>
-        <link href="https://thedefiant.io/new-year-rally/"/>
-        <updated>2023-01-06T04:52:21.000Z</updated>
-        <summary type="html"><![CDATA[Lido And Solana Outperform As Markets Rally]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
     <entry>
