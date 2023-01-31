@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-31T15:14:31.182Z</id>
+    <id>urn:2023-01-31T16:19:41.428Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-31T15:14:31.183Z</updated>
+    <updated>2023-01-31T16:19:41.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Erasure?]]></title>
+        <id>https://thedefiant.io/what-is-erasure/</id>
+        <link href="https://thedefiant.io/what-is-erasure/"/>
+        <updated>2023-01-31T15:58:55.000Z</updated>
+        <summary type="html"><![CDATA[A Primer on the DeFi Data Markets Protocol]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rollup Wars: Battle Rages For the Future Of Ethereum Scaling]]></title>
+        <id>https://thedefiant.io/rollup-wars-battle-rages-for-the-future-of-ethereum-scaling/</id>
+        <link href="https://thedefiant.io/rollup-wars-battle-rages-for-the-future-of-ethereum-scaling/"/>
+        <updated>2023-01-31T15:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - SUDO Token Live, Camelot x Redacted Cartel, GLP Strategies, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-sudo-token-live-camelot</id>
@@ -1358,16 +1378,6 @@ hottest NFTs.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum Devs Prep Plan to Let Stakers Withdraw ETH From Beacon]]></title>
-        <id>https://thedefiant.io/ethereum-devs-prime-beacon-for-eth-withdrawal/</id>
-        <link href="https://thedefiant.io/ethereum-devs-prime-beacon-for-eth-withdrawal/"/>
-        <updated>2023-01-09T14:54:12.000Z</updated>
-        <summary type="html"><![CDATA[ETH Stakers May Be Able to Initiate Withdrawals in March]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DEBRIEF - Liv Boeree]]></title>
         <id>https://shows.banklesshq.com/p/liv-boeree</id>
         <link href="https://shows.banklesshq.com/p/liv-boeree"/>
@@ -1395,16 +1405,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Recap: Week of Jan. 2nd]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum’s Shanghai Upgrade is coming]]></title>
-        <id>https://thedefiant.io/shanghai-is-coming/</id>
-        <link href="https://thedefiant.io/shanghai-is-coming/"/>
-        <updated>2023-01-09T08:26:28.000Z</updated>
-        <summary type="html"><![CDATA[Shanghai Upgrade Approaches]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>
@@ -1442,7 +1442,6 @@ hottest NFTs.]]></summary>
         <id>https://medium.com/p/b401cc31cd57</id>
         <link href="https://entrepreneurshandbook.co/vitiligo-b401cc31cd57?source=rss-2f6e06954878------2"/>
         <updated>2023-01-06T00:01:42.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>

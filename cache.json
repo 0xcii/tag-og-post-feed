@@ -57,12 +57,12 @@
         {
           "id": "https://medium.com/p/b401cc31cd57",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/vitiligo-b401cc31cd57?source=rss-2f6e06954878------2",
           "publishedOn": "2023-01-06T00:01:42.000Z",
-          "wordCount": 12597,
+          "wordCount": null,
           "title": "Vitiligo",
-          "imageUrl": "https://miro.medium.com/max/400/0*tlGQDfuHcTy9yJ9j"
+          "imageUrl": null
         }
       ]
     },
@@ -83,6 +83,26 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/what-is-erasure/",
+          "author": "Rahul Nambiampurath",
+          "description": "A Primer on the DeFi Data Markets Protocol",
+          "link": "https://thedefiant.io/what-is-erasure/",
+          "publishedOn": "2023-01-31T15:58:55.000Z",
+          "wordCount": 3265,
+          "title": "What is Erasure?",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/25141923/WhatIsErasure.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/rollup-wars-battle-rages-for-the-future-of-ethereum-scaling/",
+          "author": "yyctrader",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/rollup-wars-battle-rages-for-the-future-of-ethereum-scaling/",
+          "publishedOn": "2023-01-31T15:55:10.000Z",
+          "wordCount": 1082,
+          "title": "Rollup Wars: Battle Rages For the Future Of Ethereum Scaling",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/31111722/ZKvOR-1.jpg"
+        },
         {
           "id": "https://thedefiant.io/metaplex-upgrade-solana-nft-royalties/",
           "author": "Aleksandar Gilbert",
@@ -1062,26 +1082,6 @@
           "wordCount": 5216,
           "title": "⍺ DeFi Alpha: Using Opyn’s ETH Zen Bull Strategy To Capitalize On Low Volatility",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
-        },
-        {
-          "id": "https://thedefiant.io/ethereum-devs-prime-beacon-for-eth-withdrawal/",
-          "author": "Samuel Haig",
-          "description": "ETH Stakers May Be Able to Initiate Withdrawals in March",
-          "link": "https://thedefiant.io/ethereum-devs-prime-beacon-for-eth-withdrawal/",
-          "publishedOn": "2023-01-09T14:54:12.000Z",
-          "wordCount": 1897,
-          "title": "Ethereum Devs Prep Plan to Let Stakers Withdraw ETH From Beacon",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/09150217/ETHShanghaiUpgrade.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/shanghai-is-coming/",
-          "author": "Aleksandar Gilbert",
-          "description": "Shanghai Upgrade Approaches",
-          "link": "https://thedefiant.io/shanghai-is-coming/",
-          "publishedOn": "2023-01-09T08:26:28.000Z",
-          "wordCount": 836,
-          "title": "Ethereum’s Shanghai Upgrade is coming",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/12035244/Ethereums-Shanghai-Upgrade-is-coming.jpg"
         }
       ]
     },
@@ -1439,7 +1439,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1296,
+          "wordCount": 1388,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         },
@@ -1449,7 +1449,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2238,
+          "wordCount": 2237,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         }
