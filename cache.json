@@ -47,12 +47,12 @@
         {
           "id": "https://medium.com/p/1b92183c61a1",
           "author": "Arthur Hayes",
-          "description": "",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/bouncy-castle-1b92183c61a1?source=rss-2f6e06954878------2",
           "publishedOn": "2023-01-19T11:02:28.000Z",
-          "wordCount": null,
+          "wordCount": 7558,
           "title": "Bouncy Castle",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/max/400/0*28Rn3J3GNG7rgC0B"
         },
         {
           "id": "https://medium.com/p/b401cc31cd57",
@@ -83,6 +83,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/ethereum-zhejiang-testnet-withdrawals/",
+          "author": "yyctrader",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/ethereum-zhejiang-testnet-withdrawals/",
+          "publishedOn": "2023-02-01T16:15:59.000Z",
+          "wordCount": 1552,
+          "title": "Ethereum Developers To Launch Testnet Supporting Staked ETH Withdrawals",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/01115041/image.png"
+        },
         {
           "id": "https://thedefiant.io/blur-sidesteps-opensea-filters-seaport/",
           "author": "Owen Fernau",
@@ -1072,16 +1082,6 @@
           "wordCount": 521,
           "title": "Will The Bank Run On Binance Continue?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/12034752/Will-The-Bank-Run-On-Binance-Continue.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/layer-1-tokens-outperform-as-market-rallies/",
-          "author": "Aleksandar Gilbert",
-          "description": "Layer 1 Tokens Outperform",
-          "link": "https://thedefiant.io/layer-1-tokens-outperform-as-market-rallies/",
-          "publishedOn": "2023-01-10T03:19:19.000Z",
-          "wordCount": 795,
-          "title": "Crypto Kicks Off The Week With Broad-Based Rally",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/09231810/Sminem_MarketsUP.jpg"
         }
       ]
     },
@@ -1469,7 +1469,7 @@
           "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
           "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2283,
+          "wordCount": 2238,
           "title": "Oracle Evolution",
           "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         }
