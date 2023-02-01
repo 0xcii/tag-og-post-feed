@@ -1449,7 +1449,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1540,
+          "wordCount": 1548,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         },
@@ -1480,6 +1480,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Lyra Newport Live on Arbitrum Optimism-based options protocol Lyra launches Newport on Arbitrum. This upgrade enables cash collateral, tighter spreads, and a modular design. Check our premium guide below on how to earn rewards with Lyra. Mars Hub Deployed on Osmosis",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars",
+          "publishedOn": "2023-02-01T09:47:19.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Lyra Newport Live, Mars Hub Deployed, Earn on Options, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/vfpfby3nfmf9oajzjcuv",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/vfpfby3nfmf9oajzjcuv"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-sudo-token-live-camelot",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
