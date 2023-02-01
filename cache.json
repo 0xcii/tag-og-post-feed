@@ -84,6 +84,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/real-world-assets-key-defi-growth/",
+          "author": "Asad Khan",
+          "description": "RWA Isn’t Just a Buzzword But a Catalyst for a Decentralized Financial System",
+          "link": "https://thedefiant.io/real-world-assets-key-defi-growth/",
+          "publishedOn": "2023-02-01T05:02:54.000Z",
+          "wordCount": 2581,
+          "title": "Real World Assets Can Deliver DeFi’s Promise",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/01010248/DeFiningRWAs.jpg"
+        },
+        {
           "id": "https://thedefiant.io/what-is-erasure/",
           "author": "Rahul Nambiampurath",
           "description": "A Primer on the DeFi Data Markets Protocol",
@@ -1072,16 +1082,6 @@
           "wordCount": 1390,
           "title": "Yearn Finance Releases Permissionless Vault Factory",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/09225944/YearnPermissionlessVaultFactory.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/defi-alpha-using-opyns-eth-zen-bull-strategy/",
-          "author": "yyctrader",
-          "description": "Trade with up to 25X Leverage using Kwenta Decentralized Perpetuals on L2",
-          "link": "https://thedefiant.io/defi-alpha-using-opyns-eth-zen-bull-strategy/",
-          "publishedOn": "2023-01-10T02:02:09.000Z",
-          "wordCount": 5086,
-          "title": "⍺ DeFi Alpha: Using Opyn’s ETH Zen Bull Strategy To Capitalize On Low Volatility",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         }
       ]
     },
@@ -1423,6 +1423,16 @@
       "feedUrl": "https://andrecronje.medium.com/feed",
       "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
       "articles": [
+        {
+          "id": "https://medium.com/p/35701700e325",
+          "author": "Andre Cronje",
+          "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
+          "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
+          "publishedOn": "2023-02-01T04:55:32.000Z",
+          "wordCount": 3509,
+          "title": "Frustrations of a Dapp developer",
+          "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
+        },
         {
           "id": "https://medium.com/p/a3b09981d708",
           "author": "Andre Cronje",

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T04:17:17.594Z</id>
+    <id>urn:2023-02-01T05:12:58.801Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-01T04:17:17.594Z</updated>
+    <updated>2023-02-01T05:12:58.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Real World Assets Can Deliver DeFi’s Promise]]></title>
+        <id>https://thedefiant.io/real-world-assets-key-defi-growth/</id>
+        <link href="https://thedefiant.io/real-world-assets-key-defi-growth/"/>
+        <updated>2023-02-01T05:02:54.000Z</updated>
+        <summary type="html"><![CDATA[RWA Isn’t Just a Buzzword But a Catalyst for a Decentralized Financial System]]></summary>
+        <author>
+            <name>Asad Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrations of a Dapp developer]]></title>
+        <id>https://medium.com/p/35701700e325</id>
+        <link href="https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2"/>
+        <updated>2023-02-01T04:55:32.000Z</updated>
+        <summary type="html"><![CDATA[I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Erasure?]]></title>
         <id>https://thedefiant.io/what-is-erasure/</id>
@@ -1365,16 +1385,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Factory Vaults To Include Preset Strategies and Reduced Fees]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⍺ DeFi Alpha: Using Opyn’s ETH Zen Bull Strategy To Capitalize On Low Volatility]]></title>
-        <id>https://thedefiant.io/defi-alpha-using-opyns-eth-zen-bull-strategy/</id>
-        <link href="https://thedefiant.io/defi-alpha-using-opyns-eth-zen-bull-strategy/"/>
-        <updated>2023-01-10T02:02:09.000Z</updated>
-        <summary type="html"><![CDATA[Trade with up to 25X Leverage using Kwenta Decentralized Perpetuals on L2]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
     <entry>
