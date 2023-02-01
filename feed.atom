@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T21:12:50.485Z</id>
+    <id>urn:2023-02-01T22:13:41.601Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-01T21:12:50.485Z</updated>
+    <updated>2023-02-01T22:13:41.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Alchemix?]]></title>
+        <id>https://thedefiant.io/what-is-alchemix/</id>
+        <link href="https://thedefiant.io/what-is-alchemix/"/>
+        <updated>2023-02-01T20:41:08.000Z</updated>
+        <summary type="html"><![CDATA[A Primer on the DeFi Lending Protocol]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Developers To Launch Testnet Supporting Staked ETH Withdrawals]]></title>
         <id>https://thedefiant.io/ethereum-zhejiang-testnet-withdrawals/</id>
@@ -1405,16 +1415,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Dopex stETH SSOV Dopex partners with Lido to launch the stETH SSOV (Single Staking Option Vault). Users can deposit wstETH into strikes providing liquidity into option pools to earn yield in premiums and rewards. Pangolin AVAX FTM Cross-chain Swap Avalanche-based DEX Pangolin enables cross-chain swaps for native AVAX and FTM between Avalanche and Fantom.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will The Bank Run On Binance Continue?]]></title>
-        <id>https://thedefiant.io/will-the-bank-run-on-binance-continue/</id>
-        <link href="https://thedefiant.io/will-the-bank-run-on-binance-continue/"/>
-        <updated>2023-01-10T07:46:07.000Z</updated>
-        <summary type="html"><![CDATA[Binance Bank Run?]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
