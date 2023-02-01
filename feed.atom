@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T05:12:58.801Z</id>
+    <id>urn:2023-02-01T06:18:29.264Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-01T05:12:58.801Z</updated>
+    <updated>2023-02-01T06:18:29.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blur Adopts Seaport To Sidestep OpenSea Filter]]></title>
+        <id>https://thedefiant.io/blur-sidesteps-opensea-filters-seaport/</id>
+        <link href="https://thedefiant.io/blur-sidesteps-opensea-filters-seaport/"/>
+        <updated>2023-02-01T06:01:44.000Z</updated>
+        <summary type="html"><![CDATA[NFT Marketplace Will Enforce Royalties On Seaport Listings]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The death of Defi & RWA]]></title>
+        <id>https://medium.com/p/31821c288341</id>
+        <link href="https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2"/>
+        <updated>2023-02-01T05:26:38.000Z</updated>
+        <summary type="html"><![CDATA[Background]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Developers To Launch Testnet Supporting Staked ETH Withdrawals]]></title>
+        <id>https://thedefiant.io/ethereum-zhejiang-testnet-launch/</id>
+        <link href="https://thedefiant.io/ethereum-zhejiang-testnet-launch/"/>
+        <updated>2023-02-01T05:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Zhejiang Testnet Will Go Live On Feb. 1]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Real World Assets Can Deliver DeFi’s Promise]]></title>
         <id>https://thedefiant.io/real-world-assets-key-defi-growth/</id>
@@ -1365,26 +1395,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Layer 1 Tokens Outperform]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EIP-5988 Poised To Improve ZK-Rollups’ Compatibility With Ethereum]]></title>
-        <id>https://thedefiant.io/eip5988-zk-compatibility-evm/</id>
-        <link href="https://thedefiant.io/eip5988-zk-compatibility-evm/"/>
-        <updated>2023-01-10T03:13:47.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik Emphasizes Need For Stability Of Ethereum’s Virtual Machine]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yearn Finance Releases Permissionless Vault Factory]]></title>
-        <id>https://thedefiant.io/yearn-permissionless-vaults/</id>
-        <link href="https://thedefiant.io/yearn-permissionless-vaults/"/>
-        <updated>2023-01-10T03:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Factory Vaults To Include Preset Strategies and Reduced Fees]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>

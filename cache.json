@@ -84,6 +84,26 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/blur-sidesteps-opensea-filters-seaport/",
+          "author": "Owen Fernau",
+          "description": "NFT Marketplace Will Enforce Royalties On Seaport Listings",
+          "link": "https://thedefiant.io/blur-sidesteps-opensea-filters-seaport/",
+          "publishedOn": "2023-02-01T06:01:44.000Z",
+          "wordCount": 1502,
+          "title": "Blur Adopts Seaport To Sidestep OpenSea Filter",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/01020010/BlurVOpenSea.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/ethereum-zhejiang-testnet-launch/",
+          "author": "Samuel Haig",
+          "description": "Zhejiang Testnet Will Go Live On Feb. 1",
+          "link": "https://thedefiant.io/ethereum-zhejiang-testnet-launch/",
+          "publishedOn": "2023-02-01T05:08:35.000Z",
+          "wordCount": 1184,
+          "title": "Ethereum Developers To Launch Testnet Supporting Staked ETH Withdrawals",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/01010657/zheijiangtestnet.jpg"
+        },
+        {
           "id": "https://thedefiant.io/real-world-assets-key-defi-growth/",
           "author": "Asad Khan",
           "description": "RWA Isn’t Just a Buzzword But a Catalyst for a Decentralized Financial System",
@@ -1062,26 +1082,6 @@
           "wordCount": 797,
           "title": "Crypto Kicks Off The Week With Broad-Based Rally",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/09231810/Sminem_MarketsUP.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/eip5988-zk-compatibility-evm/",
-          "author": "Samuel Haig",
-          "description": "Vitalik Emphasizes Need For Stability Of Ethereum’s Virtual Machine",
-          "link": "https://thedefiant.io/eip5988-zk-compatibility-evm/",
-          "publishedOn": "2023-01-10T03:13:47.000Z",
-          "wordCount": 1577,
-          "title": "EIP-5988 Poised To Improve ZK-Rollups’ Compatibility With Ethereum",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/09231243/EIP5988.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/yearn-permissionless-vaults/",
-          "author": "Owen Fernau",
-          "description": "Factory Vaults To Include Preset Strategies and Reduced Fees",
-          "link": "https://thedefiant.io/yearn-permissionless-vaults/",
-          "publishedOn": "2023-01-10T03:00:34.000Z",
-          "wordCount": 1390,
-          "title": "Yearn Finance Releases Permissionless Vault Factory",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/09225944/YearnPermissionlessVaultFactory.jpg"
         }
       ]
     },
@@ -1423,6 +1423,16 @@
       "feedUrl": "https://andrecronje.medium.com/feed",
       "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
       "articles": [
+        {
+          "id": "https://medium.com/p/31821c288341",
+          "author": "Andre Cronje",
+          "description": "Background",
+          "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
+          "publishedOn": "2023-02-01T05:26:38.000Z",
+          "wordCount": 2901,
+          "title": "The death of Defi & RWA",
+          "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
+        },
         {
           "id": "https://medium.com/p/35701700e325",
           "author": "Andre Cronje",
