@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-01T11:12:02.578Z</id>
+    <id>urn:2023-02-01T12:28:38.194Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-01T11:12:02.578Z</updated>
+    <updated>2023-02-01T12:28:38.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Power to Mint Money]]></title>
+        <id>https://shows.banklesshq.com/p/the-power-to-mint-money</id>
+        <link href="https://shows.banklesshq.com/p/the-power-to-mint-money"/>
+        <updated>2023-02-01T11:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (69 min) | The history of crypto bull markets and why it matters]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Lyra Newport Live, Mars Hub Deployed, Earn on Options, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars</id>
@@ -1413,16 +1423,6 @@ hottest NFTs.]]></summary>
         <link href="https://shows.banklesshq.com/p/liv-boeree"/>
         <updated>2023-01-09T11:30:56.000Z</updated>
         <summary type="html"><![CDATA[Listen now (26 min) | Debriefing the Why Can't We Have Nice Things with Liv Boeree episode]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[152 - Why Can't We Have Nice Things | Liv Boeree]]></title>
-        <id>https://shows.banklesshq.com/p/152-why-cant-we-have-nice-things</id>
-        <link href="https://shows.banklesshq.com/p/152-why-cant-we-have-nice-things"/>
-        <updated>2023-01-09T11:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (84 min) | Slaying Moloch]]></summary>
         <author>
             <name>David Hoffman</name>
         </author>
