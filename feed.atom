@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-02T22:13:23.315Z</id>
+    <id>urn:2023-02-02T23:14:55.775Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-02T22:13:23.315Z</updated>
+    <updated>2023-02-02T23:14:55.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1485,16 +1485,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Uniswap Router Vulnerability, Wyre to Shut Down, Leveraged Trading on Arbitrum, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-uniswap-router-vulnerability</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-router-vulnerability"/>
-        <updated>2023-01-04T10:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Router Vulnerability Uniswap recently introduced Router, a new feature that unifies ERC20 and NFT swapping into a single swap router, however security firm Dedaun found a vulnerability in Router that could potentially cause reentrancy exploits and fund losses.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>

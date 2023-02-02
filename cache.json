@@ -1751,22 +1751,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlpnSX7XwA4tbPz.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-router-vulnerability",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Uniswap Router Vulnerability Uniswap recently introduced Router, a new feature that unifies ERC20 and NFT swapping into a single swap router, however security firm Dedaun found a vulnerability in Router that could potentially cause reentrancy exploits and fund losses.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-uniswap-router-vulnerability",
-          "publishedOn": "2023-01-04T10:31:06.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Uniswap Router Vulnerability, Wyre to Shut Down, Leveraged Trading on Arbitrum, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlgRBbeXgAEG-Q4.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlgRBbeXgAEG-Q4.jpg"
         }
       ]
     }
