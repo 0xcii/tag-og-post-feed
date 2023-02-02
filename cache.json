@@ -84,6 +84,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/olympus-to-deposit-77m-in-maker/",
+          "author": "Owen Fernau",
+          "description": "DAI Savings Rate Was Increased To 1% In December",
+          "link": "https://thedefiant.io/olympus-to-deposit-77m-in-maker/",
+          "publishedOn": "2023-02-02T05:23:36.000Z",
+          "wordCount": 1981,
+          "title": "OlympusDAO Votes To Deposit $77M In MakerDAO",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/02012220/OlympusDepositMaker.jpg"
+        },
+        {
           "id": "https://thedefiant.io/what-is-alchemix/",
           "author": "Rahul Nambiampurath",
           "description": "A Primer on the DeFi Lending Protocol",
@@ -1072,16 +1082,6 @@
           "wordCount": 1966,
           "title": "Lido Rides Liquid Staking Wave to Become Largest DeFi Protocol",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/06170640/LSDRally.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/what-are-defi-derivatives/",
-          "author": "Rahul Nambiampurath",
-          "description": "A Primer on High-Risk Instruments Used in Decentralized Finance",
-          "link": "https://thedefiant.io/what-are-defi-derivatives/",
-          "publishedOn": "2023-01-10T14:38:47.000Z",
-          "wordCount": 2416,
-          "title": "What Are DeFi Derivatives?",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/10103735/WhatAreDeFiDerivs.jpg"
         }
       ]
     },
@@ -1429,7 +1429,7 @@
           "description": "Background",
           "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T05:26:38.000Z",
-          "wordCount": 2901,
+          "wordCount": 3072,
           "title": "The death of Defi & RWA",
           "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
         },
@@ -1459,7 +1459,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1296,
+          "wordCount": 1320,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         },
