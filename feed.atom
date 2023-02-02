@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-02T08:18:02.468Z</id>
+    <id>urn:2023-02-02T09:14:10.578Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-02T08:18:02.468Z</updated>
+    <updated>2023-02-02T09:14:10.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Optimism Bedrock Coming, Pirex for GMX Live, Interest Rate Derivatives, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-coming</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-coming"/>
+        <updated>2023-02-02T08:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Optimism Bedrock Coming Optimism Foundation proposed Bedrock, the next upgrade to Optimism that will bring improvements to the network including transaction costs, throughput characteristics, and sync speeds. Pirex for GMX Live Redacted Cartel launches Pirex for GMX (liquid wrapper for staked GMX and staked GLP). Users are now able to deposit GMX and/or GLP and receive either pxGMX or pxGLP that earn yield as if the underlying tokens were max staked on GMX natively.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OlympusDAO Votes To Deposit $77M In MakerDAO]]></title>
         <id>https://thedefiant.io/olympus-to-deposit-77m-in-maker/</id>
