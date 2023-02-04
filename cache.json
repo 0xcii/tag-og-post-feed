@@ -47,12 +47,12 @@
         {
           "id": "https://medium.com/p/1b92183c61a1",
           "author": "Arthur Hayes",
-          "description": "",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/bouncy-castle-1b92183c61a1?source=rss-2f6e06954878------2",
           "publishedOn": "2023-01-19T11:02:28.000Z",
-          "wordCount": null,
+          "wordCount": 7450,
           "title": "Bouncy Castle",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/max/400/0*28Rn3J3GNG7rgC0B"
         },
         {
           "id": "https://medium.com/p/b401cc31cd57",
@@ -83,6 +83,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/optimism-surges-bedrock-upgrade/",
+          "author": "yyctrader",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/optimism-surges-bedrock-upgrade/",
+          "publishedOn": "2023-02-04T05:31:39.000Z",
+          "wordCount": 1566,
+          "title": "OP Hits Fresh Highs After Foundation Unveils ‘Bedrock’ Upgrade",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/04011331/OPBedrockBUSD-1.jpg"
+        },
         {
           "id": "https://thedefiant.io/op-hits-ath-bedrock-upgrade/",
           "author": "Samuel Haig",
@@ -279,7 +289,7 @@
           "description": "Open an Instant Loan backed by NFTs with DeFrag",
           "link": "https://thedefiant.io/defi-alpha-nft-loans-with-defrag/",
           "publishedOn": "2023-01-29T07:03:21.000Z",
-          "wordCount": 346,
+          "wordCount": 344,
           "title": "DeFi Alpha: Reserve Your Free TreasureTag on Arbitrum",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         },
@@ -359,7 +369,7 @@
           "description": "NFT Marketplace Is Betting On Multichain Strategy and Loyalty Program",
           "link": "https://thedefiant.io/magic-eden-multichain-polygon/",
           "publishedOn": "2023-01-27T04:37:22.000Z",
-          "wordCount": 2422,
+          "wordCount": 2420,
           "title": "Magic Eden Eyes Change As It Navigates Bear Market",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/27003439/MEvOS.jpg"
         },
@@ -559,7 +569,7 @@
           "description": "A Primer on the Stablecoin Collateral Tool",
           "link": "https://thedefiant.io/what-is-unit-protocol/",
           "publishedOn": "2023-01-23T12:42:16.000Z",
-          "wordCount": 2815,
+          "wordCount": 2813,
           "title": "What is Unit Protocol?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/23083900/WhatIsUnitProtocol.jpg"
         },
@@ -1072,16 +1082,6 @@
           "wordCount": 1859,
           "title": "Winklevoss and Silbert Trade Blows as Fraud Accusations Fly",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/10130943/37F30B6C-E542-4281-8305-0C0A43C66CBA.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/cz-gemini-genesis/",
-          "author": "Edward Robinson",
-          "description": "CZ Addressed Concerns about Binance and the Market",
-          "link": "https://thedefiant.io/cz-gemini-genesis/",
-          "publishedOn": "2023-01-11T13:28:40.000Z",
-          "wordCount": 2077,
-          "title": "CZ Zings Genesis-Gemini Fracas With Vow to Protect Customer Assets",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/12/13005957/BinanceFUD.jpg"
         }
       ]
     },
