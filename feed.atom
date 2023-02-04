@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-04T17:11:36.791Z</id>
+    <id>urn:2023-02-04T18:16:15.906Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-04T17:11:36.791Z</updated>
+    <updated>2023-02-04T18:16:15.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[📬 Inbox Dump #88]]></title>
+        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-88/</id>
+        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-88/"/>
+        <updated>2023-02-04T17:04:44.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Inbox Dump where we include the updates and announcements that flood
+our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OP Hits Fresh Highs After Foundation Unveils ‘Bedrock’ Upgrade]]></title>
         <id>https://thedefiant.io/optimism-surges-bedrock-upgrade/</id>
@@ -915,7 +926,6 @@ hottest NFTs.]]></summary>
         <id>https://medium.com/p/1b92183c61a1</id>
         <link href="https://entrepreneurshandbook.co/bouncy-castle-1b92183c61a1?source=rss-2f6e06954878------2"/>
         <updated>2023-01-19T11:02:28.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
@@ -1411,16 +1421,6 @@ hottest NFTs.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Winklevoss and Silbert Trade Blows as Fraud Accusations Fly]]></title>
-        <id>https://thedefiant.io/wnklevoss-and-silbert-trade-blows-as-fraud-accusations-fly/</id>
-        <link href="https://thedefiant.io/wnklevoss-and-silbert-trade-blows-as-fraud-accusations-fly/"/>
-        <updated>2023-01-11T13:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Yearn Permissionless Vault Factory, Woo Tokenomics Revamp, ETH Staking Derivative Options, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless"/>
@@ -1468,26 +1468,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Avalanche NFTs on Shopify Shopify merchants can now mint NFTs on Avalanche and list NFTs on their stores for sale, instead of directing visitors to OpenSea or Magic Eden. Trader Joe Coming to BnB Chain Avalanche-based trading platform Trader Joe will deploy its DEX and NFT marketplace to the BnB chain by the end of March.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Fantom Gas Monetization, Celsius Owns Account Assets, Own and Earn on Bluechip NFTs, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization"/>
-        <updated>2023-01-06T05:55:22.000Z</updated>
-        <summary type="html"><![CDATA[Fantom Voted For Gas Monetization Fantom governance passed the gas monetization proposal, in which Fantom will reduce the burn rate from 20% to 5%, and redirect the 15% to incentivize usage/transactions of Fantom dApps. Celsius Owns Account Assets The Judge of the Celsius bankruptcy case ruled that the funds deposited to Earn Accounts, which amount to $4.2 billion, are the property of Celsius, not the investors.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle Evolution]]></title>
-        <id>https://medium.com/p/ab7ce23da15b</id>
-        <link href="https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2"/>
-        <updated>2023-01-06T05:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…]]></summary>
-        <author>
-            <name>Andre Cronje</name>
         </author>
     </entry>
 </feed>

@@ -47,12 +47,12 @@
         {
           "id": "https://medium.com/p/1b92183c61a1",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/bouncy-castle-1b92183c61a1?source=rss-2f6e06954878------2",
           "publishedOn": "2023-01-19T11:02:28.000Z",
-          "wordCount": 7471,
+          "wordCount": null,
           "title": "Bouncy Castle",
-          "imageUrl": "https://miro.medium.com/max/400/0*28Rn3J3GNG7rgC0B"
+          "imageUrl": null
         }
       ]
     },
@@ -73,6 +73,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-88/",
+          "author": "The Defiant Team",
+          "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
+          "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-88/",
+          "publishedOn": "2023-02-04T17:04:44.000Z",
+          "wordCount": 406,
+          "title": "📬 Inbox Dump #88",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
+        },
         {
           "id": "https://thedefiant.io/optimism-surges-bedrock-upgrade/",
           "author": "yyctrader",
@@ -1062,16 +1072,6 @@
           "wordCount": 1058,
           "title": "Binance Admits Lapse In Maintaining Stablecoin Reserves",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/11144759/BUSDReservesInTrouble.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/wnklevoss-and-silbert-trade-blows-as-fraud-accusations-fly/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we are covering today!",
-          "link": "https://thedefiant.io/wnklevoss-and-silbert-trade-blows-as-fraud-accusations-fly/",
-          "publishedOn": "2023-01-11T13:59:29.000Z",
-          "wordCount": 1859,
-          "title": "Winklevoss and Silbert Trade Blows as Fraud Accusations Fly",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/10130943/37F30B6C-E542-4281-8305-0C0A43C66CBA.jpeg"
         }
       ]
     },
@@ -1439,7 +1439,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1513,
+          "wordCount": 1539,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         },
@@ -1449,19 +1449,9 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1337,
+          "wordCount": 1335,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
-        },
-        {
-          "id": "https://medium.com/p/ab7ce23da15b",
-          "author": "Andre Cronje",
-          "description": "Rich data sources are what evolved the internet. Static pages turned into dynamic data thanks to APIs (oracles). As APIs (oracles) evolved…",
-          "link": "https://andrecronje.medium.com/oracle-evolution-ab7ce23da15b?source=rss-34f4446c6ba1------2",
-          "publishedOn": "2023-01-06T05:15:24.000Z",
-          "wordCount": 2262,
-          "title": "Oracle Evolution",
-          "imageUrl": "https://miro.medium.com/max/1200/1*S2-lbDdOpXJ-EoskEwx_-Q.png"
         }
       ]
     },
@@ -1741,22 +1731,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/raocmkqifj8fb8pt3y4x"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Fantom Voted For Gas Monetization Fantom governance passed the gas monetization proposal, in which Fantom will reduce the burn rate from 20% to 5%, and redirect the 15% to incentivize usage/transactions of Fantom dApps. Celsius Owns Account Assets The Judge of the Celsius bankruptcy case ruled that the funds deposited to Earn Accounts, which amount to $4.2 billion, are the property of Celsius, not the investors.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-fantom-gas-monetization",
-          "publishedOn": "2023-01-06T05:55:22.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Fantom Gas Monetization, Celsius Owns Account Assets, Own and Earn on Bluechip NFTs, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlpnSX7XwA4tbPz.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFlpnSX7XwA4tbPz.png"
         }
       ]
     }
