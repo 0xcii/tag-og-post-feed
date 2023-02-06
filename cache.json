@@ -50,7 +50,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/bouncy-castle-1b92183c61a1?source=rss-2f6e06954878------2",
           "publishedOn": "2023-01-19T11:02:28.000Z",
-          "wordCount": 7474,
+          "wordCount": 7175,
           "title": "Bouncy Castle",
           "imageUrl": "https://miro.medium.com/max/400/0*28Rn3J3GNG7rgC0B"
         }
@@ -73,6 +73,26 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/makerdao-earnings/",
+          "author": "Samuel Haig",
+          "description": "DeFi Lender Takes 42% Hit to Top Line But Stays in the Black With RWA Strategy",
+          "link": "https://thedefiant.io/makerdao-earnings/",
+          "publishedOn": "2023-02-06T10:57:34.000Z",
+          "wordCount": 1696,
+          "title": "MakerDAO Defies Bear With $19M in Profit",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/04/24191602/MakerDAOStarkNet.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/defi-giants-join-forces-on-twitter-to-promote-decentralization/",
+          "author": "Samuel Haig",
+          "description": "Aave, MakerDAO and Yearn Seek to Show Contrast with Scandal-Plagued CeFi Firms",
+          "link": "https://thedefiant.io/defi-giants-join-forces-on-twitter-to-promote-decentralization/",
+          "publishedOn": "2023-02-06T10:33:35.000Z",
+          "wordCount": 1035,
+          "title": "DeFi Giants Join Forces on Twitter to Promote Decentralization",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2021/07/24175251/twitterrarible.png"
+        },
         {
           "id": "https://thedefiant.io/defi-alpha-connext-on-arbitrum/",
           "author": "yyctrader",
@@ -1052,26 +1072,6 @@
           "wordCount": 1122,
           "title": "Ripple Holders Receive Flare Airdrop Two Years After Snapshot",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/12012348/FlareAirdrop.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/avalanche-aws-partnership/",
-          "author": "Aleksandar Gilbert",
-          "description": "AWS to Distribute Credits to Avalanche Projects",
-          "link": "https://thedefiant.io/avalanche-aws-partnership/",
-          "publishedOn": "2023-01-12T04:52:59.000Z",
-          "wordCount": 887,
-          "title": "Avalanche and Amazon Ink Partnership to Boost Subnet Deployment",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/12004824/AVAXAWS.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/consensys-zkevm-testnet/",
-          "author": "Samuel Haig",
-          "description": "Early Testnet Users Could Qualify For a Potential Airdrop",
-          "link": "https://thedefiant.io/consensys-zkevm-testnet/",
-          "publishedOn": "2023-01-11T19:48:11.000Z",
-          "wordCount": 1391,
-          "title": "Consensys Opens zkEVM Testnet to Whitelisted Users",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/11154342/ConsenSysZkEVM.jpg"
         }
       ]
     },
@@ -1449,7 +1449,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1335,
+          "wordCount": 1356,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         }
@@ -1460,6 +1460,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-ethereum-zhejiang",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Jan. 30th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-ethereum-zhejiang",
+          "publishedOn": "2023-02-06T10:51:32.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Ethereum Zhejiang Live, Uniswap Governance Drama, Optimism Bedrock Coming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F728f18fc-28c1-432a-b913-d3e2719e91af_1321x710.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F728f18fc-28c1-432a-b913-d3e2719e91af_1321x710.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-connext-amarok-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
