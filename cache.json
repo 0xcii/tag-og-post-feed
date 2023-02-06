@@ -1081,6 +1081,38 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-punk6529",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (24 min) | Ryan and David debrief the recent Punk6529 episode.",
+          "link": "https://shows.banklesshq.com/p/debrief-punk6529",
+          "publishedOn": "2023-02-06T21:25:43.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - You're Not Bullish Enough on NFTs",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/101283937.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (91 min) | Why they're inevitable and will shape the arc of history",
+          "link": "https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough",
+          "publishedOn": "2023-02-06T21:25:32.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - You're Not Bullish Enough on NFTs with Punk6529",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/101067230.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/rollup-bitcoin-nfts-canto-fomc-interest",
           "author": "Ryan Sean Adams",
           "description": "Listen now (90 min) | 1st Week of February, 2023",
@@ -1367,38 +1399,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/pleasrdaos-nft-auction-house-with",
-          "author": "David Hoffman",
-          "description": "Listen now (30 min) | An afternoon with the Chief Pleasr",
-          "link": "https://shows.banklesshq.com/p/pleasrdaos-nft-auction-house-with",
-          "publishedOn": "2023-01-12T05:32:25.000Z",
-          "wordCount": null,
-          "title": "PleasrDAO's NFT Auction House with Jamis Johnson",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/96193583.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (76 min) | Our hottest predictions + ultra alpha leak",
-          "link": "https://shows.banklesshq.com/p/10-predictions-for-2023-with-ryan",
-          "publishedOn": "2023-01-11T00:12:07.000Z",
-          "wordCount": null,
-          "title": "10 Predictions for 2023 with Ryan & David",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/95943977.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1429,7 +1429,7 @@
           "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
           "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T04:55:32.000Z",
-          "wordCount": 3632,
+          "wordCount": 3605,
           "title": "Frustrations of a Dapp developer",
           "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
         },
