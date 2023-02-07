@@ -1091,6 +1091,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric",
+          "author": "David Hoffman",
+          "description": "Listen now (68 min) | What it means for Bitcoin's future",
+          "link": "https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric",
+          "publishedOn": "2023-02-07T19:00:42.000Z",
+          "wordCount": null,
+          "title": "NFTs Attacking Bitcoin? with Eric Wall & Casey Rodarmor",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/101294297.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-punk6529",
           "author": "Ryan Sean Adams",
           "description": "Listen now (24 min) | Ryan and David debrief the recent Punk6529 episode.",
@@ -1393,22 +1409,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (55 min) | A polymath's perspective",
-          "link": "https://shows.banklesshq.com/p/early-access-why-crypto-is-underrated",
-          "publishedOn": "2023-01-12T06:07:47.000Z",
-          "wordCount": null,
-          "title": "153 - Why Crypto is Underrated with Tyler Cowen",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/96196441.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1439,7 +1439,7 @@
           "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
           "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T04:55:32.000Z",
-          "wordCount": 3292,
+          "wordCount": 3605,
           "title": "Frustrations of a Dapp developer",
           "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
         },
@@ -1459,7 +1459,7 @@
           "description": "Fastest confirmation times (sub 900ms finality)",
           "link": "https://andrecronje.medium.com/why-build-on-fantom-7a5292cb5b32?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-13T02:27:00.000Z",
-          "wordCount": 1062,
+          "wordCount": 1335,
           "title": "Why build on Fantom?",
           "imageUrl": "https://miro.medium.com/max/1200/1*O5A7vhqUPhHMmvAj4BA_1g.png"
         }
