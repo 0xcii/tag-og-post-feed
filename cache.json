@@ -84,6 +84,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/market-maker-hacks-cow-swap/",
+          "author": "Samuel Haig",
+          "description": "DEX Says a ‘Solver’ Perpetrated the Heist and Customer Funds Are Safe",
+          "link": "https://thedefiant.io/market-maker-hacks-cow-swap/",
+          "publishedOn": "2023-02-07T11:29:38.000Z",
+          "wordCount": 1493,
+          "title": "Market Maker Hacks CoW Swap",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/19024334/MoreHacksAndScams.jpg"
+        },
+        {
           "id": "https://thedefiant.io/lido-aave-staking-rewards/",
           "author": "Tarang Khaitan",
           "description": "Lido Has Skyrocketed 58% in Last 30 Days as LSD Story Picks up Mojo",
@@ -1072,16 +1082,6 @@
           "wordCount": 386,
           "title": "DeFi Alpha Call #33",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/gitcoin-alpha-round/",
-          "author": "Samuel Haig",
-          "description": "Round Will Run From Jan. 17 Through Jan. 31",
-          "link": "https://thedefiant.io/gitcoin-alpha-round/",
-          "publishedOn": "2023-01-12T05:54:56.000Z",
-          "wordCount": 1031,
-          "title": "Gitcoin To Test Decentralized Funding Protocol",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/12015201/GTCAlphaRound.jpg"
         }
       ]
     },
@@ -1141,7 +1141,7 @@
         {
           "id": "https://shows.banklesshq.com/p/the-power-to-mint-money",
           "author": "Ryan Sean Adams",
-          "description": "Écoutez maintenant (69 min) | The history of crypto bull markets and why it matters",
+          "description": "Listen now (69 min) | The history of crypto bull markets and why it matters",
           "link": "https://shows.banklesshq.com/p/the-power-to-mint-money",
           "publishedOn": "2023-02-01T11:31:05.000Z",
           "wordCount": null,
@@ -1205,7 +1205,7 @@
         {
           "id": "https://shows.banklesshq.com/p/early-access-investing-in-waves-with",
           "author": "Ryan Sean Adams",
-          "description": "Listen now (96 min) | Why crypto is like surfing and how you catch a good wave",
+          "description": "Jetzt anhören (96 min) | Why crypto is like surfing and how you catch a good wave",
           "link": "https://shows.banklesshq.com/p/early-access-investing-in-waves-with",
           "publishedOn": "2023-01-28T07:48:09.000Z",
           "wordCount": null,
@@ -1470,6 +1470,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-trader-joe-integrates",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Trader Joe Integrates LayerZero Trader Joe has integrated with LayerZero, and JOE is now an ‘omnichain fungible token’ (OFT), meaning users can bridge JOE across Avalanche, Arbitrum, BnB, and more chains to be supported. Stargate to Re-Issue STG Stargate",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-trader-joe-integrates",
+          "publishedOn": "2023-02-07T11:13:57.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Trader Joe Integrates LayerZero, Stargate to Re-Issue STG, LP to Earn Funding Rates, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFoRSRhTWIAE7-X1.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFoRSRhTWIAE7-X1.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-ethereum-zhejiang",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
