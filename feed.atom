@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T12:27:21.986Z</id>
+    <id>urn:2023-02-08T13:21:51.184Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T12:27:21.986Z</updated>
+    <updated>2023-02-08T13:21:51.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Lido V2 Coming, Zhejiang Shapella Live, Social Trading, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang"/>
+        <updated>2023-02-08T13:06:27.000Z</updated>
+        <summary type="html"><![CDATA[Lido V2 Coming Lido introduces V2 which will bring two major upgrades: Staking Router: A new modular architecture that allows anyone (incl. solo stakers) to become a Node Operator. Withdrawals: An upgrade allowing stETH holders to withdraw directly from the Beacon Chain.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devs Test ETH Withdrawals Ahead of Shanghai Upgrade]]></title>
+        <id>https://thedefiant.io/staked-eth-withdrawals-testnet/</id>
+        <link href="https://thedefiant.io/staked-eth-withdrawals-testnet/"/>
+        <updated>2023-02-08T13:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Staked ETH Withdrawals Activated on Zhejiang Testnet]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The State of PoS: Delving Into the Risk and Promise of a Staked Future]]></title>
         <id>https://thedefiant.io/state-of-proof-of-stake-report/</id>
@@ -1393,16 +1413,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we’re covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket Pool Bets Coinbase Deal Will Help it Catch Lido]]></title>
-        <id>https://thedefiant.io/coinbase-rocket-pool-lido/</id>
-        <link href="https://thedefiant.io/coinbase-rocket-pool-lido/"/>
-        <updated>2023-01-13T11:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Liquidity Staking Race Ratchets Up as Rocket Pool Members Size Up Latest Move]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>

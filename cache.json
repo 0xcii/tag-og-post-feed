@@ -84,6 +84,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/staked-eth-withdrawals-testnet/",
+          "author": "Samuel Haig",
+          "description": "Staked ETH Withdrawals Activated on Zhejiang Testnet",
+          "link": "https://thedefiant.io/staked-eth-withdrawals-testnet/",
+          "publishedOn": "2023-02-08T13:02:04.000Z",
+          "wordCount": 1126,
+          "title": "Devs Test ETH Withdrawals Ahead of Shanghai Upgrade",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/09150217/ETHShanghaiUpgrade.jpg"
+        },
+        {
           "id": "https://thedefiant.io/state-of-proof-of-stake-report/",
           "author": "Alberto Guerrero Montilla and Pablo Larguia",
           "description": "A Deep Dive Into Consensus on Ethereum, Polkadot, Solana and Avalanche",
@@ -1072,16 +1082,6 @@
           "wordCount": 1442,
           "title": "Rocket Pool Chases Lido With New Deal",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/13065402/RocketpoolUpAfterCoinbaseJoinsDAO.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/coinbase-rocket-pool-lido/",
-          "author": "Aleksandar Gilbert",
-          "description": "Liquidity Staking Race Ratchets Up as Rocket Pool Members Size Up Latest Move",
-          "link": "https://thedefiant.io/coinbase-rocket-pool-lido/",
-          "publishedOn": "2023-01-13T11:00:27.000Z",
-          "wordCount": 1590,
-          "title": "Rocket Pool Bets Coinbase Deal Will Help it Catch Lido",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/13065402/RocketpoolUpAfterCoinbaseJoinsDAO.jpg"
         }
       ]
     },
@@ -1470,6 +1470,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Lido V2 Coming Lido introduces V2 which will bring two major upgrades: Staking Router: A new modular architecture that allows anyone (incl. solo stakers) to become a Node Operator. Withdrawals: An upgrade allowing stETH holders to withdraw directly from the Beacon Chain.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang",
+          "publishedOn": "2023-02-08T13:06:27.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Lido V2 Coming, Zhejiang Shapella Live, Social Trading, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/qqgmg1nzeawogovzaaeh",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/qqgmg1nzeawogovzaaeh"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-trader-joe-integrates",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
