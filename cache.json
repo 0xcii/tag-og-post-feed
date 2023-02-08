@@ -84,6 +84,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/the-graphs-token-doubles-in-24-hours/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/the-graphs-token-doubles-in-24-hours/",
+          "publishedOn": "2023-02-08T13:27:59.000Z",
+          "wordCount": 1628,
+          "title": "The Graph’s Token Doubles in 24 Hours",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/08043918/MKTSGraphAITokens.jpg"
+        },
+        {
           "id": "https://thedefiant.io/staked-eth-withdrawals-testnet/",
           "author": "Samuel Haig",
           "description": "Staked ETH Withdrawals Activated on Zhejiang Testnet",
@@ -1072,16 +1082,6 @@
           "wordCount": 400,
           "title": "📬 Inbox Dump #85",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
-        },
-        {
-          "id": "https://thedefiant.io/daily-defiant-rocket-pool/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we’re covering today!",
-          "link": "https://thedefiant.io/daily-defiant-rocket-pool/",
-          "publishedOn": "2023-01-13T11:57:20.000Z",
-          "wordCount": 1442,
-          "title": "Rocket Pool Chases Lido With New Deal",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/13065402/RocketpoolUpAfterCoinbaseJoinsDAO.jpg"
         }
       ]
     },
