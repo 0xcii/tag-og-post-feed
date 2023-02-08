@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T07:13:10.957Z</id>
+    <id>urn:2023-02-08T08:18:39.288Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T07:13:10.957Z</updated>
+    <updated>2023-02-08T08:18:39.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -83,6 +83,16 @@
         <summary type="html"><![CDATA[Lido Has Skyrocketed 58% in Last 30 Days as LSD Story Picks up Mojo]]></summary>
         <author>
             <name>Tarang Khaitan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Guide to Optimism in 2023]]></title>
+        <id>https://thedefiant.io/your-guide-to-optimism-in-2023/</id>
+        <link href="https://thedefiant.io/your-guide-to-optimism-in-2023/"/>
+        <updated>2023-02-07T07:42:49.000Z</updated>
+        <summary type="html"><![CDATA[Optimism 2023]]></summary>
+        <author>
+            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
@@ -281,6 +291,16 @@ hottest NFTs.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Your Guide to Arbitrum in 2023]]></title>
+        <id>https://thedefiant.io/your-guide-to-arbitrum-in-2023/</id>
+        <link href="https://thedefiant.io/your-guide-to-arbitrum-in-2023/"/>
+        <updated>2023-02-02T07:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum 2023]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OlympusDAO Votes To Deposit $77M In MakerDAO]]></title>
         <id>https://thedefiant.io/olympus-to-deposit-77m-in-maker/</id>
         <link href="https://thedefiant.io/olympus-to-deposit-77m-in-maker/"/>
@@ -328,6 +348,16 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Lyra Newport Live on Arbitrum Optimism-based options protocol Lyra launches Newport on Arbitrum. This upgrade enables cash collateral, tighter spreads, and a modular design. Check our premium guide below on how to earn rewards with Lyra. Mars Hub Deployed on Osmosis]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Zero Knowledge and Optimistic Rollups Are Competing To Scale Ethereum]]></title>
+        <id>https://thedefiant.io/how-zero-knowledge-and-optimistic-rollups-are-competing-to-scale-ethereum/</id>
+        <link href="https://thedefiant.io/how-zero-knowledge-and-optimistic-rollups-are-competing-to-scale-ethereum/"/>
+        <updated>2023-02-01T07:38:45.000Z</updated>
+        <summary type="html"><![CDATA[ZKR vs OR]]></summary>
+        <author>
+            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
@@ -1397,26 +1427,6 @@ Blockchain at Microsoft.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bulgarian Police Raid Nexo Office]]></title>
-        <id>https://thedefiant.io/bulgarian-police-raid-nexo/</id>
-        <link href="https://thedefiant.io/bulgarian-police-raid-nexo/"/>
-        <updated>2023-01-12T18:24:41.000Z</updated>
-        <summary type="html"><![CDATA[Prosecutors Allege Company Had a Hand in Terrorist Financing]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avalanche and Amazon Ink Deal]]></title>
-        <id>https://thedefiant.io/defi-daily-the-defiant-amazon-avalanche/</id>
-        <link href="https://thedefiant.io/defi-daily-the-defiant-amazon-avalanche/"/>
-        <updated>2023-01-12T13:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we’re covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Myso v1 Live, Flare L1 Live, L2 airdrops, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-myso-v1-live-flare</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-myso-v1-live-flare"/>
@@ -1424,20 +1434,6 @@ Blockchain at Microsoft.]]></summary>
         <summary type="html"><![CDATA[Myso v1 Live Zero-liquidation lending protocol Myso launches V1 on Ethereum, with the initial rETH/wETH pool live for lenders and borrowers. Myso also launched gated LP program and a referral program for users. Flare L1 Live L1 oracle network Flare launches its mainnet and the first token distribution. Flare has two core protocols]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can FTX Customers Expect Any Money Back?]]></title>
-        <id>https://thedefiant.io/can-ftx-customers-expect-any-money-back/</id>
-        <link href="https://thedefiant.io/can-ftx-customers-expect-any-money-back/"/>
-        <updated>2023-01-12T10:13:51.000Z</updated>
-        <summary type="html"><![CDATA[Today we’re bringing you the most recent developments in FTX’s astonishing
-demise, which the Financial times has called ‘’one of the biggest financial
-frauds in US history’’. Many customers are still wondering how much, if any, of
-their money will be returned. Let’s quickly get up to date, find out what
-transpired in yesterday’s hearing, […]]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
