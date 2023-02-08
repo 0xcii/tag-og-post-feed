@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T08:18:39.288Z</id>
+    <id>urn:2023-02-08T09:15:02.766Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T08:18:39.288Z</updated>
+    <updated>2023-02-08T09:15:02.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Graph’s Token Doubles in 24 Hours]]></title>
+        <id>https://thedefiant.io/the-graph-token-doubles/</id>
+        <link href="https://thedefiant.io/the-graph-token-doubles/"/>
+        <updated>2023-02-08T08:42:38.000Z</updated>
+        <summary type="html"><![CDATA[GRT’s Performance Evokes Heady Days of Bull Market Amid AI-Token Rally]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFTs Attacking Bitcoin? with Eric Wall & Casey Rodarmor]]></title>
         <id>https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric</id>
@@ -1014,7 +1024,7 @@ Reserve]]></summary>
         <id>https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini</id>
         <link href="https://shows.banklesshq.com/p/rollup-genesis-bankrupt-sec-vs-gemini"/>
         <updated>2023-01-20T09:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Écoutez maintenant (80 min) | 3rd Week of January, 2023]]></summary>
+        <summary type="html"><![CDATA[Listen now (80 min) | 3rd Week of January, 2023]]></summary>
         <author>
             <name>David Hoffman</name>
         </author>
@@ -1157,7 +1167,7 @@ hottest NFTs.]]></summary>
         <id>https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum</id>
         <link href="https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum"/>
         <updated>2023-01-19T05:49:21.000Z</updated>
-        <summary type="html"><![CDATA[Écoutez maintenant (33 min) | Debriefing the Wayne Chang, Sign-in with Ethereum episode]]></summary>
+        <summary type="html"><![CDATA[Listen now (33 min) | Debriefing the Wayne Chang, Sign-in with Ethereum episode]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
@@ -1413,17 +1423,6 @@ Winklevoss and Silbert]]></summary>
         <summary type="html"><![CDATA[GBTC Discount Shrinks To 39%]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yorke Rhodes Explains How Microsoft Is Leveraging Ethereum]]></title>
-        <id>https://thedefiant.io/yorke-rhodes-explains-how-microsoft-is-leveraging-ethereum/</id>
-        <link href="https://thedefiant.io/yorke-rhodes-explains-how-microsoft-is-leveraging-ethereum/"/>
-        <updated>2023-01-12T20:35:19.000Z</updated>
-        <summary type="html"><![CDATA[This week on The Defiant Podcast, we speak with Yorke Rhodes, the co-founder of
-Blockchain at Microsoft.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
