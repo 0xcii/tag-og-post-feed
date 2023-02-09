@@ -84,6 +84,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/3ac-founders-new-exchange-branded-insult-to-burned-investors/",
+          "author": "Owen Fernau",
+          "description": "Zhu and Davies Launch Exchange for Bankuptcy Claims Amid Furor",
+          "link": "https://thedefiant.io/3ac-founders-new-exchange-branded-insult-to-burned-investors/",
+          "publishedOn": "2023-02-09T21:24:13.000Z",
+          "wordCount": 1449,
+          "title": "3AC Founders’ New Exchange Branded ‘Insult’ to Burned Investors",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/09171441/OPNX.jpg"
+        },
+        {
           "id": "https://thedefiant.io/daily-defiant-lido-v2/",
           "author": "The Defiant Team",
           "description": "Hello Defiers! Here’s what we are covering today!",
@@ -99,7 +109,7 @@
           "description": "DAO Defers to Charity Amid Race to Get Food, Water, and Shelter to Victims",
           "link": "https://thedefiant.io/dao-earthquake-victims-aid/",
           "publishedOn": "2023-02-09T09:48:24.000Z",
-          "wordCount": 1536,
+          "wordCount": 1534,
           "title": "DeFi Community Strives to Raise Aid for Quake Victims",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/09163643/TurkeyDAO.jpg"
         },
@@ -129,7 +139,7 @@
           "description": "Staking Giant Hopes to Broaden Range of Node Operators",
           "link": "https://thedefiant.io/lido-v2-decentarlization-critics/",
           "publishedOn": "2023-02-08T18:53:20.000Z",
-          "wordCount": 2500,
+          "wordCount": 2494,
           "title": "Lido Bets V2 Will Prove its DeFi Cred",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/08144749/LIDOvRocketP.jpg"
         },
@@ -359,7 +369,7 @@
           "description": "A Primer on a DeFi Take on Fixed Interest Rates",
           "link": "https://thedefiant.io/what-is-notional-finance/",
           "publishedOn": "2023-02-03T05:25:20.000Z",
-          "wordCount": 2695,
+          "wordCount": 2699,
           "title": "What is Notional Finance?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/26063945/WhatIsNotional.jpg"
         },
@@ -399,7 +409,7 @@
           "description": "A Primer on the DeFi Lending Protocol",
           "link": "https://thedefiant.io/what-is-alchemix/",
           "publishedOn": "2023-02-01T20:41:08.000Z",
-          "wordCount": 2845,
+          "wordCount": 2849,
           "title": "What is Alchemix?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/26065157/WhatIsAlchemix.jpg"
         },
@@ -439,7 +449,7 @@
           "description": "Zhejiang Testnet Will Go Live On Feb. 1",
           "link": "https://thedefiant.io/ethereum-zhejiang-testnet-launch/",
           "publishedOn": "2023-02-01T05:08:35.000Z",
-          "wordCount": 1185,
+          "wordCount": 1189,
           "title": "Ethereum Developers To Launch Testnet Supporting Staked ETH Withdrawals",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/01010657/zheijiangtestnet.jpg"
         },
@@ -459,7 +469,7 @@
           "description": "A Primer on the DeFi Data Markets Protocol",
           "link": "https://thedefiant.io/what-is-erasure/",
           "publishedOn": "2023-01-31T15:58:55.000Z",
-          "wordCount": 2891,
+          "wordCount": 2895,
           "title": "What is Erasure?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/25141923/WhatIsErasure.jpg"
         },
@@ -599,7 +609,7 @@
           "description": "Hello Defiers! Here’s what we’re covering today!",
           "link": "https://thedefiant.io/daily-defiant-dydx-rallies/",
           "publishedOn": "2023-01-26T13:23:10.000Z",
-          "wordCount": 1329,
+          "wordCount": 1327,
           "title": "DYDX Rallies 18% After Token Release Delayed",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/26054115/DYDXInvestorLockupExtension.jpg"
         },
@@ -619,7 +629,7 @@
           "description": "dYdX’s Decision to Postpone Unlock of Tokens to December Triggers Surge",
           "link": "https://thedefiant.io/dydx-rallies-18/",
           "publishedOn": "2023-01-26T09:44:22.000Z",
-          "wordCount": 1169,
+          "wordCount": 1173,
           "title": "DYDX Rallies 18% After Derivatives Exchange Delays Token Release",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/26054115/DYDXInvestorLockupExtension.jpg"
         },
@@ -749,7 +759,7 @@
           "description": "Devs Deploy Shadow Fork to Support Staked ETH Withdrawals",
           "link": "https://thedefiant.io/ethereum-shadow-forks-shanghai/",
           "publishedOn": "2023-01-24T09:50:03.000Z",
-          "wordCount": 1817,
+          "wordCount": 1813,
           "title": "Ethereum Takes Big Step Closer to Shanghai Upgrade",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/24054356/ETHShadowFork.jpg"
         },
@@ -1019,7 +1029,7 @@
           "description": "Hello Defiers! Here’s what we’re covering today!",
           "link": "https://thedefiant.io/daily-defiant-perpetuals-soaring/",
           "publishedOn": "2023-01-18T13:32:22.000Z",
-          "wordCount": 864,
+          "wordCount": 858,
           "title": "Perpetuals Action Soars as Volatility Stokes Trading",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/18055235/SynthetixRally.jpg"
         },
@@ -1072,16 +1082,6 @@
           "wordCount": 1062,
           "title": "Yuga Labs Launches Dookey Dash Skill-Based NFT Game",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/17154409/YUGAGamifiesNFTMint.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/aave-crv-lead-defi-rally/",
-          "author": "Aleksandar Gilbert",
-          "description": "LDO Tanks After Jump Crypto Sells Tokens",
-          "link": "https://thedefiant.io/aave-crv-lead-defi-rally/",
-          "publishedOn": "2023-01-17T18:50:16.000Z",
-          "wordCount": 1233,
-          "title": "DeFi Heavyweights Curve and Aave Surge As Crypto Rally Stalls",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/17144834/MarketsJan17th.jpg"
         }
       ]
     },
@@ -1741,22 +1741,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90c3abf7-14aa-4117-b71e-e0a24eeb1403_1200x620.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Yearn Premissionless Vault Factory Yearn launches Permissionless Vault Factory, allowing anyone to deploy an auto-compounding yVault for any Curve pool with an active liquidity gauge. Yearn charges a 10% fee on Factory-deployed vaults. Woo Tokenomics Revamp",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless",
-          "publishedOn": "2023-01-11T09:17:12.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Yearn Permissionless Vault Factory, Woo Tokenomics Revamp, ETH Staking Derivative Options, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/dc5e33swykqgybt7vc0l",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/dc5e33swykqgybt7vc0l"
         }
       ]
     }

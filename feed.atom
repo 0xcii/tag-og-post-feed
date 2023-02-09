@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T21:13:27.169Z</id>
+    <id>urn:2023-02-09T22:14:18.662Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-09T21:13:27.169Z</updated>
+    <updated>2023-02-09T22:14:18.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3AC Founders’ New Exchange Branded ‘Insult’ to Burned Investors]]></title>
+        <id>https://thedefiant.io/3ac-founders-new-exchange-branded-insult-to-burned-investors/</id>
+        <link href="https://thedefiant.io/3ac-founders-new-exchange-branded-insult-to-burned-investors/"/>
+        <updated>2023-02-09T21:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Zhu and Davies Launch Exchange for Bankuptcy Claims Amid Furor]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Acala EVM Live, Chiliz L1 Live, NFT Market Cap Token, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz</id>
@@ -1404,16 +1414,6 @@ hottest NFTs.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeFi Heavyweights Curve and Aave Surge As Crypto Rally Stalls]]></title>
-        <id>https://thedefiant.io/aave-crv-lead-defi-rally/</id>
-        <link href="https://thedefiant.io/aave-crv-lead-defi-rally/"/>
-        <updated>2023-01-17T18:50:16.000Z</updated>
-        <summary type="html"><![CDATA[LDO Tanks After Jump Crypto Sells Tokens]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Visa Lists Alchemy Pay, Aave V3 Ethereum Coming, Wallet Delegation, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-visa-lists-alchemy</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-visa-lists-alchemy"/>
@@ -1471,16 +1471,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Written by our new analyst Alex Sampson A recap of scaling technology Rather than solely scaling Ethereum through native Layer 1 (L1) architecture changes, the Ethereum community has pushed for a rollup-centric roadmap. Layer 2s (L2s) are third-party solutions that exist in conjunction with the main blockchain. As we’ll touch on later, this second layer is critical to the network’s development - you can only “boost” scalability once. From state channels, sidechains, and plasma, the industry and market has largely converged on Optimistic Rollups (ORs) and Zero Knowledge Rollups (ZKRs) as the preferred method. Rollups execute transactions outside of the L1 blockchain and send the data back to the main Ethereum network. As such, rollups’ primary function is to address two bottlenecks for Ethereum - data and computation (e.g. fraud proofs or SNARKs).]]></summary>
         <author>
             <name>PHD Capital</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Yearn Permissionless Vault Factory, Woo Tokenomics Revamp, ETH Staking Derivative Options, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-permissionless"/>
-        <updated>2023-01-11T09:17:12.000Z</updated>
-        <summary type="html"><![CDATA[Yearn Premissionless Vault Factory Yearn launches Permissionless Vault Factory, allowing anyone to deploy an auto-compounding yVault for any Curve pool with an active liquidity gauge. Yearn charges a 10% fee on Factory-deployed vaults. Woo Tokenomics Revamp]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
