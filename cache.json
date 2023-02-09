@@ -1091,6 +1091,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/whats-going-on-with-canto",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (62 min) | Up 500% in 30 Days... in a bear market! What's the deal here?",
+          "link": "https://shows.banklesshq.com/p/whats-going-on-with-canto",
+          "publishedOn": "2023-02-09T10:40:03.000Z",
+          "wordCount": null,
+          "title": "What's going on with Canto?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/101828279.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric",
           "author": "David Hoffman",
           "description": "Listen now (68 min) | What it means for Bitcoin's future",
@@ -1389,22 +1405,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/96424802.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/tyler-cowen-debrief",
-          "author": "David Hoffman",
-          "description": "Listen now (32 min) | Debriefing the Why Crypto is Underrated with Tyler Cowen episode",
-          "link": "https://shows.banklesshq.com/p/tyler-cowen-debrief",
-          "publishedOn": "2023-01-12T06:07:56.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - Tyler Cowen",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/96196440.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

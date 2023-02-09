@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T10:14:29.765Z</id>
+    <id>urn:2023-02-09T11:12:29.561Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-09T10:14:29.765Z</updated>
+    <updated>2023-02-09T11:12:29.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What's going on with Canto?]]></title>
+        <id>https://shows.banklesshq.com/p/whats-going-on-with-canto</id>
+        <link href="https://shows.banklesshq.com/p/whats-going-on-with-canto"/>
+        <updated>2023-02-09T10:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (62 min) | Up 500% in 30 Days... in a bear market! What's the deal here?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Community Strives to Raise Aid for Quake Victims]]></title>
         <id>https://thedefiant.io/dao-earthquake-victims-aid/</id>
@@ -1442,16 +1452,6 @@ collective action.]]></summary>
         <summary type="html"><![CDATA[Myso v1 Live Zero-liquidation lending protocol Myso launches V1 on Ethereum, with the initial rETH/wETH pool live for lenders and borrowers. Myso also launched gated LP program and a referral program for users. Flare L1 Live L1 oracle network Flare launches its mainnet and the first token distribution. Flare has two core protocols]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - Tyler Cowen]]></title>
-        <id>https://shows.banklesshq.com/p/tyler-cowen-debrief</id>
-        <link href="https://shows.banklesshq.com/p/tyler-cowen-debrief"/>
-        <updated>2023-01-12T06:07:56.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (32 min) | Debriefing the Why Crypto is Underrated with Tyler Cowen episode]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
     <entry>
