@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/nft-recovery/",
+          "author": "Samuel Haig",
+          "description": "Yuga Labs’ BAYC and CryptoPunks Account for 50% of Market Value",
+          "link": "https://thedefiant.io/nft-recovery/",
+          "publishedOn": "2023-02-10T11:13:52.000Z",
+          "wordCount": 925,
+          "title": "NFT Market Shows Signs Recovery After Rough Year: Report",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/aave-taps-proof-of-reserves-system-for-avalanche-market/",
           "author": "Tarang Khaitan",
           "description": "DeFi Lender Seeks to Protect Wrapped Tokens Vulnerable to Bridge Exploits",
@@ -93,7 +103,7 @@
           "description": "Lido and Rocket Pool Tokens Record Double-Digit Surge After CEX Shuts\nStaking-as-a-Service",
           "link": "https://thedefiant.io/defi-staking-players-rally/",
           "publishedOn": "2023-02-10T08:42:18.000Z",
-          "wordCount": 1861,
+          "wordCount": 1867,
           "title": "DeFi Staking Players Soar After Kraken Slapped by SEC",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/10043959/LSDMomentumSECKraken.jpg"
         },
@@ -1056,16 +1066,6 @@
           "wordCount": 1824,
           "title": "Gamemaker Shakes Up NFT Royalties With New Smart Contracts",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/18071837/ERC721LimitBreakStakingInnov2.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/perpetuals-action-soars-as-volatility-stokes-trading/",
-          "author": "Owen Fernau",
-          "description": "Synthetix Records ATH in Users After Release of V2",
-          "link": "https://thedefiant.io/perpetuals-action-soars-as-volatility-stokes-trading/",
-          "publishedOn": "2023-01-18T10:29:50.000Z",
-          "wordCount": 1582,
-          "title": "Perpetuals Action Soars as Volatility Stokes Trading",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/18055235/SynthetixRally.jpg"
         }
       ]
     },
