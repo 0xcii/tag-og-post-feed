@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/makerdao-to-challenge-aave-in-dai-market/",
+          "author": "Samuel Haig",
+          "description": "DeFi Lender Plans Venture to Build DAI-based Products and Dashboard",
+          "link": "https://thedefiant.io/makerdao-to-challenge-aave-in-dai-market/",
+          "publishedOn": "2023-02-10T09:40:05.000Z",
+          "wordCount": 1511,
+          "title": "MakerDAO to Challenge Aave in DAI Market",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/30055001/MakersPaths.jpg"
+        },
+        {
           "id": "https://thedefiant.io/defi-staking-players-rally/",
           "author": "Aleksandar Gilbert",
           "description": "Lido and Rocket Pool Tokens Record Double-Digit Surge After CEX Shuts\nStaking-as-a-Service",
@@ -993,7 +1003,7 @@
           "description": "God Mode",
           "link": "https://thedefiant.io/ftxs-billions-detailed-in-court-exhibit/",
           "publishedOn": "2023-01-19T07:13:43.000Z",
-          "wordCount": 525,
+          "wordCount": 519,
           "title": "FTX’s Billions Detailed in Court Exhibit",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/23031541/God-Mode.jpeg"
         },
@@ -1056,16 +1066,6 @@
           "wordCount": 880,
           "title": "DeFi Heavyweights Surge as Broader Rally Stalls",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/17144834/MarketsJan17th.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/defi-tradfi-the-beginning-of-a-beautiful-friendship/",
-          "author": "Edward Robinson",
-          "description": "Crypto Players Gather in the Shadow of the Alps and FTX",
-          "link": "https://thedefiant.io/defi-tradfi-the-beginning-of-a-beautiful-friendship/",
-          "publishedOn": "2023-01-17T20:17:01.000Z",
-          "wordCount": 3118,
-          "title": "DeFi + TradFi: The Beginning of a Beautiful Friendship",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/17155405/StMoritzFt.jpg"
         }
       ]
     },
@@ -1454,6 +1454,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-aave-gho-on-testnet",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aave GHO on Testnet Aave launched its stablecoin GHO on the Ethereum testnet Goerli. The GHO code has been audited and is available on Github. Silo Live on Arbitrum Lending protocol Silo launched on Arbitrum, initially supporting risk-isolated markets for DPX, UMAMI, and MAGIC.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-aave-gho-on-testnet",
+          "publishedOn": "2023-02-10T09:46:48.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Aave GHO on Testnet, Silo on Arbtirum, Meta DEX Aggregator, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/video/upload/e_loop,vs_40/hiv08e0cq17zn9otd2ln.gif",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/video/upload/e_loop,vs_40/hiv08e0cq17zn9otd2ln.gif"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
