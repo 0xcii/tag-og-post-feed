@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/uniswap-a16z-bnb-bridging/",
+          "author": "Aleksandar Gilbert",
+          "description": "Venture Capital Firm Disagrees With Community Plan For Bridging",
+          "link": "https://thedefiant.io/uniswap-a16z-bnb-bridging/",
+          "publishedOn": "2023-02-10T21:57:43.000Z",
+          "wordCount": null,
+          "title": "Threat of Uniswap Replication Triggers Rare Clash With A16Z",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/daily-defiant-lido-staking-rally/",
           "author": "The Defiant Team",
           "description": "Hello Defiers! Here’s what we are covering today!",
@@ -1056,16 +1066,6 @@
           "wordCount": 1138,
           "title": "Genesis Files For Bankruptcy",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/19012041/GenesisBankruptcy.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/daily-defiant-perpetuals-soaring/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we’re covering today!",
-          "link": "https://thedefiant.io/daily-defiant-perpetuals-soaring/",
-          "publishedOn": "2023-01-18T13:32:22.000Z",
-          "wordCount": 862,
-          "title": "Perpetuals Action Soars as Volatility Stokes Trading",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/18055235/SynthetixRally.jpg"
         }
       ]
     },
