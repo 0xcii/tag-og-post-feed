@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/aave-taps-proof-of-reserves-system-for-avalanche-market/",
+          "author": "Tarang Khaitan",
+          "description": "DeFi Lender Seeks to Protect Wrapped Tokens Vulnerable to Bridge Exploits",
+          "link": "https://thedefiant.io/aave-taps-proof-of-reserves-system-for-avalanche-market/",
+          "publishedOn": "2023-02-10T10:10:02.000Z",
+          "wordCount": 1031,
+          "title": "Aave Taps Proof of Reserves System for Avalanche Market",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/10055944/AaveChainlinkAvax.jpg"
+        },
+        {
           "id": "https://thedefiant.io/makerdao-to-challenge-aave-in-dai-market/",
           "author": "Samuel Haig",
           "description": "DeFi Lender Plans Venture to Build DAI-based Products and Dashboard",
@@ -1056,16 +1066,6 @@
           "wordCount": 1582,
           "title": "Perpetuals Action Soars as Volatility Stokes Trading",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/18055235/SynthetixRally.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/daily-defiant-2/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we’re covering today!",
-          "link": "https://thedefiant.io/daily-defiant-2/",
-          "publishedOn": "2023-01-17T20:43:24.000Z",
-          "wordCount": 880,
-          "title": "DeFi Heavyweights Surge as Broader Rally Stalls",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/17144834/MarketsJan17th.jpg"
         }
       ]
     },
