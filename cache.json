@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/defi-alpha-radiant-capital-stablecoins/",
+          "author": "yyctrader",
+          "description": "Earn Up To 19% APR With Sommelier Finance’s ‘Real Yield’ Cellar",
+          "link": "https://thedefiant.io/defi-alpha-radiant-capital-stablecoins/",
+          "publishedOn": "2023-02-13T06:12:31.000Z",
+          "wordCount": 396,
+          "title": "DeFi Alpha: Lending and Borrowing Stablecoins with Radiant Capital on Arbitrum",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
+        },
+        {
           "id": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-89/",
           "author": "The Defiant Team",
           "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
@@ -1056,16 +1066,6 @@
           "wordCount": 1673,
           "title": "LSDs Gather Mojo as Euler Lists Staked ETH as Collateral",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/19050134/cbETHCollateral.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/cross-chain-messaging-can-blow-open-interoperability/",
-          "author": "Derek Yoo",
-          "description": "It’s Time to Move Away From Vulnerable Bridges",
-          "link": "https://thedefiant.io/cross-chain-messaging-can-blow-open-interoperability/",
-          "publishedOn": "2023-01-19T08:43:00.000Z",
-          "wordCount": 1984,
-          "title": "Cross-Chain Messaging Can Blow Open Interoperability",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/19044240/InterOpEd.jpg"
         }
       ]
     },
