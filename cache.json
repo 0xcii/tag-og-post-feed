@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/ny-orders-paxos-to-cease-issuing-binance-usd/",
+          "author": "Samuel Haig",
+          "description": "CZ Says Paxos Will Service BUSD to Manage Redemptions",
+          "link": "https://thedefiant.io/ny-orders-paxos-to-cease-issuing-binance-usd/",
+          "publishedOn": "2023-02-13T11:54:33.000Z",
+          "wordCount": 1435,
+          "title": "NY Orders Paxos to Cease Issuing Binance USD",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/16073004/IsBinanceNext.jpg"
+        },
+        {
           "id": "https://thedefiant.io/defi-alpha-radiant-capital-stablecoins/",
           "author": "yyctrader",
           "description": "Earn Up To 19% APR With Sommelier Finance’s ‘Real Yield’ Cellar",
@@ -363,7 +373,7 @@
           "description": "Using Connext On Arbitrum Could Qualify For A Future Airdrop From The Layer 2\nNetwork",
           "link": "https://thedefiant.io/defi-alpha-connext-on-arbitrum/",
           "publishedOn": "2023-02-05T06:06:43.000Z",
-          "wordCount": 466,
+          "wordCount": 462,
           "title": "DeFi Alpha:  Provide Liquidity On Connext To Earn Yield And A Potential NEXT Airdrop",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         },
@@ -1056,16 +1066,6 @@
           "wordCount": 2855,
           "title": "What was Luna?",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/19051508/WhatWasLuna.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/lsds-gather-mojo-as-euler-lists-staked-eth-as-collateral/",
-          "author": "Owen Fernau",
-          "description": "More Than $26M in cbETH Deposited on First Day of Listing",
-          "link": "https://thedefiant.io/lsds-gather-mojo-as-euler-lists-staked-eth-as-collateral/",
-          "publishedOn": "2023-01-19T09:07:20.000Z",
-          "wordCount": 1673,
-          "title": "LSDs Gather Mojo as Euler Lists Staked ETH as Collateral",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/19050134/cbETHCollateral.jpg"
         }
       ]
     },
@@ -1177,7 +1177,7 @@
           "link": "https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough",
           "publishedOn": "2023-02-06T21:25:32.000Z",
           "wordCount": null,
-          "title": "EARLY ACCESS - You're Not Bullish Enough on NFTs with Punk6529",
+          "title": "158 - You're Not Bullish Enough on NFTs with Punk6529",
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/101067230.mp3",
@@ -1205,7 +1205,7 @@
         {
           "id": "https://shows.banklesshq.com/p/the-power-to-mint-money",
           "author": "Ryan Sean Adams",
-          "description": "Ascolta ora (69 min) | The history of crypto bull markets and why it matters",
+          "description": "Listen now (69 min) | The history of crypto bull markets and why it matters",
           "link": "https://shows.banklesshq.com/p/the-power-to-mint-money",
           "publishedOn": "2023-02-01T11:31:05.000Z",
           "wordCount": null,
