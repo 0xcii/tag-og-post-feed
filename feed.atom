@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T05:13:42.141Z</id>
+    <id>urn:2023-02-14T06:18:50.052Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-14T05:13:42.141Z</updated>
+    <updated>2023-02-14T06:18:50.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Falter Amid Latest Regulatory Crackdown]]></title>
+        <id>https://thedefiant.io/crypto-selloff-regulatory-crackdown/</id>
+        <link href="https://thedefiant.io/crypto-selloff-regulatory-crackdown/"/>
+        <updated>2023-02-14T05:44:57.000Z</updated>
+        <summary type="html"><![CDATA[Liquid Staking Sector Pulls Back After Meteoric Run, Liquity Pops 45%]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flux Finance Enables Borrowing Against Tokenized Treasury Bonds]]></title>
         <id>https://thedefiant.io/flux-lending-tokenized-treasuries/</id>
@@ -1394,16 +1404,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Gemzy Vaults Live NFT ownership sharing protocol Gemzy is live with a few vaults available. Gemzy vaults allow a group of participants to pool ETH and purchase NFTs through the Opensea platform, or directly OTC, and split ownership of the purchased NFT among participants based on the % of ETH they contributed to the purchase.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LSDs Gather Mojo as Euler Lists Staked ETH]]></title>
-        <id>https://thedefiant.io/daily-defiant-lsds/</id>
-        <link href="https://thedefiant.io/daily-defiant-lsds/"/>
-        <updated>2023-01-19T13:14:35.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we’re covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
