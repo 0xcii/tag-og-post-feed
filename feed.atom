@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T10:16:18.033Z</id>
+    <id>urn:2023-02-14T11:12:10.929Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-14T10:16:18.033Z</updated>
+    <updated>2023-02-14T11:12:10.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Binance to Move Away from BUSD, rETH Live on Aave, Risk-Isolated Lending, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-binance-to-move-away</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-binance-to-move-away"/>
+        <updated>2023-02-14T10:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Binance to Move Away from BUSD Binance CEO tweeted that Binance will move away from using BUSD as the main trading pair as the team foresees users migrating to other stablecoins over time. Issued by Paxos, BUSD is the main trading stablecoin on Binance. Paxos will]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Falter Amid Latest Regulatory Crackdown]]></title>
         <id>https://thedefiant.io/crypto-selloff-regulatory-crackdown/</id>
