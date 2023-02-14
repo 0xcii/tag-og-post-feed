@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/arthur-hayes-likes-gmx/",
+          "author": "Samuel Haig",
+          "description": "Crypto Investor is No. 1 Individual Investor in Yield-generating Token",
+          "link": "https://thedefiant.io/arthur-hayes-likes-gmx/",
+          "publishedOn": "2023-02-14T17:20:34.000Z",
+          "wordCount": 2008,
+          "title": "Hayes Shares Why He Loves GMX and Is Bullish on DeFi",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/14135756/HayesGMX.jpg"
+        },
+        {
           "id": "https://thedefiant.io/getting-started-with-vertex-protocol/",
           "author": "Jack Dunham",
           "description": "What is Vertex Protocol?",
@@ -1056,16 +1066,6 @@
           "wordCount": 510,
           "title": "Everything you didn’t know about Bitzlato",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/23031901/WTF-Is-Bitzlato.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/podcast-tal-tchwella-solana-labs/",
-          "author": "The Defiant Team",
-          "description": "This week on The Defiant Podcast, we speak with Tal Tchwella, Product Manager of\nProducts Engineering at Solana Labs.",
-          "link": "https://thedefiant.io/podcast-tal-tchwella-solana-labs/",
-          "publishedOn": "2023-01-20T05:55:37.000Z",
-          "wordCount": 418,
-          "title": "An Inside look Into Solana After FTX’s Collapse",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/20013411/TalTchwellaThumb.jpg"
         }
       ]
     },
@@ -1423,7 +1423,7 @@
           "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
           "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T04:55:32.000Z",
-          "wordCount": 3292,
+          "wordCount": 3290,
           "title": "Frustrations of a Dapp developer",
           "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
         },
@@ -1433,7 +1433,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1166,
+          "wordCount": 1164,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         }
