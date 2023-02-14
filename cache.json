@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/hayes-goes-big-on-gmx/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/hayes-goes-big-on-gmx/",
+          "publishedOn": "2023-02-14T17:59:07.000Z",
+          "wordCount": 1269,
+          "title": "Hayes Goes Big on GMX",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/14135756/HayesGMX.jpg"
+        },
+        {
           "id": "https://thedefiant.io/arthur-hayes-likes-gmx/",
           "author": "Samuel Haig",
           "description": "Crypto Investor is No. 1 Individual Investor in Yield-generating Token",
@@ -1056,16 +1066,6 @@
           "wordCount": 3073,
           "title": "Frax Triples in Value as Stablecoin System Takes Shape",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/20044519/FRAX.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/everything-you-didnt-know-about-bitzlato/",
-          "author": "Jack Dunham",
-          "description": "WTF Is Bitzlato?",
-          "link": "https://thedefiant.io/everything-you-didnt-know-about-bitzlato/",
-          "publishedOn": "2023-01-20T07:16:53.000Z",
-          "wordCount": 510,
-          "title": "Everything you didn’t know about Bitzlato",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/23031901/WTF-Is-Bitzlato.jpeg"
         }
       ]
     },
@@ -1433,7 +1433,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1164,
+          "wordCount": 1166,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         }
