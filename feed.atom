@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T13:23:55.866Z</id>
+    <id>urn:2023-02-15T14:13:33.456Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-15T13:23:55.866Z</updated>
+    <updated>2023-02-15T14:13:33.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon to Deliver ZK-Powered Rollup]]></title>
+        <id>https://thedefiant.io/daily-defiant-polygon/</id>
+        <link href="https://thedefiant.io/daily-defiant-polygon/"/>
+        <updated>2023-02-15T13:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The SEC Declares War on Crypto with Ryan & David]]></title>
         <id>https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with</id>
@@ -1402,16 +1412,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Centrifuge Quietly Sets Pace in Real World Assets Race]]></title>
-        <id>https://thedefiant.io/centrifuge-quietly-sets-pace-in-real-world-assets-race/</id>
-        <link href="https://thedefiant.io/centrifuge-quietly-sets-pace-in-real-world-assets-race/"/>
-        <updated>2023-01-20T11:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Co-founder Lucas Vogelsang on How Any Asset Can go On-Chain and the Rise of RWAs]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
