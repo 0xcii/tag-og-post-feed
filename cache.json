@@ -1003,7 +1003,7 @@
           "description": "Hello Defiers! Happy Weekend! Here’s what we covered this week…",
           "link": "https://thedefiant.io/defiant-weekly-recap-defi-resurgent/",
           "publishedOn": "2023-01-21T18:56:10.000Z",
-          "wordCount": 355,
+          "wordCount": 345,
           "title": "DeFi Resurgent: Weekly Recap Jan. 15",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/19124146/0f36acbd-857b-4ca6-b26a-10167ddd53c3_3667x2063.webp"
         },
@@ -1074,6 +1074,22 @@
       "feedUrl": "https://shows.banklesshq.com/feed",
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
+        {
+          "id": "https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with",
+          "author": "David Hoffman",
+          "description": "Listen now (67 min) | Operation Chokepoint is in full effect—here's everything you need to know",
+          "link": "https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with",
+          "publishedOn": "2023-02-15T11:30:13.000Z",
+          "wordCount": null,
+          "title": "The SEC Declares War on Crypto with Ryan & David",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/102996218.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1-d46",
           "author": "David Hoffman",
@@ -1377,22 +1393,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (33 min) | Debriefing the Wayne Chang, Sign-in with Ethereum episode",
-          "link": "https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum",
-          "publishedOn": "2023-01-19T05:49:21.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - Sign-in with Ethereum",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/97547000.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1444,6 +1444,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-blur-token-launch-pendulum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Blur Token Live NFT marketplace Blur launched its native token BLUR and airdropped 360m of tokens to the participants of the season 1 campaign. Season 2 also began and traders can earn points for future rewards by bidding/listing NFTs on the marketplace.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-blur-token-launch-pendulum",
+          "publishedOn": "2023-02-15T11:23:44.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Blur Token Launch, Pendulum Live, Passive Yield on Stablecoin, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFo3fbxwaYAE3aYY.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFo3fbxwaYAE3aYY.jpg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-binance-to-move-away",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",

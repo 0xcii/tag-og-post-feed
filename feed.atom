@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T11:12:29.826Z</id>
+    <id>urn:2023-02-15T12:29:09.519Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-15T11:12:29.826Z</updated>
+    <updated>2023-02-15T12:29:09.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The SEC Declares War on Crypto with Ryan & David]]></title>
+        <id>https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with</id>
+        <link href="https://shows.banklesshq.com/p/the-sec-declares-war-on-crypto-with"/>
+        <updated>2023-02-15T11:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (67 min) | Operation Chokepoint is in full effect—here's everything you need to know]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Blur Token Launch, Pendulum Live, Passive Yield on Stablecoin, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-blur-token-launch-pendulum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-blur-token-launch-pendulum"/>
+        <updated>2023-02-15T11:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Blur Token Live NFT marketplace Blur launched its native token BLUR and airdropped 360m of tokens to the participants of the season 1 campaign. Season 2 also began and traders can earn points for future rewards by bidding/listing NFTs on the marketplace.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon to Deliver Zero-Knowledge Powered Rollup]]></title>
         <id>https://thedefiant.io/polygon-zkevm-launch/</id>
@@ -1422,16 +1442,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - Sign-in with Ethereum]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum</id>
-        <link href="https://shows.banklesshq.com/p/debrief-wayne-chang-sign-in-with-ethereum"/>
-        <updated>2023-01-19T05:49:21.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (33 min) | Debriefing the Wayne Chang, Sign-in with Ethereum episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
     <entry>
