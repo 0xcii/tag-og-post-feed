@@ -31,12 +31,12 @@
         {
           "id": "https://medium.com/p/aff45d6421b4",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/be-present-aff45d6421b4?source=rss-2f6e06954878------2",
           "publishedOn": "2023-02-07T11:02:29.000Z",
-          "wordCount": 6839,
+          "wordCount": null,
           "title": "Be Present",
-          "imageUrl": "https://miro.medium.com/max/400/0*jskYWo6hs1l0Tlho"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/1b92183c61a1",
@@ -67,6 +67,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/defi-alpha-call-39/",
+          "author": "The Defiant Team",
+          "description": "The DeFi Alpha Call is an exclusive weekly call for our premium subscribers\nwhere yyctrader and Diego talk about the market, the latest tutorials, and the\nhottest NFTs.",
+          "link": "https://thedefiant.io/defi-alpha-call-39/",
+          "publishedOn": "2023-02-15T06:12:23.000Z",
+          "wordCount": 434,
+          "title": "DeFi Alpha Call #39",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/30125501/DeFiAlphaCall_test.png"
+        },
         {
           "id": "https://thedefiant.io/cozomo-donation-lacma/",
           "author": "Tarang Khaitan",
@@ -393,7 +403,7 @@
           "description": "DEX Says a ‘Solver’ Perpetrated the Heist and Customer Funds Are Safe",
           "link": "https://thedefiant.io/market-maker-hacks-cow-swap/",
           "publishedOn": "2023-02-07T11:29:38.000Z",
-          "wordCount": 1588,
+          "wordCount": 1592,
           "title": "‘Solver’ Hacks CoW Swap",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/19024334/MoreHacksAndScams.jpg"
         },
@@ -653,7 +663,7 @@
           "description": "Over 99% Of Solana NFTs Use Metaplex",
           "link": "https://thedefiant.io/metaplex-upgrade-solana-nft-royalties/",
           "publishedOn": "2023-01-31T05:58:40.000Z",
-          "wordCount": 1489,
+          "wordCount": 1485,
           "title": "Solana Protocol Metaplex To Enable Royalty Enforcement",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/31015714/solroyalties.jpg"
         },
@@ -1056,16 +1066,6 @@
           "wordCount": 2197,
           "title": "Sushi’s Ambitious Revamp May Be ‘Too Complex’",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/20054107/image-2.png"
-        },
-        {
-          "id": "https://thedefiant.io/frax-compliant-stablecoin/",
-          "author": "Aleksandar Gilbert",
-          "description": "Founder Sam Kazemian Hopeful Way is Open to Register Stablecoin With Federal\nReserve",
-          "link": "https://thedefiant.io/frax-compliant-stablecoin/",
-          "publishedOn": "2023-01-20T09:36:18.000Z",
-          "wordCount": 1225,
-          "title": "Frax Poised to Roll Out ‘Compliant’ Stablecoin",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/20053121/DecentralizedFrontEnds.jpg"
         }
       ]
     },
@@ -1433,7 +1433,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1164,
+          "wordCount": 1166,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         }
