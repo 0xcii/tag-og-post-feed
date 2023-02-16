@@ -47,12 +47,12 @@
         {
           "id": "https://medium.com/p/aff45d6421b4",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/be-present-aff45d6421b4?source=rss-2f6e06954878------2",
           "publishedOn": "2023-02-07T11:02:29.000Z",
-          "wordCount": 6837,
+          "wordCount": null,
           "title": "Be Present",
-          "imageUrl": "https://miro.medium.com/max/400/0*jskYWo6hs1l0Tlho"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/1b92183c61a1",
@@ -119,9 +119,19 @@
           "description": "Layer 2 Sets March 27 Launch Date for Ethereum Scaling Offering",
           "link": "https://thedefiant.io/polygon-zkevm-launch/",
           "publishedOn": "2023-02-15T10:37:29.000Z",
-          "wordCount": 1435,
+          "wordCount": 1439,
           "title": "Polygon to Deliver Zero-Knowledge Powered Rollup",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/05021709/PolygonPoSETHRollup.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/crypto-takedown-explained/",
+          "author": "Aleksandar Gilbert",
+          "description": "Crypto Crackdown?",
+          "link": "https://thedefiant.io/crypto-takedown-explained/",
+          "publishedOn": "2023-02-15T08:18:47.000Z",
+          "wordCount": 597,
+          "title": "Crypto Takedown Explained",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/16042025/Crypto-Crackdown.jpg"
         },
         {
           "id": "https://thedefiant.io/defi-alpha-call-39/",
@@ -139,7 +149,7 @@
           "description": "Bequest Includes CryptoPunk, Art Blocks and World of Women",
           "link": "https://thedefiant.io/cozomo-donation-lacma/",
           "publishedOn": "2023-02-14T21:41:35.000Z",
-          "wordCount": 1041,
+          "wordCount": 1037,
           "title": "NFT Collector Donates Prized On-Chain Art To Museum",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/14174011/MediciLACMADonation.jpg"
         },
@@ -449,7 +459,7 @@
           "description": "‎‎‎‎‎‎‎‎ㅤ",
           "link": "https://thedefiant.io/metamask-learn-navigate-web3-like-a-fox/",
           "publishedOn": "2023-02-07T11:55:00.000Z",
-          "wordCount": 2766,
+          "wordCount": 2764,
           "title": "[SPONSORED] MetaMask Learn: Navigate Web3 Like a Fox",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/07034643/MetaMask-Learn-Navigate-Web3-Like-a-Fox.jpeg"
         },
@@ -469,7 +479,7 @@
           "description": "Lido Has Skyrocketed 58% in Last 30 Days as LSD Story Picks up Mojo",
           "link": "https://thedefiant.io/lido-aave-staking-rewards/",
           "publishedOn": "2023-02-07T09:28:33.000Z",
-          "wordCount": 1603,
+          "wordCount": 1601,
           "title": "Aave Opens Door for Lido Rewards Across Three Networks",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/07051342/LDORewardsAaveV3.jpg"
         },
@@ -1072,16 +1082,6 @@
           "wordCount": 1358,
           "title": "SEC Charges Alleged Mango Exploiter With Market Manipulation",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/21020128/AviEisenSECCharges.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/canto-rallies-on-variant-stake/",
-          "author": "Aleksandar Gilbert",
-          "description": "Ethereum-compatible Layer 1 is the Fifth-Largest Blockchain on Cosmos",
-          "link": "https://thedefiant.io/canto-rallies-on-variant-stake/",
-          "publishedOn": "2023-01-21T05:21:38.000Z",
-          "wordCount": 954,
-          "title": "Canto Rallies After Variant Discloses Stake",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/21012104/CANTOPump.jpg"
         }
       ]
     },
@@ -1429,7 +1429,7 @@
           "description": "Background",
           "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T05:26:38.000Z",
-          "wordCount": 2674,
+          "wordCount": 2676,
           "title": "The death of Defi & RWA",
           "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
         },
@@ -1439,7 +1439,7 @@
           "description": "I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…",
           "link": "https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T04:55:32.000Z",
-          "wordCount": 3290,
+          "wordCount": 3288,
           "title": "Frustrations of a Dapp developer",
           "imageUrl": "https://miro.medium.com/max/1200/1*3uAEcNajR4AEfJ1l7En5PA.png"
         },
@@ -1449,7 +1449,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1164,
+          "wordCount": 1162,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         }
