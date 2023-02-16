@@ -84,6 +84,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/flashbots-poised-to-offer-mev-to-ordinary-investors/",
+          "author": "Samuel Haig",
+          "description": "Complex Arbitrage Trade Earmarked for Broader Market Amid Regulatory Crackdown",
+          "link": "https://thedefiant.io/flashbots-poised-to-offer-mev-to-ordinary-investors/",
+          "publishedOn": "2023-02-16T11:19:29.000Z",
+          "wordCount": 1509,
+          "title": "Flashbots Poised to Offer MEV to Ordinary Investors",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/16064738/FlashbotsUpdate.jpg"
+        },
+        {
           "id": "https://thedefiant.io/balancer-surges-lsd/",
           "author": "Owen Fernau",
           "description": "Exchange’s TVL Surges 20% With Play in Red Hot LSD Market",
@@ -129,7 +139,7 @@
           "description": "Layer 2 Sets March 27 Launch Date for Ethereum Scaling Offering",
           "link": "https://thedefiant.io/polygon-zkevm-launch/",
           "publishedOn": "2023-02-15T10:37:29.000Z",
-          "wordCount": 1439,
+          "wordCount": 1435,
           "title": "Polygon to Deliver Zero-Knowledge Powered Rollup",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/05021709/PolygonPoSETHRollup.jpg"
         },
@@ -159,7 +169,7 @@
           "description": "Bequest Includes CryptoPunk, Art Blocks and World of Women",
           "link": "https://thedefiant.io/cozomo-donation-lacma/",
           "publishedOn": "2023-02-14T21:41:35.000Z",
-          "wordCount": 1037,
+          "wordCount": 1041,
           "title": "NFT Collector Donates Prized On-Chain Art To Museum",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/14174011/MediciLACMADonation.jpg"
         },
@@ -1072,16 +1082,6 @@
           "wordCount": 353,
           "title": "DeFi Resurgent: Weekly Recap Jan. 15",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/19124146/0f36acbd-857b-4ca6-b26a-10167ddd53c3_3667x2063.webp"
-        },
-        {
-          "id": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-86/",
-          "author": "The Defiant Team",
-          "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
-          "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-86/",
-          "publishedOn": "2023-01-21T17:06:18.000Z",
-          "wordCount": 414,
-          "title": "📬 Inbox Dump #86",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
         }
       ]
     },
@@ -1090,6 +1090,22 @@
       "feedUrl": "https://shows.banklesshq.com/feed",
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
+        {
+          "id": "https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (53 min) | The $330M airdrop to Blur traders",
+          "link": "https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman",
+          "publishedOn": "2023-02-16T11:30:53.000Z",
+          "wordCount": null,
+          "title": "$BLUR AIRDROP with Blur's Founder, Pacman",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/103191406.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://shows.banklesshq.com/p/debrief-eliezer",
           "author": "Ryan Sean Adams",
@@ -1393,22 +1409,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (85 min) | First we take back our money, then our identity.",
-          "link": "https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized",
-          "publishedOn": "2023-01-26T04:50:05.000Z",
-          "wordCount": null,
-          "title": "155 - The Rise of Decentralized Social Networks with Farcaster’s Dan Romero",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/99022450.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1429,7 +1429,7 @@
           "description": "Background",
           "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T05:26:38.000Z",
-          "wordCount": 2674,
+          "wordCount": 2676,
           "title": "The death of Defi & RWA",
           "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
         },

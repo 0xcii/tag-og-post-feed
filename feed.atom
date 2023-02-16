@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T11:12:27.366Z</id>
+    <id>urn:2023-02-16T12:28:30.821Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-16T11:12:27.366Z</updated>
+    <updated>2023-02-16T12:28:30.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[$BLUR AIRDROP with Blur's Founder, Pacman]]></title>
+        <id>https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman</id>
+        <link href="https://shows.banklesshq.com/p/blur-airdrop-with-blurs-founder-pacman"/>
+        <updated>2023-02-16T11:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (53 min) | The $330M airdrop to Blur traders]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flashbots Poised to Offer MEV to Ordinary Investors]]></title>
+        <id>https://thedefiant.io/flashbots-poised-to-offer-mev-to-ordinary-investors/</id>
+        <link href="https://thedefiant.io/flashbots-poised-to-offer-mev-to-ordinary-investors/"/>
+        <updated>2023-02-16T11:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Complex Arbitrage Trade Earmarked for Broader Market Amid Regulatory Crackdown]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balancer Shakes Off Rivals’ Shadow With Novel Strategy]]></title>
         <id>https://thedefiant.io/balancer-surges-lsd/</id>
@@ -1242,16 +1262,6 @@ in 2022.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[155 - The Rise of Decentralized Social Networks with Farcaster’s Dan Romero]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized</id>
-        <link href="https://shows.banklesshq.com/p/early-access-the-rise-of-decentralized"/>
-        <updated>2023-01-26T04:50:05.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (85 min) | First we take back our money, then our identity.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Optimism Activity Plummets After NFT Incentives End]]></title>
         <id>https://thedefiant.io/optimism-token-up-activity-down/</id>
         <link href="https://thedefiant.io/optimism-token-up-activity-down/"/>
@@ -1421,17 +1431,6 @@ $REUNI token in February. Whitelisting for presale is now open.]]></summary>
         <summary type="html"><![CDATA[Hello Defiers! Happy Weekend! Here’s what we covered this week…]]></summary>
         <author>
             <name>Edward Robinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📬 Inbox Dump #86]]></title>
-        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-86/</id>
-        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-86/"/>
-        <updated>2023-01-21T17:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Inbox Dump where we include the updates and announcements that flood
-our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
