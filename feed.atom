@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T11:12:17.551Z</id>
+    <id>urn:2023-02-17T12:27:28.661Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-17T11:12:17.551Z</updated>
+    <updated>2023-02-17T12:27:28.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ROLLUP: SEC Staking Krakdown | $BLUR Airdrop | SBF’s Bailout Money Source | Ordinals Still Growing]]></title>
+        <id>https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur</id>
+        <link href="https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur"/>
+        <updated>2023-02-17T11:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Jetzt anhören (93 min) | 3rd Friday of February, 2023]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Use ‘Emergency Withdraw’ Flaw to Raid Platypus]]></title>
+        <id>https://thedefiant.io/hackers-use-emergency-withdraw-flaw-to-raid-platypus/</id>
+        <link href="https://thedefiant.io/hackers-use-emergency-withdraw-flaw-to-raid-platypus/"/>
+        <updated>2023-02-17T10:46:59.000Z</updated>
+        <summary type="html"><![CDATA[ZachXBT Identifies Hacker After Attack Erases Half the Value in USP Stablecoin]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Flashbots MEV-Share, Kava 12 Live, Borrow to Earn, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-flashbots-mev-share</id>
@@ -1313,16 +1333,6 @@ in 2022.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEBRIEF - The Rise of Decentralized Social Networks]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-dan-romero</id>
-        <link href="https://shows.banklesshq.com/p/debrief-dan-romero"/>
-        <updated>2023-01-26T04:50:11.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (25 min) | Debriefing the Dan Romero, The Rise of Decentralized Social Networks episode.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Optimism Activity Plummets After NFT Incentives End]]></title>
         <id>https://thedefiant.io/optimism-token-up-activity-down/</id>
         <link href="https://thedefiant.io/optimism-token-up-activity-down/"/>
@@ -1428,16 +1438,6 @@ in 2022.]]></summary>
         <link href="https://thedefiant.io/ethereum-shadow-forks-shanghai/"/>
         <updated>2023-01-24T09:50:03.000Z</updated>
         <summary type="html"><![CDATA[Devs Deploy Shadow Fork to Support Staked ETH Withdrawals]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap to Deploy on BNB Chain]]></title>
-        <id>https://thedefiant.io/uniswap-to-deploy-on-bnb-chain/</id>
-        <link href="https://thedefiant.io/uniswap-to-deploy-on-bnb-chain/"/>
-        <updated>2023-01-24T09:24:25.000Z</updated>
-        <summary type="html"><![CDATA[UNI holders Vote to Deploy V3 of No. 1 DEX on Ethereum Rival]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
