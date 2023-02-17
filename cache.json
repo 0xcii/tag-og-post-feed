@@ -84,6 +84,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/feds-dragnet-targets-more-than-tokens/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/feds-dragnet-targets-more-than-tokens/",
+          "publishedOn": "2023-02-17T13:27:54.000Z",
+          "wordCount": 1329,
+          "title": "Feds’ Dragnet Targets More Than Tokens",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/17053517/RegulatoryOpus.jpg"
+        },
+        {
           "id": "https://thedefiant.io/regulatory-dragnet-crypto/",
           "author": "Aleksandar Gilbert",
           "description": "Spate of Enforcement Actions Poised to Reshape Industry",
@@ -149,7 +159,7 @@
           "description": "Complex Arbitrage Trade Earmarked for Broader Market Amid Regulatory Crackdown",
           "link": "https://thedefiant.io/flashbots-poised-to-offer-mev-to-ordinary-investors/",
           "publishedOn": "2023-02-16T11:19:29.000Z",
-          "wordCount": 1505,
+          "wordCount": 1501,
           "title": "Flashbots Poised to Offer MEV to Ordinary Investors",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/16064738/FlashbotsUpdate.jpg"
         },
@@ -709,7 +719,7 @@
           "description": "The DeFi Alpha Call is an exclusive weekly call for our premium subscribers\nwhere yyctrader and Diego talk about the market, the latest tutorials, and the\nhottest NFTs.",
           "link": "https://thedefiant.io/defi-alpha-call-36/",
           "publishedOn": "2023-02-03T05:20:22.000Z",
-          "wordCount": 439,
+          "wordCount": 435,
           "title": "DeFi Alpha Call #36",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/30125501/DeFiAlphaCall_test.png"
         },
@@ -1072,16 +1082,6 @@
           "wordCount": 1491,
           "title": "Index Coop Launches Diversified Staked ETH Token",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/24142418/LSDIndex.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/ethereum-steps-closer-to-shanghai/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we are covering today!",
-          "link": "https://thedefiant.io/ethereum-steps-closer-to-shanghai/",
-          "publishedOn": "2023-01-24T13:13:49.000Z",
-          "wordCount": 1557,
-          "title": "Ethereum Steps Closer to Shanghai",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/24054356/ETHShadowFork.jpg"
         }
       ]
     },
