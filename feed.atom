@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T11:12:16.834Z</id>
+    <id>urn:2023-02-18T12:25:18.721Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-18T11:12:16.834Z</updated>
+    <updated>2023-02-18T12:25:18.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EU Markets in Crypto-Assets (MiCA) with Seth Hertlein, Patrick Hansen, & Rebecca Rettig]]></title>
+        <id>https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica</id>
+        <link href="https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica"/>
+        <updated>2023-02-18T11:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (56 min) | Who's got better crypto regulation and why?]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Klaytn and Filecoin Defy Feds’ Crackdown With Big Gains]]></title>
         <id>https://thedefiant.io/klaytn-and-filecoin-defy-feds-crackdown-with-big-gains/</id>
@@ -1331,16 +1341,6 @@ Metaverse’]]></summary>
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we’re covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bull Trap, or Bull Market? with Vance Spencer]]></title>
-        <id>https://shows.banklesshq.com/p/bull-trap-or-bull-market-with-vance</id>
-        <link href="https://shows.banklesshq.com/p/bull-trap-or-bull-market-with-vance"/>
-        <updated>2023-01-26T11:33:59.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (47 min) | Where are we??? Vance has the answer.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
     <entry>
