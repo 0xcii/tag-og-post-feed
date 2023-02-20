@@ -99,7 +99,7 @@
           "description": "‘China Narrative’ May Be Boosting Certain Tokens",
           "link": "https://thedefiant.io/klaytn-and-filecoin-defy-feds-crackdown-with-big-gains/",
           "publishedOn": "2023-02-18T10:20:39.000Z",
-          "wordCount": 1461,
+          "wordCount": 1449,
           "title": "Klaytn and Filecoin Defy Feds’ Crackdown With Big Gains",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/18061802/DeStorageCoins.jpg"
         },
@@ -886,7 +886,7 @@
         {
           "id": "https://thedefiant.io/rollup-wars-optimistic-vs-zk/",
           "author": "Samuel Haig",
-          "description": "Matter Labs Co-founder Takes Aim At Zero-Knowledge Technology",
+          "description": "Offchain Labs Co-founder Takes Aim At Zero-Knowledge Technology",
           "link": "https://thedefiant.io/rollup-wars-optimistic-vs-zk/",
           "publishedOn": "2023-01-31T05:28:37.000Z",
           "wordCount": 1702,
@@ -1081,6 +1081,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (103 min) | With AGI on the horizon, is there hope for humanity?",
+          "link": "https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with",
+          "publishedOn": "2023-02-20T09:30:00.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - We’re All Gonna Die with Eliezer Yudkowsky",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/103213495.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica",
           "author": "David Hoffman",
           "description": "Listen now (56 min) | Who's got better crypto regulation and why?",
@@ -1139,22 +1155,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/103214358.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (103 min) | With AGI on the horizon, is there hope for humanity?",
-          "link": "https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with",
-          "publishedOn": "2023-02-16T06:24:16.000Z",
-          "wordCount": null,
-          "title": "EARLY ACCESS - We’re All Gonna Die with Eliezer Yudkowsky",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/103213495.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

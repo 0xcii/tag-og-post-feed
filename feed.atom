@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T09:15:25.375Z</id>
+    <id>urn:2023-02-20T10:17:10.467Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-20T09:15:25.375Z</updated>
+    <updated>2023-02-20T10:17:10.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - We’re All Gonna Die with Eliezer Yudkowsky]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with</id>
+        <link href="https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with"/>
+        <updated>2023-02-20T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (103 min) | With AGI on the horizon, is there hope for humanity?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Kava 12, Blur Token Live, Platypus Exploit, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-kava-12-blur-token</id>
@@ -235,16 +245,6 @@ Crypto]]></summary>
         <link href="https://shows.banklesshq.com/p/debrief-eliezer"/>
         <updated>2023-02-16T06:24:51.000Z</updated>
         <summary type="html"><![CDATA[Listen now (30 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - We’re All Gonna Die with Eliezer Yudkowsky]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with</id>
-        <link href="https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with"/>
-        <updated>2023-02-16T06:24:16.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (103 min) | With AGI on the horizon, is there hope for humanity?]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
@@ -1185,7 +1185,7 @@ hottest NFTs.]]></summary>
         <id>https://thedefiant.io/rollup-wars-optimistic-vs-zk/</id>
         <link href="https://thedefiant.io/rollup-wars-optimistic-vs-zk/"/>
         <updated>2023-01-31T05:28:37.000Z</updated>
-        <summary type="html"><![CDATA[Matter Labs Co-founder Takes Aim At Zero-Knowledge Technology]]></summary>
+        <summary type="html"><![CDATA[Offchain Labs Co-founder Takes Aim At Zero-Knowledge Technology]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
