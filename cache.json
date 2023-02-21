@@ -74,6 +74,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/how-to-use-lido-on-arbitrum-and-optimism/",
+          "author": "Lido",
+          "description": "Welcome to The Defiant Explainers, where we create comprehensive & sponsored\ntutorial videos, diving deep into DeFi projects and showing you how to use them\nwith a step by step guide. Today we’ll be talking about Ethereum’s most popular\nliquid staking protocol Lido, and how you can use its tokens on Layer 2\nblockchains Arbitrum […]",
+          "link": "https://thedefiant.io/how-to-use-lido-on-arbitrum-and-optimism/",
+          "publishedOn": "2023-02-21T13:11:40.000Z",
+          "wordCount": 912,
+          "title": "How to Use Lido on Arbitrum and Optimism",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/21091033/How-to-Use-Lido-on-Arbitrum-and-Optimism.jpg"
+        },
+        {
           "id": "https://thedefiant.io/aave-and-maker-pull-back-from-paxos-stablecoins/",
           "author": "Samuel Haig",
           "description": "Fallout From ‘Tricky Situation’ at Stablecoin Issuer Hits DeFi Protocols",
@@ -1062,16 +1072,6 @@
           "wordCount": 1838,
           "title": "RAI Founder Rues ‘Mistake’ on Ethereum",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/25051610/RAIProblems.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/kuchelov-interview-gho-stablecoin/",
-          "author": "Aleksandar Gilbert",
-          "description": "Aave Stablecoin Expected to Boost Revenue",
-          "link": "https://thedefiant.io/kuchelov-interview-gho-stablecoin/",
-          "publishedOn": "2023-01-25T09:38:03.000Z",
-          "wordCount": 1709,
-          "title": "GHO to Arrive ‘In Weeks’ After Aave V3 Launch on Ethereum",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/25053139/AAVEV3Eth.jpg"
         }
       ]
     },
