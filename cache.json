@@ -74,6 +74,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/daily-defiant-aave-paxos-maker/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/daily-defiant-aave-paxos-maker/",
+          "publishedOn": "2023-02-21T13:31:34.000Z",
+          "wordCount": 1452,
+          "title": "DeFi Protocols Pull Back From Paxos",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/21051435/AaveFreezeBUSD.jpg"
+        },
+        {
           "id": "https://thedefiant.io/how-to-use-lido-on-arbitrum-and-optimism/",
           "author": "Lido",
           "description": "Welcome to The Defiant Explainers, where we create comprehensive & sponsored\ntutorial videos, diving deep into DeFi projects and showing you how to use them\nwith a step by step guide. Today we’ll be talking about Ethereum’s most popular\nliquid staking protocol Lido, and how you can use its tokens on Layer 2\nblockchains Arbitrum […]",
@@ -1062,16 +1072,6 @@
           "wordCount": 1434,
           "title": "Optimism Activity Plummets After NFT Incentives End",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/26002700/OPActivityDOWN.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/daily-defiant-sbts/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we are covering today!",
-          "link": "https://thedefiant.io/daily-defiant-sbts/",
-          "publishedOn": "2023-01-25T13:33:24.000Z",
-          "wordCount": 1838,
-          "title": "RAI Founder Rues ‘Mistake’ on Ethereum",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/25051610/RAIProblems.jpg"
         }
       ]
     },

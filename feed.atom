@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T14:13:36.899Z</id>
+    <id>urn:2023-02-21T15:15:17.626Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-21T14:13:36.899Z</updated>
+    <updated>2023-02-21T15:15:17.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Protocols Pull Back From Paxos]]></title>
+        <id>https://thedefiant.io/daily-defiant-aave-paxos-maker/</id>
+        <link href="https://thedefiant.io/daily-defiant-aave-paxos-maker/"/>
+        <updated>2023-02-21T13:31:34.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Lido on Arbitrum and Optimism]]></title>
         <id>https://thedefiant.io/how-to-use-lido-on-arbitrum-and-optimism/</id>
@@ -1457,16 +1467,6 @@ in 2022.]]></summary>
         <summary type="html"><![CDATA[OP Rallies To All-Time High]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAI Founder Rues ‘Mistake’ on Ethereum]]></title>
-        <id>https://thedefiant.io/daily-defiant-sbts/</id>
-        <link href="https://thedefiant.io/daily-defiant-sbts/"/>
-        <updated>2023-01-25T13:33:24.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
