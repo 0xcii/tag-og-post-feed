@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T18:18:06.116Z</id>
+    <id>urn:2023-02-21T19:11:45.897Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-21T18:18:06.116Z</updated>
+    <updated>2023-02-21T19:11:45.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - We're All Gonna Die]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-eliezer</id>
+        <link href="https://shows.banklesshq.com/p/debrief-eliezer"/>
+        <updated>2023-02-21T18:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (31 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Protocols Pull Back From Paxos]]></title>
         <id>https://thedefiant.io/daily-defiant-aave-paxos-maker/</id>
@@ -281,16 +291,6 @@ Crypto]]></summary>
         <summary type="html"><![CDATA[DeFi Rockstar Returns (again)]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - We're All Gonna Die]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-eliezer</id>
-        <link href="https://shows.banklesshq.com/p/debrief-eliezer"/>
-        <updated>2023-02-16T06:24:51.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (30 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
     <entry>
