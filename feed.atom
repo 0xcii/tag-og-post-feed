@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T11:12:02.104Z</id>
+    <id>urn:2023-02-22T12:28:58.046Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-22T11:12:02.104Z</updated>
+    <updated>2023-02-22T12:28:58.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Polygon NFT Ecosystem with Frank (DeGods), Zhuoxun Yin (Magic Eden), & Stani Kulechov (Lens)]]></title>
+        <id>https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank</id>
+        <link href="https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank"/>
+        <updated>2023-02-22T11:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (68 min) | 3rd Largest Community?]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Coinbase to Support EUROC, Perennial Live on Arbitrum, NFT Aggregator Potential Airdrop , and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-to-support</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-coinbase-to-support"/>
+        <updated>2023-02-22T11:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase to Support EUROC Coinbase will add support for EUROC on Ethereum and will enable trading for EUROC pairs after 9 AM PT on 22 February 2023. Perennial Live on Arbitrum Cash-settled derivatives protocol Perennial launches on Arbitrum. Check our]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stacks’ Token Doubles as Building-on-BTC Activity Surges]]></title>
         <id>https://thedefiant.io/building-on-bitcoin/</id>
@@ -1355,16 +1375,6 @@ Polychain Capital.]]></summary>
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Genesis Bankruptcy | SEC Crypto Crackdown | Kevin Rose NFTs Hacked | Aptos Token | BAYC Sewer Pass]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-genesis-bankruptcy-sec-crypto</id>
-        <link href="https://shows.banklesshq.com/p/rollup-genesis-bankruptcy-sec-crypto"/>
-        <updated>2023-01-27T13:06:11.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | 4th Week of January, 2023]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
     <entry>
