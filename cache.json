@@ -149,7 +149,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/daily-defiant-aave-paxos-maker/",
           "publishedOn": "2023-02-21T13:31:34.000Z",
-          "wordCount": 1442,
+          "wordCount": 1434,
           "title": "DeFi Protocols Pull Back From Paxos",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/21051435/AaveFreezeBUSD.jpg"
         },
@@ -229,7 +229,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/feds-dragnet-targets-more-than-tokens/",
           "publishedOn": "2023-02-17T13:27:54.000Z",
-          "wordCount": 1390,
+          "wordCount": 1382,
           "title": "Feds’ Dragnet Targets More Than Tokens",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/17053517/RegulatoryOpus.jpg"
         },
@@ -1081,6 +1081,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/coinbase-launches-base-their-own",
+          "author": "David Hoffman",
+          "description": "Listen now (62 min) | Hottest news since The Merge",
+          "link": "https://shows.banklesshq.com/p/coinbase-launches-base-their-own",
+          "publishedOn": "2023-02-23T14:01:00.000Z",
+          "wordCount": null,
+          "title": "Coinbase Launches ‘Base’ Their Own L2 on the OP Stack!!!",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/104598233.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with",
           "author": "David Hoffman",
           "description": "Listen now (73 min) | Tune in to hear Jon's controversial(?) arguments",
@@ -1379,22 +1395,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/99959985.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-will-solana-make-it",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (79 min) | Will it survive the bear?",
-          "link": "https://shows.banklesshq.com/p/early-access-will-solana-make-it",
-          "publishedOn": "2023-01-31T06:18:02.000Z",
-          "wordCount": null,
-          "title": "157 - Will Solana Make It with Anatoly Yakovenko",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/99958611.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
