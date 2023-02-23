@@ -1129,6 +1129,22 @@
           "imageUrl": null
         },
         {
+          "id": "https://shows.banklesshq.com/p/spaces-eliezer-yudkowsky-thinks-were",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (53 min) | Is there anything we can do to solve AI alignment?",
+          "link": "https://shows.banklesshq.com/p/spaces-eliezer-yudkowsky-thinks-were",
+          "publishedOn": "2023-02-21T05:38:00.000Z",
+          "wordCount": null,
+          "title": "Spaces - Eliezer Yudkowsky thinks we're doomed",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/104588281.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/early-access-were-all-gonna-die-with",
           "author": "Ryan Sean Adams",
           "description": "Listen now (103 min) | With AGI on the horizon, is there hope for humanity?",
@@ -1379,22 +1395,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/99958611.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-chris-burniske",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (12 min) | Debriefing the Chris Burniske, Investing in Waves episode.",
-          "link": "https://shows.banklesshq.com/p/debrief-chris-burniske",
-          "publishedOn": "2023-01-28T07:48:57.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - Investing in Waves",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/99388499.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
