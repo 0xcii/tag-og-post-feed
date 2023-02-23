@@ -1081,6 +1081,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with",
+          "author": "David Hoffman",
+          "description": "Listen now (73 min) | Tune in to hear Jon's controversial(?) arguments",
+          "link": "https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with",
+          "publishedOn": "2023-02-22T23:58:11.000Z",
+          "wordCount": null,
+          "title": "ETH Is NOT Ultrasound Money with Jon Charbonneau",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/104545068.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank",
           "author": "David Hoffman",
           "description": "Listen now (68 min) | 3rd Largest Community?",
@@ -1379,22 +1395,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/99388499.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-investing-in-waves-with",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (96 min) | Why crypto is like surfing and how you catch a good wave",
-          "link": "https://shows.banklesshq.com/p/early-access-investing-in-waves-with",
-          "publishedOn": "2023-01-28T07:48:09.000Z",
-          "wordCount": null,
-          "title": "156 - Investing in Waves with Chris Burniske",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/99388299.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
