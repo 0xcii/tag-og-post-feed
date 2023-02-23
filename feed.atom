@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T11:13:02.669Z</id>
+    <id>urn:2023-02-23T12:29:55.710Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-23T11:13:02.669Z</updated>
+    <updated>2023-02-23T12:29:55.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Collab.Land Token Launch, Frax to Fully Collateralize Its Stablecoin, Treasury Yields, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-collabland-token-launch"/>
+        <updated>2023-02-23T12:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Collab.Land Token Launch Collab.Land, a Discord/Telegram wallet connection bot protocol, will launch its token and enable claims on Feb 23 at 6 pm MT. Verified community members and/or Membership/Patron NFT holders are eligible for the token drop. Frax to Fully Collateralize Its Stablecoin]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon Lays Off 20% of Staff Amid Restructuring]]></title>
         <id>https://thedefiant.io/polygon-layoffs/</id>
@@ -915,6 +925,7 @@ Information on Listings]]></summary>
         <id>https://medium.com/p/aff45d6421b4</id>
         <link href="https://entrepreneurshandbook.co/be-present-aff45d6421b4?source=rss-2f6e06954878------2"/>
         <updated>2023-02-07T11:02:29.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
