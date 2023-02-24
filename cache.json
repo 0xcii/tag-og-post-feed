@@ -74,6 +74,26 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/blur-blows-away-opensea-with-82-share-of-trades/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/blur-blows-away-opensea-with-82-share-of-trades/",
+          "publishedOn": "2023-02-24T13:43:36.000Z",
+          "wordCount": 2192,
+          "title": "Blur Blows Away OpenSea With 82% Share of Trades",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/24074341/OpenSeaRoyalties.png"
+        },
+        {
+          "id": "https://thedefiant.io/podcast-kain-warwick-defi-summer-2/",
+          "author": "The Defiant Team",
+          "description": "This week on The Defiant Podcast, Tegan Kline chats with Kain Warwick, crypto OG\nand founder of Synthetix.",
+          "link": "https://thedefiant.io/podcast-kain-warwick-defi-summer-2/",
+          "publishedOn": "2023-02-24T12:48:07.000Z",
+          "wordCount": 544,
+          "title": "Synthetix, DeFi Summer 2, FTX, 3AC and Crystal Meth with Crypto OG Kain Warwick",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/24075718/KainWw169.jpg"
+        },
+        {
           "id": "https://thedefiant.io/uniswap-erc-20-nfts/",
           "author": "Tarang Khaitan",
           "description": "No. 1 DEX Makes a Move as NFT Market Heats Up",
@@ -559,7 +579,7 @@
           "description": "Liquid Staking Sector Pulls Back After Meteoric Run; Liquity Pops 45%",
           "link": "https://thedefiant.io/crypto-selloff-regulatory-crackdown/",
           "publishedOn": "2023-02-14T05:44:57.000Z",
-          "wordCount": 966,
+          "wordCount": 968,
           "title": "Crypto Markets Falter Amid Latest Regulatory Crackdown",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/14014145/MKTsSellOff.jpg"
         },
@@ -619,7 +639,7 @@
           "description": "Venture Capital Firm Disagrees With Community Plan For Bridging",
           "link": "https://thedefiant.io/uniswap-a16z-bnb-bridging/",
           "publishedOn": "2023-02-10T21:57:43.000Z",
-          "wordCount": 3823,
+          "wordCount": 3825,
           "title": "Threat of Uniswap Replication Triggers Rare Clash With A16Z",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/10174725/a16zUniBNBGovVote.jpg"
         },
@@ -669,7 +689,7 @@
           "description": "Lido and Rocket Pool Tokens Record Double-Digit Surge After CEX Shuts\nStaking-as-a-Service",
           "link": "https://thedefiant.io/defi-staking-players-rally/",
           "publishedOn": "2023-02-10T08:42:18.000Z",
-          "wordCount": 1912,
+          "wordCount": 1914,
           "title": "DeFi Staking Players Soar After Kraken Slapped by SEC",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/10043959/LSDMomentumSECKraken.jpg"
         },
@@ -739,7 +759,7 @@
           "description": "Staking Giant Hopes to Broaden Range of Node Operators",
           "link": "https://thedefiant.io/lido-v2-decentarlization-critics/",
           "publishedOn": "2023-02-08T18:53:20.000Z",
-          "wordCount": 2544,
+          "wordCount": 2546,
           "title": "Lido Bets V2 Will Prove its DeFi Cred",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/08144749/LIDOvRocketP.jpg"
         },
@@ -779,7 +799,7 @@
           "description": "Feds Treating Digital Assets the Same as Stocks When it Comes to Confidential\nInformation on Listings",
           "link": "https://thedefiant.io/coinbase-insider-trading-2/",
           "publishedOn": "2023-02-08T08:56:56.000Z",
-          "wordCount": 1281,
+          "wordCount": 1283,
           "title": "Coinbase Ex-Employee Pleads Guilty to Insider Trading",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/08045302/PMPleadsGuiltyCB.jpg"
         },
@@ -1052,26 +1072,6 @@
           "wordCount": 1235,
           "title": "Ethereum Developers To Launch Testnet Supporting Staked ETH Withdrawals",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/01010657/zheijiangtestnet.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/real-world-assets-key-defi-growth/",
-          "author": "Asad Khan",
-          "description": "RWA Isn’t Just a Buzzword But a Catalyst for a Decentralized Financial System",
-          "link": "https://thedefiant.io/real-world-assets-key-defi-growth/",
-          "publishedOn": "2023-02-01T05:02:54.000Z",
-          "wordCount": 2638,
-          "title": "Real World Assets Can Deliver DeFi’s Promise",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/01010248/DeFiningRWAs.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/what-is-erasure/",
-          "author": "Rahul Nambiampurath",
-          "description": "A Primer on the DeFi Data Markets Protocol",
-          "link": "https://thedefiant.io/what-is-erasure/",
-          "publishedOn": "2023-01-31T15:58:55.000Z",
-          "wordCount": 2941,
-          "title": "What is Erasure?",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/25141923/WhatIsErasure.jpg"
         }
       ]
     },
@@ -1419,7 +1419,7 @@
           "description": "Background",
           "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T05:26:38.000Z",
-          "wordCount": 2674,
+          "wordCount": 2678,
           "title": "The death of Defi & RWA",
           "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
         },
@@ -1439,7 +1439,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1166,
+          "wordCount": 1162,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         }
