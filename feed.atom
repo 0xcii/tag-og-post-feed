@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T11:12:21.633Z</id>
+    <id>urn:2023-02-24T12:28:45.466Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-24T11:12:21.634Z</updated>
+    <updated>2023-02-24T12:28:45.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Drops Base | SEC Sues Terraform Labs & Do Kwon | Spotify Token Gating | OpenSea vs. Blur]]></title>
+        <id>https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform</id>
+        <link href="https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform"/>
+        <updated>2023-02-24T11:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (96 min) | 4th Friday of February 2023]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worldcoin Edges Closer to AI-Driven Crypto Identity Device]]></title>
+        <id>https://thedefiant.io/worldcoin-ai-privacy-orb/</id>
+        <link href="https://thedefiant.io/worldcoin-ai-privacy-orb/"/>
+        <updated>2023-02-24T11:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Founder Alex Bania Says Orb to Be Released in First Half of 2023]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transactions on Arbitrum Leapfrog Ethereum]]></title>
         <id>https://thedefiant.io/arbitrum-tops-ethereum/</id>
@@ -1407,16 +1427,6 @@ hottest NFTs.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEBRIEF - Will Solana Make It?]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-anatoly-solana</id>
-        <link href="https://shows.banklesshq.com/p/debrief-anatoly-solana"/>
-        <updated>2023-01-31T06:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (25 min) | Debriefing the Will Solana Make It? with Anatoly Yakovenko episode.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solana Protocol Metaplex To Enable Royalty Enforcement]]></title>
         <id>https://thedefiant.io/metaplex-upgrade-solana-nft-royalties/</id>
         <link href="https://thedefiant.io/metaplex-upgrade-solana-nft-royalties/"/>
@@ -1424,16 +1434,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Over 99% Of Solana NFTs Use Metaplex]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gains Network Rides Arbitrum Launch To All-Time Highs]]></title>
-        <id>https://thedefiant.io/gains-network-arbitrum/</id>
-        <link href="https://thedefiant.io/gains-network-arbitrum/"/>
-        <updated>2023-01-31T05:43:16.000Z</updated>
-        <summary type="html"><![CDATA[Leveraged Trading Protocol Sees Activity Spike Amid Market Rally]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
