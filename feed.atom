@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T20:15:51.416Z</id>
+    <id>urn:2023-02-24T21:11:28.345Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-24T20:15:51.416Z</updated>
+    <updated>2023-02-24T21:11:28.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A.I. vs Humans with Eliezer Yudkowsky (Twitter Spaces)]]></title>
+        <id>https://shows.banklesshq.com/p/ai-vs-humans-with-eliezer-yudkowsky</id>
+        <link href="https://shows.banklesshq.com/p/ai-vs-humans-with-eliezer-yudkowsky"/>
+        <updated>2023-02-24T20:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (54 min) | Who wins?]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blur Blows Away OpenSea With 82% Share of Trades]]></title>
         <id>https://thedefiant.io/blur-blows-away-opensea-with-82-share-of-trades/</id>
@@ -1355,16 +1365,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power to Mint Money]]></title>
-        <id>https://shows.banklesshq.com/p/the-power-to-mint-money</id>
-        <link href="https://shows.banklesshq.com/p/the-power-to-mint-money"/>
-        <updated>2023-02-01T11:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (69 min) | The history of crypto bull markets and why it matters]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
     <entry>

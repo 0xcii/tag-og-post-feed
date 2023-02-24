@@ -1081,6 +1081,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/ai-vs-humans-with-eliezer-yudkowsky",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (54 min) | Who wins?",
+          "link": "https://shows.banklesshq.com/p/ai-vs-humans-with-eliezer-yudkowsky",
+          "publishedOn": "2023-02-24T20:46:24.000Z",
+          "wordCount": null,
+          "title": "A.I. vs Humans with Eliezer Yudkowsky (Twitter Spaces)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/104916658.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform",
           "author": "Ryan Sean Adams",
           "description": "Listen now (96 min) | 4th Friday of February 2023",
@@ -1383,22 +1399,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-power-to-mint-money",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (69 min) | The history of crypto bull markets and why it matters",
-          "link": "https://shows.banklesshq.com/p/the-power-to-mint-money",
-          "publishedOn": "2023-02-01T11:31:05.000Z",
-          "wordCount": null,
-          "title": "The Power to Mint Money",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/100165114.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1419,7 +1419,7 @@
           "description": "Background",
           "link": "https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-02-01T05:26:38.000Z",
-          "wordCount": 2678,
+          "wordCount": 2674,
           "title": "The death of Defi & RWA",
           "imageUrl": "https://miro.medium.com/max/879/0*_hKHdhEbXPj70l-f"
         },
