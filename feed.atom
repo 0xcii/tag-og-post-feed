@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T11:11:24.253Z</id>
+    <id>urn:2023-02-25T12:25:31.768Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-25T11:11:24.253Z</updated>
+    <updated>2023-02-25T12:25:31.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism Base Superchain 🔵_🔴 with Ben Jones, Karl Floersch, & Jing Wang]]></title>
+        <id>https://shows.banklesshq.com/p/optimism-base-superchain-_-with-ben</id>
+        <link href="https://shows.banklesshq.com/p/optimism-base-superchain-_-with-ben"/>
+        <updated>2023-02-25T11:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (53 min) | The Superchain vision]]></summary>
+        <author>
+            <name>David Freiburger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Alpha: Earn 30% Annualized with Leveraged ETH Vaults by Notional Finance]]></title>
         <id>https://thedefiant.io/defi-alpha-notional-leveraged-eth-vaults/</id>
@@ -1168,16 +1178,6 @@ Information on Listings]]></summary>
         <link href="https://shows.banklesshq.com/p/debrief-punk6529"/>
         <updated>2023-02-06T21:25:43.000Z</updated>
         <summary type="html"><![CDATA[Listen now (24 min) | Ryan and David debrief the recent Punk6529 episode.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[158 - You're Not Bullish Enough on NFTs with Punk6529]]></title>
-        <id>https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough</id>
-        <link href="https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough"/>
-        <updated>2023-02-06T21:25:32.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (81 min) | Why they're inevitable and will shape the arc of history]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>

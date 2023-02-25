@@ -1081,6 +1081,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/optimism-base-superchain-_-with-ben",
+          "author": "David Freiburger",
+          "description": "Listen now (53 min) | The Superchain vision",
+          "link": "https://shows.banklesshq.com/p/optimism-base-superchain-_-with-ben",
+          "publishedOn": "2023-02-25T11:30:12.000Z",
+          "wordCount": null,
+          "title": "Optimism Base Superchain 🔵_🔴 with Ben Jones, Karl Floersch, & Jing Wang",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/104942082.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/annie-jacobsen-debrief",
           "author": "Ryan Sean Adams",
           "description": "Listen now (23 min) | Ryan and David debrief the recent Annie Jacobsen episode",
@@ -1383,22 +1399,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (81 min) | Why they're inevitable and will shape the arc of history",
-          "link": "https://shows.banklesshq.com/p/early-access-youre-not-bullish-enough",
-          "publishedOn": "2023-02-06T21:25:32.000Z",
-          "wordCount": null,
-          "title": "158 - You're Not Bullish Enough on NFTs with Punk6529",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/101067230.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1439,7 +1439,7 @@
           "description": "Goal:",
           "link": "https://andrecronje.medium.com/fusd-migration-liquidations-a3b09981d708?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-01-29T07:04:46.000Z",
-          "wordCount": 1166,
+          "wordCount": 1162,
           "title": "fUSD migration & liquidations",
           "imageUrl": "https://miro.medium.com/max/1200/0*HygJ6MDFW2Lf3fEs.png"
         }
