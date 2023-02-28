@@ -74,12 +74,22 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/mkr-as-collateral-for-dai-raises-concerns/",
+          "author": "Owen Fernau",
+          "description": "Proposed Change Forms Part Of Co-Founder Rune Christensen’s Controversial\n‘Endgame’ Plan",
+          "link": "https://thedefiant.io/mkr-as-collateral-for-dai-raises-concerns/",
+          "publishedOn": "2023-02-28T06:15:15.000Z",
+          "wordCount": 2223,
+          "title": "MakerDAO’s Plan To Enable MKR As Collateral For DAI Draws Comparisons To UST",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/28021242/MKRCollateralDAI.jpg"
+        },
+        {
           "id": "https://thedefiant.io/zero-knowledge-2023/",
           "author": "Evan Shapiro",
           "description": "A Rundown on the Slew of ZK Developments Coming This Year",
           "link": "https://thedefiant.io/zero-knowledge-2023/",
           "publishedOn": "2023-02-27T20:00:41.000Z",
-          "wordCount": 3507,
+          "wordCount": 3511,
           "title": "The Zero-Knowledge Moment Has Arrived",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/27154929/ZK2023.jpg"
         },
@@ -149,7 +159,7 @@
           "description": "No. 1 DEX Makes a Move as NFT Market Heats Up",
           "link": "https://thedefiant.io/uniswap-erc-20-nfts/",
           "publishedOn": "2023-02-24T12:21:05.000Z",
-          "wordCount": 1265,
+          "wordCount": 1269,
           "title": "Uniswap Builds Out NFT Offering With ERC-20 Payments",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/27135233/UniNFTSpaywithERC20.jpg"
         },
@@ -169,7 +179,7 @@
           "description": "Founder Alex Bania Says Orb to Be Released in First Half of 2023",
           "link": "https://thedefiant.io/worldcoin-ai-privacy-orb/",
           "publishedOn": "2023-02-24T11:16:53.000Z",
-          "wordCount": 3044,
+          "wordCount": 3048,
           "title": "Worldcoin Edges Closer to AI-Driven Crypto Identity Device",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/24070154/WorldCoinPonderingORB.jpg"
         },
@@ -969,7 +979,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/optimism-surges-bedrock-upgrade/",
           "publishedOn": "2023-02-04T05:31:39.000Z",
-          "wordCount": 1648,
+          "wordCount": 1644,
           "title": "OP Hits Fresh Highs After Foundation Unveils ‘Bedrock’ Upgrade",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/04011331/OPBedrockBUSD-1.jpg"
         },
@@ -1062,16 +1072,6 @@
           "wordCount": 658,
           "title": "Your Guide to Arbitrum in 2023",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/08034157/arb2023.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/olympus-to-deposit-77m-in-maker/",
-          "author": "Owen Fernau",
-          "description": "DAI Savings Rate Was Increased To 1% In December",
-          "link": "https://thedefiant.io/olympus-to-deposit-77m-in-maker/",
-          "publishedOn": "2023-02-02T05:23:36.000Z",
-          "wordCount": 2052,
-          "title": "OlympusDAO Votes To Deposit $77M In MakerDAO",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/02012220/OlympusDepositMaker.jpg"
         }
       ]
     },
