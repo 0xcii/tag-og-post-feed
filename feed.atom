@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-28T17:14:02.466Z</id>
+    <id>urn:2023-02-28T18:18:33.605Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-28T17:14:02.466Z</updated>
+    <updated>2023-02-28T18:18:33.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ledger CTO on How NOT to Lose Your Crypto]]></title>
+        <id>https://shows.banklesshq.com/p/ledger-cto-on-how-not-to-lose-your</id>
+        <link href="https://shows.banklesshq.com/p/ledger-cto-on-how-not-to-lose-your"/>
+        <updated>2023-02-28T18:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (78 min) | Understand crypto security before it's too late]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism Challenges Aribitrum with ‘Superchain’]]></title>
         <id>https://thedefiant.io/daily-defiant-optimism-arbitrum-layer-2-war/</id>
@@ -1262,16 +1272,6 @@ Information on Listings]]></summary>
         <summary type="html"><![CDATA[Optimism 2023]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEBRIEF - You're Not Bullish Enough on NFTs]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-punk6529</id>
-        <link href="https://shows.banklesshq.com/p/debrief-punk6529"/>
-        <updated>2023-02-06T21:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (24 min) | Ryan and David debrief the recent Punk6529 episode.]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
     <entry>
