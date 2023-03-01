@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T22:13:57.415Z</id>
+    <id>urn:2023-03-01T23:15:03.292Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T22:13:57.415Z</updated>
+    <updated>2023-03-01T23:15:03.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1443,16 +1443,6 @@ Network]]></summary>
         <summary type="html"><![CDATA[I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - SUDO Token Live, Camelot x Redacted Cartel, GLP Strategies, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-sudo-token-live-camelot</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-sudo-token-live-camelot"/>
-        <updated>2023-01-31T10:33:57.000Z</updated>
-        <summary type="html"><![CDATA[SUDO Token Live Sudoswap launches its governance token, enabling lockdrop, airdrop, and governance participation. SUDO is initially non-transferable, and the transferability will be enabled by a governance vote. Camelot x Redacted Cartel Arbitrum-based DEX Camelot announces partnership with Redacted Cartel.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
