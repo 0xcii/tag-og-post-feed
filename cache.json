@@ -58,6 +58,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/vitalik-hitzig-weyl-metalabel/",
+          "author": "Owen Fernau",
+          "description": "Creator Platform Is Co-led By Kickstarter Founder Yancey Strickler",
+          "link": "https://thedefiant.io/vitalik-hitzig-weyl-metalabel/",
+          "publishedOn": "2023-03-01T17:09:10.000Z",
+          "wordCount": 1791,
+          "title": "Vitalik, Hitzig and Weyl Drop Metalabel Collection",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/01130759/MetalabelQFButerinWeylHitzig.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/maker-reactivates-aave-d3m/",
+          "author": "Samuel Haig",
+          "description": "Originally Launched In April 2021, D3M Was Shuttered Amid Bear Market",
+          "link": "https://thedefiant.io/maker-reactivates-aave-d3m/",
+          "publishedOn": "2023-03-01T16:56:47.000Z",
+          "wordCount": 1319,
+          "title": "MakerDAO Reactivates Aave Deposit Module As DeFi Markets Recover",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/01125532/d3M.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/bitcoin-com-paying-up-to-290-apy-on-farms/",
+          "author": "Graham Stone",
+          "description": "Newly Launched “Real Yield” Token Gives Upside of OG Crypto Platform",
+          "link": "https://thedefiant.io/bitcoin-com-paying-up-to-290-apy-on-farms/",
+          "publishedOn": "2023-03-01T12:00:32.000Z",
+          "wordCount": 2241,
+          "title": "Bitcoin.com Paying Up To 290% APY On Farms [SPONSORED]",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/01080017/Bitcoin.com-Paying-Up-To-290-APY-On-Farms.png"
+        },
+        {
           "id": "https://thedefiant.io/oasis-reverse-exploit-patch/",
           "author": "Aleksandar Gilbert",
           "description": "Company Wrestles With Balance Between DeFi Ethos and Protecting Users",
@@ -1026,36 +1056,6 @@
           "wordCount": 1118,
           "title": "OP Hits Fresh Highs After Foundation Unveils ‘Bedrock’ Upgrade",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/04005310/OPBedrockBUSD.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/what-is-idex/",
-          "author": "Rahul Nambiampurath",
-          "description": "A Primer on a Hybrid DeFi-CeFi Exchange",
-          "link": "https://thedefiant.io/what-is-idex/",
-          "publishedOn": "2023-02-03T22:24:52.000Z",
-          "wordCount": 2507,
-          "title": "What is IDEX?",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/26064804/WhatIsIDEX.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/makerdao-14m-climate-change/",
-          "author": "Samuel Haig",
-          "description": "Pregame Constitution Seeks To Allocate 20,000 MKR To Scientific Sustainability\nFund",
-          "link": "https://thedefiant.io/makerdao-14m-climate-change/",
-          "publishedOn": "2023-02-03T22:22:04.000Z",
-          "wordCount": 1597,
-          "title": "MakerDAO Founder Wants $14M To Fight Climate Change",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/03182051/Rune20kMKR.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/nftfi-record-loans/",
-          "author": "Owen Fernau",
-          "description": "Nearly 18,000 ETH Borrowed In January",
-          "link": "https://thedefiant.io/nftfi-record-loans/",
-          "publishedOn": "2023-02-03T21:36:24.000Z",
-          "wordCount": 1316,
-          "title": "NFTfi Processes Record Number Of Loans In January",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/03173313/NFTfiUP.jpg"
         }
       ]
     },
