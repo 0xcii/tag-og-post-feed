@@ -20,22 +20,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bb12acb-10fb-4203-b735-82c919ff8319_1500x799.png"
-        },
-        {
-          "id": "https://phdcapital.substack.com/p/we-like-the-stark",
-          "author": "PHD Capital",
-          "description": "A Deepdive into Everything StarkWare",
-          "link": "https://phdcapital.substack.com/p/we-like-the-stark",
-          "publishedOn": "2023-01-30T19:49:34.000Z",
-          "wordCount": null,
-          "title": "\"We Like the Stark\"",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F008f8229-6249-4209-b9e4-5d0b3e3e68c1_2500x1406.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F008f8229-6249-4209-b9e4-5d0b3e3e68c1_2500x1406.jpeg"
         }
       ]
     },
@@ -73,6 +57,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/oasis-reverse-exploit-patch/",
+          "author": "Aleksandar Gilbert",
+          "description": "Company Wrestles With Balance Between DeFi Ethos and Protecting Users",
+          "link": "https://thedefiant.io/oasis-reverse-exploit-patch/",
+          "publishedOn": "2023-03-01T07:49:13.000Z",
+          "wordCount": 2394,
+          "title": "Oasis To Patch Vulnerability That Allowed It To Recover $150M Of Stolen Crypto",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/01034739/OasisReverseExploitPatch.jpg"
+        },
         {
           "id": "https://thedefiant.io/daily-defiant-optimism-arbitrum-layer-2-war/",
           "author": "The Defiant Team",
@@ -1062,16 +1056,6 @@
           "wordCount": 1318,
           "title": "NFTfi Processes Record Number Of Loans In January",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/03173313/NFTfiUP.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/crypto-rallies-after-no-surprises-from-fed/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we are covering today!",
-          "link": "https://thedefiant.io/crypto-rallies-after-no-surprises-from-fed/",
-          "publishedOn": "2023-02-03T06:22:00.000Z",
-          "wordCount": 1087,
-          "title": "Crypto Rally Gains Steam After Fed Sticks To Plan",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/03021324/OlympusDepositMaker-1.jpg"
         }
       ]
     },

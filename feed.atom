@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T07:13:43.652Z</id>
+    <id>urn:2023-03-01T08:19:48.251Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T07:13:43.652Z</updated>
+    <updated>2023-03-01T08:19:48.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Oasis To Patch Vulnerability That Allowed It To Recover $150M Of Stolen Crypto]]></title>
+        <id>https://thedefiant.io/oasis-reverse-exploit-patch/</id>
+        <link href="https://thedefiant.io/oasis-reverse-exploit-patch/"/>
+        <updated>2023-03-01T07:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Company Wrestles With Balance Between DeFi Ethos and Protecting Users]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ledger CTO on How NOT to Lose Your Crypto]]></title>
         <id>https://shows.banklesshq.com/p/ledger-cto-on-how-not-to-lose-your</id>
@@ -1388,16 +1398,6 @@ Fund]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Rally Gains Steam After Fed Sticks To Plan]]></title>
-        <id>https://thedefiant.io/crypto-rallies-after-no-surprises-from-fed/</id>
-        <link href="https://thedefiant.io/crypto-rallies-after-no-surprises-from-fed/"/>
-        <updated>2023-02-03T06:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Optimism Bedrock Coming, Pirex for GMX Live, Interest Rate Derivatives, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-coming</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-coming"/>
@@ -1445,16 +1445,6 @@ Fund]]></summary>
         <summary type="html"><![CDATA[SUDO Token Live Sudoswap launches its governance token, enabling lockdrop, airdrop, and governance participation. SUDO is initially non-transferable, and the transferability will be enabled by a governance vote. Camelot x Redacted Cartel Arbitrum-based DEX Camelot announces partnership with Redacted Cartel.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["We Like the Stark"]]></title>
-        <id>https://phdcapital.substack.com/p/we-like-the-stark</id>
-        <link href="https://phdcapital.substack.com/p/we-like-the-stark"/>
-        <updated>2023-01-30T19:49:34.000Z</updated>
-        <summary type="html"><![CDATA[A Deepdive into Everything StarkWare]]></summary>
-        <author>
-            <name>PHD Capital</name>
         </author>
     </entry>
 </feed>
