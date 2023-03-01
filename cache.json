@@ -58,16 +58,6 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
-          "id": "https://thedefiant.io/bitcoin-com-paying-up-to-212-apy-on-farms/",
-          "author": "Graham Stone",
-          "description": "Newly Launched “Real Yield” Token Gives Upside of OG Crypto Platform",
-          "link": "https://thedefiant.io/bitcoin-com-paying-up-to-212-apy-on-farms/",
-          "publishedOn": "2023-03-01T11:27:04.000Z",
-          "wordCount": 2245,
-          "title": "Bitcoin.com Paying Up To 212% APY On Farms [SPONSORED]",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/01072052/Bitcoin.com-Paying-Up-To-212-APY-On-Farms.png"
-        },
-        {
           "id": "https://thedefiant.io/oasis-reverse-exploit-patch/",
           "author": "Aleksandar Gilbert",
           "description": "Company Wrestles With Balance Between DeFi Ethos and Protecting Users",
@@ -1056,6 +1046,16 @@
           "wordCount": 1599,
           "title": "MakerDAO Founder Wants $14M To Fight Climate Change",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/03182051/Rune20kMKR.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/nftfi-record-loans/",
+          "author": "Owen Fernau",
+          "description": "Nearly 18,000 ETH Borrowed In January",
+          "link": "https://thedefiant.io/nftfi-record-loans/",
+          "publishedOn": "2023-02-03T21:36:24.000Z",
+          "wordCount": 1318,
+          "title": "NFTfi Processes Record Number Of Loans In January",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/03173313/NFTfiUP.jpg"
         }
       ]
     },
@@ -1424,6 +1424,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-coinbase-l2-storj",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Feb 20th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-coinbase-l2-storj",
+          "publishedOn": "2023-03-01T12:44:57.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Coinbase L2, Storj Next, STG Token Migration, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30c11dfe-6d77-466e-8f34-a870fb5b1336_1140x570.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30c11dfe-6d77-466e-8f34-a870fb5b1336_1140x570.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-coinbase-l2-synthetix",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
