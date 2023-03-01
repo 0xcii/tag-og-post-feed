@@ -58,6 +58,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/daily-defiant-oasis-patch-vulnerability/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/daily-defiant-oasis-patch-vulnerability/",
+          "publishedOn": "2023-03-01T20:28:46.000Z",
+          "wordCount": 1643,
+          "title": "Oasis To Patch Vulnerability That Allowed It To Recover $150M Of Stolen Crypto",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/01034739/OasisReverseExploitPatch.jpg"
+        },
+        {
           "id": "https://thedefiant.io/yuga-labs-golden-key-1000-eth-sale/",
           "author": "Aleksandar Gilbert",
           "description": "Yuga Labs Jumps Into Bitcoin NFT Market",
@@ -1046,16 +1056,6 @@
           "wordCount": 542,
           "title": "DeFi Alpha:  Provide Liquidity On Connext To Earn Yield And A Potential NEXT Airdrop",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
-        },
-        {
-          "id": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-88/",
-          "author": "The Defiant Team",
-          "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
-          "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-88/",
-          "publishedOn": "2023-02-04T17:04:44.000Z",
-          "wordCount": 491,
-          "title": "📬 Inbox Dump #88",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
         }
       ]
     },
