@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T21:13:00.384Z</id>
+    <id>urn:2023-03-02T22:12:52.148Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-02T21:13:00.384Z</updated>
+    <updated>2023-03-02T22:12:52.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana To Focus On Stability In 2023 After Repeated Outages]]></title>
+        <id>https://thedefiant.io/solana-focus-stability-2023/</id>
+        <link href="https://thedefiant.io/solana-focus-stability-2023/"/>
+        <updated>2023-03-02T20:41:24.000Z</updated>
+        <summary type="html"><![CDATA[A Third Of Solana Labs Developers To Work On ‘Adversarial Team’]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Users May Soon Be Able To Retrieve Lost Private Keys]]></title>
         <id>https://thedefiant.io/ethereum-account-abstraction-erc-4337/</id>
@@ -1386,16 +1396,6 @@ Information on Listings]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MakerDAO Defies Bear With $19M in Profit]]></title>
-        <id>https://thedefiant.io/makerdao-earnings/</id>
-        <link href="https://thedefiant.io/makerdao-earnings/"/>
-        <updated>2023-02-06T10:57:34.000Z</updated>
-        <summary type="html"><![CDATA[DeFi Lender Takes 42% Hit to Top Line But Stays in the Black With RWA Strategy]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Ethereum Zhejiang Live, Uniswap Governance Drama, Optimism Bedrock Coming, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-ethereum-zhejiang</id>
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-ethereum-zhejiang"/>
@@ -1421,16 +1421,6 @@ Information on Listings]]></summary>
         <link href="https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-coming"/>
         <updated>2023-02-02T08:23:03.000Z</updated>
         <summary type="html"><![CDATA[Optimism Bedrock Coming Optimism Foundation proposed Bedrock, the next upgrade to Optimism that will bring improvements to the network including transaction costs, throughput characteristics, and sync speeds. Pirex for GMX Live Redacted Cartel launches Pirex for GMX (liquid wrapper for staked GMX and staked GLP). Users are now able to deposit GMX and/or GLP and receive either pxGMX or pxGLP that earn yield as if the underlying tokens were max staked on GMX natively.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Lyra Newport Live, Mars Hub Deployed, Earn on Options, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-lyra-newport-live-mars"/>
-        <updated>2023-02-01T09:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Lyra Newport Live on Arbitrum Optimism-based options protocol Lyra launches Newport on Arbitrum. This upgrade enables cash collateral, tighter spreads, and a modular design. Check our premium guide below on how to earn rewards with Lyra. Mars Hub Deployed on Osmosis]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
