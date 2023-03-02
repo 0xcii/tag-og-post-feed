@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T22:12:52.148Z</id>
+    <id>urn:2023-03-02T23:15:21.602Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-02T22:12:52.148Z</updated>
+    <updated>2023-03-02T23:15:21.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Curve Ball]]></title>
+        <id>https://medium.com/p/c9866f34555</id>
+        <link href="https://cryptohayes.medium.com/curve-ball-c9866f34555?source=rss-2f6e06954878------2"/>
+        <updated>2023-03-02T23:01:32.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Users May Soon Be Able To Retrieve Lost Private Keys]]></title>
+        <id>https://thedefiant.io/defi-daily-ethereum-account-abstraction-live/</id>
+        <link href="https://thedefiant.io/defi-daily-ethereum-account-abstraction-live/"/>
+        <updated>2023-03-02T22:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameFi Picks Up Steam As It Looks To Go Mainstream]]></title>
+        <id>https://thedefiant.io/gamefi-picks-up-steam/</id>
+        <link href="https://thedefiant.io/gamefi-picks-up-steam/"/>
+        <updated>2023-03-02T21:49:01.000Z</updated>
+        <summary type="html"><![CDATA[PRIME, HyperPay and ‘Undead Blocks’ Debuted This Week]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana To Focus On Stability In 2023 After Repeated Outages]]></title>
         <id>https://thedefiant.io/solana-focus-stability-2023/</id>
@@ -1373,26 +1403,6 @@ Information on Listings]]></summary>
         <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Opens Door for Lido Rewards Across Three Networks]]></title>
-        <id>https://thedefiant.io/lido-aave-staking-rewards/</id>
-        <link href="https://thedefiant.io/lido-aave-staking-rewards/"/>
-        <updated>2023-02-07T09:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Lido Has Skyrocketed 58% in Last 30 Days as LSD Story Picks up Mojo]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Guide to Optimism in 2023]]></title>
-        <id>https://thedefiant.io/your-guide-to-optimism-in-2023/</id>
-        <link href="https://thedefiant.io/your-guide-to-optimism-in-2023/"/>
-        <updated>2023-02-07T07:42:49.000Z</updated>
-        <summary type="html"><![CDATA[Optimism 2023]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
