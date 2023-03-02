@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T16:20:44.576Z</id>
+    <id>urn:2023-03-02T17:13:58.082Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-02T16:20:44.576Z</updated>
+    <updated>2023-03-02T17:13:58.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1441,16 +1441,6 @@ Network]]></summary>
         <link href="https://andrecronje.medium.com/the-death-of-defi-rwa-31821c288341?source=rss-34f4446c6ba1------2"/>
         <updated>2023-02-01T05:26:38.000Z</updated>
         <summary type="html"><![CDATA[Background]]></summary>
-        <author>
-            <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrations of a Dapp developer]]></title>
-        <id>https://medium.com/p/35701700e325</id>
-        <link href="https://andrecronje.medium.com/frustrations-of-a-dapp-developer-35701700e325?source=rss-34f4446c6ba1------2"/>
-        <updated>2023-02-01T04:55:32.000Z</updated>
-        <summary type="html"><![CDATA[I’ve spent years developing Dapps. Building is an incredibly fulfilling journey, however, it comes with frustrations. This article will…]]></summary>
         <author>
             <name>Andre Cronje</name>
         </author>
