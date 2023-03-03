@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T06:19:02.368Z</id>
+    <id>urn:2023-03-03T07:13:49.901Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T06:19:02.368Z</updated>
+    <updated>2023-03-03T07:13:49.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DEBRIEF - The Smart Money is Here]]></title>
+        <id>https://shows.banklesshq.com/p/debrief-eric-peters</id>
+        <link href="https://shows.banklesshq.com/p/debrief-eric-peters"/>
+        <updated>2023-03-03T06:41:03.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (23 min) | Ryan and David debrief the recent Eric Peters episode]]></summary>
+        <author>
+            <name>Ryan Sean Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EARLY ACCESS - The Smart Money is Here with Eric Peters]]></title>
+        <id>https://shows.banklesshq.com/p/early-access-the-smart-money-is-here</id>
+        <link href="https://shows.banklesshq.com/p/early-access-the-smart-money-is-here"/>
+        <updated>2023-03-03T06:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (83 min) | Are the institutions headed for the hills?]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unstoppable Domains Founder Unpacks Digital Identity in Web 3]]></title>
+        <id>https://thedefiant.io/unstoppable-domains-founder-unpacks-digital-identity-in-web-3/</id>
+        <link href="https://thedefiant.io/unstoppable-domains-founder-unpacks-digital-identity-in-web-3/"/>
+        <updated>2023-03-03T06:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Web3 Digital Identity]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curve Ball]]></title>
         <id>https://medium.com/p/c9866f34555</id>
@@ -1225,16 +1255,6 @@ Staking-as-a-Service]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's going on with Canto?]]></title>
-        <id>https://shows.banklesshq.com/p/whats-going-on-with-canto</id>
-        <link href="https://shows.banklesshq.com/p/whats-going-on-with-canto"/>
-        <updated>2023-02-09T10:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (62 min) | Up 500% in 30 Days... in a bear market! What's the deal here?]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DeFi Community Strives to Raise Aid for Quake Victims]]></title>
         <id>https://thedefiant.io/dao-earthquake-victims-aid/</id>
         <link href="https://thedefiant.io/dao-earthquake-victims-aid/"/>
@@ -1336,16 +1356,6 @@ Information on Listings]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFTs Attacking Bitcoin? with Eric Wall & Casey Rodarmor]]></title>
-        <id>https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric</id>
-        <link href="https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric"/>
-        <updated>2023-02-07T19:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (68 min) | What it means for Bitcoin's future]]></summary>
-        <author>
-            <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Aave Opens Door to Lido Rewards]]></title>
         <id>https://thedefiant.io/daily-defiant-makerdao/</id>
         <link href="https://thedefiant.io/daily-defiant-makerdao/"/>
@@ -1373,16 +1383,6 @@ Information on Listings]]></summary>
         <summary type="html"><![CDATA[‎‎‎‎‎‎‎‎ㅤ]]></summary>
         <author>
             <name>ConsenSys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Solver’ Hacks CoW Swap]]></title>
-        <id>https://thedefiant.io/market-maker-hacks-cow-swap/</id>
-        <link href="https://thedefiant.io/market-maker-hacks-cow-swap/"/>
-        <updated>2023-02-07T11:29:38.000Z</updated>
-        <summary type="html"><![CDATA[DEX Says a ‘Solver’ Perpetrated the Heist and Customer Funds Are Safe]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>

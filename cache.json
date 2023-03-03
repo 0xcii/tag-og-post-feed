@@ -34,7 +34,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/curve-ball-c9866f34555?source=rss-2f6e06954878------2",
           "publishedOn": "2023-03-02T23:01:32.000Z",
-          "wordCount": 12609,
+          "wordCount": 12414,
           "title": "Curve Ball",
           "imageUrl": "https://miro.medium.com/max/400/0*003jTZhr9nW5te7H"
         },
@@ -67,6 +67,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/unstoppable-domains-founder-unpacks-digital-identity-in-web-3/",
+          "author": "Camila Russo",
+          "description": "Web3 Digital Identity",
+          "link": "https://thedefiant.io/unstoppable-domains-founder-unpacks-digital-identity-in-web-3/",
+          "publishedOn": "2023-03-03T06:26:49.000Z",
+          "wordCount": 657,
+          "title": "Unstoppable Domains Founder Unpacks Digital Identity in Web 3",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/03022611/Unstoppable-Domains-Founder-Unpacks-Digital-Identity-in-Web-3.jpg"
+        },
         {
           "id": "https://thedefiant.io/defi-daily-ethereum-account-abstraction-live/",
           "author": "The Defiant Team",
@@ -383,7 +393,7 @@
           "description": "Synthetix Perps on Optimism boasts low fees and 23 new markets",
           "link": "https://thedefiant.io/synthetix-perps-powering-decentralized-perpetual-futures-markets/",
           "publishedOn": "2023-02-24T05:48:22.000Z",
-          "wordCount": 1648,
+          "wordCount": 1647,
           "title": "[SPONSORED] Synthetix Perps: Powering decentralized perpetual futures markets",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/24014733/Synthetix-Perps-Powering-decentralized-perpetual-futures-markets.png"
         },
@@ -1056,16 +1066,6 @@
           "wordCount": 2854,
           "title": "[SPONSORED] MetaMask Learn: Navigate Web3 Like a Fox",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/07034643/MetaMask-Learn-Navigate-Web3-Like-a-Fox.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/market-maker-hacks-cow-swap/",
-          "author": "Samuel Haig",
-          "description": "DEX Says a ‘Solver’ Perpetrated the Heist and Customer Funds Are Safe",
-          "link": "https://thedefiant.io/market-maker-hacks-cow-swap/",
-          "publishedOn": "2023-02-07T11:29:38.000Z",
-          "wordCount": 1674,
-          "title": "‘Solver’ Hacks CoW Swap",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/19024334/MoreHacksAndScams.jpg"
         }
       ]
     },
@@ -1074,6 +1074,38 @@
       "feedUrl": "https://shows.banklesshq.com/feed",
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
+        {
+          "id": "https://shows.banklesshq.com/p/debrief-eric-peters",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (23 min) | Ryan and David debrief the recent Eric Peters episode",
+          "link": "https://shows.banklesshq.com/p/debrief-eric-peters",
+          "publishedOn": "2023-03-03T06:41:03.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - The Smart Money is Here",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/106156011.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-the-smart-money-is-here",
+          "author": "David Hoffman",
+          "description": "Listen now (83 min) | Are the institutions headed for the hills?",
+          "link": "https://shows.banklesshq.com/p/early-access-the-smart-money-is-here",
+          "publishedOn": "2023-03-03T06:40:45.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - The Smart Money is Here with Eric Peters",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/106155198.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://shows.banklesshq.com/p/ledger-cto-on-how-not-to-lose-your",
           "author": "Ryan Sean Adams",
@@ -1357,38 +1389,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/101813889.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/whats-going-on-with-canto",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (62 min) | Up 500% in 30 Days... in a bear market! What's the deal here?",
-          "link": "https://shows.banklesshq.com/p/whats-going-on-with-canto",
-          "publishedOn": "2023-02-09T10:40:03.000Z",
-          "wordCount": null,
-          "title": "What's going on with Canto?",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/101828279.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric",
-          "author": "David Hoffman",
-          "description": "Listen now (68 min) | What it means for Bitcoin's future",
-          "link": "https://shows.banklesshq.com/p/nfts-attacking-bitcoin-with-eric",
-          "publishedOn": "2023-02-07T19:00:42.000Z",
-          "wordCount": null,
-          "title": "NFTs Attacking Bitcoin? with Eric Wall & Casey Rodarmor",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/101294297.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
