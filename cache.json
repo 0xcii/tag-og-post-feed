@@ -1075,6 +1075,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/rollup-silvergate-trouble-metamask",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (77 min) | 2nd Week of March 2023",
+          "link": "https://shows.banklesshq.com/p/rollup-silvergate-trouble-metamask",
+          "publishedOn": "2023-03-03T10:30:41.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Silvergate Trouble | MetaMask & Unity | Robinhood Mobile Wallet | ETHDenver 2023 | Bankless Ventures",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/106106522.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/debrief-eric-peters",
           "author": "Ryan Sean Adams",
           "description": "Listen now (23 min) | Ryan and David debrief the recent Eric Peters episode",
@@ -1373,22 +1389,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/102009995.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1",
-          "author": "David Hoffman",
-          "description": "Listen now (99 min) | StarkWare Founders, Account Abstraction, Smart Contract Wallets, and Governance",
-          "link": "https://shows.banklesshq.com/p/the-starkware-sessions-episodes-1",
-          "publishedOn": "2023-02-09T12:45:42.000Z",
-          "wordCount": null,
-          "title": "The StarkWare Sessions | Episodes #1-4",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/101813889.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
