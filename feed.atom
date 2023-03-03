@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T07:13:49.901Z</id>
+    <id>urn:2023-03-03T08:18:30.308Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T07:13:49.901Z</updated>
+    <updated>2023-03-03T08:18:30.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -23,16 +23,6 @@
         <summary type="html"><![CDATA[Listen now (83 min) | Are the institutions headed for the hills?]]></summary>
         <author>
             <name>David Hoffman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unstoppable Domains Founder Unpacks Digital Identity in Web 3]]></title>
-        <id>https://thedefiant.io/unstoppable-domains-founder-unpacks-digital-identity-in-web-3/</id>
-        <link href="https://thedefiant.io/unstoppable-domains-founder-unpacks-digital-identity-in-web-3/"/>
-        <updated>2023-03-03T06:26:49.000Z</updated>
-        <summary type="html"><![CDATA[Web3 Digital Identity]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -93,6 +83,26 @@
         <summary type="html"><![CDATA[Reserve eUSD Live Reserve launches Electronic Dollar (eUSD) on Ethereum and the MobileCoin chain. eUSD is backed by a basket of stablecoin derivatives (cUSDC, cUSDT, aUSDC, aUSDT) using Compound and Aave, and 100% of the yield that eUSD generates is directed to RSR stakers]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameFi is just getting started]]></title>
+        <id>https://thedefiant.io/gamefi-is-just-getting-started/</id>
+        <link href="https://thedefiant.io/gamefi-is-just-getting-started/"/>
+        <updated>2023-03-02T06:43:34.000Z</updated>
+        <summary type="html"><![CDATA[Kill to earn?]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unstoppable Domains Founder Unpacks Digital Identity in Web 3]]></title>
+        <id>https://thedefiant.io/unstoppable-domains-founder-unpacks-digital-identity-in-web-3/</id>
+        <link href="https://thedefiant.io/unstoppable-domains-founder-unpacks-digital-identity-in-web-3/"/>
+        <updated>2023-03-02T06:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Web3 Digital Identity]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -184,6 +194,16 @@ blockchains]]></summary>
         <summary type="html"><![CDATA[Company Wrestles With Balance Between DeFi Ethos and Protecting Users]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oasis Rugs The Rugger, But How?]]></title>
+        <id>https://thedefiant.io/oasis-rugs-the-rugger-but-how/</id>
+        <link href="https://thedefiant.io/oasis-rugs-the-rugger-but-how/"/>
+        <updated>2023-03-01T06:37:31.000Z</updated>
+        <summary type="html"><![CDATA[$218M Reverse Hack!?]]></summary>
+        <author>
+            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
@@ -448,6 +468,16 @@ With Regulators]]></summary>
         <summary type="html"><![CDATA[DeFi Summer 2023 – Part 2]]></summary>
         <author>
             <name>Tegan Kline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Crypto Trends in 2023]]></title>
+        <id>https://thedefiant.io/upcoming-crypto-trends-in-2023/</id>
+        <link href="https://thedefiant.io/upcoming-crypto-trends-in-2023/"/>
+        <updated>2023-02-24T06:28:03.000Z</updated>
+        <summary type="html"><![CDATA[What’s in store for 2023]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>
@@ -1353,36 +1383,6 @@ Information on Listings]]></summary>
         <summary type="html"><![CDATA[GRT’s Performance Evokes Heady Days of Bull Market Amid AI-Token Rally]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Opens Door to Lido Rewards]]></title>
-        <id>https://thedefiant.io/daily-defiant-makerdao/</id>
-        <link href="https://thedefiant.io/daily-defiant-makerdao/"/>
-        <updated>2023-02-07T14:07:45.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum to Let Devs Work in Traditional Programming Languages]]></title>
-        <id>https://thedefiant.io/aribitrum-new-computing-language/</id>
-        <link href="https://thedefiant.io/aribitrum-new-computing-language/"/>
-        <updated>2023-02-07T14:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Stylus Initiative Enables Devs to Deploy Apps on Leading Layer 2]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPONSORED] MetaMask Learn: Navigate Web3 Like a Fox]]></title>
-        <id>https://thedefiant.io/metamask-learn-navigate-web3-like-a-fox/</id>
-        <link href="https://thedefiant.io/metamask-learn-navigate-web3-like-a-fox/"/>
-        <updated>2023-02-07T11:55:00.000Z</updated>
-        <summary type="html"><![CDATA[‎‎‎‎‎‎‎‎ㅤ]]></summary>
-        <author>
-            <name>ConsenSys</name>
         </author>
     </entry>
     <entry>
