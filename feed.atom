@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T20:15:23.315Z</id>
+    <id>urn:2023-03-03T21:11:51.190Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T20:15:23.315Z</updated>
+    <updated>2023-03-03T21:11:51.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1432,16 +1432,6 @@ Information on Listings]]></summary>
         <link href="https://todayindefi.substack.com/p/today-in-defi-connext-amarok-live"/>
         <updated>2023-02-03T15:06:42.000Z</updated>
         <summary type="html"><![CDATA[Connext Amarok Live Bridging protocol Connext launches Amarok. This upgrade enables developers to build crossrollup apps that directly rely on the security of Ethereum. Users can now access the bridge UI, passively LP for the ecosysteum by depositing USDC & ETH, or actively by running a router.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Optimism Bedrock Coming, Pirex for GMX Live, Interest Rate Derivatives, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-coming</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-coming"/>
-        <updated>2023-02-02T08:23:03.000Z</updated>
-        <summary type="html"><![CDATA[Optimism Bedrock Coming Optimism Foundation proposed Bedrock, the next upgrade to Optimism that will bring improvements to the network including transaction costs, throughput characteristics, and sync speeds. Pirex for GMX Live Redacted Cartel launches Pirex for GMX (liquid wrapper for staked GMX and staked GLP). Users are now able to deposit GMX and/or GLP and receive either pxGMX or pxGLP that earn yield as if the underlying tokens were max staked on GMX natively.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
