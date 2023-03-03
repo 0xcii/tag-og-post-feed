@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T21:11:51.190Z</id>
+    <id>urn:2023-03-03T22:13:56.890Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T21:11:51.190Z</updated>
+    <updated>2023-03-03T22:13:56.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Plunge Amid Silvergate Concerns]]></title>
+        <id>https://thedefiant.io/defi-daily-markets-plunge-silvergate-fears/</id>
+        <link href="https://thedefiant.io/defi-daily-markets-plunge-silvergate-fears/"/>
+        <updated>2023-03-03T21:48:42.000Z</updated>
+        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silvergate Shares Slump 60% in Two Days As Crypto Firms Scramble To Sever Ties]]></title>
+        <id>https://thedefiant.io/silvergate-on-the-ropes/</id>
+        <link href="https://thedefiant.io/silvergate-on-the-ropes/"/>
+        <updated>2023-03-03T21:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Crypto-friendly Bank Says It’s “Less Than Well Capitalized”]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Plunge Amid Silvergate Concerns]]></title>
+        <id>https://thedefiant.io/markets-down-silvergate-concerns/</id>
+        <link href="https://thedefiant.io/markets-down-silvergate-concerns/"/>
+        <updated>2023-03-03T21:07:53.000Z</updated>
+        <summary type="html"><![CDATA[Layer 1 Blockchains Have Rough Week]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Labs Releases Self-Custody Crypto Wallet]]></title>
+        <id>https://thedefiant.io/uniswap-crypto-wallet/</id>
+        <link href="https://thedefiant.io/uniswap-crypto-wallet/"/>
+        <updated>2023-03-03T20:14:29.000Z</updated>
+        <summary type="html"><![CDATA[Leading Decentralized Exchange Continues To Work Towards Becoming One-Stop Shop
+For Crypto]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unstoppable Domains’ Matthew Gould Unpacks Digital Identity in Web3]]></title>
         <id>https://thedefiant.io/podcast-matthew-gould/</id>
@@ -1346,16 +1387,6 @@ Staking-as-a-Service]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Graph’s Token Doubles in 24 Hours]]></title>
-        <id>https://thedefiant.io/the-graphs-token-doubles-in-24-hours/</id>
-        <link href="https://thedefiant.io/the-graphs-token-doubles-in-24-hours/"/>
-        <updated>2023-02-08T13:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Lido V2 Coming, Zhejiang Shapella Live, Social Trading, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-lido-v2-coming-zhejiang"/>
@@ -1363,37 +1394,6 @@ Staking-as-a-Service]]></summary>
         <summary type="html"><![CDATA[Lido V2 Coming Lido introduces V2 which will bring two major upgrades: Staking Router: A new modular architecture that allows anyone (incl. solo stakers) to become a Node Operator. Withdrawals: An upgrade allowing stETH holders to withdraw directly from the Beacon Chain.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devs Test ETH Withdrawals Ahead of Shanghai Upgrade]]></title>
-        <id>https://thedefiant.io/staked-eth-withdrawals-testnet/</id>
-        <link href="https://thedefiant.io/staked-eth-withdrawals-testnet/"/>
-        <updated>2023-02-08T13:02:04.000Z</updated>
-        <summary type="html"><![CDATA[Staked ETH Withdrawals Activated on Zhejiang Testnet]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of PoS: Delving Into the Risk and Promise of a Staked Future]]></title>
-        <id>https://thedefiant.io/state-of-proof-of-stake-report/</id>
-        <link href="https://thedefiant.io/state-of-proof-of-stake-report/"/>
-        <updated>2023-02-08T09:22:17.000Z</updated>
-        <summary type="html"><![CDATA[A Deep Dive Into Consensus on Ethereum, Polkadot, Solana and Avalanche]]></summary>
-        <author>
-            <name>Alberto Guerrero Montilla and Pablo Larguia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Ex-Employee Pleads Guilty to Insider Trading]]></title>
-        <id>https://thedefiant.io/coinbase-insider-trading-2/</id>
-        <link href="https://thedefiant.io/coinbase-insider-trading-2/"/>
-        <updated>2023-02-08T08:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Feds Treating Digital Assets the Same as Stocks When it Comes to Confidential
-Information on Listings]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>
