@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T11:12:39.195Z</id>
+    <id>urn:2023-03-06T12:29:10.785Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-06T11:12:39.195Z</updated>
+    <updated>2023-03-06T12:29:10.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Uniswap Wallet Live, Cross-chain vePENDLE, Alpha Homora Iron Bank Drama, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet"/>
+        <updated>2023-03-06T11:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Feb 27th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📬 Inbox Dump #92]]></title>
         <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-92/</id>
@@ -99,7 +109,7 @@ founder and CEO of Unstoppable Domains.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EARLY ACCESS - The Smart Money is Here with Eric Peters]]></title>
+        <title type="html"><![CDATA[160 - The Smart Money is Here with Eric Peters]]></title>
         <id>https://shows.banklesshq.com/p/early-access-the-smart-money-is-here</id>
         <link href="https://shows.banklesshq.com/p/early-access-the-smart-money-is-here"/>
         <updated>2023-03-03T06:40:45.000Z</updated>
@@ -497,7 +507,7 @@ and founder of Synthetix.]]></summary>
         <id>https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform</id>
         <link href="https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform"/>
         <updated>2023-02-24T11:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (96 min) | 4th Friday of February 2023]]></summary>
+        <summary type="html"><![CDATA[Escucha ahora (96 min) | 4th Friday of February 2023]]></summary>
         <author>
             <name>Ryan Sean Adams</name>
         </author>
