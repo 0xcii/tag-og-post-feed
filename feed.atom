@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T14:14:03.892Z</id>
+    <id>urn:2023-03-07T15:14:43.002Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-07T14:14:03.892Z</updated>
+    <updated>2023-03-07T15:14:43.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - PancakeSwap V3 Coming, MEV on Osmosis, Yields Across Convex and Curve, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-pancakeswap-v3-coming</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-pancakeswap-v3-coming"/>
+        <updated>2023-03-07T14:26:01.000Z</updated>
+        <summary type="html"><![CDATA[PancakeSwap V3 Coming Pancakeswap sets to launch V3 the first week of April. Early and new LPs will be eligible to receive airdrops and an NFT. MEV on Osmosis Osmosis will launch ProtoRev in the upcoming V15 upgrade. ProtoRev is a revenue module that captures MEV as protocol revenue and is expected to generate $10k - $35k per $100m in DEX volume.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rocket Pool To Launch 8 ETH Minipools]]></title>
         <id>https://thedefiant.io/rocket-pool-8eth-minipools/</id>
