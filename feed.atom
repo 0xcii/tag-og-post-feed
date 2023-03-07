@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T23:15:00.389Z</id>
+    <id>urn:2023-03-07T01:19:27.017Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-06T23:15:00.389Z</updated>
+    <updated>2023-03-07T01:19:27.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MolochDAO Reveals ZK-Powered Crypto Mixer]]></title>
+        <id>https://thedefiant.io/molochdao-privacy-pools/</id>
+        <link href="https://thedefiant.io/molochdao-privacy-pools/"/>
+        <updated>2023-03-07T00:43:15.000Z</updated>
+        <summary type="html"><![CDATA[On-Chain Privacy Protocol Includes Compliance Features]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Developers in Conference at the “Wild West” are Warming to Compliance]]></title>
+        <id>https://thedefiant.io/ethereum-developers-in-conference-at-the-wild-west-are-warming-to-compliance/</id>
+        <link href="https://thedefiant.io/ethereum-developers-in-conference-at-the-wild-west-are-warming-to-compliance/"/>
+        <updated>2023-03-06T23:29:55.000Z</updated>
+        <summary type="html"><![CDATA[“Compliance” would seem like an unlikely buzzword at ETHDenver, one of
+Ethereum’s  largest conferences, set literally in the “Wild West.”]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PancakeSwap To Release V3 Iteration In Early April]]></title>
         <id>https://thedefiant.io/pancakeswap-v3-airdrop/</id>
@@ -679,7 +700,7 @@ NFTs]]></summary>
         <id>https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with</id>
         <link href="https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with"/>
         <updated>2023-02-22T23:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Escucha ahora (73 min) | Tune in to hear Jon's controversial(?) arguments]]></summary>
+        <summary type="html"><![CDATA[Listen now (73 min) | Tune in to hear Jon's controversial(?) arguments]]></summary>
         <author>
             <name>David Hoffman</name>
         </author>
@@ -1375,26 +1396,6 @@ Staking-as-a-Service]]></summary>
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Community Strives to Raise Aid for Quake Victims]]></title>
-        <id>https://thedefiant.io/dao-earthquake-victims-aid/</id>
-        <link href="https://thedefiant.io/dao-earthquake-victims-aid/"/>
-        <updated>2023-02-09T09:48:24.000Z</updated>
-        <summary type="html"><![CDATA[DAO Defers to Charity Amid Race to Get Food, Water, and Shelter to Victims]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Dodges Worst of Crypto Layoffs: Report]]></title>
-        <id>https://thedefiant.io/defi-layoffs/</id>
-        <link href="https://thedefiant.io/defi-layoffs/"/>
-        <updated>2023-02-09T09:23:55.000Z</updated>
-        <summary type="html"><![CDATA[CoinGecko Data Shows 2.3% of Industry Layoffs in 2022 Were in DeFi]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
