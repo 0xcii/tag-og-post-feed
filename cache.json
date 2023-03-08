@@ -29,6 +29,16 @@
       "siteUrl": "https://medium.com/@cryptohayes?source=rss-2f6e06954878------2",
       "articles": [
         {
+          "id": "https://medium.com/p/300d4b5cf3ec",
+          "author": "Arthur Hayes",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "link": "https://cryptohayes.medium.com/dust-on-crust-300d4b5cf3ec?source=rss-2f6e06954878------2",
+          "publishedOn": "2023-03-08T23:02:44.000Z",
+          "wordCount": 11556,
+          "title": "Dust on Crust",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*5MusUMRoLBmQu23L"
+        },
+        {
           "id": "https://medium.com/p/c9866f34555",
           "author": "Arthur Hayes",
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
@@ -37,16 +47,6 @@
           "wordCount": 12504,
           "title": "Curve Ball",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*003jTZhr9nW5te7H"
-        },
-        {
-          "id": "https://medium.com/p/aff45d6421b4",
-          "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
-          "link": "https://entrepreneurshandbook.co/be-present-aff45d6421b4?source=rss-2f6e06954878------2",
-          "publishedOn": "2023-02-07T11:02:29.000Z",
-          "wordCount": 6848,
-          "title": "Be Present",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*jskYWo6hs1l0Tlho"
         }
       ]
     },
@@ -67,6 +67,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/defi-daily-celestia-rollkit-bitcoin/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/defi-daily-celestia-rollkit-bitcoin/",
+          "publishedOn": "2023-03-08T22:11:01.000Z",
+          "wordCount": 2236,
+          "title": "Celestia Introduces Bitcoin Rollups With New Framework",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/08164042/BTCRollups.jpg"
+        },
         {
           "id": "https://thedefiant.io/amazon-nft-marketplace-april/",
           "author": "Samuel Haig",
@@ -1056,16 +1066,6 @@
           "wordCount": 1895,
           "title": "Flux Finance Enables Borrowing Against Tokenized Treasury Bonds",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/13161325/fUSDC.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/ny-orders-paxos-to-cease-issuing-binance-usd/",
-          "author": "Samuel Haig",
-          "description": "CZ Says Paxos Will Service BUSD to Manage Redemptions",
-          "link": "https://thedefiant.io/ny-orders-paxos-to-cease-issuing-binance-usd/",
-          "publishedOn": "2023-02-13T11:54:33.000Z",
-          "wordCount": 1581,
-          "title": "NY Orders Paxos to Cease Issuing Binance USD",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/14043811/BUSDSTOPPED.jpg"
         }
       ]
     },
@@ -1684,22 +1684,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/qqgmg1nzeawogovzaaeh"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-trader-joe-integrates",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Trader Joe Integrates LayerZero Trader Joe has integrated with LayerZero, and JOE is now an ‘omnichain fungible token’ (OFT), meaning users can bridge JOE across Avalanche, Arbitrum, BnB, and more chains to be supported. Stargate to Re-Issue STG Stargate",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-trader-joe-integrates",
-          "publishedOn": "2023-02-07T11:13:57.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Trader Joe Integrates LayerZero, Stargate to Re-Issue STG, LP to Earn Funding Rates, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFoRSRhTWIAE7-X1.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFoRSRhTWIAE7-X1.jpg"
         }
       ]
     }
