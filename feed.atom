@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-08T03:21:57.268Z</id>
+    <id>urn:2023-03-08T04:17:47.252Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-08T03:21:57.268Z</updated>
+    <updated>2023-03-08T04:17:47.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap's Wallet Details with Callil Capuozzo, Design Lead at Uniswap Labs]]></title>
+        <id>https://shows.banklesshq.com/p/uniswaps-wallet-details-with-callil</id>
+        <link href="https://shows.banklesshq.com/p/uniswaps-wallet-details-with-callil"/>
+        <updated>2023-03-08T03:28:08.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (56 min) | The future of crypto wallets?]]></summary>
+        <author>
+            <name>David Freiburger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GBTC Shares Jump on Judges’ SEC Skepticism]]></title>
         <id>https://thedefiant.io/gbtc-shares-jump/</id>
@@ -1386,16 +1396,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[Aave GHO on Testnet Aave launched its stablecoin GHO on the Ethereum testnet Goerli. The GHO code has been audited and is available on Github. Silo Live on Arbitrum Lending protocol Silo launched on Arbitrum, initially supporting risk-isolated markets for DPX, UMAMI, and MAGIC.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROLLUP: Operation Choke Point | SEC Crypto Staking Crackdown | Genesis Earn Repayment | a16z Uniswap]]></title>
-        <id>https://shows.banklesshq.com/p/rollup-operation-choke-point-sec</id>
-        <link href="https://shows.banklesshq.com/p/rollup-operation-choke-point-sec"/>
-        <updated>2023-02-10T06:18:43.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (100 min) | 2nd Week of February, 2023]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
         </author>
     </entry>
     <entry>
