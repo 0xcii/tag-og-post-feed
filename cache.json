@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/defi-alpha-customizable-octav-dashboard/",
+          "author": "yyctrader",
+          "description": "Claim $PRIME Tokens If You Hold Parallel Cards",
+          "link": "https://thedefiant.io/defi-alpha-customizable-octav-dashboard/",
+          "publishedOn": "2023-03-08T08:02:09.000Z",
+          "wordCount": 4848,
+          "title": "DeFi Alpha: Track Your DeFi Portfolio Using A Customizable Dashboard By Octav",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
+        },
+        {
           "id": "https://thedefiant.io/us-gov-moves-1b-seized-btc/",
           "author": "Samuel Haig",
           "description": "$217M Coinbase Transfer Could Signal Upcoming Sale",
@@ -1056,16 +1066,6 @@
           "wordCount": 627,
           "title": "Stake This: DeFi Week Feb. 5",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/24002301/weeklyrecap.png"
-        },
-        {
-          "id": "https://thedefiant.io/uniswap-a16z-bnb-bridging/",
-          "author": "Aleksandar Gilbert",
-          "description": "Venture Capital Firm Disagrees With Community Plan For Bridging",
-          "link": "https://thedefiant.io/uniswap-a16z-bnb-bridging/",
-          "publishedOn": "2023-02-10T21:57:43.000Z",
-          "wordCount": 3897,
-          "title": "Threat of Uniswap Replication Triggers Rare Clash With A16Z",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/10174725/a16zUniBNBGovVote.jpg"
         }
       ]
     },
