@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T21:13:24.193Z</id>
+    <id>urn:2023-03-09T22:14:46.656Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-09T21:13:24.193Z</updated>
+    <updated>2023-03-09T22:14:46.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH Crashes 7% After NYAG Calls Ethereum A Security]]></title>
+        <id>https://thedefiant.io/markets-down-nyag-calls-eth-security/</id>
+        <link href="https://thedefiant.io/markets-down-nyag-calls-eth-security/"/>
+        <updated>2023-03-09T21:16:41.000Z</updated>
+        <summary type="html"><![CDATA[Crypto Exchange Kucoin Accused Of Acting As Unlicensed Broker-Dealer]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitcoin Launches gtcETH Index Token To Bolster Funding]]></title>
         <id>https://thedefiant.io/gitcoin-index-coop-gtceth/</id>
@@ -1386,16 +1396,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Crypto Investor is No. 1 Individual Investor in Yield-generating Token]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting started with Vertex Protocol]]></title>
-        <id>https://thedefiant.io/getting-started-with-vertex-protocol/</id>
-        <link href="https://thedefiant.io/getting-started-with-vertex-protocol/"/>
-        <updated>2023-02-14T12:49:18.000Z</updated>
-        <summary type="html"><![CDATA[What is Vertex Protocol?]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
