@@ -243,7 +243,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-markets-plunge-silvergate-fears/",
           "publishedOn": "2023-03-03T21:48:42.000Z",
-          "wordCount": 1435,
+          "wordCount": 1431,
           "title": "Crypto Markets Plunge Amid Silvergate Concerns",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/03170609/MKTsDownSg.jpg"
         },
@@ -553,7 +553,7 @@
           "description": "This week on The Defiant Podcast, Tegan Kline chats with Kain Warwick, crypto OG\nand founder of Synthetix.",
           "link": "https://thedefiant.io/podcast-kain-warwick-defi-summer-2/",
           "publishedOn": "2023-02-24T12:48:07.000Z",
-          "wordCount": 635,
+          "wordCount": 631,
           "title": "Synthetix, DeFi Summer 2, FTX, 3AC and Crystal Meth with Crypto OG Kain Warwick",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/24075718/KainWw169.jpg"
         },
@@ -713,7 +713,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/daily-defiant-bitcoin-stx/",
           "publishedOn": "2023-02-22T13:14:26.000Z",
-          "wordCount": 1540,
+          "wordCount": 1536,
           "title": "STX Doubles as Building-on-Bitcoin Activity Surges",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/22053238/Ordinals.jpg"
         },
@@ -763,7 +763,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/daily-defiant-aave-paxos-maker/",
           "publishedOn": "2023-02-21T13:31:34.000Z",
-          "wordCount": 1525,
+          "wordCount": 1521,
           "title": "DeFi Protocols Pull Back From Paxos",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/21051435/AaveFreezeBUSD.jpg"
         },
@@ -1075,6 +1075,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/polygons-zkevm-with-jordi-baylina",
+          "author": "David Hoffman",
+          "description": "Listen now (15 min) | Interview #4",
+          "link": "https://shows.banklesshq.com/p/polygons-zkevm-with-jordi-baylina",
+          "publishedOn": "2023-03-08T23:30:08.000Z",
+          "wordCount": null,
+          "title": "Polygon’s zkEVM with Jordi Baylina | ETHDenver 2023",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107264597.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/osmosis-labs-with-sunny-aggarwal",
           "author": "David Hoffman",
           "description": "Listen now (13 min) | Interview #3",
@@ -1373,22 +1389,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/103334802.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (93 min) | 3rd Friday of February, 2023",
-          "link": "https://shows.banklesshq.com/p/rollup-sec-staking-krakdown-blur",
-          "publishedOn": "2023-02-17T11:30:58.000Z",
-          "wordCount": null,
-          "title": "ROLLUP: SEC Staking Krakdown | $BLUR Airdrop | SBF’s Bailout Money Source | Ordinals Still Growing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/103452791.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
