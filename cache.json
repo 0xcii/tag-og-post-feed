@@ -34,7 +34,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/dust-on-crust-300d4b5cf3ec?source=rss-2f6e06954878------2",
           "publishedOn": "2023-03-08T23:02:44.000Z",
-          "wordCount": 11556,
+          "wordCount": 11346,
           "title": "Dust on Crust",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*5MusUMRoLBmQu23L"
         },
@@ -67,6 +67,26 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/defi-daily-nyag-calls-ether-a-security/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/defi-daily-nyag-calls-ether-a-security/",
+          "publishedOn": "2023-03-09T22:19:15.000Z",
+          "wordCount": 2411,
+          "title": "Crypto Markets Dive After NYAG Calls Ethereum A Security",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09171538/ETHTanking.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/instadapp-avocado-multi-network-wallet/",
+          "author": "Tarang Khaitan",
+          "description": "Smart Contract Wallet Leverages Account Abstraction and Gas Fees Are Charged In\nUSDC",
+          "link": "https://thedefiant.io/instadapp-avocado-multi-network-wallet/",
+          "publishedOn": "2023-03-09T21:34:33.000Z",
+          "wordCount": 1392,
+          "title": "Instadapp Launches ‘Avocado’ Multi-Blockchain Wallet",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09173420/InstadappAvocado.jpg"
+        },
         {
           "id": "https://thedefiant.io/markets-down-nyag-calls-eth-security/",
           "author": "Aleksandar Gilbert",
@@ -144,7 +164,7 @@
           "link": "https://thedefiant.io/celestia-bitcoin-rollups/",
           "publishedOn": "2023-03-08T20:41:43.000Z",
           "wordCount": 1554,
-          "title": "Celestia Introduces Bitcoin Rollups With New Framework",
+          "title": "Rollkit Introduces Bitcoin Rollups With New Framework",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/08164042/BTCRollups.jpg"
         },
         {
@@ -1046,26 +1066,6 @@
           "wordCount": 1182,
           "title": "NFT Collector Donates Prized On-Chain Art To Museum",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/14174011/MediciLACMADonation.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/hayes-goes-big-on-gmx/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we are covering today!",
-          "link": "https://thedefiant.io/hayes-goes-big-on-gmx/",
-          "publishedOn": "2023-02-14T17:59:07.000Z",
-          "wordCount": 1411,
-          "title": "Hayes Goes Big on GMX",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/14135756/HayesGMX.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/arthur-hayes-likes-gmx/",
-          "author": "Samuel Haig",
-          "description": "Crypto Investor is No. 1 Individual Investor in Yield-generating Token",
-          "link": "https://thedefiant.io/arthur-hayes-likes-gmx/",
-          "publishedOn": "2023-02-14T17:20:34.000Z",
-          "wordCount": 2151,
-          "title": "Hayes Shares Why He Loves GMX and Is Bullish on DeFi",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/14135756/HayesGMX.jpg"
         }
       ]
     },
