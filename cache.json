@@ -34,7 +34,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/dust-on-crust-300d4b5cf3ec?source=rss-2f6e06954878------2",
           "publishedOn": "2023-03-08T23:02:44.000Z",
-          "wordCount": 11556,
+          "wordCount": 11349,
           "title": "Dust on Crust",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*5MusUMRoLBmQu23L"
         },
@@ -1075,6 +1075,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/squid-with-fig-ethdenver-2023",
+          "author": "David Hoffman",
+          "description": "Listen now (10 min) | Interview #5",
+          "link": "https://shows.banklesshq.com/p/squid-with-fig-ethdenver-2023",
+          "publishedOn": "2023-03-09T01:30:58.000Z",
+          "wordCount": null,
+          "title": "Squid with Fig | ETHDenver 2023",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107284126.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/polygons-zkevm-with-jordi-baylina",
           "author": "David Hoffman",
           "description": "Listen now (15 min) | Interview #4",
@@ -1373,22 +1389,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/103213495.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica",
-          "author": "David Hoffman",
-          "description": "Listen now (56 min) | Who's got better crypto regulation and why?",
-          "link": "https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica",
-          "publishedOn": "2023-02-18T11:30:16.000Z",
-          "wordCount": null,
-          "title": "EU Markets in Crypto-Assets (MiCA) with Seth Hertlein, Patrick Hansen, & Rebecca Rettig",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/103334802.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T01:19:13.016Z</id>
+    <id>urn:2023-03-09T02:51:15.500Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-09T01:19:13.016Z</updated>
+    <updated>2023-03-09T02:51:15.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Squid with Fig | ETHDenver 2023]]></title>
+        <id>https://shows.banklesshq.com/p/squid-with-fig-ethdenver-2023</id>
+        <link href="https://shows.banklesshq.com/p/squid-with-fig-ethdenver-2023"/>
+        <updated>2023-03-09T01:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (10 min) | Interview #5]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon’s zkEVM with Jordi Baylina | ETHDenver 2023]]></title>
         <id>https://shows.banklesshq.com/p/polygons-zkevm-with-jordi-baylina</id>
@@ -1071,16 +1081,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[Happy Weekend Defiers! Here’s what we covered this week.]]></summary>
         <author>
             <name>Edward Robinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU Markets in Crypto-Assets (MiCA) with Seth Hertlein, Patrick Hansen, & Rebecca Rettig]]></title>
-        <id>https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica</id>
-        <link href="https://shows.banklesshq.com/p/eu-markets-in-crypto-assets-mica"/>
-        <updated>2023-02-18T11:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (56 min) | Who's got better crypto regulation and why?]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
     <entry>
