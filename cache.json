@@ -34,7 +34,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/dust-on-crust-300d4b5cf3ec?source=rss-2f6e06954878------2",
           "publishedOn": "2023-03-08T23:02:44.000Z",
-          "wordCount": 11556,
+          "wordCount": 11349,
           "title": "Dust on Crust",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*5MusUMRoLBmQu23L"
         },
@@ -1075,6 +1075,22 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/uponly-and-flip-with-brian-krogsgard",
+          "author": "David Hoffman",
+          "description": "Listen now (15 min) | Interview #8",
+          "link": "https://shows.banklesshq.com/p/uponly-and-flip-with-brian-krogsgard",
+          "publishedOn": "2023-03-09T19:01:07.000Z",
+          "wordCount": null,
+          "title": "UpOnly & Flip with Brian Krogsgard (Ledger) | ETHDenver 2023",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107327486.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/arbitrums-stylus-with-steven-goldfeder",
           "author": null,
           "description": "Listen now (13 min) | Interview #7",
@@ -1373,22 +1389,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/104545068.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank",
-          "author": "David Hoffman",
-          "description": "Listen now (68 min) | 3rd Largest Community?",
-          "link": "https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank",
-          "publishedOn": "2023-02-22T11:33:56.000Z",
-          "wordCount": null,
-          "title": "The Polygon NFT Ecosystem with Frank (DeGods), Zhuoxun Yin (Magic Eden), & Stani Kulechov (Lens)",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/104188822.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

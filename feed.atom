@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T18:18:09.397Z</id>
+    <id>urn:2023-03-09T19:11:55.014Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-09T18:18:09.397Z</updated>
+    <updated>2023-03-09T19:11:55.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UpOnly & Flip with Brian Krogsgard (Ledger) | ETHDenver 2023]]></title>
+        <id>https://shows.banklesshq.com/p/uponly-and-flip-with-brian-krogsgard</id>
+        <link href="https://shows.banklesshq.com/p/uponly-and-flip-with-brian-krogsgard"/>
+        <updated>2023-03-09T19:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (15 min) | Interview #8]]></summary>
+        <author>
+            <name>David Hoffman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum’s Stylus with Steven Goldfeder | ETHDenver 2023]]></title>
         <id>https://shows.banklesshq.com/p/arbitrums-stylus-with-steven-goldfeder</id>
@@ -996,16 +1006,6 @@ NFTs]]></summary>
         <summary type="html"><![CDATA[Regulated Exchange Swarm Tokenizes Stocks and Bonds in Real World Asset Push]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Polygon NFT Ecosystem with Frank (DeGods), Zhuoxun Yin (Magic Eden), & Stani Kulechov (Lens)]]></title>
-        <id>https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank</id>
-        <link href="https://shows.banklesshq.com/p/the-polygon-nft-ecosystem-with-frank"/>
-        <updated>2023-02-22T11:33:56.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (68 min) | 3rd Largest Community?]]></summary>
-        <author>
-            <name>David Hoffman</name>
         </author>
     </entry>
     <entry>
