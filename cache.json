@@ -44,7 +44,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/curve-ball-c9866f34555?source=rss-2f6e06954878------2",
           "publishedOn": "2023-03-02T23:01:32.000Z",
-          "wordCount": 12504,
+          "wordCount": 12501,
           "title": "Curve Ball",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*003jTZhr9nW5te7H"
         }
@@ -1413,6 +1413,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-lseth-live-compound",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "LsETH Live Liquid Collective launches lsETH, an ETH staking service that provides KYC/AML compliance. LsETH is now supported on Coinbase Prime and Bitcoin Suisse. Compound V3 on Polygon Compound V3 is now live on Polygon, allowing users to borrow USDC using major assets as collateral.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-lseth-live-compound",
+          "publishedOn": "2023-03-09T08:21:32.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - LsETH Live, Compound V3 on Polygon, Yield Vaults on Optimism, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/byaydd17sbor963thmyc",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/byaydd17sbor963thmyc"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-pancakeswap-v3-coming",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
