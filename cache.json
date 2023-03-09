@@ -68,6 +68,26 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/ethereum-shapella-goerli-mar-14/",
+          "author": "Samuel Haig",
+          "description": "Ethereum Developers Schedule Final Shapella Rehearsal For March 14",
+          "link": "https://thedefiant.io/ethereum-shapella-goerli-mar-14/",
+          "publishedOn": "2023-03-09T15:55:48.000Z",
+          "wordCount": 1290,
+          "title": "Staked ETH Withdrawals Could Be Imminent",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09115439/ETHBeaconChWithdrawals.webp"
+        },
+        {
+          "id": "https://thedefiant.io/us-court-approves-binance-voyager-deal/",
+          "author": "Samuel Haig",
+          "description": "Binance’s Regulatory Woes Still Threaten To Derail Deal",
+          "link": "https://thedefiant.io/us-court-approves-binance-voyager-deal/",
+          "publishedOn": "2023-03-09T15:24:16.000Z",
+          "wordCount": 1315,
+          "title": "US Court Approves Binance.US’s $1.3B Bid For Voyager Client Assets",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09112319/BinanceVoyage2.webp"
+        },
+        {
           "id": "https://thedefiant.io/defi-daily-celestia-rollkit-bitcoin/",
           "author": "The Defiant Team",
           "description": "Hello Defiers! Here’s what we are covering today!",
@@ -1046,26 +1066,6 @@
           "wordCount": 1734,
           "title": "Institutional Investors Eyeing Return to DeFi: Survey",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/14141115/InstitutionalInvestorsEyeDeFi.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/crypto-selloff-regulatory-crackdown/",
-          "author": "Aleksandar Gilbert",
-          "description": "Liquid Staking Sector Pulls Back After Meteoric Run; Liquity Pops 45%",
-          "link": "https://thedefiant.io/crypto-selloff-regulatory-crackdown/",
-          "publishedOn": "2023-02-14T05:44:57.000Z",
-          "wordCount": 1054,
-          "title": "Crypto Markets Falter Amid Latest Regulatory Crackdown",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/14014145/MKTsSellOff.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/flux-lending-tokenized-treasuries/",
-          "author": "Owen Fernau",
-          "description": "DeFi Lending Protocol Attracts Over $10M In Stablecoins In Five Days Since\nLaunch",
-          "link": "https://thedefiant.io/flux-lending-tokenized-treasuries/",
-          "publishedOn": "2023-02-13T20:15:35.000Z",
-          "wordCount": 1891,
-          "title": "Flux Finance Enables Borrowing Against Tokenized Treasury Bonds",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/13161325/fUSDC.jpg"
         }
       ]
     },
@@ -1074,6 +1074,22 @@
       "feedUrl": "https://shows.banklesshq.com/feed",
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
+        {
+          "id": "https://shows.banklesshq.com/p/arbitrums-stylus-with-steven-goldfeder",
+          "author": null,
+          "description": "Listen now (13 min) | Interview #7",
+          "link": "https://shows.banklesshq.com/p/arbitrums-stylus-with-steven-goldfeder",
+          "publishedOn": "2023-03-09T16:01:34.000Z",
+          "wordCount": null,
+          "title": "Arbitrum’s Stylus with Steven Goldfeder | ETHDenver 2023",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107312419.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://shows.banklesshq.com/p/the-state-of-eigenlayer-with-sreeram",
           "author": "David Hoffman",
@@ -1373,22 +1389,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/104188822.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/debrief-eliezer",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (31 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode",
-          "link": "https://shows.banklesshq.com/p/debrief-eliezer",
-          "publishedOn": "2023-02-21T18:39:00.000Z",
-          "wordCount": null,
-          "title": "DEBRIEF - We're All Gonna Die",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/103214358/4f64d64b6dc93f30b1d4db2986a42181.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },

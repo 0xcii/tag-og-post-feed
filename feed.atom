@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T15:16:02.637Z</id>
+    <id>urn:2023-03-09T16:20:52.289Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-09T15:16:02.637Z</updated>
+    <updated>2023-03-09T16:20:52.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum’s Stylus with Steven Goldfeder | ETHDenver 2023]]></title>
+        <id>https://shows.banklesshq.com/p/arbitrums-stylus-with-steven-goldfeder</id>
+        <link href="https://shows.banklesshq.com/p/arbitrums-stylus-with-steven-goldfeder"/>
+        <updated>2023-03-09T16:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (13 min) | Interview #7]]></summary>
+        <author>
+            <name>Bankless Shows</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Staked ETH Withdrawals Could Be Imminent]]></title>
+        <id>https://thedefiant.io/ethereum-shapella-goerli-mar-14/</id>
+        <link href="https://thedefiant.io/ethereum-shapella-goerli-mar-14/"/>
+        <updated>2023-03-09T15:55:48.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Developers Schedule Final Shapella Rehearsal For March 14]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Court Approves Binance.US’s $1.3B Bid For Voyager Client Assets]]></title>
+        <id>https://thedefiant.io/us-court-approves-binance-voyager-deal/</id>
+        <link href="https://thedefiant.io/us-court-approves-binance-voyager-deal/"/>
+        <updated>2023-03-09T15:24:16.000Z</updated>
+        <summary type="html"><![CDATA[Binance’s Regulatory Woes Still Threaten To Derail Deal]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - IndexCoop gtcETH Live, Maverick v1 Live, Tranched LPing, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-indexcoop-gtceth-live</id>
@@ -1019,16 +1049,6 @@ NFTs]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DEBRIEF - We're All Gonna Die]]></title>
-        <id>https://shows.banklesshq.com/p/debrief-eliezer</id>
-        <link href="https://shows.banklesshq.com/p/debrief-eliezer"/>
-        <updated>2023-02-21T18:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (31 min) | Ryan and David debrief the recent Eliezer Yudkowsky episode]]></summary>
-        <author>
-            <name>Ryan Sean Adams</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DeFi Protocols Pull Back From Paxos]]></title>
         <id>https://thedefiant.io/daily-defiant-aave-paxos-maker/</id>
         <link href="https://thedefiant.io/daily-defiant-aave-paxos-maker/"/>
@@ -1386,27 +1406,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[Binance to Move Away from BUSD Binance CEO tweeted that Binance will move away from using BUSD as the main trading pair as the team foresees users migrating to other stablecoins over time. Issued by Paxos, BUSD is the main trading stablecoin on Binance. Paxos will]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Falter Amid Latest Regulatory Crackdown]]></title>
-        <id>https://thedefiant.io/crypto-selloff-regulatory-crackdown/</id>
-        <link href="https://thedefiant.io/crypto-selloff-regulatory-crackdown/"/>
-        <updated>2023-02-14T05:44:57.000Z</updated>
-        <summary type="html"><![CDATA[Liquid Staking Sector Pulls Back After Meteoric Run; Liquity Pops 45%]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flux Finance Enables Borrowing Against Tokenized Treasury Bonds]]></title>
-        <id>https://thedefiant.io/flux-lending-tokenized-treasuries/</id>
-        <link href="https://thedefiant.io/flux-lending-tokenized-treasuries/"/>
-        <updated>2023-02-13T20:15:35.000Z</updated>
-        <summary type="html"><![CDATA[DeFi Lending Protocol Attracts Over $10M In Stablecoins In Five Days Since
-Launch]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
