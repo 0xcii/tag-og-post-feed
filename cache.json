@@ -44,7 +44,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/curve-ball-c9866f34555?source=rss-2f6e06954878------2",
           "publishedOn": "2023-03-02T23:01:32.000Z",
-          "wordCount": 12501,
+          "wordCount": 12503,
           "title": "Curve Ball",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*003jTZhr9nW5te7H"
         }
@@ -67,6 +67,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/alpha-homora-cedes-32m-user-funds-iron-bank/",
+          "author": "Samuel Haig",
+          "description": "Leveraged Yield Farming Protocol Was Exploited In 2021",
+          "link": "https://thedefiant.io/alpha-homora-cedes-32m-user-funds-iron-bank/",
+          "publishedOn": "2023-03-10T08:59:38.000Z",
+          "wordCount": 1696,
+          "title": "Alpha Homora Offers $32M In ‘Seized’ User Assets To Iron Bank To Pay Down Debt",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/10045821/BADDEBT.webp"
+        },
         {
           "id": "https://thedefiant.io/podcast-eigenlayer-sreeram-kannan/",
           "author": "The Defiant Team",
@@ -1056,16 +1066,6 @@
           "wordCount": 1556,
           "title": "Polygon to Deliver Zero-Knowledge Powered Rollup",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/05021709/PolygonPoSETHRollup.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/crypto-takedown-explained/",
-          "author": "Aleksandar Gilbert",
-          "description": "Crypto Crackdown?",
-          "link": "https://thedefiant.io/crypto-takedown-explained/",
-          "publishedOn": "2023-02-15T08:18:47.000Z",
-          "wordCount": 720,
-          "title": "Crypto Takedown Explained",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/16042025/Crypto-Crackdown.jpg"
         }
       ]
     },
@@ -1413,6 +1413,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-hedera-hts-exploit",
+          "author": "Ellie",
+          "description": "Hedera HTS Exploit Attackers exploited Hedera and transferred away tokens from dApps using the Hedera Token Service (HTS). Hedera turned off mainnet proxies while the team is working on a solution. Convex Live on Polygon Convex is now live on Polyon. Initial pools including aMATICb+WMATIC, axlUSDC+USDC, CRV+amDAI+amUSDC+amUSD+amWBTC+amWETH, etc.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-hedera-hts-exploit",
+          "publishedOn": "2023-03-10T10:13:31.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Hedera HTS Exploit, Convex Live on Polygon, Low-Risk Yield, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98027071-a21e-4439-a86d-6e827340cb96_1200x675.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98027071-a21e-4439-a86d-6e827340cb96_1200x675.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-indexcoop-gtceth-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
