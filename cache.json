@@ -68,22 +68,12 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
-          "id": "https://thedefiant.io/podcast-eigenlayer-sreeram-kannan/",
-          "author": "The Defiant Team",
-          "description": "This week on The Defiant Podcast, Tegan Kline chats with Sreeram Kannan, the\nfounder of Eigen Layer and the director of the University of Washington’s\nBlockchain Lab.",
-          "link": "https://thedefiant.io/podcast-eigenlayer-sreeram-kannan/",
-          "publishedOn": "2023-03-10T06:16:44.000Z",
-          "wordCount": 602,
-          "title": "Everything You Need To Know About EigenLayer with Sreeram Kannan",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/10011113/SreeramKWeb1.jpg"
-        },
-        {
           "id": "https://thedefiant.io/vitalik-metalabel-drop-tops-charts/",
           "author": "Owen Fernau",
           "description": "Major NFT Collector Corners More Than A Quarter Of Supply",
           "link": "https://thedefiant.io/vitalik-metalabel-drop-tops-charts/",
           "publishedOn": "2023-03-10T06:14:19.000Z",
-          "wordCount": 1779,
+          "wordCount": 1783,
           "title": "Vitalik’s Metalabel Drop Tops OpenSea Charts",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/10021324/VitMetalabelStonks.jpg"
         },
@@ -103,7 +93,7 @@
           "description": "Smart Contract Wallet Leverages Account Abstraction and Gas Fees Are Charged In\nUSDC",
           "link": "https://thedefiant.io/instadapp-avocado-multi-network-wallet/",
           "publishedOn": "2023-03-09T21:34:33.000Z",
-          "wordCount": 1392,
+          "wordCount": 1388,
           "title": "Instadapp Launches ‘Avocado’ Multi-Blockchain Wallet",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09173420/InstadappAvocado.jpg"
         },
@@ -113,7 +103,7 @@
           "description": "Crypto Exchange Kucoin Accused Of Acting As Unlicensed Broker-Dealer",
           "link": "https://thedefiant.io/markets-down-nyag-calls-eth-security/",
           "publishedOn": "2023-03-09T21:16:41.000Z",
-          "wordCount": 999,
+          "wordCount": 991,
           "title": "ETH Crashes 7% After NYAG Calls Ethereum A Security",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09171538/ETHTanking.jpg"
         },
@@ -123,7 +113,7 @@
           "description": "Partnership With Index Coop Will Let Holders Contribute To Public Goods",
           "link": "https://thedefiant.io/gitcoin-index-coop-gtceth/",
           "publishedOn": "2023-03-09T19:56:42.000Z",
-          "wordCount": 1131,
+          "wordCount": 1119,
           "title": "Gitcoin Launches gtcETH Index Token To Bolster Funding",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09155540/gtcETH.jpg"
         },
@@ -133,7 +123,7 @@
           "description": "Ethereum Developers Schedule Final Shapella Rehearsal For March 14",
           "link": "https://thedefiant.io/ethereum-shapella-goerli-mar-14/",
           "publishedOn": "2023-03-09T15:55:48.000Z",
-          "wordCount": 1273,
+          "wordCount": 1277,
           "title": "Staked ETH Withdrawals Could Be Imminent",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09115439/ETHBeaconChWithdrawals.webp"
         },
@@ -143,7 +133,7 @@
           "description": "Binance’s Regulatory Woes Still Threaten To Derail Deal",
           "link": "https://thedefiant.io/us-court-approves-binance-voyager-deal/",
           "publishedOn": "2023-03-09T15:24:16.000Z",
-          "wordCount": 1315,
+          "wordCount": 1303,
           "title": "US Court Approves Binance.US’s $1.3B Bid For Voyager Client Assets",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09112319/BinanceVoyage2.webp"
         },
@@ -183,7 +173,7 @@
           "description": "Rollkit Allows Developers To Mix-and-Match Data Availability and Execution\nLayers",
           "link": "https://thedefiant.io/celestia-bitcoin-rollups/",
           "publishedOn": "2023-03-08T20:41:43.000Z",
-          "wordCount": 1554,
+          "wordCount": 1550,
           "title": "Rollkit Introduces Bitcoin Rollups With New Framework",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/08164042/BTCRollups.jpg"
         },
@@ -283,7 +273,7 @@
           "description": "On-Chain Privacy Protocol Includes Compliance Features",
           "link": "https://thedefiant.io/molochdao-privacy-pools/",
           "publishedOn": "2023-03-07T00:43:15.000Z",
-          "wordCount": 1671,
+          "wordCount": 1675,
           "title": "MolochDAO Reveals ZK-Powered Crypto Mixer",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/06204308/PrivPools.jpg"
         },
@@ -293,7 +283,7 @@
           "description": "“Compliance” would seem like an unlikely buzzword at ETHDenver, one of\nEthereum’s  largest conferences, set literally in the “Wild West.”",
           "link": "https://thedefiant.io/ethereum-developers-in-conference-at-the-wild-west-are-warming-to-compliance/",
           "publishedOn": "2023-03-06T23:29:55.000Z",
-          "wordCount": 2256,
+          "wordCount": 2260,
           "title": "Ethereum Developers in Conference at the “Wild West” are Warming to Compliance",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/06192857/EthDenverReg.jpg"
         },
@@ -323,7 +313,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-markets-plunge-silvergate-fears/",
           "publishedOn": "2023-03-03T21:48:42.000Z",
-          "wordCount": 1411,
+          "wordCount": 1407,
           "title": "Crypto Markets Plunge Amid Silvergate Concerns",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/03170609/MKTsDownSg.jpg"
         },
@@ -363,7 +353,7 @@
           "description": "This week on The Defiant Podcast, Camila Russo chats with Matthew Gould, the\nfounder and CEO of Unstoppable Domains.",
           "link": "https://thedefiant.io/podcast-matthew-gould/",
           "publishedOn": "2023-03-03T10:48:51.000Z",
-          "wordCount": 566,
+          "wordCount": 562,
           "title": "Unstoppable Domains’ Matthew Gould Unpacks Digital Identity in Web3",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/03060407/MattGouldWebThumb.jpg"
         },
@@ -443,7 +433,7 @@
           "description": "Yuga Labs Jumps Into Bitcoin NFT Market",
           "link": "https://thedefiant.io/yuga-labs-golden-key-1000-eth-sale/",
           "publishedOn": "2023-03-01T19:08:03.000Z",
-          "wordCount": 1135,
+          "wordCount": 1139,
           "title": "Top Dookey Dash NFT Sells for $1.6M",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/01150600/YugaSheananigans.jpg"
         },
@@ -503,7 +493,7 @@
           "description": "Company Wrestles With Balance Between DeFi Ethos and Protecting Users",
           "link": "https://thedefiant.io/oasis-reverse-exploit-patch/",
           "publishedOn": "2023-03-01T07:49:13.000Z",
-          "wordCount": 2430,
+          "wordCount": 2426,
           "title": "Oasis To Patch Vulnerability That Allowed It To Recover $150M Of Stolen Crypto",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/01034739/OasisReverseExploitPatch.jpg"
         },
@@ -523,7 +513,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/daily-defiant-optimism-arbitrum-layer-2-war/",
           "publishedOn": "2023-02-28T13:00:51.000Z",
-          "wordCount": 1353,
+          "wordCount": 1349,
           "title": "Optimism Challenges Arbitrum with ‘Superchain’",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/28035639/L2Wars-OpVArb.jpeg"
         },
@@ -543,7 +533,7 @@
           "description": "Action Mounts on Goerli ETH Despite Switch to Holli Testnet",
           "link": "https://thedefiant.io/traders-ignore-shift-to-new-ethereum-testnet/",
           "publishedOn": "2023-02-28T10:38:18.000Z",
-          "wordCount": 1501,
+          "wordCount": 1497,
           "title": "Traders Speculate on Goerli Even as Ethereum Devs Move On",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/10/19054454/GoerliETHCosts.jpg"
         },
@@ -553,7 +543,7 @@
           "description": "Optimism Wins Over Coinbase as It Gains Ground on Arbitrum",
           "link": "https://thedefiant.io/arbitrum-vs-optimism-l2-wars/",
           "publishedOn": "2023-02-28T08:06:38.000Z",
-          "wordCount": 2753,
+          "wordCount": 2757,
           "title": "Optimism Forges ‘Superchain’ to Challenge Arbitrum for Supremacy in Layer 2 Market",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/28035639/L2Wars-OpVArb.jpeg"
         },
@@ -573,7 +563,7 @@
           "description": "A Rundown on the Slew of ZK Developments Coming This Year",
           "link": "https://thedefiant.io/zero-knowledge-2023/",
           "publishedOn": "2023-02-27T20:00:41.000Z",
-          "wordCount": 3555,
+          "wordCount": 3559,
           "title": "The Zero-Knowledge Moment Has Arrived",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/27154929/ZK2023.jpg"
         },
@@ -583,7 +573,7 @@
           "description": "Machi Sells 1,000 Bored Apes, Mutant Apes, and Other NFTs in Wild Weekend",
           "link": "https://thedefiant.io/nft-trades-blur/",
           "publishedOn": "2023-02-27T11:25:33.000Z",
-          "wordCount": 1702,
+          "wordCount": 1698,
           "title": "Collector Sells $18M in NFTs on Blur — Then Buys Some Back",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/27135946/NFTFloors.jpg"
         },
@@ -603,7 +593,7 @@
           "description": "Happy weekend Defiers! Here’s what we covered this week!",
           "link": "https://thedefiant.io/weekly-recap-the-defiant/",
           "publishedOn": "2023-02-25T18:25:07.000Z",
-          "wordCount": 487,
+          "wordCount": 463,
           "title": "Overachievers: DeFi Week Feb. 19",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/24002301/weeklyrecap.png"
         },
@@ -613,7 +603,7 @@
           "description": "Earn Up To 84% APR From Trading Fees By Staking VLP On Vela Exchange (Arbitrum)",
           "link": "https://thedefiant.io/defi-alpha-notional-leveraged-eth-vaults/",
           "publishedOn": "2023-02-25T09:22:22.000Z",
-          "wordCount": 560,
+          "wordCount": 556,
           "title": "DeFi Alpha: Earn 30% Annualized with Leveraged ETH Vaults by Notional Finance",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         },
@@ -643,7 +633,7 @@
           "description": "No. 1 DEX Makes a Move as NFT Market Heats Up",
           "link": "https://thedefiant.io/uniswap-erc-20-nfts/",
           "publishedOn": "2023-02-24T12:21:05.000Z",
-          "wordCount": 1313,
+          "wordCount": 1317,
           "title": "Uniswap Builds Out NFT Offering With ERC-20 Payments",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/27135233/UniNFTSpaywithERC20.jpg"
         },
@@ -713,7 +703,7 @@
           "description": "What’s in store for 2023",
           "link": "https://thedefiant.io/upcoming-crypto-trends-in-2023/",
           "publishedOn": "2023-02-24T06:28:03.000Z",
-          "wordCount": 756,
+          "wordCount": 752,
           "title": "Upcoming Crypto Trends in 2023",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/03022958/Whats-in-store-for-2023.jpg"
         },
@@ -733,7 +723,7 @@
           "description": "U.S. Accuses Four Russians of Running Fraud Through Smart Contracts",
           "link": "https://thedefiant.io/defi-indictment-ponzi/",
           "publishedOn": "2023-02-23T17:17:28.000Z",
-          "wordCount": 1250,
+          "wordCount": 1246,
           "title": "Feds Shift Into DeFi With Prosecution of $340M Alleged Ponzi Scheme",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/23131530/PMPleadsGuiltyCB-1.jpg"
         },
@@ -743,7 +733,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defiant-daily-ethereum-staking/",
           "publishedOn": "2023-02-23T14:09:25.000Z",
-          "wordCount": 1875,
+          "wordCount": 1871,
           "title": "Plan to Boost ETH Rewards Released",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/24053607/EigenLayer.jpg"
         },
@@ -753,7 +743,7 @@
           "description": "Exchange Giant Challenges Arbitrum and Other Layer 2s With Own Blockchain",
           "link": "https://thedefiant.io/coinbase-layer-2-arbitrum/",
           "publishedOn": "2023-02-23T14:00:54.000Z",
-          "wordCount": 2178,
+          "wordCount": 2174,
           "title": "Coinbase Jumps Into Ethereum Scaling Race With New Rollup",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/24053745/BASE.jpg"
         },
@@ -803,7 +793,7 @@
           "description": "Regulated Exchange Swarm Tokenizes Stocks and Bonds in Real World Asset Push",
           "link": "https://thedefiant.io/swarm-issues-tokenized-tesla-shares/",
           "publishedOn": "2023-02-22T13:09:22.000Z",
-          "wordCount": 1981,
+          "wordCount": 1977,
           "title": "Tokenization Picks Up Steam With On-Chain Tesla and Apple Shares",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/22085940/TokenizedStocks.jpg"
         },
@@ -813,7 +803,7 @@
           "description": "Ordinals Protocol Mints 150K Tokens in Three Weeks",
           "link": "https://thedefiant.io/building-on-bitcoin/",
           "publishedOn": "2023-02-22T09:42:58.000Z",
-          "wordCount": 1837,
+          "wordCount": 1833,
           "title": "Stacks’ Token Doubles as Building-on-BTC Activity Surges",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/22053238/Ordinals.jpg"
         },
@@ -833,7 +823,7 @@
           "description": "Tokenize Everything",
           "link": "https://thedefiant.io/its-time-to-pay-attention-to-rwas/",
           "publishedOn": "2023-02-22T06:55:50.000Z",
-          "wordCount": 724,
+          "wordCount": 720,
           "title": "It’s time to pay attention to RWAs",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/24025705/TokenizeEverything.jpg"
         },
@@ -843,7 +833,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/daily-defiant-aave-paxos-maker/",
           "publishedOn": "2023-02-21T13:31:34.000Z",
-          "wordCount": 1501,
+          "wordCount": 1497,
           "title": "DeFi Protocols Pull Back From Paxos",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/21051435/AaveFreezeBUSD.jpg"
         },
@@ -853,7 +843,7 @@
           "description": "Welcome to The Defiant Explainers, where we create comprehensive & sponsored\ntutorial videos, diving deep into DeFi projects and showing you how to use them\nwith a step by step guide. Today we’ll be talking about Ethereum’s most popular\nliquid staking protocol Lido, and how you can use its tokens on Layer 2\nblockchains Arbitrum […]",
           "link": "https://thedefiant.io/how-to-use-lido-on-arbitrum-and-optimism/",
           "publishedOn": "2023-02-21T13:11:40.000Z",
-          "wordCount": 965,
+          "wordCount": 953,
           "title": "How to Use Lido on Arbitrum and Optimism",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/21091033/How-to-Use-Lido-on-Arbitrum-and-Optimism.jpg"
         },
@@ -863,7 +853,7 @@
           "description": "Fallout From ‘Tricky Situation’ at Stablecoin Issuer Hits DeFi Protocols",
           "link": "https://thedefiant.io/aave-and-maker-pull-back-from-paxos-stablecoins/",
           "publishedOn": "2023-02-21T09:39:08.000Z",
-          "wordCount": 2550,
+          "wordCount": 2554,
           "title": "Aave and Maker Pull Back From Paxos Stablecoins",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/21051435/AaveFreezeBUSD.jpg"
         },
@@ -873,7 +863,7 @@
           "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
           "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-90/",
           "publishedOn": "2023-02-18T19:27:56.000Z",
-          "wordCount": 534,
+          "wordCount": 530,
           "title": "📬 Inbox Dump #90",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
         },
@@ -883,7 +873,7 @@
           "description": "Happy Weekend Defiers! Here’s what we covered this week.",
           "link": "https://thedefiant.io/crypto-dragnet-defi-week-sec/",
           "publishedOn": "2023-02-18T17:40:12.000Z",
-          "wordCount": 434,
+          "wordCount": 430,
           "title": "Crypto Dragnet: DeFi Week Feb.12",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/24002301/weeklyrecap.png"
         },
@@ -903,7 +893,7 @@
           "description": "Claim Your $BLUR Airdrop and Treasure Tags",
           "link": "https://thedefiant.io/defi-alpha-superfluid-streaming/",
           "publishedOn": "2023-02-18T08:42:43.000Z",
-          "wordCount": 504,
+          "wordCount": 480,
           "title": "DeFi Alpha: Set Up a Streaming Payment with Superfluid",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         },
@@ -913,7 +903,7 @@
           "description": "This week on The Defiant Podcast, Camila Russo chats with Andre Cronje, the\nco-founder of Fantom, a Layer 1 blockchain, and also the founder of Yearn\nFinance, one of the first yield aggregators in DeFi.",
           "link": "https://thedefiant.io/podcast-andre-cronje-fantom/",
           "publishedOn": "2023-02-18T08:16:46.000Z",
-          "wordCount": 669,
+          "wordCount": 665,
           "title": "DeFi, Fantom, Regulations, and the Challenges Of Being a Crypto Celebrity with Andre Cronje",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/18034101/AndreThumb.jpg"
         },
@@ -923,7 +913,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/feds-dragnet-targets-more-than-tokens/",
           "publishedOn": "2023-02-17T13:27:54.000Z",
-          "wordCount": 1449,
+          "wordCount": 1445,
           "title": "Feds’ Dragnet Targets More Than Tokens",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/17053517/RegulatoryOpus.jpg"
         },
@@ -933,7 +923,7 @@
           "description": "Spate of Enforcement Actions Poised to Reshape Industry",
           "link": "https://thedefiant.io/regulatory-dragnet-crypto/",
           "publishedOn": "2023-02-17T12:46:33.000Z",
-          "wordCount": 4730,
+          "wordCount": 4726,
           "title": "It Isn’t Just the SEC — Feds’ Dragnet Targets Crypto Banking, Too",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/17053517/RegulatoryOpus.jpg"
         },
@@ -943,7 +933,7 @@
           "description": "ZachXBT Identifies Hacker After Attack Erases Half the Value in USP Stablecoin",
           "link": "https://thedefiant.io/hackers-use-emergency-withdraw-flaw-to-raid-platypus/",
           "publishedOn": "2023-02-17T10:46:59.000Z",
-          "wordCount": 1352,
+          "wordCount": 1348,
           "title": "Hackers Use ‘Emergency Withdraw’ Flaw to Raid Platypus",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/17064359/PlatypusHacked.jpg"
         },
@@ -973,7 +963,7 @@
           "description": "Layer 2s Escalate Battle to Rule Ethereum Scaling Solutions",
           "link": "https://thedefiant.io/zksync-launch-evm/",
           "publishedOn": "2023-02-16T19:41:01.000Z",
-          "wordCount": 1738,
+          "wordCount": 1734,
           "title": "zkSync Counters Polygon With ‘Mainnet’ Rollup",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/16154033/zksyncLaunch.jpg"
         },
@@ -983,7 +973,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/daily-defiant-balancer/",
           "publishedOn": "2023-02-16T13:27:34.000Z",
-          "wordCount": 1333,
+          "wordCount": 1329,
           "title": "Balancer Flexes in LSD Market",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/16051914/BalancersBetOnLSDs.jpg"
         },
@@ -1023,7 +1013,7 @@
           "description": "Trading Volumes On Paradigm-backed Marketplace Surpass OpenSea",
           "link": "https://thedefiant.io/blur-400m-airdrop/",
           "publishedOn": "2023-02-16T06:52:37.000Z",
-          "wordCount": 1448,
+          "wordCount": 1444,
           "title": "NFT Market Gets A Boost From $400M Blur Airdrop",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/16024958/BLURAirdrop.jpg"
         },
@@ -1033,7 +1023,7 @@
           "description": "DeFi Rockstar Returns (again)",
           "link": "https://thedefiant.io/defi-fantom-regulations-and-the-challenges-of-being-a-niche-micro-celebrity-with-andre-cronje/",
           "publishedOn": "2023-02-16T06:31:36.000Z",
-          "wordCount": 824,
+          "wordCount": 820,
           "title": "DeFi, Fantom, Regulations, and the challenges of being a niche micro celebrity with Andre Cronje",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/17023305/DeFi-Fantom-Regulations-and-the-challenges-of-being-a-niche-micro-celebrity-with-Andre-Cronje.jpg"
         },
@@ -1063,9 +1053,19 @@
           "description": "Crypto Crackdown?",
           "link": "https://thedefiant.io/crypto-takedown-explained/",
           "publishedOn": "2023-02-15T08:18:47.000Z",
-          "wordCount": 724,
+          "wordCount": 720,
           "title": "Crypto Takedown Explained",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/16042025/Crypto-Crackdown.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/defi-alpha-call-39/",
+          "author": "The Defiant Team",
+          "description": "The DeFi Alpha Call is an exclusive weekly call for our premium subscribers\nwhere yyctrader and Diego talk about the market, the latest tutorials, and the\nhottest NFTs.",
+          "link": "https://thedefiant.io/defi-alpha-call-39/",
+          "publishedOn": "2023-02-15T06:12:23.000Z",
+          "wordCount": 556,
+          "title": "DeFi Alpha Call #39",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/30125501/DeFiAlphaCall_test.png"
         }
       ]
     },
