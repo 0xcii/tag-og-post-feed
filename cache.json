@@ -1075,6 +1075,54 @@
       "siteUrl": "https://shows.banklesshq.com",
       "articles": [
         {
+          "id": "https://shows.banklesshq.com/p/debrief-brian-armstrong-coinbase",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (25 min) | Ryan and David debrief the recent Brian Armstrong episode",
+          "link": "https://shows.banklesshq.com/p/debrief-brian-armstrong-coinbase",
+          "publishedOn": "2023-03-10T12:23:50.000Z",
+          "wordCount": null,
+          "title": "DEBRIEF - The Coinbase Long Game",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107599184.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/early-access-the-coinbase-long-game",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (79 min) | Brick by brick through bear and bull",
+          "link": "https://shows.banklesshq.com/p/early-access-the-coinbase-long-game",
+          "publishedOn": "2023-03-10T12:23:47.000Z",
+          "wordCount": null,
+          "title": "EARLY ACCESS - The Coinbase Long Game with Brian Armstrong",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107594591.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://shows.banklesshq.com/p/rollup-silvergate-liquidate-elizabeth",
+          "author": "Ryan Sean Adams",
+          "description": "Listen now (95 min) | 2nd Week of March 2023",
+          "link": "https://shows.banklesshq.com/p/rollup-silvergate-liquidate-elizabeth",
+          "publishedOn": "2023-03-10T11:31:09.000Z",
+          "wordCount": null,
+          "title": "ROLLUP: Silvergate Liquidate?! | Elizabeth Warren vs. Binance | Bankless 2.0 Announcement | SEC Taking Ls?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/107558578.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://shows.banklesshq.com/p/uponly-and-flip-with-brian-krogsgard",
           "author": "David Hoffman",
           "description": "Listen now (15 min) | Interview #8",
@@ -1341,54 +1389,6 @@
           "itunes": {},
           "enclosure": {
             "url": "https://api.substack.com/feed/podcast/104916658.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform",
-          "author": "Ryan Sean Adams",
-          "description": "Listen now (96 min) | 4th Friday of February 2023",
-          "link": "https://shows.banklesshq.com/p/coinbase-drops-base-sec-sues-terraform",
-          "publishedOn": "2023-02-24T11:30:04.000Z",
-          "wordCount": null,
-          "title": "Coinbase Drops Base | SEC Sues Terraform Labs & Do Kwon | Spotify Token Gating | OpenSea vs. Blur",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/104759766.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/coinbase-launches-base-their-own",
-          "author": "David Hoffman",
-          "description": "Listen now (62 min) | Hottest news since The Merge",
-          "link": "https://shows.banklesshq.com/p/coinbase-launches-base-their-own",
-          "publishedOn": "2023-02-23T14:01:00.000Z",
-          "wordCount": null,
-          "title": "Coinbase Announces Base🔵, an Ethereum L2 Network Powered by Optimism",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/104598233.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with",
-          "author": "David Hoffman",
-          "description": "Listen now (73 min) | Tune in to hear Jon's controversial(?) arguments",
-          "link": "https://shows.banklesshq.com/p/eth-is-not-ultrasound-money-with",
-          "publishedOn": "2023-02-22T23:58:11.000Z",
-          "wordCount": null,
-          "title": "ETH Is NOT Ultrasound Money with Jon Charbonneau",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/104545068.mp3",
             "length": "0",
             "type": "audio/mpeg"
           },
