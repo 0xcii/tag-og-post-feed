@@ -31,12 +31,12 @@
         {
           "id": "https://medium.com/p/300d4b5cf3ec",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/dust-on-crust-300d4b5cf3ec?source=rss-2f6e06954878------2",
           "publishedOn": "2023-03-08T23:02:44.000Z",
-          "wordCount": 11349,
+          "wordCount": null,
           "title": "Dust on Crust",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*5MusUMRoLBmQu23L"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/c9866f34555",
@@ -1373,22 +1373,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/video/upload/e_loop,vs_40/hiv08e0cq17zn9otd2ln.gif"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Flux Finance Live Flux Finance, a lending project that connects US treasuries with DeFi, is live. Users can either deposit stablecoins to earn yield, or put US treasuries (OUSG) as collateral to borrow against. Acala EVM+ Acala launches the EVM+ mainnet, an evm compatible chain running on Polkadot’s modular blockchain framework, Substrate",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz",
-          "publishedOn": "2023-02-09T13:30:20.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Acala EVM Live, Chiliz L1 Live, NFT Market Cap Token, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4a3eccb-706b-4161-aee0-66b58c28b18f_3200x1800.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4a3eccb-706b-4161-aee0-66b58c28b18f_3200x1800.png"
         }
       ]
     }

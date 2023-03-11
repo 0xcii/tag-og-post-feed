@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-11T01:04:47.212Z</id>
+    <id>urn:2023-03-11T02:34:04.535Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-11T01:04:47.212Z</updated>
+    <updated>2023-03-11T02:34:04.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -173,7 +173,6 @@ USDC]]></summary>
         <id>https://medium.com/p/300d4b5cf3ec</id>
         <link href="https://entrepreneurshandbook.co/dust-on-crust-300d4b5cf3ec?source=rss-2f6e06954878------2"/>
         <updated>2023-03-08T23:02:44.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
@@ -1235,16 +1234,6 @@ Crypto]]></summary>
         <link href="https://todayindefi.substack.com/p/today-in-defi-aave-gho-on-testnet"/>
         <updated>2023-02-10T09:46:48.000Z</updated>
         <summary type="html"><![CDATA[Aave GHO on Testnet Aave launched its stablecoin GHO on the Ethereum testnet Goerli. The GHO code has been audited and is available on Github. Silo Live on Arbitrum Lending protocol Silo launched on Arbitrum, initially supporting risk-isolated markets for DPX, UMAMI, and MAGIC.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Acala EVM Live, Chiliz L1 Live, NFT Market Cap Token, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-acala-evm-live-chiliz"/>
-        <updated>2023-02-09T13:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Flux Finance Live Flux Finance, a lending project that connects US treasuries with DeFi, is live. Users can either deposit stablecoins to earn yield, or put US treasuries (OUSG) as collateral to borrow against. Acala EVM+ Acala launches the EVM+ mainnet, an evm compatible chain running on Polkadot’s modular blockchain framework, Substrate]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
