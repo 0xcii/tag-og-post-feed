@@ -68,12 +68,22 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/markets-recover-usdc-regains-peg/",
+          "author": "Samuel Haig",
+          "description": "DeFi Heavyweights Maker, Synthetix and Lido Lead Sector Higher",
+          "link": "https://thedefiant.io/markets-recover-usdc-regains-peg/",
+          "publishedOn": "2023-03-13T20:26:26.000Z",
+          "wordCount": 1992,
+          "title": "Markets Recover After U.S. Regulators Backstop Deposits At Failed Banks",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/13162521/Screen_Shot_2023-02-02_at_9.webp"
+        },
+        {
           "id": "https://thedefiant.io/usdc-recovers-after-svb-concerns/",
           "author": "Samuel Haig",
           "description": "Circle said the stablecoin will be redeemable for US dollars starting Monday.",
           "link": "https://thedefiant.io/usdc-recovers-after-svb-concerns/",
           "publishedOn": "2023-03-12T20:24:31.000Z",
-          "wordCount": 1553,
+          "wordCount": 1559,
           "title": "USDC Finds Stability Near $0.97 After Crashing on SVB Concerns",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/10/27120402/USDCLosesMarketSharePostTornado.jpg"
         },
@@ -1056,16 +1066,6 @@
           "wordCount": 2011,
           "title": "SEC Defines ‘Interrelated’ Terra Tokens as Securities",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/17051759/DoKwonSEC.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/european-dreamin/",
-          "author": "Aleksandar Gilbert",
-          "description": "Eating America’s Lunch",
-          "link": "https://thedefiant.io/european-dreamin/",
-          "publishedOn": "2023-02-17T06:44:43.000Z",
-          "wordCount": 719,
-          "title": "European Dreamin’",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/17024358/European-Dreamin.jpg"
         }
       ]
     },
