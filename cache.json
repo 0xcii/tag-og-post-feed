@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/markets-up-on-fed-pause-hopes/",
+          "author": "Aleksandar Gilbert",
+          "description": "Bitcoin and Ether Soar",
+          "link": "https://thedefiant.io/markets-up-on-fed-pause-hopes/",
+          "publishedOn": "2023-03-14T04:03:38.000Z",
+          "wordCount": 1713,
+          "title": "Crypto Markets Surge As Investors Predict Fed Pause",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/14000136/RallyAsInvExpectFedPause.jpg"
+        },
+        {
           "id": "https://thedefiant.io/euler-200m-exploit/",
           "author": "Tarang Khaitan",
           "description": "Code Bug Enabled Flash Loan Attack",
@@ -1056,16 +1066,6 @@
           "wordCount": 1474,
           "title": "Feds’ Dragnet Targets More Than Tokens",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/17053517/RegulatoryOpus.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/regulatory-dragnet-crypto/",
-          "author": "Aleksandar Gilbert",
-          "description": "Spate of Enforcement Actions Poised to Reshape Industry",
-          "link": "https://thedefiant.io/regulatory-dragnet-crypto/",
-          "publishedOn": "2023-02-17T12:46:33.000Z",
-          "wordCount": 4754,
-          "title": "It Isn’t Just the SEC — Feds’ Dragnet Targets Crypto Banking, Too",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/17053517/RegulatoryOpus.jpg"
         }
       ]
     },
@@ -1086,7 +1086,7 @@
           "description": "What do you think the next big development or trend in DeFi will be?",
           "link": "https://andrecronje.medium.com/kitco-news-questions-2-24-23-372a8a82f287?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-03-14T04:07:15.000Z",
-          "wordCount": 2015,
+          "wordCount": 2234,
           "title": "Kitco News Questions 2.24.23",
           "imageUrl": null
         }
