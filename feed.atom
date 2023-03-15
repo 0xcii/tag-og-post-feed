@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T11:11:51.457Z</id>
+    <id>urn:2023-03-15T12:27:40.280Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-15T11:11:51.457Z</updated>
+    <updated>2023-03-15T12:27:40.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Replicated Security Live on Cosmos, Shapella Live on Goerli, Automated LPing, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-replicated-security</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-replicated-security"/>
+        <updated>2023-03-15T11:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Replicated Security Live on Cosmos The Cosmos v9-Lambda Upgrade is completed and Replicated Security (the first version of Interchain Security) is now live. The upgrade will benefit the consumer chains with additional security and ATOM stakers will have more staking rewards.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aztec To Sunset  Privacy Protocol]]></title>
         <id>https://thedefiant.io/aztec-connect-to-shut-down/</id>
