@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T17:13:26.885Z</id>
+    <id>urn:2023-03-15T18:18:00.968Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-15T17:13:26.885Z</updated>
+    <updated>2023-03-15T18:18:00.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Alpha Call #41]]></title>
+        <id>https://thedefiant.io/defi-alpha-call-41/</id>
+        <link href="https://thedefiant.io/defi-alpha-call-41/"/>
+        <updated>2023-03-15T18:10:08.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi Alpha Call is an exclusive weekly call for our premium subscribers
+where yyctrader and Diego talk about the market, the latest tutorials, and the
+hottest NFTs.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Replicated Security Live on Cosmos, Shapella Live on Goerli, Automated LPing, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-replicated-security</id>
@@ -1204,17 +1216,6 @@ blockchains Arbitrum […]]]></summary>
         <summary type="html"><![CDATA[Recap: Week of Feb 13th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📬 Inbox Dump #90]]></title>
-        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-90/</id>
-        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-90/"/>
-        <updated>2023-02-18T19:27:56.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Inbox Dump where we include the updates and announcements that flood
-our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
