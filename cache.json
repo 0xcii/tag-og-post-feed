@@ -68,6 +68,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/filecoin-smart-contracts/",
+          "author": "Aleksandar Gilbert",
+          "description": "Update Enables DeFi, ‘Data DAOs’ and Perpetual Storage",
+          "link": "https://thedefiant.io/filecoin-smart-contracts/",
+          "publishedOn": "2023-03-15T18:43:00.000Z",
+          "wordCount": 1605,
+          "title": "Filecoin Launches Ethereum-compatible Smart Contracts",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/15144154/FVM.jpg"
+        },
+        {
           "id": "https://thedefiant.io/defi-alpha-call-41/",
           "author": "The Defiant Team",
           "description": "The DeFi Alpha Call is an exclusive weekly call for our premium subscribers\nwhere yyctrader and Diego talk about the market, the latest tutorials, and the\nhottest NFTs.",
@@ -1056,16 +1066,6 @@
           "wordCount": 959,
           "title": "How to Use Lido on Arbitrum and Optimism",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/21091033/How-to-Use-Lido-on-Arbitrum-and-Optimism.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/aave-and-maker-pull-back-from-paxos-stablecoins/",
-          "author": "Samuel Haig",
-          "description": "Fallout From ‘Tricky Situation’ at Stablecoin Issuer Hits DeFi Protocols",
-          "link": "https://thedefiant.io/aave-and-maker-pull-back-from-paxos-stablecoins/",
-          "publishedOn": "2023-02-21T09:39:08.000Z",
-          "wordCount": 2560,
-          "title": "Aave and Maker Pull Back From Paxos Stablecoins",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/21051435/AaveFreezeBUSD.jpg"
         }
       ]
     },

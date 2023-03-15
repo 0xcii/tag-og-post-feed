@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T18:18:00.968Z</id>
+    <id>urn:2023-03-15T19:11:46.173Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-15T18:18:00.968Z</updated>
+    <updated>2023-03-15T19:11:46.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Filecoin Launches Ethereum-compatible Smart Contracts]]></title>
+        <id>https://thedefiant.io/filecoin-smart-contracts/</id>
+        <link href="https://thedefiant.io/filecoin-smart-contracts/"/>
+        <updated>2023-03-15T18:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Update Enables DeFi, ‘Data DAOs’ and Perpetual Storage]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Alpha Call #41]]></title>
         <id>https://thedefiant.io/defi-alpha-call-41/</id>
@@ -1196,16 +1206,6 @@ blockchains Arbitrum […]]]></summary>
         <summary type="html"><![CDATA[Revert Exploit AMM liquidity management protocol Revert confirmed that their “v3utils” contract was hacked, and 90% of the funds were stolen from a single account. The team stated that they would compensate each victim and provide a post-mortem soon.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave and Maker Pull Back From Paxos Stablecoins]]></title>
-        <id>https://thedefiant.io/aave-and-maker-pull-back-from-paxos-stablecoins/</id>
-        <link href="https://thedefiant.io/aave-and-maker-pull-back-from-paxos-stablecoins/"/>
-        <updated>2023-02-21T09:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Fallout From ‘Tricky Situation’ at Stablecoin Issuer Hits DeFi Protocols]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
