@@ -41,12 +41,12 @@
         {
           "id": "https://medium.com/p/c9866f34555",
           "author": "Arthur Hayes",
-          "description": "",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/curve-ball-c9866f34555?source=rss-2f6e06954878------2",
           "publishedOn": "2023-03-02T23:01:32.000Z",
-          "wordCount": null,
+          "wordCount": 12501,
           "title": "Curve Ball",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*003jTZhr9nW5te7H"
         }
       ]
     },
@@ -67,6 +67,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/uniswap-v3-launches-on-bnb-chain/",
+          "author": "Samuel Haig",
+          "description": "Uniswap, the leading decentralized exchange, went live on BNB Chain following\nmonths of infighting on Wednesday. Uniswap Labs announced the launch of its v3\nprotocol on BNB Chain, saying the blockchain “typically offers faster and\ncheaper transactions than Ethereum,” making the exchange accessible to a broader\nuser base. BNB Chain, a blockchain created by the […]",
+          "link": "https://thedefiant.io/uniswap-v3-launches-on-bnb-chain/",
+          "publishedOn": "2023-03-16T17:54:54.000Z",
+          "wordCount": 1620,
+          "title": "Uniswap v3 Launches On BNB Chain After Months of Infighting",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/16135236/UniBNB.jpg"
+        },
         {
           "id": "https://thedefiant.io/arbitrum-airdrop-set-for-march-23/",
           "author": "Aleksandar Gilbert",
@@ -123,7 +133,7 @@
           "description": "Update Enables DeFi, ‘Data DAOs’ and Perpetual Storage",
           "link": "https://thedefiant.io/filecoin-smart-contracts/",
           "publishedOn": "2023-03-15T18:43:00.000Z",
-          "wordCount": 1605,
+          "wordCount": 1604,
           "title": "Filecoin Launches Ethereum-compatible Smart Contracts",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/15144154/FVM.jpg"
         },
@@ -1056,16 +1066,6 @@
           "wordCount": 1522,
           "title": "STX Doubles as Building-on-Bitcoin Activity Surges",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/22053238/Ordinals.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/swarm-issues-tokenized-tesla-shares/",
-          "author": "Aleksandar Gilbert",
-          "description": "Regulated Exchange Swarm Tokenizes Stocks and Bonds in Real World Asset Push",
-          "link": "https://thedefiant.io/swarm-issues-tokenized-tesla-shares/",
-          "publishedOn": "2023-02-22T13:09:22.000Z",
-          "wordCount": 1986,
-          "title": "Tokenization Picks Up Steam With On-Chain Tesla and Apple Shares",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/22085940/TokenizedStocks.jpg"
         }
       ]
     },
@@ -1086,7 +1086,7 @@
           "description": "What do you think the next big development or trend in DeFi will be?",
           "link": "https://andrecronje.medium.com/kitco-news-questions-2-24-23-372a8a82f287?source=rss-34f4446c6ba1------2",
           "publishedOn": "2023-03-14T04:07:15.000Z",
-          "wordCount": 2015,
+          "wordCount": 2017,
           "title": "Kitco News Questions 2.24.23",
           "imageUrl": null
         }
