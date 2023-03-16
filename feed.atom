@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-16T13:27:06.939Z</id>
+    <id>urn:2023-03-16T14:13:45.385Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-16T13:27:06.939Z</updated>
+    <updated>2023-03-16T14:13:45.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Arbitrum Airdrop coming, Uniswap on BNB, Leveraged Trading, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-arbitrum-airdrop-coming</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-arbitrum-airdrop-coming"/>
+        <updated>2023-03-16T13:47:47.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum Token Coming Arbitrum has announced its token will come in 7 days. You can check address airdrop eligibility at https://arbitrum.foundation/ Uniswap on BnB Chain Uniswap is now deployed on the BnB chain with Wormhole as the designated bridge.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum To Airdrop Long-Awaited ARB Token On March 23]]></title>
+        <id>https://thedefiant.io/arbitrum-airdrop-set-for-march-23/</id>
+        <link href="https://thedefiant.io/arbitrum-airdrop-set-for-march-23/"/>
+        <updated>2023-03-16T13:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Layer 2 Network To Decentralize And Add Support For Layer 3 Blockchains]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Euler Hack Shines Light on Promise – and Peril – of DeFi Composability]]></title>
         <id>https://thedefiant.io/euler-hack-composability-risks/</id>
@@ -1182,16 +1202,6 @@ NFTs]]></summary>
         <summary type="html"><![CDATA[Coinbase to Support EUROC Coinbase will add support for EUROC on Ethereum and will enable trading for EUROC pairs after 9 AM PT on 22 February 2023. Perennial Live on Arbitrum Cash-settled derivatives protocol Perennial launches on Arbitrum. Check our]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stacks’ Token Doubles as Building-on-BTC Activity Surges]]></title>
-        <id>https://thedefiant.io/building-on-bitcoin/</id>
-        <link href="https://thedefiant.io/building-on-bitcoin/"/>
-        <updated>2023-02-22T09:42:58.000Z</updated>
-        <summary type="html"><![CDATA[Ordinals Protocol Mints 150K Tokens in Three Weeks]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
