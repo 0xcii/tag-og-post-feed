@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-17T08:18:13.682Z</id>
+    <id>urn:2023-03-17T09:14:39.689Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-17T08:18:13.682Z</updated>
+    <updated>2023-03-17T09:14:39.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1249,16 +1249,6 @@ With Regulators]]></summary>
         <summary type="html"><![CDATA[Flashbots MEV-Share Research firm Flashbots proposes MEV-Share, a matchmaking protocol that shares MEV (Maximal Extractable Value) gains with Ethereum users. According to the proposal, MEV-Share would be an early implementation of SUAVE, which is a blockchain that would aim to decentralize the block-building process.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Alpha On-Chain]]></title>
-        <id>https://phdcapital.substack.com/p/finding-alpha-on-chain</id>
-        <link href="https://phdcapital.substack.com/p/finding-alpha-on-chain"/>
-        <updated>2023-02-15T20:41:02.000Z</updated>
-        <summary type="html"><![CDATA[Educational Short Story; Finding a gem related to Arthur Hayes]]></summary>
-        <author>
-            <name>PHD Capital</name>
         </author>
     </entry>
 </feed>
