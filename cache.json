@@ -34,12 +34,12 @@
         {
           "id": "https://medium.com/p/c9866f34555",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/curve-ball-c9866f34555?source=rss-2f6e06954878------2",
           "publishedOn": "2023-03-02T23:01:32.000Z",
-          "wordCount": 12501,
+          "wordCount": null,
           "title": "Curve Ball",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*003jTZhr9nW5te7H"
+          "imageUrl": null
         }
       ]
     },
@@ -60,6 +60,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/defi-daily-bitcoin-9-month-high/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/defi-daily-bitcoin-9-month-high/",
+          "publishedOn": "2023-03-18T03:36:33.000Z",
+          "wordCount": 2031,
+          "title": "Bitcoin Hits 9-Month High Above $27,500",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/17212219/BTCDominance.jpg"
+        },
         {
           "id": "https://thedefiant.io/maker-750m-us-treasuries/",
           "author": "Aleksandar Gilbert",
@@ -1049,16 +1059,6 @@
           "wordCount": 3126,
           "title": "Worldcoin Edges Closer to AI-Driven Crypto Identity Device",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/02/24070154/WorldCoinPonderingORB.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/arbitrum-tops-ethereum/",
-          "author": "Aleksandar Gilbert",
-          "description": "Lower Fees Propel Layer 2 Blockchain Past Ethereum For First Time",
-          "link": "https://thedefiant.io/arbitrum-tops-ethereum/",
-          "publishedOn": "2023-02-24T09:50:15.000Z",
-          "wordCount": 1706,
-          "title": "Transactions on Arbitrum Leapfrog Ethereum",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/08/31071626/ArbitrumActivity.jpg"
         }
       ]
     },
