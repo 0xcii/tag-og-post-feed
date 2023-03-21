@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T15:12:38.576Z</id>
+    <id>urn:2023-03-21T16:15:10.119Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-21T15:12:38.576Z</updated>
+    <updated>2023-03-21T16:15:10.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Llama Drama Resolved, Immutable zkEVM, Farming on Conflux, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-llama-drama-resolved</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-llama-drama-resolved"/>
+        <updated>2023-03-21T15:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Llama Drama Resolved The DL team has reached an agreement on the token decision (there won’t be a token nor an airdrop) and all links are now redirecting to the original domain and products. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arch lending: Secure loans against alternative assets starting with crypto [SPONSORED]]]></title>
         <id>https://thedefiant.io/arch-lending-secure-loans-against-alternative-assets-starting-with-crypto/</id>
@@ -975,6 +985,7 @@ founder and CEO of Unstoppable Domains.]]></summary>
         <id>https://medium.com/p/c9866f34555</id>
         <link href="https://entrepreneurshandbook.co/curve-ball-c9866f34555?source=rss-2f6e06954878------2"/>
         <updated>2023-03-02T23:01:32.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
