@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T04:15:26.896Z</id>
+    <id>urn:2023-03-21T05:12:48.141Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-21T04:15:26.896Z</updated>
+    <updated>2023-03-21T05:12:48.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Llama Team Resolves Conflict Over Token Plans]]></title>
+        <id>https://thedefiant.io/defillama-dispute-settled/</id>
+        <link href="https://thedefiant.io/defillama-dispute-settled/"/>
+        <updated>2023-03-21T03:33:04.000Z</updated>
+        <summary type="html"><![CDATA[Forked Domain Redirects To Original Website]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave Community Rallies Behind Proposed Metis Deployment]]></title>
         <id>https://thedefiant.io/aave-v3-metis-proposal/</id>
@@ -1220,16 +1230,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[Coinbase L2 Coniabse launched the testnet of Base, an Ethereum L2 built with the OP stack. The team does not plan to launch any token but announces the Base Ecosystem Fund to support early-stage projects building on Base. Synthetix V3 Deployed Synthetix deployed V3 on Ethereum mainnet and Optimism after audits.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blur Blows Away OpenSea With 82% Share of Trades]]></title>
-        <id>https://thedefiant.io/blur-blows-away-opensea-with-82-share-of-trades/</id>
-        <link href="https://thedefiant.io/blur-blows-away-opensea-with-82-share-of-trades/"/>
-        <updated>2023-02-24T13:43:36.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
