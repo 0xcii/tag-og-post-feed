@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T23:13:08.904Z</id>
+    <id>urn:2023-03-22T01:07:00.254Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-21T23:13:08.904Z</updated>
+    <updated>2023-03-22T01:07:00.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sushi Braces for Legal Fight After SEC Subpoena]]></title>
+        <id>https://thedefiant.io/sushi-braces-for-legal-fight-after-sec-subpoena/</id>
+        <link href="https://thedefiant.io/sushi-braces-for-legal-fight-after-sec-subpoena/"/>
+        <updated>2023-03-22T00:24:04.000Z</updated>
+        <summary type="html"><![CDATA[‘Head Chef’ Asks for $3M to Cover Legal Expenses]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hong Kong To Release Licensing Details For Virtual Asset Businesses In June]]></title>
+        <id>https://thedefiant.io/hk-vasp-licensing-june/</id>
+        <link href="https://thedefiant.io/hk-vasp-licensing-june/"/>
+        <updated>2023-03-21T22:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Stablecoin Regulation Expected In 2024 As Hong Kong Looks To Become Regional
+Crypto Hub]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon and Immutable Team Up On Gaming Focused zkEVM]]></title>
         <id>https://thedefiant.io/polygon-immutable-zkevm/</id>
@@ -1209,27 +1230,6 @@ blockchains]]></summary>
         <summary type="html"><![CDATA[Optimism Wins Over Coinbase as It Gains Ground on Arbitrum]]></summary>
         <author>
             <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakerDAO’s Plan To Enable MKR As Collateral For DAI Draws Comparisons To UST]]></title>
-        <id>https://thedefiant.io/mkr-as-collateral-for-dai-raises-concerns/</id>
-        <link href="https://thedefiant.io/mkr-as-collateral-for-dai-raises-concerns/"/>
-        <updated>2023-02-28T06:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Proposed Change Forms Part Of Co-Founder Rune Christensen’s Controversial
-‘Endgame’ Plan]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Zero-Knowledge Moment Has Arrived]]></title>
-        <id>https://thedefiant.io/zero-knowledge-2023/</id>
-        <link href="https://thedefiant.io/zero-knowledge-2023/"/>
-        <updated>2023-02-27T20:00:41.000Z</updated>
-        <summary type="html"><![CDATA[A Rundown on the Slew of ZK Developments Coming This Year]]></summary>
-        <author>
-            <name>Evan Shapiro</name>
         </author>
     </entry>
     <entry>
