@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T08:16:54.305Z</id>
+    <id>urn:2023-03-22T09:13:03.586Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-22T08:16:54.305Z</updated>
+    <updated>2023-03-22T09:13:03.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Magic Eden on Bitcoin, Perpetual Hot Tub, Upcoming Airdrop, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-magic-eden-on-bitcoin</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-magic-eden-on-bitcoin"/>
+        <updated>2023-03-22T08:52:33.000Z</updated>
+        <summary type="html"><![CDATA[Magic Eden on Bitcoin Multichain NFT marketplace Magic Eden expands to Bitcoin, enabling users to trade Bitcoin NFTs without paying royalties (for now). Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Companies Report Being De-banked To Blockchain Association]]></title>
         <id>https://thedefiant.io/blockchain-assn-says-crypto-cos-debanked/</id>
