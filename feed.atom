@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T20:14:08.482Z</id>
+    <id>urn:2023-03-22T21:11:08.100Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-22T20:14:08.482Z</updated>
+    <updated>2023-03-22T21:11:08.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Markets Trade Lower After 0.25% Rate Hike]]></title>
+        <id>https://thedefiant.io/markets-turn-lower-fed-decision/</id>
+        <link href="https://thedefiant.io/markets-turn-lower-fed-decision/"/>
+        <updated>2023-03-22T20:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ether Drop 4%]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Use Gains Network – Decentralized Derivatives Trading Tutorial]]></title>
         <id>https://thedefiant.io/how-to-use-gains-network-decentralized-derivatives-trading-tutorial/</id>
@@ -282,6 +292,7 @@ blockchain.]]></summary>
         <id>https://medium.com/p/b15230bdd09e</id>
         <link href="https://entrepreneurshandbook.co/kaiseki-b15230bdd09e?source=rss-2f6e06954878------2"/>
         <updated>2023-03-16T22:01:35.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
@@ -1229,16 +1240,6 @@ blockchains]]></summary>
         <summary type="html"><![CDATA[$218M Reverse Hack!?]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism Challenges Arbitrum with ‘Superchain’]]></title>
-        <id>https://thedefiant.io/daily-defiant-optimism-arbitrum-layer-2-war/</id>
-        <link href="https://thedefiant.io/daily-defiant-optimism-arbitrum-layer-2-war/"/>
-        <updated>2023-02-28T13:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
