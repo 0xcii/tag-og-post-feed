@@ -86,9 +86,9 @@
           "description": "Bitcoin and Ether Drop 4%",
           "link": "https://thedefiant.io/markets-turn-lower-fed-decision/",
           "publishedOn": "2023-03-22T20:02:45.000Z",
-          "wordCount": 1391,
+          "wordCount": 1668,
           "title": "Markets Trade Lower After 0.25% Rate Hike",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/22160238/MktsFed.jpg"
         },
         {
           "id": "https://thedefiant.io/how-to-use-gains-network-decentralized-derivatives-trading-tutorial/",
@@ -1393,22 +1393,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd26b85c-dc56-47c7-8e3b-52802c3a7bc8_1200x582.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-revert-exploit-hong",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Revert Exploit AMM liquidity management protocol Revert confirmed that their “v3utils” contract was hacked, and 90% of the funds were stolen from a single account. The team stated that they would compensate each victim and provide a post-mortem soon.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-revert-exploit-hong",
-          "publishedOn": "2023-02-21T11:23:43.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Revert Exploit, Hong Kong to Relax Crypto Ban, NFT Lending, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa750744b-cbc0-4366-8f1e-907249d35e76_1200x703.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa750744b-cbc0-4366-8f1e-907249d35e76_1200x703.jpeg"
         }
       ]
     }
