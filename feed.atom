@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T11:11:21.913Z</id>
+    <id>urn:2023-03-23T12:27:47.357Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-23T11:11:21.913Z</updated>
+    <updated>2023-03-23T12:27:47.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Coinbase Received Wells SEC Notice, Sushi Served SEC Subpoena, ARB Airdrop Guide, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells"/>
+        <updated>2023-03-23T11:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase Received SEC Wells Notice The SEC sent a Wells notice to Coinabse regarding Coinbase's listed digital assets, including staking service Coinbase Earn, Coinbase Prime, and Coinbase Wallet after a cursory investigation. A Wells Notice is a notification issued by regulators to inform individuals or companies of upcoming enforcement actions. Coinbase states they will contest any enforcement in court.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markets Trade Lower After Fed Hikes Rates Again]]></title>
         <id>https://thedefiant.io/defi-daily-markets-drop-fed-hike/</id>
