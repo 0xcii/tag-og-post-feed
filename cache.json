@@ -61,6 +61,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/euler-hacker-returns-90m/",
+          "author": "Owen Fernau",
+          "description": "Lending Protocol Lost $200M On March 13 Through Flash Loan Exploit",
+          "link": "https://thedefiant.io/euler-hacker-returns-90m/",
+          "publishedOn": "2023-03-25T19:00:00.000Z",
+          "wordCount": 907,
+          "title": "Euler Hacker Returns $90M",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/25145915/image-18.png"
+        },
+        {
           "id": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-95/",
           "author": "The Defiant Team",
           "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
@@ -1049,16 +1059,6 @@
           "wordCount": 1973,
           "title": "Silvergate Shares Slump 60% in Two Days As Crypto Firms Scramble To Sever Ties",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/03170609/MKTsDownSg.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/markets-down-silvergate-concerns/",
-          "author": "Aleksandar Gilbert",
-          "description": "Layer 1 Blockchains Have Rough Week",
-          "link": "https://thedefiant.io/markets-down-silvergate-concerns/",
-          "publishedOn": "2023-03-03T21:07:53.000Z",
-          "wordCount": 1528,
-          "title": "Crypto Markets Plunge Amid Silvergate Concerns",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/03171758/MKTsSellOff.webp"
         }
       ]
     },
