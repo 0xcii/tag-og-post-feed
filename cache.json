@@ -61,6 +61,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/polygon-zkevm-live-mainnet/",
+          "author": "Aleksandar Gilbert",
+          "description": "Second zkEVM To Launch In Four Days",
+          "link": "https://thedefiant.io/polygon-zkevm-live-mainnet/",
+          "publishedOn": "2023-03-27T14:00:06.000Z",
+          "wordCount": 2754,
+          "title": "Polygon’s Zero-Knowledge Rollup Goes Live On Mainnet",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/27083559/PolygonzkEVM.jpg"
+        },
+        {
           "id": "https://thedefiant.io/weekly-recap-arbitrum-airdrop-coinbase-vs-sec/",
           "author": "The Defiant Team",
           "description": "Hello Defiers! Happy Weekend! Here’s what we covered this week…",
@@ -1049,16 +1059,6 @@
           "wordCount": 1003,
           "title": "PancakeSwap To Release V3 Iteration In Early April",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/06173657/PancakeV3.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-92/",
-          "author": "The Defiant Team",
-          "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
-          "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-92/",
-          "publishedOn": "2023-03-04T18:15:48.000Z",
-          "wordCount": 531,
-          "title": "📬 Inbox Dump #92",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
         }
       ]
     },
