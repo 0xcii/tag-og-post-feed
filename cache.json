@@ -61,6 +61,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/defi-daily-polygon-zkevm-launched/",
+          "author": "The Defiant Team",
+          "description": "Hello Defiers! Here’s what we are covering today!",
+          "link": "https://thedefiant.io/defi-daily-polygon-zkevm-launched/",
+          "publishedOn": "2023-03-28T21:59:07.000Z",
+          "wordCount": 2051,
+          "title": "Polygon zkEVM Goes Live On Mainnet",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/27083559/PolygonzkEVM.jpg"
+        },
+        {
           "id": "https://thedefiant.io/wassies-popup-hotel/",
           "author": "Tarang Khaitan",
           "description": "Aims To Boost Real World Exposure Of Non-fungible Tokens",
@@ -1049,16 +1059,6 @@
           "wordCount": 1213,
           "title": "Ethereum Name Service Unveils Subdomain Feature",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/07174855/ENSSubdomains.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/illuvium-beyond-card-game/",
-          "author": "Samuel Haig",
-          "description": "Project To Stash Sale Proceeds To Weather Macroeconomic Uncertainty",
-          "link": "https://thedefiant.io/illuvium-beyond-card-game/",
-          "publishedOn": "2023-03-07T21:42:21.000Z",
-          "wordCount": 1365,
-          "title": "Illuvium Launches ‘Beyond’ Collectible Card Game",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/07174114/IlluviumStash.jpg"
         }
       ]
     },
