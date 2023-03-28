@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T21:11:56.169Z</id>
+    <id>urn:2023-03-28T22:12:28.101Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-28T21:11:56.169Z</updated>
+    <updated>2023-03-28T22:12:28.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[MakerDAO Ratifies Constitution Aiming to Further Decentralize DAI Stablecoin]]></title>
+        <title type="html"><![CDATA[Wassies NFT Project Launches Pop-up Hotel In Singapore]]></title>
+        <id>https://thedefiant.io/wassies-popup-hotel/</id>
+        <link href="https://thedefiant.io/wassies-popup-hotel/"/>
+        <updated>2023-03-28T21:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Aims To Boost Real World Exposure Of Non-fungible Tokens]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO Ratifies Constitution Aiming to Decentralize DAI]]></title>
         <id>https://thedefiant.io/makerdao-ratifies-constitution-aiming-to-further-decentralize-dai-stablecoin/</id>
         <link href="https://thedefiant.io/makerdao-ratifies-constitution-aiming-to-further-decentralize-dai-stablecoin/"/>
         <updated>2023-03-28T20:04:12.000Z</updated>
@@ -1217,16 +1227,6 @@ Recovery]]></summary>
         <summary type="html"><![CDATA[PancakeSwap V3 Coming Pancakeswap sets to launch V3 the first week of April. Early and new LPs will be eligible to receive airdrops and an NFT. MEV on Osmosis Osmosis will launch ProtoRev in the upcoming V15 upgrade. ProtoRev is a revenue module that captures MEV as protocol revenue and is expected to generate $10k - $35k per $100m in DEX volume.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket Pool To Launch 8 ETH Minipools]]></title>
-        <id>https://thedefiant.io/rocket-pool-8eth-minipools/</id>
-        <link href="https://thedefiant.io/rocket-pool-8eth-minipools/"/>
-        <updated>2023-03-07T07:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Atlas Upgrade Slated for Early April Will Halve Minimum Staking Requirement]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>
