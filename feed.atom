@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T11:12:22.174Z</id>
+    <id>urn:2023-03-28T12:28:12.740Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-28T11:12:22.174Z</updated>
+    <updated>2023-03-28T12:28:12.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Consenys zkEVM Live, Polygon zkEVM Live, CFTC Sues Binance, ve(3,3) on Arbitrum, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-consenys-zkevm-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-consenys-zkevm-live"/>
+        <updated>2023-03-28T11:52:33.000Z</updated>
+        <summary type="html"><![CDATA[Consensys zkEVM Linea Live Consensys launched its highly anticipated zkEVM Linea with native Metamask integration. Polygon zkEVM Live Polygon launches the zkEVM mainnet beta. It’s an Ethereum scaling solution combining the zk proofs and EVM, supporting faster and cheaper transactions.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teller V2 To Offer Fixed Term Loans Against ‘Any’ Crypto Asset]]></title>
         <id>https://thedefiant.io/teller-v2-lending/</id>
