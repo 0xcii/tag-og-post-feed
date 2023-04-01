@@ -61,6 +61,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/crypto-in-q1-prices-tvl-up-hacks-down/",
+          "author": "The Defiant Team",
+          "description": "Happy Friday, Defiers. It’s time to take stock of what the highlights for DeFi\nand crypto were in the first three months of the year.",
+          "link": "https://thedefiant.io/crypto-in-q1-prices-tvl-up-hacks-down/",
+          "publishedOn": "2023-04-01T01:08:45.000Z",
+          "wordCount": 2025,
+          "title": "Crypto in Q1; Prices & TVL Up, Hacks Down",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/31202038/DappRadarNFTTVL-1.jpg"
+        },
+        {
           "id": "https://thedefiant.io/crypto-markets-rally-on-bets-fed-will-slow-pace-of-rate-hikes/",
           "author": "Aleksandar Gilbert",
           "description": "The Fed Will Likely Opt for a small Interest Rate Hike – If It Hikes At All,\nThat Is",
@@ -1049,16 +1059,6 @@
           "wordCount": 987,
           "title": "ETH Crashes 7% After NYAG Calls Ethereum A Security",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09171538/ETHTanking.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/gitcoin-index-coop-gtceth/",
-          "author": "Tarang Khaitan",
-          "description": "Partnership With Index Coop Will Let Holders Contribute To Public Goods",
-          "link": "https://thedefiant.io/gitcoin-index-coop-gtceth/",
-          "publishedOn": "2023-03-09T19:56:42.000Z",
-          "wordCount": 1119,
-          "title": "Gitcoin Launches gtcETH Index Token To Bolster Funding",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09155540/gtcETH.jpg"
         }
       ]
     },
