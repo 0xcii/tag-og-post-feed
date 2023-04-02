@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T12:23:04.275Z</id>
+    <id>urn:2023-04-02T13:13:48.650Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-02T12:23:04.275Z</updated>
+    <updated>2023-04-02T13:13:48.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Layer 2s and Q1 Recap: DeFi Week Mar. 26]]></title>
+        <id>https://thedefiant.io/weekly-recap-layer-2s-and-q1-wrap/</id>
+        <link href="https://thedefiant.io/weekly-recap-layer-2s-and-q1-wrap/"/>
+        <updated>2023-04-02T11:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Happy weekend Defiers! Here’s what we covered this week.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📬 Inbox Dump #96]]></title>
         <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-96/</id>
@@ -807,7 +817,6 @@ blockchain.]]></summary>
         <id>https://medium.com/p/b15230bdd09e</id>
         <link href="https://entrepreneurshandbook.co/kaiseki-b15230bdd09e?source=rss-2f6e06954878------2"/>
         <updated>2023-03-16T22:01:35.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
@@ -1206,17 +1215,6 @@ Blockchain Lab.]]></summary>
         <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instadapp Launches ‘Avocado’ Multi-Blockchain Wallet]]></title>
-        <id>https://thedefiant.io/instadapp-avocado-multi-network-wallet/</id>
-        <link href="https://thedefiant.io/instadapp-avocado-multi-network-wallet/"/>
-        <updated>2023-03-09T21:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contract Wallet Leverages Account Abstraction and Gas Fees Are Charged In
-USDC]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
     <entry>

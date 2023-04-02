@@ -14,12 +14,12 @@
         {
           "id": "https://medium.com/p/b15230bdd09e",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/kaiseki-b15230bdd09e?source=rss-2f6e06954878------2",
           "publishedOn": "2023-03-16T22:01:35.000Z",
-          "wordCount": 15845,
+          "wordCount": null,
           "title": "Kaiseki",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*kLhvZZlBjkTqOjJK"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/300d4b5cf3ec",
@@ -50,6 +50,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/weekly-recap-layer-2s-and-q1-wrap/",
+          "author": "The Defiant Team",
+          "description": "Happy weekend Defiers! Here’s what we covered this week.",
+          "link": "https://thedefiant.io/weekly-recap-layer-2s-and-q1-wrap/",
+          "publishedOn": "2023-04-02T11:50:16.000Z",
+          "wordCount": 540,
+          "title": "Layer 2s and Q1 Recap: DeFi Week Mar. 26",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/27083620/0f36acbd-857b-4ca6-b26a-10167ddd53c3_3667x2063-1.webp"
+        },
         {
           "id": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-96/",
           "author": "The Defiant Team",
@@ -1039,16 +1049,6 @@
           "wordCount": 2421,
           "title": "Crypto Markets Dive After NYAG Calls Ethereum A Security",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09171538/ETHTanking.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/instadapp-avocado-multi-network-wallet/",
-          "author": "Tarang Khaitan",
-          "description": "Smart Contract Wallet Leverages Account Abstraction and Gas Fees Are Charged In\nUSDC",
-          "link": "https://thedefiant.io/instadapp-avocado-multi-network-wallet/",
-          "publishedOn": "2023-03-09T21:34:33.000Z",
-          "wordCount": 1403,
-          "title": "Instadapp Launches ‘Avocado’ Multi-Blockchain Wallet",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/09173420/InstadappAvocado.jpg"
         }
       ]
     },
