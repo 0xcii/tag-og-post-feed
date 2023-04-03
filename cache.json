@@ -51,14 +51,24 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/defi-alpha-linea-testnet-airdrop-guide/",
+          "author": "yyctrader",
+          "description": "How to Get Started with Polynomial Trade on Optimism",
+          "link": "https://thedefiant.io/defi-alpha-linea-testnet-airdrop-guide/",
+          "publishedOn": "2023-04-03T05:26:10.000Z",
+          "wordCount": 498,
+          "title": "Using ConsenSys’ Linea Testnet For A Potential Airdrop",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
+        },
+        {
           "id": "https://thedefiant.io/weekly-recap-layer-2s-and-q1-wrap/",
           "author": "The Defiant Team",
           "description": "Happy weekend Defiers! Here’s what we covered this week.",
           "link": "https://thedefiant.io/weekly-recap-layer-2s-and-q1-wrap/",
           "publishedOn": "2023-04-02T11:50:16.000Z",
-          "wordCount": null,
+          "wordCount": 550,
           "title": "Layer 2s and Q1 Recap: DeFi Week Mar. 26",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/27083620/0f36acbd-857b-4ca6-b26a-10167ddd53c3_3667x2063-1.webp"
         },
         {
           "id": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-96/",
@@ -66,9 +76,9 @@
           "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
           "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-96/",
           "publishedOn": "2023-04-01T17:44:42.000Z",
-          "wordCount": null,
+          "wordCount": 556,
           "title": "📬 Inbox Dump #96",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
         },
         {
           "id": "https://thedefiant.io/crypto-in-q1-prices-tvl-up-hacks-down/",
@@ -76,9 +86,9 @@
           "description": "Happy Friday, Defiers. It’s time to take stock of what the highlights for DeFi\nand crypto were in the first three months of the year.",
           "link": "https://thedefiant.io/crypto-in-q1-prices-tvl-up-hacks-down/",
           "publishedOn": "2023-04-01T01:08:45.000Z",
-          "wordCount": null,
+          "wordCount": 2034,
           "title": "Crypto in Q1; Prices & TVL Up, Hacks Down",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/31202038/DappRadarNFTTVL-1.jpg"
         },
         {
           "id": "https://thedefiant.io/crypto-markets-rally-on-bets-fed-will-slow-pace-of-rate-hikes/",
@@ -96,7 +106,7 @@
           "description": "Losses Are 90% Lower Than Previous Quarter",
           "link": "https://thedefiant.io/crypto-scammers-pilfered-370m-q1/",
           "publishedOn": "2023-03-31T22:11:23.000Z",
-          "wordCount": 1455,
+          "wordCount": 1451,
           "title": "Crypto Scammers Pilfered Over $370M In Q1",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/31180254/RektReport.jpg"
         },
@@ -126,9 +136,9 @@
           "description": "Hello Defiers!",
           "link": "https://thedefiant.io/defi-daily-governance-token-legal-risks/",
           "publishedOn": "2023-03-31T04:38:49.000Z",
-          "wordCount": null,
+          "wordCount": 1953,
           "title": "US Judge Says Governance Tokens Might Carry Legal Liability",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/30144835/GovTokenRisk.jpg"
         },
         {
           "id": "https://thedefiant.io/kava-tvl-flips-solana/",
@@ -186,7 +196,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-staked-eth-april-12/",
           "publishedOn": "2023-03-30T01:37:23.000Z",
-          "wordCount": 2074,
+          "wordCount": 2078,
           "title": "Staked ETH Withdrawals To Activate In Two Weeks",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/29153858/April12Shapella.jpg"
         },
@@ -246,9 +256,9 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-polygon-zkevm-launched/",
           "publishedOn": "2023-03-28T21:59:07.000Z",
-          "wordCount": null,
+          "wordCount": 2067,
           "title": "Polygon zkEVM Goes Live On Mainnet",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/27083559/PolygonzkEVM.jpg"
         },
         {
           "id": "https://thedefiant.io/wassies-popup-hotel/",
@@ -306,9 +316,9 @@
           "description": "Hello Defiers! Happy Weekend! Here’s what we covered this week…",
           "link": "https://thedefiant.io/weekly-recap-arbitrum-airdrop-coinbase-vs-sec/",
           "publishedOn": "2023-03-26T20:04:07.000Z",
-          "wordCount": null,
+          "wordCount": 3511,
           "title": "Weekly Recap: Arbitrum Airdrop, Coinbase vs. SEC",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/24002301/weeklyrecap.png"
         },
         {
           "id": "https://thedefiant.io/defi-alpha-layerzero-airdrop-guide/",
@@ -316,9 +326,9 @@
           "description": "How to Bridge to the First Live zkEVM on Ethereum (zkSync Era)",
           "link": "https://thedefiant.io/defi-alpha-layerzero-airdrop-guide/",
           "publishedOn": "2023-03-26T05:59:57.000Z",
-          "wordCount": null,
+          "wordCount": 537,
           "title": "Travel The EVM Ecosystem With LayerZero For A Potential Airdrop",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         },
         {
           "id": "https://thedefiant.io/euler-hacker-returns-90m/",
@@ -336,9 +346,9 @@
           "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
           "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-95/",
           "publishedOn": "2023-03-25T18:17:01.000Z",
-          "wordCount": null,
+          "wordCount": 556,
           "title": "📬 Inbox Dump #95",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
         },
         {
           "id": "https://thedefiant.io/defi-daily-zksync-launches-era-mainnet/",
@@ -346,9 +356,9 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-zksync-launches-era-mainnet/",
           "publishedOn": "2023-03-25T04:27:13.000Z",
-          "wordCount": null,
+          "wordCount": 1600,
           "title": "ZkSync Launches First zkEVM Public Mainnet",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/24120406/zksyncEra.jpg"
         },
         {
           "id": "https://thedefiant.io/coinbase-pushes-for-crypto-advocacy/",
@@ -386,9 +396,9 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/arbitrum-airdrop-goes-live/",
           "publishedOn": "2023-03-24T03:41:48.000Z",
-          "wordCount": null,
+          "wordCount": 2150,
           "title": "Arbitrum Airdrop Goes Live!",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/23134508/ArbDropProbs.jpg"
         },
         {
           "id": "https://thedefiant.io/podcast-dan-finlay-metamask-google-of-web3/",
@@ -396,9 +406,9 @@
           "description": "This week on The Defiant Podcast, Camila Russo chats with Dan Finlay, the\nco-founder of MetaMask – one of the leading Web3 wallets.",
           "link": "https://thedefiant.io/podcast-dan-finlay-metamask-google-of-web3/",
           "publishedOn": "2023-03-24T02:19:31.000Z",
-          "wordCount": null,
+          "wordCount": 628,
           "title": "Dan Finlay Explains How MetaMask Will Become The Google of Web3",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/23220159/DanFinlayWebThumb.jpg"
         },
         {
           "id": "https://thedefiant.io/uniswap-v3-avalanche/",
@@ -456,9 +466,9 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-markets-drop-fed-hike/",
           "publishedOn": "2023-03-23T03:20:47.000Z",
-          "wordCount": null,
+          "wordCount": 2099,
           "title": "Markets Trade Lower After Fed Hikes Rates Again",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/22160238/MktsFed.jpg"
         },
         {
           "id": "https://thedefiant.io/coinbase-girds-for-the-defining-case-of-crypto-era/",
@@ -536,9 +546,9 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-traders-bet-arb-above-1/",
           "publishedOn": "2023-03-22T00:50:27.000Z",
-          "wordCount": null,
+          "wordCount": 1999,
           "title": "Traders Bet Arbitrum Token Will Trade Above $1",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/21195422/Airdrops2.webp"
         },
         {
           "id": "https://thedefiant.io/sushi-braces-for-legal-fight-after-sec-subpoena/",
@@ -596,9 +606,9 @@
           "description": "Hey Defiers! Here’s what we covered this week!",
           "link": "https://thedefiant.io/weekly-recap-usdc-fallout/",
           "publishedOn": "2023-03-21T04:39:39.000Z",
-          "wordCount": null,
+          "wordCount": 510,
           "title": "USDC Fallout: DeFi Week Mar. 12",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/27083620/0f36acbd-857b-4ca6-b26a-10167ddd53c3_3667x2063-1.webp"
         },
         {
           "id": "https://thedefiant.io/defillama-dispute-settled/",
@@ -636,9 +646,9 @@
           "description": "How To Buy ETH and Other Tokens At A Discounts On Pendle Finance",
           "link": "https://thedefiant.io/defi-alpha-tricrypto-arbitrum/",
           "publishedOn": "2023-03-20T17:51:00.000Z",
-          "wordCount": null,
+          "wordCount": 556,
           "title": "DeFi Alpha: Earn 50% APR On Tricrypto With Convex On Arbitrum",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         },
         {
           "id": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-94/",
@@ -646,9 +656,9 @@
           "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
           "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-94/",
           "publishedOn": "2023-03-18T17:12:26.000Z",
-          "wordCount": null,
+          "wordCount": 556,
           "title": "📬 Inbox Dump #94",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
         },
         {
           "id": "https://thedefiant.io/defi-daily-bitcoin-9-month-high/",
@@ -656,9 +666,9 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-bitcoin-9-month-high/",
           "publishedOn": "2023-03-18T03:36:33.000Z",
-          "wordCount": null,
+          "wordCount": 2030,
           "title": "Bitcoin Hits 9-Month High Above $27,500",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/17212219/BTCDominance.jpg"
         },
         {
           "id": "https://thedefiant.io/maker-750m-us-treasuries/",
@@ -716,9 +726,9 @@
           "description": "This week on The Defiant podcast, Tegan Kline hosts Jesse Pollak, senior\ndirector of Engineering at Coinbase, Eva Beylin, the director of the Graph\nFoundation, and Ben Jones, the director of the Optimism Foundation, to give us a\ndeep dive into the launch of Base, Coinbase’s recently-launched Layer 2\nblockchain.",
           "link": "https://thedefiant.io/podcast-how-to-decentralize-a-fortune-500-company/",
           "publishedOn": "2023-03-17T15:00:35.000Z",
-          "wordCount": null,
+          "wordCount": 705,
           "title": "How To Decentralize a Fortune 500 Company",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/16161815/BASEWeb.jpg"
         },
         {
           "id": "https://thedefiant.io/defi-daily-arbitrum-announces-token-and-airdrop/",
@@ -726,9 +736,9 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-arbitrum-announces-token-and-airdrop/",
           "publishedOn": "2023-03-16T22:03:47.000Z",
-          "wordCount": null,
+          "wordCount": 2660,
           "title": "Arbitrum To Airdrop Long-Awaited Token On March 23",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/16002059/ArbToken2.jpg"
         },
         {
           "id": "https://thedefiant.io/synthetix-perp-volume-ath/",
@@ -816,9 +826,9 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-meta-abandons-nfts/",
           "publishedOn": "2023-03-15T22:10:57.000Z",
-          "wordCount": null,
+          "wordCount": 2064,
           "title": "Meta Abandons NFTs After Less Than A Year",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/14154902/InstagramNFTsSunset.jpg"
         },
         {
           "id": "https://thedefiant.io/ethereum-shapella-goerli/",
@@ -846,9 +856,9 @@
           "description": "The DeFi Alpha Call is an exclusive weekly call for our premium subscribers\nwhere yyctrader and Diego talk about the market, the latest tutorials, and the\nhottest NFTs.",
           "link": "https://thedefiant.io/defi-alpha-call-41/",
           "publishedOn": "2023-03-15T18:10:08.000Z",
-          "wordCount": null,
+          "wordCount": 548,
           "title": "DeFi Alpha Call #41",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/30125501/DeFiAlphaCall_test.png"
         },
         {
           "id": "https://thedefiant.io/aztec-connect-to-shut-down/",
@@ -886,9 +896,9 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-markets-surge-investors-eye-fed-pause/",
           "publishedOn": "2023-03-14T19:31:05.000Z",
-          "wordCount": null,
+          "wordCount": 2156,
           "title": "Crypto Markets Surge As Investors Predict Fed Pause",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/14000136/RallyAsInvExpectFedPause.jpg"
         },
         {
           "id": "https://thedefiant.io/how-top-stablecoins-depegged-after-the-second-largest-us-bank-failure/",
@@ -966,9 +976,9 @@
           "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
           "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-93/",
           "publishedOn": "2023-03-11T18:57:58.000Z",
-          "wordCount": null,
+          "wordCount": 556,
           "title": "📬 Inbox Dump #93",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
         },
         {
           "id": "https://thedefiant.io/defi-daily-traders-dump-usdc-after-bank-failures/",
@@ -976,9 +986,9 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-traders-dump-usdc-after-bank-failures/",
           "publishedOn": "2023-03-11T08:17:22.000Z",
-          "wordCount": null,
+          "wordCount": 2053,
           "title": "Traders Dump USDC After Silicon Valley Bank and Silvergate Fail",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/10195958/SVB.jpg"
         },
         {
           "id": "https://thedefiant.io/lido-launches-on-polygon/",
@@ -1026,9 +1036,9 @@
           "description": "This week on The Defiant Podcast, Tegan Kline chats with Sreeram Kannan, the\nfounder of Eigen Layer and the director of the University of Washington’s\nBlockchain Lab.",
           "link": "https://thedefiant.io/podcast-eigenlayer-sreeram-kannan/",
           "publishedOn": "2023-03-10T06:16:44.000Z",
-          "wordCount": null,
+          "wordCount": 626,
           "title": "Everything You Need To Know About EigenLayer with Sreeram Kannan",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/10011113/SreeramKWeb1.jpg"
         },
         {
           "id": "https://thedefiant.io/vitalik-metalabel-drop-tops-charts/",
@@ -1039,16 +1049,6 @@
           "wordCount": 1800,
           "title": "Gitcoin’s Metalabel Drop Tops OpenSea Charts",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/10021324/VitMetalabelStonks.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/defi-daily-nyag-calls-ether-a-security/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we are covering today!",
-          "link": "https://thedefiant.io/defi-daily-nyag-calls-ether-a-security/",
-          "publishedOn": "2023-03-09T22:19:15.000Z",
-          "wordCount": null,
-          "title": "Crypto Markets Dive After NYAG Calls Ethereum A Security",
-          "imageUrl": null
         }
       ]
     },
