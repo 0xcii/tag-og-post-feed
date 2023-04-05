@@ -14,12 +14,12 @@
         {
           "id": "https://medium.com/p/b15230bdd09e",
           "author": "Arthur Hayes",
-          "description": "",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/kaiseki-b15230bdd09e?source=rss-2f6e06954878------2",
           "publishedOn": "2023-03-16T22:01:35.000Z",
-          "wordCount": null,
+          "wordCount": 15849,
           "title": "Kaiseki",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*kLhvZZlBjkTqOjJK"
         },
         {
           "id": "https://medium.com/p/300d4b5cf3ec",
@@ -50,6 +50,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/optimism-bedrock-upgrade/",
+          "author": "Samuel Haig",
+          "description": "Market Share Wanes Amid Competition From Arbitrum and zkEVMs",
+          "link": "https://thedefiant.io/optimism-bedrock-upgrade/",
+          "publishedOn": "2023-04-05T19:35:09.000Z",
+          "wordCount": 1493,
+          "title": "Optimism Freezes Code For Bedrock Upgrade",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/05153504/OPBedrockFrozenMrktShareWanes.jpg"
+        },
         {
           "id": "https://thedefiant.io/find-yield-enhancing-solutions-with-tranchess/",
           "author": "Jack Dunham",
@@ -96,7 +106,7 @@
           "description": "Investors Double Down On A Multichain Future",
           "link": "https://thedefiant.io/layerzero-raises-120m-at-3b-valuation/",
           "publishedOn": "2023-04-04T22:25:13.000Z",
-          "wordCount": 1068,
+          "wordCount": 1064,
           "title": "LayerZero Valued At $3B In Series B",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/04182426/L0Raise.jpg"
         },
@@ -426,7 +436,7 @@
           "description": "Hello Defiers! Happy Weekend! Here’s what we covered this week…",
           "link": "https://thedefiant.io/weekly-recap-arbitrum-airdrop-coinbase-vs-sec/",
           "publishedOn": "2023-03-26T20:04:07.000Z",
-          "wordCount": 3494,
+          "wordCount": 3498,
           "title": "Weekly Recap: Arbitrum Airdrop, Coinbase vs. SEC",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/24002301/weeklyrecap.png"
         },
@@ -1039,16 +1049,6 @@
           "wordCount": 1888,
           "title": "Crypto Markets Surge As Investors Predict Fed Pause",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/14000136/RallyAsInvExpectFedPause.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/euler-200m-exploit/",
-          "author": "Tarang Khaitan",
-          "description": "Code Bug Enabled Flash Loan Attack",
-          "link": "https://thedefiant.io/euler-200m-exploit/",
-          "publishedOn": "2023-03-14T02:05:16.000Z",
-          "wordCount": 1623,
-          "title": "DeFi Lender Euler Suffers $200M Exploit",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/13220410/EulerExploit.jpg"
         }
       ]
     },
