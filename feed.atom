@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T01:02:28.161Z</id>
+    <id>urn:2023-04-06T02:28:04.850Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-06T01:02:28.161Z</updated>
+    <updated>2023-04-06T02:28:04.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1260,16 +1260,6 @@ hottest NFTs.]]></summary>
         <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - PancakeSwap V3 Coming, MEV on Osmosis, Yields Across Convex and Curve, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-pancakeswap-v3-coming</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-pancakeswap-v3-coming"/>
-        <updated>2023-03-07T14:26:01.000Z</updated>
-        <summary type="html"><![CDATA[PancakeSwap V3 Coming Pancakeswap sets to launch V3 the first week of April. Early and new LPs will be eligible to receive airdrops and an NFT. MEV on Osmosis Osmosis will launch ProtoRev in the upcoming V15 upgrade. ProtoRev is a revenue module that captures MEV as protocol revenue and is expected to generate $10k - $35k per $100m in DEX volume.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
