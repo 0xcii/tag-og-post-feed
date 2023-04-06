@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T14:11:56.992Z</id>
+    <id>urn:2023-04-06T15:12:00.365Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-06T14:11:56.992Z</updated>
+    <updated>2023-04-06T15:12:00.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -34,10 +34,7 @@ Pro, an aggregator geared towards active NFT traders. Meanwhile, CoW Swap’s ne
         <id>https://thedefiant.io/eth-crosses-1900-on-upgrades/</id>
         <link href="https://thedefiant.io/eth-crosses-1900-on-upgrades/"/>
         <updated>2023-04-06T00:22:45.000Z</updated>
-        <summary type="html"><![CDATA[ETH has crossed the $1,900 price point for the first time in nearly eight months
-as traders continue to price in the Shanghai and Capella upgrades, which will
-allow ETH stakers to begin to withdraw their tokens for the first time. ETH is
-up 2% on Wednesday, rising as high as $1,922, while Bitcoin and […]]]></summary>
+        <summary type="html"><![CDATA[ETH rallies ahead of major network upgrades]]></summary>
         <author>
             <name>Owen Fernau</name>
         </author>
