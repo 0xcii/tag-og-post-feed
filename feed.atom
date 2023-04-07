@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T08:15:57.091Z</id>
+    <id>urn:2023-04-07T09:12:25.106Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-07T08:15:57.091Z</updated>
+    <updated>2023-04-07T09:12:25.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Sentiment Exploit & Recovery, MEV Blocker Live, Tokenomics upgrade, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-sentiment-exploit-and</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-sentiment-exploit-and"/>
+        <updated>2023-04-07T08:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Sentiment Exploit & Recovery Sentiment got exploited and lost ~$1m in USD. The root cause of the exploit was a read-only reentrancy attack, which was used to manipulate the asset price. After a negotiation between the Sentiment team and the attacker, ~90% of lost funds had been returned.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🏦Treasury Says Most DeFi Protocols Should Be Considered Financial Institutions]]></title>
         <id>https://thedefiant.io/defi-daily-treasury-defi-risk-report/</id>
