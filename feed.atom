@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T20:13:06.795Z</id>
+    <id>urn:2023-04-07T21:10:34.305Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-07T20:13:06.795Z</updated>
+    <updated>2023-04-07T21:10:34.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cryptosat Sends Message From Space To Help Scale Ethereum]]></title>
+        <id>https://thedefiant.io/cryptosat-kzg-message-from-space/</id>
+        <link href="https://thedefiant.io/cryptosat-kzg-message-from-space/"/>
+        <updated>2023-04-07T20:37:20.000Z</updated>
+        <summary type="html"><![CDATA[New Cryptographic Scheme Will Enable Future EIP-4844 Upgrade]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Sentiment Exploit & Recovery, MEV Blocker Live, Tokenomics upgrade, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-sentiment-exploit-and</id>
@@ -1198,16 +1208,6 @@ user base. BNB Chain, a blockchain created by the […]]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum’s Shapella Upgrade Passes Final Testnet Deployment]]></title>
-        <id>https://thedefiant.io/ethereum-shapella-goerli/</id>
-        <link href="https://thedefiant.io/ethereum-shapella-goerli/"/>
-        <updated>2023-03-15T20:55:28.000Z</updated>
-        <summary type="html"><![CDATA[Mainnet Launch Will Enable Staked ETH Withdrawals]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Replicated Security Live on Cosmos, Shapella Live on Goerli, Automated LPing, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-replicated-security</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-replicated-security"/>
@@ -1263,16 +1263,6 @@ user base. BNB Chain, a blockchain created by the […]]]></summary>
         <link href="https://todayindefi.substack.com/p/today-in-defi-indexcoop-gtceth-live"/>
         <updated>2023-03-09T13:21:20.000Z</updated>
         <summary type="html"><![CDATA[IndexCoop gtcETH Live IndexCoop launches gtcETH, a staked ETH index with diversified allocation on RockerPool rETH, Lido stETH, and StakeWise sETH2. Maverick v1 Live Maverick v1 is now live on Ethereum. Maverick AMM automates the concentration of liquidity as price moves to increase capital efficiency.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - LsETH Live, Compound V3 on Polygon, Yield Vaults on Optimism, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-lseth-live-compound</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-lseth-live-compound"/>
-        <updated>2023-03-09T08:21:32.000Z</updated>
-        <summary type="html"><![CDATA[LsETH Live Liquid Collective launches lsETH, an ETH staking service that provides KYC/AML compliance. LsETH is now supported on Coinbase Prime and Bitcoin Suisse. Compound V3 on Polygon Compound V3 is now live on Polygon, allowing users to borrow USDC using major assets as collateral.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
