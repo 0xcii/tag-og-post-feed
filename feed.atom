@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-08T18:14:29.080Z</id>
+    <id>urn:2023-04-08T19:09:33.198Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-08T18:14:29.080Z</updated>
+    <updated>2023-04-08T19:09:33.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[📬 Inbox Dump #97]]></title>
+        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-97/</id>
+        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-97/"/>
+        <updated>2023-04-08T17:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Inbox Dump where we include the updates and announcements that flood
+our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👻 Scary Leveraged Loan on Aave]]></title>
         <id>https://thedefiant.io/%f0%9f%91%bb-scary-leveraged-loan-on-aave/</id>
@@ -1199,16 +1210,6 @@ user base. BNB Chain, a blockchain created by the […]]]></summary>
         <summary type="html"><![CDATA[Arbitrum Token Coming Arbitrum has announced its token will come in 7 days. You can check address airdrop eligibility at https://arbitrum.foundation/ Uniswap on BnB Chain Uniswap is now deployed on the BnB chain with Wormhole as the designated bridge.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum To Airdrop Long-Awaited ARB Token On March 23]]></title>
-        <id>https://thedefiant.io/arbitrum-airdrop-set-for-march-23/</id>
-        <link href="https://thedefiant.io/arbitrum-airdrop-set-for-march-23/"/>
-        <updated>2023-03-16T13:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Layer 2 Network To Decentralize And Add Support For Layer 3 Blockchains]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>
