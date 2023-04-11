@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-11T07:12:31.527Z</id>
+    <id>urn:2023-04-11T08:16:57.597Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-11T07:12:31.527Z</updated>
+    <updated>2023-04-11T08:16:57.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,6 +33,16 @@
         <summary type="html"><![CDATA[Recap: Week of Apr. 3rd]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI/Web3 Intersection Will be Mindblowing]]></title>
+        <id>https://thedefiant.io/the-ai-web3-intersection-will-be-mindblowing/</id>
+        <link href="https://thedefiant.io/the-ai-web3-intersection-will-be-mindblowing/"/>
+        <updated>2023-04-10T06:58:01.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT On-Chain]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -1183,16 +1193,6 @@ blockchain.]]></summary>
         <summary type="html"><![CDATA[Nexus Mutual V2 Live Nexus Mutual launches V2, enabling the launch of staking pools, third-party integration, tokenized cover, and improved UX. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum To Airdrop Long-Awaited Token On March 23]]></title>
-        <id>https://thedefiant.io/defi-daily-arbitrum-announces-token-and-airdrop/</id>
-        <link href="https://thedefiant.io/defi-daily-arbitrum-announces-token-and-airdrop/"/>
-        <updated>2023-03-16T22:03:47.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
