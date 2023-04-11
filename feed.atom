@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-11T13:16:47.222Z</id>
+    <id>urn:2023-04-11T14:12:03.422Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-11T13:16:47.222Z</updated>
+    <updated>2023-04-11T14:12:03.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Solend V2 Live, Avocado on Polygon zkEVM, LSD Degen Farm, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-solend-v2-live-avocado</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-solend-v2-live-avocado"/>
+        <updated>2023-04-11T13:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Solend V2 Live Solend V2 phase 1 is now live with borrow weights, TWAP oracles, and outflow rate limits enabled on Solend contracts. Avocado Live on Polygon zkEVM Avocado Wallet now supports Polygon zkEVM. Built by Instadapp, Avocado is a smart contract wallet that allows unified cross-chain execution.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Project Rook is About to be Splintered]]></title>
         <id>https://thedefiant.io/rook-about-to-splinter/</id>
