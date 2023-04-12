@@ -51,6 +51,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/sushi-3m-router-exploit/",
+          "author": "Samuel Haig",
+          "description": "Decentralized Exchange Asks Recent Users To Revoke Approvals For Faulty Contract",
+          "link": "https://thedefiant.io/sushi-3m-router-exploit/",
+          "publishedOn": "2023-04-12T21:30:39.000Z",
+          "wordCount": 1743,
+          "title": "Sushi Plans To Reimburse Victims Of $3.4M Exploit",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/12172922/SushiExploit.jpg"
+        },
+        {
           "id": "https://thedefiant.io/zksync-era-tvl-outpaces-polygon-zkevm/",
           "author": "Owen Fernau",
           "description": "Airdrop Farmers Appear To Be Ignoring Polygon’s Offering Due To Preexisting\nToken",
@@ -1039,16 +1049,6 @@
           "wordCount": 603,
           "title": "📬 Inbox Dump #94",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
-        },
-        {
-          "id": "https://thedefiant.io/defi-daily-bitcoin-9-month-high/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we are covering today!",
-          "link": "https://thedefiant.io/defi-daily-bitcoin-9-month-high/",
-          "publishedOn": "2023-03-18T03:36:33.000Z",
-          "wordCount": 2077,
-          "title": "Bitcoin Hits 9-Month High Above $27,500",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/17212219/BTCDominance.jpg"
         }
       ]
     },
