@@ -51,6 +51,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/eth-hits-2k-after-shapella/",
+          "author": "Owen Fernau",
+          "description": "Markets Rally After Data Shows US Economy Cooling",
+          "link": "https://thedefiant.io/eth-hits-2k-after-shapella/",
+          "publishedOn": "2023-04-13T20:49:56.000Z",
+          "wordCount": 1337,
+          "title": "Ether Surges Past $2,000 After Successful Upgrade",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/13164855/MktsBTCPumpsWhileShapell.jpg"
+        },
+        {
           "id": "https://thedefiant.io/vitalik-on-scaling-eth-after-shapella/",
           "author": "Samuel Haig",
           "description": "Next Major Upgrade Is Expected In Early 2024",
@@ -1039,16 +1049,6 @@
           "wordCount": 569,
           "title": "USDC Fallout: DeFi Week Mar. 12",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/27083620/0f36acbd-857b-4ca6-b26a-10167ddd53c3_3667x2063-1.webp"
-        },
-        {
-          "id": "https://thedefiant.io/defillama-dispute-settled/",
-          "author": "Owen Fernau",
-          "description": "Forked Domain Redirects To Original Website",
-          "link": "https://thedefiant.io/defillama-dispute-settled/",
-          "publishedOn": "2023-03-21T03:33:04.000Z",
-          "wordCount": 1831,
-          "title": "DeFi Llama Team Resolves Conflict Over Token Plans",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/20233204/Screen-Shot-2023-03-20-at-5.33.38-PM.png"
         }
       ]
     },
