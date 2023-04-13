@@ -51,6 +51,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/defi-daily-eth-rallies-2k/",
+          "author": "The Defiant Team",
+          "description": "GM Defiers! ETH hit an 8-month high above $2,000 after the network successfully\nexecuted its Shapella upgrade. Crypto markets continued to rally after softening\nUS economic data boosted investors’ hopes for a Fed pause. Meanwhile, Vitalik is\nlooking ahead to Ethereum’s next hard fork, which promises a 10x improvement in\nscalability. And finally, we have […]",
+          "link": "https://thedefiant.io/defi-daily-eth-rallies-2k/",
+          "publishedOn": "2023-04-13T22:21:28.000Z",
+          "wordCount": 2105,
+          "title": "ETH Hits $2,000 After Successful Upgrade",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/13164855/MktsBTCPumpsWhileShapell.jpg"
+        },
+        {
           "id": "https://thedefiant.io/could-lido-dominate-post-shanghai/",
           "author": "Momir Amidzic",
           "description": "IOSG Ventures Discusses Current State Of Ethereum Staking Market",
@@ -1039,16 +1049,6 @@
           "wordCount": 2819,
           "title": "Arch Lending: Secure loans against alternative assets starting with crypto [Sponsored]",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/21095038/Arch-lending-Secure-loans-against-alternative-assets-starting-with-crypto-SPONSORED.png"
-        },
-        {
-          "id": "https://thedefiant.io/what-is-gains-network/",
-          "author": "Rahul Nambiampurath",
-          "description": "A Deep Dive on Decentralized Derivatives Trading",
-          "link": "https://thedefiant.io/what-is-gains-network/",
-          "publishedOn": "2023-03-21T11:56:11.000Z",
-          "wordCount": 4800,
-          "title": "What Is Gains Network? [Sponsored]",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/21061426/What-is-Gains-Network.jpg"
         }
       ]
     },
