@@ -1064,6 +1064,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Yearn $10m Exploit Yearn is exploited and lost ~$10m. The attacker conducted a flash loan attack through Aave and exploited the Yearn USDT token (yUSDT), then acquired a large number of stables on Curve pool. The team tweets that V1 and V2 vaults are unaffected, and is investigating the contract issue.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum",
+          "publishedOn": "2023-04-13T11:56:49.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Yearn $10m Exploit, Ethereum Shanghai Live, Farming on zkSync Era, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff52d5649-b79d-48ba-b2e2-4cf4b1f4a94a_769x427.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff52d5649-b79d-48ba-b2e2-4cf4b1f4a94a_769x427.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-euler-redemption-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Euler Redemption Live Euler has revised the redemption plan for the exploit. Affected users can now check their redemption numbers at https://redemptions.euler.finance/ Shanghai Mainnet Coming The Ethereum Shanghai upgrade (Shapella) will be activated at block 6209536 (~4/12/2023, 10:27:35 PM UTC).",
