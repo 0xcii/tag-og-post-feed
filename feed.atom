@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T01:03:09.065Z</id>
+    <id>urn:2023-04-13T02:28:17.681Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-13T01:03:09.065Z</updated>
+    <updated>2023-04-13T02:28:17.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🏦Staked ETH Withdrawals Are Live!]]></title>
+        <id>https://thedefiant.io/staked-eth-withdrawals-are-live/</id>
+        <link href="https://thedefiant.io/staked-eth-withdrawals-are-live/"/>
+        <updated>2023-04-13T01:35:14.000Z</updated>
+        <summary type="html"><![CDATA[GM Defiers! Ethereum’s long-awaited Shapella upgrade is live on mainnet, and the
+network is successfully processing withdrawals of staked ETH. Meanwhile, zkSync
+Era has attracted 60x the TVL of Polygon zkEVM as airdrop farmers pile in, and a
+buggy smart contract led to $3.4M in losses at SushiSwap over the weekend. And
+finally, we have […]]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Staked ETH Withdrawals Were Activated in Major Upgrade]]></title>
         <id>https://thedefiant.io/ethereum-shapella-upgrade-live/</id>
@@ -1192,16 +1206,6 @@ cryptocurrencies looking to access liquidity without selling their investments.]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeFi Alpha: Earn 50% APR On Tricrypto With Convex On Arbitrum]]></title>
-        <id>https://thedefiant.io/defi-alpha-tricrypto-arbitrum/</id>
-        <link href="https://thedefiant.io/defi-alpha-tricrypto-arbitrum/"/>
-        <updated>2023-03-20T17:51:00.000Z</updated>
-        <summary type="html"><![CDATA[How To Buy ETH and Other Tokens At A Discounts On Pendle Finance]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Radiant V2 Live, Cosmos Replicated Security, Forking DeFiLlama, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-radiant-v2-live</id>
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-radiant-v2-live"/>
@@ -1247,16 +1251,6 @@ cryptocurrencies looking to access liquidity without selling their investments.]
         <link href="https://todayindefi.substack.com/p/today-in-defi-replicated-security"/>
         <updated>2023-03-15T11:41:07.000Z</updated>
         <summary type="html"><![CDATA[Replicated Security Live on Cosmos The Cosmos v9-Lambda Upgrade is completed and Replicated Security (the first version of Interchain Security) is now live. The upgrade will benefit the consumer chains with additional security and ATOM stakers will have more staking rewards.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Euler Exploit Updates, Gearbox V3 Coming, Smart Contract Wallet, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-euler-exploit-updates</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-euler-exploit-updates"/>
-        <updated>2023-03-14T13:46:33.000Z</updated>
-        <summary type="html"><![CDATA[Euler Exploit Updates Euler was hacked for nearly $200M. due to a vulnerability that allowed the attacker to “create an unbacked token debt position by donating funds to the Euler’s reserves”. As a result, “the attacker was able to liquidate these underwater accounts and profit from the liquidation bonuses.”]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
