@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T21:11:25.813Z</id>
+    <id>urn:2023-04-13T22:12:00.380Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-13T21:11:25.813Z</updated>
+    <updated>2023-04-13T22:12:00.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Post-Shanghai Upgrade: Could Lido Dominate Liquid Staking Long-Term?]]></title>
+        <id>https://thedefiant.io/could-lido-dominate-post-shanghai/</id>
+        <link href="https://thedefiant.io/could-lido-dominate-post-shanghai/"/>
+        <updated>2023-04-13T21:13:29.000Z</updated>
+        <summary type="html"><![CDATA[IOSG Ventures Discusses Current State Of Ethereum Staking Market]]></summary>
+        <author>
+            <name>Momir Amidzic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ether Surges Past $2,000 After Successful Upgrade]]></title>
         <id>https://thedefiant.io/eth-hits-2k-after-shapella/</id>
@@ -1207,16 +1217,6 @@ cryptocurrencies looking to access liquidity without selling their investments.]
         <summary type="html"><![CDATA[A Deep Dive on Decentralized Derivatives Trading]]></summary>
         <author>
             <name>Rahul Nambiampurath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDC Fallout: DeFi Week Mar. 12]]></title>
-        <id>https://thedefiant.io/weekly-recap-usdc-fallout/</id>
-        <link href="https://thedefiant.io/weekly-recap-usdc-fallout/"/>
-        <updated>2023-03-21T04:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Hey Defiers! Here’s what we covered this week!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
