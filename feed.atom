@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T22:11:56.054Z</id>
+    <id>urn:2023-04-14T23:12:17.710Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-14T22:11:56.054Z</updated>
+    <updated>2023-04-14T23:12:17.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ether Surges To 11-Month High Despite $2B In Pending Withdrawals]]></title>
+        <id>https://thedefiant.io/eth-11-month-high/</id>
+        <link href="https://thedefiant.io/eth-11-month-high/"/>
+        <updated>2023-04-14T22:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Staking Deposits Outpace Withdrawals On Friday]]></summary>
+        <author>
+            <name>Aleksandar Gilbert and Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ether.Fi Deposits Rise Ahead Of Mainnet Launch]]></title>
         <id>https://thedefiant.io/etherfi-deposits-rise/</id>
@@ -1209,16 +1219,6 @@ co-founder of MetaMask – one of the leading Web3 wallets.]]></summary>
         <summary type="html"><![CDATA[1BTC = $1M?]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Companies Report Being De-banked To Blockchain Association]]></title>
-        <id>https://thedefiant.io/blockchain-assn-says-crypto-cos-debanked/</id>
-        <link href="https://thedefiant.io/blockchain-assn-says-crypto-cos-debanked/"/>
-        <updated>2023-03-22T03:54:26.000Z</updated>
-        <summary type="html"><![CDATA[Lobbying Group Requested Information From US Banking Regulators Last Week]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
