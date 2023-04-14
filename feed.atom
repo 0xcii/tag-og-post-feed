@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T23:12:53.534Z</id>
+    <id>urn:2023-04-14T01:04:06.377Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-13T23:12:53.534Z</updated>
+    <updated>2023-04-14T01:04:06.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH Stakers are Withdrawing Rewards, Not Principal]]></title>
+        <id>https://thedefiant.io/eth-withdrawn-is-rewards/</id>
+        <link href="https://thedefiant.io/eth-withdrawn-is-rewards/"/>
+        <updated>2023-04-14T00:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Principal Accounts for Less than 5% of Withdrawals a Day After Shapella]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH Hits $2,000 After Successful Upgrade]]></title>
         <id>https://thedefiant.io/defi-daily-eth-rallies-2k/</id>
@@ -1213,17 +1223,6 @@ Crypto Hub]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arch Lending: Secure loans against alternative assets starting with crypto [Sponsored]]]></title>
-        <id>https://thedefiant.io/arch-lending-secure-loans-against-alternative-assets-starting-with-crypto/</id>
-        <link href="https://thedefiant.io/arch-lending-secure-loans-against-alternative-assets-starting-with-crypto/"/>
-        <updated>2023-03-21T13:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Arch is a new lending platform for investors with alternative assets including
-cryptocurrencies looking to access liquidity without selling their investments.]]></summary>
-        <author>
-            <name>ArchLending</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Radiant V2 Live, Cosmos Replicated Security, Forking DeFiLlama, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-radiant-v2-live</id>
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-radiant-v2-live"/>
@@ -1259,16 +1258,6 @@ cryptocurrencies looking to access liquidity without selling their investments.]
         <link href="https://todayindefi.substack.com/p/today-in-defi-arbitrum-airdrop-coming"/>
         <updated>2023-03-16T13:47:47.000Z</updated>
         <summary type="html"><![CDATA[Arbitrum Token Coming Arbitrum has announced its token will come in 7 days. You can check address airdrop eligibility at https://arbitrum.foundation/ Uniswap on BnB Chain Uniswap is now deployed on the BnB chain with Wormhole as the designated bridge.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Replicated Security Live on Cosmos, Shapella Live on Goerli, Automated LPing, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-replicated-security</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-replicated-security"/>
-        <updated>2023-03-15T11:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Replicated Security Live on Cosmos The Cosmos v9-Lambda Upgrade is completed and Replicated Security (the first version of Interchain Security) is now live. The upgrade will benefit the consumer chains with additional security and ATOM stakers will have more staking rewards.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
