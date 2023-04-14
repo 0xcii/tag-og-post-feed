@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T21:11:45.883Z</id>
+    <id>urn:2023-04-14T22:11:56.054Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-14T21:11:45.883Z</updated>
+    <updated>2023-04-14T22:11:56.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ether.Fi Deposits Rise Ahead Of Mainnet Launch]]></title>
+        <id>https://thedefiant.io/etherfi-deposits-rise/</id>
+        <link href="https://thedefiant.io/etherfi-deposits-rise/"/>
+        <updated>2023-04-14T21:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Non-custodial Liquid Staking Protocol Enters Crowded Sector]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bored Apes Drop 8% As Major Holder Exits]]></title>
+        <id>https://thedefiant.io/bayc-drops-after-large-holder-sells/</id>
+        <link href="https://thedefiant.io/bayc-drops-after-large-holder-sells/"/>
+        <updated>2023-04-14T20:53:23.000Z</updated>
+        <summary type="html"><![CDATA[Over 1,000 BAYC NFTs Are Pledged As Collateral On Lending Protocols]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Researcher Predicts Solo Stakers May Get Airdrops]]></title>
         <id>https://thedefiant.io/solo-ethereum-stakers-airdrops/</id>
@@ -194,6 +214,7 @@ blockchain. Leveraged […]]]></summary>
         <id>https://medium.com/p/e63d52378f7</id>
         <link href="https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2"/>
         <updated>2023-04-11T23:01:50.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
@@ -1198,26 +1219,6 @@ co-founder of MetaMask – one of the leading Web3 wallets.]]></summary>
         <summary type="html"><![CDATA[Lobbying Group Requested Information From US Banking Regulators Last Week]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traders Bet Arbitrum Token Will Trade Above $1]]></title>
-        <id>https://thedefiant.io/defi-daily-traders-bet-arb-above-1/</id>
-        <link href="https://thedefiant.io/defi-daily-traders-bet-arb-above-1/"/>
-        <updated>2023-03-22T00:50:27.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sushi Braces for Legal Fight After SEC Subpoena]]></title>
-        <id>https://thedefiant.io/sushi-braces-for-legal-fight-after-sec-subpoena/</id>
-        <link href="https://thedefiant.io/sushi-braces-for-legal-fight-after-sec-subpoena/"/>
-        <updated>2023-03-22T00:24:04.000Z</updated>
-        <summary type="html"><![CDATA[‘Head Chef’ Asks for $3M to Cover Legal Expenses]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>
