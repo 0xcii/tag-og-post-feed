@@ -7,6 +7,39 @@
       "articles": []
     },
     {
+      "title": "Stories by Arthur Hayes on Medium",
+      "feedUrl": "https://medium.com/feed/@cryptohayes",
+      "siteUrl": "https://medium.com/@cryptohayes?source=rss-2f6e06954878------2",
+      "articles": [
+        {
+          "id": "https://medium.com/p/e63d52378f7",
+          "author": "Arthur Hayes",
+          "description": "",
+          "link": "https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2",
+          "publishedOn": "2023-04-11T23:01:50.000Z",
+          "wordCount": null,
+          "title": "Shapella’s Show",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b15230bdd09e",
+          "author": "Arthur Hayes",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "link": "https://entrepreneurshandbook.co/kaiseki-b15230bdd09e?source=rss-2f6e06954878------2",
+          "publishedOn": "2023-03-16T22:01:35.000Z",
+          "wordCount": 15846,
+          "title": "Kaiseki",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*kLhvZZlBjkTqOjJK"
+        }
+      ]
+    },
+    {
+      "title": "Stories by Bagel on Medium",
+      "feedUrl": "https://medium.com/feed/@traderbagel",
+      "siteUrl": "https://medium.com/@traderbagel?source=rss-9af65712cb1b------2",
+      "articles": []
+    },
+    {
       "title": "Future",
       "feedUrl": "https://future.a16z.com/feed",
       "siteUrl": "https://future.com/",
@@ -1018,6 +1051,12 @@
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/21202356/SushiLegalDefenseFund.jpg"
         }
       ]
+    },
+    {
+      "title": "Stories by Andre Cronje on Medium",
+      "feedUrl": "https://andrecronje.medium.com/feed",
+      "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
+      "articles": []
     },
     {
       "title": "Today in DeFi",
