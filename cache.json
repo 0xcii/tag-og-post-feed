@@ -66,9 +66,9 @@
           "description": "Non-custodial Liquid Staking Protocol Enters Crowded Sector",
           "link": "https://thedefiant.io/etherfi-deposits-rise/",
           "publishedOn": "2023-04-14T21:43:26.000Z",
-          "wordCount": 1712,
-          "title": "Ether.Fi Deposits Rise Ahead Of Mainnet Launch",
-          "imageUrl": null
+          "wordCount": 1974,
+          "title": "Liquid Staking Platform Ether.Fi Deposits Surge Ahead Of Launch",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/14174215/etherfiHAYES.jpg"
         },
         {
           "id": "https://thedefiant.io/bayc-drops-after-large-holder-sells/",
@@ -96,7 +96,7 @@
           "description": "Principal Accounts for Less than 5% of Withdrawals a Day After Shapella",
           "link": "https://thedefiant.io/eth-withdrawn-is-rewards/",
           "publishedOn": "2023-04-14T00:40:42.000Z",
-          "wordCount": 1599,
+          "wordCount": 1549,
           "title": "ETH Stakers are Withdrawing Rewards, Not Principal",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/13203916/BarelyUnstaked.jpg"
         },
@@ -146,7 +146,7 @@
           "description": "Crypto Taxes 101",
           "link": "https://thedefiant.io/crypto-taxes-in-2023-quick-dirty/",
           "publishedOn": "2023-04-13T12:30:48.000Z",
-          "wordCount": 864,
+          "wordCount": 814,
           "title": "Crypto Taxes in 2023 (Quick & Dirty)",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/14083135/Crypto-Taxes-101.jpg"
         },
@@ -306,7 +306,7 @@
           "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
           "link": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-97/",
           "publishedOn": "2023-04-08T17:48:31.000Z",
-          "wordCount": 567,
+          "wordCount": 563,
           "title": "📬 Inbox Dump #97",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
         },
@@ -326,7 +326,7 @@
           "description": "Presale Investors To Decide Fate Of Layer 2 DEX Project",
           "link": "https://thedefiant.io/zksync-rescues-gemholic/",
           "publishedOn": "2023-04-07T21:42:14.000Z",
-          "wordCount": 1132,
+          "wordCount": 1128,
           "title": "ZkSync Rescues Gemholic After Botched Token Sale",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/07174135/zksyncGemholicSupport.jpg"
         },
@@ -346,7 +346,7 @@
           "description": "New Cryptographic Scheme Will Enable Future EIP-4844 Upgrade",
           "link": "https://thedefiant.io/cryptosat-kzg-message-from-space/",
           "publishedOn": "2023-04-07T20:37:20.000Z",
-          "wordCount": 1446,
+          "wordCount": 1442,
           "title": "Cryptosat Sends Message From Space To Help Scale Ethereum",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/07163623/KZGCryptosat.jpg"
         },
@@ -426,7 +426,7 @@
           "description": "ETH rallies ahead of major network upgrades",
           "link": "https://thedefiant.io/eth-crosses-1900-on-upgrades/",
           "publishedOn": "2023-04-06T00:22:45.000Z",
-          "wordCount": 1763,
+          "wordCount": 1759,
           "title": "ETH Crosses $1,900 For the First Time Since August",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/05202214/DogeUp.jpg"
         },
@@ -436,7 +436,7 @@
           "description": "OpenSea Courts Active Traders To Reclaim Market Share From Blur",
           "link": "https://thedefiant.io/opensea-pro-nft-aggregator/",
           "publishedOn": "2023-04-05T22:00:11.000Z",
-          "wordCount": 1235,
+          "wordCount": 1231,
           "title": "Gem NFT Aggregator Rebrands As OpenSea Pro",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/05175926/OpenSeaPro2.jpg"
         },
@@ -476,7 +476,7 @@
           "description": "MEV Blocker is an RPC endpoint that prevents frontrunning and sandwich attacks\nfor all types of Ethereum transactions. The product also pays users for any\nbackrunning opportunities they create.",
           "link": "https://thedefiant.io/top-ethereum-projects-launch-wallet-level-solution-to-billion-dollar-mev-problem/",
           "publishedOn": "2023-04-05T16:55:09.000Z",
-          "wordCount": 1536,
+          "wordCount": 1532,
           "title": "Top Ethereum Projects Launch Wallet-Level Solution to Billion-Dollar MEV Problem [Sponsored]",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/05125203/Top-Ethereum-Projects-Launch-Wallet-Level-Solution-to-Billion-Dollar-MEV-Problem-Sponsored.png"
         },
@@ -486,7 +486,7 @@
           "description": "Tranchess: More Than Just Liquid Staking",
           "link": "https://thedefiant.io/what-is-tranchess/",
           "publishedOn": "2023-04-05T10:46:32.000Z",
-          "wordCount": 3654,
+          "wordCount": 3650,
           "title": "What Is Tranchess? [Sponsored]",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/05035933/What-Is-Tranchess.jpg"
         },
@@ -496,7 +496,7 @@
           "description": "GM Defiers, we have a DEX and “Layer” heavy newsletter today. The main piece of\nDeFi drama rippling through the community’s town hall (aka Twitter) is\nArbitrum’s first governance vote. Amid that Layer 2 controversy comes the\nLayerZero raise at a staggering $3B valuation. Meanwhile, Layer 2s are enabling\nnext-gen DEXs, and also on the […]",
           "link": "https://thedefiant.io/%f0%9f%97%b3-sham-votes-and-unicorns/",
           "publishedOn": "2023-04-05T00:52:44.000Z",
-          "wordCount": 2183,
+          "wordCount": 2179,
           "title": "🗳 Sham Votes and Unicorns",
           "imageUrl": null
         },
@@ -506,7 +506,7 @@
           "description": "Investors Double Down On A Multichain Future",
           "link": "https://thedefiant.io/layerzero-raises-120m-at-3b-valuation/",
           "publishedOn": "2023-04-04T22:25:13.000Z",
-          "wordCount": 1088,
+          "wordCount": 1084,
           "title": "LayerZero Valued At $3B In Series B",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/04182426/L0Raise.jpg"
         },
@@ -566,7 +566,7 @@
           "description": "KZG Ceremony",
           "link": "https://thedefiant.io/kzg-ceremony-duo-summons-the-ethereum-road-map-2/",
           "publishedOn": "2023-04-03T12:17:31.000Z",
-          "wordCount": 781,
+          "wordCount": 777,
           "title": "KZG Ceremony Duo Summons The Ethereum Road Map",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/04081849/KZG-Ceremony-Duo-Summons-The-Ethereum-Road-Map.jpg"
         },
@@ -606,7 +606,7 @@
           "description": "Happy Friday, Defiers. It’s time to take stock of what the highlights for DeFi\nand crypto were in the first three months of the year.",
           "link": "https://thedefiant.io/crypto-in-q1-prices-tvl-up-hacks-down/",
           "publishedOn": "2023-04-01T01:08:45.000Z",
-          "wordCount": 2045,
+          "wordCount": 2041,
           "title": "Crypto in Q1; Prices & TVL Up, Hacks Down",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/31202038/DappRadarNFTTVL-1.jpg"
         },
@@ -616,7 +616,7 @@
           "description": "The Fed Will Likely Opt for a small Interest Rate Hike – If It Hikes At All,\nThat Is",
           "link": "https://thedefiant.io/crypto-markets-rally-on-bets-fed-will-slow-pace-of-rate-hikes/",
           "publishedOn": "2023-03-31T23:41:39.000Z",
-          "wordCount": 1642,
+          "wordCount": 1638,
           "title": "Crypto Markets Rally on Bets Fed Will Slow Pace of Rate Hikes",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/31194107/MarketsRally.jpg"
         },
@@ -626,7 +626,7 @@
           "description": "Losses Are 90% Lower Than Previous Quarter",
           "link": "https://thedefiant.io/crypto-scammers-pilfered-370m-q1/",
           "publishedOn": "2023-03-31T22:11:23.000Z",
-          "wordCount": 1462,
+          "wordCount": 1458,
           "title": "Crypto Scammers Pilfered Over $370M In Q1",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/31180254/RektReport.jpg"
         },
@@ -656,7 +656,7 @@
           "description": "Hello Defiers!",
           "link": "https://thedefiant.io/defi-daily-governance-token-legal-risks/",
           "publishedOn": "2023-03-31T04:38:49.000Z",
-          "wordCount": 1964,
+          "wordCount": 1960,
           "title": "US Judge Says Governance Tokens Might Carry Legal Liability",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/30144835/GovTokenRisk.jpg"
         },
@@ -696,7 +696,7 @@
           "description": "bZx DAO and Founders Were Sued After $55M Hack",
           "link": "https://thedefiant.io/gov-tokens-legal-risk/",
           "publishedOn": "2023-03-30T18:50:19.000Z",
-          "wordCount": 2460,
+          "wordCount": 2456,
           "title": "Governance Tokens Might Come With Legal Liability, US Judge Says",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/30144835/GovTokenRisk.jpg"
         },
@@ -706,7 +706,7 @@
           "description": "100 Web3 Projects Part 1",
           "link": "https://thedefiant.io/layer-2s-for-people-in-a-hurry/",
           "publishedOn": "2023-03-30T17:08:42.000Z",
-          "wordCount": 812,
+          "wordCount": 808,
           "title": "Layer 2s for People in a Hurry",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/30130731/Layer-2s-for-People-in-a-Hurry.jpg"
         },
@@ -726,7 +726,7 @@
           "description": "The DEX launched its Liquidity Book model in November.",
           "link": "https://thedefiant.io/trader-joe-grows-on-uniswap-v3-model/",
           "publishedOn": "2023-03-30T00:35:19.000Z",
-          "wordCount": 1881,
+          "wordCount": 1877,
           "title": "Trader Joe is Fastest-Growing DEX After Shift to Uniswap v3-Like Model",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/29203137/TraderJoeLiq.jpg"
         },
@@ -736,7 +736,7 @@
           "description": "Blockchain Adoption Continues As Ticketmaster Launches Token-gated Ticket Sales",
           "link": "https://thedefiant.io/disney-shutters-metaverse-division/",
           "publishedOn": "2023-03-29T21:35:46.000Z",
-          "wordCount": 930,
+          "wordCount": 926,
           "title": "Disney Shutters Metaverse Division",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/29173453/DisneyMetaverse.jpg"
         },
@@ -776,7 +776,7 @@
           "description": "Hello Defiers! Here’s what we are covering today!",
           "link": "https://thedefiant.io/defi-daily-polygon-zkevm-launched/",
           "publishedOn": "2023-03-28T21:59:07.000Z",
-          "wordCount": 2078,
+          "wordCount": 2074,
           "title": "Polygon zkEVM Goes Live On Mainnet",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/27083559/PolygonzkEVM.jpg"
         },
@@ -786,7 +786,7 @@
           "description": "Aims To Boost Real World Exposure Of Non-fungible Tokens",
           "link": "https://thedefiant.io/wassies-popup-hotel/",
           "publishedOn": "2023-03-28T21:30:29.000Z",
-          "wordCount": 891,
+          "wordCount": 887,
           "title": "Wassies NFT Project Launches Pop-up Hotel In Singapore",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/28172914/WassiesHotel.jpg"
         },
@@ -846,7 +846,7 @@
           "description": "How to Bridge to the First Live zkEVM on Ethereum (zkSync Era)",
           "link": "https://thedefiant.io/defi-alpha-layerzero-airdrop-guide/",
           "publishedOn": "2023-03-26T05:59:57.000Z",
-          "wordCount": 552,
+          "wordCount": 548,
           "title": "Travel The EVM Ecosystem With LayerZero For A Potential Airdrop",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         },
@@ -856,7 +856,7 @@
           "description": "Lending Protocol Lost $200M On March 13 Through Flash Loan Exploit",
           "link": "https://thedefiant.io/euler-hacker-returns-90m/",
           "publishedOn": "2023-03-25T19:00:00.000Z",
-          "wordCount": 934,
+          "wordCount": 930,
           "title": "Euler Hacker Returns $90M",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/25145915/image-18.png"
         },
@@ -946,7 +946,7 @@
           "description": "Longtime Critic FatMan Hails Law Enforcement Action As Victory For Crypto Space",
           "link": "https://thedefiant.io/do-kwon-arrested/",
           "publishedOn": "2023-03-23T19:54:21.000Z",
-          "wordCount": 1482,
+          "wordCount": 1478,
           "title": "Terra Founder Do Kwon Arrested In Montenegro",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/23155333/DoKwonArrested.jpg"
         },
@@ -976,7 +976,7 @@
           "description": "Google of Web 3",
           "link": "https://thedefiant.io/dan-finlay-explains-how-metamask-will-become-the-google-of-web-3/",
           "publishedOn": "2023-03-23T08:22:53.000Z",
-          "wordCount": 743,
+          "wordCount": 739,
           "title": "Dan Finlay explains how MetaMask will become the Google of Web 3",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/24042433/Google-of-Web3.jpg"
         },
@@ -996,7 +996,7 @@
           "description": "SEC Alleges Coinbase Is Violating US Securities Laws",
           "link": "https://thedefiant.io/coinbase-girds-for-the-defining-case-of-crypto-era/",
           "publishedOn": "2023-03-23T00:48:26.000Z",
-          "wordCount": 2310,
+          "wordCount": 2306,
           "title": "Coinbase Girds for the ‘Defining Case of Crypto Era’",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/22204820/gensleronethsec.webp"
         },
@@ -1006,7 +1006,7 @@
           "description": "Slams Crypto As Speculative and Ineffective",
           "link": "https://thedefiant.io/wh-report-slams-crypto/",
           "publishedOn": "2023-03-22T21:55:55.000Z",
-          "wordCount": 1288,
+          "wordCount": 1284,
           "title": "White House Report Calls For Greater Oversight of Web3",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/22175507/EconomicReportPresCryptoAssets.jpg"
         },
@@ -1026,7 +1026,7 @@
           "description": "Bitcoin and Ether Drop 4%",
           "link": "https://thedefiant.io/markets-turn-lower-fed-decision/",
           "publishedOn": "2023-03-22T20:02:45.000Z",
-          "wordCount": 1669,
+          "wordCount": 1665,
           "title": "Markets Trade Lower After 0.25% Rate Hike",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/22160238/MktsFed.jpg"
         },
