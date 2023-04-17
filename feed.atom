@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-17T10:14:20.392Z</id>
+    <id>urn:2023-04-17T11:11:21.251Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-17T10:14:20.392Z</updated>
+    <updated>2023-04-17T11:11:21.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Uniswap Wallet on iOS, Ethereum Shanghai Live, Hundred $7m Exploit, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet-b72</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-uniswap-wallet-b72"/>
+        <updated>2023-04-17T10:58:32.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Apr. 10th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shapella Activated: DeFi Week of Apr. 9]]></title>
         <id>https://thedefiant.io/shapella-activated-defi-week-of-apr-9/</id>
