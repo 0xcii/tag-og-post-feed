@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T09:13:06.093Z</id>
+    <id>urn:2023-04-18T10:13:43.230Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-18T09:13:06.093Z</updated>
+    <updated>2023-04-18T10:13:43.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - RocketPool Atlas Live, KyberSwap Elastic Vulnerability, TK, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-rocketpool-atlas-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-rocketpool-atlas-live"/>
+        <updated>2023-04-18T09:41:54.000Z</updated>
+        <summary type="html"><![CDATA[RocketPool Atlas Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap V3 To Launch On Polygon zkEVM]]></title>
         <id>https://thedefiant.io/uniswap-v3-polygon-zkevm/</id>
