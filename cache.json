@@ -14,12 +14,12 @@
         {
           "id": "https://medium.com/p/e63d52378f7",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-11T23:01:50.000Z",
-          "wordCount": 4401,
+          "wordCount": null,
           "title": "Shapella’s Show",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*0bJHXRqSPDFe-6LL"
+          "imageUrl": null
         }
       ]
     },
@@ -40,6 +40,26 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/sec-defi-rule-change/",
+          "author": "Owen Fernau",
+          "description": "The SEC reopened the comment period for a second time on a rulemarking for DeFi",
+          "link": "https://thedefiant.io/sec-defi-rule-change/",
+          "publishedOn": "2023-04-17T23:50:42.000Z",
+          "wordCount": 1800,
+          "title": "“Everybody” Should be Concerned About the SEC’s Proposed Rule Change for DeFi",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/17194916/SECGoesIntoDEFI.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/secs-bittrex-lawsuit-says-algo-dash-are-unregistered-securities/",
+          "author": "Aleksandar Gilbert",
+          "description": "Commission Chair Gensler to Testify Before House Committee Tuesday",
+          "link": "https://thedefiant.io/secs-bittrex-lawsuit-says-algo-dash-are-unregistered-securities/",
+          "publishedOn": "2023-04-17T23:11:00.000Z",
+          "wordCount": 1607,
+          "title": "SEC’s Bittrex Lawsuit Says ALGO, DASH are Unregistered Securities",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/17190838/BITTREXSUED.jpg"
+        },
         {
           "id": "https://thedefiant.io/shapella-activated-defi-week-of-apr-9/",
           "author": "The Defiant Team",
@@ -86,7 +106,7 @@
           "description": "Staking Deposits Outpace Withdrawals On Friday",
           "link": "https://thedefiant.io/eth-11-month-high/",
           "publishedOn": "2023-04-14T22:13:22.000Z",
-          "wordCount": 1706,
+          "wordCount": 1705,
           "title": "Ether Surges To 11-Month High Despite $2B In Pending Withdrawals",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/14181214/ETHSurgesDespiteWithdrawals.jpg"
         },
@@ -1019,26 +1039,6 @@
           "wordCount": 2080,
           "title": "Markets Trade Lower After Fed Hikes Rates Again",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/22160238/MktsFed.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/coinbase-girds-for-the-defining-case-of-crypto-era/",
-          "author": "Aleksandar Gilbert",
-          "description": "SEC Alleges Coinbase Is Violating US Securities Laws",
-          "link": "https://thedefiant.io/coinbase-girds-for-the-defining-case-of-crypto-era/",
-          "publishedOn": "2023-03-23T00:48:26.000Z",
-          "wordCount": 2272,
-          "title": "Coinbase Girds for the ‘Defining Case of Crypto Era’",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/22204820/gensleronethsec.webp"
-        },
-        {
-          "id": "https://thedefiant.io/wh-report-slams-crypto/",
-          "author": "Samuel Haig",
-          "description": "Slams Crypto As Speculative and Ineffective",
-          "link": "https://thedefiant.io/wh-report-slams-crypto/",
-          "publishedOn": "2023-03-22T21:55:55.000Z",
-          "wordCount": 1250,
-          "title": "White House Report Calls For Greater Oversight of Web3",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/22175507/EconomicReportPresCryptoAssets.jpg"
         }
       ]
     },
