@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T01:03:24.624Z</id>
+    <id>urn:2023-04-18T02:28:32.939Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-18T01:03:24.624Z</updated>
+    <updated>2023-04-18T02:28:32.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bringing Institutions and Businesses to DeFi: Maple Finance’s Sidney Powell]]></title>
+        <id>https://thedefiant.io/bringing-institutions-and-businesses-to-defi-maple-finances-sidney-powell/</id>
+        <link href="https://thedefiant.io/bringing-institutions-and-businesses-to-defi-maple-finances-sidney-powell/"/>
+        <updated>2023-04-18T01:07:58.000Z</updated>
+        <summary type="html"><![CDATA[Sidney Powell is the co-founder and CEO of Maple Finance. Maple is a DeFi
+platform that offers uncollateralized loans and facilitates interactions between
+institutional borrowers and lenders. In our conversation we dive into Sidney’s
+background, how uncollateralized loans work, how the bear market affected Maple,
+the benefits of blockchain-based financial systems and more. We begin […]]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress Revives Stablecoin Bill]]></title>
+        <id>https://thedefiant.io/congress-revives-stablecoin-bill/</id>
+        <link href="https://thedefiant.io/congress-revives-stablecoin-bill/"/>
+        <updated>2023-04-18T00:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Proposed Legislation Calls For Monthly Attestations From Stablecoin Issuers and
+Temporary Ban on Some Algorithmic Stablecoins]]></summary>
+        <author>
+            <name>Aleksandar Gilbert</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Everybody” Should be Concerned About the SEC’s Proposed Rule Change for DeFi]]></title>
         <id>https://thedefiant.io/sec-defi-rule-change/</id>
@@ -299,6 +324,7 @@ blockchain. Leveraged […]]]></summary>
         <id>https://medium.com/p/e63d52378f7</id>
         <link href="https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2"/>
         <updated>2023-04-11T23:01:50.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
@@ -1203,26 +1229,6 @@ co-founder of MetaMask – one of the leading Web3 wallets.]]></summary>
         <summary type="html"><![CDATA[Coinbase Received SEC Wells Notice The SEC sent a Wells notice to Coinabse regarding Coinbase's listed digital assets, including staking service Coinbase Earn, Coinbase Prime, and Coinbase Wallet after a cursory investigation. A Wells Notice is a notification issued by regulators to inform individuals or companies of upcoming enforcement actions. Coinbase states they will contest any enforcement in court.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dan Finlay explains how MetaMask will become the Google of Web 3]]></title>
-        <id>https://thedefiant.io/dan-finlay-explains-how-metamask-will-become-the-google-of-web-3/</id>
-        <link href="https://thedefiant.io/dan-finlay-explains-how-metamask-will-become-the-google-of-web-3/"/>
-        <updated>2023-03-23T08:22:53.000Z</updated>
-        <summary type="html"><![CDATA[Google of Web 3]]></summary>
-        <author>
-            <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markets Trade Lower After Fed Hikes Rates Again]]></title>
-        <id>https://thedefiant.io/defi-daily-markets-drop-fed-hike/</id>
-        <link href="https://thedefiant.io/defi-daily-markets-drop-fed-hike/"/>
-        <updated>2023-03-23T03:20:47.000Z</updated>
-        <summary type="html"><![CDATA[Hello Defiers! Here’s what we are covering today!]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>

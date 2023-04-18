@@ -14,12 +14,12 @@
         {
           "id": "https://medium.com/p/e63d52378f7",
           "author": "Arthur Hayes",
-          "description": "",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-11T23:01:50.000Z",
-          "wordCount": null,
+          "wordCount": 4401,
           "title": "Shapella’s Show",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*0bJHXRqSPDFe-6LL"
         }
       ]
     },
@@ -40,6 +40,26 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/bringing-institutions-and-businesses-to-defi-maple-finances-sidney-powell/",
+          "author": "The Defiant Team",
+          "description": "Sidney Powell is the co-founder and CEO of Maple Finance. Maple is a DeFi\nplatform that offers uncollateralized loans and facilitates interactions between\ninstitutional borrowers and lenders. In our conversation we dive into Sidney’s\nbackground, how uncollateralized loans work, how the bear market affected Maple,\nthe benefits of blockchain-based financial systems and more. We begin […]",
+          "link": "https://thedefiant.io/bringing-institutions-and-businesses-to-defi-maple-finances-sidney-powell/",
+          "publishedOn": "2023-04-18T01:07:58.000Z",
+          "wordCount": 690,
+          "title": "Bringing Institutions and Businesses to DeFi: Maple Finance’s Sidney Powell",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/17200901/SidThumb.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/congress-revives-stablecoin-bill/",
+          "author": "Aleksandar Gilbert",
+          "description": "Proposed Legislation Calls For Monthly Attestations From Stablecoin Issuers and\nTemporary Ban on Some Algorithmic Stablecoins",
+          "link": "https://thedefiant.io/congress-revives-stablecoin-bill/",
+          "publishedOn": "2023-04-18T00:40:45.000Z",
+          "wordCount": 1688,
+          "title": "Congress Revives Stablecoin Bill",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/17203956/StablecoinBill.jpg"
+        },
         {
           "id": "https://thedefiant.io/sec-defi-rule-change/",
           "author": "Owen Fernau",
@@ -1019,26 +1039,6 @@
           "wordCount": 1061,
           "title": "DRPC Launches With Aim to Decentralize  Ethereum Access",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/23133607/DRPC.png"
-        },
-        {
-          "id": "https://thedefiant.io/dan-finlay-explains-how-metamask-will-become-the-google-of-web-3/",
-          "author": "Camila Russo",
-          "description": "Google of Web 3",
-          "link": "https://thedefiant.io/dan-finlay-explains-how-metamask-will-become-the-google-of-web-3/",
-          "publishedOn": "2023-03-23T08:22:53.000Z",
-          "wordCount": 705,
-          "title": "Dan Finlay explains how MetaMask will become the Google of Web 3",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/24042433/Google-of-Web3.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/defi-daily-markets-drop-fed-hike/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers! Here’s what we are covering today!",
-          "link": "https://thedefiant.io/defi-daily-markets-drop-fed-hike/",
-          "publishedOn": "2023-03-23T03:20:47.000Z",
-          "wordCount": 2080,
-          "title": "Markets Trade Lower After Fed Hikes Rates Again",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/22160238/MktsFed.jpg"
         }
       ]
     },
