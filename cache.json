@@ -14,12 +14,12 @@
         {
           "id": "https://medium.com/p/e63d52378f7",
           "author": "Arthur Hayes",
-          "description": "",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-11T23:01:50.000Z",
-          "wordCount": null,
+          "wordCount": 4400,
           "title": "Shapella’s Show",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*0bJHXRqSPDFe-6LL"
         }
       ]
     },
@@ -40,6 +40,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/unknown-wallet-exploit-10m/",
+          "author": "Tarang Khaitan",
+          "description": "Wallet Exploit Reportedly Targets Crypto Veterans",
+          "link": "https://thedefiant.io/unknown-wallet-exploit-10m/",
+          "publishedOn": "2023-04-19T22:12:25.000Z",
+          "wordCount": 1218,
+          "title": "Unknown Exploit Has Drained Over $10M In The Past Five Months",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/19181132/wallet_exploits.jpg"
+        },
         {
           "id": "https://thedefiant.io/kyberswap-elastic-bug/",
           "author": "Tarang Khaitan",
@@ -1029,16 +1039,6 @@
           "wordCount": 1428,
           "title": "Coinbase’s Armstrong Pushes for Grassroots Crypto Advocacy in SEC Fight",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/24164400/coinbase.png"
-        },
-        {
-          "id": "https://thedefiant.io/zksync-era-mainnet-live/",
-          "author": "Samuel Haig",
-          "description": "Matter Labs Wins Race To Release First zkEVM",
-          "link": "https://thedefiant.io/zksync-era-mainnet-live/",
-          "publishedOn": "2023-03-24T16:05:37.000Z",
-          "wordCount": 1604,
-          "title": "ZkSync Launches ‘Era’ Public Mainnet",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/24120406/zksyncEra.jpg"
         }
       ]
     },
