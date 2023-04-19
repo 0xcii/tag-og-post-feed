@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T20:14:09.440Z</id>
+    <id>urn:2023-04-19T21:11:46.196Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-19T20:14:09.440Z</updated>
+    <updated>2023-04-19T21:11:46.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[KyberSwap Discovers Critical Bug In ‘Elastic’ AMM]]></title>
+        <id>https://thedefiant.io/kyberswap-elastic-bug/</id>
+        <link href="https://thedefiant.io/kyberswap-elastic-bug/"/>
+        <updated>2023-04-19T20:13:55.000Z</updated>
+        <summary type="html"><![CDATA[TVL Drops 95% After LPs Were Asked To Withdraw Liquidity]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Maverick Live on zkSync Era, Li.Fi Bridge Insurance, LSD Degen Farm, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-maverick-live-on-zksync</id>
@@ -1222,16 +1232,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <summary type="html"><![CDATA[Matter Labs Wins Race To Release First zkEVM]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Lending Protocol Boosts Optimism TVL]]></title>
-        <id>https://thedefiant.io/sonne-boosts-optimism-tvl/</id>
-        <link href="https://thedefiant.io/sonne-boosts-optimism-tvl/"/>
-        <updated>2023-03-24T14:57:04.000Z</updated>
-        <summary type="html"><![CDATA[Deposits in Sonne Finance Have Quintupled Since Mid-February]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>
