@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T20:13:25.717Z</id>
+    <id>urn:2023-04-20T21:11:13.107Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-20T20:13:25.717Z</updated>
+    <updated>2023-04-20T21:11:13.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Société Générale Launches Euro Stablecoin]]></title>
+        <id>https://thedefiant.io/socgen-euro-stablecoin/</id>
+        <link href="https://thedefiant.io/socgen-euro-stablecoin/"/>
+        <updated>2023-04-20T20:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Europe’s 7th-largest Bank Targets Institutional Users With EURCV]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Metronome Synth? [Sponsored]]]></title>
         <id>https://thedefiant.io/what-is-metronome-synth/</id>
@@ -1238,17 +1248,6 @@ That Is]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[📬 Inbox Dump #95]]></title>
-        <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-95/</id>
-        <link href="https://thedefiant.io/%f0%9f%93%ac-inbox-dump-95/"/>
-        <updated>2023-03-25T18:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Inbox Dump where we include the updates and announcements that flood
-our DMs each week and didn’t make it to The Defiant’s content platforms.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - ARB Drop Live, Do Kwon Arrested, ZK Chains Launching, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-arb-drop-live-do-kwon</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-arb-drop-live-do-kwon"/>
@@ -1264,16 +1263,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
         <link href="https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells"/>
         <updated>2023-03-23T11:18:59.000Z</updated>
         <summary type="html"><![CDATA[Coinbase Received SEC Wells Notice The SEC sent a Wells notice to Coinabse regarding Coinbase's listed digital assets, including staking service Coinbase Earn, Coinbase Prime, and Coinbase Wallet after a cursory investigation. A Wells Notice is a notification issued by regulators to inform individuals or companies of upcoming enforcement actions. Coinbase states they will contest any enforcement in court.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Magic Eden on Bitcoin, Perpetual Hot Tub, Upcoming Airdrop, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-magic-eden-on-bitcoin</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-magic-eden-on-bitcoin"/>
-        <updated>2023-03-22T08:52:33.000Z</updated>
-        <summary type="html"><![CDATA[Magic Eden on Bitcoin Multichain NFT marketplace Magic Eden expands to Bitcoin, enabling users to trade Bitcoin NFTs without paying royalties (for now). Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
