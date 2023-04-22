@@ -51,6 +51,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/defi-projects-fail-to-recover-after-hacks/",
+          "author": "Owen Fernau",
+          "description": "TVL of hacked DeFi protocols dives by over 90% and fails to recover.",
+          "link": "https://thedefiant.io/defi-projects-fail-to-recover-after-hacks/",
+          "publishedOn": "2023-04-21T23:35:04.000Z",
+          "wordCount": null,
+          "title": "Most DeFi Protocols Fade After They’re Hacked, Analysis Shows",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/tornado-cash-pertsev-to-be-released/",
           "author": "Tarang Khaitan",
           "description": "Alexey Pertsev Has Been In Prison For Over Nine Months Without Trial",
@@ -86,7 +96,7 @@
           "description": "Major Marketplaces See Active Users Plummet",
           "link": "https://thedefiant.io/nft-traders-flip-memecoins/",
           "publishedOn": "2023-04-20T23:56:07.000Z",
-          "wordCount": 1207,
+          "wordCount": 1198,
           "title": "NFT Traders Turn To Flipping Memecoins",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/20195408/Rotation.jpg"
         },
@@ -1039,16 +1049,6 @@
           "wordCount": 1951,
           "title": "MakerDAO Ratifies Constitution Aiming to Decentralize DAI",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/28160359/MakerConstitution.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/teller-v2-lending/",
-          "author": "Samuel Haig",
-          "description": "No Liquidations As Long As Repayments Are Timely",
-          "link": "https://thedefiant.io/teller-v2-lending/",
-          "publishedOn": "2023-03-28T05:33:51.000Z",
-          "wordCount": 1377,
-          "title": "Teller V2 To Offer Fixed Term Loans Against ‘Any’ Crypto Asset",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/28013259/TellerV2TimedLiqs.jpg"
         }
       ]
     },
@@ -1350,22 +1350,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7183345d-376d-47f6-b3da-22a242647a5e_1200x630.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Coinbase Received SEC Wells Notice The SEC sent a Wells notice to Coinabse regarding Coinbase's listed digital assets, including staking service Coinbase Earn, Coinbase Prime, and Coinbase Wallet after a cursory investigation. A Wells Notice is a notification issued by regulators to inform individuals or companies of upcoming enforcement actions. Coinbase states they will contest any enforcement in court.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-coinbase-received-wells",
-          "publishedOn": "2023-03-23T11:18:59.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Coinbase Received Wells SEC Notice, Sushi Served SEC Subpoena, ARB Airdrop Guide, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579afc88-bdb8-4755-9524-6d4108e6426d_1200x630.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579afc88-bdb8-4755-9524-6d4108e6426d_1200x630.png"
         }
       ]
     }
