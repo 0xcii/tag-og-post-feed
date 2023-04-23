@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T17:11:07.248Z</id>
+    <id>urn:2023-04-23T18:14:52.713Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-23T17:11:07.248Z</updated>
+    <updated>2023-04-23T18:14:52.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gensler & Memecoins: DeFi Week of April 17]]></title>
+        <id>https://thedefiant.io/gensler-memecoins-defi-week-of-april-17/</id>
+        <link href="https://thedefiant.io/gensler-memecoins-defi-week-of-april-17/"/>
+        <updated>2023-04-23T17:43:06.000Z</updated>
+        <summary type="html"><![CDATA[GM Defiers and happy weekend.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📬 Inbox Dump #99]]></title>
         <id>https://thedefiant.io/%f0%9f%93%ac-inbox-dump-99/</id>
@@ -1245,16 +1255,6 @@ That Is]]></summary>
         <summary type="html"><![CDATA[Euler Hacker Returning Funds Euler lost ~$200 million in a flash-loan attack on March 13. The hacker has now returned ~84% (approx. $176m) of the stolen funds while the negotiation is ongoing. Free Web3 Domain Based on your Twitter Handle Unstoppable Domains is a sponsor of Today in DeFi and a domain registrar that allows you to own domain names representing your unique identity or brand on web3.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Market Shrugs Off CFTC Lawsuit Against Binance]]></title>
-        <id>https://thedefiant.io/market-shrugs-off-cftc-lawsuit-against-binance/</id>
-        <link href="https://thedefiant.io/market-shrugs-off-cftc-lawsuit-against-binance/"/>
-        <updated>2023-03-29T00:56:07.000Z</updated>
-        <summary type="html"><![CDATA[Declines in Binance TVL and token barely outpacing broader crypto market.]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
         </author>
     </entry>
     <entry>

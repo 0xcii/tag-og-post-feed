@@ -51,6 +51,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/gensler-memecoins-defi-week-of-april-17/",
+          "author": "The Defiant Team",
+          "description": "GM Defiers and happy weekend.",
+          "link": "https://thedefiant.io/gensler-memecoins-defi-week-of-april-17/",
+          "publishedOn": "2023-04-23T17:43:06.000Z",
+          "wordCount": 539,
+          "title": "Gensler & Memecoins: DeFi Week of April 17",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/20195408/Rotation.jpg"
+        },
+        {
           "id": "https://thedefiant.io/%f0%9f%93%ac-inbox-dump-99/",
           "author": "The Defiant Team",
           "description": "Welcome to Inbox Dump where we include the updates and announcements that flood\nour DMs each week and didn’t make it to The Defiant’s content platforms.",
@@ -86,7 +96,7 @@
           "description": "TVL of hacked DeFi protocols dives by over 90% and fails to recover.",
           "link": "https://thedefiant.io/defi-projects-fail-to-recover-after-hacks/",
           "publishedOn": "2023-04-21T23:35:04.000Z",
-          "wordCount": 1924,
+          "wordCount": 1920,
           "title": "Most DeFi Protocols Fade After They’re Hacked, Analysis Shows",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/21191548/eulerHoRStepsDown.jpg"
         },
@@ -96,7 +106,7 @@
           "description": "Alexey Pertsev Has Been In Prison For Over Nine Months Without Trial",
           "link": "https://thedefiant.io/tornado-cash-pertsev-to-be-released/",
           "publishedOn": "2023-04-21T20:06:20.000Z",
-          "wordCount": 1058,
+          "wordCount": 1054,
           "title": "Tornado Cash Developer To Be Released Next Week",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/21160516/TornadoDEVJailed.webp"
         },
@@ -116,7 +126,7 @@
           "description": "Traders Will Be Eligible To Earn Optimism Token Rewards During The 20-Week\nCampaign",
           "link": "https://thedefiant.io/snx-volume-surges-on-op-rewards/",
           "publishedOn": "2023-04-21T00:07:13.000Z",
-          "wordCount": 1095,
+          "wordCount": 1091,
           "title": "Synthetix Volume Surges on Optimism Incentive Program",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/20200600/SNXRising.jpg"
         },
@@ -126,7 +136,7 @@
           "description": "Major Marketplaces See Active Users Plummet",
           "link": "https://thedefiant.io/nft-traders-flip-memecoins/",
           "publishedOn": "2023-04-20T23:56:07.000Z",
-          "wordCount": 1255,
+          "wordCount": 1251,
           "title": "NFT Traders Turn To Flipping Memecoins",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/20195408/Rotation.jpg"
         },
@@ -136,7 +146,7 @@
           "description": "Europe’s 7th-largest Bank Targets Institutional Users With EURCV",
           "link": "https://thedefiant.io/socgen-euro-stablecoin/",
           "publishedOn": "2023-04-20T20:01:53.000Z",
-          "wordCount": 1328,
+          "wordCount": 1324,
           "title": "Société Générale Launches Euro Stablecoin",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/20160019/socgenEurCV.jpg"
         },
@@ -166,7 +176,7 @@
           "description": "Wallet Exploit Reportedly Targets Crypto Veterans",
           "link": "https://thedefiant.io/unknown-wallet-exploit-10m/",
           "publishedOn": "2023-04-19T22:12:25.000Z",
-          "wordCount": 1248,
+          "wordCount": 1244,
           "title": "Unknown Exploit Has Drained Over $10M In The Past Five Months",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/19181132/wallet_exploits.jpg"
         },
@@ -216,7 +226,7 @@
           "description": "SEC Chair Has Previously Said Proof-of-Stake Tokens May Be Considered Securities",
           "link": "https://thedefiant.io/gensler-testifies-congress/",
           "publishedOn": "2023-04-18T22:00:36.000Z",
-          "wordCount": 1820,
+          "wordCount": 1816,
           "title": "Gensler Refuses To Call Ether A Security At Congressional Hearing",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/18175938/GenslerTestimony.jpg"
         },
@@ -846,7 +856,7 @@
           "description": "KZG Ceremony",
           "link": "https://thedefiant.io/kzg-ceremony-duo-summons-the-ethereum-road-map-2/",
           "publishedOn": "2023-04-03T12:17:31.000Z",
-          "wordCount": 812,
+          "wordCount": 808,
           "title": "KZG Ceremony Duo Summons The Ethereum Road Map",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/04081849/KZG-Ceremony-Duo-Summons-The-Ethereum-Road-Map.jpg"
         },
@@ -1039,16 +1049,6 @@
           "wordCount": 1826,
           "title": "Staked ETH Withdrawals To Activate On April 12",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/29153858/April12Shapella.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/market-shrugs-off-cftc-lawsuit-against-binance/",
-          "author": "Aleksandar Gilbert",
-          "description": "Declines in Binance TVL and token barely outpacing broader crypto market.",
-          "link": "https://thedefiant.io/market-shrugs-off-cftc-lawsuit-against-binance/",
-          "publishedOn": "2023-03-29T00:56:07.000Z",
-          "wordCount": 1538,
-          "title": "Market Shrugs Off CFTC Lawsuit Against Binance",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/28205444/BinanceCFTC.jpg"
         }
       ]
     },
