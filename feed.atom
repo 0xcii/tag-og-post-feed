@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T08:16:48.761Z</id>
+    <id>urn:2023-04-25T09:12:52.729Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-25T08:16:48.761Z</updated>
+    <updated>2023-04-25T09:12:52.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Swell Network Beta, Cashmere on Testnet, Stake to Earn, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-swell-network-beta</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-swell-network-beta"/>
+        <updated>2023-04-25T09:05:31.000Z</updated>
+        <summary type="html"><![CDATA[Swell Network Beta Liquid staking protocol Swell Network launches beta on Ethereum, offering zero-fees staking with an opportunity to participate in Swell’s governance. Cashmere on Testnet Cashmere, an MEV-protected cross-chain swap, is now live on testnet]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Name Service: Nick Johnson’s Journey from Google to Ethereum, ENS Roadmap, and Cancel Culture]]></title>
         <id>https://thedefiant.io/ethereum-name-service-nick-johnsons-journey-from-google-to-ethereum-ens-roadmap-and-cancel-culture/</id>
