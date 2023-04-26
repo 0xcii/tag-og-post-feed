@@ -121,6 +121,16 @@
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/26044331/PEPE-COIN-GENSLR-COIN-WOJAK-COIN-TRUMP-COIN-REKT-COIN-STONKS-COIN-WHEN-DOES-IT-STOP.jpg"
         },
         {
+          "id": "https://thedefiant.io/ethereum-name-service-nick-johnsons-journey-from-google-to-ethereum-ens-roadmap-cancel-culture/",
+          "author": "Tegan Kline",
+          "description": "from Google to Ethereum",
+          "link": "https://thedefiant.io/ethereum-name-service-nick-johnsons-journey-from-google-to-ethereum-ens-roadmap-cancel-culture/",
+          "publishedOn": "2023-04-24T07:25:12.000Z",
+          "wordCount": 874,
+          "title": "Ethereum Name Service: Nick Johnson’s Journey from Google to Ethereum, ENS Roadmap, & Cancel Culture",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/26052438/from-google-to-ethereum.jpg"
+        },
+        {
           "id": "https://thedefiant.io/gensler-memecoins-defi-week-of-april-17/",
           "author": "The Defiant Team",
           "description": "GM Defiers and happy weekend.",
@@ -1039,16 +1049,6 @@
           "wordCount": 2523,
           "title": "Arbitrum Airdrop is Helping Smaller DAOs Survive the Bear Market",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/30163419/DAOsArbAirdrop-1.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/aave-polygon-zkevm-deployment/",
-          "author": "Samuel Haig",
-          "description": "Leading DeFi Lender Looks To Expand L2 Presence",
-          "link": "https://thedefiant.io/aave-polygon-zkevm-deployment/",
-          "publishedOn": "2023-03-30T20:26:58.000Z",
-          "wordCount": 1273,
-          "title": "Aave To Launch on Polygon zkEVM",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/30162545/AavezkEVM.jpg"
         }
       ]
     },
@@ -1063,6 +1063,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "LayerZero on Polygon zkEVM Interoperability protocol LayerZero is now live on Polygon zkEVM, enabling devs to build on Polygon zkEVM and expand to 30+ supported chains with ease. Support Today in DeFi Today in DeFi is now a grantee on Gitcoin Grants’ latest round.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon",
+          "publishedOn": "2023-04-26T09:34:49.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - LayerZero on Polygon zkEVM, Optimism Superchain Token List, Stake to Earn on Arbitrum, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66cb1266-1261-41ea-833c-b255418d4ced_900x506.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66cb1266-1261-41ea-833c-b255418d4ced_900x506.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-swell-network-beta",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
