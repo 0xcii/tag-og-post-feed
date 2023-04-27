@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T13:16:15.701Z</id>
+    <id>urn:2023-04-27T14:11:48.631Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-27T13:16:15.701Z</updated>
+    <updated>2023-04-27T14:11:48.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Vertex Live on Arbitrum, Avalanche Ethereum Native USDC Bridging, Cross-chain Liquid Staking, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum"/>
+        <updated>2023-04-27T14:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Vertex Live on Arbitrum Vertex is now live on Arbitrum, enabling cross-margin trading for spot and derivatives. Vertex combines an off-chain order book layered on top of an on-chain automated market maker on a decentralized, self-custodial exchange.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚀ETH Stakers Flock To Rocket Pool]]></title>
         <id>https://thedefiant.io/eth-stakers-flock-to-rocket-pool/</id>
