@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T19:10:12.403Z</id>
+    <id>urn:2023-04-27T20:13:29.169Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-27T19:10:12.403Z</updated>
+    <updated>2023-04-27T20:13:29.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud Boosts Web3 Presence With Polygon Partnership]]></title>
+        <id>https://thedefiant.io/google-cloud-polygon-partnership/</id>
+        <link href="https://thedefiant.io/google-cloud-polygon-partnership/"/>
+        <updated>2023-04-27T19:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Search Giant Expands Web3 Accelerator Program]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Teams Up With AltLayer In Layer 3 Push]]></title>
+        <id>https://thedefiant.io/altlayer-arbitrum-layer3/</id>
+        <link href="https://thedefiant.io/altlayer-arbitrum-layer3/"/>
+        <updated>2023-04-27T18:59:18.000Z</updated>
+        <summary type="html"><![CDATA[AppChain Model Favors Customization Over One-Size-Fits-All Approach]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Vertex Live on Arbitrum, Avalanche Ethereum Native USDC Bridging, Cross-chain Liquid Staking, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum</id>
@@ -1258,27 +1278,6 @@ our DMs each week and didn’t make it to The Defiant’s content platforms.]]><
 and crypto were in the first three months of the year.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Rally on Bets Fed Will Slow Pace of Rate Hikes]]></title>
-        <id>https://thedefiant.io/crypto-markets-rally-on-bets-fed-will-slow-pace-of-rate-hikes/</id>
-        <link href="https://thedefiant.io/crypto-markets-rally-on-bets-fed-will-slow-pace-of-rate-hikes/"/>
-        <updated>2023-03-31T23:41:39.000Z</updated>
-        <summary type="html"><![CDATA[The Fed Will Likely Opt for a small Interest Rate Hike – If It Hikes At All,
-That Is]]></summary>
-        <author>
-            <name>Aleksandar Gilbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Scammers Pilfered Over $370M In Q1]]></title>
-        <id>https://thedefiant.io/crypto-scammers-pilfered-370m-q1/</id>
-        <link href="https://thedefiant.io/crypto-scammers-pilfered-370m-q1/"/>
-        <updated>2023-03-31T22:11:23.000Z</updated>
-        <summary type="html"><![CDATA[Losses Are 90% Lower Than Previous Quarter]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
