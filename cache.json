@@ -51,6 +51,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/nft-market-capitulation/",
+          "author": "Tarang Khaitan",
+          "description": "Traders Are Booking Nearly $2M In Losses Per Day",
+          "link": "https://thedefiant.io/nft-market-capitulation/",
+          "publishedOn": "2023-04-27T03:57:06.000Z",
+          "wordCount": 1159,
+          "title": "NFT Collectors Capitulate As Downturn Drags On",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/26235701/NFTsCapitulate.jpg"
+        },
+        {
           "id": "https://thedefiant.io/pancakeswap-tokenomics-overhaul/",
           "author": "Owen Fernau",
           "description": "Another 190M Tokens Remain To Be Released",
@@ -366,7 +376,7 @@
           "description": "Proposed Legislation Calls For Monthly Attestations From Stablecoin Issuers and\nTemporary Ban on Some Algorithmic Stablecoins",
           "link": "https://thedefiant.io/congress-revives-stablecoin-bill/",
           "publishedOn": "2023-04-18T00:40:45.000Z",
-          "wordCount": 1724,
+          "wordCount": 1722,
           "title": "Congress Revives Stablecoin Bill",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/17203956/StablecoinBill.jpg"
         },
@@ -726,7 +736,7 @@
           "description": "Presale Investors To Decide Fate Of Layer 2 DEX Project",
           "link": "https://thedefiant.io/zksync-rescues-gemholic/",
           "publishedOn": "2023-04-07T21:42:14.000Z",
-          "wordCount": 1130,
+          "wordCount": 1128,
           "title": "ZkSync Rescues Gemholic After Botched Token Sale",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/07174135/zksyncGemholicSupport.jpg"
         },
@@ -1039,16 +1049,6 @@
           "wordCount": 5105,
           "title": "From dYdX to GMX: What Derivatives DEXs Have and Have Not Achieved",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/31175327/DerivDEXesGotRightGotWrong.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/defi-tvl-bounces-back-even-as-active-users-decline-in-q1/",
-          "author": "Samuel Haig",
-          "description": "Ethereum and its Layer2 ecosystem took the lead.",
-          "link": "https://thedefiant.io/defi-tvl-bounces-back-even-as-active-users-decline-in-q1/",
-          "publishedOn": "2023-03-31T20:55:45.000Z",
-          "wordCount": 1635,
-          "title": "DeFi TVL Bounces Back Even as Active Users Decline in Q1",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/31165448/DappRadarNFTTVL.jpg"
         }
       ]
     },
