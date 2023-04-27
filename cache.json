@@ -51,6 +51,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/pancakeswap-tokenomics-overhaul/",
+          "author": "Owen Fernau",
+          "description": "Another 190M Tokens Remain To Be Released",
+          "link": "https://thedefiant.io/pancakeswap-tokenomics-overhaul/",
+          "publishedOn": "2023-04-27T02:40:46.000Z",
+          "wordCount": null,
+          "title": "CAKE Plummets On Syrup Pool Unlocks",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/rocket-pool-sees-influx-from-kraken/",
           "author": "Samuel Haig",
           "description": "Liquid Staking Protocol Sees Influx Of Displaced Stakers From Kraken",
@@ -216,9 +226,9 @@
           "description": "GM Defiers! NFT traders appear to be turning their attention to memecoins. A\nsubsidiary of Societe Generale, one of Europe’s largest banks, has launched a\neuro-pegged digital asset called EUR CoinVertible. And finally, we delve into\nthe surge in volume on the decentralized derivatives exchange Synthetix, as\nusers trade for the chance to earn Optimism […]",
           "link": "https://thedefiant.io/nft-traders-turn-to-memecoins/",
           "publishedOn": "2023-04-21T03:26:39.000Z",
-          "wordCount": null,
+          "wordCount": 2025,
           "title": "🐸NFT Traders Turn To Flipping Memecoins",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/20195408/Rotation.jpg"
         },
         {
           "id": "https://thedefiant.io/snx-volume-surges-on-op-rewards/",
@@ -266,9 +276,9 @@
           "description": "GM Defiers! An unknown wallet-draining exploit has security researchers\nperplexed after siphoning over $10M over the past five months. MetaMask and\nother wallet providers are investigating. Meanwhile, decentralized exchange\nKyberSwap discovered a critical bug in its Elastic platform and asked users to\nwithdraw their assets. ✍️ In today’s newsletter: 📈 Markets in last 24 hrs: […]",
           "link": "https://thedefiant.io/mystery-wallet-exploit-targets-crypto-vets/",
           "publishedOn": "2023-04-20T03:45:29.000Z",
-          "wordCount": null,
+          "wordCount": 1920,
           "title": "☠️Mystery Wallet Exploit Targets Crypto Veterans",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/19181132/wallet_exploits.jpg"
         },
         {
           "id": "https://thedefiant.io/unknown-wallet-exploit-10m/",
@@ -306,9 +316,9 @@
           "description": "GM Defiers! We have a regulation-heavy newsletter today. But first, we take a\nlook at the recent rally in memecoins like PEPE, which has rallied over 500x in\njust a few days. SEC chair Gensler dodged the question of whether ETH is a\nsecurity while testifying on Capitol Hill. The SEC has sued crypto exchange […]",
           "link": "https://thedefiant.io/meme-coins-rally-like-its-2021/",
           "publishedOn": "2023-04-19T05:10:06.000Z",
-          "wordCount": null,
+          "wordCount": 2890,
           "title": "🐸Meme Coins Rally Like It’s 2021",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/18225556/MEMECOINS.jpg"
         },
         {
           "id": "https://thedefiant.io/memecoin-season/",
@@ -436,9 +446,9 @@
           "description": "GM Defiers! And happy Friday. Another ETH-heavy newsletter. Ether is holding on\nto its post-Shapella gains, hovering above $2,000 at the time of writing, as\nstaking deposits outpace withdrawals. Also, most of those withdrawing are taking\nout rewards, not principal, signaling they want to continue supporting Ethereum.\nAs the Ethereum community runs a victory lap, […]",
           "link": "https://thedefiant.io/%f0%9f%a7%98%e2%99%82%ef%b8%8f-eth-stakers-stick-around/",
           "publishedOn": "2023-04-15T01:26:07.000Z",
-          "wordCount": null,
+          "wordCount": 2578,
           "title": "🧘‍♂️ ETH Stakers Stick Around",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/13164855/MktsBTCPumpsWhileShapell.jpg"
         },
         {
           "id": "https://thedefiant.io/eth-11-month-high/",
@@ -466,7 +476,7 @@
           "description": "Over 1,000 BAYC NFTs Are Pledged As Collateral On Lending Protocols",
           "link": "https://thedefiant.io/bayc-drops-after-large-holder-sells/",
           "publishedOn": "2023-04-14T20:53:23.000Z",
-          "wordCount": 1943,
+          "wordCount": 1941,
           "title": "Bored Apes Drop 8% As Major Holder Exits",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/14165212/BAYCRekt.jpg"
         },
@@ -596,9 +606,9 @@
           "description": "GM Defiers! Today we take stock of the broader DeFi ecosystem. Data shows that\nEthereum is the only major chain to lose users in the bear market, as people\nchoose to transact on cheaper blockchains like BNB and Tron. Meanwhile, over 1M\nOrdinals, which are NFT-like assets, have been inscribed on the Bitcoin\nblockchain. Leveraged […]",
           "link": "https://thedefiant.io/defi-daily-users-favor-bnb-chain-and-tron-over-ethereum/",
           "publishedOn": "2023-04-12T04:55:34.000Z",
-          "wordCount": null,
+          "wordCount": 2179,
           "title": "📊DeFi Users Like BNB Chain and Tron",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/10223654/defi-daily.png"
         },
         {
           "id": "https://thedefiant.io/bitcoin-ordinals-1m/",
@@ -706,9 +716,9 @@
           "description": "GM Defiers! Happy Friday. Today we get kind of cypherpunk, kind of technical,\nwith our content. Our leading story is on the Gauntlet team sounding the alarm\non a large cbETH position on Aave which is just a 9% move away from being\nliquidated and potentially dragging others with it. Meanwhile, Cryptosat, a team\nof […]",
           "link": "https://thedefiant.io/%f0%9f%91%bb-scary-leveraged-loan-on-aave/",
           "publishedOn": "2023-04-08T01:13:55.000Z",
-          "wordCount": null,
+          "wordCount": 2314,
           "title": "👻 Scary Leveraged Loan on Aave",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/07201043/AavecbETHCascLiqRisk.webp"
         },
         {
           "id": "https://thedefiant.io/zksync-rescues-gemholic/",
@@ -886,7 +896,7 @@
           "description": "GM Defiers, we have a DEX and “Layer” heavy newsletter today. The main piece of\nDeFi drama rippling through the community’s town hall (aka Twitter) is\nArbitrum’s first governance vote. Amid that Layer 2 controversy comes the\nLayerZero raise at a staggering $3B valuation. Meanwhile, Layer 2s are enabling\nnext-gen DEXs, and also on the […]",
           "link": "https://thedefiant.io/%f0%9f%97%b3-sham-votes-and-unicorns/",
           "publishedOn": "2023-04-05T00:52:44.000Z",
-          "wordCount": null,
+          "wordCount": 2177,
           "title": "🗳 Sham Votes and Unicorns",
           "imageUrl": null
         },
@@ -996,9 +1006,9 @@
           "description": "Happy Friday, Defiers. It’s time to take stock of what the highlights for DeFi\nand crypto were in the first three months of the year.",
           "link": "https://thedefiant.io/crypto-in-q1-prices-tvl-up-hacks-down/",
           "publishedOn": "2023-04-01T01:08:45.000Z",
-          "wordCount": null,
+          "wordCount": 2039,
           "title": "Crypto in Q1; Prices & TVL Up, Hacks Down",
-          "imageUrl": null
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/31202038/DappRadarNFTTVL-1.jpg"
         },
         {
           "id": "https://thedefiant.io/crypto-markets-rally-on-bets-fed-will-slow-pace-of-rate-hikes/",
@@ -1039,16 +1049,6 @@
           "wordCount": 1635,
           "title": "DeFi TVL Bounces Back Even as Active Users Decline in Q1",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/31165448/DappRadarNFTTVL.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/defi-daily-governance-token-legal-risks/",
-          "author": "The Defiant Team",
-          "description": "Hello Defiers!",
-          "link": "https://thedefiant.io/defi-daily-governance-token-legal-risks/",
-          "publishedOn": "2023-03-31T04:38:49.000Z",
-          "wordCount": 1960,
-          "title": "US Judge Says Governance Tokens Might Carry Legal Liability",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/30144835/GovTokenRisk.jpg"
         }
       ]
     },
