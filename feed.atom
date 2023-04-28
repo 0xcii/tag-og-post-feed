@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T13:15:17.264Z</id>
+    <id>urn:2023-04-28T14:11:48.071Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-28T13:15:17.264Z</updated>
+    <updated>2023-04-28T14:11:48.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Core? [Sponsored]]]></title>
+        <id>https://thedefiant.io/what-is-core/</id>
+        <link href="https://thedefiant.io/what-is-core/"/>
+        <updated>2023-04-28T13:01:12.000Z</updated>
+        <summary type="html"><![CDATA[More Than Just Your Average Crypto Wallet & Portfolio]]></summary>
+        <author>
+            <name>Rahul Nambiampurath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Google Cloud x Polygon Labs, Robinhood Connect, Leveraged Farming on Arbitrum, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-google-cloud-x-polygon</id>
@@ -1280,16 +1290,6 @@ run the […]]]></summary>
         <summary type="html"><![CDATA[How to Get Started with Polynomial Trade on Optimism]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer 2s and Q1 Recap: DeFi Week Mar. 26]]></title>
-        <id>https://thedefiant.io/weekly-recap-layer-2s-and-q1-wrap/</id>
-        <link href="https://thedefiant.io/weekly-recap-layer-2s-and-q1-wrap/"/>
-        <updated>2023-04-02T11:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Happy weekend Defiers! Here’s what we covered this week.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>

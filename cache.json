@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-11T23:01:50.000Z",
-          "wordCount": 4400,
+          "wordCount": 5318,
           "title": "Shapella’s Show",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*0bJHXRqSPDFe-6LL"
         }
@@ -50,6 +50,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/what-is-core/",
+          "author": "Rahul Nambiampurath",
+          "description": "More Than Just Your Average Crypto Wallet & Portfolio",
+          "link": "https://thedefiant.io/what-is-core/",
+          "publishedOn": "2023-04-28T13:01:12.000Z",
+          "wordCount": 2431,
+          "title": "What Is Core? [Sponsored]",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/26115454/What-is-Core.jpg"
+        },
         {
           "id": "https://thedefiant.io/cosmos-appchain-model-gains-traction/",
           "author": "The Defiant Team",
@@ -1039,16 +1049,6 @@
           "wordCount": 482,
           "title": "Using ConsenSys’ Linea Testnet For A Potential Airdrop",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
-        },
-        {
-          "id": "https://thedefiant.io/weekly-recap-layer-2s-and-q1-wrap/",
-          "author": "The Defiant Team",
-          "description": "Happy weekend Defiers! Here’s what we covered this week.",
-          "link": "https://thedefiant.io/weekly-recap-layer-2s-and-q1-wrap/",
-          "publishedOn": "2023-04-02T11:50:16.000Z",
-          "wordCount": 530,
-          "title": "Layer 2s and Q1 Recap: DeFi Week Mar. 26",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/01/27083620/0f36acbd-857b-4ca6-b26a-10167ddd53c3_3667x2063-1.webp"
         }
       ]
     },
