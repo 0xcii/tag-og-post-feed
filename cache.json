@@ -51,6 +51,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/cosmos-replicated-security/",
+          "author": "Owen Fernau",
+          "description": "Neutron Blockchain Will Share Fees With Cosmos Hub",
+          "link": "https://thedefiant.io/cosmos-replicated-security/",
+          "publishedOn": "2023-04-28T02:59:56.000Z",
+          "wordCount": 1379,
+          "title": "Cosmos’ Shared Security Model Gets Vote Of Confidence",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/27225901/ATOMGral.jpg"
+        },
+        {
           "id": "https://thedefiant.io/google-cloud-polygon-partnership/",
           "author": "Samuel Haig",
           "description": "Search Giant Expands Web3 Accelerator Program",
@@ -1039,16 +1049,6 @@
           "wordCount": 536,
           "title": "📬 Inbox Dump #96",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124912/newsletter_thumbnails-02-1.png"
-        },
-        {
-          "id": "https://thedefiant.io/crypto-in-q1-prices-tvl-up-hacks-down/",
-          "author": "The Defiant Team",
-          "description": "Happy Friday, Defiers. It’s time to take stock of what the highlights for DeFi\nand crypto were in the first three months of the year.",
-          "link": "https://thedefiant.io/crypto-in-q1-prices-tvl-up-hacks-down/",
-          "publishedOn": "2023-04-01T01:08:45.000Z",
-          "wordCount": 2019,
-          "title": "Crypto in Q1; Prices & TVL Up, Hacks Down",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/03/31202038/DappRadarNFTTVL-1.jpg"
         }
       ]
     },
