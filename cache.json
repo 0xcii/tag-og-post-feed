@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-11T23:01:50.000Z",
-          "wordCount": 4400,
+          "wordCount": 5318,
           "title": "Shapella’s Show",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*0bJHXRqSPDFe-6LL"
         }
@@ -50,6 +50,26 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/makerdao-to-shut-socgen-vault/",
+          "author": "Samuel Haig",
+          "description": "Collateralized Lending Protocol Reverses Course On Real-World Assets",
+          "link": "https://thedefiant.io/makerdao-to-shut-socgen-vault/",
+          "publishedOn": "2023-04-28T21:51:45.000Z",
+          "wordCount": 1444,
+          "title": "MakerDAO To Shutter SocGen’s $30M Credit Line",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/28175055/MKRSoc2.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/templeton-money-fund-polygon/",
+          "author": "Samuel Haig",
+          "description": "Ethereum Ecosystem Continues To Draw Interest From Institutional Investors",
+          "link": "https://thedefiant.io/templeton-money-fund-polygon/",
+          "publishedOn": "2023-04-28T21:20:07.000Z",
+          "wordCount": 1716,
+          "title": "$1.4 Trillion Investment Firm Launches Tokenized Mutual Fund on Polygon",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/28171917/FranklinTempletonPolygon.jpg"
+        },
         {
           "id": "https://thedefiant.io/what-is-core/",
           "author": "Rahul Nambiampurath",
@@ -1029,26 +1049,6 @@
           "wordCount": 960,
           "title": "$10 Million Dump from Arbitrum Foundation",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/04083416/10-Million-Dump-from-Arbitrum-Foundation.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/kzg-ceremony-duo-summons-the-ethereum-road-map-2/",
-          "author": "Tegan Kline",
-          "description": "KZG Ceremony",
-          "link": "https://thedefiant.io/kzg-ceremony-duo-summons-the-ethereum-road-map-2/",
-          "publishedOn": "2023-04-03T12:17:31.000Z",
-          "wordCount": null,
-          "title": "KZG Ceremony Duo Summons The Ethereum Road Map",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/defi-alpha-linea-testnet-airdrop-guide/",
-          "author": "yyctrader",
-          "description": "How to Get Started with Polynomial Trade on Optimism",
-          "link": "https://thedefiant.io/defi-alpha-linea-testnet-airdrop-guide/",
-          "publishedOn": "2023-04-03T05:26:10.000Z",
-          "wordCount": 566,
-          "title": "Using ConsenSys’ Linea Testnet For A Potential Airdrop",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2022/11/28124921/newsletter_thumbnails-03-1.png"
         }
       ]
     },
@@ -1350,22 +1350,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F579afc88-bdb8-4755-9524-6d4108e6426d_1200x630.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-yama-live-on-arbitrum",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Yama Live on Arbitrum Yama is live on Arbitrum. Yama issues YAMA, an omnichain stablecoin, and allows users to swap between YAMA and USDT without slippage or fees. Users can lend their USDT to the PSM to earn yield. Borrowers can borrow Yama against deposited collateral.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-yama-live-on-arbitrum",
-          "publishedOn": "2023-03-30T09:28:02.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Yama Live on Arbitrum, Balancer Halving, Farming on Arbitrum, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFsa1erDaIAE_wVt.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFsa1erDaIAE_wVt.jpg"
         }
       ]
     }
