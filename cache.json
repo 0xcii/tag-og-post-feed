@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-11T23:01:50.000Z",
-          "wordCount": 4400,
+          "wordCount": 5362,
           "title": "Shapella’s Show",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*0bJHXRqSPDFe-6LL"
         }
@@ -50,6 +50,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/lens-layer-3-momoka/",
+          "author": "Samuel Haig",
+          "description": "‘Momoka’ Will Enable Content To Be Stored Off-chain, Reduce Transaction Costs",
+          "link": "https://thedefiant.io/lens-layer-3-momoka/",
+          "publishedOn": "2023-05-01T20:41:45.000Z",
+          "wordCount": 1583,
+          "title": "Lens Social Media Protocol Unveils Layer 3 Scaling Solution",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/05/01163948/MOMOKA.jpg"
+        },
         {
           "id": "https://thedefiant.io/markets-pull-back-defi-week-of-apr-23/",
           "author": "The Defiant Team",
@@ -1039,16 +1049,6 @@
           "wordCount": 2250,
           "title": "🗳 Sham Votes and Unicorns",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/layerzero-raises-120m-at-3b-valuation/",
-          "author": "Aleksandar Gilbert",
-          "description": "Investors Double Down On A Multichain Future",
-          "link": "https://thedefiant.io/layerzero-raises-120m-at-3b-valuation/",
-          "publishedOn": "2023-04-04T22:25:13.000Z",
-          "wordCount": 1151,
-          "title": "LayerZero Valued At $3B In Series B",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/04182426/L0Raise.jpg"
         }
       ]
     },
