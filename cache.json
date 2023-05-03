@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/exit-liquidity-3052309e6bfa?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-20T23:01:28.000Z",
-          "wordCount": 14983,
+          "wordCount": 14047,
           "title": "Exit Liquidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4ENMSx_rYsxwof5x"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-11T23:01:50.000Z",
-          "wordCount": 5342,
+          "wordCount": 4403,
           "title": "Shapella’s Show",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*0bJHXRqSPDFe-6LL"
         }
@@ -50,6 +50,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/sothebys-nft-marketplace/",
+          "author": "Tarang Khaitan",
+          "description": "Platform To Enforce Creator Royalties Using Smart Contracts",
+          "link": "https://thedefiant.io/sothebys-nft-marketplace/",
+          "publishedOn": "2023-05-03T04:21:32.000Z",
+          "wordCount": 1127,
+          "title": "Sotheby’s Launches NFT Marketplace",
+          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/05/03002051/Sothebys_Metaverse.jpg"
+        },
         {
           "id": "https://thedefiant.io/bitcoin-decouples-from-stocks/",
           "author": "Owen Fernau",
@@ -1039,16 +1049,6 @@
           "wordCount": 2762,
           "title": "🚀ETH Crosses $1900 For The First Time Since August",
           "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/10223654/defi-daily.png"
-        },
-        {
-          "id": "https://thedefiant.io/eth-crosses-1900-on-upgrades/",
-          "author": "Owen Fernau",
-          "description": "ETH rallies ahead of major network upgrades",
-          "link": "https://thedefiant.io/eth-crosses-1900-on-upgrades/",
-          "publishedOn": "2023-04-06T00:22:45.000Z",
-          "wordCount": 1826,
-          "title": "ETH Crosses $1,900 For the First Time Since August",
-          "imageUrl": "https://the-defiant-web.s3.amazonaws.com/img/2023/04/05202214/DogeUp.jpg"
         }
       ]
     },
