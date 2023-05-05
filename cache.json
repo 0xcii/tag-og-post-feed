@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/exit-liquidity-3052309e6bfa?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-20T23:01:28.000Z",
-          "wordCount": 14047,
+          "wordCount": 14981,
           "title": "Exit Liquidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4ENMSx_rYsxwof5x"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-11T23:01:50.000Z",
-          "wordCount": 4403,
+          "wordCount": 5373,
           "title": "Shapella’s Show",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*0bJHXRqSPDFe-6LL"
         }
@@ -50,6 +50,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.iobitcoin-transactions-hit-record-high-as-new-token-type-takes-off",
+          "author": "Owen Fernau",
+          "description": "BRC-20 Fungible Tokens Climb Above $100M Market Capitalization",
+          "link": "https://thedefiant.io/bitcoin-transactions-hit-record-high-as-new-token-type-takes-off",
+          "publishedOn": "2023-05-05T02:09:51.000Z",
+          "wordCount": 2581,
+          "title": "Bitcoin Transactions Hit Record High as New Token Type Takes Off",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0cde697152fd0774df7f7dd983755a68d162f098-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.ionew-bitcoin-token-overtakes-wbtc-on-avalanche",
           "author": "Samuel Haig",
@@ -289,16 +299,6 @@
           "wordCount": 2122,
           "title": "Coinbase Sues SEC In Bid For Regulatory Clarity",
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/298ac05627cb9c64b534d016980b169d7072faa0-600x335.webp"
-        },
-        {
-          "id": "https://thedefiant.iohow-to-trade-safely-in-5-steps",
-          "author": "Jack Dunham",
-          "description": "Volatility is at 2 year high, gas prices are through the roof, and a MEV bot is making hundreds of THOUSANDS of dollars A DAY from front running & sandwich attacks. Meme coin trading is a wildly high risk game – some would call it an extreme sport. Many traders end up holding a bag…",
-          "link": "https://thedefiant.io/how-to-trade-safely-in-5-steps",
-          "publishedOn": "2023-04-25T09:48:56.000Z",
-          "wordCount": 788,
-          "title": "How to trade safely in 5 steps",
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d9622aef1f14866a85691f7f470db4351c2dc73f-880x495.jpg"
         }
       ]
     },
@@ -313,6 +313,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Maverick Boosted Positions Maverick AMM launches Boosted Positions that allow protocols to add incentives to any LP position on Maverick to build up liquidity. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions",
+          "publishedOn": "2023-05-05T02:49:46.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Maverick Boosted Positions, Sui Mainnet Live, Cross-Margin Trading on Arbitrum, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc287fc5c-4fb1-41e1-a6a8-4ac982629930_900x506.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc287fc5c-4fb1-41e1-a6a8-4ac982629930_900x506.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-agora-crvusd",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
