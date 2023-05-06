@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/exit-liquidity-3052309e6bfa?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-20T23:01:28.000Z",
-          "wordCount": 14047,
+          "wordCount": 15023,
           "title": "Exit Liquidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4ENMSx_rYsxwof5x"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-11T23:01:50.000Z",
-          "wordCount": 5401,
+          "wordCount": 4403,
           "title": "Shapella’s Show",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*0bJHXRqSPDFe-6LL"
         }
@@ -616,22 +616,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9d3200f-d396-4733-b8c5-f7373f4eed0a_900x450.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-sentiment-exploit-and",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Sentiment Exploit & Recovery Sentiment got exploited and lost ~$1m in USD. The root cause of the exploit was a read-only reentrancy attack, which was used to manipulate the asset price. After a negotiation between the Sentiment team and the attacker, ~90% of lost funds had been returned.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-sentiment-exploit-and",
-          "publishedOn": "2023-04-07T08:53:30.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Sentiment Exploit & Recovery, MEV Blocker Live, Tokenomics upgrade, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b1813d7-ca21-4df4-b94d-ca30b896271d_750x508.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b1813d7-ca21-4df4-b94d-ca30b896271d_750x508.png"
         }
       ]
     }
