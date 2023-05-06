@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T04:14:56.041Z</id>
+    <id>urn:2023-05-06T05:11:47.537Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-06T04:14:56.041Z</updated>
+    <updated>2023-05-06T05:11:47.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sushi Launches Concentrated Liquidity On 13 Blockchains]]></title>
+        <id>https://thedefiant.iosushi-launches-concentrated-liquidity-on-13-blockchains</id>
+        <link href="https://thedefiant.io/sushi-launches-concentrated-liquidity-on-13-blockchains"/>
+        <updated>2023-05-06T03:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Another DEX Forks Uniswap V3 After License Lapses]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - 1inch Fusion on Multichain, Yearn Dump Services, NFT Lending, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-1inch-fusion-on-multichain</id>
@@ -313,16 +323,6 @@
         <summary type="html"><![CDATA[LayerZero on Polygon zkEVM Interoperability protocol LayerZero is now live on Polygon zkEVM, enabling devs to build on Polygon zkEVM and expand to 30+ supported chains with ease. Support Today in DeFi Today in DeFi is now a grantee on Gitcoin Grants’ latest round.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XEN Token Accounts For 11% of Ethereum Gas Consumption]]></title>
-        <id>https://thedefiant.ioxen-eth-gas-guzzler</id>
-        <link href="https://thedefiant.io/xen-eth-gas-guzzler"/>
-        <updated>2023-04-25T23:21:31.000Z</updated>
-        <summary type="html"><![CDATA[‘Universal Cryptocurrency’ Surges to $70M Market Capitalization]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
