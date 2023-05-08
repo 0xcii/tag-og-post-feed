@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T22:11:56.179Z</id>
+    <id>urn:2023-05-08T23:13:31.518Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-08T22:11:56.179Z</updated>
+    <updated>2023-05-08T23:13:31.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Denominator]]></title>
+        <id>https://medium.com/p/68c3ad8f4ae4</id>
+        <link href="https://cryptohayes.medium.com/the-denominator-68c3ad8f4ae4?source=rss-2f6e06954878------2"/>
+        <updated>2023-05-08T23:01:02.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deloitte Taps Polkadot’s Kilt Protocol For KYC Credentials]]></title>
         <id>https://thedefiant.iodeloitte-taps-polkadot-s-kilt-protocol-for-kyc-credentials</id>
