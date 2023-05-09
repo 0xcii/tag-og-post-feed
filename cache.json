@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-denominator-68c3ad8f4ae4?source=rss-2f6e06954878------2",
           "publishedOn": "2023-05-08T23:01:02.000Z",
-          "wordCount": 10421,
+          "wordCount": 9484,
           "title": "The Denominator",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:328/1*OhsR9JtubRqLoLs4MSsVNA.png"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/exit-liquidity-3052309e6bfa?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-20T23:01:28.000Z",
-          "wordCount": 15004,
+          "wordCount": 14047,
           "title": "Exit Liquidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4ENMSx_rYsxwof5x"
         },
@@ -37,7 +37,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-11T23:01:50.000Z",
-          "wordCount": 4400,
+          "wordCount": 5333,
           "title": "Shapella’s Show",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*0bJHXRqSPDFe-6LL"
         }
@@ -323,6 +323,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch",
+          "author": "Ellie",
+          "description": "Recap: Week of May 1st",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch",
+          "publishedOn": "2023-05-09T09:37:26.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Sui Mainnet, 1inch Fusion on Multichain, Lido V2 Coming, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fb5c021-debc-44fb-b509-27d03effeb26_900x506.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fb5c021-debc-44fb-b509-27d03effeb26_900x506.webp"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-1inch-fusion-on-multichain",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
