@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/exit-liquidity-3052309e6bfa?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-20T23:01:28.000Z",
-          "wordCount": 14978,
+          "wordCount": 15004,
           "title": "Exit Liquidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4ENMSx_rYsxwof5x"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/shapellas-show-e63d52378f7?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-11T23:01:50.000Z",
-          "wordCount": 5400,
+          "wordCount": 5419,
           "title": "Shapella’s Show",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*0bJHXRqSPDFe-6LL"
         }
@@ -56,6 +56,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime",
+          "author": null,
+          "description": "Maker Spark Lend Maker launched Spark Lend, its new lending product that allows users to lend/borrow ETH, stETH, DAI, and sDAI. Spark Lend is not available for users from the U.S. Prime Protocol Mainnet Prime Protocol is now live on Ethereum, Avalanche, Arbitrum One, and Moonbeam. Prime allows users to borrow cross-chain backed by their entire portfolio of cross-chain assets. Prime also launches an Early Adopter Program that rewards users with points.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime",
+          "publishedOn": "2023-05-10T09:27:12.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Maker Spark Lend, Prime Protocol Mainnet, Trade to Earn, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2261bcea-7835-44f0-88fc-a590b22c1e56_680x340.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2261bcea-7835-44f0-88fc-a590b22c1e56_680x340.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch",
           "author": "Ellie",
