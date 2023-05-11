@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T11:10:38.173Z</id>
+    <id>urn:2023-05-11T12:25:26.466Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-11T11:10:38.173Z</updated>
+    <updated>2023-05-11T12:25:26.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Cosmos Neutron Live, zkLend Live on Starknet, Boosted LPing, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live"/>
+        <updated>2023-05-11T11:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Cosmos Neutron Live Neutron Chain, the first consumer chain Cosmos’ Replicated Security, is now live. Built using Cosmos SDK, Neutron allows devs to launch smart contracts that can interoperate with other protocols and appchains. zkLend Live on Starknet]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Denominator]]></title>
         <id>https://medium.com/p/536a8de34bf0</id>

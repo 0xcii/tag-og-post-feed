@@ -57,6 +57,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live",
+          "author": null,
+          "description": "Cosmos Neutron Live Neutron Chain, the first consumer chain Cosmos’ Replicated Security, is now live. Built using Cosmos SDK, Neutron allows devs to launch smart contracts that can interoperate with other protocols and appchains. zkLend Live on Starknet",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live",
+          "publishedOn": "2023-05-11T11:30:10.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Cosmos Neutron Live, zkLend Live on Starknet, Boosted LPing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72be44da-8c5e-437a-aa94-17d743f83442_968x375.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72be44da-8c5e-437a-aa94-17d743f83442_968x375.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime",
           "author": null,
           "description": "Maker Spark Lend Maker launched Spark Lend, its new lending product that allows users to lend/borrow ETH, stETH, DAI, and sDAI. Spark Lend is not available for users from the U.S. Prime Protocol Mainnet Prime Protocol is now live on Ethereum, Avalanche, Arbitrum One, and Moonbeam. Prime allows users to borrow cross-chain backed by their entire portfolio of cross-chain assets. Prime also launches an Early Adopter Program that rewards users with points.",
