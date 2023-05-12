@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/exit-liquidity-3052309e6bfa?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-20T23:01:28.000Z",
-          "wordCount": 15105,
+          "wordCount": 15054,
           "title": "Exit Liquidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4ENMSx_rYsxwof5x"
         }
@@ -56,6 +56,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker",
+          "author": null,
+          "description": "The 5 Phases of Maker Endgame Maker founder Ruin proposes a 5 phases Endgame plan that will rebrand MKR & DAI, enable SubDAOs, build AI tools, launch governance Participation Rewards, and eventually build Maker’s own chain. Uniswap on Bitcoin Trustless Market",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker",
+          "publishedOn": "2023-05-12T11:00:07.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - The 5 Phases of Maker Endgame, Uniswap on Bitcoin, MEV Profits Sharing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63b55f3d-dfbc-44e0-80b0-690e1c592c1c_2052x738.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63b55f3d-dfbc-44e0-80b0-690e1c592c1c_2052x738.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live",
           "author": null,
