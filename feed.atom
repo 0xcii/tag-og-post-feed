@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T23:11:43.235Z</id>
+    <id>urn:2023-05-13T01:03:07.667Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-12T23:11:43.235Z</updated>
+    <updated>2023-05-13T01:03:07.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -211,16 +211,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-uniswap-wallet-live"/>
         <updated>2023-04-14T10:03:48.000Z</updated>
         <summary type="html"><![CDATA[Uniswap Wallet Live on App Store Uniswap Wallet iOS app passed the App Store review and is now available for download. The wallet supports networks including Ethereum, Polygon, Arbitrum, and Optimism, and charges 2.55% in fees for crypto purchases. Ondo MMFs Stablecoin]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Yearn $10m Exploit, Ethereum Shanghai Live, Farming on zkSync Era, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-yearn-10m-exploit-ethereum"/>
-        <updated>2023-04-13T11:56:49.000Z</updated>
-        <summary type="html"><![CDATA[Yearn $10m Exploit Yearn is exploited and lost ~$10m. The attacker conducted a flash loan attack through Aave and exploited the Yearn USDT token (yUSDT), then acquired a large number of stables on Curve pool. The team tweets that V1 and V2 vaults are unaffected, and is investigating the contract issue.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
