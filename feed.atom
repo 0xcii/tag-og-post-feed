@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-16T10:13:02.862Z</id>
+    <id>urn:2023-05-16T11:10:17.711Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-16T10:13:02.862Z</updated>
+    <updated>2023-05-16T11:10:17.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Lido V2 Live, Rook Transition, Advanced Swapping, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-lido-v2-live-rook-transition</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-lido-v2-live-rook-transition"/>
+        <updated>2023-05-16T10:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Lido V2 Live Lido v2 is approved and launched. This upgrade mainly enables withdrawals & staking routers. Stakers can now directly unstake their ETH through Lido. Rook Transition Following the approval of KIP-44, Rook DAO is transitioning token governance to Incubator DAO, a new funding project to explore new concepts for the ROOK token.]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Maker Spark Lend, MetaMask x PayPal, Lido V2 Coming, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-maker-spark-lend</id>
