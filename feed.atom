@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-17T03:13:24.748Z</id>
+    <id>urn:2023-05-17T04:15:14.229Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-17T03:13:24.748Z</updated>
+    <updated>2023-05-17T04:15:14.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lido Enables Staked ETH Withdrawals With V2 Rollout]]></title>
+        <id>https://thedefiant.iolido-enables-staked-eth-withdrawals-with-v2-rollout</id>
+        <link href="https://thedefiant.io/lido-enables-staked-eth-withdrawals-with-v2-rollout"/>
+        <updated>2023-05-17T03:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Liquid Staking Leader Looks To Silence Decentralization Critics With New Staking Router]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Lido V2 Live, Rook Transition, Advanced Swapping, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-lido-v2-live-rook-transition</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[Uniswap Agora Uniswap launches Agora, a governance interface that allows delegates to build detailed profiles & delegators to easily find delegates who match their interests. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sotheby's Launches NFT Marketplace]]></title>
-        <id>https://thedefiant.iosothebys-nft-marketplace</id>
-        <link href="https://thedefiant.io/sothebys-nft-marketplace"/>
-        <updated>2023-05-03T05:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Platform To Enforce Creator Royalties Using Smart Contracts]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
     <entry>
