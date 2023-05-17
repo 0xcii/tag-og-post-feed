@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/exit-liquidity-3052309e6bfa?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-20T23:01:28.000Z",
-          "wordCount": 14983,
+          "wordCount": 15069,
           "title": "Exit Liquidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4ENMSx_rYsxwof5x"
         }
@@ -313,6 +313,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-reserve-hyusd-origin",
+          "author": null,
+          "description": "Reserve hyUSD Live Reserve Protocol launches hyUSD, a yield-bearing RToken backed by yield-bearing assets that provide exposure to fiat stablecoins and US treasuries through Convex and Flux Finance. Origin OETH Origin protocol launches Origin Ether (OETH)",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-reserve-hyusd-origin",
+          "publishedOn": "2023-05-17T08:51:43.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Reserve hyUSD, Origin OETH, ETH Staking, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb1c6f25-ae4f-4409-bdc1-60f5028a6882_900x450.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb1c6f25-ae4f-4409-bdc1-60f5028a6882_900x450.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-lido-v2-live-rook-transition",
           "author": null,
