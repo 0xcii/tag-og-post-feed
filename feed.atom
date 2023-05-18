@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-18T05:11:54.806Z</id>
+    <id>urn:2023-05-18T06:16:40.979Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-18T05:11:54.806Z</updated>
+    <updated>2023-05-18T06:16:40.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NFT Collector Turned Memecoin Creator Nets $7M in Sketchy Presale]]></title>
+        <id>https://thedefiant.ionft-collector-turned-memecoin-creator-nets-usd7m-in-sketchy-psyop-presale</id>
+        <link href="https://thedefiant.io/nft-collector-turned-memecoin-creator-nets-usd7m-in-sketchy-psyop-presale"/>
+        <updated>2023-05-18T05:55:03.000Z</updated>
+        <summary type="html"><![CDATA[PSYOP Token Launch Has Been Repeatedly Delayed]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether To Continue Buying Bitcoin With Profits]]></title>
+        <id>https://thedefiant.iotether-to-continue-buying-bitcoin-with-profits</id>
+        <link href="https://thedefiant.io/tether-to-continue-buying-bitcoin-with-profits"/>
+        <updated>2023-05-18T05:14:10.000Z</updated>
+        <summary type="html"><![CDATA[USDT Issuer Held $1.5B Of BTC As Of March 31]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Approves Landmark Crypto Licensing Regime]]></title>
+        <id>https://thedefiant.ioeu-approves-landmark-crypto-licensing-regime</id>
+        <link href="https://thedefiant.io/eu-approves-landmark-crypto-licensing-regime"/>
+        <updated>2023-05-18T04:44:22.000Z</updated>
+        <summary type="html"><![CDATA[MiCA Provides Guidelines for Exchanges, Wallets, Stablecoins and More]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ledger's New Wallet Recovery Feature Sparks Community Backlash]]></title>
         <id>https://thedefiant.ioledger-s-new-wallet-recovery-feature-sparks-community-backlash</id>
@@ -323,36 +353,6 @@
         <summary type="html"><![CDATA[Maverick Boosted Positions Maverick AMM launches Boosted Positions that allow protocols to add incentives to any LP position on Maverick to build up liquidity. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Transactions Hit Record High as New Token Type Takes Off]]></title>
-        <id>https://thedefiant.iobitcoin-transactions-hit-record-high-as-new-token-type-takes-off</id>
-        <link href="https://thedefiant.io/bitcoin-transactions-hit-record-high-as-new-token-type-takes-off"/>
-        <updated>2023-05-05T02:09:51.000Z</updated>
-        <summary type="html"><![CDATA[BRC-20 Fungible Tokens Climb Above $100M Market Capitalization]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Bitcoin Token Overtakes WBTC on Avalanche]]></title>
-        <id>https://thedefiant.ionew-bitcoin-token-overtakes-wbtc-on-avalanche</id>
-        <link href="https://thedefiant.io/new-bitcoin-token-overtakes-wbtc-on-avalanche"/>
-        <updated>2023-05-04T05:04:40.000Z</updated>
-        <summary type="html"><![CDATA[BTC.b Enables Bitcoin To Be Used In DeFi Without A Centralized Bridge]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TUSD Lending Rates Spike After Stablecoin Briefly Rallies To $1.20]]></title>
-        <id>https://thedefiant.iotusd-lending-rates-spike-after-stablecoin-briefly-rallies</id>
-        <link href="https://thedefiant.io/tusd-lending-rates-spike-after-stablecoin-briefly-rallies"/>
-        <updated>2023-05-04T04:39:26.000Z</updated>
-        <summary type="html"><![CDATA[Binance Launchpool Campaign For Sui Exacerbates Liquidity Crunch]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
