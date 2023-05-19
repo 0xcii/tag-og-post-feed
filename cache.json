@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/exit-liquidity-3052309e6bfa?source=rss-2f6e06954878------2",
           "publishedOn": "2023-04-20T23:01:28.000Z",
-          "wordCount": 14515,
+          "wordCount": 15028,
           "title": "Exit Liquidity",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*4ENMSx_rYsxwof5x"
         }
@@ -313,6 +313,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-aevo-perpetuals-x2y2",
+          "author": null,
+          "description": "Aevo Perpetuals Ribbon’s options protocol, Aevo, launches perpetual futures. Users are now able to trade both ETH Options and Perpetual contracts with up to 20x leverage. X2Y2 Fi and v3 Live NFT marketplace X2Y2 launches X2Y2 Fi and the v3 upgrade. The X2Y2 Fi is a platform for NFT loans, and v3 improves the platform UX with new features such as Gasless Loan Offer Cancellation, Optimized Gas Expenditure, and Auto Refinance.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-aevo-perpetuals-x2y2",
+          "publishedOn": "2023-05-19T08:49:38.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Aevo Perpetuals, X2Y2 Fi and v3, DAI Borrowing, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7f3fca1-c133-420e-a76d-84d81486c329_680x340.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7f3fca1-c133-420e-a76d-84d81486c329_680x340.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-crvusd-ui-live-kava",
           "author": null,
