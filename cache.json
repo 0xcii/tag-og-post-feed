@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-denominator-536a8de34bf0?source=rss-2f6e06954878------2",
           "publishedOn": "2023-05-10T15:33:03.000Z",
-          "wordCount": 10477,
+          "wordCount": 10509,
           "title": "The Denominator",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:619/0*C257KObZMObsB9wG.png"
         }
@@ -303,6 +303,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-inverse-dbr-streaming",
+          "author": null,
+          "description": "Inverse DBR Streaming Inverse introduces DBR Streaming, a new utility to INV tokens. Each staked INV will receive an automated, continual stream of DBR. DBRs are tradable borrowing rights used for Inverse’s lending market FiRM Lido Withdrawals UI Live",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-inverse-dbr-streaming",
+          "publishedOn": "2023-05-23T10:16:07.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Inverse DBR Streaming, Lido Withdrawals UI Live, MEV-less Crosschain Swap, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8b82770-0ff5-4407-a30c-57876ab38a3b_763x764.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8b82770-0ff5-4407-a30c-57876ab38a3b_763x764.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/last-week-in-defi-lido-v2-live-crvusd",
           "author": null,
