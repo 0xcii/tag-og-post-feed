@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-23T21:10:51.544Z</id>
+    <id>urn:2023-05-23T22:12:06.480Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-23T21:10:51.544Z</updated>
+    <updated>2023-05-23T22:12:06.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Rallies As US Debt Ceiling Talks Continue]]></title>
+        <id>https://thedefiant.iocrypto-rallies-as-us-debt-ceiling-talks-continue</id>
+        <link href="https://thedefiant.io/crypto-rallies-as-us-debt-ceiling-talks-continue"/>
+        <updated>2023-05-23T20:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Beacon Chain Withdrawal Queue Briefly Clears, Ether Jumps 3%]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Steal $1M From Tornado Cash, Then Propose to Fix  Governance Takeover]]></title>
         <id>https://thedefiant.iohackers-steal-usd1m-from-tornado-cash</id>
@@ -356,16 +366,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MakerDAO Launches Spark Lending Protocol]]></title>
-        <id>https://thedefiant.iomakerdao-launches-spark-lending-protocol</id>
-        <link href="https://thedefiant.io/makerdao-launches-spark-lending-protocol"/>
-        <updated>2023-05-10T04:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Users Can Lend and Borrow ETH, stETH, DAI and sDAI]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Sui Mainnet, 1inch Fusion on Multichain, Lido V2 Coming, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch</id>
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-sui-mainnet-1inch"/>
@@ -451,16 +451,6 @@
         <link href="https://todayindefi.substack.com/p/today-in-defi-swell-network-beta"/>
         <updated>2023-04-25T09:05:31.000Z</updated>
         <summary type="html"><![CDATA[Swell Network Beta Liquid staking protocol Swell Network launches beta on Ethereum, offering zero-fees staking with an opportunity to participate in Swell’s governance. Cashmere on Testnet Cashmere, an MEV-protected cross-chain swap, is now live on testnet]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - RocketPool Atlas Live, Bancor Carbon AMM, Helium on Solana, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-rocketpool-atlas</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-rocketpool-atlas"/>
-        <updated>2023-04-24T10:09:56.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of April 17th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
