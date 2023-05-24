@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-24T18:15:22.508Z</id>
+    <id>urn:2023-05-24T19:10:07.248Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-24T18:15:22.508Z</updated>
+    <updated>2023-05-24T19:10:07.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Launches ChatGPT Plugin]]></title>
+        <id>https://thedefiant.iosolana-launches-chatgpt-plugin</id>
+        <link href="https://thedefiant.io/solana-launches-chatgpt-plugin"/>
+        <updated>2023-05-24T18:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Layer 1 Blockchain Looks To Reverse Its Decline With AI Integration]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multichain Token Plummets on Team Arrest Rumors]]></title>
+        <id>https://thedefiant.iomultichain-token-plummets-on-team-arrest-rumors</id>
+        <link href="https://thedefiant.io/multichain-token-plummets-on-team-arrest-rumors"/>
+        <updated>2023-05-24T18:22:17.000Z</updated>
+        <summary type="html"><![CDATA[Users say their bridge transactions have been stuck for over 24 hours]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Coinbase Cloud WaaS Live, Lukso L1 Live, NFT Loan, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-coinbase-cloud-waas</id>
@@ -328,16 +348,6 @@ The term goes back to early 2021 when Ethereum foundation researcher Justin Drak
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Litecoin Transactions Up 500% On LTC-20 Token Hype]]></title>
-        <id>https://thedefiant.iolitecoin-transactions-up-5x-on-ltc-20-token-hype</id>
-        <link href="https://thedefiant.io/litecoin-transactions-up-5x-on-ltc-20-token-hype"/>
-        <updated>2023-05-12T02:41:01.000Z</updated>
-        <summary type="html"><![CDATA[Speculation On Ordinals Has Moved Beyond Bitcoin]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Cosmos Neutron Live, zkLend Live on Starknet, Boosted LPing, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live"/>
@@ -345,16 +355,6 @@ The term goes back to early 2021 when Ethereum foundation researcher Justin Drak
         <summary type="html"><![CDATA[Cosmos Neutron Live Neutron Chain, the first consumer chain Cosmos’ Replicated Security, is now live. Built using Cosmos SDK, Neutron allows devs to launch smart contracts that can interoperate with other protocols and appchains. zkLend Live on Starknet]]></summary>
         <author>
             <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ParaSpace Team Alleges CEO Embezzled $1.7M]]></title>
-        <id>https://thedefiant.ioparaspace-team-alleges-ceo-embezzled-usd1-7m</id>
-        <link href="https://thedefiant.io/paraspace-team-alleges-ceo-embezzled-usd1-7m"/>
-        <updated>2023-05-11T06:28:40.000Z</updated>
-        <summary type="html"><![CDATA[NFT Lending Protocol Loses A Third Of Deposits]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
