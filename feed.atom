@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-25T21:10:44.073Z</id>
+    <id>urn:2023-05-25T22:11:47.216Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-25T21:10:44.073Z</updated>
+    <updated>2023-05-25T22:11:47.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -453,16 +453,6 @@ The term goes back to early 2021 when Ethereum foundation researcher Justin Drak
         <link href="https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum"/>
         <updated>2023-04-27T14:09:37.000Z</updated>
         <summary type="html"><![CDATA[Vertex Live on Arbitrum Vertex is now live on Arbitrum, enabling cross-margin trading for spot and derivatives. Vertex combines an off-chain order book layered on top of an on-chain automated market maker on a decentralized, self-custodial exchange.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - LayerZero on Polygon zkEVM, Optimism Superchain Token List, Stake to Earn on Arbitrum, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-layerzero-on-polygon"/>
-        <updated>2023-04-26T09:34:49.000Z</updated>
-        <summary type="html"><![CDATA[LayerZero on Polygon zkEVM Interoperability protocol LayerZero is now live on Polygon zkEVM, enabling devs to build on Polygon zkEVM and expand to 30+ supported chains with ease. Support Today in DeFi Today in DeFi is now a grantee on Gitcoin Grants’ latest round.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
