@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-25T10:13:32.535Z</id>
+    <id>urn:2023-05-25T11:10:10.514Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-25T10:13:32.535Z</updated>
+    <updated>2023-05-25T11:10:10.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Multichain Routes Paused, Matcha DEX Upgrade, TWAP Trading, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused"/>
+        <updated>2023-05-25T10:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Multichain Routes Paused Some bridging routes (Kava、zkSync、Polygon zkEVM) on Multichain are paused and some traders’ funds are stuck on the bridges. There are also unconfirmed rumors of the cofounder's arrest in China and an investor sell-off of its token.]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin-Based Space Pepes Top NFT Charts]]></title>
         <id>https://thedefiant.iobitcoin-based-space-pepes-top-nft-charts</id>
