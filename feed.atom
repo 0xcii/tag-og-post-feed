@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-26T10:13:40.959Z</id>
+    <id>urn:2023-05-26T11:11:02.400Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-26T10:13:40.959Z</updated>
+    <updated>2023-05-26T11:11:02.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - QuickPerps Live on Polygon zkEVM, Lyra Upgrade on Optimism, Vote on Protocol Fees, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-quickperps-live-on</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-quickperps-live-on"/>
+        <updated>2023-05-26T10:49:54.000Z</updated>
+        <summary type="html"><![CDATA[QuickPerps Live on Polygon zkEVM QuickSwap launches QuickPerps, a perpetual dex that allows trading of $MATIC, $ETH, $BTC, $USDC, $USDT, and $DAI with up to 50x leverage. Lyra Upgrade on Optimsim Lyra launched an improved version of the protocol on Optimism. The new version uses SNX V2 perpetual futures as a liquidity source to delta hedge the option Market Maker Vaults (MMVs). This improves the capital efficiency of the protocol, increases the percentage of fees returned back to LPs, and allows for more assets to be supported for traders.]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin and Ether Options Worth $3.6B Set To Expire On Friday]]></title>
         <id>https://thedefiant.iobitcoin-and-ether-options-worth-3b-set-to-expire-on-friday</id>
@@ -365,16 +375,6 @@ The term goes back to early 2021 when Ethereum foundation researcher Justin Drak
         <summary type="html"><![CDATA[Cosmos Neutron Live Neutron Chain, the first consumer chain Cosmos’ Replicated Security, is now live. Built using Cosmos SDK, Neutron allows devs to launch smart contracts that can interoperate with other protocols and appchains. zkLend Live on Starknet]]></summary>
         <author>
             <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Denominator]]></title>
-        <id>https://medium.com/p/536a8de34bf0</id>
-        <link href="https://cryptohayes.medium.com/the-denominator-536a8de34bf0?source=rss-2f6e06954878------2"/>
-        <updated>2023-05-10T15:33:03.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
-        <author>
-            <name>Arthur Hayes</name>
         </author>
     </entry>
     <entry>
