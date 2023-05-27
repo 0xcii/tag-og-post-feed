@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-27T01:07:40.579Z</id>
+    <id>urn:2023-05-27T02:29:32.664Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-27T01:07:40.579Z</updated>
+    <updated>2023-05-27T02:29:32.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -453,16 +453,6 @@ The term goes back to early 2021 when Ethereum foundation researcher Justin Drak
         <link href="https://todayindefi.substack.com/p/today-in-defi-google-cloud-x-polygon"/>
         <updated>2023-04-28T10:45:32.000Z</updated>
         <summary type="html"><![CDATA[Google Cloud x Polygon Labs Google Cloud and Polygon Labs announced a multi-year strategic alliance to accelerate the adoption of core Polygon protocols, including Polygon PoS, Polygon Supernets, and Polygon zkEVM, with Google Cloud infrastructure and developer tools.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Vertex Live on Arbitrum, Avalanche Ethereum Native USDC Bridging, Cross-chain Liquid Staking, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-vertex-live-on-arbitrum"/>
-        <updated>2023-04-27T14:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Vertex Live on Arbitrum Vertex is now live on Arbitrum, enabling cross-margin trading for spot and derivatives. Vertex combines an off-chain order book layered on top of an on-chain automated market maker on a decentralized, self-custodial exchange.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
