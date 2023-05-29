@@ -14,12 +14,12 @@
         {
           "id": "https://medium.com/p/536a8de34bf0",
           "author": "Arthur Hayes",
-          "description": "",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-denominator-536a8de34bf0?source=rss-2f6e06954878------2",
           "publishedOn": "2023-05-10T15:33:03.000Z",
-          "wordCount": null,
+          "wordCount": 10529,
           "title": "The Denominator",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:619/0*C257KObZMObsB9wG.png"
         }
       ]
     },
@@ -303,6 +303,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-quickperps-on-polygon",
+          "author": null,
+          "description": "Recap: Week of May 22nd",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-quickperps-on-polygon",
+          "publishedOn": "2023-05-29T11:06:07.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - QuickPerps on Polygon zkEVM, Fantom Gas Monetization, Multichain Routes Paused, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f5cb6e7-266f-40f2-8da8-5233011f86dc_680x354.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f5cb6e7-266f-40f2-8da8-5233011f86dc_680x354.webp"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-quickperps-live-on",
           "author": null,
