@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-31T21:11:03.638Z</id>
+    <id>urn:2023-05-31T22:11:26.744Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-31T21:11:03.638Z</updated>
+    <updated>2023-05-31T22:11:26.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon To Onboard Deutsche Telekom As Validator]]></title>
+        <id>https://thedefiant.io/polygon-to-onboard-deutsche-telekom-as-validator</id>
+        <link href="https://thedefiant.io/polygon-to-onboard-deutsche-telekom-as-validator"/>
+        <updated>2023-05-31T21:23:50.000Z</updated>
+        <summary type="html"><![CDATA[Subsidiary Of Europe’s Largest Telco Will Provide Staking and Validation Services]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi -One Click DAOs, tBTC on Arbitrum, zkEVM farming and More]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-one-click-daos-tbtc</id>
