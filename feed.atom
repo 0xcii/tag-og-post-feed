@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-31T09:13:52.993Z</id>
+    <id>urn:2023-05-31T10:13:27.991Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-31T09:13:52.993Z</updated>
+    <updated>2023-05-31T10:13:27.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -582,7 +582,6 @@ The term goes back to early 2021 when Ethereum foundation researcher Justin Drak
         <id>https://medium.com/p/536a8de34bf0</id>
         <link href="https://cryptohayes.medium.com/the-denominator-536a8de34bf0?source=rss-2f6e06954878------2"/>
         <updated>2023-05-10T15:33:03.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
@@ -881,16 +880,6 @@ Despite its recent losses, PEPE still enjoys a larger market cap than DeFi bluec
         <summary type="html"><![CDATA[Blend Enables Peer-to-Peer Loans and Buy Now, Pay Later Feature]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lens Social Media Protocol Unveils Layer 3 Scaling Solution]]></title>
-        <id>https://thedefiant.io/lens-layer-3-momoka</id>
-        <link href="https://thedefiant.io/lens-layer-3-momoka"/>
-        <updated>2023-05-01T21:41:45.000Z</updated>
-        <summary type="html"><![CDATA[‘Momoka’ Will Enable Content To Be Stored Off-chain, Reduce Transaction Costs]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
