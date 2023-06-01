@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-denominator-536a8de34bf0?source=rss-2f6e06954878------2",
           "publishedOn": "2023-05-10T15:33:03.000Z",
-          "wordCount": 10491,
+          "wordCount": 10500,
           "title": "The Denominator",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:619/0*C257KObZMObsB9wG.png"
         }
@@ -40,6 +40,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/nascent-s-elitzer-says-oracle-free-defi-is-emerging",
+          "author": "Owen Fernau",
+          "description": "Den Elitzer of venture capital firm Nascent says safer DeFi will minimize governance and oracles.",
+          "link": "https://thedefiant.io/nascent-s-elitzer-says-oracle-free-defi-is-emerging",
+          "publishedOn": "2023-06-01T12:36:47.000Z",
+          "wordCount": 1226,
+          "title": "Nascent’s Elitzer Says Oracle-Free DeFi is Emerging",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8850f5c83b092f69c63be37950f67bf8e537d280-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/polygon-to-onboard-deutsche-telekom-as-validator",
           "author": "Samuel Haig",
