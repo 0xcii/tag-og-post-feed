@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-01T22:11:43.752Z</id>
+    <id>urn:2023-06-01T23:12:55.772Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-01T22:11:43.752Z</updated>
+    <updated>2023-06-01T23:12:55.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Patience is Beautiful]]></title>
+        <id>https://medium.com/p/9434fd04a9a2</id>
+        <link href="https://cryptohayes.medium.com/patience-is-beautiful-9434fd04a9a2?source=rss-2f6e06954878------2"/>
+        <updated>2023-06-01T23:01:45.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Developers Aim To Bring New DeFi Strategies To $17B Liquid Staking Market]]></title>
         <id>https://thedefiant.io/developers-aim-to-bring-new-defi-strategies-to-usd17b-liquid-staking-market</id>
@@ -871,16 +881,6 @@ Despite its recent losses, PEPE still enjoys a larger market cap than DeFi bluec
         <summary type="html"><![CDATA[CRV Rallies 7%]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The REAL reason why Balaji burned $1 Million]]></title>
-        <id>https://thedefiant.io/the-real-reason-why-balaji-burned-usd1-million</id>
-        <link href="https://thedefiant.io/the-real-reason-why-balaji-burned-usd1-million"/>
-        <updated>2023-05-03T10:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Remember Balaji Srinivasan's million-dollar bet on Bitcoin? Well, today, we're revisiting that story with a twist. Balaji just burned $1 million to warn us about an impending financial crisis, sending shockwaves through the crypto community. Let's find out...]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
 </feed>
