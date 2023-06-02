@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T16:15:56.748Z</id>
+    <id>urn:2023-06-02T17:11:04.816Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-02T16:15:56.748Z</updated>
+    <updated>2023-06-02T17:11:04.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -861,26 +861,6 @@ Despite its recent losses, PEPE still enjoys a larger market cap than DeFi bluec
         <summary type="html"><![CDATA[BRC-20 Fungible Tokens Climb Above $100M Market Capitalization]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Bitcoin Token Overtakes WBTC on Avalanche]]></title>
-        <id>https://thedefiant.io/new-bitcoin-token-overtakes-wbtc-on-avalanche</id>
-        <link href="https://thedefiant.io/new-bitcoin-token-overtakes-wbtc-on-avalanche"/>
-        <updated>2023-05-04T05:04:40.000Z</updated>
-        <summary type="html"><![CDATA[BTC.b Enables Bitcoin To Be Used In DeFi Without A Centralized Bridge]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TUSD Lending Rates Spike After Stablecoin Briefly Rallies To $1.20]]></title>
-        <id>https://thedefiant.io/tusd-lending-rates-spike-after-stablecoin-briefly-rallies</id>
-        <link href="https://thedefiant.io/tusd-lending-rates-spike-after-stablecoin-briefly-rallies"/>
-        <updated>2023-05-04T04:39:26.000Z</updated>
-        <summary type="html"><![CDATA[Binance Launchpool Campaign For Sui Exacerbates Liquidity Crunch]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
