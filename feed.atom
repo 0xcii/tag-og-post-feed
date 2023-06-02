@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T04:14:52.698Z</id>
+    <id>urn:2023-06-02T05:11:58.906Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-02T04:14:52.698Z</updated>
+    <updated>2023-06-02T05:11:58.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Missing Multichain CEO Is Causing Ripples Across the Industry]]></title>
+        <id>https://thedefiant.io/missing-multichain-ceo-is-causing-ripples-across-the-industry</id>
+        <link href="https://thedefiant.io/missing-multichain-ceo-is-causing-ripples-across-the-industry"/>
+        <updated>2023-06-02T04:03:49.000Z</updated>
+        <summary type="html"><![CDATA[Embattled Blockchain Bridge Holds $1.45B In Assets Across Dozens Of Networks]]></summary>
+        <author>
+            <name>Jeremy Nation</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patience is Beautiful]]></title>
         <id>https://medium.com/p/9434fd04a9a2</id>
