@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-02T09:12:17.300Z</id>
+    <id>urn:2023-06-02T10:13:13.752Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-02T09:12:17.300Z</updated>
+    <updated>2023-06-02T10:13:13.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Uniswap Votes Against Protocol Fees, RocketPool on zkSync, Easy Uni v3 LPing, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-y2k-v2-live-rocketpool</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-y2k-v2-live-rocketpool"/>
+        <updated>2023-06-02T09:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap DAO Voted Against Protocol Fees The Uniswap DAO voted for zero protocol fees on the GFX Lab’s fee switch proposal. Uniswap's executive director tweeted that the vote is only for gathering feedback and the DAO “will use the polling data to propose a formal Temperate Check”]]></summary>
+        <author>
+            <name>Today in DeFi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memecoin Fever Drove Record Number Of Traders To Uniswap In May]]></title>
         <id>https://thedefiant.io/memecoin-fever-drove-record-number-of-traders-to-uniswap-in-may</id>
@@ -841,16 +851,6 @@ Despite its recent losses, PEPE still enjoys a larger market cap than DeFi bluec
         <summary type="html"><![CDATA[‘Dencun’ Will Focus On Scaling To Reduce Transaction Costs]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Maverick Boosted Positions, Sui Mainnet Live, Cross-Margin Trading on Arbitrum, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-maverick-boosted-positions"/>
-        <updated>2023-05-05T02:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Maverick Boosted Positions Maverick AMM launches Boosted Positions that allow protocols to add incentives to any LP position on Maverick to build up liquidity. Support Today in DeFi Today in DeFi is now on Gitcoin Grants Beta Round. If you feel Today in DeFi has helped you, you can support us by]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
