@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-03T06:15:38.892Z</id>
+    <id>urn:2023-06-03T07:10:42.114Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-03T06:15:38.893Z</updated>
+    <updated>2023-06-03T07:10:42.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Hong Kong Crypto Regulations Take Effect]]></title>
+        <id>https://thedefiant.io/new-hong-kong-crypto-regulations-take-effect</id>
+        <link href="https://thedefiant.io/new-hong-kong-crypto-regulations-take-effect"/>
+        <updated>2023-06-03T05:57:09.000Z</updated>
+        <summary type="html"><![CDATA[First Digital Announces Compliant Dollar Stablecoin]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFTC Sees ‘Significant Risks’ From Digital Assets]]></title>
         <id>https://thedefiant.io/cftc-sees-significant-risks-from-digital-assets</id>
