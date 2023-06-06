@@ -51,6 +51,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/optimism-deploys-bedrock-upgrade",
+          "author": "Samuel Haig",
+          "description": "Modular Architecture Lays Groundwork For ‘Superchain’ Of Interconnected Layer 2s.",
+          "link": "https://thedefiant.io/optimism-deploys-bedrock-upgrade",
+          "publishedOn": "2023-06-06T18:35:54.000Z",
+          "wordCount": 1675,
+          "title": "Optimism Deploys Bedrock Upgrade",
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/66a0d73a33dfd6f37fef7ff4b62f19eace4248dd-880x495.jpg"
+        },
+        {
           "id": "https://thedefiant.io/sec-charges-coinbase-with-securities-violations",
           "author": "Owen Fernau",
           "description": "Bitcoin And Ether Rally As Markets Shrug Off Latest Regulatory Action",
@@ -86,7 +96,7 @@
           "description": "Move allows crvUSD to scale by increasing debt ceiling by 15x.",
           "link": "https://thedefiant.io/curve-s-stablecoin-to-support-lido-s-steth",
           "publishedOn": "2023-06-05T18:18:08.000Z",
-          "wordCount": 1500,
+          "wordCount": 1492,
           "title": "Curve’s Stablecoin to Support Lido’s stETH",
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e1f7a0cebfcc0038e5d37953fe74f38841a52d9e-880x495.jpg"
         },
