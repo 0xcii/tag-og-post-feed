@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-07T10:13:16.941Z</id>
+    <id>urn:2023-06-07T11:10:21.361Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-07T10:13:16.941Z</updated>
+    <updated>2023-06-07T11:10:21.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Optimism Bedrock Live, SEC Sues Coinbase, Upgraded Options Trading, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live"/>
+        <updated>2023-06-07T10:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Optimsim Bedrock Live Optimism has upgraded to Bedrock. The upgrade enables lower fees, shorter deposit times, and improved modularity & performance. SEC Sues Coinabse The SEC sued Coinbase after Binance for operating as an unregistered exchange and broker, and that 13 assets listed on Coinbase were considered crypto asset securities.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Centrifuge Looks To Help DAOs Invest In Real-World Assets]]></title>
         <id>https://thedefiant.io/centrifuge-looks-to-help-daos-invest-in-real-world-assets</id>
@@ -825,16 +835,6 @@ The term goes back to early 2021 when Ethereum foundation researcher Justin Drak
         <summary type="html"><![CDATA[BRC-20 is a new token standard on the Bitcoin blockchain, named after Ethereum’s ERC-20. And the idea of BRC-20 is to create fungible tokens via the Ordinals protocol. However, instead of using smart contracts, BRC-20 tokens instead require a Bitcoin walle...]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Maker Spark Lend, Prime Protocol Mainnet, Trade to Earn, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-maker-spark-lend-prime"/>
-        <updated>2023-05-10T09:27:12.000Z</updated>
-        <summary type="html"><![CDATA[Maker Spark Lend Maker launched Spark Lend, its new lending product that allows users to lend/borrow ETH, stETH, DAI, and sDAI. Spark Lend is not available for users from the U.S. Prime Protocol Mainnet Prime Protocol is now live on Ethereum, Avalanche, Arbitrum One, and Moonbeam. Prime allows users to borrow cross-chain backed by their entire portfolio of cross-chain assets. Prime also launches an Early Adopter Program that rewards users with points.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
     <entry>
