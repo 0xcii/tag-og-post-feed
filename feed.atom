@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-08T09:12:12.635Z</id>
+    <id>urn:2023-06-08T10:13:28.475Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-08T09:12:12.635Z</updated>
+    <updated>2023-06-08T10:13:28.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Arbitrum Stopped for an Hour, Hubble Exchange Testnet, Auto-compounding crvUSD Yield, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-arbitrum-stopped-for</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-arbitrum-stopped-for"/>
+        <updated>2023-06-08T09:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum Stopped for an hour Arbitrum stopped processing transactions for about an hour due to a bug found in the batch poster. The bug hit and paused the Sequencer to finalize transaction ordering on-chain. Arbitrum team has fixed the bug and resumed network operation.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTC, ETH and BNB Trade At A Premium On Binance.US After Court Orders Asset Freeze]]></title>
         <id>https://thedefiant.io/btc-eth-and-bnb-trade-at-a-premium-on-binance-us-after-court-orders-asset-freeze</id>
@@ -879,16 +889,6 @@ The term goes back to early 2021 when Ethereum foundation researcher Justin Drak
         <summary type="html"><![CDATA[Speculation On Ordinals Has Moved Beyond Bitcoin]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Cosmos Neutron Live, zkLend Live on Starknet, Boosted LPing, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-cosmos-neutron-live"/>
-        <updated>2023-05-11T11:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Cosmos Neutron Live Neutron Chain, the first consumer chain Cosmos’ Replicated Security, is now live. Built using Cosmos SDK, Neutron allows devs to launch smart contracts that can interoperate with other protocols and appchains. zkLend Live on Starknet]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
     <entry>
