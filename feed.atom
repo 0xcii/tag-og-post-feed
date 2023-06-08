@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-08T22:11:59.831Z</id>
+    <id>urn:2023-06-08T23:13:07.188Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-08T22:11:59.831Z</updated>
+    <updated>2023-06-08T23:13:07.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -260,7 +260,6 @@
         <id>https://medium.com/p/9434fd04a9a2</id>
         <link href="https://cryptohayes.medium.com/patience-is-beautiful-9434fd04a9a2?source=rss-2f6e06954878------2"/>
         <updated>2023-06-01T23:01:45.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
@@ -936,19 +935,8 @@ The term goes back to early 2021 when Ethereum foundation researcher Justin Drak
         <id>https://medium.com/p/536a8de34bf0</id>
         <link href="https://cryptohayes.medium.com/the-denominator-536a8de34bf0?source=rss-2f6e06954878------2"/>
         <updated>2023-05-10T15:33:03.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is BRC-20? Bitcoin Network is the new home of memecoins]]></title>
-        <id>https://thedefiant.io/what-is-brc-20-bitcoin-network-is-the-new-home-of-memecoins</id>
-        <link href="https://thedefiant.io/what-is-brc-20-bitcoin-network-is-the-new-home-of-memecoins"/>
-        <updated>2023-05-10T10:24:00.000Z</updated>
-        <summary type="html"><![CDATA[BRC-20 is a new token standard on the Bitcoin blockchain, named after Ethereum’s ERC-20. And the idea of BRC-20 is to create fungible tokens via the Ordinals protocol. However, instead of using smart contracts, BRC-20 tokens instead require a Bitcoin walle...]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
 </feed>
