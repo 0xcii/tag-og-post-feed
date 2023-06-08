@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-08T07:12:19.720Z</id>
+    <id>urn:2023-06-08T08:15:36.585Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-08T07:12:19.720Z</updated>
+    <updated>2023-06-08T08:15:36.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -143,6 +143,16 @@
         <summary type="html"><![CDATA[Recap: Week of May 29th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Arbitrum is Scaling Ethereum, Layer 2 Challenges, Governance Scandal, and ZK Threats]]></title>
+        <id>https://thedefiant.io/how-arbitrum-is-scaling-ethereum-layer-2-challenges-governance-scandal-and-zk-threats</id>
+        <link href="https://thedefiant.io/how-arbitrum-is-scaling-ethereum-layer-2-challenges-governance-scandal-and-zk-threats"/>
+        <updated>2023-06-05T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Steven Goldfeder is the founder of OffChain Labs. OffChain Labs is a company focused on Ethereum scaling solutions and known primarily for building Arbitrum, which is currently Ethereum's biggest Layer 2. In our conversation Steven will explain how OffChai...]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
