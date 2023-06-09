@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-09T08:15:38.438Z</id>
+    <id>urn:2023-06-09T09:12:30.389Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-09T08:15:38.438Z</updated>
+    <updated>2023-06-09T09:12:30.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,6 +43,16 @@
         <summary type="html"><![CDATA[Arbitrum Stopped for an hour Arbitrum stopped processing transactions for about an hour due to a bug found in the batch poster. The bug hit and paused the Sequencer to finalize transaction ordering on-chain. Arbitrum team has fixed the bug and resumed network operation.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Wallets (Hot🥵+ Cold🥶) You Should Know]]></title>
+        <id>https://thedefiant.io/web3-wallets-hot-cold-you-should-know</id>
+        <link href="https://thedefiant.io/web3-wallets-hot-cold-you-should-know"/>
+        <updated>2023-06-08T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we’re bringing you the essential guide to protecting your digital assets, because now more than ever, securing your digital assets is key. Hardware wallets, recognized as the gold standard for crypto storage, are leading the charge in security. So le...]]></summary>
+        <author>
+            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
