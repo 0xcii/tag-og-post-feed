@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-09T10:13:14.622Z</id>
+    <id>urn:2023-06-09T11:10:46.983Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-09T10:13:14.622Z</updated>
+    <updated>2023-06-09T11:10:46.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - SudoSwap V2, Delorean GNS Yield Market, Staking Incentives, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean"/>
+        <updated>2023-06-09T10:17:03.000Z</updated>
+        <summary type="html"><![CDATA[SudoSwap V2 Live P2P NFT marketplace SudoSwap launches V2. The upgrade brings new features such as on-chain royalties, custom creator settings, EIP-1155 support, etc. Delorean GNS Yield Market Live Arbitrum-based future yield DEX Delorean launches the]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PoolTogether Lawsuit Dismissed By US Judge]]></title>
         <id>https://thedefiant.io/pooltogether-lawsuit-dismissed-by-us-judge</id>
@@ -889,16 +899,6 @@ The term goes back to early 2021 when Ethereum foundation researcher Justin Drak
         <summary type="html"><![CDATA[Floor Price Of The Controversial Collection Briefly Doubled After Tweet From Tesla CEO.]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - The 5 Phases of Maker Endgame, Uniswap on Bitcoin, MEV Profits Sharing, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-the-5-phases-of-maker"/>
-        <updated>2023-05-12T11:00:07.000Z</updated>
-        <summary type="html"><![CDATA[The 5 Phases of Maker Endgame Maker founder Ruin proposes a 5 phases Endgame plan that will rebrand MKR & DAI, enable SubDAOs, build AI tools, launch governance Participation Rewards, and eventually build Maker’s own chain. Uniswap on Bitcoin Trustless Market]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
     <entry>
