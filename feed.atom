@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-12T22:11:49.967Z</id>
+    <id>urn:2023-06-12T23:12:22.587Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-12T22:11:49.967Z</updated>
+    <updated>2023-06-12T23:12:22.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Lawmakers Propose Bill To Fire Gensler and Restructure the SEC]]></title>
+        <id>https://thedefiant.io/u-s-lawmakers-proposes-bill-to-fire-gensler-and-restructure-the-sec</id>
+        <link href="https://thedefiant.io/u-s-lawmakers-proposes-bill-to-fire-gensler-and-restructure-the-sec"/>
+        <updated>2023-06-12T21:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Republican congressmen seek to remove the figure of SEC chairman altogether.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Optimism Bedrock Live, SEC Sues CEXes, Sturdy Exploit, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-optimism-bedrock</id>
