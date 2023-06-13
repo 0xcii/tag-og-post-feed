@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-13T09:12:27.149Z</id>
+    <id>urn:2023-06-13T10:13:24.765Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-13T09:12:27.150Z</updated>
+    <updated>2023-06-13T10:13:24.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Polygon 2.0, Keep3r Exploit, Stable Yield Pools, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-polygon-20-keep3r-exploit</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-polygon-20-keep3r-exploit"/>
+        <updated>2023-06-13T09:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Polygon 2.0 Polygon Labs introduces Polygon 2.0, a set of upgrades to offer scalability and unified liquidity via ZK tech. The team will share more details about the future of Polygon PoS, token evolution, and decentralized governance in the coming weeks.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Layer 1 Tokens Crumble After SEC Calls Them Securities]]></title>
         <id>https://thedefiant.io/layer-1-tokens-crumble-after-sec-calls-them-securities</id>
@@ -899,16 +909,6 @@ The term goes back to early 2021 when Ethereum foundation researcher Justin Drak
         <summary type="html"><![CDATA[Liquid Staking Leader Looks To Silence Decentralization Critics With New Staking Router]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Lido V2 Live, Rook Transition, Advanced Swapping, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-lido-v2-live-rook-transition</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-lido-v2-live-rook-transition"/>
-        <updated>2023-05-16T10:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Lido V2 Live Lido v2 is approved and launched. This upgrade mainly enables withdrawals & staking routers. Stakers can now directly unstake their ETH through Lido. Rook Transition Following the approval of KIP-44, Rook DAO is transitioning token governance to Incubator DAO, a new funding project to explore new concepts for the ROOK token.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
     <entry>
