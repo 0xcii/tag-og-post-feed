@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-14T09:12:21.992Z</id>
+    <id>urn:2023-06-14T10:13:13.243Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-14T09:12:21.992Z</updated>
+    <updated>2023-06-14T10:13:13.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aevo Public Launch, Uniswap V4, Future Yield Trading, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch"/>
+        <updated>2023-06-14T09:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Aevo Public Launch Options AMM Aevo is now open to the public. Anyone can now trade ETH/BTC options & perps, as well as do OTC trading. Uniswap V4 Coming Uniswap announced V4 with released the early implementation of the code. The new version will enable Hooks, the singleton architecture, Flash Accounting, native ETH for pool operations, and governance updates.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon Unveils 2.0 Roadmap]]></title>
         <id>https://thedefiant.io/polygon-unveils-2-0-roadmap</id>
@@ -909,16 +919,6 @@ The term goes back to early 2021 when Ethereum foundation researcher Justin Drak
         <summary type="html"><![CDATA[Company Insists Opt-in Tool Does Not Compromise Users’ Security]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Reserve hyUSD, Origin OETH, ETH Staking, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-reserve-hyusd-origin</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-reserve-hyusd-origin"/>
-        <updated>2023-05-17T08:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Reserve hyUSD Live Reserve Protocol launches hyUSD, a yield-bearing RToken backed by yield-bearing assets that provide exposure to fiat stablecoins and US treasuries through Convex and Flux Finance. Origin OETH Origin protocol launches Origin Ether (OETH)]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
     <entry>
