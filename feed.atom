@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-15T21:11:27.988Z</id>
+    <id>urn:2023-06-15T22:11:45.239Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-15T21:11:27.988Z</updated>
+    <updated>2023-06-15T22:11:45.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USDT Stablecoin Briefly Dips Below $1 as Financial Document Disclosure Looms]]></title>
+        <id>https://thedefiant.io/usdt-briefly-dips-below-usd1-as-financial-document-disclosure-looms</id>
+        <link href="https://thedefiant.io/usdt-briefly-dips-below-usd1-as-financial-document-disclosure-looms"/>
+        <updated>2023-06-15T20:34:24.000Z</updated>
+        <summary type="html"><![CDATA[Tether cities “market manipulation” as the cause for the dip.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - EigenLayer Mainnet Live, Hashflow Exploit, Borrowing on LSTs, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-eigenlayer-mainnet</id>
