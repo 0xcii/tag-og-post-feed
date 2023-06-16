@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-16T20:13:01.578Z</id>
+    <id>urn:2023-06-16T21:11:03.168Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-16T20:13:01.578Z</updated>
+    <updated>2023-06-16T21:11:03.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum ‘Restaking’ Protocol EigenLayer Launches On Mainnet]]></title>
+        <id>https://thedefiant.io/ethereum-restaking-protocol-eigenlayer-launches-on-mainnet</id>
+        <link href="https://thedefiant.io/ethereum-restaking-protocol-eigenlayer-launches-on-mainnet"/>
+        <updated>2023-06-16T19:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Aims To Harness Ethereum As Shared Security Layer]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - DLN Exchange Live, Celsius to Sell Altcoins, Delta-Neutral Vaults, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-dln-exchange-live-celcius</id>
