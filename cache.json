@@ -14,12 +14,12 @@
         {
           "id": "https://medium.com/p/8e9178ffe0d6",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://cryptohayes.medium.com/fungible-8e9178ffe0d6?source=rss-2f6e06954878------2",
           "publishedOn": "2023-06-15T23:01:30.000Z",
-          "wordCount": 11973,
+          "wordCount": null,
           "title": "Fungible",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1uqicnxZYBrVa_IN"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/9434fd04a9a2",
@@ -1159,29 +1159,8 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4a63b6c8b019d6823d23928b4e7b08f9fbec0fa2-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/ripple-wants-to-integrate-cbdcs-with-defi",
-          "author": "Samuel Haig",
-          "description": "Ripple’s James Wallis Reveals Hong Kong-Backed CBDC Initiative Integrating Tokenized Real Estate and Web3 Lending",
-          "link": "https://thedefiant.io/ripple-wants-to-integrate-cbdcs-with-defi",
-          "publishedOn": "2023-05-19T22:36:43.000Z",
-          "wordCount": 1279,
-          "title": "Ripple Wants to Integrate CBDCs With DeFi",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8d1b51ae685869e30606af66cf68d374483563da-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8d1b51ae685869e30606af66cf68d374483563da-880x495.jpg"
         }
       ]
-    },
-    {
-      "title": "Stories by Andre Cronje on Medium",
-      "feedUrl": "https://andrecronje.medium.com/feed",
-      "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
-      "articles": []
     },
     {
       "title": "Today in DeFi",
