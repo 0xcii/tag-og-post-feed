@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-20T16:16:05.416Z</id>
+    <id>urn:2023-06-20T17:11:16.762Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-20T16:16:05.416Z</updated>
+    <updated>2023-06-20T17:11:16.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana NFT Activity Doubles In May]]></title>
+        <id>https://thedefiant.io/solana-nft-activity-doubles-in-may</id>
+        <link href="https://thedefiant.io/solana-nft-activity-doubles-in-may"/>
+        <updated>2023-06-20T15:45:58.000Z</updated>
+        <summary type="html"><![CDATA[Average Daily Transactions Hit 60,000]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - UK Approves Crypto Laws, opBNB Testnet Live, Incentives and Snapshots for Trading, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-uk-approves-crypto</id>
@@ -610,6 +620,7 @@
         <id>https://medium.com/p/9434fd04a9a2</id>
         <link href="https://entrepreneurshandbook.co/patience-is-beautiful-9434fd04a9a2?source=rss-2f6e06954878------2"/>
         <updated>2023-06-01T23:01:45.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
