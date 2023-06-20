@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-20T08:16:43.703Z</id>
+    <id>urn:2023-06-20T09:12:36.538Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-20T08:16:43.703Z</updated>
+    <updated>2023-06-20T09:12:36.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - UK Approves Crypto Laws, opBNB Testnet Live, Incentives and Snapshots for Trading, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-uk-approves-crypto</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-uk-approves-crypto"/>
+        <updated>2023-06-20T09:05:22.000Z</updated>
+        <summary type="html"><![CDATA[UK Approves Crypto Laws UK parliamentarians approved Financial Services and Markets Bill (FSMB) on Monday. FSMB is a new bill that could recognize crypto as a regulated activity and stablecoins as a means of payment under existing laws. The bill still needs further approval to be put into force.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curve Looks To Expand crvUSD Collateral Assets]]></title>
         <id>https://thedefiant.io/curve-looks-to-expand-crvusd-collateral-assets</id>
@@ -947,16 +957,6 @@ Matter Labs managed to raise $...]]></summary>
         <summary type="html"><![CDATA[Malicious Governance Takeover Allowed Tornado Cash Hacker To Steal $1M]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Inverse DBR Streaming, Lido Withdrawals UI Live, MEV-less Crosschain Swap, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-inverse-dbr-streaming</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-inverse-dbr-streaming"/>
-        <updated>2023-05-23T10:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Inverse DBR Streaming Inverse introduces DBR Streaming, a new utility to INV tokens. Each staked INV will receive an automated, continual stream of DBR. DBRs are tradable borrowing rights used for Inverse’s lending market FiRM Lido Withdrawals UI Live]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
     <entry>
