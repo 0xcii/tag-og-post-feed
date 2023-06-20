@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-20T18:14:38.525Z</id>
+    <id>urn:2023-06-20T19:10:39.207Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-20T18:14:38.525Z</updated>
+    <updated>2023-06-20T19:10:39.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -630,7 +630,6 @@
         <id>https://medium.com/p/9434fd04a9a2</id>
         <link href="https://entrepreneurshandbook.co/patience-is-beautiful-9434fd04a9a2?source=rss-2f6e06954878------2"/>
         <updated>2023-06-01T23:01:45.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
@@ -987,16 +986,6 @@ Matter Labs managed to raise $...]]></summary>
         <summary type="html"><![CDATA[Today we're joined by Jacob and Marcin, co-founders of RedStone. RedStone is an oracle in the crypto space picking up steam. We get into the nitty-gritty details of oracles, how RedStone is going up against the oracle monolith Chainlink, how they different...]]></summary>
         <author>
             <name>Tegan Kline</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenized Bonds Surpass $200M In Market Capitalization]]></title>
-        <id>https://thedefiant.io/tokenized-bonds-surpass-usd200m-in-market-capitalization</id>
-        <link href="https://thedefiant.io/tokenized-bonds-surpass-usd200m-in-market-capitalization"/>
-        <updated>2023-05-22T06:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Ondo and Matrixdock Lead With US Treasury Offerings]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
