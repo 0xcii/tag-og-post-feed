@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-22T19:11:43.837Z</id>
+    <id>urn:2023-06-22T20:14:53.612Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-22T19:11:43.837Z</updated>
+    <updated>2023-06-22T20:14:53.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gods Unchained Launches On Epic Games Store]]></title>
+        <id>https://thedefiant.io/gods-unchained-launches-on-epic-games-store</id>
+        <link href="https://thedefiant.io/gods-unchained-launches-on-epic-games-store"/>
+        <updated>2023-06-22T18:00:21.000Z</updated>
+        <summary type="html"><![CDATA[On-chain Activity Rises 20%, GODS Token Rallies]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - MakerDAO Savings DAI, Camelot AMM v3 Live, Stake to Yield, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai</id>
