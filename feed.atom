@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-22T08:15:30.733Z</id>
+    <id>urn:2023-06-22T09:11:53.606Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-22T08:15:30.733Z</updated>
+    <updated>2023-06-22T09:11:53.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - MakerDAO Savings DAI, Camelot AMM v3 Live, Stake to Yield, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai"/>
+        <updated>2023-06-22T08:28:28.000Z</updated>
+        <summary type="html"><![CDATA[MakerDAO Savings DAI MakerDAO announces Savings DAI (sDAI), a tokenized version of DSR-enabled DAI. sDAI is now available on Spark Protocol by depositing DAI in exchange for sDAI. Camelot AMM v3 Live Arbitrum-based DEX Camelot launches its AMM V3, backed by Algebra’s concentrated liquidity engine and integrated with Paraswap.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon Proposes Zero-Knowledge Overhaul For PoS Chain]]></title>
         <id>https://thedefiant.io/polygon-proposes-zero-knowledge-overhaul-for-pos-chain</id>
@@ -958,16 +968,6 @@ Pulse chain is an Ethereu...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today in DeFi - Multichain Routes Paused, Matcha DEX Upgrade, TWAP Trading, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused"/>
-        <updated>2023-05-25T10:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Multichain Routes Paused Some bridging routes (Kava、zkSync、Polygon zkEVM) on Multichain are paused and some traders’ funds are stuck on the bridges. There are also unconfirmed rumors of the cofounder's arrest in China and an investor sell-off of its token.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[zkSync Era tutorial - claim the (potential) airdrop in 5 steps]]></title>
         <id>https://thedefiant.io/zksync-era-tutorial-claim-the-potential-airdrop-in-5-steps</id>
         <link href="https://thedefiant.io/zksync-era-tutorial-claim-the-potential-airdrop-in-5-steps"/>
@@ -1027,16 +1027,6 @@ Matter Labs managed to raise $...]]></summary>
         <summary type="html"><![CDATA[Ethereum Co-founder Believes Such Projects Threaten Network’s Neutrality]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Rallies As US Debt Ceiling Talks Continue]]></title>
-        <id>https://thedefiant.io/crypto-rallies-as-us-debt-ceiling-talks-continue</id>
-        <link href="https://thedefiant.io/crypto-rallies-as-us-debt-ceiling-talks-continue"/>
-        <updated>2023-05-23T20:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Beacon Chain Withdrawal Queue Briefly Clears, Ether Jumps 3%]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>

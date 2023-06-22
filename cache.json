@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/fungible-8e9178ffe0d6?source=rss-2f6e06954878------2",
           "publishedOn": "2023-06-15T23:01:30.000Z",
-          "wordCount": 12851,
+          "wordCount": 12882,
           "title": "Fungible",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1uqicnxZYBrVa_IN"
         },
@@ -1249,21 +1249,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/78d5bef6dffb109eafe986b3fe1a3fc006d35710-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/crypto-rallies-as-us-debt-ceiling-talks-continue",
-          "author": "Samuel Haig",
-          "description": "Beacon Chain Withdrawal Queue Briefly Clears, Ether Jumps 3%",
-          "link": "https://thedefiant.io/crypto-rallies-as-us-debt-ceiling-talks-continue",
-          "publishedOn": "2023-05-23T20:46:03.000Z",
-          "wordCount": 1145,
-          "title": "Crypto Rallies As US Debt Ceiling Talks Continue",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/172f7167092c288c588e0ccd292b4d95667f482b-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/172f7167092c288c588e0ccd292b4d95667f482b-880x495.jpg"
         }
       ]
     },
@@ -1278,6 +1263,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "MakerDAO Savings DAI MakerDAO announces Savings DAI (sDAI), a tokenized version of DSR-enabled DAI. sDAI is now available on Spark Protocol by depositing DAI in exchange for sDAI. Camelot AMM v3 Live Arbitrum-based DEX Camelot launches its AMM V3, backed by Algebra’s concentrated liquidity engine and integrated with Paraswap.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-makerdao-savings-dai",
+          "publishedOn": "2023-06-22T08:28:28.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - MakerDAO Savings DAI, Camelot AMM v3 Live, Stake to Yield, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba1191ee-ef44-407e-a0c2-ff65d914532d_1700x850.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba1191ee-ef44-407e-a0c2-ff65d914532d_1700x850.jpeg"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-magpie-bridge-live",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -1581,22 +1582,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c498c62-4481-4796-8cfd-37934975db77_680x354.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused",
-          "author": null,
-          "description": "Multichain Routes Paused Some bridging routes (Kava、zkSync、Polygon zkEVM) on Multichain are paused and some traders’ funds are stuck on the bridges. There are also unconfirmed rumors of the cofounder's arrest in China and an investor sell-off of its token.",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-multichain-routes-paused",
-          "publishedOn": "2023-05-25T10:29:40.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Multichain Routes Paused, Matcha DEX Upgrade, TWAP Trading, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a83e58a-60df-4c30-8df8-c24b3a337a47_661x346.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a83e58a-60df-4c30-8df8-c24b3a337a47_661x346.png"
         }
       ]
     }
