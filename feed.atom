@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-23T08:17:53.823Z</id>
+    <id>urn:2023-06-23T09:14:26.841Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-23T08:17:53.823Z</updated>
+    <updated>2023-06-23T09:14:26.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Velodrome V2 Live, Prime Trust Halted Withdrawals, PENDLE Yield Boost, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-velodrome-v2-live-prime</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-velodrome-v2-live-prime"/>
+        <updated>2023-06-23T08:50:28.000Z</updated>
+        <summary type="html"><![CDATA[Velodrome V2 Live Velodrome launched V2 with a new VELO token. V2 enables new features including concentrated liquidity support, dynamic fees, dynamic emission rate, velodrome relay, enhanced UX, etc. V1 users will have about a week to migrate to V2 before the emission begins on V2 on June 29th.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gods Unchained Launches On Epic Games Store]]></title>
         <id>https://thedefiant.io/gods-unchained-launches-on-epic-games-store</id>
@@ -913,16 +923,6 @@
         <summary type="html"><![CDATA[The lion's share of MakerDAO's stablecoin is backed by centralized stablecoins and real-world assets.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - QuickPerps Live on Polygon zkEVM, Lyra Upgrade on Optimism, Vote on Protocol Fees, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-quickperps-live-on</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-quickperps-live-on"/>
-        <updated>2023-05-26T10:49:54.000Z</updated>
-        <summary type="html"><![CDATA[QuickPerps Live on Polygon zkEVM QuickSwap launches QuickPerps, a perpetual dex that allows trading of $MATIC, $ETH, $BTC, $USDC, $USDT, and $DAI with up to 50x leverage. Lyra Upgrade on Optimsim Lyra launched an improved version of the protocol on Optimism. The new version uses SNX V2 perpetual futures as a liquidity source to delta hedge the option Market Maker Vaults (MMVs). This improves the capital efficiency of the protocol, increases the percentage of fees returned back to LPs, and allows for more assets to be supported for traders.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
     <entry>
