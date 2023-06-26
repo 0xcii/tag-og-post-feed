@@ -24,12 +24,12 @@
         {
           "id": "https://medium.com/p/9434fd04a9a2",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/patience-is-beautiful-9434fd04a9a2?source=rss-2f6e06954878------2",
           "publishedOn": "2023-06-01T23:01:45.000Z",
-          "wordCount": 12689,
+          "wordCount": null,
           "title": "Patience is Beautiful",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:625/1*_cxMx48POTbF8yF7rx5AgQ.png"
+          "imageUrl": null
         }
       ]
     },
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/hyperliquid-a-new-decentralized-perpetuals-exchange",
+          "author": "Jeremy Nation",
+          "description": "Built from the ground up to match the CEX experience",
+          "link": "https://thedefiant.io/hyperliquid-a-new-decentralized-perpetuals-exchange",
+          "publishedOn": "2023-06-26T14:02:20.000Z",
+          "wordCount": 2749,
+          "title": "Hyperliquid: a new decentralized perpetuals exchange [Sponsored]",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b81afae32e9b4a47f50a3d47f383ad385500cfe9-600x338.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b81afae32e9b4a47f50a3d47f383ad385500cfe9-600x338.jpg"
+        },
         {
           "id": "https://thedefiant.io/defi-sector-rockets-higher-with-aave-and-comp-rallying-30",
           "author": "Samuel Haig",
