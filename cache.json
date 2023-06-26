@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/fungible-8e9178ffe0d6?source=rss-2f6e06954878------2",
           "publishedOn": "2023-06-15T23:01:30.000Z",
-          "wordCount": 13022,
+          "wordCount": 12898,
           "title": "Fungible",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1uqicnxZYBrVa_IN"
         },
@@ -1144,6 +1144,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-maker-savings-dai",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of June 19th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-maker-savings-dai",
+          "publishedOn": "2023-06-26T10:29:17.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Maker Savings DAI, Polygon POS to ZK L2, Regulation Updates, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6824c78d-5594-428e-a680-cec8d06e1162_1456x728.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6824c78d-5594-428e-a680-cec8d06e1162_1456x728.webp"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-velodrome-v2-live-prime",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Velodrome V2 Live Velodrome launched V2 with a new VELO token. V2 enables new features including concentrated liquidity support, dynamic fees, dynamic emission rate, velodrome relay, enhanced UX, etc. V1 users will have about a week to migrate to V2 before the emission begins on V2 on June 29th.",
@@ -1446,22 +1462,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56b536d2-803a-482f-a61d-f8b6bcd7cc9c_751x374.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-quickperps-on-polygon",
-          "author": null,
-          "description": "Recap: Week of May 22nd",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-quickperps-on-polygon",
-          "publishedOn": "2023-05-29T11:06:07.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - QuickPerps on Polygon zkEVM, Fantom Gas Monetization, Multichain Routes Paused, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f5cb6e7-266f-40f2-8da8-5233011f86dc_680x354.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f5cb6e7-266f-40f2-8da8-5233011f86dc_680x354.webp"
         }
       ]
     }
