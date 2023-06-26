@@ -17,19 +17,19 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/fungible-8e9178ffe0d6?source=rss-2f6e06954878------2",
           "publishedOn": "2023-06-15T23:01:30.000Z",
-          "wordCount": 12898,
+          "wordCount": 13022,
           "title": "Fungible",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1uqicnxZYBrVa_IN"
         },
         {
           "id": "https://medium.com/p/9434fd04a9a2",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/patience-is-beautiful-9434fd04a9a2?source=rss-2f6e06954878------2",
           "publishedOn": "2023-06-01T23:01:45.000Z",
-          "wordCount": 12689,
+          "wordCount": null,
           "title": "Patience is Beautiful",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:625/1*_cxMx48POTbF8yF7rx5AgQ.png"
+          "imageUrl": null
         }
       ]
     },
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/layer-2-network-zksync-unveils-hyperchain-vision-with-zk-stack",
+          "author": "Samuel Haig",
+          "description": "Era Mainnet Has Surpassed $600M In TVL As Airdrop Farmers Eye Potential Token",
+          "link": "https://thedefiant.io/layer-2-network-zksync-unveils-hyperchain-vision-with-zk-stack",
+          "publishedOn": "2023-06-26T15:52:10.000Z",
+          "wordCount": 1083,
+          "title": "Layer 2 Network ZkSync Unveils ‘Hyperchain’ Vision With ZK Stack",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1f359bd882c9d7970e801dc409852ed31356de74-828x466.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1f359bd882c9d7970e801dc409852ed31356de74-828x466.webp"
+        },
         {
           "id": "https://thedefiant.io/defi-sector-rockets-higher-with-aave-and-comp-rallying-30",
           "author": "Samuel Haig",
