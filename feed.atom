@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-27T08:18:26.633Z</id>
+    <id>urn:2023-06-27T09:14:23.843Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-27T08:18:26.633Z</updated>
+    <updated>2023-06-27T09:14:23.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Introducing ZK Stack, WBTC & ETH Markets for crvUSD, Earn Fixed Rate on DAI, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-introducing-zk-stack</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-introducing-zk-stack"/>
+        <updated>2023-06-27T08:47:21.000Z</updated>
+        <summary type="html"><![CDATA[Matter Labs Introduces ZK Stack Matter Labs released the ZK Stack for building ‘Hyperchains’. Devs who build Hyperchains can choose to create Layer 2s that run parallel to zkSync Era, or Layer 3s that run on top of it. WBTC, ETH Markets for crvUSD Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hermes Wins Injunction Against MetaBirkins NFT Creator]]></title>
         <id>https://thedefiant.io/hermes-wins-injunction-against-metabirkins-nft-creator</id>
@@ -945,16 +955,6 @@ Since its V3 release, Uniswap has facilitated over $1.5 trillion in trading...]]
         <summary type="html"><![CDATA[DeFi Alpha is a weekly newsletter published for our premium subscribers contributed by Defiant Advisor and DeFi investor at 4RC, DeFi Dad, and our Degen in Chief yyctrader.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Worldcoin Integrates Safe, Tai.Money Live, LST Loans, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-worldcoin-integrates</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-worldcoin-integrates"/>
-        <updated>2023-05-30T10:03:21.000Z</updated>
-        <summary type="html"><![CDATA[Worldcoin Integrates Safe UBI protocol Worldcoin integrates with Safe to offer account abstraction to its users. World App users receive a Safe-powered smart contract wallet deployed on Polygon. Tai.money Live Tai.money, a version of Reflexer’s RAI that supports LSDs as collateral, is live. Users can now borrow TAI against their ETH, wstETH, rETH, cbETH, and RAI; also users can LP for the protocol to earn]]></summary>
-        <author>
-            <name>Today in DeFi</name>
         </author>
     </entry>
     <entry>
