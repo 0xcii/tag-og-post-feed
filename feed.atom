@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-28T12:30:41.298Z</id>
+    <id>urn:2023-06-28T13:23:29.165Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-28T12:30:41.298Z</updated>
+    <updated>2023-06-28T13:23:29.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Maple Finance To Offer Overcollateralized Loans To Web3 Businesses]]></title>
+        <id>https://thedefiant.io/maple-finance-to-offer-overcollateralized-loans-to-web3-businesses</id>
+        <link href="https://thedefiant.io/maple-finance-to-offer-overcollateralized-loans-to-web3-businesses"/>
+        <updated>2023-06-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maple Direct Aims To Fill A Gap In Institutional Demand For Transparent, Compliant Lending Services]]></summary>
+        <author>
+            <name>Jeremy Nation</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - CCTP Live on Arbitrum, Sudoswap Wrapped Pools, Good Farms and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-cctp-live-on-arbitrum</id>
