@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/fungible-8e9178ffe0d6?source=rss-2f6e06954878------2",
           "publishedOn": "2023-06-15T23:01:30.000Z",
-          "wordCount": 12830,
+          "wordCount": 12858,
           "title": "Fungible",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1uqicnxZYBrVa_IN"
         },
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/web3-needs-paradigm-shift-from-users-to-builders",
+          "author": "ConsenSys",
+          "description": "Crypto has a perception problem. A large number of people don’t know what cryptocurrencies and web3 are, or see crypto as complex and intimidating. In a recent global YouGov survey commissioned by Consensys (The Global Survey on Crypto and Web3), 43% of re...",
+          "link": "https://thedefiant.io/web3-needs-paradigm-shift-from-users-to-builders",
+          "publishedOn": "2023-06-28T13:00:00.000Z",
+          "wordCount": 2457,
+          "title": "Web3 Needs Paradigm Shift from “Users” to “Builders”",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f3f574581a0429c06138d1c40dc98a0c9d07d466-2880x1620.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f3f574581a0429c06138d1c40dc98a0c9d07d466-2880x1620.png"
+        },
         {
           "id": "https://thedefiant.io/maple-finance-to-offer-overcollateralized-loans-to-web3-businesses",
           "author": "Jeremy Nation",
