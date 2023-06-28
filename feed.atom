@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-28T07:13:19.724Z</id>
+    <id>urn:2023-06-28T08:18:53.889Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-28T07:13:19.724Z</updated>
+    <updated>2023-06-28T08:18:53.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - CCTP Live on Arbitrum, Sudoswap Wrapped Pools, Good Farms and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-cctp-live-on-arbitrum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-cctp-live-on-arbitrum"/>
+        <updated>2023-06-28T08:00:16.000Z</updated>
+        <summary type="html"><![CDATA[CCTP on Arbitrum]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAI’s Reliance On USDC Drops Below 10% As MakerDAO Expands Bond Holdings]]></title>
         <id>https://thedefiant.io/dai-s-reliance-on-usdc-drops-below-10-as-makerdao-expands-bond-holdings</id>
@@ -945,16 +955,6 @@ Since its V3 release, Uniswap has facilitated over $1.5 trillion in trading...]]
         <summary type="html"><![CDATA[Subsidiary Of Europe’s Largest Telco Will Provide Staking and Validation Services]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi -One Click DAOs, tBTC on Arbitrum, zkEVM farming and More]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-one-click-daos-tbtc</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-one-click-daos-tbtc"/>
-        <updated>2023-05-31T11:13:10.000Z</updated>
-        <summary type="html"><![CDATA[One Click DAOs A new project on Aragon called Libree allows users to quickly and easily create Investment DAOs. Users can easily create asset management strategies and assign permissions to wallets managing funds. tBTC on Arbitrum tBTC, a BTC token on Ethereum, is]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
