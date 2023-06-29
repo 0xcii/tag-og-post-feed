@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/fungible-8e9178ffe0d6?source=rss-2f6e06954878------2",
           "publishedOn": "2023-06-15T23:01:30.000Z",
-          "wordCount": 12870,
+          "wordCount": 12871,
           "title": "Fungible",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1uqicnxZYBrVa_IN"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/patience-is-beautiful-9434fd04a9a2?source=rss-2f6e06954878------2",
           "publishedOn": "2023-06-01T23:01:45.000Z",
-          "wordCount": 12689,
+          "wordCount": 12688,
           "title": "Patience is Beautiful",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:625/1*_cxMx48POTbF8yF7rx5AgQ.png"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/prometheum-draws-scrutiny-over-compliance-claims",
+          "author": "Jeremy Nation",
+          "description": "Prometheum Says It Is Paving The Way For Crypto Adoption Through Compliance But Critics Say The Company Lists No Digital Assets",
+          "link": "https://thedefiant.io/prometheum-draws-scrutiny-over-compliance-claims",
+          "publishedOn": "2023-06-29T20:27:19.000Z",
+          "wordCount": 1668,
+          "title": "Prometheum Draws Scrutiny Over Compliance Claims",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/157ab44760334ef1e2b28dddcd352b92aeed1d50-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/157ab44760334ef1e2b28dddcd352b92aeed1d50-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/bis-leverages-curve-s-amm-technology-for-cbdc-test",
           "author": "Samuel Haig",
