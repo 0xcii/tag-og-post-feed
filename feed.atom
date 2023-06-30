@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-30T20:14:27.808Z</id>
+    <id>urn:2023-06-30T21:11:38.036Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-30T20:14:27.808Z</updated>
+    <updated>2023-06-30T21:11:38.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Avalanche On-chain Activity Doubles in 2023]]></title>
+        <id>https://thedefiant.io/avalanche-on-chain-activity-doubles-in-2023</id>
+        <link href="https://thedefiant.io/avalanche-on-chain-activity-doubles-in-2023"/>
+        <updated>2023-06-30T19:54:13.000Z</updated>
+        <summary type="html"><![CDATA[Trader Joe, Stargate and WooFi Drive Growth]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lido Governance Greenlights Revamped Revenue Sharing Program]]></title>
         <id>https://thedefiant.io/lido-governance-greenlights-revamped-revenue-sharing-program</id>
@@ -992,6 +1002,7 @@ Since its V3 release, Uniswap has facilitated over $1.5 trillion in trading...]]
         <id>https://medium.com/p/9434fd04a9a2</id>
         <link href="https://entrepreneurshandbook.co/patience-is-beautiful-9434fd04a9a2?source=rss-2f6e06954878------2"/>
         <updated>2023-06-01T23:01:45.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
