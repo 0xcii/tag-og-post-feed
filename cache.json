@@ -51,6 +51,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/crypto-markets-end-q2-on-a-high-note",
+          "author": "Jeremy Nation",
+          "description": "Bitcoin Holds Above $30,000 While Ether Rallies 4%",
+          "link": "https://thedefiant.io/crypto-markets-end-q2-on-a-high-note",
+          "publishedOn": "2023-07-01T04:29:18.000Z",
+          "wordCount": 826,
+          "title": "Crypto Markets End Q2 On A High Note",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/aa69c984a32b75d776417f52c73181008c763219-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aa69c984a32b75d776417f52c73181008c763219-880x495.jpg"
+        },
+        {
           "id": "https://thedefiant.io/avalanche-on-chain-activity-doubles-in-2023",
           "author": "Samuel Haig",
           "description": "Trader Joe, Stargate and WooFi Drive Growth",
@@ -1234,21 +1249,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/99ce7f43d5d7e8c81cc9e648178ddfa12570a8ef-880x495.webp"
-        },
-        {
-          "id": "https://thedefiant.io/kevin-rose-catches-flak-for-bored-apes-comparison",
-          "author": "yyctrader",
-          "description": "Much-hyped Moonbirds Are Down 95% After Peaking A Week After Launch",
-          "link": "https://thedefiant.io/kevin-rose-catches-flak-for-bored-apes-comparison",
-          "publishedOn": "2023-06-01T17:12:50.000Z",
-          "wordCount": 3035,
-          "title": "Kevin Rose Catches Flak For Bored Apes Comparison",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/39bbbbdd782a3cda566f25e7d75a448b3e7ba47d-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/39bbbbdd782a3cda566f25e7d75a448b3e7ba47d-880x495.jpg"
         }
       ]
     },
