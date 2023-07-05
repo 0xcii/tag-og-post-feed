@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-05T08:19:31.692Z</id>
+    <id>urn:2023-07-05T09:14:53.026Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-05T08:19:31.692Z</updated>
+    <updated>2023-07-05T09:14:53.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Sommelier Morpho Integration, PancakeSwap on Polygon zkEVM, Crosschain Trading, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration"/>
+        <updated>2023-07-05T08:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Sommelier Morpho Integration Yield protocol Sommelier integrates Morpho to launch the RYETH and RYUSD vaults, using Morphon's optimizer to enhance returns. PancakeSwap on Polygon zkEVM PancakeSwap has been deployed on Polygon zkEVM (with swap feature supported) and joined Linea's testnet campaign.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is the IRS Cracking Down on Crypto?]]></title>
         <id>https://thedefiant.io/is-the-irs-cracking-down-on-crypto</id>
@@ -911,16 +921,6 @@ Since its V3 release, Uniswap has facilitated over $1.5 trillion in trading...]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today in DeFi - Optimism Bedrock Live, SEC Sues Coinbase, Upgraded Options Trading, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-optimism-bedrock-live"/>
-        <updated>2023-06-07T10:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Optimsim Bedrock Live Optimism has upgraded to Bedrock. The upgrade enables lower fees, shorter deposit times, and improved modularity & performance. SEC Sues Coinabse The SEC sued Coinbase after Binance for operating as an unregistered exchange and broker, and that 13 assets listed on Coinbase were considered crypto asset securities.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[⚠️COINBASE AND BINANCE SUED BY THE SEC🩸]]></title>
         <id>https://thedefiant.io/coinbase-and-binance-sued-by-the-sec</id>
         <link href="https://thedefiant.io/coinbase-and-binance-sued-by-the-sec"/>
@@ -968,16 +968,6 @@ Since its V3 release, Uniswap has facilitated over $1.5 trillion in trading...]]
         <summary type="html"><![CDATA[Bitcoin And Ether Rally As Markets Shrug Off Latest Regulatory Action]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atomic Wallet Exploited For More Than $35M]]></title>
-        <id>https://thedefiant.io/atomic-wallet-exploited-for-more-than-usd35m</id>
-        <link href="https://thedefiant.io/atomic-wallet-exploited-for-more-than-usd35m"/>
-        <updated>2023-06-05T20:25:57.000Z</updated>
-        <summary type="html"><![CDATA[Nearly $8M Was Drained From A Single User]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
 </feed>
