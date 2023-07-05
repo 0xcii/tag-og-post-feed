@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-05T05:14:32.627Z</id>
+    <id>urn:2023-07-05T06:20:05.868Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-05T05:14:32.627Z</updated>
+    <updated>2023-07-05T06:20:05.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -988,16 +988,6 @@ Since its V3 release, Uniswap has facilitated over $1.5 trillion in trading...]]
         <summary type="html"><![CDATA[Filing alleges Binance CCO admitted “we are operating as a fking unlicensed securities exchange in the USA bro.”]]></summary>
         <author>
             <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve’s Stablecoin to Support Lido’s stETH]]></title>
-        <id>https://thedefiant.io/curve-s-stablecoin-to-support-lido-s-steth</id>
-        <link href="https://thedefiant.io/curve-s-stablecoin-to-support-lido-s-steth"/>
-        <updated>2023-06-05T18:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Move allows crvUSD to scale by increasing debt ceiling by 15x.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
