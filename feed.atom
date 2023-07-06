@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-06T22:13:27.271Z</id>
+    <id>urn:2023-07-06T23:15:01.046Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-06T22:13:27.271Z</updated>
+    <updated>2023-07-06T23:15:01.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Massa]]></title>
+        <id>https://medium.com/p/96ae856effcd</id>
+        <link href="https://cryptohayes.medium.com/massa-96ae856effcd?source=rss-2f6e06954878------2"/>
+        <updated>2023-07-06T23:02:17.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compound Token Surges After CEO Steps Down And Unveils New Venture]]></title>
         <id>https://thedefiant.io/compound-token-surges-after-ceo-steps-down-and-unveils-new-compliant-venture</id>
