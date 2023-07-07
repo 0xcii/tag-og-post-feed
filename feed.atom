@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-07T08:18:14.458Z</id>
+    <id>urn:2023-07-07T09:14:19.970Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-07T08:18:14.458Z</updated>
+    <updated>2023-07-07T09:14:19.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Multichain Hacked, SEC Going After DeFi, Quest to Earn, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-multichain-hacked-sec</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-multichain-hacked-sec"/>
+        <updated>2023-07-07T09:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Multichain Stops All Services Multichain was hacked and has announced it has stopped all services. All bridge transactions will be stuck on the source chain with unknown resume time. Earlier today Multichain bridge contracts saw major outflows due to potential exploits. “]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3 Apps Gained Users In June Despite Regulatory Challenges: DappRadar]]></title>
         <id>https://thedefiant.io/web3-apps-gained-users-in-june-despite-regulatory-challenges-dappradar</id>
@@ -918,16 +928,6 @@ Since its V3 release, Uniswap has facilitated over $1.5 trillion in trading...]]
         <summary type="html"><![CDATA[Ether.fan NFTs Accrue Rewards And Seed Solo Stakers]]></summary>
         <author>
             <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - SudoSwap V2, Delorean GNS Yield Market, Staking Incentives, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-sudoswap-v2-delorean"/>
-        <updated>2023-06-09T10:17:03.000Z</updated>
-        <summary type="html"><![CDATA[SudoSwap V2 Live P2P NFT marketplace SudoSwap launches V2. The upgrade brings new features such as on-chain royalties, custom creator settings, EIP-1155 support, etc. Delorean GNS Yield Market Live Arbitrum-based future yield DEX Delorean launches the]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
