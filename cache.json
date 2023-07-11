@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/massa-96ae856effcd?source=rss-2f6e06954878------2",
           "publishedOn": "2023-07-06T23:02:17.000Z",
-          "wordCount": 8687,
+          "wordCount": 8658,
           "title": "Massa",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*hSUH1mox3FhgXECr"
         },
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/cowswap-enables-complex-swaps-with-hooks",
+          "author": "Owen Fernau",
+          "description": "Sophisticated Users Can Combine Transactions Like Swapping, Bridging and Staking",
+          "link": "https://thedefiant.io/cowswap-enables-complex-swaps-with-hooks",
+          "publishedOn": "2023-07-11T15:04:13.000Z",
+          "wordCount": 1070,
+          "title": "CowSwap Enables Complex Swaps With ‘Hooks’",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3391bcc14c84ccbee1f89e2cb6ed430ce5e76960-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3391bcc14c84ccbee1f89e2cb6ed430ce5e76960-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/consensys-to-launch-linea-zkevm-mainnet-at-ethcc",
           "author": "Samuel Haig",
