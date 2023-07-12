@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T08:18:45.544Z</id>
+    <id>urn:2023-07-12T09:13:49.038Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-12T08:18:45.544Z</updated>
+    <updated>2023-07-12T09:13:49.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - ConsenSys Linea Alpha, Rodeo Exploit, Native BTC Bridging, ...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-consensys-linea-alpha</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-consensys-linea-alpha"/>
+        <updated>2023-07-12T08:36:45.000Z</updated>
+        <summary type="html"><![CDATA[Linea Mainnet Alpha ConsenSys L2 Linea launches mainnet alpha and starts to onboard launch partners. Linea will open the network to the public next week at EthCC. In the launch post, Linea claims there is no token as it uses ETH as the network currency.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Developers Left Web3 En Masse In The Past 12 Months]]></title>
         <id>https://thedefiant.io/new-developers-left-web3-en-masse-in-the-past-12-months</id>
@@ -916,16 +926,6 @@
         <summary type="html"><![CDATA[Gaming Studios Are Still Trying To Figure Out The Secret Recipe For A Blockchain Gaming Blockbuster]]></summary>
         <author>
             <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Aevo Public Launch, Uniswap V4, Future Yield Trading, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-aevo-public-launch"/>
-        <updated>2023-06-14T09:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Aevo Public Launch Options AMM Aevo is now open to the public. Anyone can now trade ETH/BTC options & perps, as well as do OTC trading. Uniswap V4 Coming Uniswap announced V4 with released the early implementation of the code. The new version will enable Hooks, the singleton architecture, Flash Accounting, native ETH for pool operations, and governance updates.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
