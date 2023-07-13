@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T23:13:40.545Z</id>
+    <id>urn:2023-07-13T01:24:23.578Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-12T23:13:40.545Z</updated>
+    <updated>2023-07-13T01:24:23.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -964,16 +964,6 @@
         <link href="https://thedefiant.io/nft-marketplaces-compete-for-users-as-bear-market-drags-on"/>
         <updated>2023-06-13T17:02:12.000Z</updated>
         <summary type="html"><![CDATA[Blur Targets Wash Traders, Sudoswap Launches v2, KrakenNFT Live, LooksRare Returns]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap Publishes Draft Code For Upcoming V4 Iteration]]></title>
-        <id>https://thedefiant.io/uniswap-publishes-draft-code-for-upcoming-v4-iteration</id>
-        <link href="https://thedefiant.io/uniswap-publishes-draft-code-for-upcoming-v4-iteration"/>
-        <updated>2023-06-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New Features Include Limit Orders, Auto-compounding, Dynamic Fees and TWAMM]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
