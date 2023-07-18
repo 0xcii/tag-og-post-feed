@@ -41,12 +41,27 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/opensea-suspends-trading-of-etherfi-nfts",
+          "author": "Jeremy Nation",
+          "description": "NFT Marketplace Cites TOS Violations Despite Collaborating With Liquid Staking Protocol Prior To Collection’s Launch",
+          "link": "https://thedefiant.io/opensea-suspends-trading-of-etherfi-nfts",
+          "publishedOn": "2023-07-18T19:00:22.000Z",
+          "wordCount": null,
+          "title": "OpenSea Suspends Trading Of EtherFi NFTs",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8b83127ed70045e123a823dde636b8e977e35ab3-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8b83127ed70045e123a823dde636b8e977e35ab3-880x495.jpg"
+        },
+        {
           "id": "https://thedefiant.io/uniswap-releases-dex-aggregator-protocol",
           "author": "Owen Fernau",
           "description": "UniswapX's MEV Protection and Gasless Swap Features Draw Comparisons To CoW Swap",
           "link": "https://thedefiant.io/uniswap-releases-dex-aggregator-protocol",
           "publishedOn": "2023-07-18T16:51:03.000Z",
-          "wordCount": 1245,
+          "wordCount": 1334,
           "title": "Uniswap Releases DEX Aggregator Protocol",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/01bccb7e39be2745ee052eae92c66b5623434884-780x439.jpg",
@@ -64,11 +79,11 @@
           "wordCount": 1663,
           "title": "DeFi Assets Consolidate Gains As Market Cools",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/275a8da652a09347c6ae08b4e3e2a148af0e8516-828x466.webp",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/50d09bb2f18c9e565356fa7b819ec695e8bdb525-880x495.jpg",
             "length": "1000000",
-            "type": "image/webp"
+            "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/275a8da652a09347c6ae08b4e3e2a148af0e8516-828x466.webp"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/50d09bb2f18c9e565356fa7b819ec695e8bdb525-880x495.jpg"
         },
         {
           "id": "https://thedefiant.io/solving-dao-treasury-pain-points-step-by-step",
