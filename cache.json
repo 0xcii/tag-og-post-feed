@@ -41,6 +41,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/defi-assets-consolidate-gains-as-market-cools",
+          "author": "Samuel Haig",
+          "description": "SNX, OP, 1INCH Are Up More Than 25% In The Past Week",
+          "link": "https://thedefiant.io/defi-assets-consolidate-gains-as-market-cools",
+          "publishedOn": "2023-07-18T15:43:37.000Z",
+          "wordCount": 1556,
+          "title": "DeFi Assets Consolidate Gains As Market Cools",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/275a8da652a09347c6ae08b4e3e2a148af0e8516-828x466.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/275a8da652a09347c6ae08b4e3e2a148af0e8516-828x466.webp"
+        },
+        {
           "id": "https://thedefiant.io/solving-dao-treasury-pain-points-step-by-step",
           "author": "Avantgarde",
           "description": "DAOs (Decentralized Autonomous Organizations) are a web3 innovation that have revolutionised the way we think about organisational structures and governance. By leveraging blockchain technology and smart contracts, DAOs enable decentralised ownership and d...",
