@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-25T09:13:17.372Z</id>
+    <id>urn:2023-07-25T10:14:23.231Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-25T09:13:17.372Z</updated>
+    <updated>2023-07-25T10:14:23.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Factor V2 Live on Arbitrum, Thena Alpha on BnB Chain, Delta-Neutral Options LPing, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-factor-v2-live-on-arbitrum</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-factor-v2-live-on-arbitrum"/>
+        <updated>2023-07-25T09:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Factor V2 Live on Arbitrum Arbitrum-based yield protocol Factor launched V2 with initial strategies for TradeJoe, Mux, and GMX vaults. Factor launches v2 staking rewards. Thena Alpha on BnB Chain BnB Chain-based DEX Thena.fi launches its perp trading platform Alpha. Alpha supports 100 assets with up to 40x leverage and has zero funding rates.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Worldcoin Live, Chainlink CCIP, Mantle L2 Mainnet, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-worldcoin-live</id>
@@ -535,6 +545,7 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <id>https://medium.com/p/96ae856effcd</id>
         <link href="https://entrepreneurshandbook.co/massa-96ae856effcd?source=rss-2f6e06954878------2"/>
         <updated>2023-07-06T23:02:17.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
@@ -860,16 +871,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <summary type="html"><![CDATA[Sector Pulled In Over $700M Despite Brutal Bear Market]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Introducing ZK Stack, WBTC & ETH Markets for crvUSD, Earn Fixed Rate on DAI, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-introducing-zk-stack</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-introducing-zk-stack"/>
-        <updated>2023-06-27T08:47:21.000Z</updated>
-        <summary type="html"><![CDATA[Matter Labs Introduces ZK Stack Matter Labs released the ZK Stack for building ‘Hyperchains’. Devs who build Hyperchains can choose to create Layer 2s that run parallel to zkSync Era, or Layer 3s that run on top of it. WBTC, ETH Markets for crvUSD Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
