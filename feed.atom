@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-26T10:13:00.198Z</id>
+    <id>urn:2023-07-26T11:10:36.809Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-26T10:13:00.198Z</updated>
+    <updated>2023-07-26T11:10:36.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,26 +13,6 @@
         <summary type="html"><![CDATA[zkSync EraLend Hacked zkSync Era-based lending protocol EraLend was exploited and lost ~2.76m due to a re-entrancy attack. The team has temporarily paused borrowing, USDC supply, and SyncSwap LP supply while investigating and tracing the lost funds.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worldcoin Launch Greeted By Mix Of Skepticism and Curiosity]]></title>
-        <id>https://thedefiant.io/worldcoin-launch-greeted-by-mix-of-skepticism-and-curiosity</id>
-        <link href="https://thedefiant.io/worldcoin-launch-greeted-by-mix-of-skepticism-and-curiosity"/>
-        <updated>2023-07-25T19:33:49.000Z</updated>
-        <summary type="html"><![CDATA[WLD Token Trades At FDV Of $22B While Vitalik Buterin and ZachXBT Raise Concerns]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HamstersGG Faces Rug Pull Accusations]]></title>
-        <id>https://thedefiant.io/hamstersgg-faces-rug-pull-accusations</id>
-        <link href="https://thedefiant.io/hamstersgg-faces-rug-pull-accusations"/>
-        <updated>2023-07-25T18:48:14.000Z</updated>
-        <summary type="html"><![CDATA[Thrill-seeking Investors Turn To Betting On Animal Racing Tokens As Crypto Markets Trade Sideways]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
@@ -56,36 +36,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upcoming Congressional Meeting To Review Two Digital Asset Bills]]></title>
-        <id>https://thedefiant.io/upcoming-congressional-meeting-to-review-two-digital-asset-bills</id>
-        <link href="https://thedefiant.io/upcoming-congressional-meeting-to-review-two-digital-asset-bills"/>
-        <updated>2023-07-22T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Congressional meeting follows key ruling in Ripple vs SEC]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask To Support Cross-Chain Interactions With 'Snaps' By 2024]]></title>
-        <id>https://thedefiant.io/metamask-to-support-cross-chain-interactions-with-snaps-by-2024</id>
-        <link href="https://thedefiant.io/metamask-to-support-cross-chain-interactions-with-snaps-by-2024"/>
-        <updated>2023-07-21T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Snaps will allow MetaMask users to interact with applications on other networks]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEXs Account For 5% Of Global Stablecoin Trading: Kaiko]]></title>
-        <id>https://thedefiant.io/dexs-account-for-just-5-of-global-stablecoin-trading-kaiko</id>
-        <link href="https://thedefiant.io/dexs-account-for-just-5-of-global-stablecoin-trading-kaiko"/>
-        <updated>2023-07-21T09:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Stablecoins make up three-quarters of trade volume on centralized exchanges]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - GHO Liquidity Pools, Worldcoin Migrates to OP Mainnet, Fixed-rate Lending on Aave, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-gho-liquidity-pools</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-gho-liquidity-pools"/>
@@ -93,36 +43,6 @@
         <summary type="html"><![CDATA[GHO Liquidity Pools The first three GHO LP pools are now live on Balancer, including $GHO / bb-a-USD, $wstETH / $GHO (80/20), and $GHO / $LUSD. Worldcoin Migrates to OP Mainnet UBI project Worldcoin has completed migration to the OP mainnet and has begun migrating users of World ID and World App.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utopia Labs Enables USDC ‘Transfers’ to US Bank Accounts]]></title>
-        <id>https://thedefiant.io/utopia-labs-enables-usdc-transfers-to-u-s-bank-accounts</id>
-        <link href="https://thedefiant.io/utopia-labs-enables-usdc-transfers-to-u-s-bank-accounts"/>
-        <updated>2023-07-20T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Utopia Labs aims to minimize friction between blockchains and legacy finance]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lens Doubles Down On Developer-First Focus With v2 Iteration]]></title>
-        <id>https://thedefiant.io/lens-doubles-down-on-developer-first-focus-with-v2-iteration</id>
-        <link href="https://thedefiant.io/lens-doubles-down-on-developer-first-focus-with-v2-iteration"/>
-        <updated>2023-07-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lens v2 features advanced smart contract execution and NFT features.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Proposes Revamped Governance Model For 2.0 Roadmap]]></title>
-        <id>https://thedefiant.io/polygon-proposes-revamped-governance-model-for-2-0-roadmap</id>
-        <link href="https://thedefiant.io/polygon-proposes-revamped-governance-model-for-2-0-roadmap"/>
-        <updated>2023-07-20T13:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Polygon Labs plans to explore community governance and quadratic voting]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
@@ -146,46 +66,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenSea Suspends Trading Of EtherFi NFTs]]></title>
-        <id>https://thedefiant.io/opensea-suspends-trading-of-etherfi-nfts</id>
-        <link href="https://thedefiant.io/opensea-suspends-trading-of-etherfi-nfts"/>
-        <updated>2023-07-18T19:00:22.000Z</updated>
-        <summary type="html"><![CDATA[NFT Marketplace Cites TOS Violations Despite Collaborating With Liquid Staking Protocol Prior To Collection’s Launch]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap Releases DEX Aggregator Protocol]]></title>
-        <id>https://thedefiant.io/uniswap-releases-dex-aggregator-protocol</id>
-        <link href="https://thedefiant.io/uniswap-releases-dex-aggregator-protocol"/>
-        <updated>2023-07-18T16:51:03.000Z</updated>
-        <summary type="html"><![CDATA[UniswapX's MEV Protection and Gasless Swap Features Draw Comparisons To CoW Swap]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Assets Consolidate Gains As Market Cools]]></title>
-        <id>https://thedefiant.io/defi-assets-consolidate-gains-as-market-cools</id>
-        <link href="https://thedefiant.io/defi-assets-consolidate-gains-as-market-cools"/>
-        <updated>2023-07-18T15:43:37.000Z</updated>
-        <summary type="html"><![CDATA[SNX, OP, 1INCH Are Up More Than 25% In The Past Week]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving DAO Treasury Pain Points… Step by Step [Sponsored]]]></title>
-        <id>https://thedefiant.io/solving-dao-treasury-pain-points-step-by-step</id>
-        <link href="https://thedefiant.io/solving-dao-treasury-pain-points-step-by-step"/>
-        <updated>2023-07-18T13:11:15.000Z</updated>
-        <summary type="html"><![CDATA[DAOs (Decentralized Autonomous Organizations) are a web3 innovation that have revolutionised the way we think about organisational structures and governance. By leveraging blockchain technology and smart contracts, DAOs enable decentralised ownership and d...]]></summary>
-        <author>
-            <name>Avantgarde</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Mantle Mainnet Live, UniswapX Live, Testnet Yield Trading, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-mantle-mainnet-live</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-mantle-mainnet-live"/>
@@ -193,26 +73,6 @@
         <summary type="html"><![CDATA[Mantle Mainnet Live Built by BitDAO, Mantle L2 mainnet alpha is now live, as well as the BIT-MNT conversion tool. Mantle also launches a grants program and an EcoFund to support developments. The next step for Mantle is to build mntETH - Mantle's LSD product.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer 2 Network zkSync Era Upgrades Proving System]]></title>
-        <id>https://thedefiant.io/layer-2-network-zksync-era-upgrades-proving-system</id>
-        <link href="https://thedefiant.io/layer-2-network-zksync-era-upgrades-proving-system"/>
-        <updated>2023-07-18T03:42:53.000Z</updated>
-        <summary type="html"><![CDATA[‘Boojum’ Reduces Hardware Requirements To Bolster Decentralization]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Introduces New POL Token to Replace MATIC]]></title>
-        <id>https://thedefiant.io/polygon-introduces-new-pol-token-to-replace-matic</id>
-        <link href="https://thedefiant.io/polygon-introduces-new-pol-token-to-replace-matic"/>
-        <updated>2023-07-17T17:44:12.000Z</updated>
-        <summary type="html"><![CDATA[New Native Token Forms Centerpiece Of ‘Polygon 2.0’ Overhaul]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
     <entry>
@@ -226,46 +86,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linea is a new ZK Rollup from Consensys - but how is it different from the others?]]></title>
-        <id>https://thedefiant.io/linea-is-a-new-zk-rollup-from-consensys-but-how-is-it-different-from-the-others</id>
-        <link href="https://thedefiant.io/linea-is-a-new-zk-rollup-from-consensys-but-how-is-it-different-from-the-others"/>
-        <updated>2023-07-16T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nicolas Liochon is the Global Lead for Linea, which is a new zkEVM rollup by Consensys. Rollups play a crucial role in scaling Ethereum as they reduce computational load on the main network by processing transactions off chain. The two prominent rollups cu...]]></summary>
-        <author>
-            <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Launches GHO Stablecoin On Ethereum Mainnet]]></title>
-        <id>https://thedefiant.io/aave-launches-gho-stablecoin-on-ethereum-mainnet</id>
-        <link href="https://thedefiant.io/aave-launches-gho-stablecoin-on-ethereum-mainnet"/>
-        <updated>2023-07-15T14:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Dollar-pegged Stablecoin Can Be Borrowed Against Collateral Deposited In Aave’s V3 Ethereum Market]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backlash Over Arkham’s Intelligence Platform Highlights Blockchains’ Double-Edged Sword]]></title>
-        <id>https://thedefiant.io/backlash-over-arkham-s-intelligence-platform-highlights-blockchains-double-edged-sword</id>
-        <link href="https://thedefiant.io/backlash-over-arkham-s-intelligence-platform-highlights-blockchains-double-edged-sword"/>
-        <updated>2023-07-14T20:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Analytics Platform Sparked Criticism After Announcing a Program to Incentivize Unmasking Blockchain Users]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base Opens Up To Developers Ahead Of August Mainnet Launch]]></title>
-        <id>https://thedefiant.io/base-opens-up-to-developers-ahead-of-august-mainnet-launch</id>
-        <link href="https://thedefiant.io/base-opens-up-to-developers-ahead-of-august-mainnet-launch"/>
-        <updated>2023-07-14T20:07:30.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase’s Layer 2 Network Leverages Optimism’s Technology Stack. Early Builders Will Be Eligible To Claim Non-transferable NFTs]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Ripple Wins SEC Case, Polygon POL Token, Leveraged Lending, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-ripple-wins-sec-case</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-ripple-wins-sec-case"/>
@@ -273,67 +93,6 @@
         <summary type="html"><![CDATA[Ripple Wins SEC Case After a year long of dispute between Ripple and the SEC on whether the XRP token is a security, a US judge ruled that institutional XRP sales were investment contracts, but programmatic sales were not. "The programmatic portion of the ruling could have broad impact for other crypto tokens, though the]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synthetix Founder Takes Aim At Centralized Exchanges With Infinex]]></title>
-        <id>https://thedefiant.io/synthetix-founder-takes-aim-at-centralized-exchanges-with-infinex</id>
-        <link href="https://thedefiant.io/synthetix-founder-takes-aim-at-centralized-exchanges-with-infinex"/>
-        <updated>2023-07-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kain Warwick Looks To Emulate Binance’s User Experience With New Perpetuals Exchange]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Crypto Security is Evolving in 2023]]></title>
-        <id>https://thedefiant.io/how-crypto-security-is-evolving-in-2023</id>
-        <link href="https://thedefiant.io/how-crypto-security-is-evolving-in-2023"/>
-        <updated>2023-07-14T09:25:47.000Z</updated>
-        <summary type="html"><![CDATA[$3.9bn of Crypto was hacked or stolen in 2022 alone. 2021 saw about $3.2bn vanish, which was already a 6 fold increase compared to 2020. The question is - with both legislators and prosecutors out for blood, will this year be any different?
-...]]></summary>
-        <author>
-            <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StarkWare Claims Unrivaled Throughput Following ‘Quantum Leap’ Upgrade]]></title>
-        <id>https://thedefiant.io/starkware-claims-unrivaled-throughput-following-quantum-leap-upgrade</id>
-        <link href="https://thedefiant.io/starkware-claims-unrivaled-throughput-following-quantum-leap-upgrade"/>
-        <updated>2023-07-14T03:51:34.000Z</updated>
-        <summary type="html"><![CDATA[StarkNet Layer 2 Network Sees Spike In Weekly Activity, TVL Rises 20%]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Embraces Digital Assets With Updated Play Store Policy]]></title>
-        <id>https://thedefiant.io/google-embraces-digital-assets-with-updated-play-store-policy</id>
-        <link href="https://thedefiant.io/google-embraces-digital-assets-with-updated-play-store-policy"/>
-        <updated>2023-07-14T03:31:35.000Z</updated>
-        <summary type="html"><![CDATA[Tech Giant Aims To Foster Innovation While Protecting Users From Scams]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markets Rally After U.S. Judge Says Ripple Is Not A Security]]></title>
-        <id>https://thedefiant.io/markets-rally-after-u-s-judge-says-ripple-is-not-a-security</id>
-        <link href="https://thedefiant.io/markets-rally-after-u-s-judge-says-ripple-is-not-a-security"/>
-        <updated>2023-07-13T18:21:54.000Z</updated>
-        <summary type="html"><![CDATA[ETH Trades Above $2,000, XRP Rockets 55%]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Wallet Adds Chat and USDC Payment Features]]></title>
-        <id>https://thedefiant.io/coinbase-wallet-adds-chat-and-usdc-payment-features</id>
-        <link href="https://thedefiant.io/coinbase-wallet-adds-chat-and-usdc-payment-features"/>
-        <updated>2023-07-13T17:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Non-custodial Wallet Integrates Lens Protocol And XMPT]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
         </author>
     </entry>
     <entry>
@@ -347,60 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aave Could Launch Stablecoin On Ethereum Within Days]]></title>
-        <id>https://thedefiant.io/aave-could-launch-stablecoin-on-ethereum-within-days</id>
-        <link href="https://thedefiant.io/aave-could-launch-stablecoin-on-ethereum-within-days"/>
-        <updated>2023-07-13T03:03:27.000Z</updated>
-        <summary type="html"><![CDATA[Proposal To Deploy GHO On Mainnet Draws Unanimous Support From AAVE Holders]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayer Attracts Over 30,000 ETH Just Minutes After Raising Deposit Caps]]></title>
-        <id>https://thedefiant.io/eigenlayer-attracts-over-30-000-eth-just-minutes-after-raising-deposit-caps</id>
-        <link href="https://thedefiant.io/eigenlayer-attracts-over-30-000-eth-just-minutes-after-raising-deposit-caps"/>
-        <updated>2023-07-13T02:43:57.000Z</updated>
-        <summary type="html"><![CDATA[Restaking Protocol Sees Massive Demand From Investors Holding Liquid Staking Tokens]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Developers Propose Token Standard To Protect Issuers From Bridge Hacks]]></title>
-        <id>https://thedefiant.io/ethereum-developers-propose-token-standard-to-protect-issuers-from-bridge-hacks</id>
-        <link href="https://thedefiant.io/ethereum-developers-propose-token-standard-to-protect-issuers-from-bridge-hacks"/>
-        <updated>2023-07-12T19:35:37.000Z</updated>
-        <summary type="html"><![CDATA[ERC-7281 Would Allow Token Issuers To Limit Exposure To Cross-chain Bridges]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakerDAO Now Earns 80% Of Its Fee Revenue From Real-World Assets]]></title>
-        <id>https://thedefiant.io/makerdao-now-earns-80-of-its-fee-revenue-from-real-world-assets</id>
-        <link href="https://thedefiant.io/makerdao-now-earns-80-of-its-fee-revenue-from-real-world-assets"/>
-        <updated>2023-07-12T19:34:02.000Z</updated>
-        <summary type="html"><![CDATA[MakerDAO now boasts a $2.34B RWA portfolio.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can AI BOOST Crypto Adoption?]]></title>
-        <id>https://thedefiant.io/can-ai-boost-crypto-adoption</id>
-        <link href="https://thedefiant.io/can-ai-boost-crypto-adoption"/>
-        <updated>2023-07-12T09:24:00.000Z</updated>
-        <summary type="html"><![CDATA[DISCLAIMER: This video was not sponsored, endorsed, or affiliated with any of the AI tools mentioned/used throughout in any way. 
-
-
-
-AI had infiltrated everything on the internet, and I still knew nothing about using it. So to find out just how powerful ge...]]></summary>
-        <author>
-            <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - ConsenSys Linea Alpha, Rodeo Exploit, Native BTC Bridging, ...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-consensys-linea-alpha</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-consensys-linea-alpha"/>
@@ -408,56 +113,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <summary type="html"><![CDATA[Linea Mainnet Alpha ConsenSys L2 Linea launches mainnet alpha and starts to onboard launch partners. Linea will open the network to the public next week at EthCC. In the launch post, Linea claims there is no token as it uses ETH as the network currency.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Developers Left Web3 En Masse In The Past 12 Months]]></title>
-        <id>https://thedefiant.io/new-developers-left-web3-en-masse-in-the-past-12-months</id>
-        <link href="https://thedefiant.io/new-developers-left-web3-en-masse-in-the-past-12-months"/>
-        <updated>2023-07-12T03:47:24.000Z</updated>
-        <summary type="html"><![CDATA[Report From Electric Capital Shows Veterans Contributing 80% Of Code Commits]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security Engineer Arrested Over $9M DEX Hack]]></title>
-        <id>https://thedefiant.io/security-engineer-arrested-over-usd9m-dex-hack</id>
-        <link href="https://thedefiant.io/security-engineer-arrested-over-usd9m-dex-hack"/>
-        <updated>2023-07-11T19:24:13.000Z</updated>
-        <summary type="html"><![CDATA[Unnamed Decentralized Exchange In DoJ Complaint Appears To Be Solana-based Crema Finance]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CowSwap Enables Complex Swaps With ‘Hooks’]]></title>
-        <id>https://thedefiant.io/cowswap-enables-complex-swaps-with-hooks</id>
-        <link href="https://thedefiant.io/cowswap-enables-complex-swaps-with-hooks"/>
-        <updated>2023-07-11T15:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Sophisticated Users Can Combine Transactions Like Swapping, Bridging and Staking]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consensys To Launch Linea zkEVM Mainnet At EthCC]]></title>
-        <id>https://thedefiant.io/consensys-to-launch-linea-zkevm-mainnet-at-ethcc</id>
-        <link href="https://thedefiant.io/consensys-to-launch-linea-zkevm-mainnet-at-ethcc"/>
-        <updated>2023-07-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Company Behind MetaMask and Infura Joins Ethereum Scaling Race]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the CIA really backing this project?]]></title>
-        <id>https://thedefiant.io/is-the-cia-really-backing-this-project</id>
-        <link href="https://thedefiant.io/is-the-cia-really-backing-this-project"/>
-        <updated>2023-07-11T09:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Arkham intelligence is a ‘’next-gen company intelligence platform’’. It sounds like something owned by the real life Batman, and much like your average vigilante-hero of the people, Arkham has recently come under fire for its controversial practices. Becau...]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
@@ -471,26 +126,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ordinals Inscriptions Surge Following BRC-69 Launch]]></title>
-        <id>https://thedefiant.io/ordinals-inscriptions-surge-following-brc-69-launch</id>
-        <link href="https://thedefiant.io/ordinals-inscriptions-surge-following-brc-69-launch"/>
-        <updated>2023-07-10T20:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Over 385,000 ‘Bitcoin NFTs’ Minted On July 9]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum is "Terrifyingly" Centralized but there's a way out, ether.fi founder says]]></title>
-        <id>https://thedefiant.io/ethereum-is-terrifyingly-centralized-but-there-s-a-way-out-ether-fi-founder-says</id>
-        <link href="https://thedefiant.io/ethereum-is-terrifyingly-centralized-but-there-s-a-way-out-ether-fi-founder-says"/>
-        <updated>2023-07-10T09:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Mike Silagadze is the founder and CEO of ether.fi, which is a new player in ethereum liquid staking that enables stakers to control their keys while delegating. Ethereum liquid staking has been one of the hottest themes of crypto in 2023. The Shapella upgr...]]></summary>
-        <author>
-            <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Multichain Stopped Services, Blur V2 Live, Compound Encumber, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-multichain-stopped</id>
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-multichain-stopped"/>
@@ -498,46 +133,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <summary type="html"><![CDATA[Recap: Week of July 3rd]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido and Rocket Pool Duel Over Centralization Concerns]]></title>
-        <id>https://thedefiant.io/lido-and-rocket-pool-duel-over-centralization-concerns</id>
-        <link href="https://thedefiant.io/lido-and-rocket-pool-duel-over-centralization-concerns"/>
-        <updated>2023-07-09T17:01:12.000Z</updated>
-        <summary type="html"><![CDATA[Rocket Pool Plans Governance Overhaul With Saturn Upgrade]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fei Protocol's Discord Seized By San Francisco Court Amid Class Action Suit]]></title>
-        <id>https://thedefiant.io/fei-protocol-discord-seized-by-san-francisco-court-amid-securities-suit</id>
-        <link href="https://thedefiant.io/fei-protocol-discord-seized-by-san-francisco-court-amid-securities-suit"/>
-        <updated>2023-07-09T15:55:48.000Z</updated>
-        <summary type="html"><![CDATA[Class Action Lawsuit is Proposing a Settlement of $17.85M for FEI and TRIBE Token Holders.]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDC Issuer Circle Launches Programmable Web3 Wallet]]></title>
-        <id>https://thedefiant.io/usdc-issuer-circle-launches-programmable-web3-wallet</id>
-        <link href="https://thedefiant.io/usdc-issuer-circle-launches-programmable-web3-wallet"/>
-        <updated>2023-07-08T14:18:39.000Z</updated>
-        <summary type="html"><![CDATA[Wallet-as-a-Service Platform Includes MPC and Key Recovery Features]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BarnBridge Winds Down Activity Amid SEC Investigation]]></title>
-        <id>https://thedefiant.io/barnbridge-winds-down-activity-amid-sec-investigation</id>
-        <link href="https://thedefiant.io/barnbridge-winds-down-activity-amid-sec-investigation"/>
-        <updated>2023-07-07T15:09:40.000Z</updated>
-        <summary type="html"><![CDATA[BarnBridge differs from the SEC’s recent crypto cases in that it’s a smaller DeFi protocol and not a large centralized exchange.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
@@ -551,63 +146,12 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web3 Apps Gained Users In June Despite Regulatory Challenges: DappRadar]]></title>
-        <id>https://thedefiant.io/web3-apps-gained-users-in-june-despite-regulatory-challenges-dappradar</id>
-        <link href="https://thedefiant.io/web3-apps-gained-users-in-june-despite-regulatory-challenges-dappradar"/>
-        <updated>2023-07-07T04:43:18.000Z</updated>
-        <summary type="html"><![CDATA[Nearly 2M Wallets Interacted With dApps, Led By Gaming]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Users Have Been Burning ETH To Mint VMPX Tokens]]></title>
-        <id>https://thedefiant.io/ethereum-users-have-been-burning-gas-to-mint-vmpx-tokens</id>
-        <link href="https://thedefiant.io/ethereum-users-have-been-burning-gas-to-mint-vmpx-tokens"/>
-        <updated>2023-07-07T03:57:57.000Z</updated>
-        <summary type="html"><![CDATA[Gas Prices On Ethereum Spike To 2-Month High]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over $120M Drained From Multichain Bridge]]></title>
-        <id>https://thedefiant.io/over-usd120m-drained-from-multichain-bridge</id>
-        <link href="https://thedefiant.io/over-usd120m-drained-from-multichain-bridge"/>
-        <updated>2023-07-07T03:17:13.000Z</updated>
-        <summary type="html"><![CDATA[Team Behind Beleaguered Cross-chain Bridge Is Investigating Suspicious Token Transfers]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Massa]]></title>
         <id>https://medium.com/p/96ae856effcd</id>
         <link href="https://entrepreneurshandbook.co/massa-96ae856effcd?source=rss-2f6e06954878------2"/>
         <updated>2023-07-06T23:02:17.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compound Token Surges After CEO Steps Down And Unveils New Venture]]></title>
-        <id>https://thedefiant.io/compound-token-surges-after-ceo-steps-down-and-unveils-new-compliant-venture</id>
-        <link href="https://thedefiant.io/compound-token-surges-after-ceo-steps-down-and-unveils-new-compliant-venture"/>
-        <updated>2023-07-06T17:03:16.000Z</updated>
-        <summary type="html"><![CDATA[COMP Doubles In A Week As Whale Accumulates $10M Stake]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTs are dead, but why?]]></title>
-        <id>https://thedefiant.io/nfts-are-dead-but-why</id>
-        <link href="https://thedefiant.io/nfts-are-dead-but-why"/>
-        <updated>2023-07-06T15:23:00.000Z</updated>
-        <summary type="html"><![CDATA[For most of 2022, A-list celebrities like Snoop Dogg and Paris Hilton were jumping on the NFT bandwagon, and many thought the sky was the limit. Fast forward to today, and with all the gloomy headlines about celebrity ‘investments’ into NFTs and how much m...]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
@@ -621,26 +165,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pendle Attracts Over $125M In TVL With ‘Discounted Assets’]]></title>
-        <id>https://thedefiant.io/pendle-attracts-over-usd125m-in-tvl-with-discounted-assets</id>
-        <link href="https://thedefiant.io/pendle-attracts-over-usd125m-in-tvl-with-discounted-assets"/>
-        <updated>2023-07-06T06:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Equilibria and Penpie Kick Off ‘Pendle Wars’ For Governance Control Of Yield Trading Protocol]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Developers Propose ‘Circuit Breaker’ To Deter Hackers]]></title>
-        <id>https://thedefiant.io/ethereum-developers-propose-circuit-breaker-to-deter-hackers</id>
-        <link href="https://thedefiant.io/ethereum-developers-propose-circuit-breaker-to-deter-hackers"/>
-        <updated>2023-07-06T03:55:32.000Z</updated>
-        <summary type="html"><![CDATA[EIP-7265 Would Allow DeFi Protocols To Delay Or Revert Sudden Token Outflows]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Sommelier Morpho Integration, PancakeSwap on Polygon zkEVM, Crosschain Trading, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration"/>
@@ -648,26 +172,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <summary type="html"><![CDATA[Sommelier Morpho Integration Yield protocol Sommelier integrates Morpho to launch the RYETH and RYUSD vaults, using Morphon's optimizer to enhance returns. PancakeSwap on Polygon zkEVM PancakeSwap has been deployed on Polygon zkEVM (with swap feature supported) and joined Linea's testnet campaign.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the IRS Cracking Down on Crypto?]]></title>
-        <id>https://thedefiant.io/is-the-irs-cracking-down-on-crypto</id>
-        <link href="https://thedefiant.io/is-the-irs-cracking-down-on-crypto"/>
-        <updated>2023-07-05T03:26:20.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll explore the different ways in which crypto tax fraud is increasingly becoming a focus for regulators — and how investors can stay proactive when it comes to reporting taxes and avoiding future trouble with the IRS.]]></summary>
-        <author>
-            <name>CoinLedger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRC-69 Token Standard Promises To Reduce Ordinals Fees By 90%]]></title>
-        <id>https://thedefiant.io/brc-69-token-standard-promises-to-reduce-ordinals-fees-by-90</id>
-        <link href="https://thedefiant.io/brc-69-token-standard-promises-to-reduce-ordinals-fees-by-90"/>
-        <updated>2023-07-04T18:45:55.000Z</updated>
-        <summary type="html"><![CDATA[Recursive Inscriptions Aim To Improve Efficiency Of Bitcoin NFTs]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
@@ -681,16 +185,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[⚠️Why Vitalik thinks staking ETH is RISKY]]></title>
-        <id>https://thedefiant.io/why-vitalik-thinks-staking-eth-is-risky</id>
-        <link href="https://thedefiant.io/why-vitalik-thinks-staking-eth-is-risky"/>
-        <updated>2023-07-04T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[With all the recent developments and hype around staking, liquid staking, LSTs, LSDs and more, you might be thinking great, I’ll just stake all of my ETH and max out the yield bearing potential of my assets by re-staking them. And until last week, very few...]]></summary>
-        <author>
-            <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - PolyNetwork Exploit, CCTP Live on Arbitrum, Introducing ZK Stack, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-polynetwork-exploit</id>
         <link href="https://todayindefi.substack.com/p/last-week-in-defi-polynetwork-exploit"/>
@@ -698,76 +192,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <summary type="html"><![CDATA[Recap: Week of Jun 26th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poly Network Hacker Mints Billions Of Tokens From Thin Air]]></title>
-        <id>https://thedefiant.io/poly-network-hacker-mints-billions-of-tokens-from-thin-air</id>
-        <link href="https://thedefiant.io/poly-network-hacker-mints-billions-of-tokens-from-thin-air"/>
-        <updated>2023-07-03T18:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Poly Network Hacked Again Due To Compromised Multisig]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Gains More Than Double Traditional Assets’ in First Half of 2023]]></title>
-        <id>https://thedefiant.io/crypto-gains-more-than-double-traditional-assets-performance-in-first-half-of-2023</id>
-        <link href="https://thedefiant.io/crypto-gains-more-than-double-traditional-assets-performance-in-first-half-of-2023"/>
-        <updated>2023-07-03T15:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin and Ethereum Outperformed Major Stocks and Commodities Indexes.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How The World's First Web3 Company ConsenSys Is Catalyzing Ethereum’s Growth]]></title>
-        <id>https://thedefiant.io/how-the-world-s-first-web3-company-consensys-is-catalyzing-ethereum-s-growth</id>
-        <link href="https://thedefiant.io/how-the-world-s-first-web3-company-consensys-is-catalyzing-ethereum-s-growth"/>
-        <updated>2023-07-03T09:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Neal Gorevic is the Chief Marketing Officer at ConsenSys, which drives Ethereum ecosystem development. ConsenSys is behind key pieces of Ethereum infrastructure, including Metamask and Infura. In today's podcast, Neal discusses his transition from web2 mar...]]></summary>
-        <author>
-            <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets End Q2 On A High Note]]></title>
-        <id>https://thedefiant.io/crypto-markets-end-q2-on-a-high-note</id>
-        <link href="https://thedefiant.io/crypto-markets-end-q2-on-a-high-note"/>
-        <updated>2023-07-01T04:29:18.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin Holds Above $30,000 While Ether Rallies 4%]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avalanche On-chain Activity Doubles in 2023]]></title>
-        <id>https://thedefiant.io/avalanche-on-chain-activity-doubles-in-2023</id>
-        <link href="https://thedefiant.io/avalanche-on-chain-activity-doubles-in-2023"/>
-        <updated>2023-06-30T19:54:13.000Z</updated>
-        <summary type="html"><![CDATA[Trader Joe, Stargate and WooFi Drive Growth]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido Governance Greenlights Revamped Revenue Sharing Program]]></title>
-        <id>https://thedefiant.io/lido-governance-greenlights-revamped-revenue-sharing-program</id>
-        <link href="https://thedefiant.io/lido-governance-greenlights-revamped-revenue-sharing-program"/>
-        <updated>2023-06-30T19:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Critics Say Further Growth Of Leading Liquid Staking Protocol Poses Risk To Ethereum]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dYdX Chain To Launch Testnet Next Week]]></title>
-        <id>https://thedefiant.io/dydx-chain-to-launch-testnet-next-week</id>
-        <link href="https://thedefiant.io/dydx-chain-to-launch-testnet-next-week"/>
-        <updated>2023-06-30T18:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Derivatives Exchange Abandons Ethereum In Favor Of Cosmos-powered Appchain]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
@@ -781,46 +205,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prometheum Draws Scrutiny Over Compliance Claims]]></title>
-        <id>https://thedefiant.io/prometheum-draws-scrutiny-over-compliance-claims</id>
-        <link href="https://thedefiant.io/prometheum-draws-scrutiny-over-compliance-claims"/>
-        <updated>2023-06-29T20:27:19.000Z</updated>
-        <summary type="html"><![CDATA[Prometheum Says It Is Paving The Way For Crypto Adoption Through Compliance But Critics Say The Company Lists No Digital Assets]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIS Leverages Curve’s AMM Technology For CBDC Test]]></title>
-        <id>https://thedefiant.io/bis-leverages-curve-s-amm-technology-for-cbdc-test</id>
-        <link href="https://thedefiant.io/bis-leverages-curve-s-amm-technology-for-cbdc-test"/>
-        <updated>2023-06-29T18:20:47.000Z</updated>
-        <summary type="html"><![CDATA[SNB, MAS and Bank of France Participated In Project Mariana]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Plans To Merge PoS Chain With zkEVM]]></title>
-        <id>https://thedefiant.io/polygon-plans-to-merge-pos-chain-with-zkevm</id>
-        <link href="https://thedefiant.io/polygon-plans-to-merge-pos-chain-with-zkevm"/>
-        <updated>2023-06-29T16:00:55.000Z</updated>
-        <summary type="html"><![CDATA[MATIC Is Down 30% In June]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POWER UP your crypto game with 5 ChatGPT Plugins]]></title>
-        <id>https://thedefiant.io/power-up-your-crypto-game-with-5-chatgpt-plugins</id>
-        <link href="https://thedefiant.io/power-up-your-crypto-game-with-5-chatgpt-plugins"/>
-        <updated>2023-06-29T15:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Today we're going to hack the matrix that is ChatGPT-4. We're diving into the crazy world of plugins and how they can be a power-up for your AI chatbot experience. And no, we’re not looking into holiday plans and work out routines, we’ve got a list of plug...]]></summary>
-        <author>
-            <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Maple Launches Lending Desk, Aptos NFT Aggregator, Incentivized LPing and more]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending</id>
         <link href="https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending"/>
@@ -828,79 +212,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <summary type="html"><![CDATA[Maple Launches Lending Desk Undercollateralized CeDeFi lending platform Maple Finance is launching a lending desk. “We witnessed first-hand the shortcomings of CeFi last year and will raise the bar for lending desks through a commitment to compliance, transparency, and quality,” said Sidney Powell, CEO and co-founder of Maple Finance.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coordinape Brings Web3 Reputation On-chain With CoSoul]]></title>
-        <id>https://thedefiant.io/coordinape-brings-web3-reputation-on-chain-with-cosoul</id>
-        <link href="https://thedefiant.io/coordinape-brings-web3-reputation-on-chain-with-cosoul"/>
-        <updated>2023-06-28T17:43:07.000Z</updated>
-        <summary type="html"><![CDATA[Eligible Contributors Can Claim Soulbound NFTs With Traits Dependent On Their Track Record Of Working In The Space]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin ETFs: Adoption Boost OR TradFi Money Grab?]]></title>
-        <id>https://thedefiant.io/bitcoin-etfs-adoption-boost-or-tradfi-money-grab</id>
-        <link href="https://thedefiant.io/bitcoin-etfs-adoption-boost-or-tradfi-money-grab"/>
-        <updated>2023-06-28T15:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Today we’re going to tackle a hot topic – Bitcoin ETFs, and the race to file for these financial products among Wall Street titans. While TradFi giants smell money, the SEC continues to evaluate whether or not to approve ETFs that own Bitcoin directly. 
-
-
-...]]></summary>
-        <author>
-            <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Needs Paradigm Shift from “Users” to “Builders”]]></title>
-        <id>https://thedefiant.io/web3-needs-paradigm-shift-from-users-to-builders</id>
-        <link href="https://thedefiant.io/web3-needs-paradigm-shift-from-users-to-builders"/>
-        <updated>2023-06-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Crypto has a perception problem. A large number of people don’t know what cryptocurrencies and web3 are, or see crypto as complex and intimidating. In a recent global YouGov survey commissioned by Consensys (The Global Survey on Crypto and Web3), 43% of re...]]></summary>
-        <author>
-            <name>Nick Nelson, Consensys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maple Finance To Offer Overcollateralized Loans To Web3 Businesses]]></title>
-        <id>https://thedefiant.io/maple-finance-to-offer-overcollateralized-loans-to-web3-businesses</id>
-        <link href="https://thedefiant.io/maple-finance-to-offer-overcollateralized-loans-to-web3-businesses"/>
-        <updated>2023-06-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Maple Direct Aims To Fill A Gap In Institutional Demand For Transparent, Compliant Lending Services]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAI’s Reliance On USDC Drops Below 10% As MakerDAO Expands Bond Holdings]]></title>
-        <id>https://thedefiant.io/dai-s-reliance-on-usdc-drops-below-10-as-makerdao-expands-bond-holdings</id>
-        <link href="https://thedefiant.io/dai-s-reliance-on-usdc-drops-below-10-as-makerdao-expands-bond-holdings"/>
-        <updated>2023-06-27T20:29:51.000Z</updated>
-        <summary type="html"><![CDATA[Protocol Purchased $700M Of Treasuries Last Week]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberKongz Introduces ‘Stakeless Staking’ With ERC-721x]]></title>
-        <id>https://thedefiant.io/cyberkongz-introduces-stakeless-staking-with-erc-721x</id>
-        <link href="https://thedefiant.io/cyberkongz-introduces-stakeless-staking-with-erc-721x"/>
-        <updated>2023-06-27T18:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Veteran NFT Project Seeks To Promote Security With New Ethereum Token Standard]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaverse Projects Attract 44% Of 2023 Web3 Investments]]></title>
-        <id>https://thedefiant.io/metaverse-projects-attract-44-of-2023-web3-investments</id>
-        <link href="https://thedefiant.io/metaverse-projects-attract-44-of-2023-web3-investments"/>
-        <updated>2023-06-27T18:17:27.000Z</updated>
-        <summary type="html"><![CDATA[Sector Pulled In Over $700M Despite Brutal Bear Market]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
