@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-27T09:12:29.964Z</id>
+    <id>urn:2023-07-27T10:12:52.219Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-27T09:12:29.964Z</updated>
+    <updated>2023-07-27T10:12:52.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - US Passes Crypto Bills, Lido Proposes stETH Governance, gDAI Hedging, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-us-passes-crypto-bills</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-us-passes-crypto-bills"/>
+        <updated>2023-07-27T09:16:44.000Z</updated>
+        <summary type="html"><![CDATA[US Passes Crypto Bills On Wednesday, the US House Financial Services Committee passed six bills that provide consumer protections and legislative clarity for digital assets. Among all six bills, the Technology for the 21st Century Act is considered positive for crypto as it provides a reasonable regulation framework for crypto assets.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Conic Finance Users Flee After Hackers Steal $4M]]></title>
         <id>https://thedefiant.io/conic-finance-users-flee-after-hackers-steal-4m</id>
@@ -868,16 +878,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <summary type="html"><![CDATA[Today we're going to hack the matrix that is ChatGPT-4. We're diving into the crazy world of plugins and how they can be a power-up for your AI chatbot experience. And no, we’re not looking into holiday plans and work out routines, we’ve got a list of plug...]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Maple Launches Lending Desk, Aptos NFT Aggregator, Incentivized LPing and more]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-maple-launches-lending"/>
-        <updated>2023-06-29T10:12:44.000Z</updated>
-        <summary type="html"><![CDATA[Maple Launches Lending Desk Undercollateralized CeDeFi lending platform Maple Finance is launching a lending desk. “We witnessed first-hand the shortcomings of CeFi last year and will raise the bar for lending desks through a commitment to compliance, transparency, and quality,” said Sidney Powell, CEO and co-founder of Maple Finance.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
