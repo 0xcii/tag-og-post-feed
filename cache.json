@@ -14,22 +14,22 @@
         {
           "id": "https://medium.com/p/da798c72a83b",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/moai-da798c72a83b?source=rss-2f6e06954878------2",
           "publishedOn": "2023-07-27T23:01:55.000Z",
-          "wordCount": 10227,
+          "wordCount": null,
           "title": "Moai",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*rEZdVSYKLGNkHhfK"
+          "imageUrl": null
         },
         {
           "id": "https://medium.com/p/96ae856effcd",
           "author": "Arthur Hayes",
-          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "description": "",
           "link": "https://entrepreneurshandbook.co/massa-96ae856effcd?source=rss-2f6e06954878------2",
           "publishedOn": "2023-07-06T23:02:17.000Z",
-          "wordCount": 8252,
+          "wordCount": null,
           "title": "Massa",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*hSUH1mox3FhgXECr"
+          "imageUrl": null
         }
       ]
     },
@@ -1054,6 +1054,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-curve-stablepool",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of July 24th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-curve-stablepool",
+          "publishedOn": "2023-07-31T08:52:06.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Curve Stablepool Exploits, US Advances Crypto Regulation, Arbitrum Odyssey Returning, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03bcdc46-8481-448f-9d3a-efb28b3f4f77_1080x360.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03bcdc46-8481-448f-9d3a-efb28b3f4f77_1080x360.jpeg"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-us-advances-crypto",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "US Advances Crypto Regulation On Thursday, the “Financial Innovation and Technology for the 21st Century Act (FIT21 Act)”, a bill that provides a regulatory framework for digital asset and trading service providers, is passed by two House committees (Financial Service & Agriculture) and is now ready for consideration by the full House.",
@@ -1356,22 +1372,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c355dbf-1553-4642-83d9-608eda4740c2_1080x360.jpeg"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/last-week-in-defi-polynetwork-exploit",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Jun 26th",
-          "link": "https://todayindefi.substack.com/p/last-week-in-defi-polynetwork-exploit",
-          "publishedOn": "2023-07-04T04:01:01.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - PolyNetwork Exploit, CCTP Live on Arbitrum, Introducing ZK Stack, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fd3324d-6db8-4744-9be1-882e77316db4_1200x630.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fd3324d-6db8-4744-9be1-882e77316db4_1200x630.jpeg"
         }
       ]
     }

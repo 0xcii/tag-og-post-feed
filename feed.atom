@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-31T08:17:09.964Z</id>
+    <id>urn:2023-07-31T09:13:22.566Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-31T08:17:09.964Z</updated>
+    <updated>2023-07-31T09:13:22.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Curve Stablepool Exploits, US Advances Crypto Regulation, Arbitrum Odyssey Returning, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-curve-stablepool</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-curve-stablepool"/>
+        <updated>2023-07-31T08:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of July 24th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Over $70M Stolen From Multiple DeFi Protocols Due To Vyper Code Bug]]></title>
         <id>https://thedefiant.io/over-usd70m-stolen-from-multiple-defi-protocols-due-to-vyper-code-bug</id>
@@ -80,7 +90,6 @@
         <id>https://medium.com/p/da798c72a83b</id>
         <link href="https://entrepreneurshandbook.co/moai-da798c72a83b?source=rss-2f6e06954878------2"/>
         <updated>2023-07-27T23:01:55.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
@@ -745,7 +754,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <id>https://medium.com/p/96ae856effcd</id>
         <link href="https://entrepreneurshandbook.co/massa-96ae856effcd?source=rss-2f6e06954878------2"/>
         <updated>2023-07-06T23:02:17.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
@@ -848,16 +856,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <summary type="html"><![CDATA[With all the recent developments and hype around staking, liquid staking, LSTs, LSDs and more, you might be thinking great, I’ll just stake all of my ETH and max out the yield bearing potential of my assets by re-staking them. And until last week, very few...]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - PolyNetwork Exploit, CCTP Live on Arbitrum, Introducing ZK Stack, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-polynetwork-exploit</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-polynetwork-exploit"/>
-        <updated>2023-07-04T04:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Jun 26th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
