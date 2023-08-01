@@ -51,6 +51,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/large-crv-backed-loans-threaten-to-destabilize-defi",
+          "author": "Owen Fernau",
+          "description": "Curve Founder Is Deleveraging By Selling CRV To Prominent Crypto Investors",
+          "link": "https://thedefiant.io/large-crv-backed-loans-threaten-to-destabilize-defi",
+          "publishedOn": "2023-08-01T20:37:03.000Z",
+          "wordCount": 1747,
+          "title": "Large CRV-backed Loans Threaten to Destabilize DeFi",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fbaae399c01323a8720dd745758800efd619985e-868x488.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fbaae399c01323a8720dd745758800efd619985e-868x488.jpg"
+        },
+        {
           "id": "https://thedefiant.io/sec-alleges-richard-heart-used-investor-funds-to-fuel-shopping-spree",
           "author": "Jeremy Nation",
           "description": "US Regulator Filed Charges Against Hex, Pulsechain, PulseX, and Founder Richard Heart For Conducting Unregistered Securities Offerings",
@@ -1069,21 +1084,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/31ec5ab8590f39a6c3e29500f60d5c118d5faa9e-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/how-the-world-s-first-web3-company-consensys-is-catalyzing-ethereum-s-growth",
-          "author": "Camila Russo",
-          "description": "Neal Gorevic is the Chief Marketing Officer at ConsenSys, which drives Ethereum ecosystem development. ConsenSys is behind key pieces of Ethereum infrastructure, including Metamask and Infura. In today's podcast, Neal discusses his transition from web2 mar...",
-          "link": "https://thedefiant.io/how-the-world-s-first-web3-company-consensys-is-catalyzing-ethereum-s-growth",
-          "publishedOn": "2023-07-03T09:08:00.000Z",
-          "wordCount": 6980,
-          "title": "How The World's First Web3 Company ConsenSys Is Catalyzing Ethereum’s Growth",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/245bad62195c690d5aaa953c24df1fd12c87353a-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/245bad62195c690d5aaa953c24df1fd12c87353a-880x495.jpg"
         }
       ]
     },
