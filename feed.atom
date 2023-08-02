@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-02T17:10:53.775Z</id>
+    <id>urn:2023-08-02T18:15:11.470Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-02T17:10:53.775Z</updated>
+    <updated>2023-08-02T18:15:11.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tether Reports $850M Profit In Second Quarter]]></title>
+        <id>https://thedefiant.io/tether-reports-usd850m-profit-in-second-quarter</id>
+        <link href="https://thedefiant.io/tether-reports-usd850m-profit-in-second-quarter"/>
+        <updated>2023-08-02T18:14:15.000Z</updated>
+        <summary type="html"><![CDATA[Skeptics Continue To Question Quarterly Attestation Reports]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Term Finance Live, SEC Charges Richard Heart, USDt Incentives, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec</id>
