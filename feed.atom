@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-02T08:15:35.462Z</id>
+    <id>urn:2023-08-02T09:12:22.181Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-02T08:15:35.462Z</updated>
+    <updated>2023-08-02T09:12:22.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Term Finance Live, SEC Charges Richard Heart, USDt Incentives, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec"/>
+        <updated>2023-08-02T08:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Term Finance Live Term Finance, a fixed-rate lending protocol, is live on Ethereum. Term uses a recurring auction process to provide certainty to borrowers and lenders. SEC Sues Richard Heart The SEC sues Richard Heart, and his projects Hex, PulseChain, and PulseX, alleging he raised over $1B across three different unregistered securities offerings beginning in 2019.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Large CRV-backed Loans Threaten to Destabilize DeFi]]></title>
         <id>https://thedefiant.io/large-crv-backed-loans-threaten-to-destabilize-defi</id>
@@ -858,16 +868,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <summary type="html"><![CDATA[EIP-7265 Would Allow DeFi Protocols To Delay Or Revert Sudden Token Outflows]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Sommelier Morpho Integration, PancakeSwap on Polygon zkEVM, Crosschain Trading, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-sommelier-morpho-integration"/>
-        <updated>2023-07-05T08:26:49.000Z</updated>
-        <summary type="html"><![CDATA[Sommelier Morpho Integration Yield protocol Sommelier integrates Morpho to launch the RYETH and RYUSD vaults, using Morphon's optimizer to enhance returns. PancakeSwap on Polygon zkEVM PancakeSwap has been deployed on Polygon zkEVM (with swap feature supported) and joined Linea's testnet campaign.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
