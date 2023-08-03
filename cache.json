@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/moai-da798c72a83b?source=rss-2f6e06954878------2",
           "publishedOn": "2023-07-27T23:01:55.000Z",
-          "wordCount": 10655,
+          "wordCount": 10807,
           "title": "Moai",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*rEZdVSYKLGNkHhfK"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/massa-96ae856effcd?source=rss-2f6e06954878------2",
           "publishedOn": "2023-07-06T23:02:17.000Z",
-          "wordCount": 8706,
+          "wordCount": 8824,
           "title": "Massa",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*hSUH1mox3FhgXECr"
         }
@@ -1144,6 +1144,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-eth-future-etfs-incoming",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "ETH Futures ETFs Filed Six firms (Volatility Shares, Bitwise, VanEck, Roundhill, ProShares, and Grayscale) have filed applications with the SEC for ETH Futures ETFs. The first ETH futures ETF could go live on Oct. 12, if the SEC does not deny the application.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-eth-future-etfs-incoming",
+          "publishedOn": "2023-08-03T09:14:18.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - ETH Future ETFs Incoming, Abracadabra Retracts Rate Change, Fixed-Rate Lending on OP, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8e71b97-c77c-455d-8506-d26b0ee7b034_1388x798.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8e71b97-c77c-455d-8506-d26b0ee7b034_1388x798.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Term Finance Live Term Finance, a fixed-rate lending protocol, is live on Ethereum. Term uses a recurring auction process to provide certainty to borrowers and lenders. SEC Sues Richard Heart The SEC sues Richard Heart, and his projects Hex, PulseChain, and PulseX, alleging he raised over $1B across three different unregistered securities offerings beginning in 2019.",
@@ -1446,22 +1462,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc06a003-e4af-4e83-8aa1-55ea638bbaf4_1508x670.png"
-        },
-        {
-          "id": "https://todayindefi.substack.com/p/today-in-defi-blur-v2-live-surge",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Blur V2 Live NFT marketplace Blur launches V2, enabling 50% gas reduction and trait bidding for NFTs. Surge Live on Arbitrum Surge is now live on Arbitrum. Surge is a lending protocol for longtail assets, built by the founder of Inverse. Pendle Live on BnB Chain",
-          "link": "https://todayindefi.substack.com/p/today-in-defi-blur-v2-live-surge",
-          "publishedOn": "2023-07-06T08:06:58.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Blur V2 Live, Surge Live on Arbitrum, Earn on Liquidity, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d13da48-981a-45a7-9ba4-bee3acf6344e_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d13da48-981a-45a7-9ba4-bee3acf6344e_1200x675.jpeg"
         }
       ]
     }
