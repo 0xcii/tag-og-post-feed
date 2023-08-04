@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-04T08:15:25.520Z</id>
+    <id>urn:2023-08-04T09:12:04.629Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-04T08:15:25.520Z</updated>
+    <updated>2023-08-04T09:12:04.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - GMX V2 Live, Base Bridge Live, Fixed-Rate Lending via Auctions… , and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-gmx-v2-live-base-bridge</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-gmx-v2-live-base-bridge"/>
+        <updated>2023-08-04T08:20:28.000Z</updated>
+        <summary type="html"><![CDATA[GMX V2 Live GMX launches v2 beta on Arbitrum and Avalanche. The upgrade enables new markets, multiple collateral types, improved UX, low-fee swaps for traders, and new incentives for LPs. Base Bridge Live, Mainnet Soon Base L2 is now open for bridging]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetaMask Enables Staking Feature In Portfolio App]]></title>
         <id>https://thedefiant.io/metamask-enables-staking-feature-in-portfolio-app</id>
@@ -902,16 +912,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <summary type="html"><![CDATA[BarnBridge differs from the SEC’s recent crypto cases in that it’s a smaller DeFi protocol and not a large centralized exchange.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Multichain Hacked, SEC Going After DeFi, Quest to Earn, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-multichain-hacked-sec</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-multichain-hacked-sec"/>
-        <updated>2023-07-07T09:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Multichain Stops All Services Multichain was hacked and has announced it has stopped all services. All bridge transactions will be stuck on the source chain with unknown resume time. Earlier today Multichain bridge contracts saw major outflows due to potential exploits. “]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
