@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-07T14:11:47.855Z</id>
+    <id>urn:2023-08-07T15:12:46.962Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-07T14:11:47.855Z</updated>
+    <updated>2023-08-07T15:12:46.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OlympusDAO’s ‘Cooler Loans’ Could Mean The End Of A Bull Market Icon]]></title>
+        <id>https://thedefiant.io/olympusdao-s-cooler-loans-could-mean-the-end-of-a-bull-market-icon</id>
+        <link href="https://thedefiant.io/olympusdao-s-cooler-loans-could-mean-the-end-of-a-bull-market-icon"/>
+        <updated>2023-08-07T14:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Holders Will Be Able To Borrow 95% Of OHM Value In Stablecoins At 0.5%]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - CRV Hacker Returns Funds, Base Mainnet Soon, MakerDAO Enhanced DSR, and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-crv-hacker-returns</id>
