@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-07T09:12:42.640Z</id>
+    <id>urn:2023-08-07T10:13:40.873Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-07T09:12:42.640Z</updated>
+    <updated>2023-08-07T10:13:40.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - CRV Hacker Returns Funds, Base Mainnet Soon, MakerDAO Enhanced DSR, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-crv-hacker-returns</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-crv-hacker-returns"/>
+        <updated>2023-08-07T09:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of July 31st]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Lender Alchemix Says Vyper Hacker Returned Stolen Crypto]]></title>
         <id>https://thedefiant.io/defi-lender-alchemix-says-vyper-hacker-returned-stolen-crypto</id>
@@ -902,16 +912,6 @@ AI had infiltrated everything on the internet, and I still knew nothing about us
         <summary type="html"><![CDATA[Mike Silagadze is the founder and CEO of ether.fi, which is a new player in ethereum liquid staking that enables stakers to control their keys while delegating. Ethereum liquid staking has been one of the hottest themes of crypto in 2023. The Shapella upgr...]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Multichain Stopped Services, Blur V2 Live, Compound Encumber, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-multichain-stopped</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-multichain-stopped"/>
-        <updated>2023-07-10T07:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of July 3rd]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
