@@ -14,12 +14,12 @@
         {
           "id": "https://medium.com/p/da798c72a83b",
           "author": "Arthur Hayes",
-          "description": "",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/moai-da798c72a83b?source=rss-2f6e06954878------2",
           "publishedOn": "2023-07-27T23:01:55.000Z",
-          "wordCount": null,
+          "wordCount": 10714,
           "title": "Moai",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*rEZdVSYKLGNkHhfK"
         }
       ]
     },
@@ -40,6 +40,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/kenyan-authorities-raid-worldcoin-warehouse-in-nairobi",
+          "author": "Samuel Haig",
+          "description": "Lawmakers Fear Controversial Identity Project Could Be Violating Local Privacy Laws",
+          "link": "https://thedefiant.io/kenyan-authorities-raid-worldcoin-warehouse-in-nairobi",
+          "publishedOn": "2023-08-08T15:31:31.000Z",
+          "wordCount": 1630,
+          "title": "Kenyan Authorities Raid Worldcoin Warehouse In Nairobi",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ec8232f3ab44146adf6057d6f826ed957e06ca3b-600x338.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ec8232f3ab44146adf6057d6f826ed957e06ca3b-600x338.webp"
+        },
         {
           "id": "https://thedefiant.io/crypto-profits-boosts-paypal-stock-after-stablecoin-announcement",
           "author": "Owen Fernau",
