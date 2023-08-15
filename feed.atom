@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-15T19:09:38.937Z</id>
+    <id>urn:2023-08-15T20:12:30.802Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-15T19:09:38.937Z</updated>
+    <updated>2023-08-15T20:12:30.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gitcoin’s Collaboration With Shell Angers Crypto Community]]></title>
+        <id>https://thedefiant.io/gitcoin-s-collaboration-with-shell-angers-crypto-community</id>
+        <link href="https://thedefiant.io/gitcoin-s-collaboration-with-shell-angers-crypto-community"/>
+        <updated>2023-08-15T19:54:39.000Z</updated>
+        <summary type="html"><![CDATA[Oil Giant Will Contribute To Climate Rounds For The Next Four Quarters, GTC Drops 8%]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Arbitrum Odyssey 2.0, Immutable zkEVM Testnet, Diva Operator Testnet, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-arbitrum-odyssey-20</id>
@@ -650,6 +660,7 @@
         <id>https://medium.com/p/da798c72a83b</id>
         <link href="https://entrepreneurshandbook.co/moai-da798c72a83b?source=rss-2f6e06954878------2"/>
         <updated>2023-07-27T23:01:55.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>

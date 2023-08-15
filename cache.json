@@ -14,12 +14,12 @@
         {
           "id": "https://medium.com/p/da798c72a83b",
           "author": "Arthur Hayes",
-          "description": "",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/moai-da798c72a83b?source=rss-2f6e06954878------2",
           "publishedOn": "2023-07-27T23:01:55.000Z",
-          "wordCount": null,
+          "wordCount": 10722,
           "title": "Moai",
-          "imageUrl": null
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*rEZdVSYKLGNkHhfK"
         }
       ]
     },
@@ -40,6 +40,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/gitcoin-s-collaboration-with-shell-angers-crypto-community",
+          "author": "Tarang Khaitan",
+          "description": "Oil Giant Will Contribute To Climate Rounds For The Next Four Quarters, GTC Drops 8%",
+          "link": "https://thedefiant.io/gitcoin-s-collaboration-with-shell-angers-crypto-community",
+          "publishedOn": "2023-08-15T19:54:39.000Z",
+          "wordCount": 804,
+          "title": "Gitcoin’s Collaboration With Shell Angers Crypto Community",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b5d85e9d55e002b733b83871645c3a53074b8fa3-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b5d85e9d55e002b733b83871645c3a53074b8fa3-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/y00ts-nft-collection-to-migrate-to-ethereum",
           "author": "Tarang Khaitan",
