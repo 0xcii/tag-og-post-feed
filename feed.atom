@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T06:15:41.158Z</id>
+    <id>urn:2023-08-17T07:10:53.188Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-17T06:15:41.158Z</updated>
+    <updated>2023-08-17T07:10:53.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -967,16 +967,6 @@ The Worldcoin project was announ...]]></summary>
         <summary type="html"><![CDATA[Polkadot 1.0 Realized Polkadot released the complete version of its 1.0. The Polkadot codebase is now functionally complete and has been handed over to the community with the launch of Polkadot OpenGov and the migration of all runtime code to a repository managed by the Technical Fellowship.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea Suspends Trading Of EtherFi NFTs]]></title>
-        <id>https://thedefiant.io/opensea-suspends-trading-of-etherfi-nfts</id>
-        <link href="https://thedefiant.io/opensea-suspends-trading-of-etherfi-nfts"/>
-        <updated>2023-07-18T19:00:22.000Z</updated>
-        <summary type="html"><![CDATA[NFT Marketplace Cites TOS Violations Despite Collaborating With Liquid Staking Protocol Prior To Collection’s Launch]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
         </author>
     </entry>
 </feed>
