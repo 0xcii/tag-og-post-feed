@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-19T05:10:40.586Z</id>
+    <id>urn:2023-08-19T06:14:01.088Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-19T05:10:40.586Z</updated>
+    <updated>2023-08-19T06:14:01.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binance Bridge Hacker Hit By $30M Liquidation On Venus]]></title>
+        <id>https://thedefiant.io/binance-bridge-hacker-hit-by-usd30m-liquidation-on-venus</id>
+        <link href="https://thedefiant.io/binance-bridge-hacker-hit-by-usd30m-liquidation-on-venus"/>
+        <updated>2023-08-19T05:54:07.000Z</updated>
+        <summary type="html"><![CDATA[BNB Chain Core Team Intervened Manually To Ease On-chain Volatility]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parallel’s PRIME Token Doubles After Beta Launch]]></title>
         <id>https://thedefiant.io/parallel-prime-token-doubles-after-beta-launch</id>
