@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-19T04:13:33.414Z</id>
+    <id>urn:2023-08-19T05:10:40.586Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-19T04:13:33.414Z</updated>
+    <updated>2023-08-19T05:10:40.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Parallel’s PRIME Token Doubles After Beta Launch]]></title>
+        <id>https://thedefiant.io/parallel-prime-token-doubles-after-beta-launch</id>
+        <link href="https://thedefiant.io/parallel-prime-token-doubles-after-beta-launch"/>
+        <updated>2023-08-19T05:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Long-awaited NFT Trading Card Game Draws Praise From Community]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spark Protocol Users Max Out $200M DAI Debt Ceiling]]></title>
+        <id>https://thedefiant.io/spark-protocol-users-max-out-usd200m-dai-debt-ceiling</id>
+        <link href="https://thedefiant.io/spark-protocol-users-max-out-usd200m-dai-debt-ceiling"/>
+        <updated>2023-08-19T04:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized Stablecoin Sector Heats Up With crvUSD and GHO Growing Quickly]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markets Crater After Weeks Of Sideways Action]]></title>
         <id>https://thedefiant.io/markets-crater-after-weeks-of-sideways-action</id>

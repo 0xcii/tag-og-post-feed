@@ -30,6 +30,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/parallel-prime-token-doubles-after-beta-launch",
+          "author": "Owen Fernau",
+          "description": "Long-awaited NFT Trading Card Game Draws Praise From Community",
+          "link": "https://thedefiant.io/parallel-prime-token-doubles-after-beta-launch",
+          "publishedOn": "2023-08-19T05:05:20.000Z",
+          "wordCount": null,
+          "title": "Parallel’s PRIME Token Doubles After Beta Launch",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7cafeb40735dc3aaf026e3065cacecf456609466-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7cafeb40735dc3aaf026e3065cacecf456609466-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/spark-protocol-users-max-out-usd200m-dai-debt-ceiling",
+          "author": "Samuel Haig",
+          "description": "Decentralized Stablecoin Sector Heats Up With crvUSD and GHO Growing Quickly",
+          "link": "https://thedefiant.io/spark-protocol-users-max-out-usd200m-dai-debt-ceiling",
+          "publishedOn": "2023-08-19T04:21:44.000Z",
+          "wordCount": 1220,
+          "title": "Spark Protocol Users Max Out $200M DAI Debt Ceiling",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/33a2b205634dea91d0c3dfbd7a1996e30ce9db3c-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/33a2b205634dea91d0c3dfbd7a1996e30ce9db3c-880x495.jpg"
+        },
+        {
           "id": "https://thedefiant.io/markets-crater-after-weeks-of-sideways-action",
           "author": "Tarang Khaitan",
           "description": "Over $1B Of Leveraged Positions Were Liquidated On Thursday",
