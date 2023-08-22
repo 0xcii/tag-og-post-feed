@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-22T09:12:03.138Z</id>
+    <id>urn:2023-08-22T10:12:54.951Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-22T09:12:03.138Z</updated>
+    <updated>2023-08-22T10:12:54.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aevo Friend Index Perp, Sushi V2 on Base, Incentivized Lending, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-aevo-friend-index-perp</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-aevo-friend-index-perp"/>
+        <updated>2023-08-22T09:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Aevo Friend Index Perp Aevo lists FRIEND-PERP, an index perp of Friend Tech. The spot reference is the amount of ETH in the Friend Tech smart contract on Base, converted to dollars at the ETH/USD spot rate, and divided by 1,000,000. Sushi V2 on Base]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Layer 2 Throughput Hits Record High]]></title>
         <id>https://thedefiant.io/ethereum-layer-2-throughput-hits-record-high</id>
@@ -997,16 +1007,6 @@ ETHCC isn't just another tech conference. It's...]]></summary>
 The Worldcoin project was announ...]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Factor V2 Live on Arbitrum, Thena Alpha on BnB Chain, Delta-Neutral Options LPing, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-factor-v2-live-on-arbitrum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-factor-v2-live-on-arbitrum"/>
-        <updated>2023-07-25T09:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Factor V2 Live on Arbitrum Arbitrum-based yield protocol Factor launched V2 with initial strategies for TradeJoe, Mux, and GMX vaults. Factor launches v2 staking rewards. Thena Alpha on BnB Chain BnB Chain-based DEX Thena.fi launches its perp trading platform Alpha. Alpha supports 100 assets with up to 40x leverage and has zero funding rates.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
