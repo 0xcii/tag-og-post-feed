@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-23T08:15:24.956Z</id>
+    <id>urn:2023-08-23T09:12:12.903Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-23T08:15:24.956Z</updated>
+    <updated>2023-08-23T09:12:12.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Balancer Pool Vulnerability, Aave V3 on Base, Confirmation-Free Perps Trading, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-balancer-pool-vulnerability</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-balancer-pool-vulnerability"/>
+        <updated>2023-08-23T08:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Balancer Pool Vulnerability Balancer has received a report of a critical vulnerability that affects some of its V2 pools. Emergency procedures have been executed and “over 97% of liquidity initially deemed vulnerable is now safe”. ”The vulnerability has not been exploited, however, 0.89% of total TVL ($5.6 million) remains at risk,”. Users are advised to withdraw from Balancer pools.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[friend.tech Crosses 100,000 Users As Crypto Community Debates Its Longevity]]></title>
         <id>https://thedefiant.io/friend-tech-crosses-100-000-users-as-crypto-community-debates-its-longevity</id>
@@ -1039,16 +1049,6 @@ ETHCC isn't just another tech conference. It's...]]></summary>
         <summary type="html"><![CDATA[MKR Outperforms With 25% Weekly Gain]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - zkSync EraLend Hacked, Optimism L2 PGN Live, Quest to Earn, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-zksync-eralend-hacked"/>
-        <updated>2023-07-26T08:29:33.000Z</updated>
-        <summary type="html"><![CDATA[zkSync EraLend Hacked zkSync Era-based lending protocol EraLend was exploited and lost ~2.76m due to a re-entrancy attack. The team has temporarily paused borrowing, USDC supply, and SyncSwap LP supply while investigating and tracing the lost funds.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
