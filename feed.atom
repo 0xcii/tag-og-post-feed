@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-24T08:15:25.227Z</id>
+    <id>urn:2023-08-24T09:12:20.991Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-24T08:15:25.227Z</updated>
+    <updated>2023-08-24T09:12:20.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Solana Pay x Shopify, EUROe on Solana, LP as Collateral, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-solana-pay-x-shopify</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-solana-pay-x-shopify"/>
+        <updated>2023-08-24T08:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Solana Pay x Shopify Solana Pay has integrated its plug-in with Shopify, allowing businesses on its platform to use it for payments. Solana plans to add other altcoins to the platform in the coming months, including SOL and meme token Bonk. EUROe on Solana]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Farcaster To Migrate From Ethereum To Optimism Superchain]]></title>
         <id>https://thedefiant.io/farcaster-to-migrate-from-ethereum-to-optimism-superchain</id>
@@ -1039,16 +1049,6 @@ We’ve come a long way since th...]]></summary>
 ETHCC isn't just another tech conference. It's...]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - US Passes Crypto Bills, Lido Proposes stETH Governance, gDAI Hedging, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-us-passes-crypto-bills</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-us-passes-crypto-bills"/>
-        <updated>2023-07-27T09:16:44.000Z</updated>
-        <summary type="html"><![CDATA[US Passes Crypto Bills On Wednesday, the US House Financial Services Committee passed six bills that provide consumer protections and legislative clarity for digital assets. Among all six bills, the Technology for the 21st Century Act is considered positive for crypto as it provides a reasonable regulation framework for crypto assets.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
