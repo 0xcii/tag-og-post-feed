@@ -41,6 +41,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/uniswap-spot-volume-surpassed-coinbase-in-2023",
+          "author": "Samuel Haig",
+          "description": "Leading Decentralized Exchange Processed $110B Of Trades In Q2",
+          "link": "https://thedefiant.io/uniswap-spot-volume-surpassed-coinbase-in-2023",
+          "publishedOn": "2023-08-25T05:19:38.000Z",
+          "wordCount": 1013,
+          "title": "Uniswap Spot Volume Surpassed Coinbase In 2023",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c70da401fad90ca59da8c6a470a87a8ed28530fc-828x466.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c70da401fad90ca59da8c6a470a87a8ed28530fc-828x466.webp"
+        },
+        {
           "id": "https://thedefiant.io/lido-set-to-complete-final-token-unlock",
           "author": "Owen Fernau",
           "description": "Leading Liquid Staking Protocol Had Sold 10M LDO To Dragonfly Last Year To Weather Bear Market",
@@ -1359,36 +1374,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a50ab474ed856d1605c7bd41d82f0ffd70bd72a2-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/makerdao-considers-boosting-dai-savings-rate-to-8",
-          "author": "Owen Fernau",
-          "description": "MKR Outperforms With 25% Weekly Gain",
-          "link": "https://thedefiant.io/makerdao-considers-boosting-dai-savings-rate-to-8",
-          "publishedOn": "2023-07-26T18:13:19.000Z",
-          "wordCount": 1492,
-          "title": "MakerDAO Considers Boosting DAI Savings Rate To 8%",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6f45bf6f754703eec8f10f65b9e8097d04b43e4e-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6f45bf6f754703eec8f10f65b9e8097d04b43e4e-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/makerdao-considers-boosting-dai-savings-rate-to-8",
-          "author": "Owen Fernau",
-          "description": "MKR Outperforms With 25% Weekly Gain",
-          "link": "https://thedefiant.io/makerdao-considers-boosting-dai-savings-rate-to-8",
-          "publishedOn": "2023-07-26T18:13:19.000Z",
-          "wordCount": 1492,
-          "title": "MakerDAO Considers Boosting DAI Savings Rate To 8%",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6f45bf6f754703eec8f10f65b9e8097d04b43e4e-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6f45bf6f754703eec8f10f65b9e8097d04b43e4e-880x495.jpg"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-25T05:11:32.978Z</id>
+    <id>urn:2023-08-25T06:16:01.136Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-25T05:11:32.978Z</updated>
+    <updated>2023-08-25T06:16:01.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Spot Volume Surpassed Coinbase In 2023]]></title>
+        <id>https://thedefiant.io/uniswap-spot-volume-surpassed-coinbase-in-2023</id>
+        <link href="https://thedefiant.io/uniswap-spot-volume-surpassed-coinbase-in-2023"/>
+        <updated>2023-08-25T05:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Leading Decentralized Exchange Processed $110B Of Trades In Q2]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lido Set To Complete Final Token Unlock]]></title>
         <id>https://thedefiant.io/lido-set-to-complete-final-token-unlock</id>
@@ -1099,26 +1109,6 @@ ETHCC isn't just another tech conference. It's...]]></summary>
         <summary type="html"><![CDATA[Foundation Will Purchase Tokenized Equity, Credit, Real Estate, Commodities and Blockchain-native Assets]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakerDAO Considers Boosting DAI Savings Rate To 8%]]></title>
-        <id>https://thedefiant.io/makerdao-considers-boosting-dai-savings-rate-to-8</id>
-        <link href="https://thedefiant.io/makerdao-considers-boosting-dai-savings-rate-to-8"/>
-        <updated>2023-07-26T18:13:19.000Z</updated>
-        <summary type="html"><![CDATA[MKR Outperforms With 25% Weekly Gain]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakerDAO Considers Boosting DAI Savings Rate To 8%]]></title>
-        <id>https://thedefiant.io/makerdao-considers-boosting-dai-savings-rate-to-8</id>
-        <link href="https://thedefiant.io/makerdao-considers-boosting-dai-savings-rate-to-8"/>
-        <updated>2023-07-26T18:13:19.000Z</updated>
-        <summary type="html"><![CDATA[MKR Outperforms With 25% Weekly Gain]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
