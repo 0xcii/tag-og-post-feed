@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-25T08:15:21.108Z</id>
+    <id>urn:2023-08-25T09:12:10.409Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-25T08:15:21.108Z</updated>
+    <updated>2023-08-25T09:12:10.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Base x OP: Shared Governance, Base Magnate Rugpull, Stable Yield on Base, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance"/>
+        <updated>2023-08-25T08:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Base x Optimism: Shared Governance and Revenue-Sharing]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap Spot Volume Surpassed Coinbase In 2023]]></title>
         <id>https://thedefiant.io/uniswap-spot-volume-surpassed-coinbase-in-2023</id>
@@ -1027,16 +1037,6 @@ We’ve come a long way since th...]]></summary>
         <summary type="html"><![CDATA[Collaboration with Twitter icon creator Martin Grasser celebrates emergent shapes found in patterns featuring the letters N, F, and T.]]></summary>
         <author>
             <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - US Advances Crypto Regulation, Quantstamp Charged by SEC, GHO LPing, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-us-advances-crypto</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-us-advances-crypto"/>
-        <updated>2023-07-28T08:54:45.000Z</updated>
-        <summary type="html"><![CDATA[US Advances Crypto Regulation On Thursday, the “Financial Innovation and Technology for the 21st Century Act (FIT21 Act)”, a bill that provides a regulatory framework for digital asset and trading service providers, is passed by two House committees (Financial Service & Agriculture) and is now ready for consideration by the full House.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
