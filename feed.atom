@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-28T09:12:32.427Z</id>
+    <id>urn:2023-08-28T10:13:55.178Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-28T09:12:32.427Z</updated>
+    <updated>2023-08-28T10:13:55.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Solana Pay x Shopify, Base x OP: Shared Governance, Balancer Pool Vulnerability, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-solana-pay-x-shopify</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-solana-pay-x-shopify"/>
+        <updated>2023-08-28T09:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Aug 21st]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IRS Sets Sights On Decentralized Exchanges and NFTs With Proposed Tax Rules]]></title>
         <id>https://thedefiant.io/irs-sets-sights-on-decentralized-exchanges-and-nfts-with-proposed-tax-rules</id>
@@ -1007,16 +1017,6 @@ We’ve come a long way since th...]]></summary>
         <summary type="html"><![CDATA[Aya Kantorovich is the co-CEO and co-founder of Fractal, which is an infrastructure provider enabling institutions to clear, settle, and margin digital asset trades onchain. In today's podcast Aya shares her founder journey at Fractal, the impact of the FT...]]></summary>
         <author>
             <name>Tegan Kline</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Curve Stablepool Exploits, US Advances Crypto Regulation, Arbitrum Odyssey Returning, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-curve-stablepool</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-curve-stablepool"/>
-        <updated>2023-07-31T08:52:06.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of July 24th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
