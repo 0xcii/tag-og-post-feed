@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-28T18:15:29.481Z</id>
+    <id>urn:2023-08-28T19:09:46.037Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-28T18:15:29.481Z</updated>
+    <updated>2023-08-28T19:09:46.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi Sector Increasingly Sees Real-World Assets As Growth Area]]></title>
+        <id>https://thedefiant.io/defi-sector-increasingly-sees-real-world-assets-as-growth-area</id>
+        <link href="https://thedefiant.io/defi-sector-increasingly-sees-real-world-assets-as-growth-area"/>
+        <updated>2023-08-28T19:01:34.000Z</updated>
+        <summary type="html"><![CDATA[With US Interest Rates Above 5%, DeFi Protocols Look To Address Demand For Lucrative Off-chain Yields]]></summary>
+        <author>
+            <name>Jeremy Nation</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEX Traders Turn To Telegram Bots To Gain An Edge]]></title>
         <id>https://thedefiant.io/dex-traders-turn-to-telegram-bots-to-gain-an-edge</id>
