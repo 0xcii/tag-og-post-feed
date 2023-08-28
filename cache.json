@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/kite-or-board-64bc45d49931?source=rss-2f6e06954878------2",
           "publishedOn": "2023-08-23T23:02:25.000Z",
-          "wordCount": 16806,
+          "wordCount": 16762,
           "title": "Kite or Board",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*lzK9HlRXNJqqNIPN"
         }
@@ -40,6 +40,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/base-inks-profit-sharing-deal-with-optimism",
+          "author": "Samuel Haig",
+          "description": "Coinbase’s Layer 2 Network Will Receive OP Tokens For Governance Participation",
+          "link": "https://thedefiant.io/base-inks-profit-sharing-deal-with-optimism",
+          "publishedOn": "2023-08-28T15:42:46.000Z",
+          "wordCount": 1124,
+          "title": "Base Inks Profit Sharing Deal With Optimism",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7b920700ea1885542fb21620bed43d7b60a469a5-828x466.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7b920700ea1885542fb21620bed43d7b60a469a5-828x466.webp"
+        },
         {
           "id": "https://thedefiant.io/irs-sets-sights-on-decentralized-exchanges-and-nfts-with-proposed-tax-rules",
           "author": "Jeremy Nation",
