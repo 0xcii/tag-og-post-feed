@@ -46,9 +46,14 @@
           "description": "Marketplace Aims To Simplify Process Of Offering Perks To NFT Holders",
           "link": "https://thedefiant.io/opensea-unveils-standards-for-redeemable-nfts",
           "publishedOn": "2023-08-29T20:12:17.000Z",
-          "wordCount": null,
+          "wordCount": 846,
           "title": "OpenSea Unveils Standards For Redeemable NFTs",
-          "imageUrl": null
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/28c1799f66776a51ed596126c11e404b92ddc368-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/28c1799f66776a51ed596126c11e404b92ddc368-880x495.jpg"
         },
         {
           "id": "https://thedefiant.io/dydx-community-votes-on-appchain-migration-and-v4-deployment",
