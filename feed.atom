@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-29T07:11:26.821Z</id>
+    <id>urn:2023-08-29T08:16:05.495Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-29T07:11:26.821Z</updated>
+    <updated>2023-08-29T08:16:05.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aerodrome Live on Base, Stargate on Kava, zkEVM with Potential Airdrop, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-aerodrome-live-on-base</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-aerodrome-live-on-base"/>
+        <updated>2023-08-29T08:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Aerodrome Live on Base Aerodrome, a Velodrome fork DEX, is now live on Base. At launch, 40% of the initial Aero token supply will be distributed to veVELO holders as veAERO. Stargate Live on Kava Bridging protocol Stargate has deployed on Kava chain, enabling native USDT access.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi LPs Turn To Liquidity Managers To Tackle Uniswap V3 Complexity]]></title>
         <id>https://thedefiant.io/defi-lps-turn-to-liquidity-managers-to-tackle-uniswap-v3-complexity</id>
@@ -1007,16 +1017,6 @@ We’ve come a long way since th...]]></summary>
         <summary type="html"><![CDATA[You’ve likely seen Richard Heart sharing his lavish life with luxury cars and designer clothes on social media. That may all be about to stop, because the SEC has charged Richard Heart with ‘’illegally raising over $1 billion, and defrauding investors out ...]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - US IRS to Tax Staking Rewards, Rugpull & Exploit on Base pre-launch, NFT Farming on Solana, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-us-irs-to-tax-staking</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-us-irs-to-tax-staking"/>
-        <updated>2023-08-01T09:03:48.000Z</updated>
-        <summary type="html"><![CDATA[US IRS to Tax Staking Rewards The US Internal Revenue Service (IRS) issued a ruling on Monday saying that "given rewards for validation activity on a PoS network should count the rewards as income in the year the investor gets control of those tokens".]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
