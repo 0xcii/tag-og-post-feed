@@ -43,12 +43,17 @@
         {
           "id": "https://thedefiant.io/elon-musk-x-obtains-license-to-enable-u-s-crypto-payments",
           "author": "Jeremy Nation",
-          "description": "Social Media Platform Formerly Known As Twitter Could Be Poised To Bring Crypto Payment Services To Its 450M Active Users",
+          "description": "Social Media Giant Formerly Known As Twitter Could Be Poised To Bring Crypto Payment Services To Its 450M Active Users",
           "link": "https://thedefiant.io/elon-musk-x-obtains-license-to-enable-u-s-crypto-payments",
           "publishedOn": "2023-08-29T17:07:02.000Z",
-          "wordCount": null,
+          "wordCount": 848,
           "title": "Elon Musk’s X Obtains License To Enable U.S. Crypto Payments",
-          "imageUrl": null
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1f1d0c580b71795e1d8ebe14c7e8ae2995ef0008-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1f1d0c580b71795e1d8ebe14c7e8ae2995ef0008-880x495.jpg"
         },
         {
           "id": "https://thedefiant.io/defi-lps-turn-to-liquidity-managers-to-tackle-uniswap-v3-complexity",
