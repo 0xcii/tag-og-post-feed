@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-29T16:15:57.499Z</id>
+    <id>urn:2023-08-29T17:11:08.499Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-29T16:15:57.499Z</updated>
+    <updated>2023-08-29T17:11:08.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk’s X Obtains License To Enable U.S. Crypto Payments]]></title>
+        <id>https://thedefiant.io/elon-musk-x-obtains-license-to-enable-u-s-crypto-payments</id>
+        <link href="https://thedefiant.io/elon-musk-x-obtains-license-to-enable-u-s-crypto-payments"/>
+        <updated>2023-08-29T17:07:02.000Z</updated>
+        <summary type="html"><![CDATA[Social Media Platform Formerly Known As Twitter Could Be Poised To Bring Crypto Payment Services To Its 450M Active Users]]></summary>
+        <author>
+            <name>Jeremy Nation</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Aerodrome Live on Base, Stargate on Kava, zkEVM with Potential Airdrop, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-aerodrome-live-on-base</id>
@@ -1057,16 +1067,6 @@ We’ve come a long way since th...]]></summary>
         <summary type="html"><![CDATA[Aya Kantorovich is the co-CEO and co-founder of Fractal, which is an infrastructure provider enabling institutions to clear, settle, and margin digital asset trades onchain. In today's podcast Aya shares her founder journey at Fractal, the impact of the FT...]]></summary>
         <author>
             <name>Tegan Kline</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over $70M Stolen From Multiple DeFi Protocols Due To Vyper Code Bug]]></title>
-        <id>https://thedefiant.io/over-usd70m-stolen-from-multiple-defi-protocols-due-to-vyper-code-bug</id>
-        <link href="https://thedefiant.io/over-usd70m-stolen-from-multiple-defi-protocols-due-to-vyper-code-bug"/>
-        <updated>2023-07-31T04:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Hacker Used Re-entrancy Attacks To Drain Assets From Curve Pools]]></summary>
-        <author>
-            <name>Jeremy Nation and Samuel Haig</name>
         </author>
     </entry>
 </feed>
