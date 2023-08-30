@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-30T09:12:05.865Z</id>
+    <id>urn:2023-08-30T10:12:49.436Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-30T09:12:05.865Z</updated>
+    <updated>2023-08-30T10:12:49.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Grayscale Wins Lawsuit Against SEC, Avocado MultiSig, Delta-Hedged Leverage Farming, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-grayscale-wins-lawsuit</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-grayscale-wins-lawsuit"/>
+        <updated>2023-08-30T09:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Grayscale Wins Lawsuit Against SEC The federal court ruled that the SEC must review its rejection of Grayscale's bid to convert GBTC into an ETF. The 3 judges ruled the SEC failed to explain its disparate treatment of one BTC ETF such that its denial was “arbitrary and capricious”.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenSea Unveils Standards For Redeemable NFTs]]></title>
         <id>https://thedefiant.io/opensea-unveils-standards-for-redeemable-nfts</id>
@@ -1037,16 +1047,6 @@ We’ve come a long way since th...]]></summary>
         <summary type="html"><![CDATA[Skeptics Continue To Question Quarterly Attestation Reports]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Term Finance Live, SEC Charges Richard Heart, USDt Incentives, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-term-finance-live-sec"/>
-        <updated>2023-08-02T08:43:14.000Z</updated>
-        <summary type="html"><![CDATA[Term Finance Live Term Finance, a fixed-rate lending protocol, is live on Ethereum. Term uses a recurring auction process to provide certainty to borrowers and lenders. SEC Sues Richard Heart The SEC sues Richard Heart, and his projects Hex, PulseChain, and PulseX, alleging he raised over $1B across three different unregistered securities offerings beginning in 2019.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
