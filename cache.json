@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/kite-or-board-64bc45d49931?source=rss-2f6e06954878------2",
           "publishedOn": "2023-08-23T23:02:25.000Z",
-          "wordCount": 16836,
+          "wordCount": 16839,
           "title": "Kite or Board",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*lzK9HlRXNJqqNIPN"
         }
@@ -46,9 +46,14 @@
           "description": "Only 10 Wallets Hold More Than 3,000 PYUSD",
           "link": "https://thedefiant.io/paypal-stablecoin-sees-minimal-activity-three-weeks-after-launch",
           "publishedOn": "2023-08-31T20:10:53.000Z",
-          "wordCount": null,
+          "wordCount": 1220,
           "title": "PayPal’s Stablecoin Sees Minimal Activity Three Weeks After Launch",
-          "imageUrl": null
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f9e3fb04c0c83f031fdb96178d2e04c6abde5d1b-600x337.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f9e3fb04c0c83f031fdb96178d2e04c6abde5d1b-600x337.webp"
         },
         {
           "id": "https://thedefiant.io/usdc-to-expand-native-support-to-base-and-optimism",
@@ -56,9 +61,14 @@
           "description": "Deployments Come As USDC Seeks To Reverse Declining Market Share",
           "link": "https://thedefiant.io/usdc-to-expand-native-support-to-base-and-optimism",
           "publishedOn": "2023-08-31T19:59:07.000Z",
-          "wordCount": null,
+          "wordCount": 1151,
           "title": "USDC To Expand Native Support To Base and Optimism",
-          "imageUrl": null
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bb0efd60363cb42300454ce598bf1fe4c90457cb-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bb0efd60363cb42300454ce598bf1fe4c90457cb-880x495.jpg"
         },
         {
           "id": "https://thedefiant.io/us-judge-tosses-class-action-lawsuit-against-uniswap-labs",
