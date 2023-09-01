@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-01T08:15:30.654Z</id>
+    <id>urn:2023-09-01T09:12:15.325Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-01T08:15:30.654Z</updated>
+    <updated>2023-09-01T09:12:15.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Bitcoin ETFs Delayed, Perp Dex on Kava, Limit and Stop loss orders on chain , and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-bitcoin-etfs-delayed</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-bitcoin-etfs-delayed"/>
+        <updated>2023-09-01T08:56:59.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin ETFs Delayed The SEC delays decisions on spot Bitcoin ETF applications from BlackRock, Bitwise, VanEck, etc. The next deadlines come around mid-October. Kinetix Live on Kava Core Quickswap members launch Kinetix, a 50x leverage perp dex on Kava Chain, initially support $ATOM, $KAVA, $USDT, $axlwBTC, and $axlWETH.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PayPal’s Stablecoin Sees Minimal Activity Three Weeks After Launch]]></title>
         <id>https://thedefiant.io/paypal-stablecoin-sees-minimal-activity-three-weeks-after-launch</id>
@@ -1018,16 +1028,6 @@ We’ve come a long way since th...]]></summary>
         <summary type="html"><![CDATA[Egorov Raises $44M To Pay Down DeFi Debt]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - GMX V2 Live, Base Bridge Live, Fixed-Rate Lending via Auctions… , and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-gmx-v2-live-base-bridge</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-gmx-v2-live-base-bridge"/>
-        <updated>2023-08-04T08:20:28.000Z</updated>
-        <summary type="html"><![CDATA[GMX V2 Live GMX launches v2 beta on Arbitrum and Avalanche. The upgrade enables new markets, multiple collateral types, improved UX, low-fee swaps for traders, and new incentives for LPs. Base Bridge Live, Mainnet Soon Base L2 is now open for bridging]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
