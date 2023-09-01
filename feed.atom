@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-01T05:11:25.622Z</id>
+    <id>urn:2023-09-01T06:16:30.169Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-01T05:11:25.622Z</updated>
+    <updated>2023-09-01T06:16:30.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1098,16 +1098,6 @@ We’ve come a long way since th...]]></summary>
         <summary type="html"><![CDATA[Litecoin, the second-oldest blockchain network, completed its third block reward halving on Wednesday.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether Reports $850M Profit In Second Quarter]]></title>
-        <id>https://thedefiant.io/tether-reports-usd850m-profit-in-second-quarter</id>
-        <link href="https://thedefiant.io/tether-reports-usd850m-profit-in-second-quarter"/>
-        <updated>2023-08-02T18:14:15.000Z</updated>
-        <summary type="html"><![CDATA[Skeptics Continue To Question Quarterly Attestation Reports]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
