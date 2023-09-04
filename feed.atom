@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-04T09:12:51.096Z</id>
+    <id>urn:2023-09-04T10:13:26.861Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-04T09:12:51.096Z</updated>
+    <updated>2023-09-04T10:13:26.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Maker Proposes Solana-based NewChain, Greyscale Won Lawsuit Against SEC, IndexCoop New Indices and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-maker-proposes</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-maker-proposes"/>
+        <updated>2023-09-04T09:11:02.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Aug 28th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swift Could Support Interconnected CBDCs Via Chainlink]]></title>
         <id>https://thedefiant.io/swift-could-support-interconnected-cbdcs-via-chainlink</id>
@@ -1008,16 +1018,6 @@ We’ve come a long way since th...]]></summary>
         <summary type="html"><![CDATA[Today we are joined by Erick Calderon, founder of Art Blocks. You may also know him as Snowfro. Erick is not only a talented artist, but also a tech innovator and entrepreneur who has redefined the limits of artistic expression in the digital era. Today we...]]></summary>
         <author>
             <name>Tegan Kline</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - CRV Hacker Returns Funds, Base Mainnet Soon, MakerDAO Enhanced DSR, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-crv-hacker-returns</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-crv-hacker-returns"/>
-        <updated>2023-08-07T09:29:15.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of July 31st]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
