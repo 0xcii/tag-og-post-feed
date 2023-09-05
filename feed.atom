@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-05T02:16:44.863Z</id>
+    <id>urn:2023-09-05T03:12:58.903Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-05T02:16:44.863Z</updated>
+    <updated>2023-09-05T03:12:58.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Offloads MKR After MakerDAO Founder Pitches Solana Fork]]></title>
+        <id>https://thedefiant.io/vitalik-offloads-mkr-after-makerdao-founder-pitches-solana-fork</id>
+        <link href="https://thedefiant.io/vitalik-offloads-mkr-after-makerdao-founder-pitches-solana-fork"/>
+        <updated>2023-09-05T03:09:03.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Founder Urges Reflexer To Expand Market Share By Embracing Liquid Staking Tokens]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Maker Proposes Solana-based NewChain, Greyscale Won Lawsuit Against SEC, IndexCoop New Indices and More...]]></title>
         <id>https://todayindefi.substack.com/p/last-week-in-defi-maker-proposes</id>
