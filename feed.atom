@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-07T08:15:41.505Z</id>
+    <id>urn:2023-09-07T09:12:30.926Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-07T08:15:41.505Z</updated>
+    <updated>2023-09-07T09:12:30.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[Members Include Circle, Centrifuge and Goldfinch]]></summary>
         <author>
             <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Avalanche Multiswap Live, Wombat Alpha Cross-chain Pool, Test out Innovative Options, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-avalanche-multiswap</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-avalanche-multiswap"/>
+        <updated>2023-09-07T08:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Avalanche Multiswap Live Multiswap, a multi-asset swap AMM created by CavalRe, is live on Avalanche. Multiswap allows users to concentrate liquidity and swap multiple tokens in a single transaction, with a UX made easy for traders and LPs. Wombat Alpha Cross-chain Pool Live]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
@@ -981,16 +991,6 @@ We’ve come a long way since th...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today in DeFi - Base Mainnet Live, SpiritSwap Winding Down, Angle Launches V2, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-base-mainnet-live-spiritswap</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-base-mainnet-live-spiritswap"/>
-        <updated>2023-08-10T11:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Base Mainnet Live Base mainnet is now open to the public, with 100+ dApps available. The Base team launches the Onchain Summer campaign, encouraging engagement with daily NFT mints. SpiritSwap Winding Down Fantom-based DEX SpiritSwap is looking for a team to hand things to. If no team is going to take over, the project will stop operations on 9/1.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Markets Rally As Investors Show Renewed Confidence in Crypto]]></title>
         <id>https://thedefiant.io/markets-rally-as-investors-show-renewed-confidence-in-crypto</id>
         <link href="https://thedefiant.io/markets-rally-as-investors-show-renewed-confidence-in-crypto"/>
@@ -1048,16 +1048,6 @@ We’ve come a long way since th...]]></summary>
         <summary type="html"><![CDATA[US Central Bank Also Clarifies Procedures For Banks Dealing In Stablecoins]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yield Guild Games Token Halves In A Day After 500% Rally]]></title>
-        <id>https://thedefiant.io/yield-guild-games-token-halves-in-a-day-after-500-rally</id>
-        <link href="https://thedefiant.io/yield-guild-games-token-halves-in-a-day-after-500-rally"/>
-        <updated>2023-08-08T20:45:10.000Z</updated>
-        <summary type="html"><![CDATA[VCs Appear To Be Selling YGG Ahead of Major Unlock On August 27]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
 </feed>
