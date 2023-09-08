@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/kite-or-board-64bc45d49931?source=rss-2f6e06954878------2",
           "publishedOn": "2023-08-23T23:02:25.000Z",
-          "wordCount": 16794,
+          "wordCount": 16738,
           "title": "Kite or Board",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*lzK9HlRXNJqqNIPN"
         }
@@ -40,6 +40,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/ether-turns-inflationary-as-on-chain-activity-slides",
+          "author": "Samuel Haig",
+          "description": "Deepening NFT Bear Market and Fading Memecoin Craze Contribute To Reduced ETH Burn Rate",
+          "link": "https://thedefiant.io/ether-turns-inflationary-as-on-chain-activity-slides",
+          "publishedOn": "2023-09-08T20:16:09.000Z",
+          "wordCount": 1040,
+          "title": "Ether Turns Inflationary As On-chain Activity Slides",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f92ad913b5ca4f249edf16b481edba6f84f5ee14-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f92ad913b5ca4f249edf16b481edba6f84f5ee14-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/cftc-fines-opyn-zeroex-and-deridex",
           "author": "Tarang Khaitan",
