@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-08T09:12:01.767Z</id>
+    <id>urn:2023-09-08T10:12:44.649Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-08T09:12:01.767Z</updated>
+    <updated>2023-09-08T10:12:44.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - CFTC Issues Orders Against DeFi Protocols, Aevo Trading Credit, High-Yield Leveraged Farming, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-cftc-issues-orders</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-cftc-issues-orders"/>
+        <updated>2023-09-08T09:15:34.000Z</updated>
+        <summary type="html"><![CDATA[CFTC Issues Orders Against DeFi Protocols, CFTC issued orders against three DeFi protocols for offering digital asset derivatives trading. The orders request "that Opyn, ZeroEx, and Deridex pay civil monetary penalties of $250,000, $200,000, and $100,000, respectively, and cease and desist from violating the Commodity Exchange Act (CEA) and]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ark Invest and 21Shares Apply For Spot ETH ETF]]></title>
         <id>https://thedefiant.io/ark-invest-and-21shares-apply-for-spot-eth-etf</id>
@@ -938,16 +948,6 @@ We’ve come a long way since th...]]></summary>
         <summary type="html"><![CDATA[friend.tech Has Processed Over $10M Of Trading Volume]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - PancakeSwap on Arbitrum, Sentiment Sunsetting V1, Stable Pools with Boost, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-pancakeswap-on-arbitrum</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-pancakeswap-on-arbitrum"/>
-        <updated>2023-08-11T09:35:05.000Z</updated>
-        <summary type="html"><![CDATA[PancakeSwap on Arbitrum BnB Chain-based DEX PancakeSwap is now live on Arbitrum with Swaps, Liquidity Provision, and upcoming Farms and IFOs. Sentiment Sunsetting V1 Sentiment V1 will sunset on Aug 22nd, while the team is working on the upcoming V2. Previously, Sentiment was affected by the Cruve exploit and had deprecated support for Convex/Curve TriCrypto pools.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
