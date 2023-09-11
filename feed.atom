@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-11T16:16:17.011Z</id>
+    <id>urn:2023-09-11T17:11:41.087Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-11T16:16:17.011Z</updated>
+    <updated>2023-09-11T17:11:41.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[Recap: Week of Sept. 4th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacker Steals Over $700K After Hijacking Vitalik’s X Account]]></title>
+        <id>https://thedefiant.io/hacker-steals-over-usd700k-after-hijacking-vitalik-s-x-account</id>
+        <link href="https://thedefiant.io/hacker-steals-over-usd700k-after-hijacking-vitalik-s-x-account"/>
+        <updated>2023-09-10T03:59:56.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Founder Vitalik Buterin’s Twitter (X) Account Posted A Phishing Scam That Led To Many Users’ Wallets Being Drained Of Tokens and Valuable NFTs]]></summary>
+        <author>
+            <name>Jeremy Nation</name>
         </author>
     </entry>
     <entry>
@@ -561,9 +571,8 @@ It's as if we've switched from a Shakespearean tragedy, where the FTX scandal is
     <entry>
         <title type="html"><![CDATA[Kite or Board]]></title>
         <id>https://medium.com/p/64bc45d49931</id>
-        <link href="https://cryptohayes.medium.com/kite-or-board-64bc45d49931?source=rss-2f6e06954878------2"/>
+        <link href="https://entrepreneurshandbook.co/kite-or-board-64bc45d49931?source=rss-2f6e06954878------2"/>
         <updated>2023-08-23T23:02:25.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
