@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-12T09:12:10.412Z</id>
+    <id>urn:2023-09-12T10:13:20.501Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-12T09:12:10.412Z</updated>
+    <updated>2023-09-12T10:13:20.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Synapse Interchain Network & L2 Testnet, Swaps Across Cosmos and EVMs, Trading NFTs on Solana, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-synapse-interchain</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-synapse-interchain"/>
+        <updated>2023-09-12T09:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Synapse Interchain Network & L2 Testnet The Synapse Interchain Network(SIN) and the Synapse Chain testnet are live. The SIN is the first PoS bridge and the Synapse Chain serves as the interchain data availability layer for SIN. Swaps Across Cosmos and EVMs]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOL Drops Ahead Of Court Verdict On FTX Asset Sales]]></title>
         <id>https://thedefiant.io/sol-drops-ahead-of-court-verdict-on-ftx-asset-sales</id>
@@ -938,16 +948,6 @@ We’ve come a long way since th...]]></summary>
         <summary type="html"><![CDATA[Oil Giant Will Contribute To Climate Rounds For The Next Four Quarters, GTC Drops 8%]]></summary>
         <author>
             <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Arbitrum Odyssey 2.0, Immutable zkEVM Testnet, Diva Operator Testnet, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-arbitrum-odyssey-20</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-arbitrum-odyssey-20"/>
-        <updated>2023-08-15T08:16:25.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum Odyssey 2.0 The Odyssey 2.0 has launched with open-ended quests and time-limited quests. All scheduled quest lines are over the span of roughly three months. Immutable zkEVM Testnet Live Immutable zkEVM testnet is live. It is an EVM-compatible zk-rollup L2 dedicated to gaming products.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
