@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-18T09:12:56.142Z</id>
+    <id>urn:2023-09-18T10:13:40.604Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-18T09:12:56.142Z</updated>
+    <updated>2023-09-18T10:13:40.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Enjin Chain Live, Votium Launches V2, Mountain USDM, iToken Key Leaks, and More...]]></title>
+        <id>https://todayindefi.substack.com/p/last-week-in-defi-enjin-chain-live</id>
+        <link href="https://todayindefi.substack.com/p/last-week-in-defi-enjin-chain-live"/>
+        <updated>2023-09-18T09:39:45.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Sept. 11th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mark Cuban Loses $870,000 In Wallet Hack]]></title>
         <id>https://thedefiant.io/mark-cuban-loses-usd870-000-in-wallet-hack</id>
@@ -877,16 +887,6 @@ It's as if we've switched from a Shakespearean tragedy, where the FTX scandal is
         <summary type="html"><![CDATA[Today we're joined by the driving force behind a venture that has redefined the concept of modern travel and community: Jon Hillis, the founder of Cabin, a network city for remote workers in nature, who is actively working to grow a global network of neigh...]]></summary>
         <author>
             <name>Tegan Kline</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Thorchain Lending Live, Sei Mainnet, Exactly Exploit, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/last-week-in-defi-thorchain-lending</id>
-        <link href="https://todayindefi.substack.com/p/last-week-in-defi-thorchain-lending"/>
-        <updated>2023-08-21T08:28:38.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Aug 14th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
