@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-21T15:12:19.618Z</id>
+    <id>urn:2023-09-21T16:15:26.628Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-21T15:12:19.618Z</updated>
+    <updated>2023-09-21T16:15:26.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Making the Wallet Personal]]></title>
+        <id>https://thedefiant.io/making-the-wallet-personal</id>
+        <link href="https://thedefiant.io/making-the-wallet-personal"/>
+        <updated>2023-09-21T15:58:19.000Z</updated>
+        <summary type="html"><![CDATA[What if you could tailor your wallet to your needs?]]></summary>
+        <author>
+            <name>Christian Montoya, Product Lead for MetaMask Snaps</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - GammaSwap Live, Poolshark Limit Pools, Higher Savings Rate, and More...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-gammaswap-live-poolshark</id>
