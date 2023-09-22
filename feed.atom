@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-22T10:13:16.207Z</id>
+    <id>urn:2023-09-22T11:10:29.695Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-22T10:13:16.207Z</updated>
+    <updated>2023-09-22T11:10:29.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Linear ℓUSD Exploit , Intents Based Dex, Perp trading without liquidation!?, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit"/>
+        <updated>2023-09-22T10:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Linear ℓUSD Exploit Linear Finance was exploited and the attackers drained all ℓUSD liquidity on both PancakeSwap and Ascendex, resulting in the price of ℓUSD going to zero. Linear contracts are paused and the team works with security firms to track the attackers.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prisma Finance Pulls In $30M With LST-backed mkUSD Stablecoin]]></title>
         <id>https://thedefiant.io/prisma-finance-pulls-in-usd30m-with-lst-backed-mkusd-stablecoin</id>
@@ -860,16 +870,6 @@ It's as if we've switched from a Shakespearean tragedy, where the FTX scandal is
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today in DeFi - Base x OP: Shared Governance, Base Magnate Rugpull, Stable Yield on Base, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-base-x-op-shared-governance"/>
-        <updated>2023-08-25T08:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Base x Optimism: Shared Governance and Revenue-Sharing]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Uniswap Spot Volume Surpassed Coinbase In 2023]]></title>
         <id>https://thedefiant.io/uniswap-spot-volume-surpassed-coinbase-in-2023</id>
         <link href="https://thedefiant.io/uniswap-spot-volume-surpassed-coinbase-in-2023"/>
@@ -917,16 +917,6 @@ It's as if we've switched from a Shakespearean tragedy, where the FTX scandal is
         <summary type="html"><![CDATA[Ethereum Users Have Lost $450M to Maximal Extractable Value Since September 2022]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kite or Board]]></title>
-        <id>https://medium.com/p/64bc45d49931</id>
-        <link href="https://entrepreneurshandbook.co/kite-or-board-64bc45d49931?source=rss-2f6e06954878------2"/>
-        <updated>2023-08-23T23:02:25.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
-        <author>
-            <name>Arthur Hayes</name>
         </author>
     </entry>
 </feed>
