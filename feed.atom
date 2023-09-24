@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-24T15:11:17.694Z</id>
+    <id>urn:2023-09-24T16:14:41.655Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-24T15:11:17.694Z</updated>
+    <updated>2023-09-24T16:14:41.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -857,16 +857,6 @@ It's as if we've switched from a Shakespearean tragedy, where the FTX scandal is
         <summary type="html"><![CDATA[Recap: Week of Aug 21st]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IRS Sets Sights On Decentralized Exchanges and NFTs With Proposed Tax Rules]]></title>
-        <id>https://thedefiant.io/irs-sets-sights-on-decentralized-exchanges-and-nfts-with-proposed-tax-rules</id>
-        <link href="https://thedefiant.io/irs-sets-sights-on-decentralized-exchanges-and-nfts-with-proposed-tax-rules"/>
-        <updated>2023-08-26T04:06:22.000Z</updated>
-        <summary type="html"><![CDATA[DEXs Catering To U.S. Users Could Be Classified As Brokers And Required To Implement KYC Procedures]]></summary>
-        <author>
-            <name>Jeremy Nation</name>
         </author>
     </entry>
 </feed>
