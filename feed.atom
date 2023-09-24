@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-24T03:12:30.873Z</id>
+    <id>urn:2023-09-24T04:14:02.415Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-24T03:12:30.873Z</updated>
+    <updated>2023-09-24T04:14:02.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Asset Markets Shaken By Hawkish Fed Outlook]]></title>
+        <id>https://thedefiant.io/digital-asset-markets-shaken-by-hawkish-fed-outlook</id>
+        <link href="https://thedefiant.io/digital-asset-markets-shaken-by-hawkish-fed-outlook"/>
+        <updated>2023-09-24T03:59:25.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Central Bank Telegraphs One More Interest Rate Hike In 2023]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Linear ℓUSD Exploit , Intents Based Dex, Perp trading without liquidation!?, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit</id>
