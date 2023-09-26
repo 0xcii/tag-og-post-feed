@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-26T08:16:31.142Z</id>
+    <id>urn:2023-09-26T09:12:51.534Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-26T08:16:31.142Z</updated>
+    <updated>2023-09-26T09:12:51.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Ren Foundation Introduced, Vesta Finance Dissolution, Intent-based Swaps, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-ren-foundation-introduced</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-ren-foundation-introduced"/>
+        <updated>2023-09-26T08:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Ren Foundation Introduced Ren introduces Ren Foundation, a non-profit, independent organization that focuses on the research and development of blockchain interoperability. Vesta Finance Dissolution Vesta Finance voted to discontinue the protocol as a result of the founders’]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unclaimed ARB Tokens Worth $56M Returned To DAO]]></title>
         <id>https://thedefiant.io/unclaimed-arb-tokens-worth-usd56m-returned-to-dao</id>
@@ -829,16 +839,6 @@ It's as if we've switched from a Shakespearean tragedy, where the FTX scandal is
         <summary type="html"><![CDATA[Social Media Giant Formerly Known As Twitter Could Be Poised To Bring Crypto Payment Services To Its 450M Active Users]]></summary>
         <author>
             <name>Jeremy Nation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Aerodrome Live on Base, Stargate on Kava, zkEVM with Potential Airdrop, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-aerodrome-live-on-base</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-aerodrome-live-on-base"/>
-        <updated>2023-08-29T08:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Aerodrome Live on Base Aerodrome, a Velodrome fork DEX, is now live on Base. At launch, 40% of the initial Aero token supply will be distributed to veVELO holders as veAERO. Stargate Live on Kava Bridging protocol Stargate has deployed on Kava chain, enabling native USDT access.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
