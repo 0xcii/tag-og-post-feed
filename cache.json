@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://entrepreneurshandbook.co/are-we-there-yet-bfa982ef9a7f?source=rss-2f6e06954878------2",
           "publishedOn": "2023-09-11T23:02:39.000Z",
-          "wordCount": 7540,
+          "wordCount": 7504,
           "title": "Are We There Yet?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*rU6fI5eSA3TSgcgl"
         }
@@ -40,6 +40,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/ledn-launches-support-for-eth-staking-yields",
+          "author": "Samuel Haig",
+          "description": "Ledn to segregate staking accounts from its lending operations",
+          "link": "https://thedefiant.io/ledn-launches-support-for-eth-staking-yields",
+          "publishedOn": "2023-09-28T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Ledn Launches Support For ETH Staking Yields",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b9f1d906fbf8ac1061ffe194ea7634f57b86ef96-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b9f1d906fbf8ac1061ffe194ea7634f57b86ef96-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/curve-founder-pays-down-debts-on-aave-v2",
           "author": "Samuel Haig",
