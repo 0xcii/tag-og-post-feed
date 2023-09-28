@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-28T00:56:22.004Z</id>
+    <id>urn:2023-09-28T01:50:22.623Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-28T00:56:22.004Z</updated>
+    <updated>2023-09-28T01:50:22.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Reboots Odyssey Campaign As Rival Layer 2s Gain Ground]]></title>
+        <id>https://thedefiant.io/arbitrum-reboots-odyssey-campaign-as-rival-layer-2s-gain-ground</id>
+        <link href="https://thedefiant.io/arbitrum-reboots-odyssey-campaign-as-rival-layer-2s-gain-ground"/>
+        <updated>2023-09-28T01:47:08.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum Is The Leading Ethereum Layer 2 By TVL But Lags behind zkSync Era, Starknet and Base By Transaction Throughput]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - HTX 8M Hack, Dopex CLAMM Pubic Testing, Double Rewards LPing, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-htx-8m-hack-dopex-clamm</id>
