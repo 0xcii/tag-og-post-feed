@@ -41,6 +41,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/manifold-trading-admits-to-frontrunning-friendtech-key-launch",
+          "author": "Owen Fernau",
+          "description": "Trading Firm That Championed Anti-Sniping Measures Says It’s ‘In The Arena’ After Insiders Rake In 20 ETH On Single Trade",
+          "link": "https://thedefiant.io/manifold-trading-admits-to-frontrunning-friendtech-key-launch",
+          "publishedOn": "2023-10-02T20:10:53.000Z",
+          "wordCount": null,
+          "title": "Manifold Trading Admits To Frontrunning Friendtech Key Launch",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ef211bd110f8bac181d31b929e3f795dc22f13b5-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ef211bd110f8bac181d31b929e3f795dc22f13b5-880x495.jpg"
+        },
+        {
           "id": "https://thedefiant.io/vaneck-to-support-ethereum-development-with-10-of-ether-etf-profits",
           "author": "Samuel Haig",
           "description": "VanEck pledges funding to the Ethereum Protocol Guild for 10 years",
