@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-02T20:13:18.657Z</id>
+    <id>urn:2023-10-02T21:11:13.299Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-02T20:13:18.657Z</updated>
+    <updated>2023-10-02T21:11:13.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Manifold Trading Admits To Frontrunning Friendtech Key Launch]]></title>
+        <title type="html"><![CDATA[Synthetix Launches Trading Competition for its Perps V3 Testnet on the Base Network]]></title>
+        <id>https://thedefiant.io/synthetix-launches-trading-competition-for-its-perps-v3-testnet-on-the-base-network</id>
+        <link href="https://thedefiant.io/synthetix-launches-trading-competition-for-its-perps-v3-testnet-on-the-base-network"/>
+        <updated>2023-10-02T20:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Cash and tokens prizes are set to be rewarded to ten winners.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UBS Launches Pilot for an Ethereum-Based Money Market Fund]]></title>
+        <id>https://thedefiant.io/ubs-launches-pilot-for-an-ethereum-based-money-market-fund</id>
+        <link href="https://thedefiant.io/ubs-launches-pilot-for-an-ethereum-based-money-market-fund"/>
+        <updated>2023-10-02T20:36:37.000Z</updated>
+        <summary type="html"><![CDATA[The pilot project is part of a broader VCC umbrella, aimed at bringing various real-world assets on-chain.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manifold Trading Admits Friendtech Key Launch Was Inside Job]]></title>
         <id>https://thedefiant.io/manifold-trading-admits-to-frontrunning-friendtech-key-launch</id>
         <link href="https://thedefiant.io/manifold-trading-admits-to-frontrunning-friendtech-key-launch"/>
         <updated>2023-10-02T20:10:53.000Z</updated>
