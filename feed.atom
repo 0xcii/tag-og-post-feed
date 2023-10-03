@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T12:25:17.429Z</id>
+    <id>urn:2023-10-03T13:16:31.345Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-03T12:25:17.429Z</updated>
+    <updated>2023-10-03T13:16:31.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH Retraces After Futures ETF Launches Fall Flat]]></title>
+        <id>https://thedefiant.io/eth-retraces-after-futures-etf-launches-fall-flat</id>
+        <link href="https://thedefiant.io/eth-retraces-after-futures-etf-launches-fall-flat"/>
+        <updated>2023-10-03T12:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Seven ETH futures ETFs drove just $1.7M worth of trading on their first day]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Grayscale Files ETH Spot ETF, Bitcoin Spot ETFs Incoming?, Leverage BTC On chain, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-grayscale-files-eth</id>
