@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-04T09:13:12.397Z</id>
+    <id>urn:2023-10-04T10:13:54.910Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-04T09:13:12.397Z</updated>
+    <updated>2023-10-04T10:13:54.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Native BTC Coming to Cosmos, Stablecoin Backed by Treasuries, Automated Uni V3 LPing, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-native-btc-coming-to</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-native-btc-coming-to"/>
+        <updated>2023-10-04T09:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Native BTC Coming to Cosmos nBTC, an IBC-compatible token issued by the Nomic chain, will launch on Osmosis. nBTC will allow users to bring their BTC into Cosmos without converting it into another cryptocurrency. TProtocol USTP RWA project TProtocol launches USTP, a stablecoin backed by US treasury yield. USTP has three types that meet the different needs of investors: rUSTP, iUSTP, and Standard USTP.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orbiter Finance Users Report Missing Transactions Amid Possible Hack]]></title>
         <id>https://thedefiant.io/breaking-orbiter-finance-users-report-missing-transactions-amid-possible-hack</id>
@@ -962,16 +972,6 @@ It's as if we've switched from a Shakespearean tragedy, where the FTX scandal is
         <summary type="html"><![CDATA[Crypto Lawyers Mull Broader Implications Of Impact Theory Case]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Raft V2 Live, Liquis Live, LPing for Airdrop, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-raft-v2-live-liquis</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-raft-v2-live-liquis"/>
-        <updated>2023-09-05T08:50:26.000Z</updated>
-        <summary type="html"><![CDATA[Raft V2 Live LST-backed stablecoin project Raft launches V2, introducing the 6% R Saving Rate and PSM. Liquis Live Liquis, a liquid governance wrapper for Bunni Pro (liquidity management for Uni V3), is live. Liquis allows users to stake range tokens to earn boosted emissions on Bunni.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
