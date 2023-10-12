@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-12T07:12:13.029Z</id>
+    <id>urn:2023-10-12T08:16:25.145Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-12T07:12:13.029Z</updated>
+    <updated>2023-10-12T08:16:25.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -729,16 +729,6 @@ Strategically located at the crossroads of international trade, Singapore's low 
         <summary type="html"><![CDATA[Determined zkSync Era Airdrop Opportunist Launched Private DEX and Token To Trade Between Wallets]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyped Banana Token Launch Wrecked By Contract Bug]]></title>
-        <id>https://thedefiant.io/hyped-banana-token-launch-wrecked-by-contract-bug</id>
-        <link href="https://thedefiant.io/hyped-banana-token-launch-wrecked-by-contract-bug"/>
-        <updated>2023-09-12T20:07:35.000Z</updated>
-        <summary type="html"><![CDATA[Telegram-based Trading Bot Plans To Relaunch BANANA Token After Miscoded Taxes Lead To Unintended Inflation]]></summary>
-        <author>
-            <name>Owen Fernau</name>
         </author>
     </entry>
 </feed>
