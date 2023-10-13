@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-13T18:16:45.204Z</id>
+    <id>urn:2023-10-13T19:09:58.154Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-13T18:16:45.204Z</updated>
+    <updated>2023-10-13T19:09:58.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -689,16 +689,6 @@ Strategically located at the crossroads of international trade, Singapore's low 
         <summary type="html"><![CDATA[opBNB Mainnet Live opBNB mainnet is now open to the public. opBNB is an EVM-compatible L2 built on the Optimism OP Stack. There are now over 150 projects building on opBnB. Comsos V12 Live Cosmos has completed the “Gaia V12” upgrade. The upgrade introduces the liquid staking module (LSM), allowing for ATOM staked with validators to convert into liquid-staked ATOM.]]></summary>
         <author>
             <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony Unveils Plans To Develop Blockchain]]></title>
-        <id>https://thedefiant.io/sony-unveils-plans-to-develop-blockchain</id>
-        <link href="https://thedefiant.io/sony-unveils-plans-to-develop-blockchain"/>
-        <updated>2023-09-14T06:21:04.000Z</updated>
-        <summary type="html"><![CDATA[Sony Network Communications and Startale Labs To Build Infrastructure Supporting Sony’s Web3 Ambitions]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
