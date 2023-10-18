@@ -1184,21 +1184,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dce256a08c784f40d5b05ee62632caf98416def6-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/friend-tech-trading-volumes-cross-220m",
-          "author": "Owen Fernau",
-          "description": "Token-gated Social Media App friend.tech Is Raking In More Fees Than Uniswap",
-          "link": "https://thedefiant.io/friend-tech-trading-volumes-cross-220m",
-          "publishedOn": "2023-09-18T20:41:52.000Z",
-          "wordCount": 2012,
-          "title": "friend.tech Trading Volumes Cross $220M",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/891160a30d12db282a63badef8a282e7c8e23f9b-873x491.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/891160a30d12db282a63badef8a282e7c8e23f9b-873x491.jpg"
         }
       ]
     },
@@ -1213,6 +1198,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
+        {
+          "id": "https://todayindefi.substack.com/p/today-in-defi-liquidation-free-lending",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Myso V2 Live Lending protocol Myso launches V2 on Ethereum. V2 enables liquidation-free borrowing, more asset supports, customizable loan terms, and leverage Fantom Foundation Wallet Exploit Fantom Foundation wallets have been drained and lost at least 7M. Core dev Andrew Cronje claims that \"All foundation funds are secured. A fantom employee however was targeted in an attack and their personal funds were stolen”.",
+          "link": "https://todayindefi.substack.com/p/today-in-defi-liquidation-free-lending",
+          "publishedOn": "2023-10-18T09:08:21.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Liquidation Free Lending, Fantom Foundation Wallet Exploit, Volatility Market on Testnet, Airdrop on L2 Testnet, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aaeb87c-a20b-4582-a38a-5955ae1d1334_1356x648.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aaeb87c-a20b-4582-a38a-5955ae1d1334_1356x648.png"
+        },
         {
           "id": "https://todayindefi.substack.com/p/today-in-defi-uniswap-interface-fee",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
