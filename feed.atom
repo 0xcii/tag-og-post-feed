@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-18T20:13:05.186Z</id>
+    <id>urn:2023-10-18T21:10:58.001Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-18T20:13:05.186Z</updated>
+    <updated>2023-10-18T21:10:58.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1009,16 +1009,6 @@ Strategically located at the crossroads of international trade, Singapore's low 
         <summary type="html"><![CDATA[Developers Anticipate Relaunch Of Ethereum’s Holesky Testnet Between Sept. 22 and Sept. 28 After Configuration Issues Are Resolved]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - DeFi Saver Savings Protection, ARB Short-term Incentive Program, LST Farming, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-defi-saver-savings</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-defi-saver-savings"/>
-        <updated>2023-09-19T09:08:33.000Z</updated>
-        <summary type="html"><![CDATA[DeFi Saver Savings Protection DeFi Saver launches savings protection automation (Supply and Payback) for Liquity and Maker users. Approved: 50M ARB Short-term Incentive Program Arbitrum governance voted to distribute up to 50M ARB of DAO-funded incentives targeting active Arbitrum protocols.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
