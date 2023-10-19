@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-19T16:16:32.337Z</id>
+    <id>urn:2023-10-19T17:11:30.550Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-19T16:16:32.337Z</updated>
+    <updated>2023-10-19T17:11:30.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -979,16 +979,6 @@ Strategically located at the crossroads of international trade, Singapore's low 
         <summary type="html"><![CDATA[Balancer Frontend Attack Balancer frontend is under a DNS attack. Users are advised to not interact with the UI while the issue is under investigation. Approved: Gro to Unwind The Gro community voted to wind down the protocol and DAO due to the leadership vacuum and existential uncertainty.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Native USDC Rolls Out Across Polkadot Ecosystem]]></title>
-        <id>https://thedefiant.io/native-usdc-rolls-out-across-polkadot-ecosystem</id>
-        <link href="https://thedefiant.io/native-usdc-rolls-out-across-polkadot-ecosystem"/>
-        <updated>2023-09-20T04:51:08.000Z</updated>
-        <summary type="html"><![CDATA[Polkadot Is Circle’s Third USDC Integration In The Past Month]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
