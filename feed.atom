@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-19T21:10:03.447Z</id>
+    <id>urn:2023-10-19T22:11:21.784Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-19T21:10:03.447Z</updated>
+    <updated>2023-10-19T22:11:21.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -969,16 +969,6 @@ Strategically located at the crossroads of international trade, Singapore's low 
         <summary type="html"><![CDATA[Holders Of 294 Nouns NFTs Choose To Redeem Treasury Stakes After Breaking Away From NounsDAO]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Balancer Frontend Attack, RWA Partnership: Centrifuge x Aave, Diversified LST Yield, and More...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-balancer-frontend-attack</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-balancer-frontend-attack"/>
-        <updated>2023-09-20T09:10:43.000Z</updated>
-        <summary type="html"><![CDATA[Balancer Frontend Attack Balancer frontend is under a DNS attack. Users are advised to not interact with the UI while the issue is under investigation. Approved: Gro to Unwind The Gro community voted to wind down the protocol and DAO due to the leadership vacuum and existential uncertainty.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
