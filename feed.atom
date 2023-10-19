@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-19T08:16:28.541Z</id>
+    <id>urn:2023-10-19T09:12:53.399Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-19T08:16:28.541Z</updated>
+    <updated>2023-10-19T09:12:53.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Trade Credit Spreads, Angle Gets Euro On-ramp, Polkadot Mass Layoffs, Volatility Trading Made Easy, and more...]]></title>
+        <id>https://todayindefi.substack.com/p/today-in-defi-trade-credit-spreads</id>
+        <link href="https://todayindefi.substack.com/p/today-in-defi-trade-credit-spreads"/>
+        <updated>2023-10-19T08:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Rysk Atomic Credit Spreads Rysk launches Atomic Credit Spreads, an options strategy involving selling and buying options contracts with 10x capital efficiency. Angle x Unblock Angle protocol partners with Unblock, enabling users to buy and sell agEUR (Euro-pegged stablecoin) with fiat using bank transfers.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Liquidation Free Lending, Fantom Foundation Wallet Exploit, Volatility Market on Testnet, Airdrop on L2 Testnet, and more...]]></title>
         <id>https://todayindefi.substack.com/p/today-in-defi-liquidation-free-lending</id>
