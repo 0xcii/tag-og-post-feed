@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/double-happiness-18c6533c22ca?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-05T23:02:52.000Z",
-          "wordCount": 14850,
+          "wordCount": 14880,
           "title": "Double Happiness",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1YNvJpMcsaz1UWUg"
         }
@@ -40,6 +40,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/uniswap-s-new-fee-heightens-token-equity-tension",
+          "author": "Owen Fernau and Camila Russo",
+          "description": "Uniswap Labs new swap fee heightened tensions between token holders and shareholders, while opening the door to competitors.",
+          "link": "https://thedefiant.io/uniswap-s-new-fee-heightens-token-equity-tension",
+          "publishedOn": "2023-10-20T20:06:33.000Z",
+          "wordCount": 3510,
+          "title": "Uniswap’s New Fee Heightens Token/Equity Tension",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3342b56c36382bcc5a30810b79117619fdb39df8-882x495.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3342b56c36382bcc5a30810b79117619fdb39df8-882x495.png"
+        },
         {
           "id": "https://thedefiant.io/yearn-overhauls-yfi-tokenomics",
           "author": "Samuel Haig",
