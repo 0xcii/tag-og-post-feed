@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-21T22:10:42.328Z</id>
+    <id>urn:2023-10-21T23:11:34.488Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-21T22:10:42.328Z</updated>
+    <updated>2023-10-21T23:11:34.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1129,28 +1129,6 @@ MetaMask, the popular non-custodial wallet owned by Consensys, has been in the s
 ...]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Linear ℓUSD Exploit , Intents Based Dex, Perp trading without liquidation!?, and more...]]></title>
-        <id>https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit</id>
-        <link href="https://todayindefi.substack.com/p/today-in-defi-linear-usd-exploit"/>
-        <updated>2023-09-22T10:37:08.000Z</updated>
-        <summary type="html"><![CDATA[Linear ℓUSD Exploit Linear Finance was exploited and the attackers drained all ℓUSD liquidity on both PancakeSwap and Ascendex, resulting in the price of ℓUSD going to zero. Linear contracts are paused and the team works with security firms to track the attackers.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Singapore: The Authoritarian State Advancing Crypto Values]]></title>
-        <id>https://thedefiant.io/meet-singapore-the-authoritarian-state-advancing-crypto-values</id>
-        <link href="https://thedefiant.io/meet-singapore-the-authoritarian-state-advancing-crypto-values"/>
-        <updated>2023-09-22T10:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Spotless. Efficient. Safe. Protected. Controlled. This is Singapore, a futuristic city-state emerging as a hotbed for blockchain and crypto innovation.
-
-Strategically located at the crossroads of international trade, Singapore's low taxes and open economy ...]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
 </feed>
