@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/double-happiness-18c6533c22ca?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-05T23:02:52.000Z",
-          "wordCount": 14863,
+          "wordCount": 14916,
           "title": "Double Happiness",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1YNvJpMcsaz1UWUg"
         }
@@ -40,6 +40,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/liquity-token-rallies-75-as-fees-spike",
+          "author": "Tarang Khaitan",
+          "description": "DeFi Traders Have Been Borrowing LUSD and Swapping For DAI To Capture Yield Differential",
+          "link": "https://thedefiant.io/liquity-token-rallies-75-as-fees-spike",
+          "publishedOn": "2023-10-23T21:09:58.000Z",
+          "wordCount": 1610,
+          "title": "Liquity Token Rallies 75% As Fees Spike",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c1c380d22623827bd6f06aaf739a0f292803ebd2-828x466.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c1c380d22623827bd6f06aaf739a0f292803ebd2-828x466.webp"
+        },
         {
           "id": "https://thedefiant.io/uniswap-visa-card-proposal-is-facing-opposition-among-token-holders",
           "author": "Camila Russo",
