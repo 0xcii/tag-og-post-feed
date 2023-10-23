@@ -1344,6 +1344,22 @@
       "siteUrl": "https://todayindefi.substack.com",
       "articles": [
         {
+          "id": "https://todayindefi.substack.com/p/last-week-in-defi-yearn-veyfi-live",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Oct 16th",
+          "link": "https://todayindefi.substack.com/p/last-week-in-defi-yearn-veyfi-live",
+          "publishedOn": "2023-10-23T10:24:26.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Yearn veYFI Live, Notional v3 Public Soon, 1inch Considers Ladder Buying ETH, AAVE AURA Token Swap, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb89a49f4-117c-49f1-9aa9-7e492c4b9944_701x347.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb89a49f4-117c-49f1-9aa9-7e492c4b9944_701x347.png"
+        },
+        {
           "id": "https://todayindefi.substack.com/p/today-in-defi-token-swaps-on-aave",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Aave Token Swap Aave now allows traders to swap tokens directly on the website. IndexCoop x eToro eToro partners with IndexCoop to launch Web3 Smart Portfolio. The portfolio – ‘Index-Coop’ – will cover four key sectors: Bitcoin, Ethereum, DeFi, and the Metaverse.",
