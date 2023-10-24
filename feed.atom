@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-24T19:10:02.170Z</id>
+    <id>urn:2023-10-24T20:13:06.007Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-24T19:10:02.170Z</updated>
+    <updated>2023-10-24T20:13:06.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[dYdX Exchange Open-Sources Code in Anticipation of Transition to Cosmos App Chain]]></title>
+        <id>https://thedefiant.io/dydx-exchange-open-sources-code-in-anticipation-of-transition-to-cosmos-ecosystem</id>
+        <link href="https://thedefiant.io/dydx-exchange-open-sources-code-in-anticipation-of-transition-to-cosmos-ecosystem"/>
+        <updated>2023-10-24T19:58:52.000Z</updated>
+        <summary type="html"><![CDATA[dYdX is transitioning from a Layer 2 network on Ethereum to becoming a standalone blockchain in the Cosmos ecosystem.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - BTC ETF progress, Sushi Cross-chain Swaps Live, DCA with Cowswap, IDO Premining, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-btc-etf-progress-sushi</id>
