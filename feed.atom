@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-24T22:11:30.700Z</id>
+    <id>urn:2023-10-24T23:12:12.713Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-24T22:11:30.700Z</updated>
+    <updated>2023-10-24T23:12:12.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Periphery]]></title>
+        <id>https://medium.com/p/b72270639a70</id>
+        <link href="https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2"/>
+        <updated>2023-10-24T23:02:47.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Sector Heats Up Amid Broad Market Rally]]></title>
         <id>https://thedefiant.io/defi-sector-heats-up-amid-broad-market-rally</id>
@@ -1185,18 +1195,6 @@ In our conversation we’ll talk about how RWAs bridge the gap between tr...]]><
         <summary type="html"><![CDATA[Eligible Users Had Six Months To Claim $1.7B ARB Airdrop From Leading Ethereum Layer 2 Network]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Dive into MetaMask Snaps with Erik Marks]]></title>
-        <id>https://thedefiant.io/deep-dive-into-metamask-snaps-with-erik-marks</id>
-        <link href="https://thedefiant.io/deep-dive-into-metamask-snaps-with-erik-marks"/>
-        <updated>2023-09-25T10:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Erik Marks is the director of product for permissionless innovation at MetaMask.
-
-MetaMask, the popular non-custodial wallet owned by Consensys, has been in the spotlight following the launch of Snaps on open beta. You can think of Snaps as plugins that al...]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
