@@ -51,6 +51,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/bloomberg-sbf-documentary-just-dropped-and-it-could-have-been-so-good",
+          "author": "Camila Russo",
+          "description": "Bloomberg's detailed and well-made SBF documentary wasn't hard enough on the disgraced FTX founder and had some very questionable interviewees.",
+          "link": "https://thedefiant.io/bloomberg-sbf-documentary-just-dropped-and-it-could-have-been-so-good",
+          "publishedOn": "2023-10-26T17:10:28.000Z",
+          "wordCount": null,
+          "title": "Bloomberg SBF Documentary Just Dropped and It Could Have Been So Good",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/arbitrum-s-orbit-layer-3-solution-is-ready-for-mainnet-deployment",
           "author": "yyctrader",
           "description": "Developers Can Now Create Bespoke Blockchains Permissionlessly Leveraging Arbitrum’s Infrastructure and Tooling",
@@ -1414,21 +1424,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/990db55eda09447a0d67dd57b4421c317b131ecd-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/vaneck-to-support-ethereum-development-with-10-of-ether-etf-profits",
-          "author": "Samuel Haig",
-          "description": "VanEck pledges funding to the Ethereum Protocol Guild for 10 years",
-          "link": "https://thedefiant.io/vaneck-to-support-ethereum-development-with-10-of-ether-etf-profits",
-          "publishedOn": "2023-09-30T07:51:09.000Z",
-          "wordCount": 1744,
-          "title": "VanEck To Support Ethereum Development With 10% of Ether ETF Profits",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7964798fb0cdeb98b8520cda172811c34a2eba61-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7964798fb0cdeb98b8520cda172811c34a2eba61-880x495.jpg"
         }
       ]
     },
