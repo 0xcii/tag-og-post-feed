@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-26T20:12:54.926Z</id>
+    <id>urn:2023-10-26T21:11:12.732Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-26T20:12:54.926Z</updated>
+    <updated>2023-10-26T21:11:12.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1219,16 +1219,6 @@ In our conversation we’ll talk about how RWAs bridge the gap between tr...]]><
         <link href="https://www.todayindefi.com/p/today-in-defi-eth-futures-potential"/>
         <updated>2023-09-28T08:52:19.000Z</updated>
         <summary type="html"><![CDATA[ETH Futures Potential Launch, Spot Delayed According to ETF analyst Eric Balchunas, the SEC asked ETH futures ETF filers to update their docs for applications by Friday, so ETFs may go live next week. Meanwhile, the SEC has delayed reaching a decision to late December on]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - HTX 8M Hack, Dopex CLAMM Pubic Testing, Double Rewards LPing, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-htx-8m-hack-dopex-clamm</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-htx-8m-hack-dopex-clamm"/>
-        <updated>2023-09-27T08:53:17.000Z</updated>
-        <summary type="html"><![CDATA[HTX $8M Hack HTX was hacked and lost 5,000 ETH (~$8M). The loss has been covered and issues have been resolved according to HTX advisor Justin Sun. Dopex CLAMM Public Testing Deopx launches public testing for CLAMM. CLAMM is part of the Dopex V2 upgrade, using v3 AMM positions to help LPs earn additional premiums and give option buyers more flexibility.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
