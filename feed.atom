@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-26T15:12:39.583Z</id>
+    <id>urn:2023-10-26T16:15:55.614Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-26T15:12:39.583Z</updated>
+    <updated>2023-10-26T16:15:55.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum’s Orbit Is Ready For Mainnet Deployment]]></title>
+        <id>https://thedefiant.io/arbitrum-s-orbit-layer-3-solution-is-ready-for-mainnet-deployment</id>
+        <link href="https://thedefiant.io/arbitrum-s-orbit-layer-3-solution-is-ready-for-mainnet-deployment"/>
+        <updated>2023-10-26T16:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Developers Can Now Create Bespoke Blockchains Permissionlessly Leveraging Arbitrum’s Infrastructure and Tooling]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Polygon POL Live, Kava One-Click Bridging, Swell Rewards stETH Deposits, Wallet Airdrop, Lower Risk Options, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-polygon-pol-live-kava</id>
@@ -303,6 +313,16 @@
         <summary type="html"><![CDATA[Users Of Popular DEXs and Centralized Exchanges Can Earn Points For The Next Three Days Based On Their Past Trading History]]></summary>
         <author>
             <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Risk Of Real World Assets (RWAs)]]></title>
+        <id>https://thedefiant.io/the-risk-of-real-world-assets-rwas</id>
+        <link href="https://thedefiant.io/the-risk-of-real-world-assets-rwas"/>
+        <updated>2023-10-20T13:32:00.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -1191,26 +1211,6 @@ In our conversation we’ll talk about how RWAs bridge the gap between tr...]]><
         <summary type="html"><![CDATA[Recap: Week of Sep. 25th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VanEck To Support Ethereum Development With 10% of Ether ETF Profits]]></title>
-        <id>https://thedefiant.io/vaneck-to-support-ethereum-development-with-10-of-ether-etf-profits</id>
-        <link href="https://thedefiant.io/vaneck-to-support-ethereum-development-with-10-of-ether-etf-profits"/>
-        <updated>2023-09-30T07:51:09.000Z</updated>
-        <summary type="html"><![CDATA[VanEck pledges funding to the Ethereum Protocol Guild for 10 years]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Poised For Multi-Chain Governance Overhaul]]></title>
-        <id>https://thedefiant.io/aave-poised-for-multi-chain-governance-overhaul</id>
-        <link href="https://thedefiant.io/aave-poised-for-multi-chain-governance-overhaul"/>
-        <updated>2023-09-30T05:55:38.000Z</updated>
-        <summary type="html"><![CDATA[Aave DAO will subsidize user voting costs following governance v3 upgrade]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
