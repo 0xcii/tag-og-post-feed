@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-26T17:11:05.633Z</id>
+    <id>urn:2023-10-26T18:15:38.064Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-26T17:11:05.633Z</updated>
+    <updated>2023-10-26T18:15:38.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Arbitrum’s Orbit Layer 3 Solution Is Ready For Mainnet Deployment]]></title>
+        <title type="html"><![CDATA[Arbitrum’s Orbit Is Ready For Mainnet Deployment]]></title>
         <id>https://thedefiant.io/arbitrum-s-orbit-layer-3-solution-is-ready-for-mainnet-deployment</id>
         <link href="https://thedefiant.io/arbitrum-s-orbit-layer-3-solution-is-ready-for-mainnet-deployment"/>
-        <updated>2023-10-26T15:54:29.000Z</updated>
+        <updated>2023-10-26T16:00:29.000Z</updated>
         <summary type="html"><![CDATA[Developers Can Now Create Bespoke Blockchains Permissionlessly Leveraging Arbitrum’s Infrastructure and Tooling]]></summary>
         <author>
             <name>yyctrader</name>
@@ -31,16 +31,6 @@
         <link href="https://thedefiant.io/fantom-launches-testnets-for-sonic-upgrade-estimates-6-700-throughput-gain"/>
         <updated>2023-10-26T06:50:00.000Z</updated>
         <summary type="html"><![CDATA[Fantom will feed a closed testnet 175M transactions daily to showcase maximum capacity]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No, Hamas Isn’t Raising Millions Through Crypto]]></title>
-        <id>https://thedefiant.io/no-hamas-isn-t-raising-millions-through-crypto</id>
-        <link href="https://thedefiant.io/no-hamas-isn-t-raising-millions-through-crypto"/>
-        <updated>2023-10-26T02:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Leading blockchain forensics firms dispel myths surrounding role of crypto in terrorist financing]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -1211,6 +1201,16 @@ In our conversation we’ll talk about how RWAs bridge the gap between tr...]]><
         <summary type="html"><![CDATA[Recap: Week of Sep. 25th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VanEck To Support Ethereum Development With 10% of Ether ETF Profits]]></title>
+        <id>https://thedefiant.io/vaneck-to-support-ethereum-development-with-10-of-ether-etf-profits</id>
+        <link href="https://thedefiant.io/vaneck-to-support-ethereum-development-with-10-of-ether-etf-profits"/>
+        <updated>2023-09-30T07:51:09.000Z</updated>
+        <summary type="html"><![CDATA[VanEck pledges funding to the Ethereum Protocol Guild for 10 years]]></summary>
+        <author>
+            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
