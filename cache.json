@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/double-happiness-18c6533c22ca?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-05T23:02:52.000Z",
-          "wordCount": 14884,
+          "wordCount": 14786,
           "title": "Double Happiness",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1YNvJpMcsaz1UWUg"
         }
@@ -50,6 +50,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/polygon-launches-matic-to-pol-token-migrations",
+          "author": "Samuel Haig",
+          "description": "POL will underpin Polygon’s forthcoming revamped staking layer",
+          "link": "https://thedefiant.io/polygon-launches-matic-to-pol-token-migrations",
+          "publishedOn": "2023-10-27T07:46:00.000Z",
+          "wordCount": 1592,
+          "title": "Polygon Launches MATIC To POL Token Migrations",
+          "imageUrl": null
+        },
         {
           "id": "https://thedefiant.io/polygon-launches-matic-to-pol-token-migrations",
           "author": "Samuel Haig",
@@ -1424,16 +1434,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ac96069f8a902c162453d2eeb91939bcd43d43e7-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/michael-lewis-s-new-book-on-sam-bankman-fried-faces-waves-of-criticism",
-          "author": "The Defiant Team",
-          "description": "Lewis, critics argue, fails to present an accurate account of Bankman-Fried and his business.",
-          "link": "https://thedefiant.io/michael-lewis-s-new-book-on-sam-bankman-fried-faces-waves-of-criticism",
-          "publishedOn": "2023-10-02T22:00:20.000Z",
-          "wordCount": 1840,
-          "title": "Michael Lewis's New Book on Sam Bankman-Fried Faces Waves of Criticism",
-          "imageUrl": null
         }
       ]
     },
