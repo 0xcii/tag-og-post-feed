@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-30T09:12:56.212Z</id>
+    <id>urn:2023-10-30T10:13:41.802Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-30T09:12:56.212Z</updated>
+    <updated>2023-10-30T10:13:41.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Arbitrum Orbit Mainnet Ready, IndexCoop cdETI Live, Astrid Exploit, Poolshark Beta-2 Live, and More...]]></title>
+        <id>https://www.todayindefi.com/p/last-week-in-defi-arbitrum-orbit</id>
+        <link href="https://www.todayindefi.com/p/last-week-in-defi-arbitrum-orbit"/>
+        <updated>2023-10-30T09:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Oct 23th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Most Read Stories This Week: Arthur Hayes, Bitcoin ETF, New POL Token]]></title>
         <id>https://thedefiant.io/our-most-read-stories-this-week-arthur-hayes-bitcoin-etf-new-pol-token</id>
