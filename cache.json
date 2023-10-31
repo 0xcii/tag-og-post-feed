@@ -51,6 +51,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/observers-suspect-market-manipulation-as-sushi-rallies-20",
+          "author": "yyctrader",
+          "description": "Trader Making Large DEX Purchases Could Have Leveraged Long SUSHI Position On dYdX",
+          "link": "https://thedefiant.io/observers-suspect-market-manipulation-as-sushi-rallies-20",
+          "publishedOn": "2023-10-31T21:06:33.000Z",
+          "wordCount": 1346,
+          "title": "Observers Suspect Market Manipulation As SUSHI Rallies 20%",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e6dea2f9ef5e24ecf9b1af9a42763072816238a5-828x466.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e6dea2f9ef5e24ecf9b1af9a42763072816238a5-828x466.webp"
+        },
+        {
           "id": "https://thedefiant.io/tron-quietly-becomes-the-leading-blockchain-for-stablecoin-transfers",
           "author": "Owen Fernau",
           "description": "Emerging markets are pushing Tron to become the top blockchain for USDT and other fiat-backed stablecoin transfers.",
@@ -1429,21 +1444,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2bb201b581340846eec948fccd72fede6c094540-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/the-defiant-ultimate-friendtech-guide",
-          "author": "yyctrader",
-          "description": "Tips and Resources To Maximize Your Potential Airdrop and Pitfalls To Avoid",
-          "link": "https://thedefiant.io/the-defiant-ultimate-friendtech-guide",
-          "publishedOn": "2023-10-09T05:17:11.000Z",
-          "wordCount": 4656,
-          "title": "The Defiant's Ultimate Friendtech Guide",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2ccbff9b31dbb66281aa11fad08322d3bebbd15c-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2ccbff9b31dbb66281aa11fad08322d3bebbd15c-880x495.jpg"
         }
       ]
     },
@@ -1745,22 +1745,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68eaf432-ac14-4b37-9039-2128099f5112_1728x850.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/last-week-in-defi-valkyrie-eth-futures",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Recap: Week of Sep. 25th",
-          "link": "https://www.todayindefi.com/p/last-week-in-defi-valkyrie-eth-futures",
-          "publishedOn": "2023-10-02T09:49:38.000Z",
-          "wordCount": null,
-          "title": "Last Week in DeFi - Valkyrie ETH Futures ETF Launching, SEC Delays Bitcoin Spot ETFs, Aori Order Beta Live, Gains Tokenomics Upgrade, and More...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc82637ae-0a89-46db-80e3-c3d43686d7f5_1200x675.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc82637ae-0a89-46db-80e3-c3d43686d7f5_1200x675.webp"
         }
       ]
     }
