@@ -51,6 +51,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/btc-bulls-on-parade-amid-fifth-anniversary-of-bitcoin-whitepaper",
+          "author": "Samuel Haig",
+          "description": "Bitcoin celebrates year-to-date price and 30-month dominance highs",
+          "link": "https://thedefiant.io/btc-bulls-on-parade-amid-fifth-anniversary-of-bitcoin-whitepaper",
+          "publishedOn": "2023-10-31T10:10:00.000Z",
+          "wordCount": null,
+          "title": "BTC Bulls On Parade Amid Fifth Anniversary of Bitcoin Whitepaper",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/03a6e44f610dba243aad2e1f575886e7262fe9bd-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/03a6e44f610dba243aad2e1f575886e7262fe9bd-880x495.jpg"
+        },
+        {
           "id": "https://thedefiant.io/hacker-ransacks-usd600-000-from-popular-telegram-trading-bot-unibot",
           "author": "Samuel Haig",
           "description": "Hacker steals assets from wallets actively approving Unibot's smart contract.",
@@ -1424,21 +1439,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a50ab474ed856d1605c7bd41d82f0ffd70bd72a2-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/stars-arena-boosts-avax",
-          "author": "Camila Russo",
-          "description": "Transactions on Avalanche and AVAX price spike after the launch of the new SocialFi app.",
-          "link": "https://thedefiant.io/stars-arena-boosts-avax",
-          "publishedOn": "2023-10-05T14:50:32.000Z",
-          "wordCount": 1904,
-          "title": "Friend.tech Rival Stars Arena Boosts AVAX Price Amid Calls That They \"Will Prevail\"",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a50ab474ed856d1605c7bd41d82f0ffd70bd72a2-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a50ab474ed856d1605c7bd41d82f0ffd70bd72a2-880x495.jpg"
         }
       ]
     },
@@ -1453,6 +1453,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
+        {
+          "id": "https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Unibot Exploited for 450 ETH Unibot experienced a token approval exploit and the team has halted the protocol. The exploiter transfers meme coins from users and exchanges them for ETH, so far the exploit size is ~450 ETH. Avalanche Snowtrace Discontinuing",
+          "link": "https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for",
+          "publishedOn": "2023-10-31T09:20:59.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Unibot Exploited for 450 ETH, Proposal to Activate ARB Staking, Perennial Trigger Orders, On-chain Dual Investments, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb1f94f4-67ef-4ba7-87de-1a0635004434_680x337.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb1f94f4-67ef-4ba7-87de-1a0635004434_680x337.jpeg"
+        },
         {
           "id": "https://www.todayindefi.com/p/last-week-in-defi-arbitrum-orbit",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
