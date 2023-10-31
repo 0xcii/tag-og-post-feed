@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14800,
+          "wordCount": 14799,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         },
@@ -50,6 +50,26 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/modular-blockchain-celestia-mainnet-beta-goes-live",
+          "author": "Camila Russo",
+          "description": "Celestia successfully deployed its mainnet beta on Tuesday, according to a post on its website. \n\nThe Celestia mainnet launch introduces data availability sampling (DAS), which is an untested technology which may lead to instability in the initial phases, ...",
+          "link": "https://thedefiant.io/modular-blockchain-celestia-mainnet-beta-goes-live",
+          "publishedOn": "2023-10-31T14:41:01.000Z",
+          "wordCount": null,
+          "title": "Modular Blockchain Celestia Mainnet Beta Goes Live",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/circle-users-report-the-usdc-issuer-is-shutting-down-consumer-accounts",
+          "author": "Camila Russo",
+          "description": "It appears Circle intends to discontinue wiring and minting functionalities and close consumer accounts by Nov. 30.",
+          "link": "https://thedefiant.io/circle-users-report-the-usdc-issuer-is-shutting-down-consumer-accounts",
+          "publishedOn": "2023-10-31T14:24:55.000Z",
+          "wordCount": 1636,
+          "title": "Circle Users Report the USDC Issuer is Shutting Down Consumer Accounts",
+          "imageUrl": null
+        },
         {
           "id": "https://thedefiant.io/top-avalanche-block-explorer-snowtrace-is-abandoning-etherscan",
           "author": "Samuel Haig",
@@ -1414,31 +1434,6 @@
           "wordCount": 1853,
           "title": "THORSwap Suspends Trading After Illicit Fund Flows Identified",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/uniswap-v3-deployed-on-zksync-era-via-oku",
-          "author": "The Defiant Team",
-          "description": "Uniswap Foundation-backed front-end partners with ZkSync Era",
-          "link": "https://thedefiant.io/uniswap-v3-deployed-on-zksync-era-via-oku",
-          "publishedOn": "2023-10-06T09:16:00.000Z",
-          "wordCount": 1762,
-          "title": "Uniswap v3 Deployed on ZkSync Era Via Oku",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/lido-s-steth-token-accounts-for-7-of-circulating-ether",
-          "author": "Samuel Haig",
-          "description": "Dominant Liquid Staking Protocol Is Accruing 0.5% of ETH Staking Rewards",
-          "link": "https://thedefiant.io/lido-s-steth-token-accounts-for-7-of-circulating-ether",
-          "publishedOn": "2023-10-05T17:35:18.000Z",
-          "wordCount": 1962,
-          "title": "Lido’s stETH Token Accounts For 7% Of Circulating Ether",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/78594c6fe1bea48f52754bb830dfbe8f6f150e1a-384x216.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/78594c6fe1bea48f52754bb830dfbe8f6f150e1a-384x216.webp"
         }
       ]
     },
