@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-01T08:16:00.802Z</id>
+    <id>urn:2023-11-01T09:12:30.957Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-01T08:16:00.802Z</updated>
+    <updated>2023-11-01T09:12:30.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - PancakeSwap Position Manager, Nomic BTC Live on Osmosis & Kujira, WalletConnect Bans Ukraine and Russia, Extra Yield on Staked ETH, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-pancakeswap-position</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-pancakeswap-position"/>
+        <updated>2023-11-01T08:47:30.000Z</updated>
+        <summary type="html"><![CDATA[PancakeSwap Position Manager PancakeSwap launches Position Manager on V3, enabling automated LP, gas-free auto-compounding, and protocol & strategy integrations. Nomic BTC Live on Osmosis & Kujira Bitcoin bridge L1 Nomic launches nBTC on Osmosis and Kujira.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Updated U.S. Sanctions Prompts WalletConnect To Block Russian Users]]></title>
         <id>https://thedefiant.io/updated-u-s-sanctions-prompts-walletconnect-to-block-russian-users</id>
