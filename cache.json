@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14684,
+          "wordCount": 14707,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/double-happiness-18c6533c22ca?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-05T23:02:52.000Z",
-          "wordCount": 14849,
+          "wordCount": 14861,
           "title": "Double Happiness",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1YNvJpMcsaz1UWUg"
         }
@@ -50,6 +50,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/updated-u-s-sanctions-prompts-walletconnect-to-block-russian-users",
+          "author": "Samuel Haig",
+          "description": "Popular Ethereum infrastructure provider blocks Russian IP addresses",
+          "link": "https://thedefiant.io/updated-u-s-sanctions-prompts-walletconnect-to-block-russian-users",
+          "publishedOn": "2023-11-01T07:54:00.000Z",
+          "wordCount": 1880,
+          "title": "Updated U.S. Sanctions Prompts WalletConnect To Block Russian Users",
+          "imageUrl": null
+        },
         {
           "id": "https://thedefiant.io/observers-suspect-market-manipulation-as-sushi-rallies-20",
           "author": "yyctrader",
@@ -1429,21 +1439,6 @@
           "wordCount": 1646,
           "title": "Deribit To Launch SOL, XRP, and MATIC Options Next Year",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/layer-2s-and-appchains-will-converge-aurora-labs-ceo-alex-shevchenko",
-          "author": "Tegan Kline",
-          "description": "Alex Shevchenko is the CEO of Aurora Labs, which is a Layer 2 scaling solution built on Near. Alex has a doctoral degree in math and physics. Today we get into the details behind Aurora Labs, the difference between Aurora Cloud and the Aurora EVM, how they...",
-          "link": "https://thedefiant.io/layer-2s-and-appchains-will-converge-aurora-labs-ceo-alex-shevchenko",
-          "publishedOn": "2023-10-09T09:08:00.000Z",
-          "wordCount": 1339,
-          "title": "\"Layer 2s and AppChains Will Converge\": Aurora Labs CEO Alex Shevchenko",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2bb201b581340846eec948fccd72fede6c094540-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2bb201b581340846eec948fccd72fede6c094540-880x495.jpg"
         }
       ]
     },
