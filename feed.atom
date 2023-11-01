@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-01T20:13:20.321Z</id>
+    <id>urn:2023-11-01T21:10:59.508Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-01T20:13:20.321Z</updated>
+    <updated>2023-11-01T21:10:59.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana's SOL Token Soars to 14-Month High Amid Breakpoint Conference]]></title>
+        <id>https://thedefiant.io/solana-s-sol-token-soars-to-14-month-high-amid-breakpoint-conference</id>
+        <link href="https://thedefiant.io/solana-s-sol-token-soars-to-14-month-high-amid-breakpoint-conference"/>
+        <updated>2023-11-01T20:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Solana's native token is soaring to the highest since August 2022 as a flurry of announcements have dropped during the Layer 1 blockchain's largest conference.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sushi CEO Reviews First Year In Office]]></title>
         <id>https://thedefiant.io/sushi-ceo-reviews-first-year-in-office</id>
@@ -13,16 +23,6 @@
         <summary type="html"><![CDATA[SUSHI Is Up Nearly 50% Today As Concerns Linger Over Market Manipulation]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana's SOL Token Soars to 14-Month High Amid Breakpoint Conference]]></title>
-        <id>https://thedefiant.io/solana-s-sol-token-soars-to-14-month-high-amid-breakpoint-conference</id>
-        <link href="https://thedefiant.io/solana-s-sol-token-soars-to-14-month-high-amid-breakpoint-conference"/>
-        <updated>2023-11-01T19:36:52.000Z</updated>
-        <summary type="html"><![CDATA[Solana's native token is soaring to an 14-month high as a flurry of announcements have dropped during Breakpoint, the Layer 1 blockchain's largest conference.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
