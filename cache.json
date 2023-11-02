@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14707,
+          "wordCount": 14749,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/double-happiness-18c6533c22ca?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-05T23:02:52.000Z",
-          "wordCount": 14797,
+          "wordCount": 14861,
           "title": "Double Happiness",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1YNvJpMcsaz1UWUg"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/gbtc-discount-narrows-to-23-month-low-on-etf-conversion-hopes",
+          "author": "Owen Fernau",
+          "description": "Grayscale's GBTC Has Tripled This Year, Outperforming Underlying Bitcoin",
+          "link": "https://thedefiant.io/gbtc-discount-narrows-to-23-month-low-on-etf-conversion-hopes",
+          "publishedOn": "2023-11-02T06:17:10.000Z",
+          "wordCount": 2231,
+          "title": "GBTC Discount Narrows To 23-Month Low On ETF Conversion Hopes",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/15250518007d9e9746b35994d7a289d60b2d85fb-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/15250518007d9e9746b35994d7a289d60b2d85fb-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/solana-s-sol-token-soars-to-14-month-high-amid-breakpoint-conference",
           "author": "Camila Russo",
@@ -171,7 +186,7 @@
           "description": "Liquidity Committee To Actively Manage GHO Liquidity Using Maverick Protocol",
           "link": "https://thedefiant.io/aave-floats-new-plan-to-restore-gho-peg",
           "publishedOn": "2023-10-31T19:07:05.000Z",
-          "wordCount": 1822,
+          "wordCount": 1860,
           "title": "Aave Floats New Plan To Restore GHO Peg",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/101e5632032cbf95ecb62b98f7bb617735f64544-299x168.jpg",
@@ -1439,16 +1454,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7df4c98eaa6cb6f0a37118b86aa3c6db8b0d98ed-384x216.webp"
-        },
-        {
-          "id": "https://thedefiant.io/jpmorgan-executes-first-blockchain-settlement-in-blackrock-barclays-trade",
-          "author": "Camila Russo",
-          "description": "JPMorgan used its own permissioned blockchain to enable BlackRock to convert shares from one of its money market funds into digital tokens.",
-          "link": "https://thedefiant.io/jpmorgan-executes-first-blockchain-settlement-in-blackrock-barclays-trade",
-          "publishedOn": "2023-10-11T17:45:19.000Z",
-          "wordCount": 1725,
-          "title": "JPMorgan Executes First Blockchain Collateral Settlement in BlackRock-Barclays Trade",
-          "imageUrl": null
         }
       ]
     },
