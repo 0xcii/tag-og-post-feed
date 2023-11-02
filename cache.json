@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/double-happiness-18c6533c22ca?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-05T23:02:52.000Z",
-          "wordCount": 14861,
+          "wordCount": 14797,
           "title": "Double Happiness",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1YNvJpMcsaz1UWUg"
         }
@@ -1468,6 +1468,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
+        {
+          "id": "https://www.todayindefi.com/p/today-in-defi-onyx-exploited-for",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Onyx Exploited for $2.1M Lending protocol Onyx was exploited for ~$2.1M due to the same rounding issue behind the 7M Hundred Finance hack. SEC Charges SafeMoon The SEC charges two SafeMoon executives with fraud and unregistered offering of crypto securities. The arrested executives “withdrew crypto assets worth more than $200 million from the project, and misappropriated investor funds for personal use.”",
+          "link": "https://www.todayindefi.com/p/today-in-defi-onyx-exploited-for",
+          "publishedOn": "2023-11-02T09:09:09.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Onyx Exploited For 2.1M, SEC Charges SafeMoon, Hyperlane Supports Celestia Bridging, On-chain DCA, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F973f7c33-b8cd-4048-a183-6113b2cadb97_1332x478.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F973f7c33-b8cd-4048-a183-6113b2cadb97_1332x478.png"
+        },
         {
           "id": "https://www.todayindefi.com/p/today-in-defi-pancakeswap-position",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
