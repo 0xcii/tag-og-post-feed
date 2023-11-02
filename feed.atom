@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-02T21:11:11.485Z</id>
+    <id>urn:2023-11-02T22:10:22.113Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-02T21:11:11.485Z</updated>
+    <updated>2023-11-02T22:10:22.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Aragon To Return $115M Of Treasury Assets To ANT Holders]]></title>
+        <title type="html"><![CDATA[Aragon Association Dissolves and Returns $115M to ANT Holders]]></title>
         <id>https://thedefiant.io/aragon-to-return-usd115m-of-treasury-assets-to-ant-holders</id>
         <link href="https://thedefiant.io/aragon-to-return-usd115m-of-treasury-assets-to-ant-holders"/>
         <updated>2023-11-02T19:24:17.000Z</updated>
@@ -1219,16 +1219,6 @@ In our conversation we’ll talk about how RWAs bridge the gap between tr...]]><
         <link href="https://www.todayindefi.com/p/today-in-defi-mev-protocol-live-token"/>
         <updated>2023-10-05T09:34:58.000Z</updated>
         <summary type="html"><![CDATA[MEV Protocol Live Manifold launches MEV Protocol on Ethereum. The protocol's MEV auction system permits multiple winners per auction slot. MEV protocol will integrate mevETH, an LST launched by Manifold. Armada Live on Solana Token liquidity management protocol Armada is live on Solana.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Native BTC Coming to Cosmos, Stablecoin Backed by Treasuries, Automated Uni V3 LPing, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-native-btc-coming-to</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-native-btc-coming-to"/>
-        <updated>2023-10-04T09:47:45.000Z</updated>
-        <summary type="html"><![CDATA[Native BTC Coming to Cosmos nBTC, an IBC-compatible token issued by the Nomic chain, will launch on Osmosis. nBTC will allow users to bring their BTC into Cosmos without converting it into another cryptocurrency. TProtocol USTP RWA project TProtocol launches USTP, a stablecoin backed by US treasury yield. USTP has three types that meet the different needs of investors: rUSTP, iUSTP, and Standard USTP.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
