@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-02T16:16:54.012Z</id>
+    <id>urn:2023-11-02T17:11:54.101Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-02T16:16:54.012Z</updated>
+    <updated>2023-11-02T17:11:54.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,16 +13,6 @@
         <summary type="html"><![CDATA[Immutable zkEVM announces flurry of GameFi titles ahead of mainnet launch]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal Subpoenaed by SEC Over Stablecoin: Latest News & Hot Takes]]></title>
-        <id>https://thedefiant.io/paypal-subpoenaed-by-sec-news-and-hot-takes-roundup</id>
-        <link href="https://thedefiant.io/paypal-subpoenaed-by-sec-news-and-hot-takes-roundup"/>
-        <updated>2023-11-02T15:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Top news and hot takes on the SEC subpoena over PayPal's PYUSD stablecoin.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
@@ -1181,6 +1171,16 @@ In our conversation we’ll talk about how RWAs bridge the gap between tr...]]><
         <summary type="html"><![CDATA[Frax sFRAX Live Frax Finance launches sFRAX. Users are able to stake their FRAX and earn Tbill yield on it, similar to $DAI's DSR. Yield is at ~10%. Tangible USDR Depegs Tangible’s liquid $DAI from the $USDR treasury was redeemed and caused an accelerated drawdown in the market cap, leading to the USDR de-pegging.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People Are Leaving Ethereum]]></title>
+        <id>https://thedefiant.io/people-are-leaving-ethereum</id>
+        <link href="https://thedefiant.io/people-are-leaving-ethereum"/>
+        <updated>2023-10-12T09:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Did ultrasound money turn into … infra-sound money? ETH has flipped back to inflationary for the first time since the Merge. Layer 2s have taken over transaction volumes. Users are abandoning the once prosperous land of Ethereum Layer 1 to seek cheaper, fa...]]></summary>
+        <author>
+            <name>Alp Gasimov</name>
         </author>
     </entry>
     <entry>
