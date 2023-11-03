@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-03T09:12:25.562Z</id>
+    <id>urn:2023-11-03T10:13:36.637Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-03T09:12:25.562Z</updated>
+    <updated>2023-11-03T10:13:36.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Aragon Association Dissolution, WOOFi Pro Live, Jupiter Launches Token, Fractional NFT Farming, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-aragon-association</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-aragon-association"/>
+        <updated>2023-11-03T09:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Aragon Association Dissolution The Aragon Association will dissolve itself, allow holders to redeem their ANT for ETH, and the Aragon project will focus on product development. WOOFi Pro Live Woofi launches WOOFi Pro, an orderbook-based perp dex with omnichain deposits, CEX-like UX, up to 20x leverage, and revenue share.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sam Bankman-Fried Found Guilty On All Counts: Latest News & Hot Takes]]></title>
         <id>https://thedefiant.io/sam-bankman-fried-found-guilty-on-all-counts-latest-news-and-hot-takes</id>

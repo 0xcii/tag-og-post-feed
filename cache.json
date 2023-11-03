@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14749,
+          "wordCount": 14668,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/double-happiness-18c6533c22ca?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-05T23:02:52.000Z",
-          "wordCount": 14769,
+          "wordCount": 14797,
           "title": "Double Happiness",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1YNvJpMcsaz1UWUg"
         }
@@ -1478,6 +1478,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
+        {
+          "id": "https://www.todayindefi.com/p/today-in-defi-aragon-association",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Aragon Association Dissolution The Aragon Association will dissolve itself, allow holders to redeem their ANT for ETH, and the Aragon project will focus on product development. WOOFi Pro Live Woofi launches WOOFi Pro, an orderbook-based perp dex with omnichain deposits, CEX-like UX, up to 20x leverage, and revenue share.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-aragon-association",
+          "publishedOn": "2023-11-03T09:26:09.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Aragon Association Dissolution, WOOFi Pro Live, Jupiter Launches Token, Fractional NFT Farming, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e2a45c-014c-43aa-a159-7ff51a4e8584_900x540.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7e2a45c-014c-43aa-a159-7ff51a4e8584_900x540.jpeg"
+        },
         {
           "id": "https://www.todayindefi.com/p/today-in-defi-onyx-exploited-for",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
