@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/double-happiness-18c6533c22ca?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-05T23:02:52.000Z",
-          "wordCount": 14769,
+          "wordCount": 14797,
           "title": "Double Happiness",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1YNvJpMcsaz1UWUg"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/sam-bankman-fried-found-guilty-on-all-counts-latest-news-and-hot-takes",
+          "author": "Samuel Haig",
+          "description": "Jury took just four hours of deliberation before convicting the former FTX CEO",
+          "link": "https://thedefiant.io/sam-bankman-fried-found-guilty-on-all-counts-latest-news-and-hot-takes",
+          "publishedOn": "2023-11-03T04:32:00.000Z",
+          "wordCount": 2382,
+          "title": "Sam Bankman-Fried Found Guilty On All Counts: Latest News & Hot Takes",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f9fd82944cc6a16faa1082eee29cd2ea6e149fdd-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f9fd82944cc6a16faa1082eee29cd2ea6e149fdd-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/crypto-rally-fizzles-as-etf-euphoria-fades",
           "author": "yyctrader",
@@ -1449,16 +1464,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9b7b311563874c860c911f0183ae0af9e2de81cb-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/farcaster-launches-permissionless-onboarding",
-          "author": "Samuel Haig",
-          "description": "Farcaster seeks to capitalize on SocialFi boom",
-          "link": "https://thedefiant.io/farcaster-launches-permissionless-onboarding",
-          "publishedOn": "2023-10-12T11:25:00.000Z",
-          "wordCount": 1849,
-          "title": "Farcaster Launches Permissionless Onboarding",
-          "imageUrl": null
         }
       ]
     },
