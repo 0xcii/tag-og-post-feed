@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14749,
+          "wordCount": 14668,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/double-happiness-18c6533c22ca?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-05T23:02:52.000Z",
-          "wordCount": 14797,
+          "wordCount": 14769,
           "title": "Double Happiness",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*1YNvJpMcsaz1UWUg"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/crypto-rally-fizzles-as-etf-euphoria-fades",
+          "author": "yyctrader",
+          "description": "Bitcoin and Ether Drop 3% In Choppy Trading",
+          "link": "https://thedefiant.io/crypto-rally-fizzles-as-etf-euphoria-fades",
+          "publishedOn": "2023-11-03T03:23:34.000Z",
+          "wordCount": 1708,
+          "title": "Crypto Rally Fizzles As ETF Euphoria Fades",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5222bd9b3e65de08ae2e75541c477212423cc9d0-828x466.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5222bd9b3e65de08ae2e75541c477212423cc9d0-828x466.webp"
+        },
         {
           "id": "https://thedefiant.io/aragon-to-return-usd115m-of-treasury-assets-to-ant-holders",
           "author": "Owen Fernau",
@@ -1444,21 +1459,6 @@
           "wordCount": 1849,
           "title": "Farcaster Launches Permissionless Onboarding",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/polygon-l2-proposal-roils-apecoin-community",
-          "author": "Samuel Haig",
-          "description": "Polygon offers to build ApeCoin Layer 2 for $200,000 per year",
-          "link": "https://thedefiant.io/polygon-l2-proposal-roils-apecoin-community",
-          "publishedOn": "2023-10-12T09:53:40.000Z",
-          "wordCount": 1979,
-          "title": "Polygon L2 Proposal Roils ApeCoin Community",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/de02d6375e761f768879b883beeda8b200f374af-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/de02d6375e761f768879b883beeda8b200f374af-880x495.jpg"
         }
       ]
     },
