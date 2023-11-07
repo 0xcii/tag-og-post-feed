@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-07T12:24:23.149Z</id>
+    <id>urn:2023-11-07T13:15:25.413Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-07T12:24:23.149Z</updated>
+    <updated>2023-11-07T13:15:25.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Community Greenlights Staking Mechanism]]></title>
+        <id>https://thedefiant.io/arbitrum-community-greenlights-staking-mechanism</id>
+        <link href="https://thedefiant.io/arbitrum-community-greenlights-staking-mechanism"/>
+        <updated>2023-11-07T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[ARB stakers can earn boosted rewards for locking their assets up to one year]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Community Greenlights Staking Mechanism]]></title>
+        <id>https://thedefiant.io/arbitrum-community-greenlights-staking-mechanism</id>
+        <link href="https://thedefiant.io/arbitrum-community-greenlights-staking-mechanism"/>
+        <updated>2023-11-07T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[ARB stakers can earn boosted rewards for locking their assets up to one year]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Notional V3 Public Launch, Quickswap Live on Manta, ARB Staking Approved, Points Program, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-notional-v3-public</id>
@@ -1162,16 +1182,6 @@ SEC Ripple case...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scroll Suffers From Weak Adoption One Week After Mainnet Launch]]></title>
-        <id>https://thedefiant.io/scroll-suffers-from-weak-adoption-one-week-after-mainnet-launch</id>
-        <link href="https://thedefiant.io/scroll-suffers-from-weak-adoption-one-week-after-mainnet-launch"/>
-        <updated>2023-10-16T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Scroll attracted a TVL of just $700,000 in six days]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Greyscale Ready to Convert GBTC, Arbitrum STIP Cutoff, Lido Simple DVT, zkSync txBridge Live, and More...]]></title>
         <id>https://www.todayindefi.com/p/last-week-in-defi-greyscale-ready</id>
         <link href="https://www.todayindefi.com/p/last-week-in-defi-greyscale-ready"/>
@@ -1179,16 +1189,6 @@ SEC Ripple case...]]></summary>
         <summary type="html"><![CDATA[Recap: Week of Oct 9th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum's Validator Waitlists Are Now Empty]]></title>
-        <id>https://thedefiant.io/ethereum-s-validator-waitlists-are-now-empty</id>
-        <link href="https://thedefiant.io/ethereum-s-validator-waitlists-are-now-empty"/>
-        <updated>2023-10-16T06:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Both Ethereum's entry and exit queues are empty.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>

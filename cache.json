@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14662,
+          "wordCount": 14610,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         }
@@ -40,6 +40,36 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/arbitrum-community-greenlights-staking-mechanism",
+          "author": "Samuel Haig",
+          "description": "ARB stakers can earn boosted rewards for locking their assets up to one year",
+          "link": "https://thedefiant.io/arbitrum-community-greenlights-staking-mechanism",
+          "publishedOn": "2023-11-07T13:05:00.000Z",
+          "wordCount": 1810,
+          "title": "Arbitrum Community Greenlights Staking Mechanism",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/20ec17011531f8cede8ec8262d4fef93f2161174-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/20ec17011531f8cede8ec8262d4fef93f2161174-880x495.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/arbitrum-community-greenlights-staking-mechanism",
+          "author": "Samuel Haig",
+          "description": "ARB stakers can earn boosted rewards for locking their assets up to one year",
+          "link": "https://thedefiant.io/arbitrum-community-greenlights-staking-mechanism",
+          "publishedOn": "2023-11-07T13:05:00.000Z",
+          "wordCount": 1810,
+          "title": "Arbitrum Community Greenlights Staking Mechanism",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/20ec17011531f8cede8ec8262d4fef93f2161174-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/20ec17011531f8cede8ec8262d4fef93f2161174-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/free-nft-inspired-by-the-simpsons-crosses-usd2m-in-trading-volume",
           "author": "yyctrader",
@@ -1444,31 +1474,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/78594c6fe1bea48f52754bb830dfbe8f6f150e1a-384x216.webp"
-        },
-        {
-          "id": "https://thedefiant.io/scroll-suffers-from-weak-adoption-one-week-after-mainnet-launch",
-          "author": "Samuel Haig",
-          "description": "Scroll attracted a TVL of just $700,000 in six days",
-          "link": "https://thedefiant.io/scroll-suffers-from-weak-adoption-one-week-after-mainnet-launch",
-          "publishedOn": "2023-10-16T10:59:00.000Z",
-          "wordCount": 1859,
-          "title": "Scroll Suffers From Weak Adoption One Week After Mainnet Launch",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/12f064a622d55d83f34ecde32ac562d012b493f2-632x351.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/12f064a622d55d83f34ecde32ac562d012b493f2-632x351.png"
-        },
-        {
-          "id": "https://thedefiant.io/ethereum-s-validator-waitlists-are-now-empty",
-          "author": "Samuel Haig",
-          "description": "Both Ethereum's entry and exit queues are empty.",
-          "link": "https://thedefiant.io/ethereum-s-validator-waitlists-are-now-empty",
-          "publishedOn": "2023-10-16T06:44:00.000Z",
-          "wordCount": 1837,
-          "title": "Ethereum's Validator Waitlists Are Now Empty",
-          "imageUrl": null
         }
       ]
     },
