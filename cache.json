@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14719,
+          "wordCount": 14610,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         }
@@ -40,6 +40,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/aave-to-vote-on-restoration-plan-following-market-freezes",
+          "author": "Samuel Haig",
+          "description": "Aave pauses services after identifying security vulnerability concerning fixed-rate borrowing",
+          "link": "https://thedefiant.io/aave-to-vote-on-restoration-plan-following-market-freezes",
+          "publishedOn": "2023-11-07T14:10:00.000Z",
+          "wordCount": 1784,
+          "title": "Aave To Vote On Restoration Plan Following Market Freezes",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8cdbf0bc49dc9ccbbd23de4a02dc9205ae9dc241-880x496.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8cdbf0bc49dc9ccbbd23de4a02dc9205ae9dc241-880x496.webp"
+        },
         {
           "id": "https://thedefiant.io/arbitrum-community-greenlights-staking-mechanism",
           "author": "Samuel Haig",
@@ -1459,21 +1474,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2adea26746945e0d37f8f2228663f11d485f7764-750x490.webp"
-        },
-        {
-          "id": "https://thedefiant.io/lido-exits-solana-following-community-vote",
-          "author": "Camila Russo",
-          "description": "Lido on Solana wasn't projected to being in enough revenue to offset development costs.",
-          "link": "https://thedefiant.io/lido-exits-solana-following-community-vote",
-          "publishedOn": "2023-10-16T18:52:22.000Z",
-          "wordCount": 2267,
-          "title": "Lido Exits Solana Following Community Vote",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/78594c6fe1bea48f52754bb830dfbe8f6f150e1a-384x216.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/78594c6fe1bea48f52754bb830dfbe8f6f150e1a-384x216.webp"
         }
       ]
     },
