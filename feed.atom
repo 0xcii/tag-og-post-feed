@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-08T09:12:30.635Z</id>
+    <id>urn:2023-11-08T10:13:24.889Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-08T09:12:30.635Z</updated>
+    <updated>2023-11-08T10:13:24.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Linea Voyage Live, Flexlend Launches Solana Lending Aggregator, Vertex Launches SL/TP Orders, Automated V3 Liquidity, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-linea-voyage-live-flexlend</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-linea-voyage-live-flexlend"/>
+        <updated>2023-11-08T09:31:58.000Z</updated>
+        <summary type="html"><![CDATA[Linea Voyage Live Linea L2 launches Defi Voyage in partnership with IntractCampaign. The first week is starting with MetaMask tasks. Flexlend Live on Solana Solana-based Lulo Finance launches Flexlend, a lending aggregator with limit orders. Vertex Stop Loss/Take Profit Orders]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linea Kicks Off ‘DeFi Voyage’ Campaign]]></title>
         <id>https://thedefiant.io/linea-kicks-off-defi-voyage-campaign</id>
