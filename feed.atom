@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-08T03:13:12.499Z</id>
+    <id>urn:2023-11-08T04:14:59.135Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-08T03:13:12.499Z</updated>
+    <updated>2023-11-08T04:14:59.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Grayscale Chainlink Trust Shares Rocket To 200% Premium]]></title>
+        <id>https://thedefiant.io/grayscale-chainlink-trust-shares-rocket-to-200-premium</id>
+        <link href="https://thedefiant.io/grayscale-chainlink-trust-shares-rocket-to-200-premium"/>
+        <updated>2023-11-08T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[GLINK shares are now trading for triple the price of spot LINK tokens.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kraken Exploring Options for Layer 2 Blockchain Network; Eyeing Polygon, Matter Labs, and Nil Foundation]]></title>
         <id>https://thedefiant.io/kraken-exploring-options-for-layer-2-blockchain-network-eyeing-polygon-matter-labs-and-nil</id>
@@ -1169,16 +1179,6 @@ SEC Ripple case...]]></summary>
         <summary type="html"><![CDATA[Uniswap Interface Fee Uniswap will impose a 0.15% fee starting Tuesday on trades of ETH, USDC, WETH, USDT, DAI, WBTC, agEUR, GUSD, LUSD, EUROC, and XSGD. Proposal: AAVE AURA Exchange Aura community proposes to collaborate with Aave with a token exchange. The deal is to swap 238,544 AURA (~$200,000) for 2,965.35 AAVE.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cointelegraph Publishes Post-Mortem After Inaccurate Tweet Sends BTC Flying]]></title>
-        <id>https://thedefiant.io/cointelegraph-publishes-post-mortem-after-innacurate-tweet-sends-btc-flying</id>
-        <link href="https://thedefiant.io/cointelegraph-publishes-post-mortem-after-innacurate-tweet-sends-btc-flying"/>
-        <updated>2023-10-17T05:17:33.000Z</updated>
-        <summary type="html"><![CDATA[Cointelegraph said its staff breached editorial procedure by tweeting unconfirmed information.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
