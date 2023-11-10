@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14610,
+          "wordCount": 14697,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/coinbase-launches-on-chain-kyc-verification-to-100m-users",
+          "author": "Camila Russo",
+          "description": "The service is based on Coinbase's Layer 2 network, Base, and uses the Ethereum Attestation Service standard.",
+          "link": "https://thedefiant.io/coinbase-launches-on-chain-kyc-verification-to-100m-users",
+          "publishedOn": "2023-11-10T17:42:18.000Z",
+          "wordCount": 1628,
+          "title": "Coinbase Launches On-Chain KYC Verification to +100M Users",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/50b4247316608b397e2a8e34b506bd06248da7e3-619x466.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/50b4247316608b397e2a8e34b506bd06248da7e3-619x466.png"
+        },
         {
           "id": "https://thedefiant.io/poloniex-now-among-top-10-largest-cex-hacks-with-usd125-million-loss",
           "author": "Camila Russo",
@@ -1464,21 +1479,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/55c83778bb9536a87ec3c6b7f1ac21d838b41202-1612x1006.png"
-        },
-        {
-          "id": "https://thedefiant.io/zklend-completes-mainnet-launch-on-starknet",
-          "author": "Samuel Haig",
-          "description": "ZkLend’s launch follows surge in on-chain activity for Starknet",
-          "link": "https://thedefiant.io/zklend-completes-mainnet-launch-on-starknet",
-          "publishedOn": "2023-10-19T13:00:00.000Z",
-          "wordCount": 2054,
-          "title": "ZkLend Completes Mainnet Launch On Starknet",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dbca6c480786c13a40d61eea54b1b5e3f8fc4da-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dbca6c480786c13a40d61eea54b1b5e3f8fc4da-880x495.jpg"
         }
       ]
     },
