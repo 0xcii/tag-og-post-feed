@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-10T10:13:18.367Z</id>
+    <id>urn:2023-11-10T11:10:33.695Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-10T10:13:18.367Z</updated>
+    <updated>2023-11-10T11:10:33.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scroll Rockets Through Layer 2 Rankings Amid Origins NFT Campaign]]></title>
+        <id>https://thedefiant.io/scroll-rockets-through-layer-2-rankings-amid-origins-nft-campaign</id>
+        <link href="https://thedefiant.io/scroll-rockets-through-layer-2-rankings-amid-origins-nft-campaign"/>
+        <updated>2023-11-10T10:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Scroll among top 3 Layer 2s by throughput after 138% spike in one week]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - BlackRock Files for Spot ETH ETF, Flashbots Founder Launches Telegram Bot, Dyson Live on Polygon zkEVM, Quest to Earn, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-blackrock-files-for</id>
@@ -1189,16 +1199,6 @@ SEC Ripple case...]]></summary>
         <summary type="html"><![CDATA[Ethereum Founder Discusses AI Challenges and Layer 2s In Farcaster AMA]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avalanche-Based Stars Arena Resumes Trading Post Audit]]></title>
-        <id>https://thedefiant.io/stars-arena-resumes-trading-post-audit</id>
-        <link href="https://thedefiant.io/stars-arena-resumes-trading-post-audit"/>
-        <updated>2023-10-18T17:38:48.000Z</updated>
-        <summary type="html"><![CDATA[The SocialFi platform faced data indexing issues shortly after trading resumed.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
