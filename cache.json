@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-09T23:02:04.000Z",
-          "wordCount": 10380,
+          "wordCount": 10379,
           "title": "Bad Gurl",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*pgxvPFluNoZOm1Vi"
         },
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/ripple-rallies-12-and-back-in-one-hour-on-fake-etf-news",
+          "author": "Samuel Haig",
+          "description": "Misleading corporate filing ignites short-lived rally",
+          "link": "https://thedefiant.io/ripple-rallies-12-and-back-in-one-hour-on-fake-etf-news",
+          "publishedOn": "2023-11-14T04:55:00.000Z",
+          "wordCount": 2086,
+          "title": "Ripple Rallies 12% And Back In One Hour On Fake ETF News",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/89423c09a9ad32d53949684a37e69633ff6e6e02-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/89423c09a9ad32d53949684a37e69633ff6e6e02-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/gamefi-tokens-outshine-with-sharp-recovery",
           "author": "Samuel Haig",
@@ -1469,21 +1484,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bd6d68f11c8b8e93a8d160b632e215957ca53195-843x474.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/consensys-co-founder-joe-lubin-accused-of-fraud-by-early-employees",
-          "author": "Camila Russo",
-          "description": "Lubin is facing a lawsuit in New York courts led by over 26 early employees who say they were cheated out of Consensys equity.",
-          "link": "https://thedefiant.io/consensys-co-founder-joe-lubin-accused-of-fraud-by-early-employees",
-          "publishedOn": "2023-10-19T22:52:54.000Z",
-          "wordCount": 2259,
-          "title": "Consensys Founder Joe Lubin is Being Sued by Ex Employees in Equity Dispute",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee2977a13931af7640719a3ca7ca53ad7eec6f32-825x530.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ee2977a13931af7640719a3ca7ca53ad7eec6f32-825x530.png"
         }
       ]
     },
