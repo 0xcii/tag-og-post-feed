@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-15T15:13:51.137Z</id>
+    <id>urn:2023-11-15T16:17:14.473Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-15T15:13:51.137Z</updated>
+    <updated>2023-11-15T16:17:14.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana's Saga Phone is Vulnerable to Critical Exploit, Certik Says]]></title>
+        <id>https://thedefiant.io/certik-uncovers-critical-vulnerability-in-solana-phone</id>
+        <link href="https://thedefiant.io/certik-uncovers-critical-vulnerability-in-solana-phone"/>
+        <updated>2023-11-15T15:27:50.000Z</updated>
+        <summary type="html"><![CDATA[The exploit could "compromise the most sensitive data stored on the phone, including cryptocurrency private keys."]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Dopex V2 Live, Armada V2 on Solana, LayerZero Launches USDV, LPing Made Simple, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada</id>
@@ -1183,16 +1193,6 @@
         <summary type="html"><![CDATA[Uniswap Labs new swap fee heightened tensions between token holders and shareholders, while opening the door to competitors.]]></summary>
         <author>
             <name>Owen Fernau and Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yearn Overhauls YFI Tokenomics]]></title>
-        <id>https://thedefiant.io/yearn-overhauls-yfi-tokenomics</id>
-        <link href="https://thedefiant.io/yearn-overhauls-yfi-tokenomics"/>
-        <updated>2023-10-20T18:30:57.000Z</updated>
-        <summary type="html"><![CDATA[OG Yield Aggregator Introduces Locking Mechanism, Will Use YFI Accumulated Via Buybacks To Fund New Rewards Program]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
