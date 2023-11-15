@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-09T23:02:04.000Z",
-          "wordCount": 10387,
+          "wordCount": 10380,
           "title": "Bad Gurl",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*pgxvPFluNoZOm1Vi"
         },
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/comparing-layer-2-launches-an-on-chain-analysis-of-liquidity-providers",
+          "author": "Keyrock",
+          "description": "Keyrock analyzes the on-chain performance of high-profile layer 2 (L2) networks in their earliest days after mainnet launch.",
+          "link": "https://thedefiant.io/comparing-layer-2-launches-an-on-chain-analysis-of-liquidity-providers",
+          "publishedOn": "2023-11-15T05:50:43.000Z",
+          "wordCount": 5894,
+          "title": "Comparing Layer 2 Launches: An On-chain Analysis of Liquidity Providers",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c7256d1a2e184c4422534abb6372ac059303b5ba-1600x900.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c7256d1a2e184c4422534abb6372ac059303b5ba-1600x900.png"
+        },
         {
           "id": "https://thedefiant.io/paypal-takes-a-stance-and-says-blockchains-are-the-new-financial-rails",
           "author": "Camila Russo",
@@ -1469,21 +1484,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9b23f576dce8e713a3df0e328406d67ee4e71fa5-828x466.webp"
-        },
-        {
-          "id": "https://thedefiant.io/infinex-kicks-off-governance-farming-campaign",
-          "author": "yyctrader",
-          "description": "Users Of Popular DEXs and Centralized Exchanges Can Earn Points For The Next Three Days Based On Their Past Trading History",
-          "link": "https://thedefiant.io/infinex-kicks-off-governance-farming-campaign",
-          "publishedOn": "2023-10-20T17:16:13.000Z",
-          "wordCount": 1480,
-          "title": "Infinex Kicks Off Governance Farming Campaign",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ade778c429f38da2ade3890ba2be5fdc1d7cd807-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ade778c429f38da2ade3890ba2be5fdc1d7cd807-880x495.jpg"
         }
       ]
     },
