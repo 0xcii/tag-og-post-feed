@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14728,
+          "wordCount": 14704,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/infura-taps-microsoft-and-tencent-for-decentralized-web3-infrastructure-network",
+          "author": "Samuel Haig",
+          "description": "Infura announces 18 initial launch partners for Decentralized Infrastructure Network",
+          "link": "https://thedefiant.io/infura-taps-microsoft-and-tencent-for-decentralized-web3-infrastructure-network",
+          "publishedOn": "2023-11-15T19:52:00.000Z",
+          "wordCount": 2012,
+          "title": "Infura Taps Microsoft and Tencent For Decentralized Web3 Infrastructure Network",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3fac7400090817570125f43d078c7079def9703a-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3fac7400090817570125f43d078c7079def9703a-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/certik-uncovers-critical-vulnerability-in-solana-phone",
           "author": "Camila Russo",
@@ -1469,21 +1484,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/10879157f668db3401df2f31994c6b8798534f67-828x466.webp"
-        },
-        {
-          "id": "https://thedefiant.io/uniswap-s-new-fee-heightens-token-equity-tension",
-          "author": "Owen Fernau and Camila Russo",
-          "description": "Uniswap Labs new swap fee heightened tensions between token holders and shareholders, while opening the door to competitors.",
-          "link": "https://thedefiant.io/uniswap-s-new-fee-heightens-token-equity-tension",
-          "publishedOn": "2023-10-20T20:06:33.000Z",
-          "wordCount": 3678,
-          "title": "Uniswap’s New Fee Heightens Token/Equity Tension",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3342b56c36382bcc5a30810b79117619fdb39df8-882x495.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3342b56c36382bcc5a30810b79117619fdb39df8-882x495.png"
         }
       ]
     },
