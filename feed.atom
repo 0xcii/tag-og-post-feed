@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-17T11:11:09.407Z</id>
+    <id>urn:2023-11-17T12:24:46.803Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-17T11:11:09.407Z</updated>
+    <updated>2023-11-17T12:24:46.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trade Volume For Rocket Pool’s rETH Outpaces stETH By 430%]]></title>
+        <id>https://thedefiant.io/trade-volume-for-rocket-pool-s-reth-outpaces-steth-by-430</id>
+        <link href="https://thedefiant.io/trade-volume-for-rocket-pool-s-reth-outpaces-steth-by-430"/>
+        <updated>2023-11-17T11:54:00.000Z</updated>
+        <summary type="html"><![CDATA[rETH accounts for more than half all trading volume for liquid staking tokens]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Kamino V2 on Solana, Perpetual Earn Dashboard, Ether.fi Public Launch, Best Project Picks, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-kamino-v2-on-solana</id>
@@ -1193,16 +1203,6 @@
         <summary type="html"><![CDATA[BTC ETF Progress Blackrock's iShares Bitcoin Trust has been listed on the DTCC (Depository Trust & Clearing Corporation, which clears NASDAQ trades). The ticker will be $IBTC. Blackrock is also looking to seed the ETF, this usually happens when ETFs are preparing to launch.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friendtech Hit By Selloff As SocialFi Whales Move To New Bitcoin City]]></title>
-        <id>https://thedefiant.io/friendtech-hit-by-selloff-as-socialfi-whales-move-to-new-bitcoin-city</id>
-        <link href="https://thedefiant.io/friendtech-hit-by-selloff-as-socialfi-whales-move-to-new-bitcoin-city"/>
-        <updated>2023-10-24T06:04:15.000Z</updated>
-        <summary type="html"><![CDATA[Carnage Ensues After Top Friendtech User Vombatus Dumps Over $1.5M Worth Of Keys]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
     <entry>
