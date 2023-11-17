@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14704,
+          "wordCount": 14656,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/bitcoin-spot-etfs-why-do-they-matter",
+          "author": "Squiffs",
+          "description": "The approval window for spot Bitcoin ETFs is now open.",
+          "link": "https://thedefiant.io/bitcoin-spot-etfs-why-do-they-matter",
+          "publishedOn": "2023-11-17T07:43:28.000Z",
+          "wordCount": 3299,
+          "title": "Bitcoin Spot ETFs: Why Do They Matter?",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b2a77f83e73edc33bfd297745b5eb021bf43bbdb-828x466.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b2a77f83e73edc33bfd297745b5eb021bf43bbdb-828x466.webp"
+        },
         {
           "id": "https://thedefiant.io/ens-challenges-unstoppable-domains-to-open-its-blockchain-domain-name-patents",
           "author": "Camila Russo",
@@ -1474,21 +1489,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1768b14c25f2d752860257c92d90a81b0a28b375-828x470.webp"
-        },
-        {
-          "id": "https://thedefiant.io/bitcoin-surges-to-17-month-high-amid-spot-bitcoin-etf-progress",
-          "author": "Samuel Haig",
-          "description": "Updated BlackRock filing indicates spot Bitcoin ETF could be seeded this month",
-          "link": "https://thedefiant.io/bitcoin-surges-to-17-month-high-amid-spot-bitcoin-etf-progress",
-          "publishedOn": "2023-10-24T04:02:00.000Z",
-          "wordCount": 2728,
-          "title": "Bitcoin Surges To 17-Month High Amid Spot Bitcoin ETF Progress",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/26d93874efc3fc5aa433cc76c5581e4adbd8ae87-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/26d93874efc3fc5aa433cc76c5581e4adbd8ae87-880x495.jpg"
         }
       ]
     },
