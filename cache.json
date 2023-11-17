@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14656,
+          "wordCount": 14717,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/thorchain-volumes-surge-on-success-of-streaming-swaps",
+          "author": "yyctrader",
+          "description": "Cross chain network’s RUNE token has quadrupled in the past month as TVL doubled.",
+          "link": "https://thedefiant.io/thorchain-volumes-surge-on-success-of-streaming-swaps",
+          "publishedOn": "2023-11-17T19:52:50.000Z",
+          "wordCount": 2361,
+          "title": "THORchain Volumes Surge On Success Of ‘Streaming Swaps’",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc27e723eb91a742caece15d22b74b8b6faf199c-828x466.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cc27e723eb91a742caece15d22b74b8b6faf199c-828x466.webp"
+        },
         {
           "id": "https://thedefiant.io/smoothly-launches-gitcoin-campaign-to-bolster-rewards-for-solo-stakers",
           "author": "Samuel Haig",
@@ -1479,16 +1494,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/986daaf8481c418bc65aa4074728c26903d66933-828x467.webp"
-        },
-        {
-          "id": "https://thedefiant.io/dydx-exchange-open-sources-code-in-anticipation-of-transition-to-cosmos-ecosystem",
-          "author": "The Defiant Team",
-          "description": "dYdX is transitioning from a Layer 2 network on Ethereum to becoming a standalone blockchain in the Cosmos ecosystem.",
-          "link": "https://thedefiant.io/dydx-exchange-open-sources-code-in-anticipation-of-transition-to-cosmos-ecosystem",
-          "publishedOn": "2023-10-24T19:58:52.000Z",
-          "wordCount": 1887,
-          "title": "dYdX Exchange Open-Sources Code in Anticipation of Transition to Cosmos App Chain",
-          "imageUrl": null
         }
       ]
     },
