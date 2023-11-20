@@ -27,9 +27,9 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14651,
+          "wordCount": 14634,
           "title": "The Periphery",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*xa6cPO3nrn_rNrt8"
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         }
       ]
     },
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/tomagotchi-like-frenpet-is-crushing-it-on-coinbase-s-base-network",
+          "author": "Camila Russo",
+          "description": "Fren Pet gaining steam might be further proof that non-financial use cases can flourish in crypto.",
+          "link": "https://thedefiant.io/tomagotchi-like-frenpet-is-crushing-it-on-coinbase-s-base-network",
+          "publishedOn": "2023-11-20T22:29:27.000Z",
+          "wordCount": 1795,
+          "title": "Tomagotchi-Like Fren Pet is Crushing it on Coinbase's Base Network",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d7dca2a128a9f976c3d9594c0ec79607eaa11c93-735x457.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d7dca2a128a9f976c3d9594c0ec79607eaa11c93-735x457.png"
+        },
         {
           "id": "https://thedefiant.io/ethereum-validators-are-now-queuing-to-exit-the-network",
           "author": "Samuel Haig",
@@ -1479,21 +1494,6 @@
           "wordCount": 1544,
           "title": "Ethereum Creator Vitalik Buterin Invests in Nocturne Labs' $6M Seed Funding Round",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/polygon-deploys-pol-token-on-ethereum",
-          "author": "Samuel Haig",
-          "description": "New POL token will facilitate restaking for multi-chain Polygon ecosystem",
-          "link": "https://thedefiant.io/polygon-deploys-pol-token-on-ethereum",
-          "publishedOn": "2023-10-25T11:00:00.000Z",
-          "wordCount": 1829,
-          "title": "Polygon Deploys POL Token On Ethereum",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1c6e755a8e2bd2600faf758db99a7ff8b3cdbe42-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1c6e755a8e2bd2600faf758db99a7ff8b3cdbe42-880x495.jpg"
         }
       ]
     },
