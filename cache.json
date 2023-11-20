@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14634,
+          "wordCount": 14698,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/web3-community-slams-dydx-for-centralized-response-to-alleged-market-manipulation-attack",
+          "author": "Samuel Haig",
+          "description": "DYdX promises rewards for help identifying attacker, promises to engage FBI",
+          "link": "https://thedefiant.io/web3-community-slams-dydx-for-centralized-response-to-alleged-market-manipulation-attack",
+          "publishedOn": "2023-11-20T12:48:00.000Z",
+          "wordCount": 1946,
+          "title": "Web3 Community Slams dYdX For ‘Centralized’ Response to Alleged Market Manipulation Attack",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dcac0f9c259dde7cb067b9a25046ac56e3becfbf-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dcac0f9c259dde7cb067b9a25046ac56e3becfbf-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/dydx-suffered-clearly-targeted-attack-founder-antonio-juliano-said",
           "author": "Camila Russo",
@@ -1479,21 +1494,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e3f38f95094be5065ee161f5466e91ab1e131761-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/maestro-trading-bot-exploited-for-usd500k",
-          "author": "yyctrader",
-          "description": "Team Promises To Refund Affected Users, Trading Resumes",
-          "link": "https://thedefiant.io/maestro-trading-bot-exploited-for-usd500k",
-          "publishedOn": "2023-10-25T05:43:27.000Z",
-          "wordCount": 1388,
-          "title": "Maestro Trading Bot Exploited For $500K",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9a44b355983e88fa1b7181b7cd4d901c6f73cbbe-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9a44b355983e88fa1b7181b7cd4d901c6f73cbbe-880x495.jpg"
         }
       ]
     },
