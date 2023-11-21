@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-21T08:17:04.711Z</id>
+    <id>urn:2023-11-21T09:13:29.177Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-21T08:17:04.711Z</updated>
+    <updated>2023-11-21T09:13:29.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - Phantom Wallet Cross-Chain Swaps, Blast L2 Early Access, Range CAKE Bonus, Dydx Insurance Fund Exploited for 9M, and More...]]></title>
+        <id>https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet</id>
+        <link href="https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet"/>
+        <updated>2023-11-21T08:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Nov 13th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pyth Network Token Goes Live With $75M Airdrop For DeFi Users]]></title>
         <id>https://thedefiant.io/pyth-network-token-goes-live-with-usd75m-airdrop-for-defi-users</id>

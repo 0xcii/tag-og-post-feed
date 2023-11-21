@@ -17,9 +17,9 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-09T23:02:04.000Z",
-          "wordCount": 10208,
+          "wordCount": 10157,
           "title": "Bad Gurl",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*pgxvPFluNoZOm1Vi"
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*pgxvPFluNoZOm1Vi"
         },
         {
           "id": "https://medium.com/p/b72270639a70",
@@ -27,9 +27,9 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14634,
+          "wordCount": 14651,
           "title": "The Periphery",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*xa6cPO3nrn_rNrt8"
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         }
       ]
     },
@@ -1513,6 +1513,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
+        {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Nov 13th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-phantom-wallet",
+          "publishedOn": "2023-11-21T08:31:22.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - Phantom Wallet Cross-Chain Swaps, Blast L2 Early Access, Range CAKE Bonus, Dydx Insurance Fund Exploited for 9M, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4970d56-7ba3-4a21-b3d6-d829dacd68bc_680x357.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4970d56-7ba3-4a21-b3d6-d829dacd68bc_680x357.jpeg"
+        },
         {
           "id": "https://www.todayindefi.com/p/today-in-defi-kamino-v2-on-solana",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
