@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-periphery-b72270639a70?source=rss-2f6e06954878------2",
           "publishedOn": "2023-10-24T23:02:47.000Z",
-          "wordCount": 14647,
+          "wordCount": 14629,
           "title": "The Periphery",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*xa6cPO3nrn_rNrt8"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/swiss-city-of-lugano-embraces-crypto-with-polygon-integration",
+          "author": "Samuel Haig",
+          "description": "Lugano citizens will be able to pay taxes, parking tickets, and public services using crypto in future",
+          "link": "https://thedefiant.io/swiss-city-of-lugano-embraces-crypto-with-polygon-integration",
+          "publishedOn": "2023-11-23T02:10:00.000Z",
+          "wordCount": 1908,
+          "title": "Swiss City of Lugano Embraces Crypto With Polygon Integration",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1c6e755a8e2bd2600faf758db99a7ff8b3cdbe42-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1c6e755a8e2bd2600faf758db99a7ff8b3cdbe42-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/kyber-dex-hacked-for-usd48m",
           "author": "Owen Fernau",
@@ -1484,16 +1499,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/710cf8ffa89debe15dcb5315f021435ba6a8301a-743x539.png"
-        },
-        {
-          "id": "https://thedefiant.io/polygon-launches-matic-to-pol-token-migrations",
-          "author": "Samuel Haig",
-          "description": "POL will underpin Polygon’s forthcoming revamped staking layer",
-          "link": "https://thedefiant.io/polygon-launches-matic-to-pol-token-migrations",
-          "publishedOn": "2023-10-27T07:46:00.000Z",
-          "wordCount": 1609,
-          "title": "Polygon Launches MATIC To POL Token Migrations",
-          "imageUrl": null
         }
       ]
     },
