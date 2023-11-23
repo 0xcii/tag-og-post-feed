@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-09T23:02:04.000Z",
-          "wordCount": 10181,
+          "wordCount": 10193,
           "title": "Bad Gurl",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*pgxvPFluNoZOm1Vi"
         }
@@ -40,6 +40,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/what-are-modular-blockchains",
+          "author": "Squiffs",
+          "description": "Modular Networks Like Celestia Unlock Scaling And Efficiency Gains",
+          "link": "https://thedefiant.io/what-are-modular-blockchains",
+          "publishedOn": "2023-11-23T20:46:20.000Z",
+          "wordCount": 2423,
+          "title": "What Are Modular Blockchains?",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6bd2836a66c76102a655ded6cde71a028ab192df-1456x816.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6bd2836a66c76102a655ded6cde71a028ab192df-1456x816.png"
+        },
         {
           "id": "https://thedefiant.io/avalanche-transactions-skyrocket-2-000-on-asc-20-hype",
           "author": "Pedro Solimano",
@@ -1474,21 +1489,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3fe48bfd8e5f4ef1829c11acb9095c9548f82894-880x496.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/our-most-read-stories-this-week-arthur-hayes-bitcoin-etf-new-pol-token",
-          "author": "The Defiant Team",
-          "description": "The Defiant's most read stories for the week of Oct. 23.",
-          "link": "https://thedefiant.io/our-most-read-stories-this-week-arthur-hayes-bitcoin-etf-new-pol-token",
-          "publishedOn": "2023-10-28T21:19:04.000Z",
-          "wordCount": 1874,
-          "title": "Our Most Read Stories This Week: Arthur Hayes, Bitcoin ETF, New POL Token",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/682a1e6b87f8522a6c870595713a48cc23c138e0-827x624.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/682a1e6b87f8522a6c870595713a48cc23c138e0-827x624.png"
         }
       ]
     },
@@ -1806,22 +1806,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F954f2197-556d-448f-8933-3498d3e34906_900x449.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-maestro-router-exploit",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Maestro Router Exploit Maestro Router was compromised. The team has identified the exploit and resumed trading, but tokens with pools on certain dexes will be temporarily unavailable. Earlier the team promised that affected users would be fully refunded (~280ETH in total).",
-          "link": "https://www.todayindefi.com/p/today-in-defi-maestro-router-exploit",
-          "publishedOn": "2023-10-25T08:45:16.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Maestro Router Exploit, dydx Chain Live, Astrid Mainnet Live, Stable Yields, Token Buybacks, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe48a70ba-bfba-40c1-8e3a-cd1f36a29dfd_1466x668.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe48a70ba-bfba-40c1-8e3a-cd1f36a29dfd_1466x668.png"
         }
       ]
     }
