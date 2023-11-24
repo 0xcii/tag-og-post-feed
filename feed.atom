@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-24T21:10:52.606Z</id>
+    <id>urn:2023-11-24T22:11:38.822Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-24T21:10:52.606Z</updated>
+    <updated>2023-11-24T22:11:38.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bots, Terminals, and LLMs — Crypto UX is Getting a Makeover]]></title>
+        <id>https://thedefiant.io/bots-terminals-and-llms-crypto-ux-is-getting-a-makeover</id>
+        <link href="https://thedefiant.io/bots-terminals-and-llms-crypto-ux-is-getting-a-makeover"/>
+        <updated>2023-11-24T21:15:42.000Z</updated>
+        <summary type="html"><![CDATA[Trading bots have gone from obscurity to some of the most-used crypto applications in 2023.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why 2024 Could Turn Out To be a Pivotal (Bullish) Year for Crypto]]></title>
         <id>https://thedefiant.io/why-2024-could-turn-out-to-be-a-pivotal-bullish-year-for-crypto</id>
@@ -1176,16 +1186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Avalanche Block Explorer Snowtrace Is Abandoning Etherscan]]></title>
-        <id>https://thedefiant.io/top-avalanche-block-explorer-snowtrace-is-abandoning-etherscan</id>
-        <link href="https://thedefiant.io/top-avalanche-block-explorer-snowtrace-is-abandoning-etherscan"/>
-        <updated>2023-10-31T11:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Snowtrace to support all Avalanche networks after migrating to Avascan before Nov. 30]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Unibot Exploited for 450 ETH, Proposal to Activate ARB Staking, Perennial Trigger Orders, On-chain Dual Investments, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for</id>
         <link href="https://www.todayindefi.com/p/today-in-defi-unibot-exploited-for"/>
@@ -1201,16 +1201,6 @@
         <link href="https://www.todayindefi.com/p/last-week-in-defi-arbitrum-orbit"/>
         <updated>2023-10-30T09:29:20.000Z</updated>
         <summary type="html"><![CDATA[Recap: Week of Oct 23th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Polygon POL Live, Kava One-Click Bridging, Swell Rewards stETH Deposits, Wallet Airdrop, Lower Risk Options, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-polygon-pol-live-kava</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-polygon-pol-live-kava"/>
-        <updated>2023-10-26T09:14:30.000Z</updated>
-        <summary type="html"><![CDATA[Polygon POL Live on Ethereum Polygon 2.0 token POL contracts are deployed on the Ethereum mainnet. Kava One-Click Bridging Kava launches a one-click bridge solution, enabling $USDT transfers across Kava EVM, Kava IBC, and Injective. Swell Super swETH]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
