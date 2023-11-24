@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-09T23:02:04.000Z",
-          "wordCount": 10260,
+          "wordCount": 10193,
           "title": "Bad Gurl",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*pgxvPFluNoZOm1Vi"
         }
@@ -40,6 +40,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/non-us-bitcoin-miner-gets-caught-censoring-transactions",
+          "author": "Pedro Solimano",
+          "description": "F2Pool censored four transactions in October, leading to questions surrounding Bitcoin’s censorship resistance.",
+          "link": "https://thedefiant.io/non-us-bitcoin-miner-gets-caught-censoring-transactions",
+          "publishedOn": "2023-11-24T19:45:40.000Z",
+          "wordCount": 2156,
+          "title": "Non-US Bitcoin Miner Gets Caught Censoring Transactions",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dae52f6302fba8e215b54fb8e2c9f766d70eb140-828x466.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dae52f6302fba8e215b54fb8e2c9f766d70eb140-828x466.webp"
+        },
         {
           "id": "https://thedefiant.io/btc-tests-year-to-date-highs-amid-spot-bitcoin-etf-progress",
           "author": "Samuel Haig",
@@ -1479,21 +1494,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/03a6e44f610dba243aad2e1f575886e7262fe9bd-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/hacker-ransacks-usd600-000-from-popular-telegram-trading-bot-unibot",
-          "author": "Samuel Haig",
-          "description": "Hacker steals assets from wallets actively approving Unibot's smart contract.",
-          "link": "https://thedefiant.io/hacker-ransacks-usd600-000-from-popular-telegram-trading-bot-unibot",
-          "publishedOn": "2023-10-31T06:54:00.000Z",
-          "wordCount": 1613,
-          "title": "Hacker Ransacks $600,000 From Popular Telegram Trading Bot, Unibot",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5e8cb4cf70e6d4c1a8cc2efbeb6808bf3f17fdd9-880x495.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5e8cb4cf70e6d4c1a8cc2efbeb6808bf3f17fdd9-880x495.webp"
         }
       ]
     },
