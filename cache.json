@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-09T23:02:04.000Z",
-          "wordCount": 10211,
+          "wordCount": 10275,
           "title": "Bad Gurl",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*pgxvPFluNoZOm1Vi"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/animoca-brands-becomes-ton-validator",
+          "author": "yyctrader",
+          "description": "Collaboration between leading VC and Telegram-linked blockchain aims to onboard new users to Web3 with mini-apps.",
+          "link": "https://thedefiant.io/animoca-brands-becomes-ton-validator",
+          "publishedOn": "2023-11-28T19:22:43.000Z",
+          "wordCount": 2734,
+          "title": "Animoca Brands Becomes TON Validator",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/59790e22073a2fdf9c76579cd4b54c3ce4b72be9-300x168.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/59790e22073a2fdf9c76579cd4b54c3ce4b72be9-300x168.jpg"
+        },
         {
           "id": "https://thedefiant.io/near-protocol-overtakes-ethereum-and-bitcoin-in-key-activity-metrics",
           "author": "Pedro Solimano",
@@ -1499,21 +1514,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c6dcc26d766568e6d52ba940dca1972e860c2d75-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/gbtc-discount-narrows-to-23-month-low-on-etf-conversion-hopes",
-          "author": "Owen Fernau",
-          "description": "Grayscale's GBTC Has Tripled This Year, Outperforming Underlying Bitcoin",
-          "link": "https://thedefiant.io/gbtc-discount-narrows-to-23-month-low-on-etf-conversion-hopes",
-          "publishedOn": "2023-11-02T06:17:10.000Z",
-          "wordCount": 3363,
-          "title": "GBTC Discount Narrows To 23-Month Low On ETF Conversion Hopes",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/15250518007d9e9746b35994d7a289d60b2d85fb-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/15250518007d9e9746b35994d7a289d60b2d85fb-880x495.jpg"
         }
       ]
     },
