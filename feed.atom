@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-27T23:13:05.386Z</id>
+    <id>urn:2023-11-28T01:00:24.253Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-27T23:13:05.386Z</updated>
+    <updated>2023-11-28T01:00:24.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Panda Power]]></title>
+        <id>https://medium.com/p/64f2bef90327</id>
+        <link href="https://cryptohayes.medium.com/panda-power-64f2bef90327?source=rss-2f6e06954878------2"/>
+        <updated>2023-11-27T23:01:52.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magic Eden Launches Cross-chain Wallet]]></title>
         <id>https://thedefiant.io/magic-eden-launches-cross-chain-wallet</id>
