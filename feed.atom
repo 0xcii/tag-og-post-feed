@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-29T18:16:28.843Z</id>
+    <id>urn:2023-11-29T19:10:44.381Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-29T18:16:28.843Z</updated>
+    <updated>2023-11-29T19:10:44.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[From Girls to Grandmas: Onboarding Women into Web3 in 2024]]></title>
+        <id>https://thedefiant.io/from-girls-to-grandmas-onboarding-women-into-web3-in-2024</id>
+        <link href="https://thedefiant.io/from-girls-to-grandmas-onboarding-women-into-web3-in-2024"/>
+        <updated>2023-11-29T19:02:35.000Z</updated>
+        <summary type="html"><![CDATA[If Web3 is serious about onboarding billions of users, first, they need to get serious about onboarding girls and grandmas, and all women in between.]]></summary>
+        <author>
+            <name>Mariana Krym</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Treasury Sanctions Crypto Mixer Sinbad]]></title>
         <id>https://thedefiant.io/us-treasury-sanctions-crypto-mixer-sinbad</id>
@@ -1193,16 +1203,6 @@
         <summary type="html"><![CDATA[Aragon Association Dissolution The Aragon Association will dissolve itself, allow holders to redeem their ANT for ETH, and the Aragon project will focus on product development. WOOFi Pro Live Woofi launches WOOFi Pro, an orderbook-based perp dex with omnichain deposits, CEX-like UX, up to 20x leverage, and revenue share.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Bankman-Fried Found Guilty On All Counts: Latest News & Hot Takes]]></title>
-        <id>https://thedefiant.io/sam-bankman-fried-found-guilty-on-all-counts-latest-news-and-hot-takes</id>
-        <link href="https://thedefiant.io/sam-bankman-fried-found-guilty-on-all-counts-latest-news-and-hot-takes"/>
-        <updated>2023-11-03T04:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Jury took just four hours of deliberation before convicting the former FTX CEO]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
