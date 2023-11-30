@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/panda-power-64f2bef90327?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-27T23:01:52.000Z",
-          "wordCount": 11866,
+          "wordCount": 11910,
           "title": "Panda Power",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*kkhm8UqnIdh_2gom"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-09T23:02:04.000Z",
-          "wordCount": 10228,
+          "wordCount": 10227,
           "title": "Bad Gurl",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*pgxvPFluNoZOm1Vi"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/opbnb-leads-superchain-adoption-while-base-and-optimism-lag",
+          "author": "Samuel Haig",
+          "description": "OpBNB activity equates to half of Ethereum and its L2 ecosystem combined",
+          "link": "https://thedefiant.io/opbnb-leads-superchain-adoption-while-base-and-optimism-lag",
+          "publishedOn": "2023-11-30T10:43:00.000Z",
+          "wordCount": 2377,
+          "title": "OpBNB Leads Superchain Adoption While Base and Optimism Lag",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/90026ebd24f24739cda8d355ccdac6d6f284a3b1-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/90026ebd24f24739cda8d355ccdac6d6f284a3b1-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/stellar-onboards-stasis-euro-as-issuer-looks-to-alt-layer-1s",
           "author": "Samuel Haig",
@@ -1499,21 +1514,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1af8ac69970b379702dabd3a9ae8ac52c357fc0b-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/what-is-social-fi",
-          "author": "Squiffs",
-          "description": "Everything you need to know about the confluence of social media and DeFi",
-          "link": "https://thedefiant.io/what-is-social-fi",
-          "publishedOn": "2023-11-07T03:55:31.000Z",
-          "wordCount": 3408,
-          "title": "What Is Social-Fi?",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2f7f2d019d90f0eb1e9bc010f7a2f4099fb6a5ac-828x466.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2f7f2d019d90f0eb1e9bc010f7a2f4099fb6a5ac-828x466.webp"
         }
       ]
     },

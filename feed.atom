@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-30T10:14:01.602Z</id>
+    <id>urn:2023-11-30T11:11:20.160Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-30T10:14:01.602Z</updated>
+    <updated>2023-11-30T11:11:20.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpBNB Leads Superchain Adoption While Base and Optimism Lag]]></title>
+        <id>https://thedefiant.io/opbnb-leads-superchain-adoption-while-base-and-optimism-lag</id>
+        <link href="https://thedefiant.io/opbnb-leads-superchain-adoption-while-base-and-optimism-lag"/>
+        <updated>2023-11-30T10:43:00.000Z</updated>
+        <summary type="html"><![CDATA[OpBNB activity equates to half of Ethereum and its L2 ecosystem combined]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - SDX Live on Solana, QuickSwap Smart Pools on Manta, Kujira Futures Soon, Easy and Profitable LPing, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-sdx-live-on-solana</id>
@@ -1183,16 +1193,6 @@
         <summary type="html"><![CDATA[NFT Market Shows Nascent Signs Of Recovery, Yuga Labs Cofounder Buys CryptoPunk For $1.1M]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Social-Fi?]]></title>
-        <id>https://thedefiant.io/what-is-social-fi</id>
-        <link href="https://thedefiant.io/what-is-social-fi"/>
-        <updated>2023-11-07T03:55:31.000Z</updated>
-        <summary type="html"><![CDATA[Everything you need to know about the confluence of social media and DeFi]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
