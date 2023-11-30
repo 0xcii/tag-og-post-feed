@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-09T23:02:04.000Z",
-          "wordCount": 10227,
+          "wordCount": 10275,
           "title": "Bad Gurl",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*pgxvPFluNoZOm1Vi"
         }
@@ -134,6 +134,21 @@
           "wordCount": 3038,
           "title": "Velodrome and Aerodrome DEXs Say Funds Are Safe After Frontend Hack",
           "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/polkadot-s-web3-foundation-to-invest-usd1m-in-on-chain-treasuries",
+          "author": "Samuel Haig",
+          "description": "Web3 Foundation plans to up its real-world asset allocation in the future",
+          "link": "https://thedefiant.io/polkadot-s-web3-foundation-to-invest-usd1m-in-on-chain-treasuries",
+          "publishedOn": "2023-11-29T14:00:00.000Z",
+          "wordCount": 3347,
+          "title": "Polkadot’s Web3 Foundation To Invest $1M In On-Chain Treasuries",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1aaa0b11c145dd63af61e8ed76cb3d5b5b3f7170-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1aaa0b11c145dd63af61e8ed76cb3d5b5b3f7170-880x495.jpg"
         },
         {
           "id": "https://thedefiant.io/sec-opens-public-comments-on-franklin-templeton-and-hashdex-spot-bitcoin-etfs",
@@ -1499,16 +1514,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/08f864e5be3cb6593538f1e7082bdd9fec25b49a-828x466.webp"
-        },
-        {
-          "id": "https://thedefiant.io/cardano-blockchain-adopts-competitor-polkadot-s-framework",
-          "author": "Camila Russo",
-          "description": "Cardano plans to use Polkadot's Substrate framework for the development of its upcoming \"partner chain\" initiative.",
-          "link": "https://thedefiant.io/cardano-blockchain-adopts-competitor-polkadot-s-framework",
-          "publishedOn": "2023-11-06T18:22:45.000Z",
-          "wordCount": 2978,
-          "title": "Cardano Blockchain Plans to Adopt Polkadot's Substrate Framework",
-          "imageUrl": null
         }
       ]
     },
