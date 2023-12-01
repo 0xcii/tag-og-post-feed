@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/panda-power-64f2bef90327?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-27T23:01:52.000Z",
-          "wordCount": 11910,
+          "wordCount": 11906,
           "title": "Panda Power",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*kkhm8UqnIdh_2gom"
         },
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/starknet-airdrop-speculation-surges-after-purported-eligibility-screenshot-goes-viral",
+          "author": "Samuel Haig",
+          "description": "The now-deleted starknet.io subdomain detailed eligibility criteria for a STRK airdrop",
+          "link": "https://thedefiant.io/starknet-airdrop-speculation-surges-after-purported-eligibility-screenshot-goes-viral",
+          "publishedOn": "2023-12-01T06:51:00.000Z",
+          "wordCount": 2079,
+          "title": "Starknet Airdrop Speculation Surges After Purported Eligibility Screenshot Goes Viral",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/956035b7606be1da49b95c25277bb2deab24f621-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/956035b7606be1da49b95c25277bb2deab24f621-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/crypto-vc-funding-surges-in-november",
           "author": "Pedro Solimano",
@@ -1509,21 +1524,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/30f494a9658297ef2cefa0d01e6191093fa4c8b0-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/linea-kicks-off-defi-voyage-campaign",
-          "author": "yyctrader",
-          "description": "Users Of Consensys’ Layer 2 Network Can Earn XP By Completing Quests That Could Lead To A Potential Airdrop",
-          "link": "https://thedefiant.io/linea-kicks-off-defi-voyage-campaign",
-          "publishedOn": "2023-11-08T05:53:11.000Z",
-          "wordCount": 2205,
-          "title": "Linea Kicks Off ‘DeFi Voyage’ Campaign",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e6461c42a411853ede7ed9fe693f00df27cad837-828x466.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e6461c42a411853ede7ed9fe693f00df27cad837-828x466.webp"
         }
       ]
     },
