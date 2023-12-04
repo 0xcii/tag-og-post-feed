@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/panda-power-64f2bef90327?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-27T23:01:52.000Z",
-          "wordCount": 11958,
+          "wordCount": 11859,
           "title": "Panda Power",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*kkhm8UqnIdh_2gom"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-09T23:02:04.000Z",
-          "wordCount": 10072,
+          "wordCount": 10219,
           "title": "Bad Gurl",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*pgxvPFluNoZOm1Vi"
         }
@@ -1548,6 +1548,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
+        {
+          "id": "https://www.todayindefi.com/p/last-week-in-defi-ragetrade-v2-beta",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Recap: Week of Nov 27th",
+          "link": "https://www.todayindefi.com/p/last-week-in-defi-ragetrade-v2-beta",
+          "publishedOn": "2023-12-04T04:16:22.000Z",
+          "wordCount": null,
+          "title": "Last Week in DeFi - RageTrade V2 Beta Live, Sei Announces V2, Poolshark Announces FIN, Moonwell Rewards on Base, and More...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4157bc5-8752-44f6-b2b5-9e4b8bbaf230_680x354.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4157bc5-8752-44f6-b2b5-9e4b8bbaf230_680x354.jpeg"
+        },
         {
           "id": "https://www.todayindefi.com/p/today-in-defi-yearn-v3-live-hacker",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
