@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/panda-power-64f2bef90327?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-27T23:01:52.000Z",
-          "wordCount": 11859,
+          "wordCount": 11958,
           "title": "Panda Power",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*kkhm8UqnIdh_2gom"
         },
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/btc-and-eth-surge-to-new-2023-highs-after-rallying",
+          "author": "Samuel Haig",
+          "description": "Analysts attribute the rally to predictions The Fed's interest rate hikes are over",
+          "link": "https://thedefiant.io/btc-and-eth-surge-to-new-2023-highs-after-rallying",
+          "publishedOn": "2023-12-04T12:05:00.000Z",
+          "wordCount": 2326,
+          "title": "BTC and ETH Surge To New 2023 Highs After Rallying",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6f45bf6f754703eec8f10f65b9e8097d04b43e4e-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6f45bf6f754703eec8f10f65b9e8097d04b43e4e-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/our-most-read-stories-this-week-bitcoin-hodlers-vitalik-s-techno-optimism-btc-miner",
           "author": "The Defiant Team",
@@ -1519,21 +1534,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/05a82711979116c68bb423e2ca8e6a04299f04a3-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/crypto-critic-nouriel-roubini-is-launching-a-token",
-          "author": "Camila Russo",
-          "description": "\"Dr. Doom\" is launching the Atlas Climate Token, a stablecoin backed by a portfolio of liquid assets.",
-          "link": "https://thedefiant.io/crypto-critic-nouriel-roubini-is-launching-a-token",
-          "publishedOn": "2023-11-08T20:17:17.000Z",
-          "wordCount": 2243,
-          "title": "Crypto Critic Nouriel Roubini is Launching a Token",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f35487e90672c3fece472c03de4bb41637989968-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f35487e90672c3fece472c03de4bb41637989968-880x495.jpg"
         }
       ]
     },
