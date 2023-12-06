@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T18:16:41.531Z</id>
+    <id>urn:2023-12-06T19:10:42.201Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-06T18:16:41.531Z</updated>
+    <updated>2023-12-06T19:10:42.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[DeFi Loans Climb to Highest Since August 2022]]></title>
+        <title type="html"><![CDATA[HNT Rallies 50% After Helium Expands Mobile Service Nationwide]]></title>
+        <id>https://thedefiant.io/hnt-rallies-50-after-helium-expands-mobile-service-nationwide</id>
+        <link href="https://thedefiant.io/hnt-rallies-50-after-helium-expands-mobile-service-nationwide"/>
+        <updated>2023-12-06T18:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Helium leverages T-Mobile’s network to offer unlimited data, talk and text for $20 per month.]]></summary>
+        <author>
+            <name>Tarang Khaitan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Loan Volume Climbs to Highest Since August 2022]]></title>
         <id>https://thedefiant.io/defi-loans-climb-to-highest-since-august-2022</id>
         <link href="https://thedefiant.io/defi-loans-climb-to-highest-since-august-2022"/>
         <updated>2023-12-06T18:12:48.000Z</updated>
@@ -563,6 +573,16 @@
         <summary type="html"><![CDATA[Kart racing game to be released on Steam after beta testing is completed.]]></summary>
         <author>
             <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panda Power]]></title>
+        <id>https://medium.com/p/64f2bef90327</id>
+        <link href="https://cryptohayes.medium.com/panda-power-64f2bef90327?source=rss-2f6e06954878------2"/>
+        <updated>2023-11-27T23:01:52.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
         </author>
     </entry>
     <entry>
@@ -1166,16 +1186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ripple Rallies 12% And Back In One Hour On Fake ETF News]]></title>
-        <id>https://thedefiant.io/ripple-rallies-12-and-back-in-one-hour-on-fake-etf-news</id>
-        <link href="https://thedefiant.io/ripple-rallies-12-and-back-in-one-hour-on-fake-etf-news"/>
-        <updated>2023-11-14T04:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Misleading corporate filing ignites short-lived rally]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Last Week in DeFi - Raft Exploited for 6.7M, Pika Retiring Token, Ether.fi Launches eETH, RocketPool Announces Houston Upgrade, and More...]]></title>
         <id>https://www.todayindefi.com/p/last-week-in-defi-raft-exploited</id>
         <link href="https://www.todayindefi.com/p/last-week-in-defi-raft-exploited"/>
@@ -1193,6 +1203,16 @@
         <summary type="html"><![CDATA[BlackRock Files for Spot ETH ETF BlackRock has filed a spot ETH ETF (iShares Ethereum Trust ETF) through Nasdaq. The ETF would use Coinbase Custody Trust Company as custodian, according to the filing. It will use the CME CF Ether-Dollar Reference Rate - New York Variant.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bad Gurl]]></title>
+        <id>https://medium.com/p/4f64187e9bda</id>
+        <link href="https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2"/>
+        <updated>2023-11-09T23:02:04.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
         </author>
     </entry>
     <entry>

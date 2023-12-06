@@ -7,6 +7,39 @@
       "articles": []
     },
     {
+      "title": "Stories by Arthur Hayes on Medium",
+      "feedUrl": "https://medium.com/feed/@cryptohayes",
+      "siteUrl": "https://medium.com/@cryptohayes?source=rss-2f6e06954878------2",
+      "articles": [
+        {
+          "id": "https://medium.com/p/64f2bef90327",
+          "author": "Arthur Hayes",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "link": "https://cryptohayes.medium.com/panda-power-64f2bef90327?source=rss-2f6e06954878------2",
+          "publishedOn": "2023-11-27T23:01:52.000Z",
+          "wordCount": 11007,
+          "title": "Panda Power",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*kkhm8UqnIdh_2gom"
+        },
+        {
+          "id": "https://medium.com/p/4f64187e9bda",
+          "author": "Arthur Hayes",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "link": "https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2",
+          "publishedOn": "2023-11-09T23:02:04.000Z",
+          "wordCount": 10098,
+          "title": "Bad Gurl",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*pgxvPFluNoZOm1Vi"
+        }
+      ]
+    },
+    {
+      "title": "Stories by Bagel on Medium",
+      "feedUrl": "https://medium.com/feed/@traderbagel",
+      "siteUrl": "https://medium.com/@traderbagel?source=rss-9af65712cb1b------2",
+      "articles": []
+    },
+    {
       "title": "Future",
       "feedUrl": "https://future.a16z.com/feed",
       "siteUrl": "https://future.com/",
@@ -18,13 +51,28 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/hnt-rallies-50-after-helium-expands-mobile-service-nationwide",
+          "author": "Tarang Khaitan",
+          "description": "Helium leverages T-Mobile’s network to offer unlimited data, talk and text for $20 per month.",
+          "link": "https://thedefiant.io/hnt-rallies-50-after-helium-expands-mobile-service-nationwide",
+          "publishedOn": "2023-12-06T18:56:46.000Z",
+          "wordCount": 1827,
+          "title": "HNT Rallies 50% After Helium Expands Mobile Service Nationwide",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/25eb6c549c925eef4f4e73577d156dd4a6f29cfb-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/25eb6c549c925eef4f4e73577d156dd4a6f29cfb-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/defi-loans-climb-to-highest-since-august-2022",
           "author": "Pedro Solimano",
           "description": "Loans on top seven lenders increased to $6 billion, the highest in over a year.",
           "link": "https://thedefiant.io/defi-loans-climb-to-highest-since-august-2022",
           "publishedOn": "2023-12-06T18:12:48.000Z",
-          "wordCount": 2282,
-          "title": "DeFi Loans Climb to Highest Since August 2022",
+          "wordCount": 2291,
+          "title": "DeFi Loan Volume Climbs to Highest Since August 2022",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/92ed662f378c103dd1b18205a098a364563afa03-1792x1024.png",
             "length": "1000000",
@@ -1481,23 +1529,14 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4cb9b2ae8616febcfba0fa94d4d0eec7aed05b52-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/ripple-rallies-12-and-back-in-one-hour-on-fake-etf-news",
-          "author": "Samuel Haig",
-          "description": "Misleading corporate filing ignites short-lived rally",
-          "link": "https://thedefiant.io/ripple-rallies-12-and-back-in-one-hour-on-fake-etf-news",
-          "publishedOn": "2023-11-14T04:55:00.000Z",
-          "wordCount": 2237,
-          "title": "Ripple Rallies 12% And Back In One Hour On Fake ETF News",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/89423c09a9ad32d53949684a37e69633ff6e6e02-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/89423c09a9ad32d53949684a37e69633ff6e6e02-880x495.jpg"
         }
       ]
+    },
+    {
+      "title": "Stories by Andre Cronje on Medium",
+      "feedUrl": "https://andrecronje.medium.com/feed",
+      "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
+      "articles": []
     },
     {
       "title": "Today in DeFi",
