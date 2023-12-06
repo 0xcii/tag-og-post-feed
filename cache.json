@@ -7,6 +7,39 @@
       "articles": []
     },
     {
+      "title": "Stories by Arthur Hayes on Medium",
+      "feedUrl": "https://medium.com/feed/@cryptohayes",
+      "siteUrl": "https://medium.com/@cryptohayes?source=rss-2f6e06954878------2",
+      "articles": [
+        {
+          "id": "https://medium.com/p/64f2bef90327",
+          "author": "Arthur Hayes",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "link": "https://cryptohayes.medium.com/panda-power-64f2bef90327?source=rss-2f6e06954878------2",
+          "publishedOn": "2023-11-27T23:01:52.000Z",
+          "wordCount": 11007,
+          "title": "Panda Power",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*kkhm8UqnIdh_2gom"
+        },
+        {
+          "id": "https://medium.com/p/4f64187e9bda",
+          "author": "Arthur Hayes",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "link": "https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2",
+          "publishedOn": "2023-11-09T23:02:04.000Z",
+          "wordCount": 10098,
+          "title": "Bad Gurl",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*pgxvPFluNoZOm1Vi"
+        }
+      ]
+    },
+    {
+      "title": "Stories by Bagel on Medium",
+      "feedUrl": "https://medium.com/feed/@traderbagel",
+      "siteUrl": "https://medium.com/@traderbagel?source=rss-9af65712cb1b------2",
+      "articles": []
+    },
+    {
       "title": "Future",
       "feedUrl": "https://future.a16z.com/feed",
       "siteUrl": "https://future.com/",
@@ -17,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/mantle-jumps-on-t-bill-bandwagon-with-musd-stablecoin",
+          "author": "Samuel Haig",
+          "description": "mUSD will offer yield from U.S. Treasury Bills and bank deposit interest via rebasing",
+          "link": "https://thedefiant.io/mantle-jumps-on-t-bill-bandwagon-with-musd-stablecoin",
+          "publishedOn": "2023-12-06T11:08:00.000Z",
+          "wordCount": 2366,
+          "title": "Mantle Jumps On T-Bill Bandwagon With mUSD Stablecoin",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3fe48bfd8e5f4ef1829c11acb9095c9548f82894-880x496.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3fe48bfd8e5f4ef1829c11acb9095c9548f82894-880x496.jpg"
+        },
         {
           "id": "https://thedefiant.io/beam-surges-277-in-six-weeks-following-chain-migration-and-gamefi-recovery",
           "author": "Samuel Haig",
@@ -1481,23 +1529,14 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b5fbae7ddbb1ff2440f2a1674df4792a56178eb9-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/aave-assets-are-still-stuck-over-a-year-after-usd100m-harmony-bridge-hack",
-          "author": "Owen Fernau",
-          "description": "The Harmony bridge hack saga highlights crypto's lack of recourse and the risks of composability.",
-          "link": "https://thedefiant.io/aave-assets-are-still-stuck-over-a-year-after-usd100m-harmony-bridge-hack",
-          "publishedOn": "2023-11-13T20:41:23.000Z",
-          "wordCount": 5017,
-          "title": "Aave Assets Are Still Stuck Over a Year After $100M Harmony Bridge Hack",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/073c92e5e959cff668ad2a9bbb1b8899e885fbeb-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/073c92e5e959cff668ad2a9bbb1b8899e885fbeb-1792x1024.png"
         }
       ]
+    },
+    {
+      "title": "Stories by Andre Cronje on Medium",
+      "feedUrl": "https://andrecronje.medium.com/feed",
+      "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
+      "articles": []
     },
     {
       "title": "Today in DeFi",
