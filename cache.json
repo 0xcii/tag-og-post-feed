@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/panda-power-64f2bef90327?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-27T23:01:52.000Z",
-          "wordCount": 11007,
+          "wordCount": 11808,
           "title": "Panda Power",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*kkhm8UqnIdh_2gom"
         },
@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-09T23:02:04.000Z",
-          "wordCount": 10098,
+          "wordCount": 10194,
           "title": "Bad Gurl",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*pgxvPFluNoZOm1Vi"
         }
@@ -50,6 +50,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/brazil-s-crypto-rails-get-boost-from-itau-and-nubank",
+          "author": "Pedro Solimano",
+          "description": "Nubank partnered with Circle to offer USDC access, and Brazil’s largest bank, Itau, has launched crypto trading.",
+          "link": "https://thedefiant.io/brazil-s-crypto-rails-get-boost-from-itau-and-nubank",
+          "publishedOn": "2023-12-06T19:54:13.000Z",
+          "wordCount": 2164,
+          "title": "Brazil’s Crypto Rails Get Boost from Itau and Nubank",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5e795778171d9fc63d34eecd4f12b0ac48130ab8-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5e795778171d9fc63d34eecd4f12b0ac48130ab8-1792x1024.png"
+        },
         {
           "id": "https://thedefiant.io/hnt-rallies-50-after-helium-expands-mobile-service-nationwide",
           "author": "Tarang Khaitan",
@@ -1514,21 +1529,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/51dc2d71a9432ff733c87b7ab0e21fa619419925-600x338.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/new-stablecoin-issuers-embrace-on-chain-u-s-treasuries-as-collateral",
-          "author": "Samuel Haig",
-          "description": "Verified USD and Midas tap U.S. Treasury Bills for collateralization",
-          "link": "https://thedefiant.io/new-stablecoin-issuers-embrace-on-chain-u-s-treasuries-as-collateral",
-          "publishedOn": "2023-11-14T14:02:00.000Z",
-          "wordCount": 2409,
-          "title": "New Stablecoin Issuers Embrace On-Chain U.S. Treasuries As Collateral",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4cb9b2ae8616febcfba0fa94d4d0eec7aed05b52-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4cb9b2ae8616febcfba0fa94d4d0eec7aed05b52-880x495.jpg"
         }
       ]
     },
