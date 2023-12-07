@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-07T18:16:42.945Z</id>
+    <id>urn:2023-12-07T19:10:39.831Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-07T18:16:42.945Z</updated>
+    <updated>2023-12-07T19:10:39.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jito Briefly Surpasses Lido's Valuation at Launch]]></title>
+        <id>https://thedefiant.io/jito-briefly-surpasses-lido-s-valuation-at-launch</id>
+        <link href="https://thedefiant.io/jito-briefly-surpasses-lido-s-valuation-at-launch"/>
+        <updated>2023-12-07T18:48:36.000Z</updated>
+        <summary type="html"><![CDATA[DeFi users celebrate five-figure windfalls as Solana liquid staking protocol airdrops $160M of JTO tokens.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eight Trends That Excite a16z For 2024]]></title>
         <id>https://thedefiant.io/eight-trends-that-excite-a16z-for-2024</id>
@@ -1173,16 +1183,6 @@
         <summary type="html"><![CDATA[Dopex V2 Live Dopex launches V2 with CLAMM officially available with Yield boosting & optimization for v3 LPs, and American-style options for traders. Armada V2 Solana-based Armada launches V2 SPL Token Staking and DeMUX. SPL is a governance plugin that allows token holders to vote on DAO proposals while also staking their tokens to receive rewards, and DeMUX allows for semi-automated protocol reward distribution.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing Layer 2 Launches: An On-chain Analysis of Liquidity Providers]]></title>
-        <id>https://thedefiant.io/comparing-layer-2-launches-an-on-chain-analysis-of-liquidity-providers</id>
-        <link href="https://thedefiant.io/comparing-layer-2-launches-an-on-chain-analysis-of-liquidity-providers"/>
-        <updated>2023-11-15T05:50:43.000Z</updated>
-        <summary type="html"><![CDATA[Keyrock analyzes the on-chain performance of high-profile layer 2 (L2) networks in their earliest days after mainnet launch.]]></summary>
-        <author>
-            <name>Keyrock</name>
         </author>
     </entry>
     <entry>
