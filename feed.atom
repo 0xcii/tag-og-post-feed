@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-08T18:16:33.656Z</id>
+    <id>urn:2023-12-08T19:10:26.349Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-08T18:16:33.656Z</updated>
+    <updated>2023-12-08T19:10:26.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tether’s USDT Market Cap Hits New Record as Stablecoins Recover]]></title>
+        <id>https://thedefiant.io/tether-s-usdt-market-cap-hits-new-record-as-stablecoins-recover</id>
+        <link href="https://thedefiant.io/tether-s-usdt-market-cap-hits-new-record-as-stablecoins-recover"/>
+        <updated>2023-12-08T18:45:15.000Z</updated>
+        <summary type="html"><![CDATA[USDT breached $90 billion in market cap for the first time.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainlink Holders Staked Tokens Worth $650M Hours After Early Access Launch]]></title>
         <id>https://thedefiant.io/chainlink-holders-staked-tokens-worth-usd650m-hours-after-early-access-launch</id>
@@ -686,6 +696,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Panda Power]]></title>
+        <id>https://medium.com/p/64f2bef90327</id>
+        <link href="https://cryptohayes.medium.com/panda-power-64f2bef90327?source=rss-2f6e06954878------2"/>
+        <updated>2023-11-27T23:01:52.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Magic Eden Launches Cross-chain Wallet]]></title>
         <id>https://thedefiant.io/magic-eden-launches-cross-chain-wallet</id>
         <link href="https://thedefiant.io/magic-eden-launches-cross-chain-wallet"/>
@@ -1166,16 +1186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DYDX Token Surges Ahead Of Massive Unlock]]></title>
-        <id>https://thedefiant.io/dydx-token-surges-ahead-of-massive-unlock</id>
-        <link href="https://thedefiant.io/dydx-token-surges-ahead-of-massive-unlock"/>
-        <updated>2023-11-16T05:53:57.000Z</updated>
-        <summary type="html"><![CDATA[Rally Follows Leading Decentralized Perpetuals Exchange Launching dYdX Chain Last Month]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Today in DeFi - Dopex V2 Live, Armada V2 on Solana, LayerZero Launches USDV, LPing Made Simple, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada</id>
         <link href="https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada"/>
@@ -1203,6 +1213,16 @@
         <summary type="html"><![CDATA[Recap: Week of Nov 6th]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bad Gurl]]></title>
+        <id>https://medium.com/p/4f64187e9bda</id>
+        <link href="https://cryptohayes.medium.com/bad-gurl-4f64187e9bda?source=rss-2f6e06954878------2"/>
+        <updated>2023-11-09T23:02:04.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
         </author>
     </entry>
 </feed>
