@@ -7,6 +7,29 @@
       "articles": []
     },
     {
+      "title": "Stories by Arthur Hayes on Medium",
+      "feedUrl": "https://medium.com/feed/@cryptohayes",
+      "siteUrl": "https://medium.com/@cryptohayes?source=rss-2f6e06954878------2",
+      "articles": [
+        {
+          "id": "https://medium.com/p/64f2bef90327",
+          "author": "Arthur Hayes",
+          "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
+          "link": "https://cryptohayes.medium.com/panda-power-64f2bef90327?source=rss-2f6e06954878------2",
+          "publishedOn": "2023-11-27T23:01:52.000Z",
+          "wordCount": 11007,
+          "title": "Panda Power",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*kkhm8UqnIdh_2gom"
+        }
+      ]
+    },
+    {
+      "title": "Stories by Bagel on Medium",
+      "feedUrl": "https://medium.com/feed/@traderbagel",
+      "siteUrl": "https://medium.com/@traderbagel?source=rss-9af65712cb1b------2",
+      "articles": []
+    },
+    {
       "title": "Future",
       "feedUrl": "https://future.a16z.com/feed",
       "siteUrl": "https://future.com/",
@@ -1498,6 +1521,12 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/63f656b592f6110721f4c53a709e0ed2d372dc53-1792x1024.png"
         }
       ]
+    },
+    {
+      "title": "Stories by Andre Cronje on Medium",
+      "feedUrl": "https://andrecronje.medium.com/feed",
+      "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
+      "articles": []
     },
     {
       "title": "Today in DeFi",
