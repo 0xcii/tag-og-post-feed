@@ -17,7 +17,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/panda-power-64f2bef90327?source=rss-2f6e06954878------2",
           "publishedOn": "2023-11-27T23:01:52.000Z",
-          "wordCount": 11032,
+          "wordCount": 11007,
           "title": "Panda Power",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*kkhm8UqnIdh_2gom"
         }
@@ -40,6 +40,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/linea-voyage-drives-record-activity-on-layer-2",
+          "author": "Samuel Haig",
+          "description": "Throughput, daily users, and fee volume post new highs on Layer 2",
+          "link": "https://thedefiant.io/linea-voyage-drives-record-activity-on-layer-2",
+          "publishedOn": "2023-12-12T08:52:00.000Z",
+          "wordCount": 2336,
+          "title": "Linea Voyage Drives Record Activity On Layer 2",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/03f505153f0a192e1f173e5f1ffc8df314f232cb-880x495.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/03f505153f0a192e1f173e5f1ffc8df314f232cb-880x495.jpg"
+        },
         {
           "id": "https://thedefiant.io/synthetix-tokenholders-vote-to-end-snx-inflation",
           "author": "Samuel Haig",
@@ -1499,21 +1514,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7e51009746da1c6808e9df08ca8e6a9603e46e86-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/trade-volume-for-rocket-pool-s-reth-outpaces-steth-by-430",
-          "author": "Samuel Haig",
-          "description": "rETH accounts for more than half all trading volume for liquid staking tokens",
-          "link": "https://thedefiant.io/trade-volume-for-rocket-pool-s-reth-outpaces-steth-by-430",
-          "publishedOn": "2023-11-17T11:54:00.000Z",
-          "wordCount": 2333,
-          "title": "Trade Volume For Rocket Pool’s rETH Outpaces stETH By 430%",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bf271f9fb26418686aba8d2555935e837945949d-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bf271f9fb26418686aba8d2555935e837945949d-880x495.jpg"
         }
       ]
     },
@@ -1528,6 +1528,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
+        {
+          "id": "https://www.todayindefi.com/p/today-in-defi-poolshark-live-on-arbitrum",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Poolshark launched on Arbitrum mainnet along with its token sale. Poolshark Protocol is an AMM that enables directional LPing. Powered by Wormhole, Circle, and Base, Pike Finance launches testnet on Ethereum, Optimism, Arbitrum, and Base L2. Pike is a cross-chain lending protocol that offers lending, leverage, and Earn services.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-poolshark-live-on-arbitrum",
+          "publishedOn": "2023-12-12T09:08:00.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Poolshark Live on Arbitrum, Uniswap Expands to Bitcoin Sidechain, Sen. Warren Introduces Anti-Crypto Bill, Bridging to Solana with Ease, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5262eb98-87c7-40ba-bf8d-905828553fc5_680x383.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5262eb98-87c7-40ba-bf8d-905828553fc5_680x383.png"
+        },
         {
           "id": "https://www.todayindefi.com/p/today-in-defi-lyra-chain-live-synthetix",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -1831,22 +1847,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53b169c0-8fef-4449-ad06-94f84e639f76_1200x630.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Dopex V2 Live Dopex launches V2 with CLAMM officially available with Yield boosting & optimization for v3 LPs, and American-style options for traders. Armada V2 Solana-based Armada launches V2 SPL Token Staking and DeMUX. SPL is a governance plugin that allows token holders to vote on DAO proposals while also staking their tokens to receive rewards, and DeMUX allows for semi-automated protocol reward distribution.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-dopex-v2-live-armada",
-          "publishedOn": "2023-11-15T13:19:41.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - Dopex V2 Live, Armada V2 on Solana, LayerZero Launches USDV, LPing Made Simple, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe166b92d-67f1-47f4-bf2c-bbef934d27ce_1074x508.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe166b92d-67f1-47f4-bf2c-bbef934d27ce_1074x508.png"
         }
       ]
     }
