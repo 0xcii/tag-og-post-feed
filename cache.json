@@ -41,6 +41,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/immutable-zkevm-invites-developers-to-offset-gamer-gas-fees",
+          "author": "Samuel Haig",
+          "description": "Immutable argues gas fees pose significant barrier to onboarding mainstream gamers",
+          "link": "https://thedefiant.io/immutable-zkevm-invites-developers-to-offset-gamer-gas-fees",
+          "publishedOn": "2023-12-13T12:16:00.000Z",
+          "wordCount": 2320,
+          "title": "Immutable zkEVM Invites Developers To Offset Gamer Gas Fees",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/78b6953e0a895299c05434b75474b8ce71f61d9e-664x416.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/78b6953e0a895299c05434b75474b8ce71f61d9e-664x416.png"
+        },
+        {
           "id": "https://thedefiant.io/coinbase-becomes-latest-dlt-firm-embracing-uae-with-cefi-smart-contract-platform",
           "author": "Samuel Haig",
           "description": "Coinbase joins the increasing number of digital assets firms establishing operations in the United Arab Emirates",
@@ -1494,21 +1509,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aa4a81746f9feb4838f1446b6b54ccaffeeb97e9-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/why-dydx-ditched-ethereum-or-dydx-chain-explained-by-david-gogel",
-          "author": "Camila Russo",
-          "description": "David Gogel is the VP of Strategy and Operations at the dYdX Foundation. In today's podcast, David will discuss the recent milestone of the foundation operating on its independent app chain. This transition involved multiple stages and intriguing tokenomic...",
-          "link": "https://thedefiant.io/why-dydx-ditched-ethereum-or-dydx-chain-explained-by-david-gogel",
-          "publishedOn": "2023-11-20T13:00:00.000Z",
-          "wordCount": 1644,
-          "title": "Why dYdX Ditched Ethereum | dYdX Chain Explained by David Gogel",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5c4997eda42a00c263cb3900abd4d3e0c4f57f51-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5c4997eda42a00c263cb3900abd4d3e0c4f57f51-880x495.jpg"
         }
       ]
     },
