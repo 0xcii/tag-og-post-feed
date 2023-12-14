@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-14T14:12:30.273Z</id>
+    <id>urn:2023-12-14T15:13:37.228Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-14T14:12:30.273Z</updated>
+    <updated>2023-12-14T15:13:37.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeFi Users Urged Not To Interact With Web3 Dapps Amid Major Exploit]]></title>
+        <title type="html"><![CDATA[DeFi Users Urged Not To Interact With Web3 Dapps Amid Major Ledger Exploit]]></title>
         <id>https://thedefiant.io/defi-users-urged-not-to-interact-with-web3-dapps-amid-major-exploit</id>
         <link href="https://thedefiant.io/defi-users-urged-not-to-interact-with-web3-dapps-amid-major-exploit"/>
         <updated>2023-12-14T13:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Ledger’s connector library compromised, injected with malicious drainer]]></summary>
+        <summary type="html"><![CDATA[Ledger’s connector library was compromised and injected with malicious drainer]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -66,7 +66,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rainbow Wallet's  "Fox Hunt" is Driving Thousands of MetaMask Users]]></title>
+        <title type="html"><![CDATA[Rainbow Wallet's  Points Are Attracting Thousands of MetaMask Users]]></title>
         <id>https://thedefiant.io/rainbow-s-fox-hunt-is-driving-thousands-to-use-wallet-after-swapping-on-metamask</id>
         <link href="https://thedefiant.io/rainbow-s-fox-hunt-is-driving-thousands-to-use-wallet-after-swapping-on-metamask"/>
         <updated>2023-12-13T16:13:33.000Z</updated>
