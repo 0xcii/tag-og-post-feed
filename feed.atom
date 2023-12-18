@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-18T09:13:53.559Z</id>
+    <id>urn:2023-12-18T10:14:59.345Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-18T09:13:53.559Z</updated>
+    <updated>2023-12-18T10:14:59.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Arbitrum One Outage, Gearbox v3 Upcoming, Innovative Stable Yield, Delta Neutral Farming with Airdrop Potential, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage"/>
+        <updated>2023-12-18T09:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Web3 portfolio viewer vfat launches Yield, allowing users to compare yield products across DeFi, and enter and exit positions in one transaction. Updates 🆕 Infinex introduced Infinex Account, allowing users to create their account through social sign-in, and interact with Infinex.]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boring Security Rescues 38 Apes Stolen In NFT Trader Exploit]]></title>
         <id>https://thedefiant.io/boring-security-rescues-38-apes-stolen-in-nft-trader-exploit</id>
@@ -1203,16 +1213,6 @@
         <summary type="html"><![CDATA[The world’s largest cryptocurrency exchange has been charged with one of the largest corporate penalties in U.S. history.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - KyberSwap 47M Exploit, HecoChain & HTX 110M Exploit, Deri V4 Live, Liquid Staking on Cosmos, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-kyberswap-47m-exploit</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-kyberswap-47m-exploit"/>
-        <updated>2023-11-23T09:13:52.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Dyson Full Version Release Dyson DEX has deployed its full version on Polygon zkEVM and launched the DYSN token. Besides Swaps and Dual Investment, the full version enables the Membership Program, Boosting, and Staking. Asymetrix V2 Live]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
 </feed>
