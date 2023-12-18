@@ -41,6 +41,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/coordinape-launches-colinks-professional-social-network-for-crypto",
+          "author": "Owen Fernau",
+          "description": "New SocialFi entrant aims to leverage Coordinape’s existing user base to solidify on-chain reputation.",
+          "link": "https://thedefiant.io/coordinape-launches-colinks-professional-social-network-for-crypto",
+          "publishedOn": "2023-12-18T19:59:18.000Z",
+          "wordCount": 2349,
+          "title": "Coordinape Launches ‘CoLinks’ Professional Social Network For Crypto",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/39e581232a19a41445b732c27f94e7a785c1dc77-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/39e581232a19a41445b732c27f94e7a785c1dc77-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/institutions-break-11-straight-weeks-of-buying-crypto-report",
           "author": "Pedro Solimano",
           "description": "CoinShares reported outflows from large entities over the past week.",
@@ -1474,21 +1489,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dae52f6302fba8e215b54fb8e2c9f766d70eb140-828x466.webp"
-        },
-        {
-          "id": "https://thedefiant.io/btc-tests-year-to-date-highs-amid-spot-bitcoin-etf-progress",
-          "author": "Samuel Haig",
-          "description": "The SEC met with both BlackRock and Grayscale earlier this week",
-          "link": "https://thedefiant.io/btc-tests-year-to-date-highs-amid-spot-bitcoin-etf-progress",
-          "publishedOn": "2023-11-24T12:26:00.000Z",
-          "wordCount": 2316,
-          "title": "BTC Tests Year-To-Date Highs Amid Spot Bitcoin ETF Progress",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f17cedef09da9c843f1580a2f905bd4ca0340384-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f17cedef09da9c843f1580a2f905bd4ca0340384-880x495.jpg"
         }
       ]
     },
