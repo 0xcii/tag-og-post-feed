@@ -41,6 +41,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/eigenlayer-raises-deposit-cap-to-500-000-eth",
+          "author": "yyctrader",
+          "description": "The highly anticipated restaking protocol has pulled in $200M after adding support for six new Ethereum liquid staking tokens.",
+          "link": "https://thedefiant.io/eigenlayer-raises-deposit-cap-to-500-000-eth",
+          "publishedOn": "2023-12-19T09:20:08.000Z",
+          "wordCount": 1766,
+          "title": "EigenLayer Raises Deposit Cap To 500,000 ETH",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0cd7380864c641910a8dbadd45e86374192515f5-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0cd7380864c641910a8dbadd45e86374192515f5-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/uptick-in-crypto-volatility-drives-usd230m-in-liquidations",
           "author": "Samuel Haig",
           "description": "More than 100,000 traders were liquidated in the past day",
@@ -1474,21 +1489,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/458cba39c3109491896e7bff23cf60e3e5afa130-700x389.png"
-        },
-        {
-          "id": "https://thedefiant.io/bots-terminals-and-llms-crypto-ux-is-getting-a-makeover",
-          "author": "Owen Fernau",
-          "description": "Trading bots have gone from obscurity to some of the most-used crypto applications in 2023.",
-          "link": "https://thedefiant.io/bots-terminals-and-llms-crypto-ux-is-getting-a-makeover",
-          "publishedOn": "2023-11-24T21:15:42.000Z",
-          "wordCount": 3553,
-          "title": "Bots, Terminals, and LLMs — Crypto UX is Getting a Makeover",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cdd0c3c59d02c4d20cdb95ac11cfd799d6fc7660-1456x816.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cdd0c3c59d02c4d20cdb95ac11cfd799d6fc7660-1456x816.png"
         }
       ]
     },
@@ -1503,6 +1503,22 @@
       "feedUrl": "https://todayindefi.substack.com/feed",
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
+        {
+          "id": "https://www.todayindefi.com/p/today-in-defi-gearbox-v3-live-ipor",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches 🚀 Gearbox V3 is live with PURE margin trading, new assets, and better organic rates. APYs depend on TVL migrated, and there is no new inflation in GEAR. ETH restaking protocol Renzo is live no EigenLayer. Renzo is the interface to the EigenLayer ecosystem securing Actively Validated Services (AVSs) and offering a higher yield than ETH staking.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-gearbox-v3-live-ipor",
+          "publishedOn": "2023-12-19T09:18:19.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Gearbox V3 Live, Ipor Launches Stake Rate Swap, High-Yield Stable Farms, One-Click High-Yield Farming, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c3f46d0-784b-40da-836e-b6a98d78cb06_900x539.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c3f46d0-784b-40da-836e-b6a98d78cb06_900x539.jpeg"
+        },
         {
           "id": "https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
@@ -1806,22 +1822,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc82c8f6-930a-4b23-a090-504bb9756942_680x383.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-rainfi-nft-lending",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 RainFi on Solana RainFi, a P2P NFT lending protocol on Solana, is live. RainFi lets users lend SOL/USDC/mSOL, and borrow SOL using their NFT as collateral. IOTX Liquid Staking Bedrock launches liquid staking for IOTX. IOTX holders can now stake IOTX to receive reward-accruing uniIOTX.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-rainfi-nft-lending",
-          "publishedOn": "2023-11-24T09:43:03.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - RainFi NFT Lending on Solana, dYdX Trading Rewards Coming, Automated LPing with Good Rewards, Today in DeFi Black Friday Sale, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F136b083e-698a-4c75-b712-11a8df2c2816_680x415.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F136b083e-698a-4c75-b712-11a8df2c2816_680x415.jpeg"
         }
       ]
     }
