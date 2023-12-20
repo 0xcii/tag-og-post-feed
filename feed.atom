@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-20T12:20:07.845Z</id>
+    <id>urn:2023-12-20T13:12:18.224Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-20T12:20:07.845Z</updated>
+    <updated>2023-12-20T13:12:18.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEI Surges To All-time High As ‘Parallelized’ Layer 1s Rally]]></title>
+        <id>https://thedefiant.io/sei-surges-to-all-time-high-as-parallelized-layer-1s-rally</id>
+        <link href="https://thedefiant.io/sei-surges-to-all-time-high-as-parallelized-layer-1s-rally"/>
+        <updated>2023-12-20T12:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Blockchains that allow multiple transactions to be executed simultaneously are seeing renewed investor interest.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EthereumPoW Core Team To Disband and Usher Decentralized Governance]]></title>
         <id>https://thedefiant.io/ethereumpow-core-team-to-disband-and-usher-decentralized-governance</id>
@@ -1193,16 +1203,6 @@
         <summary type="html"><![CDATA[Updates 🆕 Call for Cosmos Chain Split In response to a recently passed proposal that reduces ATOM inflation, Cosmos founder Jae Kwon called for a chain split and referred to the hard fork as AtomOne. The forked chain would support the ATOM token along with the native ATOM1.]]></summary>
         <author>
             <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Buterin Proposes 'd/acc' Philosophy in Techno-Optimism Post]]></title>
-        <id>https://thedefiant.io/vitalik-buterin-proposes-d-acc-philosophy-in-post-on-techno-optimism</id>
-        <link href="https://thedefiant.io/vitalik-buterin-proposes-d-acc-philosophy-in-post-on-techno-optimism"/>
-        <updated>2023-11-28T02:33:53.000Z</updated>
-        <summary type="html"><![CDATA[Buterin's 'd/acc' philosophy advocates for a deliberate and balanced path in technological development.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
