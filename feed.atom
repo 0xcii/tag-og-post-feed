@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-20T11:10:03.921Z</id>
+    <id>urn:2023-12-20T12:20:07.845Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-20T11:10:03.921Z</updated>
+    <updated>2023-12-20T12:20:07.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EthereumPoW Core Team To Disband and Usher Decentralized Governance]]></title>
+        <id>https://thedefiant.io/ethereumpow-core-team-to-disband-and-usher-decentralized-governance</id>
+        <link href="https://thedefiant.io/ethereumpow-core-team-to-disband-and-usher-decentralized-governance"/>
+        <updated>2023-12-20T11:54:00.000Z</updated>
+        <summary type="html"><![CDATA[ETHW’s ecosystem rallied this past month but remains down more than 90% from its record highs]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - ZKFair Fair-launches zk-Rollup, Flooring Protocol 2M Exploit, Frame Airdrops NFT Traders, Leveraged Trade LST Yield, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-zkfair-fair-launches</id>
@@ -1193,16 +1203,6 @@
         <summary type="html"><![CDATA[Buterin's 'd/acc' philosophy advocates for a deliberate and balanced path in technological development.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Gaming Company OhBaby! Partners With Paramount]]></title>
-        <id>https://thedefiant.io/web3-gaming-company-ohbaby-partners-with-paramount</id>
-        <link href="https://thedefiant.io/web3-gaming-company-ohbaby-partners-with-paramount"/>
-        <updated>2023-11-28T00:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Kart racing game to be released on Steam after beta testing is completed.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
