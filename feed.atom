@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-20T17:10:37.647Z</id>
+    <id>urn:2023-12-20T18:16:14.910Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-20T17:10:37.647Z</updated>
+    <updated>2023-12-20T18:16:14.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Jobs Plunged +80% to a Near Death in 2023]]></title>
+        <id>https://thedefiant.io/crypto-jobs-plunged-80-to-a-near-death-in-2023</id>
+        <link href="https://thedefiant.io/crypto-jobs-plunged-80-to-a-near-death-in-2023"/>
+        <updated>2023-12-20T16:46:44.000Z</updated>
+        <summary type="html"><![CDATA[Crypto jobs dropped by 84% in the U.S. and 92% in Germany, LinkedIn data show.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Render is Switching to Solana After 10x-ing This Year]]></title>
+        <id>https://thedefiant.io/render-is-switching-to-solana-after-10x-ing-this-year</id>
+        <link href="https://thedefiant.io/render-is-switching-to-solana-after-10x-ing-this-year"/>
+        <updated>2023-12-20T16:15:26.000Z</updated>
+        <summary type="html"><![CDATA[The decentralized compute platform also implemented a new Burn and Mint Equilibrium Model.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEI Surges To All-time High As ‘Parallelized’ Layer 1s Rally]]></title>
         <id>https://thedefiant.io/sei-surges-to-all-time-high-as-parallelized-layer-1s-rally</id>
@@ -1173,26 +1193,6 @@
         <summary type="html"><![CDATA[The Stakewise V3 marketplace enables validators to offer customized options and rewards for ETH holders.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contango Taps Spark For DeFi Native Perps]]></title>
-        <id>https://thedefiant.io/contango-taps-spark-for-defi-native-perps</id>
-        <link href="https://thedefiant.io/contango-taps-spark-for-defi-native-perps"/>
-        <updated>2023-11-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Contango’s Spark integration comes one month after launching Aave-based perpetuals]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vertex Activity Surges With $1.5B In Daily Volume]]></title>
-        <id>https://thedefiant.io/vertex-activity-surges-with-usd1-5b-in-daily-volume</id>
-        <link href="https://thedefiant.io/vertex-activity-surges-with-usd1-5b-in-daily-volume"/>
-        <updated>2023-11-28T09:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Vertex beats out dYdX to rank as leading perpetuals DEX by trade volume]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
