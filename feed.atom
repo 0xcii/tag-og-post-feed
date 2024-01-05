@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-05T06:17:48.658Z</id>
+    <id>urn:2024-01-05T07:12:40.090Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-05T06:17:48.658Z</updated>
+    <updated>2024-01-05T07:12:40.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1135,16 +1135,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <summary type="html"><![CDATA[Nubank partnered with Circle to offer USDC access, and Brazil’s largest bank, Itau, has launched crypto trading.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HNT Rallies 50% After Helium Expands Mobile Service Nationwide]]></title>
-        <id>https://thedefiant.io/hnt-rallies-50-after-helium-expands-mobile-service-nationwide</id>
-        <link href="https://thedefiant.io/hnt-rallies-50-after-helium-expands-mobile-service-nationwide"/>
-        <updated>2023-12-06T18:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Helium leverages T-Mobile’s network to offer unlimited data, talk and text for $20 per month.]]></summary>
-        <author>
-            <name>Tarang Khaitan</name>
         </author>
     </entry>
 </feed>
