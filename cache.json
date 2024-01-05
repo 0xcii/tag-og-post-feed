@@ -51,6 +51,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/ethereum-s-exit-queue-jumps-to-record-high-as-celsius-unstakes",
+          "author": "Samuel Haig",
+          "description": "Celsius said it is consolidating assets before distributing funds to creditors",
+          "link": "https://thedefiant.io/ethereum-s-exit-queue-jumps-to-record-high-as-celsius-unstakes",
+          "publishedOn": "2024-01-05T12:19:00.000Z",
+          "wordCount": null,
+          "title": "Ethereum’s Exit Queue Jumps To Record High As Celsius Unstakes",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6ba1b1a157c4b673a466e53126223d52a3e6e36e-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6ba1b1a157c4b673a466e53126223d52a3e6e36e-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/ethereum-developers-confirm-dencun-testnet-dates-look-to-following-pectra-upgrade",
           "author": "Samuel Haig",
           "description": "Pectra is set to bolster decentralization by introducing statelessness through Verkle Trees",
@@ -1243,7 +1258,7 @@
         {
           "id": "https://thedefiant.io/tether-s-usdt-market-cap-hits-new-record-as-stablecoins-recover",
           "author": "Pedro Solimano",
-          "description": "USDT breached $90 billion in market cap for the first time.",
+          "description": "",
           "link": "https://thedefiant.io/tether-s-usdt-market-cap-hits-new-record-as-stablecoins-recover",
           "publishedOn": "2023-12-08T18:45:15.000Z",
           "wordCount": null,
@@ -1258,7 +1273,7 @@
         {
           "id": "https://thedefiant.io/chainlink-holders-staked-tokens-worth-usd650m-hours-after-early-access-launch",
           "author": "Tarang Khaitan",
-          "description": "",
+          "description": "The entire community pool allocation was filled days before the staking service was available to the public.",
           "link": "https://thedefiant.io/chainlink-holders-staked-tokens-worth-usd650m-hours-after-early-access-launch",
           "publishedOn": "2023-12-08T15:47:20.000Z",
           "wordCount": null,
