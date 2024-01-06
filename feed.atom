@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-06T18:15:58.815Z</id>
+    <id>urn:2024-01-06T19:10:26.730Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-06T18:15:58.815Z</updated>
+    <updated>2024-01-06T19:10:26.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1134,16 +1134,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
 9:04 Cami's Hot Take...]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Convergence of AI and Blockchain]]></title>
-        <id>https://thedefiant.io/the-convergence-of-ai-and-blockchain</id>
-        <link href="https://thedefiant.io/the-convergence-of-ai-and-blockchain"/>
-        <updated>2023-12-08T06:29:24.000Z</updated>
-        <summary type="html"><![CDATA[Looking at how two of the most innovative technologies since the Internet complement each other.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
