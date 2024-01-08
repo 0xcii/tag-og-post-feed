@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-08T15:14:14.422Z</id>
+    <id>urn:2024-01-08T16:17:43.085Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-08T15:14:14.422Z</updated>
+    <updated>2024-01-08T16:17:43.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Could HMX Dominate Decentralized Futures?]]></title>
+        <id>https://thedefiant.io/could-hmx-dominate-decentralized-futures</id>
+        <link href="https://thedefiant.io/could-hmx-dominate-decentralized-futures"/>
+        <updated>2024-01-08T15:51:59.000Z</updated>
+        <summary type="html"><![CDATA[We are back with another sponsored explainer video, and today we’re diving into the world of decentralized perps with HMX. Following a strong launch on Arbitrum earlier this year, HMX has delivered a decentralized perpetual protocol that supports crypto, c...]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today in DeFi - Perennial Power Perps, Lyra x Celestia, Manta Unveils Airdrop, and more...]]></title>
         <id>https://www.todayindefi.com/p/today-in-defi-perennial-power-perps</id>
@@ -1053,7 +1063,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/vulnerability-on-bitcoin</id>
         <link href="https://thedefiant.io/vulnerability-on-bitcoin"/>
         <updated>2023-12-10T18:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Vulnerability on Bitcoin]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -1063,6 +1072,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/our-most-read-stories-this-week-2024-rate-cuts-anti-crypto-bill-ai-crypto-mashup-snx-inflation</id>
         <link href="https://thedefiant.io/our-most-read-stories-this-week-2024-rate-cuts-anti-crypto-bill-ai-crypto-mashup-snx-inflation"/>
         <updated>2023-12-10T16:27:43.000Z</updated>
+        <summary type="html"><![CDATA[The Defiant's most read stories for the week of Dec. 11.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
