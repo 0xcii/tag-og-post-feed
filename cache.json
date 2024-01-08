@@ -176,7 +176,7 @@
           "description": "$500M worth of crypto trades were liquidations in a single hour",
           "link": "https://thedefiant.io/flash-crash-usd100b-wiped-from-crypto-market-cap-in-three-hours",
           "publishedOn": "2024-01-03T14:39:00.000Z",
-          "wordCount": 2099,
+          "wordCount": null,
           "title": "Flash Crash! $100B Wiped From Crypto Market Cap In Three Hours",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3e7df40024478066a6b58bba811ba3741069b0a8-1792x1024.png",
@@ -206,7 +206,7 @@
           "description": "ETH’s supply has increased by 3,051 coins since tagging a post-merge low on Dec. 30",
           "link": "https://thedefiant.io/ether-supply-grows-amid-activity-lull-during-new-year-holidays",
           "publishedOn": "2024-01-03T11:23:00.000Z",
-          "wordCount": 2451,
+          "wordCount": null,
           "title": "Ether Supply Grows Amid Activity Lull During New Year Holidays",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f1df1902c62ca0981da7c1f90ca93076fedc9717-1792x1024.png",
@@ -1299,6 +1299,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-perennial-power-perps",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Launches Perennial introduces Power perpetuals, a product in between options and perpetuals first introduced in a Paradigm research paper. Updates Lyra Chain(aka Lyra v2) is going to use Celestia for Data availability Updates Unibot telegram sniping bot is now on Arbitrum",
+          "link": "https://www.todayindefi.com/p/today-in-defi-perennial-power-perps",
+          "publishedOn": "2024-01-08T08:40:46.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - Perennial Power Perps, Lyra x Celestia, Manta Unveils Airdrop, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd65e65b-ffc7-4df9-9809-2c475889d935_700x394.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd65e65b-ffc7-4df9-9809-2c475889d935_700x394.png"
+        },
+        {
           "id": "https://www.todayindefi.com/p/last-week-in-defi-cake-reduction",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Product Launches 🚀 Structured product protocol Passage has launched on Arbitrum. Passage lets users long or short volatility using simple, easy to understand structured products. Parallel mainnet is now open for developers. Parallel is the first omni-chain L2 built on Arbitrum, aiming to “unify liquidity” from different chains.",
@@ -1601,22 +1617,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40814c8d-861f-4e47-ba97-a314098e9f08_1440x720.png"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-ssv-permissionless",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 DVT network SSV launched its permissionless mainnet, removing the limitation that restricts the onboarding of validators and operators only to launch partners. Clearpool launches Clearpool Prime on OP Mainnet. Prime allows whitelisted, institutional borrowers to launch pools with tailored terms and invite similarly whitelisted lenders to participate.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-ssv-permissionless",
-          "publishedOn": "2023-12-13T09:27:14.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - SSV Permissionless Mainnet Live, Conic Finance to Launch V2, High-Yield Stable Farm on Kava, Access Solana DeFi with EVM Wallet, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c86daa7-025b-4959-a38c-98c698779d8e_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c86daa7-025b-4959-a38c-98c698779d8e_1200x675.jpeg"
         }
       ]
     }
