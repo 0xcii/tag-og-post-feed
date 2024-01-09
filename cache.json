@@ -51,6 +51,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/gensler-said-sec-s-x-is-compromised-after-account-announced-bitcoin-etf-approval",
+          "author": "Camila Russo",
+          "description": "Just minutes earlier, the SEC had posted on X that the ETF had been approved.",
+          "link": "https://thedefiant.io/gensler-said-sec-s-x-is-compromised-after-account-announced-bitcoin-etf-approval",
+          "publishedOn": "2024-01-09T21:35:35.000Z",
+          "wordCount": null,
+          "title": "Gensler Said SEC's Twitter is \"Compromised\" After Account Announced Bitcoin ETF Approval",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/26b1b4121d67611207bfc035a0f5665be986f1db-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/26b1b4121d67611207bfc035a0f5665be986f1db-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/fox-launches-protocol-for-content-verification-on-polygon",
           "author": "Owen Fernau",
           "description": "89,000 pieces of content have been registered so far.",
@@ -1248,7 +1263,7 @@
         {
           "id": "https://thedefiant.io/crypto-markets-slump-despite-sec-meetings-with-spot-bitcoin-etf-applicants",
           "author": "Samuel Haig",
-          "description": "The combined crypto market cap is down 7% since Sunday",
+          "description": "",
           "link": "https://thedefiant.io/crypto-markets-slump-despite-sec-meetings-with-spot-bitcoin-etf-applicants",
           "publishedOn": "2023-12-13T07:11:00.000Z",
           "wordCount": null,
@@ -1263,7 +1278,7 @@
         {
           "id": "https://thedefiant.io/crypto-sell-off-continues-as-bitcoin-and-ether-give-up-past-week-s-gains",
           "author": "Pedro Solimano",
-          "description": "",
+          "description": "Investors sent $2 billion to exchanges Monday, the highest since Terra’s collapse.",
           "link": "https://thedefiant.io/crypto-sell-off-continues-as-bitcoin-and-ether-give-up-past-week-s-gains",
           "publishedOn": "2023-12-12T18:11:46.000Z",
           "wordCount": null,
