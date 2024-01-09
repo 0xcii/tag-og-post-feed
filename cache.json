@@ -27,7 +27,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/expression-f580605ebccd?source=rss-2f6e06954878------2",
           "publishedOn": "2023-12-22T23:01:41.000Z",
-          "wordCount": 9040,
+          "wordCount": 9038,
           "title": "Expression",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*7_YZ36M2ROQEJ09_"
         }
@@ -791,6 +791,21 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5590da0afb7208e0e43923f0e7a24b57acbd3b0f-1792x1024.png"
         },
         {
+          "id": "https://thedefiant.io/the-painful-reality-of-defi-yields",
+          "author": "Jack Dunham",
+          "description": "The Painful Reality of DeFi Yields with IvanGBI",
+          "link": "https://thedefiant.io/the-painful-reality-of-defi-yields",
+          "publishedOn": "2023-12-19T16:24:00.000Z",
+          "wordCount": null,
+          "title": "The Painful Reality of DeFi Yields",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/869c8259a4750831aba500af959ec94bd88655d1-640x480.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/869c8259a4750831aba500af959ec94bd88655d1-640x480.jpg"
+        },
+        {
           "id": "https://thedefiant.io/injs-stops-inscriptions-mint-on-injective-blockchain-minutes-after-it-started",
           "author": "Camila Russo",
           "description": "The team has promised to refund users.",
@@ -914,6 +929,36 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7f9bcc0f88bfbc6feec0c8484e798e91a07bddb7-1792x1024.png"
+        },
+        {
+          "id": "https://thedefiant.io/will-points-unlock-airdrops",
+          "author": "Camila Russo",
+          "description": "null",
+          "link": "https://thedefiant.io/will-points-unlock-airdrops",
+          "publishedOn": "2023-12-16T16:31:00.000Z",
+          "wordCount": null,
+          "title": "Will Points Unlock Airdrops",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/acda65afd0248d299d29da7d0d464e0778468d95-960x540.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/acda65afd0248d299d29da7d0d464e0778468d95-960x540.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/don-t-use-dapps-how-the-ledger-exploit-affected-web3-dapps",
+          "author": "Camila Russo",
+          "description": "Keep up with crypto with The Defiant founder Camila Russo blending essential news and key updates with her own personal insights on this episode.",
+          "link": "https://thedefiant.io/don-t-use-dapps-how-the-ledger-exploit-affected-web3-dapps",
+          "publishedOn": "2023-12-16T16:10:00.000Z",
+          "wordCount": null,
+          "title": "\"DON'T USE DAPPS\": How The Ledger Exploit Affected Web3 Dapps",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cfe0bd061ef90861bfa5a2b4d48d653aeab216ca-640x480.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cfe0bd061ef90861bfa5a2b4d48d653aeab216ca-640x480.jpg"
         },
         {
           "id": "https://thedefiant.io/bonk-memecoin-just-had-the-12th-most-successful-coinbase-debut",
@@ -1218,7 +1263,7 @@
         {
           "id": "https://thedefiant.io/layer-2-starknet-unveils-plan-to-distribute-usd3-5m-in-fees-to-developers",
           "author": "Pedro Solimano",
-          "description": "“Devonomics” will distribute 8% of fees (roughly $3.5 million) to its builders.",
+          "description": "",
           "link": "https://thedefiant.io/layer-2-starknet-unveils-plan-to-distribute-usd3-5m-in-fees-to-developers",
           "publishedOn": "2023-12-12T14:20:36.000Z",
           "wordCount": null,
@@ -1258,7 +1303,7 @@
         {
           "id": "https://thedefiant.io/synthetix-tokenholders-vote-to-end-snx-inflation",
           "author": "Samuel Haig",
-          "description": "",
+          "description": "SNX to become deflationary following Andromeda upgrade",
           "link": "https://thedefiant.io/synthetix-tokenholders-vote-to-end-snx-inflation",
           "publishedOn": "2023-12-12T05:59:00.000Z",
           "wordCount": null,
