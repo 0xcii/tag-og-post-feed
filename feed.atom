@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-10T01:01:49.959Z</id>
+    <id>urn:2024-01-10T02:27:29.331Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-10T01:01:49.959Z</updated>
+    <updated>2024-01-10T02:27:29.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC's Twitter Blunder Shows Bitcoin ETF Approval May Be a "Sell-the-News" Event]]></title>
+        <id>https://thedefiant.io/sec-s-twitter-blunder-shows-bitcoin-etf-approval-may-be-a-sell-the-news-event</id>
+        <link href="https://thedefiant.io/sec-s-twitter-blunder-shows-bitcoin-etf-approval-may-be-a-sell-the-news-event"/>
+        <updated>2024-01-10T01:17:29.000Z</updated>
+        <summary type="html"><![CDATA[BTC jumped before dropping seconds after the SEC tweeted the sport Bitcoin ETF had been approved.]]></summary>
+        <author>
+            <name>Owen Fernau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gensler Said SEC's Twitter is "Compromised" After Account Announced Bitcoin ETF Approval]]></title>
         <id>https://thedefiant.io/gensler-said-sec-s-x-is-compromised-after-account-announced-bitcoin-etf-approval</id>
@@ -1053,7 +1063,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/coinbase-becomes-latest-dlt-firm-embracing-uae-with-cefi-smart-contract-platform</id>
         <link href="https://thedefiant.io/coinbase-becomes-latest-dlt-firm-embracing-uae-with-cefi-smart-contract-platform"/>
         <updated>2023-12-13T10:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase joins the increasing number of digital assets firms establishing operations in the United Arab Emirates]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -1063,6 +1072,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/crypto-markets-slump-despite-sec-meetings-with-spot-bitcoin-etf-applicants</id>
         <link href="https://thedefiant.io/crypto-markets-slump-despite-sec-meetings-with-spot-bitcoin-etf-applicants"/>
         <updated>2023-12-13T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[The combined crypto market cap is down 7% since Sunday]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
