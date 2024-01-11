@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-11T22:13:13.275Z</id>
+    <id>urn:2024-01-11T23:14:05.566Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-11T22:13:13.275Z</updated>
+    <updated>2024-01-11T23:14:05.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1093,16 +1093,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <link href="https://thedefiant.io/immutable-zkevm-invites-developers-to-offset-gamer-gas-fees"/>
         <updated>2023-12-13T12:16:00.000Z</updated>
         <summary type="html"><![CDATA[Immutable argues gas fees pose significant barrier to onboarding mainstream gamers]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Becomes Latest DLT Firm Embracing UAE With CeFi Smart Contract Platform]]></title>
-        <id>https://thedefiant.io/coinbase-becomes-latest-dlt-firm-embracing-uae-with-cefi-smart-contract-platform</id>
-        <link href="https://thedefiant.io/coinbase-becomes-latest-dlt-firm-embracing-uae-with-cefi-smart-contract-platform"/>
-        <updated>2023-12-13T10:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase joins the increasing number of digital assets firms establishing operations in the United Arab Emirates]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
