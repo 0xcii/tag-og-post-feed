@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-11T01:01:45.346Z</id>
+    <id>urn:2024-01-11T02:28:13.609Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-11T01:01:45.346Z</updated>
+    <updated>2024-01-11T02:28:13.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1103,26 +1103,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <link href="https://thedefiant.io/crypto-sell-off-continues-as-bitcoin-and-ether-give-up-past-week-s-gains"/>
         <updated>2023-12-12T18:11:46.000Z</updated>
         <summary type="html"><![CDATA[Investors sent $2 billion to exchanges Monday, the highest since Terra’s collapse.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13 year old VC explains Eigen Layer]]></title>
-        <id>https://thedefiant.io/13-year-old-vc-explains-eigen-layer</id>
-        <link href="https://thedefiant.io/13-year-old-vc-explains-eigen-layer"/>
-        <updated>2023-12-12T14:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Eigen Layer is a platform that enables Ethereum restakers to stake ETH across multiple protocols at once, using data availability, decentralized sequencers, light node bridges, and other features. It is a proof of stake validation marketplace that reuses s...]]></summary>
-        <author>
-            <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer 2 Starknet Unveils Plan To Distribute $3.5M in Fees To Developers]]></title>
-        <id>https://thedefiant.io/layer-2-starknet-unveils-plan-to-distribute-usd3-5m-in-fees-to-developers</id>
-        <link href="https://thedefiant.io/layer-2-starknet-unveils-plan-to-distribute-usd3-5m-in-fees-to-developers"/>
-        <updated>2023-12-12T14:20:36.000Z</updated>
-        <summary type="html"><![CDATA[“Devonomics” will distribute 8% of fees (roughly $3.5 million) to its builders.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>

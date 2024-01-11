@@ -56,7 +56,7 @@
           "description": "ETFs from all 11 applicants were approved.",
           "link": "https://thedefiant.io/sec-approves-spot-bitcoin-etfs-in-historic-decision",
           "publishedOn": "2024-01-10T21:32:05.000Z",
-          "wordCount": null,
+          "wordCount": 2297,
           "title": "SEC Approves Spot Bitcoin ETFs in Landmark Decision",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ef8ccf27dae0fb8066763aba555a6109cecf3f88-1792x1024.png",
@@ -71,7 +71,7 @@
           "description": "ICP has quietly become the 18th most valuable digital asset.",
           "link": "https://thedefiant.io/dfinity-s-dominic-williams-says-enterprises-will-be-key-for-icp-s-growth",
           "publishedOn": "2024-01-10T19:53:11.000Z",
-          "wordCount": null,
+          "wordCount": 2736,
           "title": "DFINITY’s Dominic Williams Says Enterprises Will Be Key for ICP's Growth",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9467dc19e455526cf146d82b3e60188950f9d1e4-1792x1024.png",
@@ -1334,31 +1334,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c35340b8202fb7454760cc030eb8498da0ece14e-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/13-year-old-vc-explains-eigen-layer",
-          "author": "Jack Dunham",
-          "description": "Eigen Layer is a platform that enables Ethereum restakers to stake ETH across multiple protocols at once, using data availability, decentralized sequencers, light node bridges, and other features. It is a proof of stake validation marketplace that reuses s...",
-          "link": "https://thedefiant.io/13-year-old-vc-explains-eigen-layer",
-          "publishedOn": "2023-12-12T14:27:00.000Z",
-          "wordCount": null,
-          "title": "13 year old VC explains Eigen Layer",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bf8677e61bac1d0d0e8b97162b0594252f291992-320x180.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bf8677e61bac1d0d0e8b97162b0594252f291992-320x180.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/layer-2-starknet-unveils-plan-to-distribute-usd3-5m-in-fees-to-developers",
-          "author": "Pedro Solimano",
-          "description": "“Devonomics” will distribute 8% of fees (roughly $3.5 million) to its builders.",
-          "link": "https://thedefiant.io/layer-2-starknet-unveils-plan-to-distribute-usd3-5m-in-fees-to-developers",
-          "publishedOn": "2023-12-12T14:20:36.000Z",
-          "wordCount": null,
-          "title": "Layer 2 Starknet Unveils Plan To Distribute $3.5M in Fees To Developers",
-          "imageUrl": null
         }
       ]
     },
