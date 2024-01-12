@@ -101,7 +101,7 @@
           "description": "ICP has quietly become the 18th most valuable digital asset.",
           "link": "https://thedefiant.io/dfinity-s-dominic-williams-says-enterprises-will-be-key-for-icp-s-growth",
           "publishedOn": "2024-01-10T19:53:11.000Z",
-          "wordCount": 2756,
+          "wordCount": null,
           "title": "DFINITY’s Dominic Williams Says Enterprises Will Be Key for ICP's Growth",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9467dc19e455526cf146d82b3e60188950f9d1e4-1792x1024.png",
@@ -306,7 +306,7 @@
           "description": "Some onlookers blamed the sudden Jan. 3 crypto crash on a Matrixport report claiming the SEC will reject all pending spot Bitcoin ETF applications",
           "link": "https://thedefiant.io/is-matrixport-to-blame-for-the-violent-crypto-flash-crash",
           "publishedOn": "2024-01-04T03:09:00.000Z",
-          "wordCount": 2682,
+          "wordCount": null,
           "title": "Is Matrixport To Blame For The Violent Crypto Flash Crash?",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/97e0f5c913c7ee880cc55c338c6c7fdbd72680fd-1792x1024.png",
@@ -1289,21 +1289,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5d4c8b45ae04520281a3aac890c3ba73b0ef6db3-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/dex-aggregator-matcha-adds-new-cross-chain-functionality",
-          "author": "Camila Russo",
-          "description": "Will Warren is the Co-Founder of Matcha, a DEX aggregator built by 0x. Matcha recently launched cross-chain swap functionality, allowing users to swap one asset on a particular chain for an new asset on a separate chain with one transaction. Cross-chain sw...",
-          "link": "https://thedefiant.io/dex-aggregator-matcha-adds-new-cross-chain-functionality",
-          "publishedOn": "2023-12-13T13:36:13.000Z",
-          "wordCount": null,
-          "title": "DEX Aggregator Matcha Adds NEW Cross Chain Functionality",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1c097a6fff30ff8a2571d13b6b76d37a35be2a6a-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1c097a6fff30ff8a2571d13b6b76d37a35be2a6a-880x495.jpg"
         }
       ]
     },
