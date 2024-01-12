@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-12T08:17:54.878Z</id>
+    <id>urn:2024-01-12T09:14:06.719Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-12T08:17:54.879Z</updated>
+    <updated>2024-01-12T09:14:06.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today in DeFi - Ajna Full Launch, Pendle Limit Orders Live, Orbiter Confirms Token, Leverage Farming on Solana for Airdrop, and more...]]></title>
+        <id>https://www.todayindefi.com/p/today-in-defi-ajna-full-launch-pendle</id>
+        <link href="https://www.todayindefi.com/p/today-in-defi-ajna-full-launch-pendle"/>
+        <updated>2024-01-12T08:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Launches 🚀 Ajna, a permissionless p2p lending protocol, is now fully live and can be accessed on Summerfi and Ajna's frontend. Users can use any ERC-20 or NFT as collateral without going through any gating mechanism. Today in DeFi is Now on Telegram]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin ETFs Daily Trading Volume Crosses $6B]]></title>
         <id>https://thedefiant.io/bitcoin-etfs-daily-trading-volume-crosses-usd5b</id>
@@ -886,16 +896,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <summary type="html"><![CDATA[Chris Bradbury is the CEO of Summer.fi (previously oasis.app). Summer.fi is the 6th largest DeFi protocol that enables users to borrow, lend, and multiply assets across multiple DeFi protocols]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Arbitrum One Outage, Gearbox v3 Upcoming, Innovative Stable Yield, Delta Neutral Farming with Airdrop Potential, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-arbitrum-one-outage"/>
-        <updated>2023-12-18T09:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Web3 portfolio viewer vfat launches Yield, allowing users to compare yield products across DeFi, and enter and exit positions in one transaction. Updates 🆕 Infinex introduced Infinex Account, allowing users to create their account through social sign-in, and interact with Infinex.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
