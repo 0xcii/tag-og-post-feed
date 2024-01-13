@@ -1224,16 +1224,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/05a82711979116c68bb423e2ca8e6a04299f04a3-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/chainlink-to-power-polygon-zkevm-s-data-feeds",
-          "author": "Pedro Solimano",
-          "description": "Polygon developers will now be able to tap into Chainlink’s live data points to power dApps, liquidity protocols, and decentralized exchanges.",
-          "link": "https://thedefiant.io/chainlink-to-power-polygon-zkevm-s-data-feeds",
-          "publishedOn": "2023-12-14T18:53:48.000Z",
-          "wordCount": null,
-          "title": "Chainlink to Power Polygon zkEVM’s Data Feeds",
-          "imageUrl": null
         }
       ]
     },
