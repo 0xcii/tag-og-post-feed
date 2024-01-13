@@ -1264,36 +1264,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/eeaef9fdaaa165f7f934f659cbec8500451c0e74-880x495.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/layerzero-launches-testnet-for-newly-announced-v2-iteration",
-          "author": "Samuel Haig",
-          "description": "",
-          "link": "https://thedefiant.io/layerzero-launches-testnet-for-newly-announced-v2-iteration",
-          "publishedOn": "2023-12-14T14:00:00.000Z",
-          "wordCount": null,
-          "title": "LayerZero Launches 40+ Testnets For Newly Announced V2 Iteration",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7d381a355d105cbb8285500614695bc027dae00c-1920x1091.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7d381a355d105cbb8285500614695bc027dae00c-1920x1091.png"
-        },
-        {
-          "id": "https://thedefiant.io/defi-users-urged-not-to-interact-with-web3-dapps-amid-major-exploit",
-          "author": "Pedro Solimano",
-          "description": "Ledger’s connector library was compromised and injected with malicious drainer",
-          "link": "https://thedefiant.io/defi-users-urged-not-to-interact-with-web3-dapps-amid-major-exploit",
-          "publishedOn": "2023-12-14T13:33:00.000Z",
-          "wordCount": null,
-          "title": "Ledger Code Library Attacker Drains $480k After Compromising Dozens of Web3 Dapps",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/58c1b64c00a5dd912386111cb3730e017306823b-880x495.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/58c1b64c00a5dd912386111cb3730e017306823b-880x495.jpg"
         }
       ]
     },
