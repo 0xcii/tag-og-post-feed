@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-15T16:17:47.224Z</id>
+    <id>urn:2024-01-15T17:12:35.073Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-15T16:17:47.224Z</updated>
+    <updated>2024-01-15T17:12:35.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Circle Releases USDC ‘State of Economy’ Report As Market Cap Rebounds]]></title>
+        <id>https://thedefiant.io/circle-releases-usdc-state-of-economy-report-as-market-cap-rebounds</id>
+        <link href="https://thedefiant.io/circle-releases-usdc-state-of-economy-report-as-market-cap-rebounds"/>
+        <updated>2024-01-15T16:47:42.000Z</updated>
+        <summary type="html"><![CDATA[Last year, the company bridged more than $197B between traditional banking and blockchain systems.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTC Underperforms ETH and Altcoins As Investors Sell Bitcoin After ETF Approval]]></title>
         <id>https://thedefiant.io/btc-underperforms-eth-and-altcoins-as-investors-sell-bitcoin-after-etf-approval</id>
