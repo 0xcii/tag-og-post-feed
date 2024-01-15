@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-15T02:30:47.809Z</id>
+    <id>urn:2024-01-15T03:15:07.634Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-15T02:30:47.809Z</updated>
+    <updated>2024-01-15T03:15:07.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Week in DeFi - C3 Hybrid Exchange Live, Paypal USD Live on Curve, Wombat Gamfied Bribe Market, Merchant Moe Token Live, and more....]]></title>
+        <id>https://www.todayindefi.com/p/last-week-in-defi-c3-hybrid-exchange</id>
+        <link href="https://www.todayindefi.com/p/last-week-in-defi-c3-hybrid-exchange"/>
+        <updated>2024-01-15T03:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Recap: Week of Jan 8th]]></summary>
+        <author>
+            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Year Of The Fourth Bitcoin Halving]]></title>
         <id>https://thedefiant.io/the-year-of-the-fourth-bitcoin-halving</id>
@@ -876,16 +886,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <summary type="html"><![CDATA[The highly anticipated re-staking protocol has over $700M in deposits after adding support for six new Ethereum liquid staking tokens.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Gearbox V3 Live, Ipor Launches Stake Rate Swap, High-Yield Stable Farms, One-Click High-Yield Farming, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-gearbox-v3-live-ipor</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-gearbox-v3-live-ipor"/>
-        <updated>2023-12-19T09:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Gearbox V3 is live with PURE margin trading, new assets, and better organic rates. APYs depend on TVL migrated, and there is no new inflation in GEAR. ETH restaking protocol Renzo is live no EigenLayer. Renzo is the interface to the EigenLayer ecosystem securing Actively Validated Services (AVSs) and offering a higher yield than ETH staking.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
