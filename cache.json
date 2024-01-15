@@ -101,7 +101,7 @@
           "description": "Bitwise led the way attracting the most flows out of the 11 funds that started trading.",
           "link": "https://thedefiant.io/spot-bitcoin-etfs-drove-over-usd700m-in-one-day",
           "publishedOn": "2024-01-12T16:35:54.000Z",
-          "wordCount": 1857,
+          "wordCount": null,
           "title": "Spot Bitcoin ETFs Drove Over $600M in One Day, Preliminary Data Show",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/154825c49fb73b2c6398843ad1e84b5cd824f47f-1792x1024.png",
@@ -131,7 +131,7 @@
           "description": "Newly approved ETFs account for over $2.2B while GBTC and BITO see over $4B of trades.",
           "link": "https://thedefiant.io/bitcoin-etfs-daily-trading-volume-crosses-usd5b",
           "publishedOn": "2024-01-11T18:39:43.000Z",
-          "wordCount": 1966,
+          "wordCount": null,
           "title": "Bitcoin ETFs Daily Trading Volume Crosses $6B",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9f00744e4ab0e56afd1bc4c4889088ed9f561f31-1792x1024.png",
@@ -146,7 +146,7 @@
           "description": "PYUSD has two pools in Curve and a proposal is underway to add it as collateral in Aave.",
           "link": "https://thedefiant.io/paypal-s-stablecoin-grows-by-over-70-in-30-days",
           "publishedOn": "2024-01-11T15:56:51.000Z",
-          "wordCount": 2322,
+          "wordCount": null,
           "title": "PayPal’s Stablecoin Grows by Over 70% in 30 Days",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b887c46c6f70152d8a5b28beaff10eb321ad612-1792x1024.png",
@@ -206,7 +206,7 @@
           "description": "Just minutes earlier, the SEC had posted on X that the ETF had been approved.",
           "link": "https://thedefiant.io/gensler-said-sec-s-x-is-compromised-after-account-announced-bitcoin-etf-approval",
           "publishedOn": "2024-01-09T21:35:35.000Z",
-          "wordCount": 2103,
+          "wordCount": null,
           "title": "Gensler Said SEC's Twitter is \"Compromised\" After Account Announced Bitcoin ETF Approval",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/26b1b4121d67611207bfc035a0f5665be986f1db-1792x1024.png",
@@ -1139,6 +1139,22 @@
       "siteUrl": "https://www.todayindefi.com",
       "articles": [
         {
+          "id": "https://www.todayindefi.com/p/today-in-defi-multibit-bridges-brc20s",
+          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
+          "description": "Updates 📰 Bitcoin bridging protocol MultiBit is live on Solana. Users can now bridge BRC20 tokens from Bitcoin to Solana. Lending protocol Myso is live on Evmos. The proposal to launch the MYSO covered call strategy is ongoing. If passed, the strategy will allow Evmos Community Treasury to generate USDC revenue.",
+          "link": "https://www.todayindefi.com/p/today-in-defi-multibit-bridges-brc20s",
+          "publishedOn": "2024-01-15T08:46:18.000Z",
+          "wordCount": null,
+          "title": "Today in DeFi - MultiBit Bridges BRC20s to Solana, Proposal for Lido Chain, Leveraged Stable Farms, Efficient Lending Protocol with Incentivized Farms, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f17e03d-430d-498a-8ec5-e416134c32f1_900x506.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f17e03d-430d-498a-8ec5-e416134c32f1_900x506.jpeg"
+        },
+        {
           "id": "https://www.todayindefi.com/p/last-week-in-defi-c3-hybrid-exchange",
           "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
           "description": "Recap: Week of Jan 8th",
@@ -1441,22 +1457,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd59db83b-4c35-45ab-ae30-8d72120127c1_680x357.jpeg"
-        },
-        {
-          "id": "https://www.todayindefi.com/p/today-in-defi-zkfair-fair-launches",
-          "author": "𝕯𝖆𝖓𝖌𝖊𝖗",
-          "description": "Launches 🚀 ZKFair launches its mainnet. ZKFair is a community-owned ZK L2 build using Polygon CDK, Celestia DA, and Lumoz RaaS. ZKFair adopts a 100% fair launch approach, all ZKF tokens will be airdropped to the community. Aori V1 is live on Arbitrum. Aori is a high-frequency orderbook that allows “flash market making”, connecting CeFi/DeFi arbitrageurs to MEV searchers, solvers, and DeFi-native market makers.",
-          "link": "https://www.todayindefi.com/p/today-in-defi-zkfair-fair-launches",
-          "publishedOn": "2023-12-20T09:57:35.000Z",
-          "wordCount": null,
-          "title": "Today in DeFi - ZKFair Fair-launches zk-Rollup, Flooring Protocol 2M Exploit, Frame Airdrops NFT Traders, Leveraged Trade LST Yield, and more...",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F860d63b7-810d-4bf9-b53e-f721cdd02191_900x506.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F860d63b7-810d-4bf9-b53e-f721cdd02191_900x506.jpeg"
         }
       ]
     }
