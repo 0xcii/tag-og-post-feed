@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-15T22:13:06.195Z</id>
+    <id>urn:2024-01-15T23:13:39.738Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-15T22:13:06.195Z</updated>
+    <updated>2024-01-15T23:13:39.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETF Wif Hat]]></title>
+        <id>https://medium.com/p/4bf5a5609a61</id>
+        <link href="https://cryptohayes.medium.com/etf-wif-hat-4bf5a5609a61?source=rss-2f6e06954878------2"/>
+        <updated>2024-01-15T23:01:38.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Asset Regulation Needs to More Strongly Reflect TradFi Standards for Market Structure to Capture Institutional Market Share]]></title>
         <id>https://thedefiant.io/digital-asset-regulation-needs-to-more-strongly-reflect-tradfi-standards-for-market-structure-to</id>
@@ -53,26 +63,6 @@
         <summary type="html"><![CDATA[Celsius sent $125M worth of ETH to exchanges this past week]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - MultiBit Bridges BRC20s to Solana, Proposal for Lido Chain, Leveraged Stable Farms, Efficient Lending Protocol with Incentivized Farms, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-multibit-bridges-brc20s</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-multibit-bridges-brc20s"/>
-        <updated>2024-01-15T08:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Updates 📰 Bitcoin bridging protocol MultiBit is live on Solana. Users can now bridge BRC20 tokens from Bitcoin to Solana. Lending protocol Myso is live on Evmos. The proposal to launch the MYSO covered call strategy is ongoing. If passed, the strategy will allow Evmos Community Treasury to generate USDC revenue.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - C3 Hybrid Exchange Live, Paypal USD Live on Curve, Wombat Gamfied Bribe Market, Merchant Moe Token Live, and more....]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-c3-hybrid-exchange</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-c3-hybrid-exchange"/>
-        <updated>2024-01-15T03:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Jan 8th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
@@ -126,16 +116,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today in DeFi - Ajna Full Launch, Pendle Limit Orders Live, Orbiter Confirms Token, Leverage Farming on Solana for Airdrop, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-ajna-full-launch-pendle</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-ajna-full-launch-pendle"/>
-        <updated>2024-01-12T08:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Ajna, a permissionless p2p lending protocol, is now fully live and can be accessed on Summerfi and Ajna's frontend. Users can use any ERC-20 or NFT as collateral without going through any gating mechanism. Today in DeFi is Now on Telegram]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bitcoin ETFs Daily Trading Volume Crosses $6B]]></title>
         <id>https://thedefiant.io/bitcoin-etfs-daily-trading-volume-crosses-usd5b</id>
         <link href="https://thedefiant.io/bitcoin-etfs-daily-trading-volume-crosses-usd5b"/>
@@ -156,16 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today in DeFi - Morpho Blue Live, ZKFair Launches ZKF Staking, Cosmos Partial Set Security, Airdrop for Arbitrum, Optimism Users, NFT Holders, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-morpho-blue-live-zkfair</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-morpho-blue-live-zkfair"/>
-        <updated>2024-01-11T08:39:38.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Morpho Labs launches Morpho Blue with the first isolated markets listed: wstETH/WETH and wstETH/USDC. Morpho Blue adopts a strategy of isolating markets through individual asset vaults, which operate autonomously without the DAO's manual intervention to adjust risk parameters.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SEC Approves Spot Bitcoin ETFs in Landmark Decision]]></title>
         <id>https://thedefiant.io/sec-approves-spot-bitcoin-etfs-in-historic-decision</id>
         <link href="https://thedefiant.io/sec-approves-spot-bitcoin-etfs-in-historic-decision"/>
@@ -183,16 +153,6 @@
         <summary type="html"><![CDATA[ICP has quietly become the 18th most valuable digital asset.]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - XAI L3 Live on Arbitrum, Cosmos Voting on 0% Inflation, Rainfi Points, Auto-Compounded Stable Farming, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-xai-l3-live-on-arbitrum</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-xai-l3-live-on-arbitrum"/>
-        <updated>2024-01-10T08:41:49.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Gaming-focused L3 blockchain XAI launches on Arbitrum, along with a live bridge for users to transfer assets from Arbitrum One to XAI. Today in DeFi is Now on Telegram Get notified of daily DeFi news, project analysis, early airdrops, farming opportunities, and many more as soon as we publish.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
@@ -236,16 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today in DeFi - Woo X Hedge Mode, SNX Buyback and Burn, Ondo Points, Risk Management with Airdrop Potential, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-woo-x-hedge-mode-snx</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-woo-x-hedge-mode-snx"/>
-        <updated>2024-01-09T08:52:09.000Z</updated>
-        <summary type="html"><![CDATA[Updates 📰 Woo X launches Hedge Mode. Traders can hedge their trades by opening both long and short positions on the same perp symbol without having to close either of their positions. Myso Finance has integrated tBTC with loan offers, allowing users to use USDC as collateral and borrow tBTC. Borrowing tBTC gives users downside protection on their Bitcoin exposure, as they can repay the tBTC at any time before expiry and reclaim their locked stablecoin collateral.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Special Economic Zone in Honduras Recognizes Bitcoin As Unit of Account]]></title>
         <id>https://thedefiant.io/special-economic-zone-in-honduras-recognizes-bitcoin-as-unit-of-account</id>
         <link href="https://thedefiant.io/special-economic-zone-in-honduras-recognizes-bitcoin-as-unit-of-account"/>
@@ -273,26 +223,6 @@
         <summary type="html"><![CDATA[We are back with another sponsored explainer video, and today we’re diving into the world of decentralized perps with HMX. Following a strong launch on Arbitrum earlier this year, HMX has delivered a decentralized perpetual protocol that supports crypto, c...]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Perennial Power Perps, Lyra x Celestia, Manta Unveils Airdrop, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-perennial-power-perps</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-perennial-power-perps"/>
-        <updated>2024-01-08T08:40:46.000Z</updated>
-        <summary type="html"><![CDATA[Launches Perennial introduces Power perpetuals, a product in between options and perpetuals first introduced in a Paradigm research paper. Updates Lyra Chain(aka Lyra v2) is going to use Celestia for Data availability Updates Unibot telegram sniping bot is now on Arbitrum]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - CAKE Reduction, Multiple Multi-Million Dollar Hacks, Celsius Selling ETH, and More]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-cake-reduction</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-cake-reduction"/>
-        <updated>2024-01-08T02:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Product Launches 🚀 Structured product protocol Passage has launched on Arbitrum. Passage lets users long or short volatility using simple, easy to understand structured products. Parallel mainnet is now open for developers. Parallel is the first omni-chain L2 built on Arbitrum, aiming to “unify liquidity” from different chains.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
@@ -336,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today in DeFi -Passage Live on Arbitrum, Dencun testnet dates, Celestia LSD upcoming, Levered Stable Farms and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-passage-live-on-arbitrum</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-passage-live-on-arbitrum"/>
-        <updated>2024-01-05T10:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Structured product protocol Passage has launched on Arbitrum. Passage lets users long or short volatility using simple, easy to understand structured products. Parallel mainnet is now open for developers. Parallel is the first oni-chain L2 built on Arbitrum, aiming to “unify liquidity” from different chains.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Signposts]]></title>
         <id>https://medium.com/p/693ba565cd3e</id>
         <link href="https://cryptohayes.medium.com/signposts-693ba565cd3e?source=rss-2f6e06954878------2"/>
@@ -373,16 +293,6 @@
         <summary type="html"><![CDATA[Inscriptions now represent a small fraction of transactions on leading Ethereum L2s]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Gamma Exploited for 6.3M, MakerDAO New Governance Token, Renzo Launches ezPoints, Fixed Rate Loans with Airdrop Potential (Pt.II), and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-gamma-exploited-for</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-gamma-exploited-for"/>
-        <updated>2024-01-04T09:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Updates 🆕 Etherscan acquired Solscan and will bring the explorer additional features and enhanced user experience. The Arbitrum Ecosystem Missions page is live, allowing users to explore ecosystem projects. The page allows Arbitrum projects to list and link their project quests, campaigns, and community events.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
@@ -436,16 +346,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today in DeFi - Radiant Hacked for $4.5M, Goldstation Gold RWAs on Klaytn, SolBlaze Launching Points, Fixed Rate Loans with Airdrop Potential, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-radiant-hacked-for</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-radiant-hacked-for"/>
-        <updated>2024-01-03T08:53:28.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Goldstation, a gold-backed RWA platform, is live on Klaytn with GPC (Gold Pegged Coin) available. South Korean users can now convert their physical gold holdings into NFTs via The Mining Club, and then use the NFT as collateral to mint $GPC.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Solana Flips Ethereum By Stablecoin Volume and Google Search Traffic]]></title>
         <id>https://thedefiant.io/solana-flips-ethereum-by-stablecoin-volume-google-search-traffic</id>
         <link href="https://thedefiant.io/solana-flips-ethereum-by-stablecoin-volume-google-search-traffic"/>
@@ -453,16 +353,6 @@
         <summary type="html"><![CDATA[Solana-based USDC now ranks as the single most transacted stablecoin with $103B]]></summary>
         <author>
             <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Orbit Chain $81M Exploit, Unibot Live on Solana, Proposal to Fully Decentralize StakeDAO, High-Yield Stable Farming, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-orbit-chain-81m-exploit</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-orbit-chain-81m-exploit"/>
-        <updated>2024-01-02T08:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Updates 🆕 Trading bot Unibot expands to Solana in partnership with Jupiter DEX and Birdeye data aggregator, enabling users to automate their trading strategies on Solana. Bitcoin-EVM bridging protocol MultiBit launches a Dual-Sided NFT Bridge. The bridge allows users to trade BRC NFTs on ETH marketplaces like OpenSea and Blur. The team will expand NFT support to Solana, BNB, and more upon community requests.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
@@ -483,16 +373,6 @@
         <summary type="html"><![CDATA[On-chain analytics provider flagged $2.4M TRB deposit from Tellor team after the token's price tripled]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Gains Network Trading Incentives, Sturdy V2 Upcoming, Myso Activity Points, and more...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-gains-network-trading</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-gains-network-trading"/>
-        <updated>2024-01-02T02:26:29.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Dec 25th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
@@ -526,16 +406,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today in DeFi - Levana Hacked for 1M, Merkle Trade V2 Live, Avalanche to Support Meme Coins , High Yield Stable Farms, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-levana-hacked-for-1m</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-levana-hacked-for-1m"/>
-        <updated>2023-12-29T08:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Gamified perp DEX Merkle Trade launches V2, introducing loot boxes, rewards for traders, and incentives for LPs. Today in DeFi is Now on Telegram Get notified of daily DeFi news, project analysis, early airdrops, farming opportunities, and many more as soon as we publish.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Surging Optimism Ecosystem Drives Layer 2 TVL To New Heights]]></title>
         <id>https://thedefiant.io/surging-optimism-ecosystem-drives-layer-2-tvl-to-new-heights</id>
         <link href="https://thedefiant.io/surging-optimism-ecosystem-drives-layer-2-tvl-to-new-heights"/>
@@ -556,16 +426,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today in DeFi - Avalanche Yeti Winding Down, zkFair Activates Fair Mode, Proposal to Unlock ONDO, Promising New Money Market with Airdrop Campaign , and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-avalanche-yeti-winding</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-avalanche-yeti-winding"/>
-        <updated>2023-12-28T08:47:37.000Z</updated>
-        <summary type="html"><![CDATA[Updates 🆕 Fair-launched ZK L2 zkFair activated Fair Mode. Most new projects endorsed by ZKFair in the future will be launched with a very low valuation (~$1M) and in a 100% fair launch format. Arbitrum-based lending protocol Domomite launches Vote-Enabled ARB (vARB). vARB allows users to use ARB as collateral for borrowing while using it to participate in Arbitrum voting.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vitalik Buterin Wants to Modify Ethereum's Proof-of-Stake Model]]></title>
         <id>https://thedefiant.io/vitalik-buterin-wants-to-modify-ethereum-s-proof-of-stake-model</id>
         <link href="https://thedefiant.io/vitalik-buterin-wants-to-modify-ethereum-s-proof-of-stake-model"/>
@@ -583,17 +443,6 @@
         <summary type="html"><![CDATA[DeFi TVL and number of protocols at scale grew this year, signaling the ecosystem's increased maturity.]]></summary>
         <author>
             <name>Chris Bradbury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Rido Launches BnB Chain Attestation Service, KyberSwap Post-exploit Updates, Venus to Launch on Ethereum, Autocompounded Farming on Polygon 
-, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-rido-launches-bnb-chain</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-rido-launches-bnb-chain"/>
-        <updated>2023-12-27T08:55:39.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 DataFi protocol Rido launches BNB Attestation Service (BAS) on the BnB chain. BAS is an infrastructure for generating attestation to verify information. BAS assists users in on-chain or off-chain verification, allowing them to assert ownership of attestation by storing them in Greenfield.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
@@ -624,26 +473,6 @@
         <summary type="html"><![CDATA[Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security solutions.]]></summary>
         <author>
             <name>Tegan Kline</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Infinex Live on Base Mainnet, zkSync Era Network Issue, Neon EVM Launches Neon Points, Organic Stable Farming, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-infinex-live-on-base</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-infinex-live-on-base"/>
-        <updated>2023-12-26T09:17:19.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Built by Synthetix, the Infinex perp DEX launches on the Base mainnet. This is an alpha launch, and only 13 of the selected ambassadors will be able to trade on Infinex with a 1000 USDC grant. Today in DeFi is Now on Telegram Get notified of daily DeFi news, project analysis, early airdrops, farming opportunities, and many more as soon as we publish.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Week in DeFi - Renzo Restaking Live, Immutable Launches Passport, ZKX Launching on Starknet, Solend on Sui, and more...]]></title>
-        <id>https://www.todayindefi.com/p/last-week-in-defi-renzo-restaking</id>
-        <link href="https://www.todayindefi.com/p/last-week-in-defi-renzo-restaking"/>
-        <updated>2023-12-26T03:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Recap: Week of Dec 18th]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
@@ -719,16 +548,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today in DeFi - Gearbox V3 PURE Trading Live, Dencun Upgrade on Testnets, Single-Deposit Stable Farms, CEX-like Spot Trading with Airdrop Potential, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-gearbox-v3-pure-trading</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-gearbox-v3-pure-trading"/>
-        <updated>2023-12-22T09:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Updates 🆕 Gearbox has enabled PURE Margin Trading on V3. PURE enables users to trade natively on Uniswap, Curve, and supported DEXes, and offers liquidity for leverage without having any LPs or counter-parties trade against you. Polytrade launches Phase 1 (private phase) of its RWA marketplace. The marketplace aggregates RWA protocols and RWAs in one platform, RWA]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mantle’s Throughput Peaks At 200 TPS As Inscriptions Expand Across Layer 2s]]></title>
         <id>https://thedefiant.io/mantle-s-throughput-peaks-at-200-tps-as-inscriptions-expand-across-layer-2s</id>
         <link href="https://thedefiant.io/mantle-s-throughput-peaks-at-200-tps-as-inscriptions-expand-across-layer-2s"/>
@@ -776,16 +595,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <summary type="html"><![CDATA[Voyage participants could earn soulbound 'XP' tokens for interacting with the network]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today in DeFi - Lumio Move L2 on Testnet, Phantom Supports Bitcoin, Fraxchain Airdrop+Points System Coming, Lending ETH for a High Yield, and more...]]></title>
-        <id>https://www.todayindefi.com/p/today-in-defi-lumio-move-l2-on-testnet</id>
-        <link href="https://www.todayindefi.com/p/today-in-defi-lumio-move-l2-on-testnet"/>
-        <updated>2023-12-21T08:51:11.000Z</updated>
-        <summary type="html"><![CDATA[Launches 🚀 Built by Pomtent Network, Lumio is the first Move L2 that is EVM-compatible, built using the OP Stack, and settles on Ethereum while leveraging Move VM, Aptos’ virtual machine. Lumio is now on testnet and will open up in waves to a whitelist of users over time.]]></summary>
-        <author>
-            <name>𝕯𝖆𝖓𝖌𝖊𝖗</name>
         </author>
     </entry>
     <entry>
