@@ -51,6 +51,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/btc-underperforms-eth-and-altcoins-as-investors-sell-bitcoin-after-etf-approval",
+          "author": "Samuel Haig",
+          "description": "BTC ranks 99th among top 100 crypto assets for seven-day price performance",
+          "link": "https://thedefiant.io/btc-underperforms-eth-and-altcoins-as-investors-sell-bitcoin-after-etf-approval",
+          "publishedOn": "2024-01-15T14:35:00.000Z",
+          "wordCount": null,
+          "title": "BTC Underperforms ETH and Altcoins As Investors Sell Bitcoin After ETF Approval",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7af6f0dbf7058a8eb3aeb82ff8ff6fdefbd0987e-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7af6f0dbf7058a8eb3aeb82ff8ff6fdefbd0987e-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/coinshares-predicts-post-halving-miner-exodus",
           "author": "Aleksandar Gilbert and Samuel Haig",
           "description": "CoinShares estimates mining one BTC will cost $37,856 on average after the upcoming Bitcoin halving",
@@ -131,7 +146,7 @@
           "description": "Bitwise led the way attracting the most flows out of the 11 funds that started trading.",
           "link": "https://thedefiant.io/spot-bitcoin-etfs-drove-over-usd700m-in-one-day",
           "publishedOn": "2024-01-12T16:35:54.000Z",
-          "wordCount": 1857,
+          "wordCount": null,
           "title": "Spot Bitcoin ETFs Drove Over $600M in One Day, Preliminary Data Show",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/154825c49fb73b2c6398843ad1e84b5cd824f47f-1792x1024.png",
