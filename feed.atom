@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-17T12:26:24.095Z</id>
+    <id>urn:2024-01-17T13:17:14.418Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-17T12:26:24.095Z</updated>
+    <updated>2024-01-17T13:17:14.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -213,6 +213,16 @@
         <summary type="html"><![CDATA[Larry Fink said today that the industry is taking steps towards tokenization.]]></summary>
         <author>
             <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin ETF Aftermath: Facts, Figures, &amp;  Issues]]></title>
+        <id>https://thedefiant.io/bitcoin-etf-aftermath-facts-figures-and-issues</id>
+        <link href="https://thedefiant.io/bitcoin-etf-aftermath-facts-figures-and-issues"/>
+        <updated>2024-01-12T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Keep up with crypto with The Defiant founder Camila Russo blending essential news and key updates with her own personal insights on this episode.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -453,6 +463,16 @@
         <summary type="html"><![CDATA[Solana-based USDC now ranks as the single most transacted stablecoin with $103B]]></summary>
         <author>
             <name>Owen Fernau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is NEAR Protocol? | A Comprehensive Overview &amp;  Future Prospects]]></title>
+        <id>https://thedefiant.io/what-is-near-protocol-or-a-comprehensive-overview-and-future-prospects</id>
+        <link href="https://thedefiant.io/what-is-near-protocol-or-a-comprehensive-overview-and-future-prospects"/>
+        <updated>2024-01-02T12:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Illia Polosukhin is the Co-Founder of NEAR Protocol, a sharded proof-of-stake Layer 1 blockchain. We discuss NEAR's transition from an AI project to crypto, and later gain deeper insight into NEAR's core principles, underlying technology, the users, builders, as well as anticipated new features in the near future.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -852,7 +872,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/uptick-in-crypto-volatility-drives-usd230m-in-liquidations</id>
         <link href="https://thedefiant.io/uptick-in-crypto-volatility-drives-usd230m-in-liquidations"/>
         <updated>2023-12-19T04:59:00.000Z</updated>
-        <summary type="html"><![CDATA[More than 100,000 traders were liquidated in the past day]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>

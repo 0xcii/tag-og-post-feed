@@ -355,6 +355,21 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/26a1bec765c6406e1abb64372f85f814784028b4-1792x1024.png"
         },
         {
+          "id": "https://thedefiant.io/bitcoin-etf-aftermath-facts-figures-and-issues",
+          "author": "Camila Russo",
+          "description": "Keep up with crypto with The Defiant founder Camila Russo blending essential news and key updates with her own personal insights on this episode.",
+          "link": "https://thedefiant.io/bitcoin-etf-aftermath-facts-figures-and-issues",
+          "publishedOn": "2024-01-12T12:55:00.000Z",
+          "wordCount": null,
+          "title": "Bitcoin ETF Aftermath: Facts, Figures, &amp;  Issues",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cb53472718063711f66e42d8e2b706ba6b3514bc-640x480.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cb53472718063711f66e42d8e2b706ba6b3514bc-640x480.jpg"
+        },
+        {
           "id": "https://thedefiant.io/bitcoin-etfs-daily-trading-volume-crosses-usd5b",
           "author": "yyctrader",
           "description": "Newly approved ETFs account for over $2.2B while GBTC and BITO see over $4B of trades.",
@@ -693,6 +708,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/56ea82678ec7cb1d89dbe937653c71ce3fb36bf0-1792x1024.png"
+        },
+        {
+          "id": "https://thedefiant.io/what-is-near-protocol-or-a-comprehensive-overview-and-future-prospects",
+          "author": "Camila Russo",
+          "description": "Illia Polosukhin is the Co-Founder of NEAR Protocol, a sharded proof-of-stake Layer 1 blockchain. We discuss NEAR's transition from an AI project to crypto, and later gain deeper insight into NEAR's core principles, underlying technology, the users, builders, as well as anticipated new features in the near future.",
+          "link": "https://thedefiant.io/what-is-near-protocol-or-a-comprehensive-overview-and-future-prospects",
+          "publishedOn": "2024-01-02T12:12:00.000Z",
+          "wordCount": null,
+          "title": "What is NEAR Protocol? | A Comprehensive Overview &amp;  Future Prospects",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f03215796c120ef056f1521d8db3cd2fe17fbe86-640x480.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f03215796c120ef056f1521d8db3cd2fe17fbe86-640x480.jpg"
         },
         {
           "id": "https://thedefiant.io/orbit-bridge-suffers-usd81-6m-exploit",
@@ -1262,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/uptick-in-crypto-volatility-drives-usd230m-in-liquidations",
           "author": "Samuel Haig",
-          "description": "More than 100,000 traders were liquidated in the past day",
+          "description": "",
           "link": "https://thedefiant.io/uptick-in-crypto-volatility-drives-usd230m-in-liquidations",
           "publishedOn": "2023-12-19T04:59:00.000Z",
           "wordCount": null,
