@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/altlayer-to-launch-token-on-jan-25",
+          "author": "yyctrader",
+          "description": "Restaked rollup provider will airdrop ALT tokens to early supporters, including Eigenlayer and Celestia stakers.",
+          "link": "https://thedefiant.io/altlayer-to-launch-token-on-jan-25",
+          "publishedOn": "2024-01-17T17:35:09.000Z",
+          "wordCount": null,
+          "title": "AltLayer To Launch Token On Jan. 25",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2576f7c7eae5225faf5f51b13da643fc6bdd1d06-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2576f7c7eae5225faf5f51b13da643fc6bdd1d06-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/unstoppable-domains-launches-token-gated-group-chats",
           "author": "Pedro Solimano",
           "description": "Collaboration with Push Protocol aims to fend off misinformation and scams.",
@@ -105,7 +120,7 @@
           "description": "The Grayscale Ethereum Trust has seen its discount to NAV narrow to 15% from 47% a year ago.",
           "link": "https://thedefiant.io/investors-ponder-ether-etf-as-ethe-discount-shrinks",
           "publishedOn": "2024-01-16T21:51:54.000Z",
-          "wordCount": 2954,
+          "wordCount": null,
           "title": "Investors Ponder Ether ETF as ETHE Discount Shrinks",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4e71234476825c9cce8e14661f0bbbd18ecef83c-1792x1024.png",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/injs-stops-inscriptions-mint-on-injective-blockchain-minutes-after-it-started",
           "author": "Camila Russo",
-          "description": "The team has promised to refund users.",
+          "description": "",
           "link": "https://thedefiant.io/injs-stops-inscriptions-mint-on-injective-blockchain-minutes-after-it-started",
           "publishedOn": "2023-12-19T15:59:21.000Z",
           "wordCount": null,
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/eigenlayer-raises-deposit-cap-to-500-000-eth",
           "author": "yyctrader",
-          "description": "",
+          "description": "The highly anticipated re-staking protocol has over $700M in deposits after adding support for six new Ethereum liquid staking tokens.",
           "link": "https://thedefiant.io/eigenlayer-raises-deposit-cap-to-500-000-eth",
           "publishedOn": "2023-12-19T09:20:08.000Z",
           "wordCount": null,
