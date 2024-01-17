@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/emerging-liquid-restaking-sector-approaches-half-billion-tvl",
+          "author": "Samuel Haig",
+          "description": "EtherFi continues to lead the nascent liquid restaking sector but faces growing competition from an emerging cohort of rivals",
+          "link": "https://thedefiant.io/emerging-liquid-restaking-sector-approaches-half-billion-tvl",
+          "publishedOn": "2024-01-17T08:55:00.000Z",
+          "wordCount": null,
+          "title": "Emerging Liquid Restaking Sector Approaches Half-Billion TVL",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d904ec5ad886a6450d06ad5711ceabc9b103588a-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d904ec5ad886a6450d06ad5711ceabc9b103588a-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/socket-resumes-operations-after-users-lost-usd3-3m-to-exploit",
           "author": "Samuel Haig",
           "description": "Hackers took advantage of a faulty Socket smart contract that was updated three days ago",
