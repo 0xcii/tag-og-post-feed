@@ -105,7 +105,7 @@
           "description": "Over 24,000 tokens have been listed on CoinGecko. More than 14,000 are dead.",
           "link": "https://thedefiant.io/more-than-half-of-crypto-is-dead-coingecko",
           "publishedOn": "2024-01-17T21:35:09.000Z",
-          "wordCount": 2242,
+          "wordCount": null,
           "title": "More Than Half Of Crypto Is Dead: CoinGecko",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2ba7e0cf1546cc9198a8959e17b701a7fc1ad7fd-1792x1024.png",
@@ -1318,21 +1318,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b5d64a5567855f8f4dc017d0c8862d1b009f992b-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/frame-unveils-funding-round-and-airdrop-for-nft-community",
-          "author": "yyctrader",
-          "description": "The NFT-focused blockchain will launch its mainnet in January with creator royalties enshrined at the network level.",
-          "link": "https://thedefiant.io/frame-unveils-funding-round-and-airdrop-for-nft-community",
-          "publishedOn": "2023-12-19T21:43:36.000Z",
-          "wordCount": null,
-          "title": "Frame Announces Funding Round and Airdrop for NFT Community",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ade5cea3984ce1a37541db9a19a0f4543a6ade6f-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ade5cea3984ce1a37541db9a19a0f4543a6ade6f-1792x1024.png"
         }
       ]
     },
