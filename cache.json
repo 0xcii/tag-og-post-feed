@@ -11,7 +11,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/etf-wif-hat-4bf5a5609a61?source=rss-2f6e06954878------2",
           "publishedOn": "2024-01-15T23:01:38.000Z",
-          "wordCount": 9004,
+          "wordCount": 9005,
           "title": "ETF Wif Hat",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:605/0*TEjSBzKwYyiHjlW0"
         },
@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/spot-bitcoin-etfs-drive-insane-usd9-8b-in-volume-over-three-days",
+          "author": "Samuel Haig",
+          "description": "Grayscale accounted for more than half of volume but suffered $1.2B in outflows.",
+          "link": "https://thedefiant.io/spot-bitcoin-etfs-drive-insane-usd9-8b-in-volume-over-three-days",
+          "publishedOn": "2024-01-18T08:38:00.000Z",
+          "wordCount": null,
+          "title": "Spot Bitcoin ETFs Drive ‘Insane’ $9.8B In Volume Over Three Days",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/58df7d92afd799105ec0a319797c6f85ceebdf42-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/58df7d92afd799105ec0a319797c6f85ceebdf42-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/dencun-finalizes-on-goerli-after-rocky-fork",
           "author": "Samuel Haig",
           "description": "The Prysm Ethereum client initially suffered a bug triggering a post-fork network split",
@@ -90,7 +105,7 @@
           "description": "Over 24,000 tokens have been listed on CoinGecko. More than 14,000 are dead.",
           "link": "https://thedefiant.io/more-than-half-of-crypto-is-dead-coingecko",
           "publishedOn": "2024-01-17T21:35:09.000Z",
-          "wordCount": null,
+          "wordCount": 2242,
           "title": "More Than Half Of Crypto Is Dead: CoinGecko",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2ba7e0cf1546cc9198a8959e17b701a7fc1ad7fd-1792x1024.png",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/frax-votes-to-move-usd20m-of-stablecoin-collateral-into-treasury-bills",
           "author": "Owen Fernau",
-          "description": "Stablecoin protocol leverages Centrifuge Prime, a service that provides the infrastructure for DAOs to invest in real-world assets.",
+          "description": "",
           "link": "https://thedefiant.io/frax-votes-to-move-usd20m-of-stablecoin-collateral-into-treasury-bills",
           "publishedOn": "2023-12-20T07:19:23.000Z",
           "wordCount": null,
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/ondo-brings-treasury-backed-tokens-to-solana",
           "author": "Owen Fernau",
-          "description": "",
+          "description": "Leading real-world asset protocol sees growth opportunity as trading volumes on Solana DEXs surpass Ethereum.",
           "link": "https://thedefiant.io/ondo-brings-treasury-backed-tokens-to-solana",
           "publishedOn": "2023-12-20T06:59:40.000Z",
           "wordCount": null,
