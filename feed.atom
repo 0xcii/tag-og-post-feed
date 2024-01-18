@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-18T17:13:04.179Z</id>
+    <id>urn:2024-01-18T18:17:15.686Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-18T17:13:04.179Z</updated>
+    <updated>2024-01-18T18:17:15.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Memecoin WIF Hits All-time High On Binance Listing]]></title>
+        <id>https://thedefiant.io/solana-memecoin-wif-hits-all-time-high-on-binance-listing</id>
+        <link href="https://thedefiant.io/solana-memecoin-wif-hits-all-time-high-on-binance-listing"/>
+        <updated>2024-01-18T17:35:49.000Z</updated>
+        <summary type="html"><![CDATA[dogwifhat looks to take on BONK, with memecoins dominating DEX trading volumes on Solana in recent weeks.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetaMask Introduces Validator Staking for Ethereum]]></title>
         <id>https://thedefiant.io/metamask-introduces-validator-staking-for-ethereum</id>
@@ -356,6 +366,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cardano’s Never Been Hacked?]]></title>
+        <id>https://thedefiant.io/cardano-has-never-been-hacked</id>
+        <link href="https://thedefiant.io/cardano-has-never-been-hacked"/>
+        <updated>2024-01-10T17:47:00.000Z</updated>
+        <summary type="html"><![CDATA[We caught up with Pierre Kaklamanos of the Cardano Foundation. Pierre shares the latest on Cardano, discusses upcoming collaborations, and explains why Cardano remains unhacked. He touches on the eUTXO model, shares insights on regulatory approaches, and offers a glimpse into what to expect from Cardano in 2024.]]></summary>
+        <author>
+            <name>Alp Gasimov</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SEC's Twitter Blunder Shows Bitcoin ETF Approval May Be a "Sell-the-News" Event]]></title>
         <id>https://thedefiant.io/sec-s-twitter-blunder-shows-bitcoin-etf-approval-may-be-a-sell-the-news-event</id>
         <link href="https://thedefiant.io/sec-s-twitter-blunder-shows-bitcoin-etf-approval-may-be-a-sell-the-news-event"/>
@@ -403,6 +423,16 @@
         <summary type="html"><![CDATA[BTC will be recognized as a unit to track the market value of goods and services traded in the city.]]></summary>
         <author>
             <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accidentally Airdropping $300 Million: NFT OG Jason Bailey]]></title>
+        <id>https://thedefiant.io/accidentally-airdropping-usd300-million-nft-og-jason-bailey</id>
+        <link href="https://thedefiant.io/accidentally-airdropping-usd300-million-nft-og-jason-bailey"/>
+        <updated>2024-01-08T17:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Jason Bailey is Co-Founder and CEO of ClubNFT, which provides solutions to help collectors analyze, monitor, and protect their NFT collections. Jason is an OG in the NFT space, an early collector on SuperRare, and creator of the first NFT IRL drop at Christie's Art Event in 2018.]]></summary>
+        <author>
+            <name>Tegan Kline</name>
         </author>
     </entry>
     <entry>
@@ -842,7 +872,6 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/crypto-jobs-plunged-80-to-a-near-death-in-2023</id>
         <link href="https://thedefiant.io/crypto-jobs-plunged-80-to-a-near-death-in-2023"/>
         <updated>2023-12-20T16:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Crypto jobs dropped by 84% in the U.S. and 92% in Germany, LinkedIn data show.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -872,6 +901,7 @@ Jameson Lopp is the CTO of CasaHODL, a company specializing in Bitcoin security 
         <id>https://thedefiant.io/ethereumpow-core-team-to-disband-and-usher-decentralized-governance</id>
         <link href="https://thedefiant.io/ethereumpow-core-team-to-disband-and-usher-decentralized-governance"/>
         <updated>2023-12-20T11:54:00.000Z</updated>
+        <summary type="html"><![CDATA[ETHW’s ecosystem rallied this past month but remains down more than 90% from its record highs]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
