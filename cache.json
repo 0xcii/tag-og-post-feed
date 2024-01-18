@@ -55,6 +55,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/dencun-finalizes-on-goerli-after-rocky-fork",
+          "author": "Samuel Haig",
+          "description": "The Prysm Ethereum client initially suffered a bug triggering a post-fork network split",
+          "link": "https://thedefiant.io/dencun-finalizes-on-goerli-after-rocky-fork",
+          "publishedOn": "2024-01-18T06:02:00.000Z",
+          "wordCount": null,
+          "title": "Dencun Finalizes On Goerli After Rocky Fork",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fce770f7fb23a298c0f6fe252b2470e89a5d6009-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fce770f7fb23a298c0f6fe252b2470e89a5d6009-1792x1024.png"
+        },
+        {
+          "id": "https://thedefiant.io/crypto-advocates-see-coinbase-s-sec-hearing-as-a-step-forward",
+          "author": "Owen Fernau",
+          "description": "The outcome of the landmark case will have broad implications for the crypto industry.",
+          "link": "https://thedefiant.io/crypto-advocates-see-coinbase-s-sec-hearing-as-a-step-forward",
+          "publishedOn": "2024-01-18T05:24:32.000Z",
+          "wordCount": null,
+          "title": "Crypto Advocates See Coinbase’s SEC Hearing as a “Step Forward”",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4a550ce66c4b4b1b47eedf7fefba10401a4776d6-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4a550ce66c4b4b1b47eedf7fefba10401a4776d6-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/more-than-half-of-crypto-is-dead-coingecko",
           "author": "Pedro Solimano",
           "description": "Over 24,000 tokens have been listed on CoinGecko. More than 14,000 are dead.",
@@ -105,7 +135,7 @@
           "description": "Collaboration with Push Protocol aims to fend off misinformation and scams.",
           "link": "https://thedefiant.io/unstoppable-domains-launches-token-gated-group-chats",
           "publishedOn": "2024-01-17T16:15:47.000Z",
-          "wordCount": 2035,
+          "wordCount": null,
           "title": "Unstoppable Domains Launches Token Gated Group Chats",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c8e4eb35040fa887381ea89aa491cb6eed747896-1792x1024.png",
@@ -1262,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/ondo-brings-treasury-backed-tokens-to-solana",
           "author": "Owen Fernau",
-          "description": "Leading real-world asset protocol sees growth opportunity as trading volumes on Solana DEXs surpass Ethereum.",
+          "description": "",
           "link": "https://thedefiant.io/ondo-brings-treasury-backed-tokens-to-solana",
           "publishedOn": "2023-12-20T06:59:40.000Z",
           "wordCount": null,
