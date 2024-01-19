@@ -55,6 +55,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/bitcoin-users-in-el-salvador-halved-to-12-last-year-survey",
+          "author": "Pedro Solimano",
+          "description": "Bitcoiners living in the country are skeptical of the number, however.",
+          "link": "https://thedefiant.io/bitcoin-users-in-el-salvador-halved-to-12-last-year-survey",
+          "publishedOn": "2024-01-19T18:01:42.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Users in El Salvador Halved to 12% Last Year: Survey",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0b7c53794be87cabd54c35744add4853ef5371e8-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0b7c53794be87cabd54c35744add4853ef5371e8-1792x1024.png"
+        },
+        {
+          "id": "https://thedefiant.io/italian-startup-to-tokenize-distressed-loans-on-polygon",
+          "author": "Pedro Solimano",
+          "description": "Addressing the billion-dollar distressed credit market, BlockInvest will tokenize non-performing loans through two projects.",
+          "link": "https://thedefiant.io/italian-startup-to-tokenize-distressed-loans-on-polygon",
+          "publishedOn": "2024-01-19T17:37:32.000Z",
+          "wordCount": null,
+          "title": "Italian Startup To Tokenize Distressed Loans On Polygon",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4c5d8cc0aeb74e83038d39dede2114b0a5ab7151-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4c5d8cc0aeb74e83038d39dede2114b0a5ab7151-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/arbitrum-launches-program-supporting-custom-chain-development",
           "author": "Samuel Haig",
           "description": "Arbitrum’s launches Expansion Program to grow market share and drive new revenue source",
@@ -1257,7 +1287,7 @@
         {
           "id": "https://thedefiant.io/is-eth-waking-up-peter-brandt-removes-short-position-as-eth-btc-bounces",
           "author": "Camila Russo",
-          "description": "Brandt had shorted ETH just one week ago.",
+          "description": "",
           "link": "https://thedefiant.io/is-eth-waking-up-peter-brandt-removes-short-position-as-eth-btc-bounces",
           "publishedOn": "2023-12-22T15:27:58.000Z",
           "wordCount": null,
@@ -1287,7 +1317,7 @@
         {
           "id": "https://thedefiant.io/ethereum-developers-target-january-for-testnet-launch-of-major-dencun-upgrade",
           "author": "Camila Russo",
-          "description": "",
+          "description": "Ethereum's Cancun-Deneb (DenCun) upgrade is expected to improve scalability and lower costs for rollups.",
           "link": "https://thedefiant.io/ethereum-developers-target-january-for-testnet-launch-of-major-dencun-upgrade",
           "publishedOn": "2023-12-21T20:40:47.000Z",
           "wordCount": null,
