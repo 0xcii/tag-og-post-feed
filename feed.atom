@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-24T04:17:38.204Z</id>
+    <id>urn:2024-01-24T05:13:40.359Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-24T04:17:38.204Z</updated>
+    <updated>2024-01-24T05:13:40.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Yellen or Talkin’?]]></title>
+        <id>https://medium.com/p/7fb4af9f6859</id>
+        <link href="https://cryptohayes.medium.com/yellen-or-talkin-7fb4af9f6859?source=rss-2f6e06954878------2"/>
+        <updated>2024-01-24T04:20:18.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX Token Briefly Surges 18% On GBTC Sales]]></title>
         <id>https://thedefiant.io/ftx-token-briefly-surges-18-on-gbtc-sales</id>
