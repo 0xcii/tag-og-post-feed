@@ -11,7 +11,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/yellen-or-talkin-7fb4af9f6859?source=rss-2f6e06954878------2",
           "publishedOn": "2024-01-24T04:20:18.000Z",
-          "wordCount": 7747,
+          "wordCount": 7748,
           "title": "Yellen or Talkin’?",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1154/0*Ebw6WelsRG4tCWrR"
         },
@@ -54,6 +54,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/synthetix-launches-perpetuals-on-base",
+          "author": "Owen Fernau",
+          "description": "The DAO is billing the release of Synthetix Perps V3 as the “first major perpetuals protocol” on Coinbase’s Layer 2 network.",
+          "link": "https://thedefiant.io/synthetix-launches-perpetuals-on-base",
+          "publishedOn": "2024-01-24T21:42:40.000Z",
+          "wordCount": null,
+          "title": "Synthetix Launches Perpetuals On Base",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ff3b8c89bf5b87e4f24a307d797185a1f4a6443f-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ff3b8c89bf5b87e4f24a307d797185a1f4a6443f-1792x1024.png"
+        },
         {
           "id": "https://thedefiant.io/polygon-based-volmex-finance-launches-points-program",
           "author": "Pedro Solimano",
@@ -180,7 +195,7 @@
           "description": "Oval's mechanism recaptures up to 90% of lost revenue for lending protocols, contributing to the sustainability of decentralized finance.",
           "link": "https://thedefiant.io/uma-and-flashbots-launch-oval-to-monetize-oracle-extractable-value",
           "publishedOn": "2024-01-23T16:22:25.000Z",
-          "wordCount": 2584,
+          "wordCount": null,
           "title": "UMA and Flashbots Launch Oval to Monetize Oracle Extractable Value",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bab2c8d09d33f8015840098a55b4c382b79e3852-1792x1024.png",
@@ -530,7 +545,7 @@
           "description": "The outcome of the landmark case will have broad implications for the crypto industry.",
           "link": "https://thedefiant.io/crypto-advocates-see-coinbase-s-sec-hearing-as-a-step-forward",
           "publishedOn": "2024-01-18T05:24:32.000Z",
-          "wordCount": 2739,
+          "wordCount": null,
           "title": "Crypto Advocates See Coinbase’s SEC Hearing as a “Step Forward”",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4a550ce66c4b4b1b47eedf7fefba10401a4776d6-1792x1024.png",
@@ -545,7 +560,7 @@
           "description": "Over 24,000 tokens have been listed on CoinGecko. More than 14,000 are dead.",
           "link": "https://thedefiant.io/more-than-half-of-crypto-is-dead-coingecko",
           "publishedOn": "2024-01-17T21:35:09.000Z",
-          "wordCount": 2216,
+          "wordCount": null,
           "title": "More Than Half Of Crypto Is Dead: CoinGecko",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2ba7e0cf1546cc9198a8959e17b701a7fc1ad7fd-1792x1024.png",
@@ -1095,7 +1110,7 @@
           "description": "Gensler's X post comes as a fee war breaks out among spot Bitcoin ETF applicants with the SEC’s final deadline expiring today.",
           "link": "https://thedefiant.io/spot-bitcoin-etf-expectation-at-fever-pitch-with-fee-war-and-gensler-tweet",
           "publishedOn": "2024-01-08T16:53:53.000Z",
-          "wordCount": 2534,
+          "wordCount": null,
           "title": "Spot Bitcoin ETF Expectation is at Fever Pitch With Fee War and Gensler Tweet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7d7d51d05bc40fd3e02c0e813d5ae18a534d6a67-1792x1024.jpg",
@@ -1272,7 +1287,7 @@
         {
           "id": "https://thedefiant.io/ether-supply-grows-amid-activity-lull-during-new-year-holidays",
           "author": "Samuel Haig",
-          "description": "ETH’s supply has increased by 3,051 coins since tagging a post-merge low on Dec. 30",
+          "description": "",
           "link": "https://thedefiant.io/ether-supply-grows-amid-activity-lull-during-new-year-holidays",
           "publishedOn": "2024-01-03T11:23:00.000Z",
           "wordCount": null,
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/solana-flips-ethereum-by-stablecoin-volume-google-search-traffic",
           "author": "Owen Fernau",
-          "description": "",
+          "description": "Solana-based USDC now ranks as the single most transacted stablecoin with $103B",
           "link": "https://thedefiant.io/solana-flips-ethereum-by-stablecoin-volume-google-search-traffic",
           "publishedOn": "2024-01-03T03:19:00.000Z",
           "wordCount": null,
@@ -1425,7 +1440,7 @@
           "description": "In a new blog post, Buterin offers three approaches to simplify the network’s high validator load.",
           "link": "https://thedefiant.io/vitalik-buterin-wants-to-modify-ethereum-s-proof-of-stake-model",
           "publishedOn": "2023-12-27T22:36:44.000Z",
-          "wordCount": 2622,
+          "wordCount": null,
           "title": "Vitalik Buterin Wants to Modify Ethereum's Proof-of-Stake Model",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3eb3ceccf81e528dce93a9bc411d61f6b24ce9ab-1792x1024.png",
