@@ -11,7 +11,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/yellen-or-talkin-7fb4af9f6859?source=rss-2f6e06954878------2",
           "publishedOn": "2024-01-24T04:20:18.000Z",
-          "wordCount": 7748,
+          "wordCount": 7747,
           "title": "Yellen or Talkin’?",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1154/0*Ebw6WelsRG4tCWrR"
         },
@@ -54,6 +54,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/electric-capital-s-shen-says-more-committed-crypto-developers-are-sticking-around",
+          "author": "Owen Fernau",
+          "description": "Blockchain developers with one year of experience or more grew by 16% in 2023.",
+          "link": "https://thedefiant.io/electric-capital-s-shen-says-more-committed-crypto-developers-are-sticking-around",
+          "publishedOn": "2024-01-24T22:24:43.000Z",
+          "wordCount": null,
+          "title": "Electric Capital’s Shen Says More Committed Crypto Developers Are Sticking Around",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/66ca60ed50df13dbe52a98a2a5242186399bfc24-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/66ca60ed50df13dbe52a98a2a5242186399bfc24-1792x1024.png"
+        },
         {
           "id": "https://thedefiant.io/synthetix-launches-perpetuals-on-base",
           "author": "Owen Fernau",
@@ -1272,7 +1287,7 @@
         {
           "id": "https://thedefiant.io/defi-market-cap-tags-highest-level-since-terra-collapse",
           "author": "Samuel Haig",
-          "description": "DeFi’s combined market cap is at is up 88% since mid-October",
+          "description": "",
           "link": "https://thedefiant.io/defi-market-cap-tags-highest-level-since-terra-collapse",
           "publishedOn": "2024-01-03T12:35:00.000Z",
           "wordCount": null,
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/ether-supply-grows-amid-activity-lull-during-new-year-holidays",
           "author": "Samuel Haig",
-          "description": "",
+          "description": "ETH’s supply has increased by 3,051 coins since tagging a post-merge low on Dec. 30",
           "link": "https://thedefiant.io/ether-supply-grows-amid-activity-lull-during-new-year-holidays",
           "publishedOn": "2024-01-03T11:23:00.000Z",
           "wordCount": null,
