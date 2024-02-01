@@ -11,7 +11,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/yellen-or-talkin-7fb4af9f6859?source=rss-2f6e06954878------2",
           "publishedOn": "2024-01-24T04:20:18.000Z",
-          "wordCount": 7746,
+          "wordCount": 7747,
           "title": "Yellen or Talkin’?",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1154/0*Ebw6WelsRG4tCWrR"
         },
@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/vector-reserve-introduces-liquidity-position-derivative",
+          "author": "yyctrader",
+          "description": "vETH is collateralized by a basket of Ethereum liquid staking and restaking tokens.",
+          "link": "https://thedefiant.io/vector-reserve-introduces-liquidity-position-derivative",
+          "publishedOn": "2024-02-01T03:51:48.000Z",
+          "wordCount": 1858,
+          "title": "Vector Reserve Introduces ‘Liquidity Position Derivative’",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/54c06df47f6709d80e416619f46a0ec9d10ccfb1-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/54c06df47f6709d80e416619f46a0ec9d10ccfb1-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/defiance-capital-scores-win-in-singapore-dispute-against-3ac",
           "author": "Pedro Solimano",
           "description": "DeFiance Capital is arguing its assets and operations were separate from 3AC so it shouldn’t be included in its liquidation process.",
@@ -70,7 +85,7 @@
           "description": "Accused piracy vendors voluntarily forfeited more than $2B worth of BTC to German police.",
           "link": "https://thedefiant.io/german-police-and-dea-announce-record-btc-seizures",
           "publishedOn": "2024-01-31T18:25:00.000Z",
-          "wordCount": 2139,
+          "wordCount": 2135,
           "title": "German Police and DEA Announce Record BTC Seizures",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/539da59841a05b3bda8959b612200ee77a9392f0-1792x1024.png",
@@ -85,7 +100,7 @@
           "description": "Puffer will launch a liquid restaking token on BNB Chain and deploy a Layer 2 secured by EigenLayer.",
           "link": "https://thedefiant.io/binance-labs-invests-in-bringing-ethereum-restaking-to-bnb-chain",
           "publishedOn": "2024-01-31T16:59:00.000Z",
-          "wordCount": 1832,
+          "wordCount": 1836,
           "title": "Binance Labs Invests In Bringing Ethereum Restaking To BNB Chain",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ea99f554478a09b77b374a6c5a88361cbdcfdaaa-1792x1024.png",
@@ -115,7 +130,7 @@
           "description": "Ripple’s executive chairman, Chris Larsen, confirmed reports from blockchain analyst that XRP wallets had been raided.",
           "link": "https://thedefiant.io/hackers-drain-usd112m-in-xrp-tokens-from-ripple-co-founder-wallet",
           "publishedOn": "2024-01-31T15:11:40.000Z",
-          "wordCount": 1508,
+          "wordCount": 1512,
           "title": "Hackers Drain $112M in XRP Tokens From Ripple Co-Founder's Wallet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4b80b16c30a4a96b15a4ad0f65b7e3fbbd9a9d03-1792x1024.png",
@@ -160,7 +175,7 @@
           "description": "Buterin says most promising use cases will be where the underlying mechanism continues to be designed roughly as before, but the individual players become AIs.",
           "link": "https://thedefiant.io/vitalik-buterin-outlines-synergies-between-ai-and-blockchains",
           "publishedOn": "2024-01-30T19:04:16.000Z",
-          "wordCount": 2106,
+          "wordCount": 2110,
           "title": "Vitalik Buterin Outlines Synergies Between AI and Blockchains",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dda3c2997d64bdffba993490dfd839e9f7d87a3c-1792x1024.png",
@@ -190,7 +205,7 @@
           "description": "Grayscale outflows recede 60% as BTC recovers 12% from local low.",
           "link": "https://thedefiant.io/grayscale-etf-outflows-slow-as-btc-price-rises",
           "publishedOn": "2024-01-30T12:59:00.000Z",
-          "wordCount": 1978,
+          "wordCount": 1974,
           "title": "Grayscale ETF Outflows Slow As BTC Price Rises",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d70201b062bca0461807e3cb179cc0aef756f5f-1792x1024.png",
@@ -205,7 +220,7 @@
           "description": "Liquid restaking protocols surpass $900M or 45% of EigenLayer’s TVL.",
           "link": "https://thedefiant.io/swell-launches-liquid-restaking-token-as-lrts-boom",
           "publishedOn": "2024-01-30T10:21:00.000Z",
-          "wordCount": 2022,
+          "wordCount": 2026,
           "title": "Swell Launches Liquid Restaking Token As LRTs Boom",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b33b2f354f327dcee134822c60cb0ca99ba9d62-1792x1024.png",
@@ -235,7 +250,7 @@
           "description": "How Solana is currently rhyming Ethereum during the previous market cycle.",
           "link": "https://thedefiant.io/solana-a-past-ecosystem-of-the-future",
           "publishedOn": "2024-01-30T04:59:13.000Z",
-          "wordCount": 5481,
+          "wordCount": 5485,
           "title": "Solana: A Past Ecosystem of the Future",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a671eef0d7d31c0e37786b770906ee4021c33c4b-1792x1024.png",
@@ -250,7 +265,7 @@
           "description": "Manta Pacific is currently the third-largest Ethereum Layer 2 network by total value locked.",
           "link": "https://thedefiant.io/manta-soars-to-usd3-7b-valuation-ten-days-after-launching-token",
           "publishedOn": "2024-01-29T20:48:33.000Z",
-          "wordCount": 1705,
+          "wordCount": 1709,
           "title": "Manta Soars To $3.7B Valuation Ten Days After Launching Token",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7841d2405e87600e446c64a08b23fb3af61dd448-1792x1024.png",
@@ -335,7 +350,7 @@
           "description": "Ethereum mainnet fees dropped 44% in 2023, signaling increased migration to cheaper Layer 2 scaling solutions.",
           "link": "https://thedefiant.io/transaction-fees-on-ethereum-layer-2s-surged-400-last-year-report",
           "publishedOn": "2024-01-26T17:57:57.000Z",
-          "wordCount": 1929,
+          "wordCount": 1933,
           "title": "Transaction Fees on Ethereum Layer 2s Surged 400% Last Year: Report",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7eeccd39866fa4eb84ad8bd12907b08c8b72d396-1792x1024.png",
@@ -365,7 +380,7 @@
           "description": "Generative AI collection of 1,000 NFTs has seen 11,000 SOL of trading volume since launching yesterday.",
           "link": "https://thedefiant.io/solana-based-rubber-nft-collection-soars-50x",
           "publishedOn": "2024-01-25T21:22:20.000Z",
-          "wordCount": 1509,
+          "wordCount": 1513,
           "title": "Solana-based ‘Rubber’ NFT Collection Soars 50x",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/caa15773590e981121bc0282c26cd1ab8f07bc5f-1792x1024.png",
@@ -410,7 +425,7 @@
           "description": "Dubbed eScriptions, the marketplace mints inscriptions that enable Layer 2 smart contract functionality on Bitcoin.",
           "link": "https://thedefiant.io/elastos-launches-marketplace-for-smart-inscriptions-on-bitcoin",
           "publishedOn": "2024-01-25T14:00:00.000Z",
-          "wordCount": 1750,
+          "wordCount": 1754,
           "title": "Elastos Launches Marketplace For ‘Smart Inscriptions’ On Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/588e6cbe767f0c2030f978bd92252242a67c2496-1792x1024.png",
@@ -425,7 +440,7 @@
           "description": "Blockchain developers with one year of experience or more grew by 16% in 2023.",
           "link": "https://thedefiant.io/electric-capital-s-shen-says-more-committed-crypto-developers-are-sticking-around",
           "publishedOn": "2024-01-24T22:24:43.000Z",
-          "wordCount": 3371,
+          "wordCount": 3375,
           "title": "Electric Capital’s Shen Says More Committed Crypto Developers Are Sticking Around",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/66ca60ed50df13dbe52a98a2a5242186399bfc24-1792x1024.png",
@@ -470,7 +485,7 @@
           "description": "‘deVamp’ offers instant eETH liquidity and loyalty points to incentivize EigenLayer restakers to swap out of stETH, cbETH and wBETH.",
           "link": "https://thedefiant.io/etherfi-kicks-off-eigenlayer-vampire-attack",
           "publishedOn": "2024-01-24T17:07:50.000Z",
-          "wordCount": 1758,
+          "wordCount": 1754,
           "title": "EtherFi Kicks Off EigenLayer Vampire Attack",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/89f26af1d8ce51c8c79aa7c6001c509191e959f7-1792x1024.png",
@@ -515,7 +530,7 @@
           "description": "The FTT token, which was used to access trading discounts on FTX, rallied sharply after it came to light that the bankrupt exchange’s estate had sold over $1B of GBTC.",
           "link": "https://thedefiant.io/ftx-token-briefly-surges-18-on-gbtc-sales",
           "publishedOn": "2024-01-23T21:03:27.000Z",
-          "wordCount": 1842,
+          "wordCount": 1838,
           "title": "FTX Token Briefly Surges 18% On GBTC Sales",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9360fc389375c6d9bc453c89b9f4f74e1e933384-1792x1024.png",
@@ -545,7 +560,7 @@
           "description": "Privacy, when done correctly, is the natural evolution of the industry's commitment to individual freedom, data security, and transparency.",
           "link": "https://thedefiant.io/rebuilding-trust-in-2024-the-imperative-role-of-privacy-in-crypto-s-future",
           "publishedOn": "2024-01-23T19:08:44.000Z",
-          "wordCount": 3425,
+          "wordCount": 3421,
           "title": "Rebuilding Trust in 2024 - The Imperative Role of Privacy in Crypto's Future",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d7a6b72a56cab6aeb5891c06a9ae54c796c4295d-1792x1024.png",
@@ -575,7 +590,7 @@
           "description": "Oval's mechanism recaptures up to 90% of lost revenue for lending protocols, contributing to the sustainability of decentralized finance.",
           "link": "https://thedefiant.io/uma-and-flashbots-launch-oval-to-monetize-oracle-extractable-value",
           "publishedOn": "2024-01-23T16:22:25.000Z",
-          "wordCount": 2207,
+          "wordCount": 2203,
           "title": "UMA and Flashbots Launch Oval to Monetize Oracle Extractable Value",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bab2c8d09d33f8015840098a55b4c382b79e3852-1792x1024.png",
@@ -665,7 +680,7 @@
           "description": "The firm behind the ill-fated UST stablecoin said the filing is “a strategic step” that will enable it to continue its operations.",
           "link": "https://thedefiant.io/terraform-labs-files-for-u-s-bankruptcy",
           "publishedOn": "2024-01-22T17:19:48.000Z",
-          "wordCount": 1725,
+          "wordCount": 1729,
           "title": "Terraform Labs Files For U.S. Bankruptcy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/975f0775b938b8a7a74162097ab292300d2124e8-1792x1024.png",
@@ -725,7 +740,7 @@
           "description": "Sold at a discount, FXB tokens can be trustlessly redeemed for FRAX at par upon maturity.",
           "link": "https://thedefiant.io/frax-completes-v3-rollout-with-launch-of-bonds",
           "publishedOn": "2024-01-19T19:55:17.000Z",
-          "wordCount": 1708,
+          "wordCount": 1704,
           "title": "Frax Completes V3 Rollout With Launch Of Bonds",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/435c1ff068ee3bcb6a4cb9b8b733e022657c6159-1792x1024.png",
@@ -740,7 +755,7 @@
           "description": "Bitcoiners living in the country are skeptical of the number, however.",
           "link": "https://thedefiant.io/bitcoin-users-in-el-salvador-halved-to-12-last-year-survey",
           "publishedOn": "2024-01-19T18:01:42.000Z",
-          "wordCount": 1981,
+          "wordCount": 1985,
           "title": "Bitcoin Users in El Salvador Halved to 12% Last Year: Survey",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0b7c53794be87cabd54c35744add4853ef5371e8-1792x1024.png",
@@ -770,7 +785,7 @@
           "description": "Arbitrum’s launches Expansion Program to grow market share and drive new revenue source",
           "link": "https://thedefiant.io/arbitrum-launches-program-supporting-custom-chain-development",
           "publishedOn": "2024-01-19T09:33:00.000Z",
-          "wordCount": 2347,
+          "wordCount": 2343,
           "title": "Arbitrum Launches Program Supporting Custom Chain Development",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cb263f91ee0d2a8994d9735124820029b92426e9-1792x1024.png",
@@ -815,7 +830,7 @@
           "description": "Ondo unlocked 14.3% of its native tokens.",
           "link": "https://thedefiant.io/ondo-token-reaches-over-usd1b-market-cap-in-one-day",
           "publishedOn": "2024-01-18T21:15:47.000Z",
-          "wordCount": 2068,
+          "wordCount": 2064,
           "title": "ONDO Token Reaches Over $1B Market Cap in One Day",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5d10bfd61ee04c7b3eb15203fa27dd76ce778c9b-1792x1024.png",
@@ -910,7 +925,7 @@
           "description": "The Prysm Ethereum client initially suffered a bug triggering a post-fork network split",
           "link": "https://thedefiant.io/dencun-finalizes-on-goerli-after-rocky-fork",
           "publishedOn": "2024-01-18T06:02:00.000Z",
-          "wordCount": 2168,
+          "wordCount": 2164,
           "title": "Dencun Finalizes On Goerli After Rocky Fork",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fce770f7fb23a298c0f6fe252b2470e89a5d6009-1792x1024.png",
@@ -940,7 +955,7 @@
           "description": "Over 24,000 tokens have been listed on CoinGecko. More than 14,000 are dead.",
           "link": "https://thedefiant.io/more-than-half-of-crypto-is-dead-coingecko",
           "publishedOn": "2024-01-17T21:35:09.000Z",
-          "wordCount": 1839,
+          "wordCount": 1835,
           "title": "More Than Half Of Crypto Is Dead: CoinGecko",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2ba7e0cf1546cc9198a8959e17b701a7fc1ad7fd-1792x1024.png",
@@ -970,7 +985,7 @@
           "description": "Restaked rollup provider will airdrop ALT tokens to early supporters, including Eigenlayer and Celestia stakers.",
           "link": "https://thedefiant.io/altlayer-to-launch-token-on-jan-25",
           "publishedOn": "2024-01-17T17:35:09.000Z",
-          "wordCount": 1659,
+          "wordCount": 1655,
           "title": "AltLayer To Launch Token On Jan. 25",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2576f7c7eae5225faf5f51b13da643fc6bdd1d06-1792x1024.png",
@@ -1015,7 +1030,7 @@
           "description": "Hackers took advantage of a faulty Socket smart contract that was updated three days ago",
           "link": "https://thedefiant.io/socket-resumes-operations-after-users-lost-usd3-3m-to-exploit",
           "publishedOn": "2024-01-17T06:24:00.000Z",
-          "wordCount": 1869,
+          "wordCount": 1865,
           "title": "Socket Resumes Operations After Users Lost $3.3M To Exploit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e4303dfe84366f10dd9b22a63d5f3a9c7cd493ca-1792x1024.png",
@@ -1090,7 +1105,7 @@
           "description": "Ethereum processed a record high of nearly 2M transactions on Jan. 14",
           "link": "https://thedefiant.io/ethereum-throughput-tags-record-high-as-burn-rate-drives-down-eth-supply",
           "publishedOn": "2024-01-16T13:46:00.000Z",
-          "wordCount": 2206,
+          "wordCount": 2202,
           "title": "Ethereum Throughput Tags Record High As Burn Rate Drives Down ETH Supply",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0a1d84d3d9ada02f9cb72ec48280b5417d0382be-1792x1024.png",
@@ -1282,7 +1297,7 @@
         {
           "id": "https://thedefiant.io/spot-bitcoin-etfs-drove-over-usd700m-in-one-day",
           "author": "Camila Russo",
-          "description": "Spot bitcoin exchange-traded funds (ETFs) drew in more than $600 million on their first day of trading.",
+          "description": "Bitwise led the way attracting the most flows out of the 11 funds that started trading.",
           "link": "https://thedefiant.io/spot-bitcoin-etfs-drove-over-usd700m-in-one-day",
           "publishedOn": "2024-01-12T16:35:54.000Z",
           "wordCount": 1536,
@@ -1435,7 +1450,7 @@
           "description": "89,000 pieces of content have been registered so far.",
           "link": "https://thedefiant.io/fox-launches-protocol-for-content-verification-on-polygon",
           "publishedOn": "2024-01-09T20:10:29.000Z",
-          "wordCount": 1793,
+          "wordCount": 1789,
           "title": "Fox Launches Protocol for Content Verification on Polygon",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/159cdc539603c22308e3dd135405d262db218d3a-1792x1024.png",
@@ -1513,21 +1528,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0af13384fad34b304f01c0d11c35aafde4101d23-960x540.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/dydx-in-talks-with-perpetrator-and-law-enforcement-over-recent-market-manipulation-attack",
-          "author": "Pedro Solimano",
-          "description": "Rival criticize dYdX for “centralized” response to market manipulation attacks",
-          "link": "https://thedefiant.io/dydx-in-talks-with-perpetrator-and-law-enforcement-over-recent-market-manipulation-attack",
-          "publishedOn": "2024-01-06T14:25:00.000Z",
-          "wordCount": 2515,
-          "title": "DYdX In Talks With Perpetrator and Law Enforcement Over Recent Market Manipulation Attack",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/04d07d1855e579e67d3e70cd841e7b7ad1ba6e9d-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/04d07d1855e579e67d3e70cd841e7b7ad1ba6e9d-1792x1024.png"
         }
       ]
     },
