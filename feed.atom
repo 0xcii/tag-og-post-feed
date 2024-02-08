@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-08T22:11:30.941Z</id>
+    <id>urn:2024-02-08T23:13:21.954Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-08T22:11:30.941Z</updated>
+    <updated>2024-02-08T23:13:21.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Points Guard]]></title>
+        <id>https://medium.com/p/2bbbe8dcaeac</id>
+        <link href="https://cryptohayes.medium.com/points-guard-2bbbe8dcaeac?source=rss-2f6e06954878------2"/>
+        <updated>2024-02-08T23:01:52.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morpheus AI Launch Attracts $50M Within Hours]]></title>
         <id>https://thedefiant.io/morpheus-ai-launch-attracts-usd50m-within-hours</id>
