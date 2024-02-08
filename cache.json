@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/ethereum-s-dencun-upgrade-completes-testnet-trials-mainnet-comes-next",
+          "author": "Samuel Haig",
+          "description": "Ethereum's developers expect to schedule Dencun’s mainnet launch date during the Feb. 8 All Core Devs call.",
+          "link": "https://thedefiant.io/ethereum-s-dencun-upgrade-completes-testnet-trials-mainnet-comes-next",
+          "publishedOn": "2024-02-08T03:11:00.000Z",
+          "wordCount": 1781,
+          "title": "Ethereum’s Dencun Upgrade Completes Testnet Trials, Mainnet Comes Next",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f44466f772cc3264fb6fe1e826b8d308d871c76b-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f44466f772cc3264fb6fe1e826b8d308d871c76b-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/what-are-layer-3-blockchains",
           "author": "Squiffs",
           "description": "Customizable application-specific networks enable Web3 developers to optimize performance without sacrificing security.",
@@ -65,7 +80,7 @@
           "description": "Top gainers include Dymension (DYM), Monero (XMR), and Jupiter (JUP).",
           "link": "https://thedefiant.io/ether-hits-2-week-high-after-ark-amends-etf-filing",
           "publishedOn": "2024-02-07T19:36:37.000Z",
-          "wordCount": 1648,
+          "wordCount": 1644,
           "title": "Ether Hits 2-Week High After Ark Amends ETF Filing",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4aa8a1fb017314dc8f2b0ec8fbec386d2b1b19bf-1792x1024.webp",
@@ -80,7 +95,7 @@
           "description": "The new Ethereum token standard blends features of ERC-20 tokens and ERC-721 NFTs.",
           "link": "https://thedefiant.io/experimental-erc-404-token-rockets-to-usd170m-market-cap",
           "publishedOn": "2024-02-07T18:59:54.000Z",
-          "wordCount": 1582,
+          "wordCount": 1578,
           "title": "Experimental ERC-404 Token Rockets To $170M Market Cap",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a2d94d9847ae239c898ff3dad7af8da1c76c144f-1792x1024.webp",
@@ -140,7 +155,7 @@
           "description": "The new venture studio, DeepTech, will invest in tech firms operating within Saudi Arabia.",
           "link": "https://thedefiant.io/hedera-teams-up-with-saudi-investment-ministry-on-usd250m-venture-studio",
           "publishedOn": "2024-02-07T11:01:00.000Z",
-          "wordCount": 2030,
+          "wordCount": 2026,
           "title": "Hedera Teams Up With Saudi Investment Ministry On $250M Venture Studio",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/add429307162edf903fe8952332be31399814f0b-1792x1024.webp",
@@ -155,7 +170,7 @@
           "description": "GHO is trading for roughly $1 for the first time since launching six months ago.",
           "link": "https://thedefiant.io/aave-s-gho-stablecoin-finally-achieves-parity-with-usd",
           "publishedOn": "2024-02-07T09:39:00.000Z",
-          "wordCount": 1780,
+          "wordCount": 1776,
           "title": "Aave’s GHO Stablecoin Finally Achieves Parity With USD",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/baf7fa32f8c92b694b12e898733af71066317338-1792x1024.webp",
@@ -170,7 +185,7 @@
           "description": "DEGEN briefly surged above $150M in market capitalization.",
           "link": "https://thedefiant.io/farcaster-frenzy-sparks-base-memecoin-season",
           "publishedOn": "2024-02-06T20:34:56.000Z",
-          "wordCount": 1498,
+          "wordCount": 1494,
           "title": "Farcaster Frenzy Sparks Base Memecoin Mania",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/08d723928f7afa24b0ca8440fa5aa534b9d324c2-1792x1024.webp",
@@ -185,7 +200,7 @@
           "description": "Cosmos-based ‘RollApp’ platform’s DYM token is trading at a fully diluted valuation of $4B.",
           "link": "https://thedefiant.io/dymension-launches-mainnet-with-usd300m-airdrop",
           "publishedOn": "2024-02-06T16:49:30.000Z",
-          "wordCount": 1583,
+          "wordCount": 1579,
           "title": "Dymension Launches Mainnet With $300M Airdrop",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/094f584462462084166369eaed3603dfba15ac31-828x473.png",
@@ -200,7 +215,7 @@
           "description": "SOL price slid as Solana's mainnet-beta faced major outage.",
           "link": "https://thedefiant.io/solana-blockchain-is-live-after-5-hour-outage",
           "publishedOn": "2024-02-06T15:31:30.000Z",
-          "wordCount": 1802,
+          "wordCount": 1798,
           "title": "Solana Blockchain is Live After 5-Hour Outage",
           "imageUrl": null
         },
@@ -210,7 +225,7 @@
           "description": "U.S. users will be able to fund their non-custodial wallets through Robinhood Connect.",
           "link": "https://thedefiant.io/metamask-adds-robinhood-integration",
           "publishedOn": "2024-02-06T15:00:00.000Z",
-          "wordCount": 1656,
+          "wordCount": 1652,
           "title": "MetaMask Adds Robinhood Integration",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1057f1efb40176c02b47b8ef759d59f984236dcc-1792x1024.png",
@@ -240,7 +255,7 @@
           "description": "EigenLayer’s LST pools will remain uncapped until Feb. 9.",
           "link": "https://thedefiant.io/eigenlayer-s-tvl-grows-usd1-5b-in-one-day-after-raising-lst-pool-limits",
           "publishedOn": "2024-02-06T11:59:00.000Z",
-          "wordCount": 1926,
+          "wordCount": 1922,
           "title": "EigenLayer’s TVL Grows $1.5B In One Day After Raising LST Pool Limits",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f068575e2fe269005a39f69b27731d12591bddc5-1792x1024.webp",
@@ -285,7 +300,7 @@
           "description": "The team aims to distribute $1 billion over the next \"several years,\" it said.",
           "link": "https://thedefiant.io/gitcoin-doubles-down-on-grants-program",
           "publishedOn": "2024-02-05T22:31:03.000Z",
-          "wordCount": 1702,
+          "wordCount": 1706,
           "title": "Gitcoin Doubles Down On Grants Program",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/198e4275080a7916a5adaf119e0c266abc6df9a4-1792x1024.png",
@@ -315,7 +330,7 @@
           "description": "BlackRock and Fidelity saw $5B of net flows combined and ranked 8th and 10th, respectively.",
           "link": "https://thedefiant.io/two-bitcoin-etfs-land-in-top-10-january-etf-inflows",
           "publishedOn": "2024-02-05T16:38:09.000Z",
-          "wordCount": 1927,
+          "wordCount": 1923,
           "title": "Two Bitcoin ETFs Land In Top 10 January ETF Inflows",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/46d0dbab430d443989cfa0fe1f9445e3bcc6c255-1792x1024.png",
@@ -330,7 +345,7 @@
           "description": "DYdX will also focus on improving user experience and onboarding.",
           "link": "https://thedefiant.io/dydx-unveils-2024-roadmap-including-permissionless-market-deployment",
           "publishedOn": "2024-02-05T14:00:00.000Z",
-          "wordCount": 2090,
+          "wordCount": 2094,
           "title": "DYdX Unveils 2024 Roadmap Including Permissionless Market Deployment",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a0ebf35b15dde5658e2ba2264470ee9e2643eec2-1792x1024.webp",
@@ -345,7 +360,7 @@
           "description": "The partnership comes despite ENS suing GoDaddy in 2022.",
           "link": "https://thedefiant.io/ethereum-name-service-announces-partnership-with-top-dns-provider-godaddy",
           "publishedOn": "2024-02-05T14:00:00.000Z",
-          "wordCount": 2153,
+          "wordCount": 2157,
           "title": "Ethereum Name Service Announces Partnership With Top DNS Provider GoDaddy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b982eca3a3b1135d5d654d2b824ee68f6df12631-1792x1024.webp",
@@ -375,7 +390,7 @@
           "description": "The Defiant's most read stories for the week of Jan 29.",
           "link": "https://thedefiant.io/our-most-read-stories-this-week-manta-soars-solana-ecosystem-report-jup-airdrop-dapp-users",
           "publishedOn": "2024-02-03T17:33:05.000Z",
-          "wordCount": 1385,
+          "wordCount": 1381,
           "title": "Our Most Read Stories This Week: Manta Soars, Solana Ecosystem Report, JUP Airdrop, Dapp Users",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8750e34f54082dd91681f17eca5c6b107d41452f-1792x1024.png",
@@ -405,7 +420,7 @@
           "description": "While being four times more expensive to mint than Ordinals, SRC-20 tokens live on Bitcoin’s UTXO set, making them unprunable.",
           "link": "https://thedefiant.io/bitcoin-stamps-seek-to-improve-on-ordinals",
           "publishedOn": "2024-02-02T19:35:45.000Z",
-          "wordCount": 2396,
+          "wordCount": 2392,
           "title": "Bitcoin Stamps Seek To Improve On Ordinals",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/200bdad86bbd32307bc3966071ee18021ae73ba9-1792x1024.png",
@@ -435,7 +450,7 @@
           "description": "Solana-based DEX Jupiter airdropped $700M worth of JUP tokens to early adopters this week.",
           "link": "https://thedefiant.io/jupiter-s-launchpad-mechanism-riles-up-crypto-community",
           "publishedOn": "2024-02-02T18:10:49.000Z",
-          "wordCount": 2391,
+          "wordCount": 2395,
           "title": "Jupiter’s Launchpad Mechanism Riles Up Crypto Community",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/187c82bc519287ce9efc84125c1085062b6cb68c-1792x1024.png",
@@ -480,7 +495,7 @@
           "description": "Cosmos-based liquid staking protocol will airdrop $18M worth of STRIDE tokens over five months to early adopters of stTIA.",
           "link": "https://thedefiant.io/stride-launches-liquid-staking-token-for-celestia",
           "publishedOn": "2024-02-01T17:53:29.000Z",
-          "wordCount": 1514,
+          "wordCount": 1518,
           "title": "Stride Launches Liquid Staking Token For Celestia",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a7ddacf356c56ff3d2a0eec1fd243fc1beb0f979-1792x1024.png",
@@ -540,7 +555,7 @@
           "description": "Blast is again garnering controversy after allegedly altering the license for Optimism’s open-source codebase.",
           "link": "https://thedefiant.io/blast-accused-of-dishonestly-forking-optimism-s-code",
           "publishedOn": "2024-02-01T13:23:00.000Z",
-          "wordCount": 1920,
+          "wordCount": 1916,
           "title": "Blast Accused Of Dishonestly Forking Optimism’s Code",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d51a843fa3c4a02ad227b4d8318ca88db29727b2-1792x1024.png",
@@ -555,7 +570,7 @@
           "description": "FTX’s creditor repayment plan was approved on the same day that Celsius began distributing assets to its former users.",
           "link": "https://thedefiant.io/celsius-begins-asset-distributions-to-customers-as-court-approves-ftx-s-repayment-plan",
           "publishedOn": "2024-02-01T12:05:00.000Z",
-          "wordCount": 2371,
+          "wordCount": 2367,
           "title": "Celsius Begins Asset Distributions To Customers As Court Approves FTX’s Repayment Plan",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/86342d779d4b191961c776412236df22fb2f368a-1792x1024.png",
@@ -570,7 +585,7 @@
           "description": "Protocol Guild calls on Ethereum ecosystem projects to support core contributors",
           "link": "https://thedefiant.io/ethereum-projects-urged-to-donate-1-of-token-supply-to-support-development",
           "publishedOn": "2024-02-01T10:13:00.000Z",
-          "wordCount": 2120,
+          "wordCount": 2116,
           "title": "Ethereum Projects Urged To Donate 1% Of Token Supply To Support Development",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/eb4c7f2577f731f5829a9a8fa44852f9469ada5b-1792x1024.png",
@@ -600,7 +615,7 @@
           "description": "DeFiance Capital is arguing its assets and operations were separate from 3AC so it shouldn’t be included in its liquidation process.",
           "link": "https://thedefiant.io/defiance-capital-scores-win-in-singapore-dispute-against-3ac",
           "publishedOn": "2024-01-31T22:19:27.000Z",
-          "wordCount": 2310,
+          "wordCount": 2314,
           "title": "DeFiance Capital Scores Win in Singapore Dispute Against 3AC",
           "imageUrl": null
         },
@@ -610,7 +625,7 @@
           "description": "Thomas Mattimore is the CEO of ABC Labs, the company behind the development and promotion of the Reserve protocol, a permissionless platform that empowers anyone to launch and govern overcollateralized currencies backed by diverse baskets of assets.",
           "link": "https://thedefiant.io/creating-asset-backed-stablecoins-with-the-reserve-protocol",
           "publishedOn": "2024-01-31T22:11:00.000Z",
-          "wordCount": 1350,
+          "wordCount": 1354,
           "title": "Creating asset-backed stablecoins with the Reserve protocol",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc817e89a12f728b00665c4811dc7a01840013c6-640x480.jpg",
@@ -625,7 +640,7 @@
           "description": "Accused piracy vendors voluntarily forfeited more than $2B worth of BTC to German police.",
           "link": "https://thedefiant.io/german-police-and-dea-announce-record-btc-seizures",
           "publishedOn": "2024-01-31T18:25:00.000Z",
-          "wordCount": 2054,
+          "wordCount": 2050,
           "title": "German Police and DEA Announce Record BTC Seizures",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/539da59841a05b3bda8959b612200ee77a9392f0-1792x1024.png",
@@ -670,7 +685,7 @@
           "description": "Ripple’s executive chairman, Chris Larsen, confirmed reports from blockchain analyst that XRP wallets had been raided.",
           "link": "https://thedefiant.io/hackers-drain-usd112m-in-xrp-tokens-from-ripple-co-founder-wallet",
           "publishedOn": "2024-01-31T15:11:40.000Z",
-          "wordCount": 1423,
+          "wordCount": 1427,
           "title": "Hackers Drain $112M in XRP Tokens From Ripple Co-Founder's Wallet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4b80b16c30a4a96b15a4ad0f65b7e3fbbd9a9d03-1792x1024.png",
@@ -685,7 +700,7 @@
           "description": "Dencun’s final testnet deployment will take place on Feb. 7.",
           "link": "https://thedefiant.io/ethereum-s-dencun-upgrade-goes-live-on-sepolia-without-a-hitch",
           "publishedOn": "2024-01-31T01:08:00.000Z",
-          "wordCount": 1856,
+          "wordCount": 1860,
           "title": "Ethereum’s Dencun Upgrade Goes Live On Sepolia Without A Hitch",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/11dc88f980535dec6499f72c620cd79e5223a627-1792x1024.png",
@@ -715,7 +730,7 @@
           "description": "Buterin says most promising use cases will be where the underlying mechanism continues to be designed roughly as before, but the individual players become AIs.",
           "link": "https://thedefiant.io/vitalik-buterin-outlines-synergies-between-ai-and-blockchains",
           "publishedOn": "2024-01-30T19:04:16.000Z",
-          "wordCount": 2025,
+          "wordCount": 2021,
           "title": "Vitalik Buterin Outlines Synergies Between AI and Blockchains",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dda3c2997d64bdffba993490dfd839e9f7d87a3c-1792x1024.png",
@@ -730,7 +745,7 @@
           "description": "The MIM stablecoin trades at a 6% discount as the team attempts to contact the hacker via onchain message.",
           "link": "https://thedefiant.io/lending-protocol-abracadabra-hit-by-usd6-5m-exploit",
           "publishedOn": "2024-01-30T17:03:34.000Z",
-          "wordCount": 1535,
+          "wordCount": 1539,
           "title": "Lending Protocol Abracadabra Hit By $6.5M Exploit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3623ef499254aa42ead28ed6d675b8479c7fc009-1792x1024.png",
@@ -845,7 +860,7 @@
           "description": "All unclaimed tokens, or about 25% of circulating supply, will be burned.",
           "link": "https://thedefiant.io/solana-memecoin-wen-rallies-as-3-day-airdrop-ends",
           "publishedOn": "2024-01-29T18:56:55.000Z",
-          "wordCount": 1732,
+          "wordCount": 1736,
           "title": "Solana Memecoin WEN Rallies as 3-Day Airdrop Ends",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b2bdec01021c53bfa5e4861263c230cd4918a8c8-1792x1024.png",
@@ -860,7 +875,7 @@
           "description": "On-chain sleuths have accused AltLayer’s head of growth of using inside information to turn a profit of $200,000 from the airdrop.",
           "link": "https://thedefiant.io/altlayer-team-member-denies-insider-trading-allegations",
           "publishedOn": "2024-01-27T03:17:24.000Z",
-          "wordCount": 2065,
+          "wordCount": 2069,
           "title": "AltLayer Team Member Denies Insider Trading Allegations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/57bb078b2c04c75d6f9a196e7c50d7278def2f9a-1792x1024.png",
@@ -920,7 +935,7 @@
           "description": "Generative AI collection of 1,000 NFTs has seen 11,000 SOL of trading volume since launching yesterday.",
           "link": "https://thedefiant.io/solana-based-rubber-nft-collection-soars-50x",
           "publishedOn": "2024-01-25T21:22:20.000Z",
-          "wordCount": 1424,
+          "wordCount": 1428,
           "title": "Solana-based ‘Rubber’ NFT Collection Soars 50x",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/caa15773590e981121bc0282c26cd1ab8f07bc5f-1792x1024.png",
@@ -1010,7 +1025,7 @@
           "description": "Users of the tokenized volatility protocol can earn points by trading Volmex perpetuals, daily quests, or completing Galxe NFT campaigns.",
           "link": "https://thedefiant.io/polygon-based-volmex-finance-launches-points-program",
           "publishedOn": "2024-01-24T18:19:20.000Z",
-          "wordCount": 1468,
+          "wordCount": 1472,
           "title": "Polygon-based Volmex Finance Launches Points Program",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ce3557a062d03f63e999e8524e8537ceb55fdd24-1792x1024.png",
@@ -1115,7 +1130,7 @@
           "description": "Galxe campaign participants and NFT holders will receive over 70% of the 300M ALT tokens allocated to the airdrop.",
           "link": "https://thedefiant.io/altlayer-releases-airdrop-allocations",
           "publishedOn": "2024-01-23T18:27:26.000Z",
-          "wordCount": 1574,
+          "wordCount": 1578,
           "title": "AltLayer Releases Airdrop Allocations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/493bc9b33e76a7976da0b3a463645ec980065e3a-1792x1024.png",
@@ -1220,7 +1235,7 @@
           "description": "The firm behind the ill-fated UST stablecoin said the filing is “a strategic step” that will enable it to continue its operations.",
           "link": "https://thedefiant.io/terraform-labs-files-for-u-s-bankruptcy",
           "publishedOn": "2024-01-22T17:19:48.000Z",
-          "wordCount": 1640,
+          "wordCount": 1644,
           "title": "Terraform Labs Files For U.S. Bankruptcy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/975f0775b938b8a7a74162097ab292300d2124e8-1792x1024.png",
@@ -1262,7 +1277,7 @@
         {
           "id": "https://thedefiant.io/developers-race-to-bring-evm-functionality-to-bitcoin",
           "author": "Samuel Haig",
-          "description": "Several teams are working to deliver EVM-compatible Bitcoin Layer 2 networks",
+          "description": "The race is one to deliver Ethereum smart contracts on Bitcoin, with an oncoming cohort of project planning on launching EVM-compatibility on Layer 2.",
           "link": "https://thedefiant.io/developers-race-to-bring-evm-functionality-to-bitcoin",
           "publishedOn": "2024-01-22T10:23:41.000Z",
           "wordCount": 2857,
@@ -1435,7 +1450,7 @@
           "description": "Tokenized funds grew from $100M to $800M asset class in 2023",
           "link": "https://thedefiant.io/moody-s-vouches-for-efficiency-benefits-of-tokenization",
           "publishedOn": "2024-01-18T12:46:00.000Z",
-          "wordCount": 2406,
+          "wordCount": 2410,
           "title": "Moody’s Vouches For Efficiency Benefits Of Tokenization",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0535b5e211f460f9f8ec867aa63bf4bbfcc85767-1792x1024.png",
@@ -1503,21 +1518,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2ba7e0cf1546cc9198a8959e17b701a7fc1ad7fd-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/dymension-airdrop-claim-to-end-in-four-days",
-          "author": "Squiffs",
-          "description": "Eligible users of Ethereum Layer 2s, Solana and Cosmos have until Jan. 21 to claim their DYM allocations.",
-          "link": "https://thedefiant.io/dymension-airdrop-claim-to-end-in-four-days",
-          "publishedOn": "2024-01-17T19:20:58.000Z",
-          "wordCount": 1820,
-          "title": "Dymension Airdrop Claim To End In Four Days",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f5b572fcaac3608649028082746ee10c5ca42042-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f5b572fcaac3608649028082746ee10c5ca42042-1792x1024.png"
         }
       ]
     },
