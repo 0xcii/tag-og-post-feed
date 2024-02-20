@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-20T18:17:41.662Z</id>
+    <id>urn:2024-02-20T19:09:50.035Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-20T18:17:41.662Z</updated>
+    <updated>2024-02-20T19:09:50.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism Airdrops $40M To Artists and Creators]]></title>
+        <id>https://thedefiant.io/optimism-airdrops-usd40m-to-artists-and-creators</id>
+        <link href="https://thedefiant.io/optimism-airdrops-usd40m-to-artists-and-creators"/>
+        <updated>2024-02-20T18:33:37.000Z</updated>
+        <summary type="html"><![CDATA[The fourth airdrop from the second-largest Layer 2 will see 10M OP tokens distributed to 22,998 addresses.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH Flirts With $3,000 For The First Time Since April 2022]]></title>
         <id>https://thedefiant.io/eth-flirts-with-usd3-000-for-the-first-time-since-april-2022</id>
@@ -73,6 +83,16 @@
         <summary type="html"><![CDATA[Its $500 million market cap ranks PIXEL at 7th on Binance’s Launchpool ranking.]]></summary>
         <author>
             <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon's Plan for a Simplified Blockchain Experience]]></title>
+        <id>https://thedefiant.io/polygon-s-plan-for-a-simplified-blockchain-experience</id>
+        <link href="https://thedefiant.io/polygon-s-plan-for-a-simplified-blockchain-experience"/>
+        <updated>2024-02-19T17:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Today we are joined by Brendan Farmer, who's the co-founder of Polygon, a project that is focused on scaling Ethereum. Our conversation begins with an exploration of the foundational elements that constitute the Polygon ecosystem.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -830,7 +850,7 @@
         <id>https://thedefiant.io/our-most-read-stories-this-week-manta-soars-solana-ecosystem-report-jup-airdrop-dapp-users</id>
         <link href="https://thedefiant.io/our-most-read-stories-this-week-manta-soars-solana-ecosystem-report-jup-airdrop-dapp-users"/>
         <updated>2024-02-03T17:33:05.000Z</updated>
-        <summary type="html"><![CDATA[The Defiant's most read stories for the week of Jan 29.]]></summary>
+        <summary type="html"><![CDATA[The Defiant's most read stories for the week of Jan. 29.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -993,26 +1013,6 @@
         <summary type="html"><![CDATA[Thomas Mattimore is the CEO of ABC Labs, the company behind the development and promotion of the Reserve protocol, a permissionless platform that empowers anyone to launch and govern overcollateralized currencies backed by diverse baskets of assets.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[German Police and DEA Announce Record BTC Seizures]]></title>
-        <id>https://thedefiant.io/german-police-and-dea-announce-record-btc-seizures</id>
-        <link href="https://thedefiant.io/german-police-and-dea-announce-record-btc-seizures"/>
-        <updated>2024-01-31T18:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Accused piracy vendors voluntarily forfeited more than $2B worth of BTC to German police.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Labs Invests In Bringing Ethereum Restaking To BNB Chain]]></title>
-        <id>https://thedefiant.io/binance-labs-invests-in-bringing-ethereum-restaking-to-bnb-chain</id>
-        <link href="https://thedefiant.io/binance-labs-invests-in-bringing-ethereum-restaking-to-bnb-chain"/>
-        <updated>2024-01-31T16:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Puffer will launch a liquid restaking token on BNB Chain and deploy a Layer 2 secured by EigenLayer.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
