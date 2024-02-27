@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-27T14:11:38.045Z</id>
+    <id>urn:2024-02-27T15:12:50.462Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-27T14:11:38.045Z</updated>
+    <updated>2024-02-27T15:12:50.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arkis Raises $2.2 Million To Accelerate Institutional Adoption Of DeFi]]></title>
+        <id>https://thedefiant.io/arkis-raises-usd2-2-million-to-accelerate-institutional-adoption-of-defi</id>
+        <link href="https://thedefiant.io/arkis-raises-usd2-2-million-to-accelerate-institutional-adoption-of-defi"/>
+        <updated>2024-02-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The pre-seed round included gumi Cryptos Capital, G1 Ventures, and Psalion VC.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Adds New Features Including Limit Orders]]></title>
+        <id>https://thedefiant.io/uniswap-adds-new-features-including-limit-orders</id>
+        <link href="https://thedefiant.io/uniswap-adds-new-features-including-limit-orders"/>
+        <updated>2024-02-27T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Limits orders are available starting today, whereas the browser extension will be live in 4-6 weeks.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gauntlet Partners With Morpho As TVL Rises]]></title>
+        <id>https://thedefiant.io/gauntlet-partners-with-morpho-as-tvl-rises</id>
+        <link href="https://thedefiant.io/gauntlet-partners-with-morpho-as-tvl-rises"/>
+        <updated>2024-02-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After Gauntlet dropped Aave last week, the move intensifies tensions between the decentralized lending protocols.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blast Schedules Mainnet Launch As TVL Pushed Above $2B]]></title>
+        <id>https://thedefiant.io/blast-schedules-mainnet-launch-as-tvl-pushed-above-usd2b</id>
+        <link href="https://thedefiant.io/blast-schedules-mainnet-launch-as-tvl-pushed-above-usd2b"/>
+        <updated>2024-02-27T13:49:38.000Z</updated>
+        <summary type="html"><![CDATA[Blast appears poised to rank as the third-largest Ethereum Layer 2 by TVL at launch.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safe and Base Team Up To Promote Ethereum Smart Accounts]]></title>
+        <id>https://thedefiant.io/safe-and-base-team-up-to-promote-ethereum-smart-accounts</id>
+        <link href="https://thedefiant.io/safe-and-base-team-up-to-promote-ethereum-smart-accounts"/>
+        <updated>2024-02-27T12:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Base offers up to 1 ETH in gas rebates for smart account developers.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Surges Above $54,000]]></title>
         <id>https://thedefiant.io/bitcoin-surges-above-usd53-000</id>
@@ -860,7 +910,7 @@
         <id>https://thedefiant.io/ethereum-s-dencun-upgrade-completes-testnet-trials-mainnet-comes-next</id>
         <link href="https://thedefiant.io/ethereum-s-dencun-upgrade-completes-testnet-trials-mainnet-comes-next"/>
         <updated>2024-02-08T03:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum's highly-awaited Dencun completed it final testnet deployment and will soon go live on mainnet.]]></summary>
+        <summary type="html"><![CDATA[Ethereum's developers expect to schedule Dencun’s mainnet launch date during the Feb. 8 All Core Devs call.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -973,56 +1023,6 @@
         <summary type="html"><![CDATA[SOL price slid as Solana's mainnet-beta faced major outage.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask Adds Robinhood Integration]]></title>
-        <id>https://thedefiant.io/metamask-adds-robinhood-integration</id>
-        <link href="https://thedefiant.io/metamask-adds-robinhood-integration"/>
-        <updated>2024-02-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[U.S. users will be able to fund their non-custodial wallets through Robinhood Connect.]]></summary>
-        <author>
-            <name>Owen Fernau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neon EVM Partners With DeBridge To Support New Chains]]></title>
-        <id>https://thedefiant.io/neon-evm-partners-with-debridge-to-support-new-chains</id>
-        <link href="https://thedefiant.io/neon-evm-partners-with-debridge-to-support-new-chains"/>
-        <updated>2024-02-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Users can now bridge between Solana and multiple EVM networks via Neon.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayer’s TVL Grows $1.5B In One Day After Raising LST Pool Limits]]></title>
-        <id>https://thedefiant.io/eigenlayer-s-tvl-grows-usd1-5b-in-one-day-after-raising-lst-pool-limits</id>
-        <link href="https://thedefiant.io/eigenlayer-s-tvl-grows-usd1-5b-in-one-day-after-raising-lst-pool-limits"/>
-        <updated>2024-02-06T11:59:00.000Z</updated>
-        <summary type="html"><![CDATA[EigenLayer’s LST pools will remain uncapped until Feb. 9.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DePIN: Crypto's Biggest Sector of 2024]]></title>
-        <id>https://thedefiant.io/depin-crypto-s-biggest-sector-of-2024</id>
-        <link href="https://thedefiant.io/depin-crypto-s-biggest-sector-of-2024"/>
-        <updated>2024-02-06T05:57:17.000Z</updated>
-        <summary type="html"><![CDATA[The ability for individuals to generate passive income from the tokenization of the real-world data generated by their devices and apps presents an enormous opportunity.]]></summary>
-        <author>
-            <name>Raullen Chai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT Collector GMoney Collateralized CryptoPunk 8219 For $1M Loan]]></title>
-        <id>https://thedefiant.io/nft-collector-gmoney-collateralized-cryptopunk-8219-for-usd1m-loan</id>
-        <link href="https://thedefiant.io/nft-collector-gmoney-collateralized-cryptopunk-8219-for-usd1m-loan"/>
-        <updated>2024-02-05T22:39:42.000Z</updated>
-        <summary type="html"><![CDATA[GMoney is backing the $1M loan with Crypto Punk 8219.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
 </feed>
