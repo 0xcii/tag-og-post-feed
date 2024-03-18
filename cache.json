@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/fidelity-adds-staking-to-spot-ethereum-etf-application",
+          "author": "Pedro Solimano",
+          "description": "The firm submitted its amendment late Monday.",
+          "link": "https://thedefiant.io/fidelity-adds-staking-to-spot-ethereum-etf-application",
+          "publishedOn": "2024-03-18T22:25:29.000Z",
+          "wordCount": 1913,
+          "title": "Fidelity Adds Staking To Spot Ethereum ETF Application",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7be6956003598cd235beb1b1bb1320afec3f0777-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7be6956003598cd235beb1b1bb1320afec3f0777-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/solana-memecoin-slerf-accidentally-burns-usd10-million",
           "author": "Pedro Solimano",
           "description": "The SLERF team burned presale tokens that were to be airdropped to early backers.",
@@ -110,7 +125,7 @@
           "description": "More than 90,000 wallets have received their Runestones, which are trading on secondary markets for $1,200.",
           "link": "https://thedefiant.io/it-s-raining-runestones-as-bitcoin-ordinals-project-launches-airdrop",
           "publishedOn": "2024-03-15T20:54:34.000Z",
-          "wordCount": 1992,
+          "wordCount": 1990,
           "title": "It’s Raining Runestones As Bitcoin Ordinals Project Launches Airdrop",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/31d4d39d44625244dd7449e2e499f97f47795d64-1792x1024.webp",
@@ -140,7 +155,7 @@
           "description": "Bitcoin trades below $70,000 as the entire crypto market contracts 4%.",
           "link": "https://thedefiant.io/crypto-retraces-this-week-s-gains-as-traders-take-profits",
           "publishedOn": "2024-03-15T17:14:43.000Z",
-          "wordCount": 1957,
+          "wordCount": 1959,
           "title": "Crypto Retraces This Week’s Gains as Traders Take Profits",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/43a97b1bfadc3d0ff1272bd9c0db47aa462f40b5-1292x738.png",
@@ -230,7 +245,7 @@
           "description": "The onchain options protocol has integrated with Pendle Finance to tap multiple yield sources.",
           "link": "https://thedefiant.io/thetanuts-finance-launches-leveraged-liquid-restaking",
           "publishedOn": "2024-03-14T15:31:40.000Z",
-          "wordCount": 2444,
+          "wordCount": 2446,
           "title": "Thetanuts Finance Launches Leveraged Liquid Restaking",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/db7d4fb94aaa6b689470364746291bb3a8925617-1792x1024.webp",
@@ -380,7 +395,7 @@
           "description": "Starknet will begin subsidizing transaction fees for users before its upgrade roll-out is complete.",
           "link": "https://thedefiant.io/starknet-to-roll-out-suite-of-fee-saving-measures-alongside-dencun",
           "publishedOn": "2024-03-12T11:45:00.000Z",
-          "wordCount": 2412,
+          "wordCount": 2414,
           "title": "Starknet To Roll Out Suite Of Fee-Saving Measures Alongside Dencun",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f9d01cb141b0cf010318e4770efdc24380793049-1792x1024.webp",
@@ -650,7 +665,7 @@
           "description": "The crypto hedge fund aims to raise $250M for a new fund that could purchase up to $250M of discounted SOL held by the defunct exchange.",
           "link": "https://thedefiant.io/sol-surges-as-pantera-looks-to-buy-tokens-from-ftx-estate",
           "publishedOn": "2024-03-07T17:21:56.000Z",
-          "wordCount": 1791,
+          "wordCount": 1789,
           "title": "SOL Surges As Pantera Looks To Buy Tokens From FTX Estate",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ab60d46907970c1f042397d6bd1d412e6ee92e82-1792x1024.webp",
@@ -710,7 +725,7 @@
           "description": "Hester Pierce and Mark Uyeda have published a letter in clear opposition to the SEC’s position on crypto.",
           "link": "https://thedefiant.io/sec-commissioners-criticize-regulator-over-shapeshift-securities-case",
           "publishedOn": "2024-03-07T09:00:30.000Z",
-          "wordCount": 2167,
+          "wordCount": 2169,
           "title": "SEC Commissioners Criticize Regulator Over ShapeShift Securities Case",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/51f0b9afa5cbeca6e5630405365fb4712ccddd83-1792x1024.webp",
@@ -725,7 +740,7 @@
           "description": "BTC hitting all time highs, normie friends pestering you about random coins, and Coinbase entering the Top 100 downloaded apps has got many of us wondering when the markets will top out, experience a pullback, or enter a correction.",
           "link": "https://thedefiant.io/when-to-sell-crypto-don-t-get-rekt",
           "publishedOn": "2024-03-06T22:22:00.000Z",
-          "wordCount": 1768,
+          "wordCount": 1770,
           "title": "When To Sell Crypto (Don’t Get Rekt)",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/676ba070629cb5b53079230c125de14044188abc-640x360.jpg",
@@ -860,7 +875,7 @@
           "description": "If passed, the proposal would pave the way for SAFE to soon become transferable.",
           "link": "https://thedefiant.io/safedao-prepares-to-vote-on-new-token-utility-and-move-towards-safe-unlocks",
           "publishedOn": "2024-03-05T12:35:00.000Z",
-          "wordCount": 2419,
+          "wordCount": 2417,
           "title": "SafeDAO Prepares To Vote On New Token Utility and Move Towards SAFE Unlocks",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e9096bb0e7d2bd26f6ba4825081d7d40413b1328-1792x1024.webp",
@@ -905,7 +920,7 @@
           "description": "With BTC trading within 3% of its 2021 record, the network's market capitalization has surpassed the milestone due to the increase in circulating supply over the past two years.",
           "link": "https://thedefiant.io/bitcoin-s-market-cap-hits-all-time-high-of-usd1-3-trillion",
           "publishedOn": "2024-03-04T18:00:39.000Z",
-          "wordCount": 1698,
+          "wordCount": 1696,
           "title": "Bitcoin’s Market Cap Hits All-time High of $1.3 Trillion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/db421bd4348a78822f6cbf0e17329937d71e522e-1792x1024.webp",
@@ -1025,7 +1040,7 @@
           "description": "More than 112,000 Ordinals wallets are eligible for the airdrop.",
           "link": "https://thedefiant.io/airdrops-arrive-on-bitcoin-with-ordinals-project-runestones",
           "publishedOn": "2024-03-01T18:49:45.000Z",
-          "wordCount": 2514,
+          "wordCount": 2516,
           "title": "Airdrops Arrive On Bitcoin With Ordinals Project Runestones",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/92346251abadee0b90366e86ff204a0a280755d0-1792x1024.png",
@@ -1100,7 +1115,7 @@
           "description": "Memecoins dominate activity as degens flock to the much-hyped Ethereum Layer 2 network in pursuit of the next 100x trade.",
           "link": "https://thedefiant.io/blast-mainnet-goes-live-ahead-of-schedule",
           "publishedOn": "2024-02-29T17:22:57.000Z",
-          "wordCount": 1780,
+          "wordCount": 1782,
           "title": "Blast Mainnet Goes Live Ahead Of Schedule",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7a70a6c2a5b6a8b73e8772d678ecdec206cf394c-1792x1024.webp",
@@ -1115,7 +1130,7 @@
           "description": "Ondo Global Markets will access traditional stock exchanges under the hood.",
           "link": "https://thedefiant.io/ondo-to-use-blockchains-as-middleware-to-trade-traditional-securities",
           "publishedOn": "2024-02-29T17:05:00.000Z",
-          "wordCount": 2118,
+          "wordCount": 2120,
           "title": "Ondo To Use Blockchains as Middleware to Trade Traditional Securities",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4239ad6b3023aa95fe23650d72d3edd51865982e-1792x1024.webp",
@@ -1130,7 +1145,7 @@
           "description": "Spot Bitcoin ETFs drove $8B in trade volume and received $637M worth of inflows on Feb. 28.",
           "link": "https://thedefiant.io/markets-see-violent-volatility-amid-record-bitcoin-etf-activity",
           "publishedOn": "2024-02-29T07:24:20.000Z",
-          "wordCount": 2813,
+          "wordCount": 2815,
           "title": "Markets See Violent Volatility Amid Record Bitcoin ETF Activity",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dae3401aa2c8a274774b9abe60b27d78e6b50de3-1792x1024.webp",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/fidelity-canada-recommend-1-3-of-crypto-allocation-in-portfolios",
           "author": "Owen Fernau",
-          "description": "The financial firm' all-in-one ETF page now recommends 1-3% of crypto allocations.",
+          "description": "The Canadian subsidiary of the financial services company Fidelity’s new all-in-one ETF page now recommends 1-3% allocations for crypto in its four flagship products.",
           "link": "https://thedefiant.io/fidelity-canada-recommend-1-3-of-crypto-allocation-in-portfolios",
           "publishedOn": "2024-02-27T19:00:54.000Z",
           "wordCount": 1962,
@@ -1370,7 +1385,7 @@
           "description": "Blast appears poised to rank as the third-largest Ethereum Layer 2 by TVL at launch.",
           "link": "https://thedefiant.io/blast-schedules-mainnet-launch-as-tvl-pushed-above-usd2b",
           "publishedOn": "2024-02-27T13:49:38.000Z",
-          "wordCount": 2275,
+          "wordCount": 2273,
           "title": "Blast Schedules Mainnet Launch As TVL Pushed Above $2B",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1b41c77d22244ec6702b187cbff9e62204d40b4b-1792x1024.webp",
@@ -1528,21 +1543,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8c328bb78adc7d95bcd07b79edea9bf82a7bedba-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/starkware-revises-token-emission-schedule-after-community-backlash",
-          "author": "Owen Fernau",
-          "description": "Only 0.64% of STRK will unlock on April 14 as opposed to the previously planned 13.4%",
-          "link": "https://thedefiant.io/starkware-revises-token-emission-schedule-after-community-backlash",
-          "publishedOn": "2024-02-22T22:04:24.000Z",
-          "wordCount": 1795,
-          "title": "StarkWare Revises Token Emission Schedule After Community Backlash",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f6cdda19df19a5ad7b3180987fbf9576ca5c1096-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f6cdda19df19a5ad7b3180987fbf9576ca5c1096-1792x1024.webp"
         }
       ]
     },
