@@ -21,7 +21,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/chief-story-officer-3159e749a157?source=rss-2f6e06954878------2",
           "publishedOn": "2024-02-21T23:02:03.000Z",
-          "wordCount": 5359,
+          "wordCount": 5360,
           "title": "Chief Story Officer",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*AGGseZTDqOb1Klef"
         }
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/etherfi-airdrop-announced-for-march-18",
+          "author": "Samuel Haig",
+          "description": "EtherFi also revealed its tokenomics for the first time.",
+          "link": "https://thedefiant.io/etherfi-airdrop-announced-for-march-18",
+          "publishedOn": "2024-03-18T11:54:00.000Z",
+          "wordCount": 2117,
+          "title": "EtherFi Airdrop Announced For March 18",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dd90edda089f6d6376f3cb27f241e61261a5a9ad-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dd90edda089f6d6376f3cb27f241e61261a5a9ad-1792x1024.webp"
+        },
         {
           "id": "https://thedefiant.io/our-most-read-stories-this-week-dogwifhat-goes-to-vegas-retail-investors-ai-tokens-propkeys",
           "author": "The Defiant Team",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/arkis-raises-usd2-2-million-to-accelerate-institutional-adoption-of-defi",
           "author": "Pedro Solimano",
-          "description": "The pre-seed round led by gumi Cryptos Capital included G1 Ventures, Psalion VC, and Roosh Ventures.",
+          "description": "The pre-seed round included gumi Cryptos Capital, G1 Ventures, and Psalion VC.",
           "link": "https://thedefiant.io/arkis-raises-usd2-2-million-to-accelerate-institutional-adoption-of-defi",
           "publishedOn": "2024-02-27T15:00:00.000Z",
           "wordCount": 2330,
@@ -1528,21 +1543,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/60488e437f6d2ba5b83a6a947e26ba77be0f9424-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/ondo-brings-treasury-backed-stablecoin-to-aptos",
-          "author": "Owen Fernau",
-          "description": "Lending protocol Thala will integrate USDY as a collateral asset.",
-          "link": "https://thedefiant.io/ondo-brings-treasury-backed-stablecoin-to-aptos",
-          "publishedOn": "2024-02-22T15:01:01.000Z",
-          "wordCount": 1916,
-          "title": "Ondo Brings Treasury-backed Stablecoin to Aptos",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/df76ef3cf2051f841f6dabc0588b65e6a3dbfee1-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/df76ef3cf2051f841f6dabc0588b65e6a3dbfee1-1792x1024.webp"
         }
       ]
     },
