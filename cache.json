@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/renowned-crypto-trader-gcr-acquires-dogwifhat-nft-for-usd4-million",
+          "author": "yyctrader",
+          "description": "The NFT was initially listed for 0.15 ETH ($500).",
+          "link": "https://thedefiant.io/renowned-crypto-trader-gcr-acquires-dogwifhat-nft-for-usd4-million",
+          "publishedOn": "2024-03-19T15:54:02.000Z",
+          "wordCount": 1765,
+          "title": "Renowned Crypto Trader GCR Acquires DogWifHat NFT for $4 Million",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6a46fe8cbf5fc9f2f526f17c30fdf4c2cae3239e-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6a46fe8cbf5fc9f2f526f17c30fdf4c2cae3239e-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/nomura-subsidiary-laser-digital-tests-usdc-transfer-with-keyring-network",
           "author": "Pedro Solimano",
           "description": "The proof of concept points to major financial institutions continuing to experiment with compliant crypto tools.",
@@ -335,7 +350,7 @@
           "description": "Layer 2 teams predict transaction fee reductions of up to 90% post-Dencun.",
           "link": "https://thedefiant.io/ethereum-activates-dencun-upgrade-ushering-new-era-for-layer-2-scalability",
           "publishedOn": "2024-03-13T13:14:16.000Z",
-          "wordCount": 3346,
+          "wordCount": 3348,
           "title": "Ethereum Activates Dencun Upgrade, Ushering New Era For Layer 2 Scalability",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b9a92a77f07aef3fc6bcf705c1d5e6aa9a6694b2-1792x1024.webp",
@@ -785,7 +800,7 @@
           "description": "At the beginning of February, it had over 40,000 daily active users. Now it only has 16,000.",
           "link": "https://thedefiant.io/farcaster-loses-60-of-users-in-one-month-as-interest-in-socialfi-wanes",
           "publishedOn": "2024-03-06T21:31:15.000Z",
-          "wordCount": 2797,
+          "wordCount": 2799,
           "title": "Farcaster Loses 60% of Users In One Month As Interest In SocialFi Wanes",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9a93a5f71d734bf8c087b4a5d9ae8655555e8891-1792x1024.png",
@@ -1085,7 +1100,7 @@
           "description": "The controversial blockchain has carved out a niche as the go-to network for USDT transfers.",
           "link": "https://thedefiant.io/tron-hits-all-time-high-of-usd2m-in-daily-fees",
           "publishedOn": "2024-03-01T18:33:09.000Z",
-          "wordCount": 1748,
+          "wordCount": 1750,
           "title": "Tron Hits All-time High of $2M In Daily Fees",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5a10162628cdf92f15eddf2a6a01612bde3cec71-1792x1024.webp",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/merlin-chain-s-surging-growth-pushes-bitcoin-s-defi-tvl-past-usd2b",
           "author": "Samuel Haig",
-          "description": "Users have piled nearly $1.6B into the launch campaign for the Merlin Chain Layer 2 and its MERL token.",
+          "description": "Merlin's Seal, the fair launch campaign for the Merlin Chain Bitcoin Layer 2 and its MERL token, has propelled Bitcoin's DeFi TVL past $2B.",
           "link": "https://thedefiant.io/merlin-chain-s-surging-growth-pushes-bitcoin-s-defi-tvl-past-usd2b",
           "publishedOn": "2024-02-28T11:50:00.000Z",
           "wordCount": 2512,
@@ -1445,7 +1460,7 @@
           "description": "ETH is trading above $3,150 as crypto markets continue to cheer positive ETF flows.",
           "link": "https://thedefiant.io/bitcoin-surges-above-usd53-000",
           "publishedOn": "2024-02-26T19:08:30.000Z",
-          "wordCount": 1626,
+          "wordCount": 1628,
           "title": "Bitcoin Surges Above $54,000",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f91984f7c32353b27e2ef35960d4dc88e09b30e-1792x1024.webp",
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8750e34f54082dd91681f17eca5c6b107d41452f-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/uni-soars-60-on-fee-switch-proposal",
-          "author": "Pedro Solimano",
-          "description": "If passed, the proposed upgrade to Ethereum’s leading DEX will enable UNI stakers to collect a portion of protocol fees.",
-          "link": "https://thedefiant.io/uni-soars-60-on-fee-switch-proposal",
-          "publishedOn": "2024-02-23T17:37:54.000Z",
-          "wordCount": 2089,
-          "title": "UNI Soars 60% On Fee Switch Proposal",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d683b787bff309a921d2e06b7805552d624e037d-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d683b787bff309a921d2e06b7805552d624e037d-1792x1024.webp"
         }
       ]
     },
