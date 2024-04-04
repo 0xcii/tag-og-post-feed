@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-04T17:11:00.204Z</id>
+    <id>urn:2024-04-04T18:17:09.040Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-04T17:11:00.204Z</updated>
+    <updated>2024-04-04T18:17:09.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Bounce As Hedge Funds Pile On Bitcoin Shorts]]></title>
+        <id>https://thedefiant.io/crypto-markets-bounce-as-hedge-funds-pile-on-bitcoin-shorts</id>
+        <link href="https://thedefiant.io/crypto-markets-bounce-as-hedge-funds-pile-on-bitcoin-shorts"/>
+        <updated>2024-04-04T17:53:13.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin rallied 4%, with global crypto market capitalization up 3% to $2.7 trillion.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Stablecoin Wars” Heat Up As PayPal Enables PYUSD For Cross-Border Transfers]]></title>
         <id>https://thedefiant.io/stablecoin-wars-heat-up-as-paypal-enables-pyusd-for-cross-border-transfers</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/grayscale-files-application-for-mini-bitcoin-etf"/>
         <updated>2024-03-12T19:58:20.000Z</updated>
         <summary type="html"><![CDATA[If approved, the Bitcoin Mini Trust will use the $BTC ticker and be seeded with GBTC shares.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thorchain Thunders Back As Trading Volumes Hit All-time Highs]]></title>
-        <id>https://thedefiant.io/thorchain-thunders-back-as-trading-volumes-hit-all-time-highs</id>
-        <link href="https://thedefiant.io/thorchain-thunders-back-as-trading-volumes-hit-all-time-highs"/>
-        <updated>2024-03-12T16:19:53.000Z</updated>
-        <summary type="html"><![CDATA[RUNE is up 70% in the past week, with the cross-chain liquidity protocol’s TVL crossing $500 million.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
