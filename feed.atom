@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-08T22:13:59.965Z</id>
+    <id>urn:2024-04-08T23:13:16.975Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-08T22:13:59.965Z</updated>
+    <updated>2024-04-08T23:13:16.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Heatwave]]></title>
+        <id>https://medium.com/p/68dc6ccb3d21</id>
+        <link href="https://cryptohayes.medium.com/heatwave-68dc6ccb3d21?source=rss-2f6e06954878------2"/>
+        <updated>2024-04-08T23:02:05.000Z</updated>
+        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Airdrop April Continues as Solana NFT Platform Tensor Launches Token]]></title>
         <id>https://thedefiant.io/airdrop-april-continues-as-solana-nft-platform-tensor-launches-token</id>
