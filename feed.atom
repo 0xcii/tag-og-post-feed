@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-01T18:17:11.063Z</id>
+    <id>urn:2024-05-01T19:12:25.695Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-01T18:17:11.063Z</updated>
+    <updated>2024-05-01T19:12:25.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave Proposes V4 Iteration and Aave Network Validium]]></title>
+        <id>https://thedefiant.io/news/defi/aave-proposes-v4-iteration-and-aave-network-validium</id>
+        <link href="https://thedefiant.io/news/defi/aave-proposes-v4-iteration-and-aave-network-validium"/>
+        <updated>2024-05-01T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aave v4 will aggregate liquidity from multiple networks via a cross-chain liquidity layer.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Dive Ahead of Fed Meeting]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-dive-ahead-of-fed-meeting</id>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Layer N said it hosted sustained throughput of 20,000 TPS during closed testnet trials.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid Staking Lands On Bitcoin As Layer 2 Race Heats Up]]></title>
-        <id>https://thedefiant.io/news/defi/liquid-staking-lands-on-bitcoin-as-layer-2-race-heats-up</id>
-        <link href="https://thedefiant.io/news/defi/liquid-staking-lands-on-bitcoin-as-layer-2-race-heats-up"/>
-        <updated>2024-04-10T18:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Nomic DAO unveils liquid staking for BTC while Thesis announces the Bitcoin “Economic Layer.”]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
     <entry>
