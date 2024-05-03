@@ -11,7 +11,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/mayday-dca30bab9de0?source=rss-2f6e06954878------2",
           "publishedOn": "2024-05-02T23:02:37.000Z",
-          "wordCount": 4224,
+          "wordCount": 4225,
           "title": "Mayday",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*pEyX-8KypYmz0rsG"
         },
@@ -54,6 +54,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/hacks/poisoned-wallet-address-loses-usd70-million-in-very-suspicious-wbtc-transaction",
+          "author": "Pedro Solimano",
+          "description": "A fake transaction led a user to send 1,155 WBTC to the wrong address.",
+          "link": "https://thedefiant.io/news/hacks/poisoned-wallet-address-loses-usd70-million-in-very-suspicious-wbtc-transaction",
+          "publishedOn": "2024-05-03T20:09:23.000Z",
+          "wordCount": 1682,
+          "title": "Poisoned Wallet Address Loses $70 Million in ‘Very Suspicious’ WBTC Transaction",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b3be9c83958bd09b115fd61f3d0b504267e77cd4-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b3be9c83958bd09b115fd61f3d0b504267e77cd4-1792x1024.png"
+        },
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-reveals-pension-funds-are-exploring-crypto",
           "author": "Pedro Solimano",
@@ -1538,21 +1553,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6e0fe5bd70974cc5cda668b78fecc22fce4f4e83-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/the-sec-must-lose-vs-uniswap-eigenlayer-launch-defiant",
-          "author": "Camila Russo",
-          "description": "Welcome to Crypto With Cami, your concise guide to the week's most significant developments in DeFi and Web3, all in 30 minutes or less.",
-          "link": "https://thedefiant.io/news/defi/the-sec-must-lose-vs-uniswap-eigenlayer-launch-defiant",
-          "publishedOn": "2024-04-12T14:00:00.000Z",
-          "wordCount": 1208,
-          "title": "The SEC Must Lose vs Uniswap; EigenLayer Launch; The Defiant's Memecoin Experiment",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/38777d676928af640c449b02a470553d2f4cf99e-640x359.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/38777d676928af640c449b02a470553d2f4cf99e-640x359.jpg"
         }
       ]
     },
