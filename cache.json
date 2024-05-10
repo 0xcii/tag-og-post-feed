@@ -21,7 +21,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/left-curve-ef2e1e187027?source=rss-2f6e06954878------2",
           "publishedOn": "2024-04-23T23:02:11.000Z",
-          "wordCount": 5900,
+          "wordCount": 5901,
           "title": "Left Curve",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:975/1*I6FiAb9ZPs5OaNTueJeUDA.png"
         }
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/defi/the-most-bizarre-moments-in-crypto",
+          "author": "Pedro Solimano",
+          "description": "There have been some oddball moments in our industry.",
+          "link": "https://thedefiant.io/news/defi/the-most-bizarre-moments-in-crypto",
+          "publishedOn": "2024-05-10T17:05:41.000Z",
+          "wordCount": 4417,
+          "title": "The Most Bizarre Moments In Crypto",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f3b042ad1fe307dac7a4e85ea2eff89e17561ae3-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f3b042ad1fe307dac7a4e85ea2eff89e17561ae3-1792x1024.webp"
+        },
         {
           "id": "https://thedefiant.io/news/blockchains/anatoly-yakovenko-previews-solana-post-firedancer",
           "author": "Samuel Haig",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/defi/reya-s-liquidity-generation-event-attracts-usd100-million-in-less-than-24-hours",
           "author": "Samuel Haig",
-          "description": "Reya facilitates shared liquidity among native decentralized exchanges.",
+          "description": "Reya's \"liquidity generation event\" has attracted more than $167 million in TVL over just day few days.",
           "link": "https://thedefiant.io/news/defi/reya-s-liquidity-generation-event-attracts-usd100-million-in-less-than-24-hours",
           "publishedOn": "2024-04-24T17:54:00.000Z",
           "wordCount": 1912,
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/podcasts-and-videos/defi/a-new-era-in-bitcoin-or-runes-protocol",
           "author": "Jack Dunham",
-          "description": "Today we’re talking about the exciting new Bitcoin Runes Protocol which launched with Bitcoin’s fourth halving and made quite the crash landing! This new Ordinals-based protocol is taking the collectibles world by storm. And for good reason too. Because this latest innovation builds on the growing trend of digital collectibles meeting meme culture on the Bitcoin blockchain. \n\nToday’s video is going to cover the ins and outs of what the Runes protocol is, how to get your hands on Rune Tokens, and why some think this trend should NOT be faded.",
+          "description": "Today’s video is going to cover the ins and outs of what the Runes protocol is, how to get your hands on Rune Tokens, and why some think this trend should NOT be faded.",
           "link": "https://thedefiant.io/podcasts-and-videos/defi/a-new-era-in-bitcoin-or-runes-protocol",
           "publishedOn": "2024-04-24T16:22:00.000Z",
           "wordCount": 1531,
@@ -1528,21 +1543,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5cbc0257c53e83e06f04ab0ec2fb2159354ef4b0-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/gambling-platform-zkasino-sends-usd33m-to-lido-instead-of-returning-assets-to-investors",
-          "author": "Pedro Solimano",
-          "description": "Controversy swirls as the project claims hitmen were hired to target the team, which has a dubious past.",
-          "link": "https://thedefiant.io/news/defi/gambling-platform-zkasino-sends-usd33m-to-lido-instead-of-returning-assets-to-investors",
-          "publishedOn": "2024-04-22T19:22:47.000Z",
-          "wordCount": 2177,
-          "title": "Gambling Platform ZKasino Sends $33M To Lido Instead Of Returning Assets To Investors",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/57e47c6ad4601db20191ae0a50bdd964012b42ca-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/57e47c6ad4601db20191ae0a50bdd964012b42ca-1792x1024.webp"
         }
       ]
     },
