@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/eigenlayer-airdrop-claims-go-live",
+          "author": "yyctrader",
+          "description": "The EIGEN token is not yet transferable but can be staked and delegated to EigenDA node operators.",
+          "link": "https://thedefiant.io/news/defi/eigenlayer-airdrop-claims-go-live",
+          "publishedOn": "2024-05-10T18:06:32.000Z",
+          "wordCount": 1158,
+          "title": "EigenLayer Airdrop Claims Go Live",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/85dfe4f77e453f15b2e17be997dfa2bd365abbe0-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/85dfe4f77e453f15b2e17be997dfa2bd365abbe0-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/the-most-bizarre-moments-in-crypto",
           "author": "Pedro Solimano",
           "description": "There have been some oddball moments in our industry.",
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/defi/reya-s-liquidity-generation-event-attracts-usd100-million-in-less-than-24-hours",
           "author": "Samuel Haig",
-          "description": "Reya's \"liquidity generation event\" has attracted more than $167 million in TVL over just day few days.",
+          "description": "Reya facilitates shared liquidity among native decentralized exchanges.",
           "link": "https://thedefiant.io/news/defi/reya-s-liquidity-generation-event-attracts-usd100-million-in-less-than-24-hours",
           "publishedOn": "2024-04-24T17:54:00.000Z",
           "wordCount": 1912,
@@ -1528,21 +1543,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5fcbdf43ad0e6f65e12769b0c17a1ee83c13aec8-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/tether-partners-with-telegram-to-bring-crypto-payments-to-900-million-users",
-          "author": "Pedro Solimano",
-          "description": "Telegram users can now send and withdraw USDT for free.",
-          "link": "https://thedefiant.io/news/defi/tether-partners-with-telegram-to-bring-crypto-payments-to-900-million-users",
-          "publishedOn": "2024-04-22T19:56:29.000Z",
-          "wordCount": 1879,
-          "title": "Tether Partners With Telegram To Bring Crypto Payments To 900 Million Users",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5cbc0257c53e83e06f04ab0ec2fb2159354ef4b0-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5cbc0257c53e83e06f04ab0ec2fb2159354ef4b0-1792x1024.webp"
         }
       ]
     },
