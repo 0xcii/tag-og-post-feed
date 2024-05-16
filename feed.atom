@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-16T19:10:44.547Z</id>
+    <id>urn:2024-05-16T20:14:35.158Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-16T19:10:44.547Z</updated>
+    <updated>2024-05-16T20:14:35.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sei Token Pops on V2 Roadmap]]></title>
+        <id>https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap</id>
+        <link href="https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap"/>
+        <updated>2024-05-16T20:09:11.000Z</updated>
+        <summary type="html"><![CDATA[The Layer 1 blockchain’s token spiked 30% after the team revealed deployment plans for its Ethereum-compatible V2 upgrade.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Attacker Abuses Flashloans to Exploit Pump.Fun]]></title>
         <id>https://thedefiant.io/news/defi/attacker-abuses-flashloans-to-exploit-pump-fun</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/podcast/aave-lens-and-avara-stani-kulechov-s-journey-through-defi-and-web3-social</id>
         <link href="https://thedefiant.io/podcasts-and-videos/podcast/aave-lens-and-avara-stani-kulechov-s-journey-through-defi-and-web3-social"/>
         <updated>2024-04-29T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Stani Kulechov is the founder of Aave, which has become the largest lending protocol in DeFi. In this podcast, we start with a refreshener on Stani and his journey, then dive into the specifics of the protocols he has developed.]]></summary>
+        <summary type="html"><![CDATA[Stani Kulechov is the founder of Aave, which has become the largest lending protocol in DeFi. Aave has evolved under a new umbrella called Avara, incorporating additional projects like Lens, a Web3 social media protocol, and a family and Web3 wallet. Stani has previously discussed these developments on our show in 2020 and 2022, and with each appearance, the Avara family has expanded significantly. As a prominent leader in the DeFi and Web3 space, Stani's insights are always highly anticipated. In this podcast, we start with a refreshener on Stani and his journey, then dive into the specifics of the protocols he has developed.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -1001,16 +1011,6 @@
         <link href="https://thedefiant.io/news/defi/avail-announces-data-availability-integrations-with-five-leading-l2-teams"/>
         <updated>2024-04-25T13:00:00.000Z</updated>
         <summary type="html"><![CDATA[Developers leveraging tech stacks from Arbitrum, Optimism, ZkSync, Polygon, and StarkWare will have access to AvailDA.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink Completes Permissionless Rollout For Cross-Chain Interoperability Protocol]]></title>
-        <id>https://thedefiant.io/news/defi/chainlink-completes-permissionless-rollout-for-cross-chain-interoperability-protocol</id>
-        <link href="https://thedefiant.io/news/defi/chainlink-completes-permissionless-rollout-for-cross-chain-interoperability-protocol"/>
-        <updated>2024-04-25T12:40:00.000Z</updated>
-        <summary type="html"><![CDATA[CCIP is already generating $6,669 in daily revenue for Chainlink.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
