@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-16T20:14:35.158Z</id>
+    <id>urn:2024-05-16T21:13:21.781Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-16T20:14:35.158Z</updated>
+    <updated>2024-05-16T21:13:21.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Memecoins, Despite Being Unserious By Nature, Seriously Exemplify Web3’s Core Value Proposition]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/why-memecoins-exemplify-web3-s-core-value</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/why-memecoins-exemplify-web3-s-core-value"/>
+        <updated>2024-05-16T20:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Memecoins are a prime example of how any collective group of individuals can create the economic infrastructure to facilitate commerce, trade, and collaboration without the need for an intermediary.]]></summary>
+        <author>
+            <name>Solo Ceesay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sei Token Pops on V2 Roadmap]]></title>
         <id>https://thedefiant.io/news/blockchains/sei-token-pops-on-v2-roadmap</id>
@@ -16,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Attacker Abuses Flashloans to Exploit Pump.Fun]]></title>
+        <title type="html"><![CDATA[Memecoin Launchpad Pump.Fun Loses Nearly $2M In Exploit]]></title>
         <id>https://thedefiant.io/news/defi/attacker-abuses-flashloans-to-exploit-pump-fun</id>
         <link href="https://thedefiant.io/news/defi/attacker-abuses-flashloans-to-exploit-pump-fun"/>
         <updated>2024-05-16T18:07:23.000Z</updated>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/people/bitcoin-jesus-is-back-roger-ver-wants-to-clear-his-name</id>
         <link href="https://thedefiant.io/news/people/bitcoin-jesus-is-back-roger-ver-wants-to-clear-his-name"/>
         <updated>2024-04-29T17:31:13.000Z</updated>
-        <summary type="html"><![CDATA[One of the earliest Bitcoin advocates is staging a comeback.]]></summary>
+        <summary type="html"><![CDATA[Was Bitcoin hijacked? According to one of the earliest and most controversial Bitcoiners, the network is no longer what Satoshi Nakamoto wanted it to be back in 2008.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/podcast/aave-lens-and-avara-stani-kulechov-s-journey-through-defi-and-web3-social</id>
         <link href="https://thedefiant.io/podcasts-and-videos/podcast/aave-lens-and-avara-stani-kulechov-s-journey-through-defi-and-web3-social"/>
         <updated>2024-04-29T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Stani Kulechov is the founder of Aave, which has become the largest lending protocol in DeFi. Aave has evolved under a new umbrella called Avara, incorporating additional projects like Lens, a Web3 social media protocol, and a family and Web3 wallet. Stani has previously discussed these developments on our show in 2020 and 2022, and with each appearance, the Avara family has expanded significantly. As a prominent leader in the DeFi and Web3 space, Stani's insights are always highly anticipated. In this podcast, we start with a refreshener on Stani and his journey, then dive into the specifics of the protocols he has developed.]]></summary>
+        <summary type="html"><![CDATA[Stani Kulechov is the founder of Aave, which has become the largest lending protocol in DeFi. In this podcast, we start with a refreshener on Stani and his journey, then dive into the specifics of the protocols he has developed.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Punk 635 was bought for 4,000 ETH.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avail Announces Data Availability Integrations With Five Leading L2 Teams]]></title>
-        <id>https://thedefiant.io/news/defi/avail-announces-data-availability-integrations-with-five-leading-l2-teams</id>
-        <link href="https://thedefiant.io/news/defi/avail-announces-data-availability-integrations-with-five-leading-l2-teams"/>
-        <updated>2024-04-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers leveraging tech stacks from Arbitrum, Optimism, ZkSync, Polygon, and StarkWare will have access to AvailDA.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
