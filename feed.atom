@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-30T18:19:25.679Z</id>
+    <id>urn:2024-05-30T19:12:23.892Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-30T18:19:25.679Z</updated>
+    <updated>2024-05-30T19:12:23.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Trade Sideways Ahead of U.S. Inflation Report]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-trade-sideways-ahead-of-u-s-inflation-report</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-trade-sideways-ahead-of-u-s-inflation-report"/>
+        <updated>2024-05-30T19:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin is up 2.5% in the past 24 hours, while Ether and Solana gained 1%.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethena Brings Synthetic Dollar to Blast Layer 2]]></title>
+        <id>https://thedefiant.io/news/defi/ethena-brings-synthetic-dollar-to-blast-layer-2</id>
+        <link href="https://thedefiant.io/news/defi/ethena-brings-synthetic-dollar-to-blast-layer-2"/>
+        <updated>2024-05-30T18:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Various DeFi protocols in the Blast ecosystem now enjoy native yield, lending, and trading with USDe and sUSDe.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Commissioner Proposes Cross-border Sandbox for U.S. and U.K. Crypto Industries]]></title>
         <id>https://thedefiant.io/news/regulation/sec-commissioner-proposes-cross-border-sandbox-for-u-s-and-u-k-crypto-industries</id>
@@ -830,7 +850,9 @@
         <id>https://thedefiant.io/education/what-are-defi-derivatives-or-crypto101</id>
         <link href="https://thedefiant.io/education/what-are-defi-derivatives-or-crypto101"/>
         <updated>2024-05-16T15:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome back to Crypto 101, your comprehensive guide to learning everything about crypto from start to finish! Today, we're diving into the world of DeFi derivatives, where the financial future is being reshaped faster than ever before.]]></summary>
+        <summary type="html"><![CDATA[Welcome back to Crypto 101, your comprehensive guide to learning everything about crypto from start to finish! Today, we're diving into the world of DeFi derivatives, where the financial future is being reshaped faster than ever before.
+
+Ever wonder how a market valued at over $1 quadrillion functions? It's all thanks to derivatives, financial instruments that let you bet on the future of assets without actually owning them.]]></summary>
         <author>
             <name>Jack Dunham</name>
         </author>
@@ -993,26 +1015,6 @@
         <summary type="html"><![CDATA[MarginFi said XBY will be the first major decentralized stablecoin on Solana.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Drop on Disappointing U.S. Economic Data]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-drop-on-disappointing-u-s-economic-data</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-drop-on-disappointing-u-s-economic-data"/>
-        <updated>2024-05-10T19:41:18.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin plunged after lacklustre U.S. economic data and hawkish comments from Dallas Fed President Lori Logan.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardano to Incorporate CIP-69 in Next Upgrade to Streamline dApp Development]]></title>
-        <id>https://thedefiant.io/news/blockchains/cardano-to-incorporate-cip-69-in-next-upgrade-to-streamline-dapp-development</id>
-        <link href="https://thedefiant.io/news/blockchains/cardano-to-incorporate-cip-69-in-next-upgrade-to-streamline-dapp-development"/>
-        <updated>2024-05-10T19:15:10.000Z</updated>
-        <summary type="html"><![CDATA[Founder Charles Hoskinson said that community feedback factored into the decision.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>
