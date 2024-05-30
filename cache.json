@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/telegram-wallet-introduces-stricter-kyc-rules",
+          "author": "Mehab Qureshi",
+          "description": "From June 3, users will have to provide their name, phone number, and date of birth to access most features.",
+          "link": "https://thedefiant.io/news/defi/telegram-wallet-introduces-stricter-kyc-rules",
+          "publishedOn": "2024-05-30T19:17:33.000Z",
+          "wordCount": 1441,
+          "title": "Telegram Wallet Introduces Stricter KYC Rules",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/797aca5dc9eda113d01142a08ac556cb4c45115e-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/797aca5dc9eda113d01142a08ac556cb4c45115e-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-trade-sideways-ahead-of-u-s-inflation-report",
           "author": "Mehab Qureshi",
           "description": "Bitcoin is up 2.5% in the past 24 hours, while Ether and Solana gained 1%.",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/solana-surpasses-ethereum-by-revenue-after-parabolic-fee-spike",
           "author": "Mehab Qureshi",
-          "description": "The Solana community is celebrating record-high revenue, but the milestone is a sign users are paying high transaction fees.",
+          "description": "Solana has overtaken Ethereum by daily fee revenue, but the milestone shows Solana users are paying high transaction fees.",
           "link": "https://thedefiant.io/news/blockchains/solana-surpasses-ethereum-by-revenue-after-parabolic-fee-spike",
           "publishedOn": "2024-05-16T15:44:00.000Z",
           "wordCount": 2132,
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/education/what-are-defi-derivatives-or-crypto101",
           "author": "Jack Dunham",
-          "description": "Welcome back to Crypto 101, your comprehensive guide to learning everything about crypto from start to finish! Today, we're diving into the world of DeFi derivatives, where the financial future is being reshaped faster than ever before.\n\nEver wonder how a market valued at over $1 quadrillion functions? It's all thanks to derivatives, financial instruments that let you bet on the future of assets without actually owning them.",
+          "description": "Welcome back to Crypto 101, your comprehensive guide to learning everything about crypto from start to finish! Today, we're diving into the world of DeFi derivatives, where the financial future is being reshaped faster than ever before.",
           "link": "https://thedefiant.io/education/what-are-defi-derivatives-or-crypto101",
           "publishedOn": "2024-05-16T15:43:00.000Z",
           "wordCount": 1373,
@@ -1528,21 +1543,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7e91dfeb8adf14b430f35af74ccc661b0f2a4359-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/marginfi-to-launch-solana-lst-backed-decentralized-stablecoin-this-month",
-          "author": "Samuel Haig",
-          "description": "MarginFi said XBY will be the first major decentralized stablecoin on Solana.",
-          "link": "https://thedefiant.io/news/defi/marginfi-to-launch-solana-lst-backed-decentralized-stablecoin-this-month",
-          "publishedOn": "2024-05-11T12:05:00.000Z",
-          "wordCount": 2141,
-          "title": "MarginFi To Launch Solana LST-Backed Decentralized Stablecoin This Month",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/19257cccf320902cd29580933b7344361a3930fe-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/19257cccf320902cd29580933b7344361a3930fe-1792x1024.webp"
         }
       ]
     },

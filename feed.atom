@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-30T19:12:23.892Z</id>
+    <id>urn:2024-05-30T20:15:46.097Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-30T19:12:23.892Z</updated>
+    <updated>2024-05-30T20:15:46.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Telegram Wallet Introduces Stricter KYC Rules]]></title>
+        <id>https://thedefiant.io/news/defi/telegram-wallet-introduces-stricter-kyc-rules</id>
+        <link href="https://thedefiant.io/news/defi/telegram-wallet-introduces-stricter-kyc-rules"/>
+        <updated>2024-05-30T19:17:33.000Z</updated>
+        <summary type="html"><![CDATA[From June 3, users will have to provide their name, phone number, and date of birth to access most features.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Trade Sideways Ahead of U.S. Inflation Report]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-trade-sideways-ahead-of-u-s-inflation-report</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/solana-surpasses-ethereum-by-revenue-after-parabolic-fee-spike</id>
         <link href="https://thedefiant.io/news/blockchains/solana-surpasses-ethereum-by-revenue-after-parabolic-fee-spike"/>
         <updated>2024-05-16T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[The Solana community is celebrating record-high revenue, but the milestone is a sign users are paying high transaction fees.]]></summary>
+        <summary type="html"><![CDATA[Solana has overtaken Ethereum by daily fee revenue, but the milestone shows Solana users are paying high transaction fees.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -850,9 +860,7 @@
         <id>https://thedefiant.io/education/what-are-defi-derivatives-or-crypto101</id>
         <link href="https://thedefiant.io/education/what-are-defi-derivatives-or-crypto101"/>
         <updated>2024-05-16T15:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome back to Crypto 101, your comprehensive guide to learning everything about crypto from start to finish! Today, we're diving into the world of DeFi derivatives, where the financial future is being reshaped faster than ever before.
-
-Ever wonder how a market valued at over $1 quadrillion functions? It's all thanks to derivatives, financial instruments that let you bet on the future of assets without actually owning them.]]></summary>
+        <summary type="html"><![CDATA[Welcome back to Crypto 101, your comprehensive guide to learning everything about crypto from start to finish! Today, we're diving into the world of DeFi derivatives, where the financial future is being reshaped faster than ever before.]]></summary>
         <author>
             <name>Jack Dunham</name>
         </author>
@@ -1005,16 +1013,6 @@ Ever wonder how a market valued at over $1 quadrillion functions? It's all thank
         <summary type="html"><![CDATA[The NFT company has sold over one million Pudgy Toys since launching last year.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MarginFi To Launch Solana LST-Backed Decentralized Stablecoin This Month]]></title>
-        <id>https://thedefiant.io/news/defi/marginfi-to-launch-solana-lst-backed-decentralized-stablecoin-this-month</id>
-        <link href="https://thedefiant.io/news/defi/marginfi-to-launch-solana-lst-backed-decentralized-stablecoin-this-month"/>
-        <updated>2024-05-11T12:05:00.000Z</updated>
-        <summary type="html"><![CDATA[MarginFi said XBY will be the first major decentralized stablecoin on Solana.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
