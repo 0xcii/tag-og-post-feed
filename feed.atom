@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-31T16:16:56.225Z</id>
+    <id>urn:2024-05-31T17:12:52.570Z</id>
     <title>web3::cave</title>
-    <updated>2024-05-31T16:16:56.225Z</updated>
+    <updated>2024-05-31T17:12:52.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Drop After Inflation Data Meets Expectations]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-drop-after-inflation-data-meets-expectations</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-drop-after-inflation-data-meets-expectations"/>
+        <updated>2024-05-31T16:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Analysts are optimistic that Ethereum ETFs could launch in June.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hacker Ransacks Japanese Exchange DMM For $305 Million]]></title>
         <id>https://thedefiant.io/news/hacks/hacker-ransacks-japanese-exchange-dmm-for-usd305-million</id>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Lens Network will host a new deployment of Lens Protocol.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Drop Ahead of U.S. Inflation Data]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-drop-ahead-of-u-s-inflation-data</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-drop-ahead-of-u-s-inflation-data"/>
-        <updated>2024-05-14T17:31:24.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency stocks reversed premarket losses.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>
