@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-01T10:15:07.648Z</id>
+    <id>urn:2024-06-01T11:13:53.902Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-01T10:15:07.648Z</updated>
+    <updated>2024-06-01T11:13:53.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1013,16 +1013,6 @@
         <summary type="html"><![CDATA[The price of DEGEN has crashed 22% since May 12 amid the downtime.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayday]]></title>
-        <id>https://medium.com/p/dca30bab9de0</id>
-        <link href="https://cryptohayes.medium.com/mayday-dca30bab9de0?source=rss-2f6e06954878------2"/>
-        <updated>2024-05-02T23:02:37.000Z</updated>
-        <summary type="html"><![CDATA[(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…]]></summary>
-        <author>
-            <name>Arthur Hayes</name>
         </author>
     </entry>
 </feed>
