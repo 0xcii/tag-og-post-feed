@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-05T18:18:08.120Z</id>
+    <id>urn:2024-06-05T19:11:17.786Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-05T18:18:08.120Z</updated>
+    <updated>2024-06-05T19:11:17.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Biden’s Surprise Veto Signals Democrats’ Crypto-Friendly Era May Have Been Wishful Thinking]]></title>
+        <id>https://thedefiant.io/news/regulation/biden-s-surprise-veto-signals-democrats-crypto-friendly-era-may-have-been-wishful-thinking</id>
+        <link href="https://thedefiant.io/news/regulation/biden-s-surprise-veto-signals-democrats-crypto-friendly-era-may-have-been-wishful-thinking"/>
+        <updated>2024-06-05T18:23:42.000Z</updated>
+        <summary type="html"><![CDATA[Experts say Biden’s latest move against crypto could cost him the 2024 election.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Miners Struggle Post-Halving as Reserves Plunge]]></title>
         <id>https://thedefiant.io/news/blockchains/bitcoin-miners-struggle-post-halving-as-reserves-plunge</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/regulation/ethereum-etf-approval-imminent-heres-what-it-means-for-eth-prices-in-2024</id>
         <link href="https://thedefiant.io/podcasts-and-videos/regulation/ethereum-etf-approval-imminent-heres-what-it-means-for-eth-prices-in-2024"/>
         <updated>2024-05-22T15:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Rumors about the Ethereum ETF approval have sent the price of ETH up by almost 20% in just 24 hours. The odds of approval have tripled according to top ETF analysts. But what do the rumors really mean?]]></summary>
+        <summary type="html"><![CDATA[Rumors about the Ethereum ETF approval have sent the price of ETH up by almost 20% in just 24 hours. With only a day left until the SEC's May 23 deadline, the odds of approval have tripled according to top ETF analysts. The news naturally sent shockwaves through the market. ETH is now up 29% on the week and just over 100% up in the past year. But what do the rumors really mean?]]></summary>
         <author>
             <name>Jack Dunham</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/spot-ether-etf-hopefuls-update-filings-extending-timeline-for-sec-approval</id>
         <link href="https://thedefiant.io/news/regulation/spot-ether-etf-hopefuls-update-filings-extending-timeline-for-sec-approval"/>
         <updated>2024-05-22T14:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Analysts say the SEC's verdict on spot Ether ETFs could be at least several weeks away after prospective issuers updated their applications.]]></summary>
+        <summary type="html"><![CDATA[Five prospective spot Ether ETF issuers have amended their 19b-4 filings with the SEC.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[A Twitter user claiming to be the former Pump.fun employee who stole $1.9M from the platform says the project is planning an airdrop.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Teams Compete To Bring Restaking To $1.2T Bitcoin Ecosystem]]></title>
-        <id>https://thedefiant.io/news/defi/web3-teams-compete-to-bring-restaking-to-usd1-2t-bitcoin-ecosystem</id>
-        <link href="https://thedefiant.io/news/defi/web3-teams-compete-to-bring-restaking-to-usd1-2t-bitcoin-ecosystem"/>
-        <updated>2024-05-20T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers are racing to replicate Ethereum's booming restaking ecosystem leveraging BTC.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
 </feed>
