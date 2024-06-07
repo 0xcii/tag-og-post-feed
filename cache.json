@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/ethena-expands-usde-into-aave-as-asset-matures",
+          "author": "Pedro Solimano",
+          "description": "Users can now deposit stETH, weETH, ETH and WBTC on Aave to borrow stablecoins into Ethena USDe or sUSDe.",
+          "link": "https://thedefiant.io/news/defi/ethena-expands-usde-into-aave-as-asset-matures",
+          "publishedOn": "2024-06-07T18:38:36.000Z",
+          "wordCount": 1706,
+          "title": "Ethena Expands USDe Into Aave As ‘Asset Matures’",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5b5eab80e5a93c4b7f552058bc0e96615e8bce45-828x473.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5b5eab80e5a93c4b7f552058bc0e96615e8bce45-828x473.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/iggy-azalea-s-mother-memecoin-hits-usd200-million-market-cap",
+          "author": "yyctrader",
+          "description": "MOTHER has more than doubled since catching flak from Ethereum founder Vitalik Buterin",
+          "link": "https://thedefiant.io/news/defi/iggy-azalea-s-mother-memecoin-hits-usd200-million-market-cap",
+          "publishedOn": "2024-06-07T18:35:54.000Z",
+          "wordCount": 1359,
+          "title": "Iggy Azalea’s MOTHER Memecoin Hits $200 Million Market Cap",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f459bb21add2df316c47791be96695d961f29c82-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f459bb21add2df316c47791be96695d961f29c82-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-dip-following-strong-may-jobs-report",
           "author": "Mehab Qureshi",
           "description": "Bitcoin is consolidating around $71,000, while Ethereum and Solana dropped by 1%.",
@@ -80,7 +110,7 @@
           "description": "Wormhole’s governance mechanism is the first live example of its multi-chain governance protocol, MultiGov.",
           "link": "https://thedefiant.io/news/defi/wormhole-launches-staking-and-governance-for-w-token-holders",
           "publishedOn": "2024-06-07T13:23:00.000Z",
-          "wordCount": 1577,
+          "wordCount": 1545,
           "title": "Wormhole Launches Staking and Governance For W Token Holders",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/abaa162350e068da84d8d9503e1ee2124bdea8b1-1792x1024.webp",
@@ -95,7 +125,7 @@
           "description": "DYdX v5 introduces Isolated Markets, allowing users to partition their collateral across multiple positions.",
           "link": "https://thedefiant.io/news/defi/dydx-to-complete-v5-upgrade-next-week",
           "publishedOn": "2024-06-07T13:00:00.000Z",
-          "wordCount": 1887,
+          "wordCount": 1912,
           "title": "DYdX To Complete v5 Upgrade Next Week",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d1ab0270cdc1caf49a9854619ec284d42feaacac-1792x1024.webp",
@@ -125,7 +155,7 @@
           "description": "A Dune dashboard says 55,000 daily active users (DAU) , but their API says it may be a tenth of that.",
           "link": "https://thedefiant.io/news/nfts-and-web3/how-many-users-does-farcaster-actually-have",
           "publishedOn": "2024-06-06T18:26:09.000Z",
-          "wordCount": 2482,
+          "wordCount": 2425,
           "title": "How Many Users Does Farcaster Actually Have?",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b843de4e2b115b00601fd38c3fc46f55e8c75e08-1792x1024.png",
@@ -140,7 +170,7 @@
           "description": "Investor sentiment on Ethereum has turned bullish after the SEC granted initial approval to spot ETH ETFs.",
           "link": "https://thedefiant.io/news/markets/ethereum-hype-spurs-crypto-rally-as-vaneck-projects-usd22-000-eth-price-target",
           "publishedOn": "2024-06-06T16:15:53.000Z",
-          "wordCount": 1585,
+          "wordCount": 1528,
           "title": "Ethereum Hype Spurs Crypto Rally as VanEck Projects $22,000 ETH Price Target",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/49b721fc2582893296df4b2e1dabcc07be8c9b9f-1792x1024.webp",
@@ -155,7 +185,7 @@
           "description": "This move will allow Robinhood to compete more aggressively in the crypto exchange market.",
           "link": "https://thedefiant.io/news/cefi/robinhood-to-acquire-veteran-crypto-exchange-bitstamp",
           "publishedOn": "2024-06-06T13:58:00.000Z",
-          "wordCount": 1477,
+          "wordCount": 1420,
           "title": "Robinhood To Acquire Veteran Crypto Exchange Bitstamp",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8649cf377e70b0251a06a4ca1621acd9ae6fd408-1792x1024.webp",
@@ -185,7 +215,7 @@
           "description": "A wallet linked to the former president has received more than $16 million worth of a new memecoin dubbed TROG.",
           "link": "https://thedefiant.io/news/defi/trump-s-memecoin-bags-reach-usd30-million-as-celebrity-drama-wears-on",
           "publishedOn": "2024-06-05T20:06:01.000Z",
-          "wordCount": 2484,
+          "wordCount": 2509,
           "title": "'Trump' Wallet's Memecoin Bags Reach $30 Million As Celebrity Drama Wears On",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/693d477dbb82217812ee7019c2d2152e7e96c891-1792x1024.webp",
@@ -200,7 +230,7 @@
           "description": "Experts say Biden’s latest move against crypto could cost him the 2024 election.",
           "link": "https://thedefiant.io/news/regulation/biden-s-surprise-veto-signals-democrats-crypto-friendly-era-may-have-been-wishful-thinking",
           "publishedOn": "2024-06-05T18:23:42.000Z",
-          "wordCount": 2303,
+          "wordCount": 2360,
           "title": "Biden’s Surprise Veto Signals Democrats’ Crypto-Friendly Era May Have Been Wishful Thinking",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/940a73bbd930eb10a82584751e95a1dde8bcdcd8-880x495.png",
@@ -230,7 +260,7 @@
           "description": "Roughly 50 million tokens, or 5% of the total supply, can now be claimed.",
           "link": "https://thedefiant.io/news/defi/zk-rollup-taiko-airdrops-token-and-reaches-usd2-billion-fully-diluted-valuation",
           "publishedOn": "2024-06-05T17:48:53.000Z",
-          "wordCount": 1505,
+          "wordCount": 1530,
           "title": "ZK-Rollup Taiko Airdrops Token And Reaches $2 Billion Fully-Diluted Valuation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/22de8ab1d8e93416e097f176eb05d52053ee3b39-297x170.png",
@@ -245,7 +275,7 @@
           "description": "Bitcoin ETFs had their second-best day ever, with $887 million in inflows on June 4.",
           "link": "https://thedefiant.io/news/markets/bnb-hits-all-time-high-as-crypto-market-rebounds",
           "publishedOn": "2024-06-05T17:08:05.000Z",
-          "wordCount": 1597,
+          "wordCount": 1540,
           "title": "BNB Hits All-time High as Crypto Market Rebounds",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/403f7f752ffcb0370a357a4a38e1a6fc3c69d11a-1792x1024.webp",
@@ -275,7 +305,7 @@
           "description": "The first 2x long Ether ETF launched on June 4, while the first 2x short Ether ETF will debut on June 7.",
           "link": "https://thedefiant.io/news/markets/leveraged-ether-etfs-enter-the-market",
           "publishedOn": "2024-06-05T10:16:00.000Z",
-          "wordCount": 1750,
+          "wordCount": 1807,
           "title": "Leveraged Ether ETFs Enter The Market",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2a29976476a0917421caff0977c50a481ecf32c5-1792x1024.webp",
@@ -290,7 +320,7 @@
           "description": "The Arbitrum-based DEX also announced a new points program that kicked off on May 28.",
           "link": "https://thedefiant.io/news/defi/hyperliquid-tvl-hits-all-time-high-surpassing-dydx",
           "publishedOn": "2024-06-04T19:46:44.000Z",
-          "wordCount": 1918,
+          "wordCount": 1886,
           "title": "Hyperliquid TVL Hits All-time High, Surpassing dYdX",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1621bf1fae713a983a77bc5c5c4f77acedf04642-1792x1024.webp",
@@ -305,7 +335,7 @@
           "description": "Both the physical violin and its representative NFT are being used as collateral for the loan.",
           "link": "https://thedefiant.io/news/nfts-and-web3/galaxy-digital-issues-multimillion-dollar-loan-against-tokenized-stradivarius-violin",
           "publishedOn": "2024-06-04T17:00:24.000Z",
-          "wordCount": 1513,
+          "wordCount": 1570,
           "title": "Galaxy Digital Issues Multimillion-dollar Loan Against Tokenized Stradivarius Violin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/640f871737c569f7e7f5fa21b91989f97015fb3d-1792x1024.webp",
@@ -320,7 +350,7 @@
           "description": "The move comes with a $1 million fund for researchers.",
           "link": "https://thedefiant.io/news/blockchains/starkware-reveals-ambitious-plan-to-scale-bitcoin-through-controversial-upgrade",
           "publishedOn": "2024-06-04T14:46:35.000Z",
-          "wordCount": 2616,
+          "wordCount": 2559,
           "title": "StarkWare Reveals Ambitious Plan To Scale Bitcoin Through Controversial Upgrade",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/491830596b544f17638b4c97b86604676e75fca3-828x473.png",
@@ -350,7 +380,7 @@
           "description": "Decentralized exchange Velocore was hacked for $7M over the weekend.",
           "link": "https://thedefiant.io/news/defi/linea-halts-network-after-velocore-exploit",
           "publishedOn": "2024-06-03T18:27:22.000Z",
-          "wordCount": 1604,
+          "wordCount": 1686,
           "title": "Linea Halts Network after Velocore Exploit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/75c68e51e12ad998254a7511326a1ee7ef73d711-1792x1024.webp",
@@ -425,7 +455,7 @@
           "description": "The Defiant's most read stories for the week of May 27.",
           "link": "https://thedefiant.io/news/defi/our-most-read-stories-this-week-argentina-crypto-valley-solana-beats-facebook-rwas-ai-alliance",
           "publishedOn": "2024-06-01T18:37:40.000Z",
-          "wordCount": 1137,
+          "wordCount": 1162,
           "title": "Our Most Read Stories This Week: Argentina Crypto Valley, Solana Beats Facebook, RWAs, AI Alliance",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8750e34f54082dd91681f17eca5c6b107d41452f-1792x1024.png",
@@ -440,7 +470,7 @@
           "description": "The indefinite delay is due to a “stakeholder raising an issue,” said the Foundation.",
           "link": "https://thedefiant.io/news/defi/uniswap-foundation-delays-fee-switch-vote",
           "publishedOn": "2024-05-31T20:11:14.000Z",
-          "wordCount": 1408,
+          "wordCount": 1433,
           "title": "Uniswap Foundation Delays Fee Switch Vote",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d6be4f0cf701c5533b671faa1a767f42d5a1f7e8-1792x1024.webp",
@@ -455,7 +485,7 @@
           "description": "Daily active users on Friendtech and Fantasy Top continue to plummet.",
           "link": "https://thedefiant.io/news/nfts-and-web3/social-fi-activity-nears-all-time-lows",
           "publishedOn": "2024-05-31T19:43:08.000Z",
-          "wordCount": 1274,
+          "wordCount": 1217,
           "title": "Social-Fi Activity Nears All-time Lows",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/067a8841c6924dbec672d2fadc33094d9803c2b6-1792x1024.webp",
@@ -500,7 +530,7 @@
           "description": "Analysts are optimistic that Ethereum ETFs could launch in June.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-drop-after-inflation-data-meets-expectations",
           "publishedOn": "2024-05-31T16:56:43.000Z",
-          "wordCount": 1439,
+          "wordCount": 1382,
           "title": "Crypto Markets Drop After Inflation Data Meets Expectations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c74ea828181241574fee348819c9e381ccadd0d4-1792x1024.webp",
@@ -545,7 +575,7 @@
           "description": "Kennedy owns seven figures worth of BTC.",
           "link": "https://thedefiant.io/news/regulation/presidential-candidate-rfk-says-bitcoin-can-help-solve-the-u-s-debt-crisis",
           "publishedOn": "2024-05-31T11:05:00.000Z",
-          "wordCount": 1989,
+          "wordCount": 1932,
           "title": "Presidential Candidate RFK Says Bitcoin Can Help Solve The U.S. Debt Crisis",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6deb79781cff10b59b28658590417f30a5cd523d-1792x1024.webp",
@@ -560,7 +590,7 @@
           "description": "Rival projects using zero-knowledge technology publicly slammed Matter Labs over the trademark drama.",
           "link": "https://thedefiant.io/news/nfts-and-web3/matter-labs-in-hot-water-over-zero-knowledge-trademark-bid",
           "publishedOn": "2024-05-31T08:24:00.000Z",
-          "wordCount": 1915,
+          "wordCount": 1858,
           "title": "Matter Labs In Hot Water Over ‘ZK’ Trademark Bid",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5394d30b6eb39d4b5a8e2895efcbf52efeb784d5-1792x1024.webp",
@@ -575,7 +605,7 @@
           "description": "From June 3, users will have to provide their name, phone number, and date of birth to access most features.",
           "link": "https://thedefiant.io/news/defi/telegram-wallet-introduces-stricter-kyc-rules",
           "publishedOn": "2024-05-30T19:17:33.000Z",
-          "wordCount": 1439,
+          "wordCount": 1407,
           "title": "Telegram-Based Wallet Bot Introduces Stricter KYC Rules",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/797aca5dc9eda113d01142a08ac556cb4c45115e-1792x1024.webp",
@@ -590,7 +620,7 @@
           "description": "Bitcoin is up 2.5% in the past 24 hours, while Ether and Solana gained 1%.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-trade-sideways-ahead-of-u-s-inflation-report",
           "publishedOn": "2024-05-30T19:00:15.000Z",
-          "wordCount": 1448,
+          "wordCount": 1505,
           "title": "Crypto Markets Trade Sideways Ahead of U.S. Inflation Report",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2a797aec2aba791ceb0ff568966ce655d6c95a9d-1792x1024.webp",
@@ -605,7 +635,7 @@
           "description": "Various DeFi protocols in the Blast ecosystem now enjoy native yield, lending, and trading with USDe and sUSDe.",
           "link": "https://thedefiant.io/news/defi/ethena-brings-synthetic-dollar-to-blast-layer-2",
           "publishedOn": "2024-05-30T18:29:59.000Z",
-          "wordCount": 1539,
+          "wordCount": 1564,
           "title": "Ethena Brings Synthetic Dollar to Blast Layer 2",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/54976b1c281beb93ab1ded403c02e708ce3245fb-1792x1024.webp",
@@ -620,7 +650,7 @@
           "description": "Hester M. Peirce suggests a collaborative effort toward building out a regulatory framework.",
           "link": "https://thedefiant.io/news/regulation/sec-commissioner-proposes-cross-border-sandbox-for-u-s-and-u-k-crypto-industries",
           "publishedOn": "2024-05-30T16:41:58.000Z",
-          "wordCount": 1695,
+          "wordCount": 1752,
           "title": "SEC Commissioner Proposes Cross-border Sandbox for U.S. and U.K. Crypto Industries",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f11f5aa350d7a5321fef5670731476505cc9a656-1792x1024.webp",
@@ -635,7 +665,7 @@
           "description": "The U.S. Treasury Department wants to crack down on jurisdictional regulatory arbitrage.",
           "link": "https://thedefiant.io/news/regulation/unregulated-stablecoins-pose-risk-to-national-security-u-s-treasury-department",
           "publishedOn": "2024-05-30T15:48:00.000Z",
-          "wordCount": 2187,
+          "wordCount": 2244,
           "title": "Unregulated Stablecoins Pose Risk To National Security: U.S. Treasury Department",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/855ad9f0f4108295bb1153ce81251e6d255da879-1792x1024.webp",
@@ -650,7 +680,7 @@
           "description": "Veda boasts a more than $700 million TVL less than three months after launching.",
           "link": "https://thedefiant.io/news/defi/veda-announces-partnership-with-etherfi-providing-tokenized-vault-infrastructure",
           "publishedOn": "2024-05-30T13:00:00.000Z",
-          "wordCount": 1536,
+          "wordCount": 1618,
           "title": "Veda Announces Partnership With EtherFi Providing Tokenized Vault Infrastructure",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7df3cb28b17e23fe3334a7e2bc4f6381d6bc9acb-1792x1024.webp",
@@ -695,7 +725,7 @@
           "description": "PEPE’s market cap sits at $6.2 billion, while the top 30 NFT projects are cumulatively valued slightly above $4 billion.",
           "link": "https://thedefiant.io/news/nfts-and-web3/pepe-is-now-worth-more-than-most-major-nft-projects-combined",
           "publishedOn": "2024-05-30T10:18:49.000Z",
-          "wordCount": 1539,
+          "wordCount": 1596,
           "title": "PEPE Is Now Worth More Than Most Major NFT Projects Combined",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/92ac596450f79084d0d02ac6c0d9d88c4667fcb9-1792x1024.webp",
@@ -725,7 +755,7 @@
           "description": "BlackRock’s IBIT has overtaken GBTC to become the largest Bitcoin ETF with nearly $20 billion in assets.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-falter-as-rising-treasury-yields-pressure-risk-assets",
           "publishedOn": "2024-05-29T19:38:02.000Z",
-          "wordCount": 1396,
+          "wordCount": 1339,
           "title": "Crypto Markets Falter as Rising Treasury Yields Pressure Risk Assets",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/564bd8e721df9448e7a5464d48037eedc69fa0cb-1792x1024.webp",
@@ -740,7 +770,7 @@
           "description": "PYUSD is the 12th largest stablecoin with a market capitalization of $400 million.",
           "link": "https://thedefiant.io/news/defi/paypal-brings-pyusd-stablecoin-to-solana",
           "publishedOn": "2024-05-29T17:21:00.000Z",
-          "wordCount": 1145,
+          "wordCount": 1113,
           "title": "PayPal Brings PYUSD Stablecoin to Solana",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9c4188d26aec496f94370cbad8c03d1a1b25ba4e-1792x1024.webp",
@@ -770,7 +800,7 @@
           "description": "The three web3 AI projects will merge their tokens and networks.",
           "link": "https://thedefiant.io/news/blockchains/fetch-ai-singularitynet-and-ocean-protocol-schedule-asi-alliance-merger-for-june-13",
           "publishedOn": "2024-05-29T14:56:00.000Z",
-          "wordCount": 1613,
+          "wordCount": 1556,
           "title": "Fetch AI, SingularityNET, and Ocean Protocol Schedule ‘ASI Alliance’ Merger For June 13",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/82903d5353106a8d46fed3b4a93611e4d776d72d-1792x1024.webp",
@@ -785,7 +815,7 @@
           "description": "ERC-7683 seeks to combat liquidity fragmentation by providing a standardized framework for cross-chain trading.",
           "link": "https://thedefiant.io/news/defi/uniswap-and-across-team-up-on-standard-for-cross-chain-trades",
           "publishedOn": "2024-05-29T11:08:00.000Z",
-          "wordCount": 1532,
+          "wordCount": 1556,
           "title": "Uniswap and Across Team Up On Standard For Cross-Chain Trades",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c9b6dd3d2f7315e47179af4f992211d550da77de-1792x1024.webp",
@@ -800,7 +830,7 @@
           "description": "The Ethereum Name Service protocol has unveiled its V2 iteration that will offer increased flexibility for .eth domain owners.",
           "link": "https://thedefiant.io/news/nfts-and-web3/ens-rallies-on-layer-2-migration-plan",
           "publishedOn": "2024-05-29T08:48:38.000Z",
-          "wordCount": 1258,
+          "wordCount": 1315,
           "title": "ENS Rallies on Layer 2 Migration Plan",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/43ede3c75d400023bbb39a15e6bf5a5aab5661d9-1792x1024.webp",
@@ -815,7 +845,7 @@
           "description": "Activity and total value locked (TVL) on Ethereum Layer 2s have grown rapidly in 2024, but some analysts remain cautious of liquidity fragmentation.",
           "link": "https://thedefiant.io/news/defi/rising-ethereum-layer-2-usage-raises-fragmentation-concerns",
           "publishedOn": "2024-05-29T07:32:14.000Z",
-          "wordCount": 1525,
+          "wordCount": 1492,
           "title": "Rising Ethereum Layer 2 Usage Raises Fragmentation Concerns",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4ad74aa9ccbcf540647bfa4acd827ce925cb64e4-1792x1024.webp",
@@ -830,7 +860,7 @@
           "description": "Last week, $1 billion flowed into crypto-denominated assets, pushing 2024 inflows to $14.9 billion.",
           "link": "https://thedefiant.io/news/markets/institutional-crypto-inflows-hit-2024-high",
           "publishedOn": "2024-05-29T06:21:00.000Z",
-          "wordCount": 1543,
+          "wordCount": 1486,
           "title": "Institutional Crypto Inflows Hit 2024 High",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/69d7b8af70016a7d189f468c3bf18b8add321f87-1792x1024.webp",
@@ -845,7 +875,7 @@
           "description": "Sergey Nazarov is the Co-Founder of Chainlink, a decentralized oracle network that provides data for smart contracts and facilitates cross-chain communication.  Sergey shares his thoughts on the growing crypto scene in Dubai, reflects on the future of tokenization, and discusses the latest on Chainlink's Cross-Chain Interoperability Protocol (CCIP) and what it enables. This interview was recorded during Token2049 in Dubai.",
           "link": "https://thedefiant.io/podcasts-and-videos/defi/latest-on-chainlink-cross-chain-communication-and-tokenization-with-sergey-nazarov",
           "publishedOn": "2024-05-29T05:25:00.000Z",
-          "wordCount": 1470,
+          "wordCount": 1437,
           "title": "Latest on Chainlink, Cross-Chain Communication, and Tokenization with Sergey Nazarov",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/79dc3f8469b36f7982e46f73039697ad3ae889cf-640x357.jpg",
@@ -875,7 +905,7 @@
           "description": "Users will now have access to an onchain spending account wherever Visa is accepted.",
           "link": "https://thedefiant.io/news/defi/gnosis-pay-partners-with-visa-to-expand-web3-payments",
           "publishedOn": "2024-05-28T18:51:44.000Z",
-          "wordCount": 1354,
+          "wordCount": 1378,
           "title": "Gnosis Pay Partners With Visa to Expand Web3 Payments",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/70fa673c6a1e8fb693d41ea0ae731ac688e3b6db-1792x1024.webp",
@@ -890,7 +920,7 @@
           "description": "Wallets linked to the defunct crypto exchange moved $9 billion worth of Bitcoin on May 28.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-decline-amid-mt-gox-jitters",
           "publishedOn": "2024-05-28T18:07:44.000Z",
-          "wordCount": 1445,
+          "wordCount": 1388,
           "title": "Crypto Markets Decline Amid Mt. Gox Jitters",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5f75ffa7735f5801f8e33e767bd44766bc127d70-1792x1024.webp",
@@ -905,7 +935,7 @@
           "description": "Aave CEO Stani Kulechov hinted that DeFi’s largest lending platform could launch Aave Network in 2025.",
           "link": "https://thedefiant.io/news/defi/aave-to-launch-own-blockchain-after-v4-upgrade",
           "publishedOn": "2024-05-28T17:14:04.000Z",
-          "wordCount": 1258,
+          "wordCount": 1315,
           "title": "Aave to Launch Own Blockchain After V4 Upgrade",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/64c6a8cf26ebffaa91bc5d7d103d5c185f879377-1792x1024.webp",
@@ -920,7 +950,7 @@
           "description": "\"Laser-eye\" gang is having to eat their words after the ETH ETF approval, but still say ETH will never rival BTC.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-loyalists-say-etf-news-isn-t-priced-in-but-bitcoin-maxis-push-back",
           "publishedOn": "2024-05-28T16:40:59.000Z",
-          "wordCount": 2662,
+          "wordCount": 2719,
           "title": "Ethereum Loyalists Say ETF News Isn’t Priced in but Bitcoin Maxis Push Back",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b2572237eb9a2a6e70872b6a86f9953a7f935ad5-1792x1024.png",
@@ -935,7 +965,7 @@
           "description": "Google Cloud will onboard as a Fantom validator.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/fantom-taps-google-cloud-for-infrastructure-and-ai-capabilities",
           "publishedOn": "2024-05-28T16:18:00.000Z",
-          "wordCount": 1886,
+          "wordCount": 1829,
           "title": "Fantom Taps Google Cloud For Infrastructure and AI Capabilities",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/382dbe8db3ed1a06175a210358c55010108d745b-1792x1024.webp",
@@ -995,7 +1025,7 @@
           "description": "Alongside the launch of Syrup Finance, Maple will also replace MPL with the new SYRUP token.",
           "link": "https://thedefiant.io/news/defi/maple-launches-new-protocol-enabling-permissionless-lending-to-insitutions",
           "publishedOn": "2024-05-28T14:19:00.000Z",
-          "wordCount": 1638,
+          "wordCount": 1605,
           "title": "Maple Launches New Protocol Enabling Permissionless Lending To Institutions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/85ebcec3ed952cc44f8d8d342af00914e1ddf5f2-1792x1024.webp",
@@ -1055,7 +1085,7 @@
           "description": "Ether is approaching $4,000 following last week’s spot ETF approvals.",
           "link": "https://thedefiant.io/news/markets/pepe-flips-matic-as-ethereum-memecoins-soar",
           "publishedOn": "2024-05-27T16:36:29.000Z",
-          "wordCount": 1413,
+          "wordCount": 1470,
           "title": "PEPE Flips MATIC As Ethereum Memecoins Soar",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c3e850008e16efc8c0913322beeca0c4d169e083-1792x1024.webp",
@@ -1100,7 +1130,7 @@
           "description": "Depositors are racing to qualify for the Manta CeDeFi points program before the project tags $500 million in TVL.",
           "link": "https://thedefiant.io/news/defi/manta-cedefi-crossed-usd100m-in-tvl-after-one-week",
           "publishedOn": "2024-05-27T11:50:00.000Z",
-          "wordCount": 1642,
+          "wordCount": 1585,
           "title": "Manta CeDeFi Crossed $100M In TVL After One Week",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1a14d9cceda61e3a3f14d7046b71d46d4038fbf5-1792x1024.webp",
@@ -1115,7 +1145,7 @@
           "description": "The proposal seeks 200 million ARB as incentives to foster the development of web3 gaming titles and infrastructure.",
           "link": "https://thedefiant.io/news/nfts-and-web3/arbitrum-community-backs-200m-arb-plan-to-attract-web3-game-builders",
           "publishedOn": "2024-05-27T10:12:00.000Z",
-          "wordCount": 1958,
+          "wordCount": 1901,
           "title": "Arbitrum Community Backs 200M ARB Plan To Attract Web3 Game Builders",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/64df496b3e8cd8d681c445ffa5e99d04909cc9e5-1792x1024.webp",
@@ -1130,7 +1160,7 @@
           "description": "RWA-related tokens such as Ondo and Chainlink have surged following the Ethereum ETF approval.",
           "link": "https://thedefiant.io/news/defi/investors-look-to-blackrock-s-next-target-real-world-assets",
           "publishedOn": "2024-05-24T19:52:59.000Z",
-          "wordCount": 1239,
+          "wordCount": 1296,
           "title": "Investors Look to BlackRock’s Next Target: Real World Assets",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a77059c11a37b260e140833290ef587e5b8e17be-1792x1024.webp",
@@ -1145,7 +1175,7 @@
           "description": "Breaching the previous all-time high of $4,800 is only a matter of time, analysts say.",
           "link": "https://thedefiant.io/news/markets/analysts-predict-eth-price-will-shoot-to-at-least-usd6-000-following-etf-approval",
           "publishedOn": "2024-05-24T18:24:59.000Z",
-          "wordCount": 1960,
+          "wordCount": 1903,
           "title": "Analysts Predict ETH Price Will Shoot to at Least $6,000 Following ETF Approval",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c92e924fb83288acb1ab862da3aebb68f5d0a8c-1024x1024.png",
@@ -1160,7 +1190,7 @@
           "description": "The Web3 wallet was downloaded 770,000 times in April.",
           "link": "https://thedefiant.io/news/defi/solana-wallet-phantom-overtakes-facebook-on-google-s-app-store",
           "publishedOn": "2024-05-24T18:12:34.000Z",
-          "wordCount": 1207,
+          "wordCount": 1175,
           "title": "Solana Wallet Phantom Overtakes Facebook on Google’s App Store",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/40b6a145d63c487c342d541340a679237f24113f-1792x1024.webp",
@@ -1175,7 +1205,7 @@
           "description": "Traders ‘sell the news’ after the SEC approves eight exchange-traded funds backed by spot Ether.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-drop-following-ethereum-etf-approvals",
           "publishedOn": "2024-05-24T16:42:52.000Z",
-          "wordCount": 1536,
+          "wordCount": 1593,
           "title": "Crypto Markets Drop Following Ethereum ETF Approvals",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/48fcb13c6c9d11d65e8cbf443cc4946a3ce128b6-1792x1024.webp",
@@ -1190,7 +1220,7 @@
           "description": "The ruling sets the stage for collaboration between the SEC and the CFTC on crypto regulations in the United States.",
           "link": "https://thedefiant.io/news/regulation/ethereum-etf-approval-signals-ether-is-a-commodity-not-a-security",
           "publishedOn": "2024-05-24T14:06:00.000Z",
-          "wordCount": 2509,
+          "wordCount": 2452,
           "title": "Ethereum ETF Approval Signals Ether Is A Commodity, Not A Security",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3fa29691a48e7bc50b53bb31140177b5a304091d-1792x1024.webp",
@@ -1205,7 +1235,7 @@
           "description": "Welcome to Crypto With Cami, your concise guide to the week's most significant developments in DeFi and Web3, all in 30 minutes or less.",
           "link": "https://thedefiant.io/news/markets/eth-etf-approval-eigenlayer-x-ethereum-foundation-conflict-us-politics-turns-crypto-friendly",
           "publishedOn": "2024-05-24T13:37:00.000Z",
-          "wordCount": 1181,
+          "wordCount": 1124,
           "title": "ETH ETF Approval, EigenLayer x Ethereum Foundation Conflict, US Politics Turns Crypto Friendly",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7dc63356c40430aa704084bc2a37c6066cc1a759-640x360.jpg",
@@ -1235,7 +1265,7 @@
           "description": "$238 million worth of ETH has entered circulation since April 14.",
           "link": "https://thedefiant.io/news/blockchains/low-ethereum-gas-fees-inflate-supply-by-50k-eth-in-one-month",
           "publishedOn": "2024-05-24T05:35:41.000Z",
-          "wordCount": 1745,
+          "wordCount": 1802,
           "title": "Low Ethereum Gas Fees Inflate Supply By 50k ETH In One Month",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b5d72e7556b27408ebc0bd3207af5bbcb4f420c6-1792x1024.webp",
@@ -1262,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/markets/eth-rallies-while-rest-of-major-crypto-tokens-slide-ahead-of-etf-decision",
           "author": "Mehab Qureshi",
-          "description": "Investors anticipate that the approval of spot Ethereum ETFs could attract institutional investment",
+          "description": "Ethereum’s ETH token was the only major digital asset to climb on Thursday ahead of the much-anticipated U.S. Securities and Exchange Commission (SEC) spot Ethereum ETF decision.",
           "link": "https://thedefiant.io/news/markets/eth-rallies-while-rest-of-major-crypto-tokens-slide-ahead-of-etf-decision",
           "publishedOn": "2024-05-23T17:43:32.000Z",
           "wordCount": 1622,
@@ -1292,7 +1322,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-etf-approval-here-s-what-you-need-to-know-about-today-s-deadline",
           "author": "Mehab Qureshi",
-          "description": "There’s one question that’s front and center in the crypto industry today: Will the spot Ethereum ETFs be approved?  Today, May 23, is a key date for the spot Ethereum Exchange Traded Fund (ETF) approval process.",
+          "description": "Approval odds have shifted to 75% from 25% just last week.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-etf-approval-here-s-what-you-need-to-know-about-today-s-deadline",
           "publishedOn": "2024-05-23T14:28:58.000Z",
           "wordCount": 3303,
@@ -1325,7 +1355,7 @@
           "description": "Robinhood introduced support for swaps on Arbitrum in February.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-taps-0x-for-gasless-swaps-on-arbitrum",
           "publishedOn": "2024-05-23T13:00:00.000Z",
-          "wordCount": 1735,
+          "wordCount": 1678,
           "title": "Robinhood Taps 0x For Gasless Swaps On Arbitrum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9f0c7ac0402260514a94f9ed4b574098d1e8d57e-1792x1024.webp",
@@ -1340,7 +1370,7 @@
           "description": "EtherFi said users will be able to make payments anywhere worldwide with the card.",
           "link": "https://thedefiant.io/news/defi/etherfi-unveils-plans-for-credit-card-tied-to-restaking-holdings",
           "publishedOn": "2024-05-23T10:33:00.000Z",
-          "wordCount": 1629,
+          "wordCount": 1654,
           "title": "EtherFi Unveils Plans For Credit Card Tied To Restaking Holdings",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/952d66a980c99514e7685f840596f7352effbf42-1792x1024.webp",
@@ -1355,7 +1385,7 @@
           "description": "Robert Viglione is the co-founder of Horizen Labs, which is a company that specializes in creating scalable and secure blockchain solutions.",
           "link": "https://thedefiant.io/podcasts-and-videos/people/how-zkverify-collapses-zk-proof-costs-by-90-or-robert-viglione-on-zkverify-apechain-and-horizen",
           "publishedOn": "2024-05-23T08:26:00.000Z",
-          "wordCount": 1194,
+          "wordCount": 1137,
           "title": "How zkVerify Collapses ZK Proof Costs by 90% | Robert Viglione on zkVerify, ApeChain &amp;  Horizen Labs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/faca557fccfe7b2be46c1995e66d43f2a9727c52-960x537.jpg",
@@ -1370,7 +1400,7 @@
           "description": "Layer 1 blockchain NEAR has launched an initiative to incubate and invest in native AI infrastructure.",
           "link": "https://thedefiant.io/news/blockchains/near-to-focus-on-user-owned-ai",
           "publishedOn": "2024-05-23T06:17:38.000Z",
-          "wordCount": 1257,
+          "wordCount": 1314,
           "title": "NEAR to Focus on User-Owned AI",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/824c3be261afb36ddbd2f3277534408a7f86e52d-1792x1024.webp",
@@ -1400,7 +1430,7 @@
           "description": "Milady Maker NFTs have surged 35% as most Ethereum NFTs slumped.",
           "link": "https://thedefiant.io/news/nfts-and-web3/milady-nfts-soar-amid-nft-market-volatility",
           "publishedOn": "2024-05-22T20:20:41.000Z",
-          "wordCount": 1237,
+          "wordCount": 1180,
           "title": "Milady NFTs Soar Amid NFT Market Volatility",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4dd7a7a3b32831317e354b6599388bf178f31d2a-1792x1024.webp",
@@ -1430,7 +1460,7 @@
           "description": "The Biden administration said it opposes the bill and is eager to work with Congress in the process to regulate the crypto industry.",
           "link": "https://thedefiant.io/news/regulation/white-house-said-it-will-not-veto-crypto-bill-in-major-industry-win",
           "publishedOn": "2024-05-22T16:10:55.000Z",
-          "wordCount": 1550,
+          "wordCount": 1493,
           "title": "White House Said  It Will Not Veto Crypto Bill in Major Industry Win",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/50e18b8e876c76a3e41e0891243c6fe4c2ce6eac-1792x1024.png",
@@ -1445,7 +1475,7 @@
           "description": "Rumors about the Ethereum ETF approval have sent the price of ETH up by almost 20% in just 24 hours. The odds of approval have tripled according to top ETF analysts. But what do the rumors really mean?",
           "link": "https://thedefiant.io/podcasts-and-videos/regulation/ethereum-etf-approval-imminent-heres-what-it-means-for-eth-prices-in-2024",
           "publishedOn": "2024-05-22T15:54:00.000Z",
-          "wordCount": 1499,
+          "wordCount": 1442,
           "title": "Ethereum ETF Approval Imminent? Here's What It Means for ETH Prices in 2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/99b29d3fc1a1506ac5906bd9324428ceb6858d67-640x359.jpg",
@@ -1460,7 +1490,7 @@
           "description": "Five prospective spot Ether ETF issuers have amended their 19b-4 filings with the SEC.",
           "link": "https://thedefiant.io/news/regulation/spot-ether-etf-hopefuls-update-filings-extending-timeline-for-sec-approval",
           "publishedOn": "2024-05-22T14:25:00.000Z",
-          "wordCount": 1641,
+          "wordCount": 1698,
           "title": "Spot Ether ETF Hopefuls Update Filings, Extending Timeline For SEC Approval",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3d1fe25fd8cd867edd0b087514b2bb5a31a01eb8-1792x1024.webp",
@@ -1490,7 +1520,7 @@
           "description": "The community questions Yuga’s decision to launch an official CryptoPunk collaboration.",
           "link": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-first-punk-in-residence-release-sparks-controversy",
           "publishedOn": "2024-05-22T01:25:44.000Z",
-          "wordCount": 1410,
+          "wordCount": 1467,
           "title": "Yuga Labs’ First “Punk in Residence” Release Sparks Controversy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d01af0a45c7014a8b3bd32c14230d7db924758ce-1792x1024.webp",
@@ -1505,7 +1535,7 @@
           "description": "The Ethereum Layer 2 network’s long-awaited airdrop is expected in mid-June.",
           "link": "https://thedefiant.io/news/defi/zksync-could-launch-token-this-week",
           "publishedOn": "2024-05-21T20:26:05.000Z",
-          "wordCount": 1186,
+          "wordCount": 1154,
           "title": "zkSync Could Launch Token This Week",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/87029437870872bf7ba990201aaeff1805a3fa02-1792x1024.webp",
@@ -1513,36 +1543,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/87029437870872bf7ba990201aaeff1805a3fa02-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/ethereum-ecosystem-tokens-surge-on-spot-etf-approval-hopes",
-          "author": "Mehab Qureshi",
-          "description": "Open interest for ETH futures reached $12 billion on Tuesday, up 34% in the last 24 hours.",
-          "link": "https://thedefiant.io/news/markets/ethereum-ecosystem-tokens-surge-on-spot-etf-approval-hopes",
-          "publishedOn": "2024-05-21T19:51:28.000Z",
-          "wordCount": 1385,
-          "title": "Ethereum Ecosystem Tokens Surge on Spot ETF Approval Hopes",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c92e924fb83288acb1ab862da3aebb68f5d0a8c-1024x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8c92e924fb83288acb1ab862da3aebb68f5d0a8c-1024x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/fantasy-top-creators-to-receive-nearly-600-eth-in-rewards",
-          "author": "Squiffs",
-          "description": "Heroes featured in the on-chain trading card game have collectively earned almost 600 ETH, but not everyone is happy.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/fantasy-top-creators-to-receive-nearly-600-eth-in-rewards",
-          "publishedOn": "2024-05-21T18:20:06.000Z",
-          "wordCount": 1643,
-          "title": "Fantasy.Top Creators to Receive Nearly 600 ETH in Rewards",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/729bee9ee08609fcc158516ce4028d62f02a7de4-297x170.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/729bee9ee08609fcc158516ce4028d62f02a7de4-297x170.png"
         }
       ]
     },
