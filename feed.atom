@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-10T07:13:42.060Z</id>
+    <id>urn:2024-06-10T08:18:51.209Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-10T07:13:42.060Z</updated>
+    <updated>2024-06-10T08:18:51.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -203,6 +203,16 @@
         <summary type="html"><![CDATA[The first 2x long Ether ETF launched on June 4, while the first 2x short Ether ETF will debut on June 7.]]></summary>
         <author>
             <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind the Crypto Curtains: Market Insights from CoinGecko Co-Founder Bobby Ong]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/people/behind-the-crypto-curtains-market-insights-from-coingecko-co-founder-bobby-ong</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/people/behind-the-crypto-curtains-market-insights-from-coingecko-co-founder-bobby-ong"/>
+        <updated>2024-06-05T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Bobby Ong is the Co-Founder of CoinGecko, a cryptocurrency analysis platform that tracks price, volume, market capitalization, community growth, open source code development, major events, and onchain metrics.]]></summary>
+        <author>
+            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/railgun-privacy-protocol-surpasses-usd1b-in-volume-amid-crackdown-on-crypto-mixers</id>
         <link href="https://thedefiant.io/news/regulation/railgun-privacy-protocol-surpasses-usd1b-in-volume-amid-crackdown-on-crypto-mixers"/>
         <updated>2024-05-24T11:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Railgun's transaction volume surpassed $1 billion as rival privacy protocols shut down or exit the market.]]></summary>
+        <summary type="html"><![CDATA[Users appear to be flocking to Railgun for on-chain privacy as rival crypto mixers shut down amid regulatory crackdown.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/news/blockchains/low-ethereum-gas-fees-inflate-supply-by-50k-eth-in-one-month</id>
         <link href="https://thedefiant.io/news/blockchains/low-ethereum-gas-fees-inflate-supply-by-50k-eth-in-one-month"/>
         <updated>2024-05-24T05:35:41.000Z</updated>
-        <summary type="html"><![CDATA[A spate of low Ethereum gas prices following Dencun has resulted in ETH's supply ballooning over the past six weeks.]]></summary>
+        <summary type="html"><![CDATA[$238 million worth of ETH has entered circulation since April 14.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -1001,16 +1011,6 @@
         <link href="https://thedefiant.io/news/regulation/spot-ether-etf-hopefuls-update-filings-extending-timeline-for-sec-approval"/>
         <updated>2024-05-22T14:25:00.000Z</updated>
         <summary type="html"><![CDATA[Five prospective spot Ether ETF issuers have amended their 19b-4 filings with the SEC.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakarot ZK-EVM Launches Testnet, Paving The Way For EVM-Compatibility On Starknet]]></title>
-        <id>https://thedefiant.io/news/blockchains/kakarot-zk-evm-launches-testnet-paving-the-way-for-evm-compatibility-on-starknet</id>
-        <link href="https://thedefiant.io/news/blockchains/kakarot-zk-evm-launches-testnet-paving-the-way-for-evm-compatibility-on-starknet"/>
-        <updated>2024-05-22T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kakarot Labs is backed by StarkWare and Vitalik Buterin.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
