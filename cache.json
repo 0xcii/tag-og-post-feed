@@ -21,7 +21,7 @@
           "description": "(Any views expressed in the below are the personal views of the author and should not form the basis for making investment decisions, nor…",
           "link": "https://cryptohayes.medium.com/the-easy-button-2c66df4e8f4d?source=rss-2f6e06954878------2",
           "publishedOn": "2024-05-20T23:01:35.000Z",
-          "wordCount": 8219,
+          "wordCount": 8220,
           "title": "The Easy Button",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*cOhIW22uYpnF3hUf.gif"
         }
@@ -148,6 +148,21 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d1ab0270cdc1caf49a9854619ec284d42feaacac-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/podcasts-and-videos/people/us-elections-crypto-markets-ai-and-new-media-with-mario-nawfal",
+          "author": "Jack Dunham",
+          "description": "Mario Nawfal is a serial entrepreneur and a prominent figure in the crypto industry. We discussed a range of topics from the industry’s ethos and Mario’s insights on why the industry is attractive to many, to the declining trust in mainstream media and the role of independent publications and citizen journalism. We also discuss pressing issues like the politicization of crypto in the US. Finally, Mario offers his outlook for the industry and shares some advice for aspiring entrepreneurs.",
+          "link": "https://thedefiant.io/podcasts-and-videos/people/us-elections-crypto-markets-ai-and-new-media-with-mario-nawfal",
+          "publishedOn": "2024-06-07T08:26:00.000Z",
+          "wordCount": 1765,
+          "title": "US Elections, Crypto Markets, AI, and New Media with Mario Nawfal",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/924e0c28b32d9c85134b69632cb97ec0dfd96c43-640x360.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/924e0c28b32d9c85134b69632cb97ec0dfd96c43-640x360.jpg"
         },
         {
           "id": "https://thedefiant.io/news/regulation/congress-considers-benefits-of-tokenizing-real-world-assets",
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/railgun-privacy-protocol-surpasses-usd1b-in-volume-amid-crackdown-on-crypto-mixers",
           "author": "Mehab Qureshi",
-          "description": "Users appear to be flocking to Railgun for on-chain privacy as rival crypto mixers shut down amid regulatory crackdown.",
+          "description": "Railgun's transaction volume surpassed $1 billion as rival privacy protocols shut down or exit the market.",
           "link": "https://thedefiant.io/news/regulation/railgun-privacy-protocol-surpasses-usd1b-in-volume-amid-crackdown-on-crypto-mixers",
           "publishedOn": "2024-05-24T11:17:00.000Z",
           "wordCount": 2195,
@@ -1528,21 +1543,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/99b29d3fc1a1506ac5906bd9324428ceb6858d67-640x359.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/spot-ether-etf-hopefuls-update-filings-extending-timeline-for-sec-approval",
-          "author": "Samuel Haig",
-          "description": "Five prospective spot Ether ETF issuers have amended their 19b-4 filings with the SEC.",
-          "link": "https://thedefiant.io/news/regulation/spot-ether-etf-hopefuls-update-filings-extending-timeline-for-sec-approval",
-          "publishedOn": "2024-05-22T14:25:00.000Z",
-          "wordCount": 1641,
-          "title": "Spot Ether ETF Hopefuls Update Filings, Extending Timeline For SEC Approval",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3d1fe25fd8cd867edd0b087514b2bb5a31a01eb8-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3d1fe25fd8cd867edd0b087514b2bb5a31a01eb8-1792x1024.webp"
         }
       ]
     },

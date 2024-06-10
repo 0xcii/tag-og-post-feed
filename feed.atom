@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-10T08:18:51.209Z</id>
+    <id>urn:2024-06-10T09:16:29.473Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-10T08:18:51.209Z</updated>
+    <updated>2024-06-10T09:16:29.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -73,6 +73,16 @@
         <summary type="html"><![CDATA[DYdX v5 introduces Isolated Markets, allowing users to partition their collateral across multiple positions.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Elections, Crypto Markets, AI, and New Media with Mario Nawfal]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/people/us-elections-crypto-markets-ai-and-new-media-with-mario-nawfal</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/people/us-elections-crypto-markets-ai-and-new-media-with-mario-nawfal"/>
+        <updated>2024-06-07T08:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Mario Nawfal is a serial entrepreneur and a prominent figure in the crypto industry. We discussed a range of topics from the industry’s ethos and Mario’s insights on why the industry is attractive to many, to the declining trust in mainstream media and the role of independent publications and citizen journalism. We also discuss pressing issues like the politicization of crypto in the US. Finally, Mario offers his outlook for the industry and shares some advice for aspiring entrepreneurs.]]></summary>
+        <author>
+            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/news/regulation/railgun-privacy-protocol-surpasses-usd1b-in-volume-amid-crackdown-on-crypto-mixers</id>
         <link href="https://thedefiant.io/news/regulation/railgun-privacy-protocol-surpasses-usd1b-in-volume-amid-crackdown-on-crypto-mixers"/>
         <updated>2024-05-24T11:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Users appear to be flocking to Railgun for on-chain privacy as rival crypto mixers shut down amid regulatory crackdown.]]></summary>
+        <summary type="html"><![CDATA[Railgun's transaction volume surpassed $1 billion as rival privacy protocols shut down or exit the market.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Rumors about the Ethereum ETF approval have sent the price of ETH up by almost 20% in just 24 hours. The odds of approval have tripled according to top ETF analysts. But what do the rumors really mean?]]></summary>
         <author>
             <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spot Ether ETF Hopefuls Update Filings, Extending Timeline For SEC Approval]]></title>
-        <id>https://thedefiant.io/news/regulation/spot-ether-etf-hopefuls-update-filings-extending-timeline-for-sec-approval</id>
-        <link href="https://thedefiant.io/news/regulation/spot-ether-etf-hopefuls-update-filings-extending-timeline-for-sec-approval"/>
-        <updated>2024-05-22T14:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Five prospective spot Ether ETF issuers have amended their 19b-4 filings with the SEC.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
