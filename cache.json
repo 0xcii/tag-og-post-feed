@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/mellow-finance-to-help-lido-hold-on-to-its-place-as-largest-defi-protocol",
+          "author": "Mehab Qureshi",
+          "description": "The liquid restaking protocol could help boost Lido's stETH market cap.",
+          "link": "https://thedefiant.io/news/defi/mellow-finance-to-help-lido-hold-on-to-its-place-as-largest-defi-protocol",
+          "publishedOn": "2024-06-12T19:44:49.000Z",
+          "wordCount": 2002,
+          "title": "Mellow Finance to Help Lido Hold On to its Place as Largest DeFi Protocol",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e11db1d8e98c43b07e628cd352ee7f463beb6f22-828x473.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e11db1d8e98c43b07e628cd352ee7f463beb6f22-828x473.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-surges-as-fed-leaves-rates-unchanged",
           "author": "Mehab Qureshi",
           "description": "Global markets were buoyed as U.S. inflation data for May came in cooler than expected.",
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/ethereum-loyalists-say-etf-news-isn-t-priced-in-but-bitcoin-maxis-push-back",
           "author": "Mehab Qureshi and Pedro Solimano",
-          "description": "The huge gains Ethereum holders had hoped for after the ETH ETF win didn't come through, leading to a clash of perspectives between Ethereum loyalists and Bitcoin ‘maxis’.",
+          "description": "\"Laser-eye\" gang is having to eat their words after the ETH ETF approval, but still say ETH will never rival BTC.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-loyalists-say-etf-news-isn-t-priced-in-but-bitcoin-maxis-push-back",
           "publishedOn": "2024-05-28T16:40:59.000Z",
           "wordCount": 2650,
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8c92e924fb83288acb1ab862da3aebb68f5d0a8c-1024x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/solana-wallet-phantom-overtakes-facebook-on-google-s-app-store",
-          "author": "yyctrader",
-          "description": "The Web3 wallet was downloaded 770,000 times in April.",
-          "link": "https://thedefiant.io/news/defi/solana-wallet-phantom-overtakes-facebook-on-google-s-app-store",
-          "publishedOn": "2024-05-24T18:12:34.000Z",
-          "wordCount": 1162,
-          "title": "Solana Wallet Phantom Overtakes Facebook on Google’s App Store",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/40b6a145d63c487c342d541340a679237f24113f-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/40b6a145d63c487c342d541340a679237f24113f-1792x1024.webp"
         }
       ]
     },
