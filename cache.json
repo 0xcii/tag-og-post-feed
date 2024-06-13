@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/curve-finance-founder-michael-egorov-suffers-massive-liquidations",
+          "author": "Mehab Qureshi",
+          "description": "Egorov’s CRV holdings have dropped to $34M after previously taking out nearly $100M in stablecoins loans backed by $141M worth of CRV.",
+          "link": "https://thedefiant.io/news/defi/curve-finance-founder-michael-egorov-suffers-massive-liquidations",
+          "publishedOn": "2024-06-13T11:15:00.000Z",
+          "wordCount": 1731,
+          "title": "Curve Finance Founder Michael Egorov Suffers Massive Liquidations",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ed71b3e61cfec438a1e92afe67b175c40509b673-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ed71b3e61cfec438a1e92afe67b175c40509b673-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/uwu-lend-suffers-second-exploit-in-one-week-bringing-losses-usd23-million",
           "author": "Mehab Qureshi",
           "description": "The protocol lost an additional $3.72 million after getting hacked for the second time in three days.",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/podcasts-and-videos/defi/latest-on-chainlink-cross-chain-communication-and-tokenization-with-sergey-nazarov",
           "author": "Jack Dunham",
-          "description": "Sergey Nazarov is the Co-Founder of Chainlink, a decentralized oracle network that provides data for smart contracts and facilitates cross-chain communication.  Sergey shares his thoughts on the growing crypto scene in Dubai, reflects on the future of tokenization, and discusses the latest on Chainlink's Cross-Chain Interoperability Protocol (CCIP) and what it enables. This interview was recorded during Token2049 in Dubai.",
+          "description": "",
           "link": "https://thedefiant.io/podcasts-and-videos/defi/latest-on-chainlink-cross-chain-communication-and-tokenization-with-sergey-nazarov",
           "publishedOn": "2024-05-29T05:25:00.000Z",
           "wordCount": null,
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/trump-s-suddenly-all-about-crypto-what-changed",
           "author": "Mehab Qureshi and Pedro Solimano",
-          "description": "Republican Presidential nominee Donald Trump has taken a U-turn on his crypto stance.",
+          "description": "The blockchain industry is trying to decipher whether they can trust their new supposed ally.",
           "link": "https://thedefiant.io/news/regulation/trump-s-suddenly-all-about-crypto-what-changed",
           "publishedOn": "2024-05-28T20:48:00.000Z",
           "wordCount": 3313,
@@ -1528,21 +1543,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e73761da2b721693e68cb625881c650594f5a1fa-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/manta-cedefi-crossed-usd100m-in-tvl-after-one-week",
-          "author": "Samuel Haig",
-          "description": "Depositors are racing to qualify for the Manta CeDeFi points program before the project tags $500 million in TVL.",
-          "link": "https://thedefiant.io/news/defi/manta-cedefi-crossed-usd100m-in-tvl-after-one-week",
-          "publishedOn": "2024-05-27T11:50:00.000Z",
-          "wordCount": 1574,
-          "title": "Manta CeDeFi Crossed $100M In TVL After One Week",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1a14d9cceda61e3a3f14d7046b71d46d4038fbf5-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1a14d9cceda61e3a3f14d7046b71d46d4038fbf5-1792x1024.webp"
         }
       ]
     },
