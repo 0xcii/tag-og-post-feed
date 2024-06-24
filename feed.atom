@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-24T14:13:36.234Z</id>
+    <id>urn:2024-06-24T15:15:43.387Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-24T14:13:36.234Z</updated>
+    <updated>2024-06-24T15:15:43.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana's 'ZK Compression’ Scaling Solution Ignites Controversy]]></title>
+        <id>https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy</id>
+        <link href="https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy"/>
+        <updated>2024-06-24T14:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Ethereans argue that ZK Compression is little more than a Layer 2.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mt. Gox To Repay Creditors Next Month Amid Heavy Bitcoin Miners Sell-Off]]></title>
         <id>https://thedefiant.io/news/markets/mr-gox-to-repay-creditors-next-month-amid-heavy-bitcoin-miners-sell-off</id>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/news/blockchains/telegram-s-the-open-network-is-2024-s-fastest-growing-chain</id>
         <link href="https://thedefiant.io/news/blockchains/telegram-s-the-open-network-is-2024-s-fastest-growing-chain"/>
         <updated>2024-06-07T14:36:45.000Z</updated>
-        <summary type="html"><![CDATA[Despite gathering little attention throughout the bear market, Telegram-integrated blockchain, The Open Network (TON), is the fastest growing major Layer 1 chain in 2024.]]></summary>
+        <summary type="html"><![CDATA[TON's ecosystem has succesfully leveraged the messaging app's millions of users.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -1013,16 +1023,6 @@
         <summary type="html"><![CDATA[The first 2x long Ether ETF launched on June 4, while the first 2x short Ether ETF will debut on June 7.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the Crypto Curtains: Market Insights from CoinGecko Co-Founder Bobby Ong]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/people/behind-the-crypto-curtains-market-insights-from-coingecko-co-founder-bobby-ong</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/people/behind-the-crypto-curtains-market-insights-from-coingecko-co-founder-bobby-ong"/>
-        <updated>2024-06-05T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Bobby Ong is the Co-Founder of CoinGecko, a cryptocurrency analysis platform that tracks price, volume, market capitalization, community growth, open source code development, major events, and onchain metrics.]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
 </feed>
