@@ -45,12 +45,22 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/hut-8-to-join-ftse-russell-s-russell-3000-index-stock-rises-9-3",
+          "author": "DeepNewz",
+          "description": "Bitcoin miner Hut 8 is set to join the Russell 3000 Index on July 1, 2024, as part of FTSE Russell's annual reconstitution.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/hut-8-to-join-ftse-russell-s-russell-3000-index-stock-rises-9-3",
+          "publishedOn": "2024-06-27T16:14:05.000Z",
+          "wordCount": 1012,
+          "title": "Hut 8 to Join FTSE Russell's Russell 3000 Index, Stock Rises 9.3%",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/sol-surges-on-vaneck-spot-solana-etf-filing",
           "author": "Samuel Haig and Mehab Qureshi",
           "description": "VanEck filed an S-1 registration statement with the SEC to launch a spot exchange-traded fund investing in Solana.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/sol-surges-on-vaneck-spot-solana-etf-filing",
           "publishedOn": "2024-06-27T13:36:00.000Z",
-          "wordCount": 2314,
+          "wordCount": 2315,
           "title": "SOL Surges on VanEck Spot Solana ETF Filing",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7fdf1d043395f122565f43cef1e324e646d54303-1792x1024.webp",
@@ -170,7 +180,7 @@
           "description": "Users can tokenize and trade ‘.com’ domains via Unstoppable Marketplace.",
           "link": "https://thedefiant.io/news/nfts-and-web3/unstoppable-domains-launches-marketplace-supporting-com-tokenization",
           "publishedOn": "2024-06-26T16:00:00.000Z",
-          "wordCount": 1422,
+          "wordCount": 1401,
           "title": "Unstoppable Domains Launches Marketplace Supporting ‘.com’ Tokenization",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/df0c701e2eb59f4726283dc1ac582975096234fd-1792x1024.webp",
@@ -225,7 +235,7 @@
           "description": "Analysts predict that spot Ethereum ETFs will attract $15 billion in net inflows within 18 months of their U",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/spot-ethereum-etfs-expected-to-attract-15-billion-net-inflows-18-months",
           "publishedOn": "2024-06-26T13:21:43.000Z",
-          "wordCount": 990,
+          "wordCount": 991,
           "title": "Spot Ethereum ETFs Expected to Attract $15 Billion in Net Inflows Within 18 Months",
           "imageUrl": null
         },
@@ -310,7 +320,7 @@
           "description": "VanEck, an asset management company, announced that it will waive fees for its potential spot Ethereum ETF initially",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-to-waive-fees-ethereum-etf-until-2025-or-1-5b-assets-0-2-fee-to-follow",
           "publishedOn": "2024-06-26T08:57:23.000Z",
-          "wordCount": 1096,
+          "wordCount": 1097,
           "title": "VanEck to Waive Fees for Ethereum ETF Until 2025 or $1.5B in Assets; 0.2% Fee to Follow",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3695dd72a76792351b47a771d639311fd1d24399-1920x1080.jpg",
@@ -350,7 +360,7 @@
           "description": "The 'Grails: Property from an Iconic Digital Art Collection Part V' auction at Sotheby's has concluded with remarkable success",
           "link": "https://thedefiant.io/news/nfts-and-web3/sotheby-s-grails-auction-42-lots-sold-656000-sales",
           "publishedOn": "2024-06-25T19:05:53.000Z",
-          "wordCount": 1167,
+          "wordCount": 1146,
           "title": "Sotheby's 'Grails' Auction: 42 Lots Sold, $656,000 in Sales",
           "imageUrl": null
         },
@@ -385,7 +395,7 @@
           "description": "Nubank, the largest fintech bank in Latin America and a Brazilian bank owned by Warren Buffett, has partnered with Lightspark to integrate the Bitcoin Lightning Network and Universal Money Addresses (UMA) into its platform",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/warren-buffett-owned-nubank-partners-lightspark-to-integrate-bitcoin-lightning",
           "publishedOn": "2024-06-25T17:23:45.000Z",
-          "wordCount": 1155,
+          "wordCount": 1156,
           "title": "Warren Buffett-Owned Nubank Partners with Lightspark to Integrate Bitcoin Lightning Network for 100 Million Customers",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a05fe546833b7266c0649e876e01f606e90ab850-1440x760.jpg",
@@ -440,7 +450,7 @@
           "description": "Cuban has already sold 14 NFTs for $38,500 in the past two days.",
           "link": "https://thedefiant.io/news/nfts-and-web3/mark-cuban-tries-to-offload-usd100k-in-nfts",
           "publishedOn": "2024-06-25T14:21:00.000Z",
-          "wordCount": 1820,
+          "wordCount": 1799,
           "title": "Mark Cuban Wants To Offload $100K In NFTs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5ac472db587000910e2729fa213b00c5208f6c3c-1792x1024.webp",
@@ -485,7 +495,7 @@
           "description": "Bitcoin payments app Strike has officially launched in the UK, expanding its operations to over 100 countries and territories",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bitcoin-payments-app-strike-lightning-feature-launches-uk-expands-globally",
           "publishedOn": "2024-06-25T13:12:03.000Z",
-          "wordCount": 967,
+          "wordCount": 968,
           "title": "Bitcoin payments app Strike with lightning feature launches in UK, expands globally",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/874a21aae3be2f651034d5f8fa9101c722ead8b9-1920x1080.jpg",
@@ -695,7 +705,7 @@
           "description": "The proposed Solana Fund would provide exposure to SOL staking yields.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/3iq-submits-prospectus-for-solana-etp-in-canada",
           "publishedOn": "2024-06-21T10:56:00.000Z",
-          "wordCount": 2030,
+          "wordCount": 2031,
           "title": "3iQ Submits Prospectus For Solana ETP in Canada",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/91be4e4a8e7522e2e762cc2fb474a43fc04cd0e0-1792x1024.webp",
@@ -725,7 +735,7 @@
           "description": "Resella will comprise a centralized NFT marketplace supporting payments in the form of Japanese Yen.",
           "link": "https://thedefiant.io/news/nfts-and-web3/konami-taps-avalanche-for-yen-based-nft-marketplace-resella",
           "publishedOn": "2024-06-20T15:06:00.000Z",
-          "wordCount": 1437,
+          "wordCount": 1416,
           "title": "Konami Taps Avalanche For Yen-Based NFT Marketplace 'Resella'",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/aac901d34dc9c7a0a6425f4da82bc37a0157645d-1792x1024.png",
@@ -905,7 +915,7 @@
           "description": "APhone’s AppNest store won’t charge fees to developers.",
           "link": "https://thedefiant.io/news/nfts-and-web3/aphone-launches-web3-app-store-to-compete-with-apple-and-google",
           "publishedOn": "2024-06-19T13:00:00.000Z",
-          "wordCount": 1745,
+          "wordCount": 1724,
           "title": "APhone Launches Web3 App Store To Compete With Apple and Google",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/86367f75605fcce4c3f5e617ef647d49f3bf8fd1-1792x1024.webp",
@@ -965,7 +975,7 @@
           "description": "Major liquidity providers have pulled their bids ahead of next week’s Blast token launch.",
           "link": "https://thedefiant.io/news/nfts-and-web3/ethereum-nfts-crater-as-blur-incentives-wind-down",
           "publishedOn": "2024-06-18T20:12:03.000Z",
-          "wordCount": 1410,
+          "wordCount": 1389,
           "title": "Ethereum NFTs Crater as Blur Incentives Wind Down",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4d65334c1c1ec79a20be09e5c97abd975b3ca50f-1792x1024.webp",
@@ -1115,7 +1125,7 @@
           "description": "The lawsuit shows decentralized organizations increasingly need legal structures to operate in the offchain world.",
           "link": "https://thedefiant.io/news/nfts-and-web3/pleasrdao-suing-martin-shkreli-over-ip-rights-is-a-sign-of-a-maturing-ecosystem",
           "publishedOn": "2024-06-17T16:38:10.000Z",
-          "wordCount": 2984,
+          "wordCount": 2963,
           "title": "PleasrDAO Suing Martin Shkreli Over IP Rights Is a Sign of a Maturing Ecosystem",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cb61ee355fcb4b8c1ab9a2378ba9ce42945c4f09-1792x1024.png",
@@ -1232,7 +1242,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/polkadot-community-backs-jam-overhaul",
           "author": "Samuel Haig",
-          "description": "Polkadot plans to move away from its parachain architecture",
+          "description": "Polkadot governance has approved a radical overhaul to the Layer 0 network's architecture in the form of the JAM upgrade to its base layer Relay Chain.",
           "link": "https://thedefiant.io/news/blockchains/polkadot-community-backs-jam-overhaul",
           "publishedOn": "2024-06-14T12:07:00.000Z",
           "wordCount": 1702,
@@ -1247,7 +1257,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/insider-accused-of-perpetrating-holograph-exploit-tanking-hlg-by-50",
           "author": "Mehab Qureshi",
-          "description": "Holograph is latest web3 project that appears to have been attacked by one of its own team members.",
+          "description": "Analysts believe the exploit may have been perpetrated by a “rogue developer.”",
           "link": "https://thedefiant.io/news/hacks/insider-accused-of-perpetrating-holograph-exploit-tanking-hlg-by-50",
           "publishedOn": "2024-06-14T10:27:00.000Z",
           "wordCount": 1748,
@@ -1460,7 +1470,7 @@
           "description": "The bank’s 60 million customers can now buy BTC and ETH through the firm’s Ion app.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/brazil-s-itau-bank-expands-bitcoin-and-ethereum-trading-services",
           "publishedOn": "2024-06-12T17:48:11.000Z",
-          "wordCount": 1466,
+          "wordCount": 1467,
           "title": "Brazil’s Itau Bank Expands Bitcoin and Ethereum Trading Services",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/51a5222451f86c0cbb58938a772d01a40259fef9-1792x1024.webp",
@@ -1483,21 +1493,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cb7558bd036f6d97d49cf60c11aea4cc41124980-640x480.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/consensys-eyes-lido-s-lunch-with-no-minimum-pooled-staking",
-          "author": "Samuel Haig",
-          "description": "Consensys is targeting the liquid staking sector with its MetaMask Pooled Staking service.",
-          "link": "https://thedefiant.io/news/defi/consensys-eyes-lido-s-lunch-with-no-minimum-pooled-staking",
-          "publishedOn": "2024-06-12T12:20:00.000Z",
-          "wordCount": 1760,
-          "title": "Consensys Eyes Lido’s Lunch With No-Minimum Pooled Staking",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d26b131c56ca59343a5f936231afe76a5e82ca7-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0d26b131c56ca59343a5f936231afe76a5e82ca7-1792x1024.webp"
         }
       ]
     },
