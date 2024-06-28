@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-28T10:15:05.239Z</id>
+    <id>urn:2024-06-28T11:12:31.027Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-28T10:15:05.239Z</updated>
+    <updated>2024-06-28T11:12:31.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Yei Finance Pushes Sei Network TVL Above $60 Million]]></title>
+        <id>https://thedefiant.io/news/defi/yei-finance-pushes-sei-network-tvl-above-usd60-million</id>
+        <link href="https://thedefiant.io/news/defi/yei-finance-pushes-sei-network-tvl-above-usd60-million"/>
+        <updated>2024-06-28T10:59:46.000Z</updated>
+        <summary type="html"><![CDATA[The Sei-based money market is incentivizing lenders with SEI, USDT and USDC rewards that kicked off on June 24.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manta-Based MUSD Stablecoin Leverages BlackRock’s BUIDL For Backing]]></title>
+        <id>https://thedefiant.io/news/defi/manta-based-musd-stablecoin-leverages-blackrock-s-buidl-for-backing</id>
+        <link href="https://thedefiant.io/news/defi/manta-based-musd-stablecoin-leverages-blackrock-s-buidl-for-backing"/>
+        <updated>2024-06-28T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[MUSD holders will earn monthly yields derived from BUIDL’s investments in U.S. treasuries.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bolivia Lifts Ban on Bitcoin and Crypto Trading and Payments]]></title>
         <id>https://thedefiant.io/news/regulation/bolivia-lifts-ban-on-bitcoin-crypto-trading-payments</id>
@@ -991,26 +1011,6 @@
         <link href="https://thedefiant.io/news/markets/gensler-predicts-ethereum-etfs-approval-by-end-of-summer"/>
         <updated>2024-06-13T15:37:04.000Z</updated>
         <summary type="html"><![CDATA[Crypto markets tumbled after yesterday’s Fed statement revealed that policymakers now expect a single rate cut this year.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum Plots Stage 2 Decentralization With Permissionless Transaction Validation]]></title>
-        <id>https://thedefiant.io/news/blockchains/arbitrum-plots-stage-2-decentralization-with-permissionless-transaction-validation</id>
-        <link href="https://thedefiant.io/news/blockchains/arbitrum-plots-stage-2-decentralization-with-permissionless-transaction-validation"/>
-        <updated>2024-06-13T14:02:00.000Z</updated>
-        <summary type="html"><![CDATA[The Arbitrum community is greenlighting the introduction of its BoLD dispute resolution protocol.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve Finance Founder Michael Egorov Suffers Massive Liquidations]]></title>
-        <id>https://thedefiant.io/news/defi/curve-finance-founder-michael-egorov-suffers-massive-liquidations</id>
-        <link href="https://thedefiant.io/news/defi/curve-finance-founder-michael-egorov-suffers-massive-liquidations"/>
-        <updated>2024-06-13T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Egorov’s CRV holdings have dropped to $34M after previously taking out nearly $100M in stablecoins loans backed by $141M worth of CRV.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
