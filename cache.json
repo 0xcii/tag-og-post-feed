@@ -45,6 +45,46 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/bolivia-lifts-ban-on-bitcoin-crypto-trading-payments",
+          "author": "DeepNewz",
+          "description": "Bolivia's Central Bank has lifted the ban on Bitcoin and cryptocurrency trading and payments, making it legal for financial entities to use cryptocurrencies",
+          "link": "https://thedefiant.io/news/regulation/bolivia-lifts-ban-on-bitcoin-crypto-trading-payments",
+          "publishedOn": "2024-06-28T05:50:00.000Z",
+          "wordCount": 977,
+          "title": "Bolivia Lifts Ban on Bitcoin and Crypto Trading and Payments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/chainlink-data-streams-launch-on-avalanche-mainnet-enhancing-defi-gmx-v2",
+          "author": "DeepNewz",
+          "description": "Chainlink Data Streams have been launched on the Avalanche mainnet, with GMX V2 as the launch partner.",
+          "link": "https://thedefiant.io/news/defi/chainlink-data-streams-launch-on-avalanche-mainnet-enhancing-defi-gmx-v2",
+          "publishedOn": "2024-06-27T23:27:59.000Z",
+          "wordCount": 986,
+          "title": "Chainlink Data Streams Launch on Avalanche Mainnet, Enhancing DeFi with GMX V2",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c93bb77d20e1f8f2b5a00fcb19ec4c8d2fedcb14-1200x799.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c93bb77d20e1f8f2b5a00fcb19ec4c8d2fedcb14-1200x799.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/coinbase-partners-stripe-to-enable-usdc-transfers-on-base-platform",
+          "author": "DeepNewz",
+          "description": "On June 27, 2024, Coinbase announced a partnership with Stripe to enable USDC transfers on the Base platform.",
+          "link": "https://thedefiant.io/news/cefi/coinbase-partners-stripe-to-enable-usdc-transfers-on-base-platform",
+          "publishedOn": "2024-06-27T21:13:58.000Z",
+          "wordCount": 985,
+          "title": "Coinbase Partners with Stripe to Enable USDC Transfers on Base Platform",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ab3e5d1dc4fadbd720159c55003b2cb55ddd521e-150x150.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ab3e5d1dc4fadbd720159c55003b2cb55ddd521e-150x150.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/opensea-claws-back-market-share-from-blur",
           "author": "Squiffs",
           "description": "The former NFT trading leader flipped Blur in volume and sales after incentives diminished.",
@@ -1237,7 +1277,7 @@
         {
           "id": "https://thedefiant.io/news/markets/nearly-half-of-airdropped-zksync-tokens-claimed-in-just-two-hours",
           "author": "Samuel Haig",
-          "description": "ZkSync Era users have already claimed close to half of their airdrop allocations, with the freshly launched token trading at a $927 million market cap.",
+          "description": "The newly launched ZK token trades at a more than $900M TVL after suffering a 20% drawdown.",
           "link": "https://thedefiant.io/news/markets/nearly-half-of-airdropped-zksync-tokens-claimed-in-just-two-hours",
           "publishedOn": "2024-06-17T11:45:00.000Z",
           "wordCount": 1861,
@@ -1443,51 +1483,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ed71b3e61cfec438a1e92afe67b175c40509b673-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/uwu-lend-suffers-second-exploit-in-one-week-bringing-losses-usd23-million",
-          "author": "Mehab Qureshi",
-          "description": "The protocol lost an additional $3.72 million after getting hacked for the second time in three days.",
-          "link": "https://thedefiant.io/news/hacks/uwu-lend-suffers-second-exploit-in-one-week-bringing-losses-usd23-million",
-          "publishedOn": "2024-06-13T09:43:00.000Z",
-          "wordCount": 1462,
-          "title": "UwU Lend Suffers Second Exploit In One Week, Bringing Losses To $23 Million",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2e2a1215716206c06a021addea16446731aa3bb8-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2e2a1215716206c06a021addea16446731aa3bb8-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/sushiswap-creates-sushi-labs-council-and-multi-token-model",
-          "author": "Pedro Solimano",
-          "description": "Sushi Labs will “drive fast-to-market” product implementations.",
-          "link": "https://thedefiant.io/news/defi/sushiswap-creates-sushi-labs-council-and-multi-token-model",
-          "publishedOn": "2024-06-12T21:13:10.000Z",
-          "wordCount": 1635,
-          "title": "SushiSwap Creates Sushi Labs Council and Multi-Token Model",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/518c2fd9d508ba980743c3a23c85b6fde5800bc1-828x466.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/518c2fd9d508ba980743c3a23c85b6fde5800bc1-828x466.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/terraform-labs-settles-with-sec-for-usd4-4-billion",
-          "author": "Pedro Solimano",
-          "description": "The agency asked the federal judge to approve the settlement today.",
-          "link": "https://thedefiant.io/news/regulation/terraform-labs-settles-with-sec-for-usd4-4-billion",
-          "publishedOn": "2024-06-12T20:52:25.000Z",
-          "wordCount": 1538,
-          "title": "Terraform Labs Settles With SEC For $4.4 Billion",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4bcd1f9fb47e92814011eb0441106d1be0430dc4-828x466.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4bcd1f9fb47e92814011eb0441106d1be0430dc4-828x466.png"
         }
       ]
     },
