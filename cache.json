@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/sec-expected-to-approve-ethereum-etfs-blackrock-grayscale-await-july-8-decision",
+          "author": "DeepNewz",
+          "description": "BlackRock and Grayscale Await July 8 Decision.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/sec-expected-to-approve-ethereum-etfs-blackrock-grayscale-await-july-8-decision",
+          "publishedOn": "2024-06-29T14:11:12.000Z",
+          "wordCount": 951,
+          "title": "SEC Expected to Approve Ethereum ETFs",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0e607f2b7ce51f8105e39110dd57ee7775e246b6-1920x1080.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0e607f2b7ce51f8105e39110dd57ee7775e246b6-1920x1080.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/futureverse-animoca-brands-announce-strategic-partnership-metaverse-blockchain",
           "author": "DeepNewz",
           "description": "Futureverse has announced a strategic partnership with Animoca Brands to enhance their metaverse and blockchain technology.",
@@ -1217,7 +1232,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/consensys-says-sec-is-ending-investigation-into-whether-eth-is-a-security",
           "author": "Samuel Haig",
-          "description": "The Ethereum community is celebrating news that the SEC is ending its investigation into whether ETH is a security asset.",
+          "description": "Consensys sued the SEC in pursuit of a court ruling establishing that Ether is a commodity asset and not a security in April.",
           "link": "https://thedefiant.io/news/regulation/consensys-says-sec-is-ending-investigation-into-whether-eth-is-a-security",
           "publishedOn": "2024-06-19T10:27:00.000Z",
           "wordCount": 2297,
@@ -1453,21 +1468,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1d76d109272297862aebadd08c9af5a72db0ec9d-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/defi-founders-using-defi-to-buy-mansions-is-not-the-problem",
-          "author": "Camila Russo",
-          "description": "But something's off with lenders' parameters if a single entity can borrow against 30% of a token's market cap.",
-          "link": "https://thedefiant.io/news/research-and-opinion/defi-founders-using-defi-to-buy-mansions-is-not-the-problem",
-          "publishedOn": "2024-06-14T17:37:35.000Z",
-          "wordCount": 2279,
-          "title": "DeFi Founders Using DeFi to Buy Mansions is Not the Problem",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7c268cd5b10122266748ccf979e952e4be3649ea-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7c268cd5b10122266748ccf979e952e4be3649ea-1792x1024.png"
         }
       ]
     },
