@@ -45,6 +45,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aptos-foundation-proposes-first-non-evm-deployment-aave-v3-on-aptos-mainnet",
+          "author": "DeepNewz",
+          "description": "The Aptos Foundation has introduced a proposal to deploy Aave V3 on the Aptos Mainnet.",
+          "link": "https://thedefiant.io/news/defi/aptos-foundation-proposes-first-non-evm-deployment-aave-v3-on-aptos-mainnet",
+          "publishedOn": "2024-07-01T17:51:33.000Z",
+          "wordCount": 1013,
+          "title": "Aptos Foundation Proposes First Non-EVM Deployment of Aave V3 on Aptos Mainnet",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-anticipated-ethereum-etf-approval",
           "author": "Mehab Qureshi",
           "description": "Digital asset investment products suffered a third consecutive week of outflows.",
@@ -1438,21 +1448,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/570b00d36da5508ae7938973f401d9179b57a937-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/is-hamster-kombat-onboarding-the-masses-into-defi",
-          "author": "Squiffs",
-          "description": "The TON-based game claims to have over 140 million users competing for its upcoming airdrop.",
-          "link": "https://thedefiant.io/news/defi/is-hamster-kombat-onboarding-the-masses-into-defi",
-          "publishedOn": "2024-06-18T05:39:51.000Z",
-          "wordCount": 1594,
-          "title": "Is Hamster Kombat Onboarding the Masses Into DeFi?",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5315a43114646b0ec9d673722f1b7a4c31bb61f1-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5315a43114646b0ec9d673722f1b7a4c31bb61f1-1792x1024.webp"
         }
       ]
     },

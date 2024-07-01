@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-01T18:19:04.280Z</id>
+    <id>urn:2024-07-01T19:12:46.605Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-01T18:19:04.280Z</updated>
+    <updated>2024-07-01T19:12:46.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aptos Foundation Proposes First Non-EVM Deployment of Aave V3 on Aptos Mainnet]]></title>
+        <id>https://thedefiant.io/news/defi/aptos-foundation-proposes-first-non-evm-deployment-aave-v3-on-aptos-mainnet</id>
+        <link href="https://thedefiant.io/news/defi/aptos-foundation-proposes-first-non-evm-deployment-aave-v3-on-aptos-mainnet"/>
+        <updated>2024-07-01T17:51:33.000Z</updated>
+        <summary type="html"><![CDATA[The Aptos Foundation has introduced a proposal to deploy Aave V3 on the Aptos Mainnet.]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Rally Ahead of Anticipated Ethereum ETF Approval]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-rally-ahead-of-anticipated-ethereum-etf-approval</id>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Tether launched a gold-backed USD stablecoin demonstrating its forthcoming “Tethered asset” platform, Alloy.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Hamster Kombat Onboarding the Masses Into DeFi?]]></title>
-        <id>https://thedefiant.io/news/defi/is-hamster-kombat-onboarding-the-masses-into-defi</id>
-        <link href="https://thedefiant.io/news/defi/is-hamster-kombat-onboarding-the-masses-into-defi"/>
-        <updated>2024-06-18T05:39:51.000Z</updated>
-        <summary type="html"><![CDATA[The TON-based game claims to have over 140 million users competing for its upcoming airdrop.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
