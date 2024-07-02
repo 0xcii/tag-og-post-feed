@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-01T23:14:13.940Z</id>
+    <id>urn:2024-07-02T01:04:33.499Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-01T23:14:13.940Z</updated>
+    <updated>2024-07-02T01:04:33.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zoom Out]]></title>
+        <id>https://medium.com/p/c343750dd3bd</id>
+        <link href="https://cryptohayes.medium.com/zoom-out-c343750dd3bd?source=rss-2f6e06954878------2"/>
+        <updated>2024-07-01T23:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Some of y’all be like:]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mantle Launches Incentives Campaign for its Liquid Staking Protocol]]></title>
         <id>https://thedefiant.io/news/defi/mantle-launches-incentives-campaign-for-its-liquid-staking-protocol</id>
