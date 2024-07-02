@@ -55,6 +55,41 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-drop-as-powell-holds-firm-on-interest-rates",
+          "author": "Mehab Qureshi",
+          "description": "Bitcoin dropped 2%, and Ethereum fell 1.5%, while Solana and Polkadot eked out minor gains.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-drop-as-powell-holds-firm-on-interest-rates",
+          "publishedOn": "2024-07-02T17:08:52.000Z",
+          "wordCount": 1419,
+          "title": "Crypto Markets Drop as Powell Holds Firm on Interest Rates",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8581c5c1d93af5d732dc9ec728e8b0777175e043-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8581c5c1d93af5d732dc9ec728e8b0777175e043-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/pumpdotfun-surpasses-50m-revenue-six-months-outperforms-ethereum",
+          "author": "DeepNewz",
+          "description": "Pumpdotfun has achieved a significant milestone by surpassing $50 million in cumulative revenue within just six months of its launch.",
+          "link": "https://thedefiant.io/news/defi/pumpdotfun-surpasses-50m-revenue-six-months-outperforms-ethereum",
+          "publishedOn": "2024-07-02T16:57:53.000Z",
+          "wordCount": 923,
+          "title": "Pumpdotfun Surpasses $50M Revenue in Six Months, Outperforms Ethereum",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-nft-floor-price-surges-to-12-25-eth-surpasses-bored-ape-yacht-108",
+          "author": "DeepNewz",
+          "description": "Pudgy Penguins, a prominent NFT collection, has experienced a significant surge in activity and value.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-nft-floor-price-surges-to-12-25-eth-surpasses-bored-ape-yacht-108",
+          "publishedOn": "2024-07-02T16:35:56.000Z",
+          "wordCount": 1347,
+          "title": "Pudgy Penguins NFT Floor Price Surges to 12.25 ETH, Surpasses Bored Ape Yacht Club with 108.34K ETH Market Cap",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/defi/aave-launches-gho-stablecoin-on-arbitrum",
           "author": "Samuel Haig",
           "description": "The move marks the first deployment of GHO's cross-chain expansion.",
@@ -1162,7 +1197,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/layerzero-s-airdrop-drives-record-arbitrum-fee-revenue",
           "author": "Mehab Qureshi",
-          "description": "Community members have criticized the mandatory Protocol Guild donations associated with claiming ZRO tokens.",
+          "description": "Both Arbitrum's fee revenue and the throughput of Ethereum's ecosystem posted all-time highs following LayerZero's ZRO airdrop.",
           "link": "https://thedefiant.io/news/blockchains/layerzero-s-airdrop-drives-record-arbitrum-fee-revenue",
           "publishedOn": "2024-06-21T14:38:00.000Z",
           "wordCount": 1962,
@@ -1413,51 +1448,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/86367f75605fcce4c3f5e617ef647d49f3bf8fd1-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/layerzero-announces-1-28-million-wallets-are-eligible-airdrop",
-          "author": "Mehab Qureshi",
-          "description": "Nearly 24% of the token’s supply will be distributed to LayerZero users and developers.",
-          "link": "https://thedefiant.io/news/defi/layerzero-announces-1-28-million-wallets-are-eligible-airdrop",
-          "publishedOn": "2024-06-19T12:13:00.000Z",
-          "wordCount": 1837,
-          "title": "LayerZero Announces 1.28 Million Wallets Are Eligible For Airdrop",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1ca3acc36b747d8e5376244f4e25bf8e3d4709aa-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1ca3acc36b747d8e5376244f4e25bf8e3d4709aa-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/moonwell-launches-two-new-vaults-on-morpho-blue",
-          "author": "Pedro Solimano",
-          "description": "The largest lending protocol on Base is adding WETH and USDC lending vaults.",
-          "link": "https://thedefiant.io/news/defi/moonwell-launches-two-new-vaults-on-morpho-blue",
-          "publishedOn": "2024-06-19T10:51:04.000Z",
-          "wordCount": 1700,
-          "title": "Moonwell Launches Two New Vaults On Morpho Blue",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f1ce391d59bd6ce435d3f988725e3f1437317323-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f1ce391d59bd6ce435d3f988725e3f1437317323-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/consensys-says-sec-is-ending-investigation-into-whether-eth-is-a-security",
-          "author": "Samuel Haig",
-          "description": "Consensys sued the SEC in pursuit of a court ruling establishing that Ether is a commodity asset and not a security in April.",
-          "link": "https://thedefiant.io/news/regulation/consensys-says-sec-is-ending-investigation-into-whether-eth-is-a-security",
-          "publishedOn": "2024-06-19T10:27:00.000Z",
-          "wordCount": 2307,
-          "title": "Consensys Says SEC Is Ending Investigation Into Whether ETH Is A Security",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/111796206fb7a14114a54758e70f495ca3cefe32-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/111796206fb7a14114a54758e70f495ca3cefe32-1792x1024.webp"
         }
       ]
     },
