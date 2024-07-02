@@ -55,6 +55,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/ethereum-etf-approval-delayed-until-july-8",
+          "author": "Mehab Qureshi",
+          "description": "Until last week, analysts expected Ethereum spot ETFs to be approved by July 2.",
+          "link": "https://thedefiant.io/news/markets/ethereum-etf-approval-delayed-until-july-8",
+          "publishedOn": "2024-07-02T17:47:18.000Z",
+          "wordCount": 1340,
+          "title": "Ethereum ETF Approval Delayed Until July 8",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/89eebf4038529d91f89d89f3b0f19097705ac56f-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/89eebf4038529d91f89d89f3b0f19097705ac56f-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/jupiterexchange-unveils-q3-roadmap-j4j-principle-cloud-token-launch-60m-staking",
+          "author": "DeepNewz",
+          "description": "JupiterExchange has unveiled its Q3 roadmap, which includes significant developments over the next two months.",
+          "link": "https://thedefiant.io/news/defi/jupiterexchange-unveils-q3-roadmap-j4j-principle-cloud-token-launch-60m-staking",
+          "publishedOn": "2024-07-02T17:40:59.000Z",
+          "wordCount": 1094,
+          "title": "JupiterExchange Unveils Q3 Roadmap with J4J Principle, $CLOUD Token Launch, and $60M in Staking Rewards",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9ab5651fbdb54c6ba0b7f05235ff72b4b83ef189-1500x1000.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9ab5651fbdb54c6ba0b7f05235ff72b4b83ef189-1500x1000.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sentient-labs-raises-85-million-seed-funding-led-founders-fund-pantera-capital",
+          "author": "DeepNewz",
+          "description": "Sentient Labs, an open-source AI development platform, has raised $85 million in a seed funding round co-led by Peter Thiel's Founders Fund, Pantera Capital, and Framework Ventures, with contributions from MH Ventures and Arrington Capital.",
+          "link": "https://thedefiant.io/news/defi/sentient-labs-raises-85-million-seed-funding-led-founders-fund-pantera-capital",
+          "publishedOn": "2024-07-02T17:40:54.000Z",
+          "wordCount": 1212,
+          "title": "Sentient Labs Raises $85 Million in Seed Funding Led by Founders Fund, Pantera Capital, and Framework Ventures",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1a3b300c79df755deb7a90fe991afe1fabb057c7-1024x683.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1a3b300c79df755deb7a90fe991afe1fabb057c7-1024x683.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-drop-as-powell-holds-firm-on-interest-rates",
           "author": "Mehab Qureshi",
           "description": "Bitcoin dropped 2%, and Ethereum fell 1.5%, while Solana and Polkadot eked out minor gains.",
@@ -1197,7 +1242,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/layerzero-s-airdrop-drives-record-arbitrum-fee-revenue",
           "author": "Mehab Qureshi",
-          "description": "Both Arbitrum's fee revenue and the throughput of Ethereum's ecosystem posted all-time highs following LayerZero's ZRO airdrop.",
+          "description": "Community members have criticized the mandatory Protocol Guild donations associated with claiming ZRO tokens.",
           "link": "https://thedefiant.io/news/blockchains/layerzero-s-airdrop-drives-record-arbitrum-fee-revenue",
           "publishedOn": "2024-06-21T14:38:00.000Z",
           "wordCount": 1962,
@@ -1403,51 +1448,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b28166d132be86abcf96979e5ea21f8694570836-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/people/ethos-or-mass-adoption-cant-have-both-anthony-pompliano",
-          "author": "Jack Dunham",
-          "description": "Anthony Pompliano is an entrepreneur and investor, currently leading Pomp Investments. He's also the co-founder of Morgan Creek Digital, a digital asset management firm. This interview was recorded during Consensus 2024 in Austin.",
-          "link": "https://thedefiant.io/podcasts-and-videos/people/ethos-or-mass-adoption-cant-have-both-anthony-pompliano",
-          "publishedOn": "2024-06-19T15:31:00.000Z",
-          "wordCount": 1168,
-          "title": "\"Ethos or Mass Adoption. Can't Have Both\" | Anthony Pompliano",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ea41e1793f61dc263f7a15186977c4c51e922429-640x360.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ea41e1793f61dc263f7a15186977c4c51e922429-640x360.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/love-loss-protest-and-buddha-digging-through-ethereum-s-on-chain-messages",
-          "author": "Samuel Haig",
-          "description": "The trove of 1.5 million messages posted to the Ethereum blockchain offers a vibrant cross-section of life on-chain.",
-          "link": "https://thedefiant.io/news/blockchains/love-loss-protest-and-buddha-digging-through-ethereum-s-on-chain-messages",
-          "publishedOn": "2024-06-19T15:30:00.000Z",
-          "wordCount": 3554,
-          "title": "Love, Loss, and Protest: Digging Through Ethereum’s 1.5M On-Chain Messages",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1be060a81d2daffcd058dffded29b991732811a4-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1be060a81d2daffcd058dffded29b991732811a4-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/aphone-launches-web3-app-store-to-compete-with-apple-and-google",
-          "author": "Mehab Qureshi",
-          "description": "APhone’s AppNest store won’t charge fees to developers.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/aphone-launches-web3-app-store-to-compete-with-apple-and-google",
-          "publishedOn": "2024-06-19T13:00:00.000Z",
-          "wordCount": 1738,
-          "title": "APhone Launches Web3 App Store To Compete With Apple and Google",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/86367f75605fcce4c3f5e617ef647d49f3bf8fd1-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/86367f75605fcce4c3f5e617ef647d49f3bf8fd1-1792x1024.webp"
         }
       ]
     },

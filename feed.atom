@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-02T17:12:59.215Z</id>
+    <id>urn:2024-07-02T18:19:01.879Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-02T17:12:59.215Z</updated>
+    <updated>2024-07-02T18:19:01.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum ETF Approval Delayed Until July 8]]></title>
+        <id>https://thedefiant.io/news/markets/ethereum-etf-approval-delayed-until-july-8</id>
+        <link href="https://thedefiant.io/news/markets/ethereum-etf-approval-delayed-until-july-8"/>
+        <updated>2024-07-02T17:47:18.000Z</updated>
+        <summary type="html"><![CDATA[Until last week, analysts expected Ethereum spot ETFs to be approved by July 2.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JupiterExchange Unveils Q3 Roadmap with J4J Principle, $CLOUD Token Launch, and $60M in Staking Rewards]]></title>
+        <id>https://thedefiant.io/news/defi/jupiterexchange-unveils-q3-roadmap-j4j-principle-cloud-token-launch-60m-staking</id>
+        <link href="https://thedefiant.io/news/defi/jupiterexchange-unveils-q3-roadmap-j4j-principle-cloud-token-launch-60m-staking"/>
+        <updated>2024-07-02T17:40:59.000Z</updated>
+        <summary type="html"><![CDATA[JupiterExchange has unveiled its Q3 roadmap, which includes significant developments over the next two months.]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentient Labs Raises $85 Million in Seed Funding Led by Founders Fund, Pantera Capital, and Framework Ventures]]></title>
+        <id>https://thedefiant.io/news/defi/sentient-labs-raises-85-million-seed-funding-led-founders-fund-pantera-capital</id>
+        <link href="https://thedefiant.io/news/defi/sentient-labs-raises-85-million-seed-funding-led-founders-fund-pantera-capital"/>
+        <updated>2024-07-02T17:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Sentient Labs, an open-source AI development platform, has raised $85 million in a seed funding round co-led by Peter Thiel's Founders Fund, Pantera Capital, and Framework Ventures, with contributions from MH Ventures and Arrington Capital.]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Drop as Powell Holds Firm on Interest Rates]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-drop-as-powell-holds-firm-on-interest-rates</id>
@@ -850,7 +880,7 @@
         <id>https://thedefiant.io/news/blockchains/layerzero-s-airdrop-drives-record-arbitrum-fee-revenue</id>
         <link href="https://thedefiant.io/news/blockchains/layerzero-s-airdrop-drives-record-arbitrum-fee-revenue"/>
         <updated>2024-06-21T14:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Both Arbitrum's fee revenue and the throughput of Ethereum's ecosystem posted all-time highs following LayerZero's ZRO airdrop.]]></summary>
+        <summary type="html"><![CDATA[Community members have criticized the mandatory Protocol Guild donations associated with claiming ZRO tokens.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,36 +1023,6 @@
         <summary type="html"><![CDATA[Fueled by claims that the token was backed by Trump’s son, Barron, $DJT soared to a market cap of $400 million.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Ethos or Mass Adoption. Can't Have Both" | Anthony Pompliano]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/people/ethos-or-mass-adoption-cant-have-both-anthony-pompliano</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/people/ethos-or-mass-adoption-cant-have-both-anthony-pompliano"/>
-        <updated>2024-06-19T15:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Anthony Pompliano is an entrepreneur and investor, currently leading Pomp Investments. He's also the co-founder of Morgan Creek Digital, a digital asset management firm. This interview was recorded during Consensus 2024 in Austin.]]></summary>
-        <author>
-            <name>Jack Dunham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love, Loss, and Protest: Digging Through Ethereum’s 1.5M On-Chain Messages]]></title>
-        <id>https://thedefiant.io/news/blockchains/love-loss-protest-and-buddha-digging-through-ethereum-s-on-chain-messages</id>
-        <link href="https://thedefiant.io/news/blockchains/love-loss-protest-and-buddha-digging-through-ethereum-s-on-chain-messages"/>
-        <updated>2024-06-19T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The trove of 1.5 million messages posted to the Ethereum blockchain offers a vibrant cross-section of life on-chain.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APhone Launches Web3 App Store To Compete With Apple and Google]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/aphone-launches-web3-app-store-to-compete-with-apple-and-google</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/aphone-launches-web3-app-store-to-compete-with-apple-and-google"/>
-        <updated>2024-06-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[APhone’s AppNest store won’t charge fees to developers.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>
