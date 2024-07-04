@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-04T17:13:35.410Z</id>
+    <id>urn:2024-07-04T18:18:43.338Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-04T17:13:35.410Z</updated>
+    <updated>2024-07-04T18:18:43.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Flare Network Leverages LayerZero to Connect with 75 Blockchains]]></title>
+        <id>https://thedefiant.io/news/blockchains/flare-network-leverages-layerzero-to-connect-with-75-blockchains</id>
+        <link href="https://thedefiant.io/news/blockchains/flare-network-leverages-layerzero-to-connect-with-75-blockchains"/>
+        <updated>2024-07-04T18:12:29.000Z</updated>
+        <summary type="html"><![CDATA[The collaboration will broaden access to 50,000 decentralized apps hosted by Flare.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Bleed Amid Massive Liquidations]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-bleed-amid-massive-liquidations</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-bleed-amid-massive-liquidations"/>
+        <updated>2024-07-04T17:27:02.000Z</updated>
+        <summary type="html"><![CDATA[BTC dropped to $58,000 on fears that the German government is looking to sell billions worth of Bitcoin.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Symbiotic TVL Triples To $1B Within 24 Hours Of Raising Deposit Limits]]></title>
         <id>https://thedefiant.io/news/defi/symbiotic-tvl-triples-to-usd1b-within-24-hours-of-raising-deposit-limits</id>
@@ -376,7 +396,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Celebrates Court Dismissing SEC Claims That Secondary BNB Sales Are Securities]]></title>
+        <title type="html"><![CDATA[Crypto Celebrates Court Dismissing SEC Claims That Secondary BNB Sales Aren't Securities]]></title>
         <id>https://thedefiant.io/news/regulation/crypto-celebrates-court-dismissing-sec-claims-that-secondary-bnb-sales-are-securities</id>
         <link href="https://thedefiant.io/news/regulation/crypto-celebrates-court-dismissing-sec-claims-that-secondary-bnb-sales-are-securities"/>
         <updated>2024-07-01T12:54:00.000Z</updated>
@@ -850,7 +870,7 @@
         <id>https://thedefiant.io/news/people/the-crypto-community-effectively-freed-julian-assange-says-assangedao-lawyer</id>
         <link href="https://thedefiant.io/news/people/the-crypto-community-effectively-freed-julian-assange-says-assangedao-lawyer"/>
         <updated>2024-06-25T20:43:34.000Z</updated>
-        <summary type="html"><![CDATA[In a victory for freedom of information around the world, Julian Assange was released from Belmarsh prison, a high-security detention center in the U.K., early Wednesday June 24, and it’s in part thanks to donations from crypto holders.]]></summary>
+        <summary type="html"><![CDATA[Silke Noa, a founding member, said that the DAO estimates more than 11,000 ETH went to Assange’s defense and campaigning.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -993,26 +1013,6 @@
         <summary type="html"><![CDATA[A Solana cybersecurity researcher said  that the firm does the bare minimum when auditing protocols.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Plummet on Mt. Gox Repayment Fears]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-plummet-on-mt-gox-repayment-fears</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-plummet-on-mt-gox-repayment-fears"/>
-        <updated>2024-06-24T16:41:28.000Z</updated>
-        <summary type="html"><![CDATA[Over $313 million of leveraged positions were liquidated in the past 24 hours.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana's 'ZK Compression’ Scaling Solution Ignites Controversy]]></title>
-        <id>https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy</id>
-        <link href="https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy"/>
-        <updated>2024-06-24T14:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereans argue that ZK Compression is little more than a Layer 2.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>

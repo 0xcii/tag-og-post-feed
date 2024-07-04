@@ -55,6 +55,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/flare-network-leverages-layerzero-to-connect-with-75-blockchains",
+          "author": "Pedro Solimano",
+          "description": "The collaboration will broaden access to 50,000 decentralized apps hosted by Flare.",
+          "link": "https://thedefiant.io/news/blockchains/flare-network-leverages-layerzero-to-connect-with-75-blockchains",
+          "publishedOn": "2024-07-04T18:12:29.000Z",
+          "wordCount": 1172,
+          "title": "Flare Network Leverages LayerZero to Connect with 75 Blockchains",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2b9199db8538cce57f9bd68913ffc54a21c89729-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2b9199db8538cce57f9bd68913ffc54a21c89729-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-bleed-amid-massive-liquidations",
+          "author": "Mehab Qureshi",
+          "description": "BTC dropped to $58,000 on fears that the German government is looking to sell billions worth of Bitcoin.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-bleed-amid-massive-liquidations",
+          "publishedOn": "2024-07-04T17:27:02.000Z",
+          "wordCount": 1258,
+          "title": "Crypto Markets Bleed Amid Massive Liquidations",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/75dfea83832771bb56deda70e41a83484544ed81-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/75dfea83832771bb56deda70e41a83484544ed81-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/symbiotic-tvl-triples-to-usd1b-within-24-hours-of-raising-deposit-limits",
           "author": "Samuel Haig",
           "description": "Symbiotic has emerged as the second-largest restaking protocol within one month of launching.",
@@ -561,7 +591,7 @@
           "link": "https://thedefiant.io/news/regulation/crypto-celebrates-court-dismissing-sec-claims-that-secondary-bnb-sales-are-securities",
           "publishedOn": "2024-07-01T12:54:00.000Z",
           "wordCount": 2571,
-          "title": "Crypto Celebrates Court Dismissing SEC Claims That Secondary BNB Sales Are Securities",
+          "title": "Crypto Celebrates Court Dismissing SEC Claims That Secondary BNB Sales Aren't Securities",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e9fb76c079cadf270dd3cc386304c63ccdf1f0bb-1792x1024.webp",
             "length": "1000000",
@@ -1197,7 +1227,7 @@
         {
           "id": "https://thedefiant.io/news/people/the-crypto-community-effectively-freed-julian-assange-says-assangedao-lawyer",
           "author": "Pedro Solimano",
-          "description": "In a victory for freedom of information around the world, Julian Assange was released from Belmarsh prison, a high-security detention center in the U.K., early Wednesday June 24, and it’s in part thanks to donations from crypto holders.",
+          "description": "Silke Noa, a founding member, said that the DAO estimates more than 11,000 ETH went to Assange’s defense and campaigning.",
           "link": "https://thedefiant.io/news/people/the-crypto-community-effectively-freed-julian-assange-says-assangedao-lawyer",
           "publishedOn": "2024-06-25T20:43:34.000Z",
           "wordCount": 2711,
@@ -1403,36 +1433,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a6053b562121da8cac9ed8fe49b041357d3aeaa8-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-plummet-on-mt-gox-repayment-fears",
-          "author": "Mehab Qureshi",
-          "description": "Over $313 million of leveraged positions were liquidated in the past 24 hours.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-plummet-on-mt-gox-repayment-fears",
-          "publishedOn": "2024-06-24T16:41:28.000Z",
-          "wordCount": 1436,
-          "title": "Crypto Markets Plummet on Mt. Gox Repayment Fears",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1a68f84aef64482d0d7f8f65886b1a8c7386f423-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1a68f84aef64482d0d7f8f65886b1a8c7386f423-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy",
-          "author": "Mehab Qureshi",
-          "description": "Ethereans argue that ZK Compression is little more than a Layer 2.",
-          "link": "https://thedefiant.io/news/blockchains/zk-compression-scaling-on-solana-ignites-controversy",
-          "publishedOn": "2024-06-24T14:23:00.000Z",
-          "wordCount": 2051,
-          "title": "Solana's 'ZK Compression’ Scaling Solution Ignites Controversy",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6916837d56254930db205dd867e9412644767dcc-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6916837d56254930db205dd867e9412644767dcc-1792x1024.webp"
         }
       ]
     },
