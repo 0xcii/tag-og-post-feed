@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-05T16:17:30.096Z</id>
+    <id>urn:2024-07-05T17:13:05.134Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-05T16:17:30.096Z</updated>
+    <updated>2024-07-05T17:13:05.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Court Rules Two Obscure Altcoins Are Commodities]]></title>
+        <id>https://thedefiant.io/news/regulation/u-s-court-rules-two-obscure-altcoins-are-commodities</id>
+        <link href="https://thedefiant.io/news/regulation/u-s-court-rules-two-obscure-altcoins-are-commodities"/>
+        <updated>2024-07-05T17:11:00.000Z</updated>
+        <summary type="html"><![CDATA[The news followed a long-lasting dispute between the SEC and CFTC over when a cryptocurrency is a commodity or security.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Price Crashes To Four-Month Low As Mt. Gox Makes Initial Repayments]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-price-crashes-to-four-month-low-as-mt-gox-makes-initial-repayments</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/long-awaited-blast-token-drops-at-usd420m-market-cap</id>
         <link href="https://thedefiant.io/news/defi/long-awaited-blast-token-drops-at-usd420m-market-cap"/>
         <updated>2024-06-26T14:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Blast users can still earn points as part of its Phase 2 rewards campaign for the next four months.]]></summary>
+        <summary type="html"><![CDATA[The newly launched BLAST token is trading at a $405 million market cap and nearly $4 billion full-diluted valuation 30 minutes after launching.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Matt Gaetz’s bill seeks to amend the Internal Revenue Code of 1986.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum DAO Plans To Invest $29M Worth Of ARB Into On-Chain RWAs]]></title>
-        <id>https://thedefiant.io/news/defi/arbitrum-dao-plans-35m-arb-investment-into-on-chain-rwas</id>
-        <link href="https://thedefiant.io/news/defi/arbitrum-dao-plans-35m-arb-investment-into-on-chain-rwas"/>
-        <updated>2024-06-25T15:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum’s STEP Committee plans to invest 1% of DAO treasury assets into real-world asset products every year.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
