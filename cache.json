@@ -55,6 +55,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/lazarus-group-suspected-305m-dmm-bitcoin-hack-july-2024",
+          "author": "DeepNewz",
+          "description": "The notorious Lazarus Group is suspected to be behind the recent $305 million hack of the Japanese cryptocurrency exchange DMM Bitcoin in July 2024.",
+          "link": "https://thedefiant.io/news/cefi/lazarus-group-suspected-305m-dmm-bitcoin-hack-july-2024",
+          "publishedOn": "2024-07-15T08:35:58.000Z",
+          "wordCount": 1037,
+          "title": "Lazarus Group Suspected in $305M DMM Bitcoin Hack in July 2024",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/south-korea-s-ruling-party-proposes-to-delay-crypto-taxes-by-three-years",
           "author": "Mehab Qureshi",
           "description": "The Asian nation awaits the Ministry of Economy and Finance’s decision on the proposed tax delay to January 1, 2028.",
@@ -415,7 +425,7 @@
           "description": "Polychain Capital has accused its former general partner, Niraj Pant, of violating company policies by secretly securing a token deal with Eclipse Labs, a startup in which Polychain had invested",
           "link": "https://thedefiant.io/news/cefi/polychain-accuses-ex-partner-13m-secret-token-deal-eclipse-labs",
           "publishedOn": "2024-07-09T21:37:48.000Z",
-          "wordCount": 1157,
+          "wordCount": 1143,
           "title": "Polychain Accuses Ex-Partner of $13M Secret Token Deal with Eclipse Labs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/91f389dc474e839bf3fdfe82817b6766718f741b-1200x675.jpg",
@@ -735,7 +745,7 @@
           "description": "The Celsius Litigation Administrator said that early withdrawals have unfairly benefited.",
           "link": "https://thedefiant.io/news/cefi/celsius-aims-to-recover-usd100-million-from-users-who-withdrew-funds-before-bankruptcy",
           "publishedOn": "2024-07-05T21:30:27.000Z",
-          "wordCount": 1623,
+          "wordCount": 1609,
           "title": "Celsius Recovers $100 Million From Users Who Withdrew Funds Before Bankruptcy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f5f97dd60506f385906cf218c5c44416de6162cd-1792x1024.png",
@@ -1070,7 +1080,7 @@
           "description": "Hackers stole $572 million in Q2, up from $345 million in the previous quarter.",
           "link": "https://thedefiant.io/news/cefi/centralized-exchange-losses-to-hacks-are-up-1-000-this-year-immunefi",
           "publishedOn": "2024-07-03T19:52:38.000Z",
-          "wordCount": 1396,
+          "wordCount": 1382,
           "title": "Centralized Exchange Losses to Hacks are Up 1,000% This Year: ImmuneFi",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/293ad04eaa5c741f6d9815b577601715a5a1ff52-1792x1024.webp",
@@ -1222,7 +1232,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/chainlink-powers-nav-data-for-sygnum-s-on-chain-fidelity-fund",
           "author": "Samuel Haig",
-          "description": "Chainlink is now providing NAV data for Sygnum’s on-chain representation of Fidelity’s Institutional Liquidity Fund.",
+          "description": "Chainlink is providing NAV data for Sygnum's on-chain representation of Fidelity's Institutional Liquidity Fund.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/chainlink-powers-nav-data-for-sygnum-s-on-chain-fidelity-fund",
           "publishedOn": "2024-07-03T08:44:00.000Z",
           "wordCount": 1719,
@@ -1448,16 +1458,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/65b8ef564d19f270e6bc6cb51efcdcae46d6f146-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/starknet-foundation-launches-defi-spring-2-0-90m-strk-budget-until-december-31",
-          "author": "DeepNewz",
-          "description": "Starknet has launched DeFi Spring 2.0.",
-          "link": "https://thedefiant.io/news/defi/starknet-foundation-launches-defi-spring-2-0-90m-strk-budget-until-december-31",
-          "publishedOn": "2024-07-01T14:26:02.000Z",
-          "wordCount": 1000,
-          "title": "Starknet Foundation Launches DeFi Spring 2.0 with 90M STRK Budget Until December 31, 2024",
-          "imageUrl": null
         }
       ]
     },
