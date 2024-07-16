@@ -55,6 +55,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/axie-infinity-introduces-premier-bounty-board-daily-resets-summer-axie-reward",
+          "author": "DeepNewz",
+          "description": "Axie Infinity has introduced the Premier Bounty Board, which opens tomorrow, offering users the opportunity to earn rewards such as a Summer axie by completing quests.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/axie-infinity-introduces-premier-bounty-board-daily-resets-summer-axie-reward",
+          "publishedOn": "2024-07-16T05:28:57.000Z",
+          "wordCount": 1187,
+          "title": "Axie Infinity Introduces Premier Bounty Board with Daily Resets, Summer Axie Reward, and 500 Points Requirement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/microstrategy-s-bitcoin-strategy-inspires-midcaps-nonprofits-stock-prices-surge",
+          "author": "DeepNewz",
+          "description": "MicroStrategy's bold strategy of converting its treasury to Bitcoin has inspired midcap firms and nonprofits to follow suit.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/microstrategy-s-bitcoin-strategy-inspires-midcaps-nonprofits-stock-prices-surge",
+          "publishedOn": "2024-07-16T05:28:52.000Z",
+          "wordCount": 982,
+          "title": "MicroStrategy's Bitcoin Strategy Inspires Midcaps and Nonprofits, Stock Prices Surge 20-40%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/apecoin-announces-apechain-testnet-launch-on-july-16-price-rises-above-0-80",
+          "author": "DeepNewz",
+          "description": "ApeCoin has announced the launch of its ApeChain 'Testnet Curtis' on July 16.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/apecoin-announces-apechain-testnet-launch-on-july-16-price-rises-above-0-80",
+          "publishedOn": "2024-07-16T05:28:43.000Z",
+          "wordCount": 995,
+          "title": "ApeCoin Announces ApeChain Testnet Launch on July 16, Price Rises Above $0.80",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/bloomberg-analyst-says-ethereum-spot-etf-to-launch-july-23",
           "author": "Pedro Solimano",
           "description": "The SEC is reportedly asking for final S-1 applications by Wednesday.",
@@ -1418,46 +1448,6 @@
           "wordCount": 1360,
           "title": "Pudgy Penguins NFT Floor Price Surges to 12.25 ETH, Surpasses Bored Ape Yacht Club with 108.34K ETH Market Cap",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-launches-gho-stablecoin-on-arbitrum",
-          "author": "Samuel Haig",
-          "description": "The move marks the first deployment of GHO's cross-chain expansion.",
-          "link": "https://thedefiant.io/news/defi/aave-launches-gho-stablecoin-on-arbitrum",
-          "publishedOn": "2024-07-02T16:00:00.000Z",
-          "wordCount": 1975,
-          "title": "Aave Launches GHO Stablecoin On Arbitrum",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d76dbef05304af7368db1aba70d7ad8acd965cff-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d76dbef05304af7368db1aba70d7ad8acd965cff-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-hood-considers-listing-bitcoin-crypto-futures-us-europe",
-          "author": "DeepNewz",
-          "description": "Robinhood $HOOD is reportedly considering listing cryptocurrency futures in the United States and Europe.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-hood-considers-listing-bitcoin-crypto-futures-us-europe",
-          "publishedOn": "2024-07-02T15:31:55.000Z",
-          "wordCount": 1065,
-          "title": "Robinhood $HOOD Considers Listing Bitcoin and Crypto Futures in US and Europe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/zksync-unveils-vision-for-elastic-chain-ecosystem-after-3-0-upgrade",
-          "author": "Samuel Haig",
-          "description": "ZKsync aims to foster an interconnected ecosystem of ZK Stack-based Layer 2 rollups.",
-          "link": "https://thedefiant.io/news/blockchains/zksync-unveils-vision-for-elastic-chain-ecosystem-after-3-0-upgrade",
-          "publishedOn": "2024-07-02T13:00:00.000Z",
-          "wordCount": 2049,
-          "title": "ZKsync Unveils Vision For Elastic Chain Ecosystem After 3.0 Upgrade",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/eccf58b7efabbc7e39c74441d2107446d8792b04-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/eccf58b7efabbc7e39c74441d2107446d8792b04-1792x1024.webp"
         }
       ]
     },
