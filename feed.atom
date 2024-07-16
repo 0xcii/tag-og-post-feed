@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-16T07:14:25.633Z</id>
+    <id>urn:2024-07-16T08:18:56.233Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-16T07:14:25.633Z</updated>
+    <updated>2024-07-16T08:18:56.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scroll TVL Soars Past $1 Billion]]></title>
+        <id>https://thedefiant.io/news/defi/scroll-tvl-soars-past-usd1-billion</id>
+        <link href="https://thedefiant.io/news/defi/scroll-tvl-soars-past-usd1-billion"/>
+        <updated>2024-07-16T07:07:03.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum Layer 2 network is outperforming the rest of the sector, driven by its ‘Session One’ points program.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Axie Infinity Introduces Premier Bounty Board with Daily Resets, Summer Axie Reward, and 500 Points Requirement]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/axie-infinity-introduces-premier-bounty-board-daily-resets-summer-axie-reward</id>
@@ -1001,16 +1011,6 @@
         <link href="https://thedefiant.io/news/defi/pumpdotfun-surpasses-50m-revenue-six-months-outperforms-ethereum"/>
         <updated>2024-07-02T16:57:53.000Z</updated>
         <summary type="html"><![CDATA[Pumpdotfun has achieved a significant milestone by surpassing $50 million in cumulative revenue within just six months of its launch.]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pudgy Penguins NFT Floor Price Surges to 12.25 ETH, Surpasses Bored Ape Yacht Club with 108.34K ETH Market Cap]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-nft-floor-price-surges-to-12-25-eth-surpasses-bored-ape-yacht-108</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-nft-floor-price-surges-to-12-25-eth-surpasses-bored-ape-yacht-108"/>
-        <updated>2024-07-02T16:35:56.000Z</updated>
-        <summary type="html"><![CDATA[Pudgy Penguins, a prominent NFT collection, has experienced a significant surge in activity and value.]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
