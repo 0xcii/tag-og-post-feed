@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-17T15:17:14.734Z</id>
+    <id>urn:2024-07-17T16:18:09.184Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-17T15:17:14.734Z</updated>
+    <updated>2024-07-17T16:18:09.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Rally as Spot Bitcoin ETFs Attract Major Inflows]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-rally-as-spot-bitcoin-etfs-attract-major-inflows</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-rally-as-spot-bitcoin-etfs-attract-major-inflows"/>
+        <updated>2024-07-17T16:08:30.000Z</updated>
+        <summary type="html"><![CDATA[This week recorded spot Bitcoin ETF flows worth $722 million, including the highest daily inflow in a month.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arca Taps Securitize To List Tokenized U.S. Treasury Fund]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/arca-taps-securitize-to-list-tokenized-u-s-treasury-fund</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-roiled-as-mt-gox-s-usd9-billion-payouts-start</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-roiled-as-mt-gox-s-usd9-billion-payouts-start"/>
         <updated>2024-07-08T20:14:54.000Z</updated>
-        <summary type="html"><![CDATA[The first payouts have begun according to onchain data, although the timeline for when coins will be distributed to investors remains unclear.]]></summary>
+        <summary type="html"><![CDATA[Defunct Bitcoin exchange Mt. Gox has been causing waves in the market as firms and individuals prepare to receive reimbursements nearly ten years after the platform went under.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/news/blockchains/zircuit-loses-half-a-billion-in-tvl-as-phase-two-of-rewards-program-kicks-off</id>
         <link href="https://thedefiant.io/news/blockchains/zircuit-loses-half-a-billion-in-tvl-as-phase-two-of-rewards-program-kicks-off"/>
         <updated>2024-07-08T18:58:41.000Z</updated>
-        <summary type="html"><![CDATA[Users of Zircuit, an Ethereum Layer 2 network, have pulled out half a million dollars in assets from the protocol just in the past week, as phase one of its rewards program wraps up.]]></summary>
+        <summary type="html"><![CDATA[The Ethereum Layer 2’s TVL dropped to $2.1 billion from $2.5 billion a week ago.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[The Bitcoin market experienced significant turmoil as the price of Bitcoin fell below $55,000]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Court Rules Two Obscure Altcoins Are Commodities]]></title>
-        <id>https://thedefiant.io/news/regulation/u-s-court-rules-two-obscure-altcoins-are-commodities</id>
-        <link href="https://thedefiant.io/news/regulation/u-s-court-rules-two-obscure-altcoins-are-commodities"/>
-        <updated>2024-07-05T17:11:00.000Z</updated>
-        <summary type="html"><![CDATA[The news followed a long-lasting dispute between the SEC and CFTC over when a cryptocurrency is a commodity or security.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
