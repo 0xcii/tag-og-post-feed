@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/podcasts-and-videos/people/crossing-the-chasm-with-jeremy-allaire-or-circle-usdc-stablecoins-cbdcs",
+          "author": "Jack Dunham",
+          "description": "Jeremy Allaire is an American entrepreneur and technology executive known for his work in the internet and cryptocurrency industries. He is the co-founder and CEO of Circle, a financial technology company that focuses on digital currency and blockchain technology. Circle is best known for its stablecoin, USD Coin (USDC), which is a type of cryptocurrency designed to have a stable value tied to the US dollar. This interview was recorded during EthCC[7].",
+          "link": "https://thedefiant.io/podcasts-and-videos/people/crossing-the-chasm-with-jeremy-allaire-or-circle-usdc-stablecoins-cbdcs",
+          "publishedOn": "2024-07-17T21:09:00.000Z",
+          "wordCount": 1502,
+          "title": "Crossing The Chasm With Jeremy Allaire | Circle, USDC, Stablecoins, CBDCs",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/96a8d66af428dc6f06bb0911c8406d701e8ba1de-1280x720.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/96a8d66af428dc6f06bb0911c8406d701e8ba1de-1280x720.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/hyperliquid-s-upcoming-airdrop-has-users-flocking-to-the-ecosystem",
           "author": "Squiffs",
           "description": "Total value locked and overall excitement surrounding the ecosystem is rising, driven by the success of Hyperliquid’s spot tokens.",
@@ -1197,7 +1212,7 @@
         {
           "id": "https://thedefiant.io/news/defi/curve-finance-users-are-locking-record-amounts-of-crv-tokens-in-the-dex",
           "author": "Pedro Solimano",
-          "description": "Users locked 51 million CRV last week, surpassing the previous record of 24 million from October, 2022.",
+          "description": "Curve Finance users are locking in more CRV tokens in the decentralized exchange than ever before.",
           "link": "https://thedefiant.io/news/defi/curve-finance-users-are-locking-record-amounts-of-crv-tokens-in-the-dex",
           "publishedOn": "2024-07-09T21:30:13.000Z",
           "wordCount": 1909,
@@ -1212,7 +1227,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-targets-july-18-for-potential-eth-etf-creation",
           "author": "Squiffs",
-          "description": "Grayscale, one of the largest crypto asset management companies, announced it plans to create and distribute the Grayscale Ethereum Mini Trust, known as the ETH Trust, on July 18. .",
+          "description": "ETHE holders will receive shares of the ETH Trust at a 1-to-1 ratio.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-targets-july-18-for-potential-eth-etf-creation",
           "publishedOn": "2024-07-09T21:20:49.000Z",
           "wordCount": 1428,
@@ -1438,21 +1453,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ff2a595ed349c97cb671c19e8d4f8058c41904a4-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/defi/modular-security-debate-or-ethcc-7-live-stream-with-cartesi",
-          "author": "Jack Dunham",
-          "description": "Cartesi and The Defiant are teaming up to bring you an exclusive live stream from ETHCC[7] in Brussels. Join us for in-depth discussions on critical topics like fraud proofs and cross-rollup interoperability, featuring expert speakers from Avail, Ethereum Foundation, Espresso, Scroll, and other leading L2 projects.",
-          "link": "https://thedefiant.io/podcasts-and-videos/defi/modular-security-debate-or-ethcc-7-live-stream-with-cartesi",
-          "publishedOn": "2024-07-08T14:44:00.000Z",
-          "wordCount": null,
-          "title": "Modular Security Debate | EthCC[7] Live Stream With Cartesi",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b90d7e89581a7cb7e6f33ae0790ae625eb088875-1920x1080.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b90d7e89581a7cb7e6f33ae0790ae625eb088875-1920x1080.png"
         }
       ]
     },

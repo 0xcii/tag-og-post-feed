@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-17T21:13:47.552Z</id>
+    <id>urn:2024-07-17T22:14:25.470Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-17T21:13:47.552Z</updated>
+    <updated>2024-07-17T22:14:25.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crossing The Chasm With Jeremy Allaire | Circle, USDC, Stablecoins, CBDCs]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/people/crossing-the-chasm-with-jeremy-allaire-or-circle-usdc-stablecoins-cbdcs</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/people/crossing-the-chasm-with-jeremy-allaire-or-circle-usdc-stablecoins-cbdcs"/>
+        <updated>2024-07-17T21:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Jeremy Allaire is an American entrepreneur and technology executive known for his work in the internet and cryptocurrency industries. He is the co-founder and CEO of Circle, a financial technology company that focuses on digital currency and blockchain technology. Circle is best known for its stablecoin, USD Coin (USDC), which is a type of cryptocurrency designed to have a stable value tied to the US dollar. This interview was recorded during EthCC[7].]]></summary>
+        <author>
+            <name>Jack Dunham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperliquid’s Upcoming Airdrop has Users Flocking to the Ecosystem]]></title>
         <id>https://thedefiant.io/news/defi/hyperliquid-s-upcoming-airdrop-has-users-flocking-to-the-ecosystem</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/curve-finance-users-are-locking-record-amounts-of-crv-tokens-in-the-dex</id>
         <link href="https://thedefiant.io/news/defi/curve-finance-users-are-locking-record-amounts-of-crv-tokens-in-the-dex"/>
         <updated>2024-07-09T21:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Users locked 51 million CRV last week, surpassing the previous record of 24 million from October, 2022.]]></summary>
+        <summary type="html"><![CDATA[Curve Finance users are locking in more CRV tokens in the decentralized exchange than ever before.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/grayscale-targets-july-18-for-potential-eth-etf-creation</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/grayscale-targets-july-18-for-potential-eth-etf-creation"/>
         <updated>2024-07-09T21:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Grayscale, one of the largest crypto asset management companies, announced it plans to create and distribute the Grayscale Ethereum Mini Trust, known as the ETH Trust, on July 18. .]]></summary>
+        <summary type="html"><![CDATA[ETHE holders will receive shares of the ETH Trust at a 1-to-1 ratio.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Analysts believe that Ethereum ETFs will likely have a smaller market impact than Bitcoin ETFs did.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modular Security Debate | EthCC[7] Live Stream With Cartesi]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/defi/modular-security-debate-or-ethcc-7-live-stream-with-cartesi</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/defi/modular-security-debate-or-ethcc-7-live-stream-with-cartesi"/>
-        <updated>2024-07-08T14:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Cartesi and The Defiant are teaming up to bring you an exclusive live stream from ETHCC[7] in Brussels. Join us for in-depth discussions on critical topics like fraud proofs and cross-rollup interoperability, featuring expert speakers from Avail, Ethereum Foundation, Espresso, Scroll, and other leading L2 projects.]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
