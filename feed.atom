@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-18T20:15:15.240Z</id>
+    <id>urn:2024-07-18T21:13:20.134Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-18T20:15:15.240Z</updated>
+    <updated>2024-07-18T21:13:20.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ether.Fi Releases Season 2 of its ETHFI Token Airdrop]]></title>
+        <id>https://thedefiant.io/news/defi/ether-fi-releases-season-2-of-its-ethfi-token-airdrop</id>
+        <link href="https://thedefiant.io/news/defi/ether-fi-releases-season-2-of-its-ethfi-token-airdrop"/>
+        <updated>2024-07-18T21:07:22.000Z</updated>
+        <summary type="html"><![CDATA[The liquid restaking protocol is now starting the third phase of its campaign to distribute $ETHFI to users.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Builder On Ethereum is No Longer Censoring]]></title>
+        <id>https://thedefiant.io/news/blockchains/top-builder-on-ethereum-is-no-longer-censoring</id>
+        <link href="https://thedefiant.io/news/blockchains/top-builder-on-ethereum-is-no-longer-censoring"/>
+        <updated>2024-07-18T20:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum's censored transactions now account for 35% of the total.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Hold Firm as Tech Stocks Crater]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-hold-firm-as-tech-stocks-crater</id>
@@ -830,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/sec-drops-investigation-into-stablecoin-issuer-paxos</id>
         <link href="https://thedefiant.io/news/regulation/sec-drops-investigation-into-stablecoin-issuer-paxos"/>
         <updated>2024-07-11T16:22:00.000Z</updated>
-        <summary type="html"><![CDATA[The move comes just two weeks after a U.S. federal judge ruled that BUSD does not comprise a security.]]></summary>
+        <summary type="html"><![CDATA[The SEC has bailed on its investigation into Paxos and its BUSD stablecoin.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -850,7 +870,7 @@
         <id>https://thedefiant.io/news/regulation/cftc-chair-asserts-at-least-70-of-crypto-assets-are-not-securities</id>
         <link href="https://thedefiant.io/news/regulation/cftc-chair-asserts-at-least-70-of-crypto-assets-are-not-securities"/>
         <updated>2024-07-11T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[The chairman of the CFTC told the U.S. Senate that at least 70% of cryptocurrencies do not comprise security assets.]]></summary>
+        <summary type="html"><![CDATA[Behnam urged Congress to grant the agency more authority over digital assets.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -993,26 +1013,6 @@
         <summary type="html"><![CDATA[Storj Labs has acquired Valdi, a provider of high-performance cloud computing services for the artificial intelligence market]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masa Launches First AI Data Subnet on Bittensor with $MASA and Dual-Token Reward]]></title>
-        <id>https://thedefiant.io/news/blockchains/masa-launches-first-ai-data-subnet-on-bittensor-masa-dual-token-reward</id>
-        <link href="https://thedefiant.io/news/blockchains/masa-launches-first-ai-data-subnet-on-bittensor-masa-dual-token-reward"/>
-        <updated>2024-07-09T21:37:21.000Z</updated>
-        <summary type="html"><![CDATA[Masa has launched the first AI Data Subnet on Bittensor, making the $MASA token the first live token in any Bittensor ecosystem subnet]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve Finance Users are Locking Record Amounts of CRV Tokens in the DEX]]></title>
-        <id>https://thedefiant.io/news/defi/curve-finance-users-are-locking-record-amounts-of-crv-tokens-in-the-dex</id>
-        <link href="https://thedefiant.io/news/defi/curve-finance-users-are-locking-record-amounts-of-crv-tokens-in-the-dex"/>
-        <updated>2024-07-09T21:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Users locked 51 million CRV last week, surpassing the previous record of 24 million from October, 2022.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
     <entry>
