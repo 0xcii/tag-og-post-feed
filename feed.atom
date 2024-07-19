@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-19T12:27:28.111Z</id>
+    <id>urn:2024-07-19T13:16:58.567Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-19T12:27:28.111Z</updated>
+    <updated>2024-07-19T13:16:58.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Dip as Traders Speculate On Biden Withdrawal]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-dip-as-traders-speculate-on-biden-withdrawal</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-dip-as-traders-speculate-on-biden-withdrawal"/>
+        <updated>2024-07-19T13:10:59.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin ETFs have attracted $860 million of inflows this week.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copper Launches Support For Internet Computer’s ICRC and SNS Tokens]]></title>
         <id>https://thedefiant.io/news/cefi/copper-launches-support-for-internet-computer-s-icrc-and-sns-tokens</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/trump-related-tokens-soar-after-ex-president-survived-shooting-at-rally</id>
         <link href="https://thedefiant.io/news/markets/trump-related-tokens-soar-after-ex-president-survived-shooting-at-rally"/>
         <updated>2024-07-15T17:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Trump’s digital trading cards nearly doubled in price and volume increased tenfold in the hours after he was shot at.]]></summary>
+        <summary type="html"><![CDATA[Memecoins and NFTs related to Donald Trump skyrocketed in price and activity after the Republican presidential candidate was nearly assassinated at a rally on July 13.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-rally-after-failed-assasination-attempt-on-donald-trump</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-rally-after-failed-assasination-attempt-on-donald-trump"/>
         <updated>2024-07-15T16:07:33.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets rallied Monday after a failed assassination attempt on former President Donald Trump at a Pennsylvania rally.]]></summary>
+        <summary type="html"><![CDATA[Optimism is also driven by expectations that the SEC will approve spot Ether ETFs this week.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[The Minister of Energy and Water claims the country has lost $682 million since 2018.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Drops Investigation into Stablecoin Issuer Paxos]]></title>
-        <id>https://thedefiant.io/news/regulation/sec-drops-investigation-into-stablecoin-issuer-paxos</id>
-        <link href="https://thedefiant.io/news/regulation/sec-drops-investigation-into-stablecoin-issuer-paxos"/>
-        <updated>2024-07-11T16:22:00.000Z</updated>
-        <summary type="html"><![CDATA[The move comes just two weeks after a U.S. federal judge ruled that BUSD does not comprise a security.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>

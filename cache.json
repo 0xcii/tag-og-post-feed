@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-dip-as-traders-speculate-on-biden-withdrawal",
+          "author": "yyctrader",
+          "description": "Bitcoin ETFs have attracted $860 million of inflows this week.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-dip-as-traders-speculate-on-biden-withdrawal",
+          "publishedOn": "2024-07-19T13:10:59.000Z",
+          "wordCount": 1320,
+          "title": "Crypto Markets Dip as Traders Speculate On Biden Withdrawal",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/59c84ca0406aa8c473237bdd8bc2f3e215a0889a-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/59c84ca0406aa8c473237bdd8bc2f3e215a0889a-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/copper-launches-support-for-internet-computer-s-icrc-and-sns-tokens",
           "author": "Samuel Haig",
           "description": "Copper has integrated support for ckBTC, a Bitcoin-backed token on Internet Computer.",
@@ -1187,7 +1202,7 @@
         {
           "id": "https://thedefiant.io/news/markets/trump-related-tokens-soar-after-ex-president-survived-shooting-at-rally",
           "author": "Pedro Solimano",
-          "description": "Trump’s digital trading cards nearly doubled in price and volume increased tenfold in the hours after he was shot at.",
+          "description": "Memecoins and NFTs related to Donald Trump skyrocketed in price and activity after the Republican presidential candidate was nearly assassinated at a rally on July 13.",
           "link": "https://thedefiant.io/news/markets/trump-related-tokens-soar-after-ex-president-survived-shooting-at-rally",
           "publishedOn": "2024-07-15T17:31:29.000Z",
           "wordCount": 1789,
@@ -1202,7 +1217,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-markets-rally-after-failed-assasination-attempt-on-donald-trump",
           "author": "Mehab Qureshi",
-          "description": "Crypto markets rallied Monday after a failed assassination attempt on former President Donald Trump at a Pennsylvania rally.",
+          "description": "Optimism is also driven by expectations that the SEC will approve spot Ether ETFs this week.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-rally-after-failed-assasination-attempt-on-donald-trump",
           "publishedOn": "2024-07-15T16:07:33.000Z",
           "wordCount": 2102,
@@ -1413,21 +1428,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/84985977b9964f78531c327bd1d92e34b91dcb25-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/sec-drops-investigation-into-stablecoin-issuer-paxos",
-          "author": "Squiffs",
-          "description": "The move comes just two weeks after a U.S. federal judge ruled that BUSD does not comprise a security.",
-          "link": "https://thedefiant.io/news/regulation/sec-drops-investigation-into-stablecoin-issuer-paxos",
-          "publishedOn": "2024-07-11T16:22:00.000Z",
-          "wordCount": 1597,
-          "title": "SEC Drops Investigation into Stablecoin Issuer Paxos",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2129605883c5a8a7e3d7ed96a08c006865aad8f9-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2129605883c5a8a7e3d7ed96a08c006865aad8f9-1792x1024.webp"
         }
       ]
     },
