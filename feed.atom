@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-19T13:16:58.567Z</id>
+    <id>urn:2024-07-19T14:14:43.548Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-19T13:16:58.567Z</updated>
+    <updated>2024-07-19T14:14:43.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ZetaChain Aims to Push Cross-Chain Interoperability Envelope With Gateway Upgrade]]></title>
+        <id>https://thedefiant.io/news/defi/zetachain-aims-to-push-cross-chain-interoperability-envelope-with-gateway-upgrade</id>
+        <link href="https://thedefiant.io/news/defi/zetachain-aims-to-push-cross-chain-interoperability-envelope-with-gateway-upgrade"/>
+        <updated>2024-07-19T13:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Gateway allows users to access dApps hosted on supported third-party networks from ZetaChain.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Dip as Traders Speculate On Biden Withdrawal]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-dip-as-traders-speculate-on-biden-withdrawal</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/trump-related-tokens-soar-after-ex-president-survived-shooting-at-rally</id>
         <link href="https://thedefiant.io/news/markets/trump-related-tokens-soar-after-ex-president-survived-shooting-at-rally"/>
         <updated>2024-07-15T17:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Memecoins and NFTs related to Donald Trump skyrocketed in price and activity after the Republican presidential candidate was nearly assassinated at a rally on July 13.]]></summary>
+        <summary type="html"><![CDATA[Trump’s digital trading cards nearly doubled in price and volume increased tenfold in the hours after he was shot at.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -1001,16 +1011,6 @@
         <link href="https://thedefiant.io/news/nfts-and-web3/moca-token-soars-to-usd800-million-valuation-as-mocaverse-nfts-crater"/>
         <updated>2024-07-11T19:57:39.000Z</updated>
         <summary type="html"><![CDATA[The floor price of Mocaverse NFTs plummeted 47% on July 9.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malaysian Government Blames Bitcoin Mining for Electricity Theft]]></title>
-        <id>https://thedefiant.io/news/blockchains/malaysian-government-blames-bitcoin-mining-for-electricity-theft</id>
-        <link href="https://thedefiant.io/news/blockchains/malaysian-government-blames-bitcoin-mining-for-electricity-theft"/>
-        <updated>2024-07-11T19:47:08.000Z</updated>
-        <summary type="html"><![CDATA[The Minister of Energy and Water claims the country has lost $682 million since 2018.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
