@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/scroll-halts-chain-finalization-after-usd7m-rho-market-exploit",
+          "author": "Squiffs",
+          "description": "The exploiter has sent the funds to a multi-sig wallet after what experts presume to be a white hat hack.",
+          "link": "https://thedefiant.io/news/hacks/scroll-halts-chain-finalization-after-usd7m-rho-market-exploit",
+          "publishedOn": "2024-07-19T15:08:21.000Z",
+          "wordCount": 1300,
+          "title": "Scroll Halts Chain Finalization After $7 Million Rho Market Exploit",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cf963e0fcf7962cc583aaafeae0bd8acae5cdd1b-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cf963e0fcf7962cc583aaafeae0bd8acae5cdd1b-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/zetachain-aims-to-push-cross-chain-interoperability-envelope-with-gateway-upgrade",
           "author": "Samuel Haig",
           "description": "Gateway allows users to access dApps hosted on supported third-party networks from ZetaChain.",
@@ -1187,7 +1202,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/bloomberg-analyst-says-ethereum-spot-etf-to-launch-july-23",
           "author": "Pedro Solimano",
-          "description": "The SEC is reportedly asking for final S-1 applications by Wednesday.",
+          "description": "Ethereum is apparently finally getting its spot Exchange Traded Fund (ETF). Bloomberg analyst Eric Balchunas reported that the Securities and Exchange Commission (SEC) is requesting final documents from applicants and that launch date is set to July 23.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bloomberg-analyst-says-ethereum-spot-etf-to-launch-july-23",
           "publishedOn": "2024-07-15T21:31:38.000Z",
           "wordCount": 1587,
@@ -1405,7 +1420,7 @@
           "description": "The migration of Google’s domain registrar to Squarespace resulted in more than 120 DeFi domains becoming vulnerable to DNS attacks.",
           "link": "https://thedefiant.io/news/hacks/more-than-120-defi-front-end-could-be-vulnerable-to-dns-attacks",
           "publishedOn": "2024-07-12T10:35:00.000Z",
-          "wordCount": 1809,
+          "wordCount": 1788,
           "title": "More Than 120 DeFi Front-End Could Be Vulnerable To DNS Attacks",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9d2b9a5d25b9b19d8ffc254d6d21c0fd56f0821b-1792x1024.webp",
@@ -1413,21 +1428,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9d2b9a5d25b9b19d8ffc254d6d21c0fd56f0821b-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/moca-token-soars-to-usd800-million-valuation-as-mocaverse-nfts-crater",
-          "author": "Pedro Solimano",
-          "description": "The floor price of Mocaverse NFTs plummeted 47% on July 9.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/moca-token-soars-to-usd800-million-valuation-as-mocaverse-nfts-crater",
-          "publishedOn": "2024-07-11T19:57:39.000Z",
-          "wordCount": 1399,
-          "title": "MOCA Token Soars to $800M Fully-Diluted Valuation as Mocaverse NFTs Crater",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0a5b5eab7064b69a3e7299c35fd2524c63b1cf50-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0a5b5eab7064b69a3e7299c35fd2524c63b1cf50-1792x1024.webp"
         }
       ]
     },

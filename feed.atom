@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-19T14:14:43.548Z</id>
+    <id>urn:2024-07-19T15:16:02.309Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-19T14:14:43.548Z</updated>
+    <updated>2024-07-19T15:16:02.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scroll Halts Chain Finalization After $7 Million Rho Market Exploit]]></title>
+        <id>https://thedefiant.io/news/hacks/scroll-halts-chain-finalization-after-usd7m-rho-market-exploit</id>
+        <link href="https://thedefiant.io/news/hacks/scroll-halts-chain-finalization-after-usd7m-rho-market-exploit"/>
+        <updated>2024-07-19T15:08:21.000Z</updated>
+        <summary type="html"><![CDATA[The exploiter has sent the funds to a multi-sig wallet after what experts presume to be a white hat hack.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZetaChain Aims to Push Cross-Chain Interoperability Envelope With Gateway Upgrade]]></title>
         <id>https://thedefiant.io/news/defi/zetachain-aims-to-push-cross-chain-interoperability-envelope-with-gateway-upgrade</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/bloomberg-analyst-says-ethereum-spot-etf-to-launch-july-23</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/bloomberg-analyst-says-ethereum-spot-etf-to-launch-july-23"/>
         <updated>2024-07-15T21:31:38.000Z</updated>
-        <summary type="html"><![CDATA[The SEC is reportedly asking for final S-1 applications by Wednesday.]]></summary>
+        <summary type="html"><![CDATA[Ethereum is apparently finally getting its spot Exchange Traded Fund (ETF). Bloomberg analyst Eric Balchunas reported that the Securities and Exchange Commission (SEC) is requesting final documents from applicants and that launch date is set to July 23.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Last summer, I travelled to the mecca of doosh doosh (house music) in Ibiza. It was a specialist mission consisting of myself and three…]]></summary>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOCA Token Soars to $800M Fully-Diluted Valuation as Mocaverse NFTs Crater]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/moca-token-soars-to-usd800-million-valuation-as-mocaverse-nfts-crater</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/moca-token-soars-to-usd800-million-valuation-as-mocaverse-nfts-crater"/>
-        <updated>2024-07-11T19:57:39.000Z</updated>
-        <summary type="html"><![CDATA[The floor price of Mocaverse NFTs plummeted 47% on July 9.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
     <entry>
