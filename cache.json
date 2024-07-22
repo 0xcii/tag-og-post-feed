@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/analysts-call-for-pro-crypto-pivot-from-democrats-after-biden-steps-down",
+          "author": "Samuel Haig",
+          "description": "Political memecoins suffered violent volatility after Biden bowed out of the race, with Biden-themed tokens tanking in response to the news.",
+          "link": "https://thedefiant.io/news/regulation/analysts-call-for-pro-crypto-pivot-from-democrats-after-biden-steps-down",
+          "publishedOn": "2024-07-22T13:25:00.000Z",
+          "wordCount": 2330,
+          "title": "Analysts Call For Pro-Crypto Pivot From Democrats After Biden Steps Down",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/219097c5c485170b05b8e385955104f9af74739a-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/219097c5c485170b05b8e385955104f9af74739a-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/hong-kong-stock-exchange-to-launch-asias-first-bitcoin-inverse-etf-managed-csop",
           "author": "DeepNewz",
           "description": "The Hong Kong Stock Exchange (SEHK) will launch Asia’s first Bitcoin inverse ETF on July 23",
@@ -1408,21 +1423,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6e5d6a68d29f6cfa0da2685d8c1c17b2e68f7f83-1280x720.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/trump-related-tokens-soar-after-ex-president-survived-shooting-at-rally",
-          "author": "Pedro Solimano",
-          "description": "Trump’s digital trading cards nearly doubled in price and volume increased tenfold in the hours after he was shot at.",
-          "link": "https://thedefiant.io/news/markets/trump-related-tokens-soar-after-ex-president-survived-shooting-at-rally",
-          "publishedOn": "2024-07-15T17:31:29.000Z",
-          "wordCount": 1780,
-          "title": "Trump-related Tokens Soar After Ex President Survived Shooting at Rally",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/85d74b3fb7680875a826eed7d7272d4f63aed4c3-1792x1024.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/85d74b3fb7680875a826eed7d7272d4f63aed4c3-1792x1024.png"
         }
       ]
     },
