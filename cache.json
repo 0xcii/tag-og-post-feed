@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/citi-upgrades-coinbase-to-buy-raises-price-target-to-345",
+          "author": "DeepNewz",
+          "description": "Coinbase (COIN) has seen significant positive activity recently",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/citi-upgrades-coinbase-to-buy-raises-price-target-to-345",
+          "publishedOn": "2024-07-23T12:33:24.000Z",
+          "wordCount": 985,
+          "title": "Citi Upgrades Coinbase to Buy, Raises Price Target to $345",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0b122800b56184cee451eaf25a772419bbd836a2-1200x600.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0b122800b56184cee451eaf25a772419bbd836a2-1200x600.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/atari-launches-onchain-arcade-on-base-network",
           "author": "Mehab Qureshi",
           "description": "The gaming giant appears to be undeterred by the recent downturn in the blockchain gaming sector, which declined 28% in June.",
@@ -250,7 +265,7 @@
           "description": "Liquidiums token generation event distributed 10% of token supply.",
           "link": "https://thedefiant.io/news/defi/bitcoin-defi-platform-liquidium-distributes-surprise-airdrop",
           "publishedOn": "2024-07-22T21:27:08.000Z",
-          "wordCount": 1322,
+          "wordCount": 1328,
           "title": "Bitcoin DeFi Platform Liquidium Distributes Surprise Airdrop",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/eaf9a43b14d9ec13b3e04276d26845689f658bcf-1792x1024.webp",
@@ -1428,16 +1443,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/eafc628353c894bf3fc046ee883d266a00ef13e1-150x150.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/solana-reclaims-70b-market-cap-160-price-raydium-dominates-dex-volume-market-36",
-          "author": "DeepNewz",
-          "description": "Solana ($SOL) has seen significant gains, reclaiming a market cap of $70 billion and surpassing $160 in price, with an earlier reclaim above $150",
-          "link": "https://thedefiant.io/news/markets/solana-reclaims-70b-market-cap-160-price-raydium-dominates-dex-volume-market-36",
-          "publishedOn": "2024-07-16T17:51:03.000Z",
-          "wordCount": 1157,
-          "title": "Solana Reclaims $70B Market Cap and $160 Price, Raydium Dominates DEX Volume, Market Share Grows from 36% to 66%",
-          "imageUrl": null
         }
       ]
     },
