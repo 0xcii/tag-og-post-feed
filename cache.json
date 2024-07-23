@@ -45,6 +45,96 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/california-based-swan-shelves-ipo-plans-cuts-staff-shuts-down-bitcoin-mining",
+          "author": "DeepNewz",
+          "description": "California-based Bitcoin services firm Swan has announced significant operational changes, including shelving its IPO plans, cutting staff, and shutting down its managed Bitcoin mining business",
+          "link": "https://thedefiant.io/news/cefi/california-based-swan-shelves-ipo-plans-cuts-staff-shuts-down-bitcoin-mining",
+          "publishedOn": "2024-07-23T09:41:47.000Z",
+          "wordCount": 1106,
+          "title": "California-based Swan Shelves IPO Plans, Cuts Staff, and Shuts Down Bitcoin Mining Unit",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cae8cca538de31e19d60e979b8e2c772944e2dfb-1920x1080.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cae8cca538de31e19d60e979b8e2c772944e2dfb-1920x1080.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/hive-digital-to-build-100mw-bitcoin-mining-facility-paraguay-amid-14-tariff",
+          "author": "DeepNewz",
+          "description": "Paraguay has recently become a hub for bitcoin miners due to its cheap electricity, lax laws, and low taxes",
+          "link": "https://thedefiant.io/news/cefi/hive-digital-to-build-100mw-bitcoin-mining-facility-paraguay-amid-14-tariff",
+          "publishedOn": "2024-07-23T09:40:50.000Z",
+          "wordCount": 1256,
+          "title": "HIVE Digital to Build 100MW Bitcoin Mining Facility in Paraguay Amid 14% Tariff Hikes, Brazil Exodus",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f3af5d013c924a4ff75f132dea7d1a85cd1375d-1280x720.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8f3af5d013c924a4ff75f132dea7d1a85cd1375d-1280x720.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-transfers-1-1b-ethereum-to-coinbase-ahead-spot-etf-launch",
+          "author": "DeepNewz",
+          "description": "Grayscale Ethereum Trust has transferred approximately $1.1 billion worth of Ethereum (ETH) to Coinbase Prime.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-transfers-1-1b-ethereum-to-coinbase-ahead-spot-etf-launch",
+          "publishedOn": "2024-07-23T09:40:00.000Z",
+          "wordCount": 1074,
+          "title": "Grayscale Transfers $1.1B in Ethereum to Coinbase Ahead of Spot ETF Launch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/arkham-transfers-304-5m-arkm-to-coinbase-prime-us-gov-moves-58-742-btc-worth-usd3-96m",
+          "author": "DeepNewz",
+          "description": "Arkham has withdrawn 304.5 million ARKM, valued at approximately $487.24 million, from its vesting contract and transferred them to Coinbase Prime",
+          "link": "https://thedefiant.io/news/defi/arkham-transfers-304-5m-arkm-to-coinbase-prime-us-gov-moves-58-742-btc-worth-usd3-96m",
+          "publishedOn": "2024-07-23T09:39:40.000Z",
+          "wordCount": 1128,
+          "title": "Arkham Transfers 304.5M ARKM to Coinbase Prime; US Gov Moves 58.742 BTC Worth $3.96M",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/44f8ec74af171bc11111dff0ba0532c184b17185-1024x512.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/44f8ec74af171bc11111dff0ba0532c184b17185-1024x512.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-bitcoin-etf-sees-523m-inflow-912m-trading-volume-surpasses-qqq-ytd",
+          "author": "DeepNewz",
+          "description": "BlackRock's Bitcoin ETF has seen a significant surge in inflows, with a single-day inflow of $523 million, adding 7,759 BTC",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-bitcoin-etf-sees-523m-inflow-912m-trading-volume-surpasses-qqq-ytd",
+          "publishedOn": "2024-07-23T09:39:14.000Z",
+          "wordCount": 1076,
+          "title": "BlackRock Bitcoin ETF Sees $523M Inflow, $912M Trading Volume, Surpasses QQQ in YTD Flows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/stablecoin-market-cap-surges-3800-to-usd165-billion-highest-since-may-2022",
+          "author": "DeepNewz",
+          "description": "The stablecoin market has experienced significant growth, with its market cap rising from $4 billion in early 2020 to approximately $165 billion in July 2024, marking a 3800% increase",
+          "link": "https://thedefiant.io/news/defi/stablecoin-market-cap-surges-3800-to-usd165-billion-highest-since-may-2022",
+          "publishedOn": "2024-07-23T09:38:58.000Z",
+          "wordCount": 1211,
+          "title": "Stablecoin Market Cap Surges 3800% to $165 Billion, Highest Since May 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/mt-gox-transfers-2-8-billion-bitcoin-including-149-million-to-bitstamp",
+          "author": "DeepNewz",
+          "description": "Mt. Gox has initiated significant Bitcoin transfers, moving a total of 42,587 BTC, valued at approximately $2.8 billion, to new addresses.",
+          "link": "https://thedefiant.io/news/cefi/mt-gox-transfers-2-8-billion-bitcoin-including-149-million-to-bitstamp",
+          "publishedOn": "2024-07-23T09:38:51.000Z",
+          "wordCount": 1127,
+          "title": "Mt. Gox Transfers $2.8 Billion in Bitcoin, Including $149 Million to Bitstamp",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/18bb4507b853389baefb1500d5b17d658aa56635-1920x1080.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/18bb4507b853389baefb1500d5b17d658aa56635-1920x1080.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/avail-unveils-da-mainnet-alongside-native-token",
           "author": "Samuel Haig and Mehab Qureshi",
           "description": "The project said Avail DA offers support for more than 70 chains and tech stacks.",
@@ -1348,96 +1438,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bda02754b93f0219e7ce5b4583083eafb0e27ffd-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/polyhedra-network-launches-staking-program-v2-rewards-starting-july-18-2000000",
-          "author": "DeepNewz",
-          "description": "Polyhedra Network has announced the launch of its Staking Program V2, with the first rewards distribution set for July 18, 2024.",
-          "link": "https://thedefiant.io/news/defi/polyhedra-network-launches-staking-program-v2-rewards-starting-july-18-2000000",
-          "publishedOn": "2024-07-16T12:11:40.000Z",
-          "wordCount": 1229,
-          "title": "Polyhedra Network Launches Staking Program V2 with Rewards Starting July 18, 2,000,000 ZK Prize Pool",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4586c09e615ebf79aee8038d7f466264e8cc4fc5-1600x900.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4586c09e615ebf79aee8038d7f466264e8cc4fc5-1600x900.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/people/ethereum-s-vitalik-buterin-highlights-imbalance-web3-infrastructure-investment",
-          "author": "DeepNewz",
-          "description": "Vitalik Buterin, co-founder of Ethereum, has expressed concerns about the imbalance in investment within the Web3 infrastructure sector.",
-          "link": "https://thedefiant.io/news/people/ethereum-s-vitalik-buterin-highlights-imbalance-web3-infrastructure-investment",
-          "publishedOn": "2024-07-16T12:11:29.000Z",
-          "wordCount": 1013,
-          "title": "Ethereum's Vitalik Buterin Highlights Imbalance in Web3 Infrastructure Investment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/uk-s-cps-announces-first-monero-conversion-case-involving-weight-loss-drug",
-          "author": "DeepNewz",
-          "description": "The UK's Crown Prosecution Service (CPS) has announced its first case involving Monero conversion.",
-          "link": "https://thedefiant.io/news/regulation/uk-s-cps-announces-first-monero-conversion-case-involving-weight-loss-drug",
-          "publishedOn": "2024-07-16T12:11:18.000Z",
-          "wordCount": 969,
-          "title": "UK's CPS Announces First Monero Conversion Case Involving Weight Loss Drug",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/87eb3795e1c99851d629fc158f4e53b08fd37202-1280x720.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/87eb3795e1c99851d629fc158f4e53b08fd37202-1280x720.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/kraken-to-distribute-3b-bitcoin-53m-bitcoin-cash-mt-gox-7-14-days",
-          "author": "DeepNewz",
-          "description": "Kraken has announced that it has received Bitcoin (BTC) and Bitcoin Cash (BCH) funds from the Mt Gox trustee.",
-          "link": "https://thedefiant.io/news/cefi/kraken-to-distribute-3b-bitcoin-53m-bitcoin-cash-mt-gox-7-14-days",
-          "publishedOn": "2024-07-16T12:11:11.000Z",
-          "wordCount": 1072,
-          "title": "Kraken to Distribute $3B in Bitcoin, $53M in Bitcoin Cash from Mt. Gox Within 7-14 Days",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/stripe-expands-crypto-integration-european-union-allows-purchases-via-credit-or",
-          "author": "DeepNewz",
-          "description": "On July 16, 2024, Stripe has expanded its cryptocurrency integration into the European Union, allowing users to buy Bitcoin (BTC), Solana (SOL), Ethereum (ETH), and other coins using their credit or debit cards.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/stripe-expands-crypto-integration-european-union-allows-purchases-via-credit-or",
-          "publishedOn": "2024-07-16T12:11:08.000Z",
-          "wordCount": 1112,
-          "title": "Stripe Expands Crypto Integration in European Union, Allows Purchases via Credit or Debit Cards",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/pixelverse-to-launch-pixfi-token-on-ton-network",
-          "author": "Mehab Qureshi",
-          "description": "Pixelverse reported 50 million new players in June for PixelTap on Telegram.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/pixelverse-to-launch-pixfi-token-on-ton-network",
-          "publishedOn": "2024-07-16T12:09:57.000Z",
-          "wordCount": 1686,
-          "title": "Pixelverse to Launch PIXFI Token on TON Network",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/24c8b2abe980c0044e75ab99deb5950ef0aa5cf3-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/24c8b2abe980c0044e75ab99deb5950ef0aa5cf3-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/mempool-sniping-plagues-bitcoin-ordinals",
-          "author": "Pedro Solimano",
-          "description": "Ordinals and Runes traders are falling victim to onchain front-running.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/mempool-sniping-plagues-bitcoin-ordinals",
-          "publishedOn": "2024-07-16T09:02:13.000Z",
-          "wordCount": 2384,
-          "title": "‘Mempool Sniping’ Plagues Bitcoin Ordinals",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/852c4bc195f7607cfedf7243d070063a8de22c28-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/852c4bc195f7607cfedf7243d070063a8de22c28-1792x1024.webp"
         }
       ]
     },
