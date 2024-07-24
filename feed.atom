@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-24T17:12:49.638Z</id>
+    <id>urn:2024-07-24T18:19:46.391Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-24T17:12:49.638Z</updated>
+    <updated>2024-07-24T18:19:46.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETH is Flat After Strong ETF Debut]]></title>
+        <id>https://thedefiant.io/news/markets/eth-is-flat-after-strong-etf-debut</id>
+        <link href="https://thedefiant.io/news/markets/eth-is-flat-after-strong-etf-debut"/>
+        <updated>2024-07-24T18:16:36.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s ETH is flat in the past 24 hours even after ETFs drew in more than $100 million of inflows.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamala Harris’ Stance On Cryptocurrency: What We Know]]></title>
+        <id>https://thedefiant.io/news/people/kamala-harris-stance-on-cryptocurrency-what-we-know-so-far</id>
+        <link href="https://thedefiant.io/news/people/kamala-harris-stance-on-cryptocurrency-what-we-know-so-far"/>
+        <updated>2024-07-24T16:50:21.000Z</updated>
+        <summary type="html"><![CDATA[Harris has never mentioned crypto but Biden's administration was loud and clear.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana's SOL Token Gains Momentum to $250 Amid Successful Solend Rebranding and Ethereum ETF Speculation]]></title>
         <id>https://thedefiant.io/news/markets/solana-s-sol-token-gains-momentum-to-250-amid-successful-solend-rebranding-etf</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/people/mark-cuban-silicon-valley-s-trump-support-drive-bitcoin-price-way-higher"/>
         <updated>2024-07-18T07:30:08.000Z</updated>
         <summary type="html"><![CDATA[Billionaire Mark Cuban has stated that Silicon Valley's support for former President Donald Trump is largely driven by the potential for Bitcoin price acceleration.]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Developer Virgil Griffith's Sentence Reduced to 56 Months]]></title>
-        <id>https://thedefiant.io/news/people/ethereum-developer-virgil-griffith-s-sentence-reduced-to-56-months</id>
-        <link href="https://thedefiant.io/news/people/ethereum-developer-virgil-griffith-s-sentence-reduced-to-56-months"/>
-        <updated>2024-07-18T07:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Virgil Griffith, an Ethereum developer, has had his sentence reduced by seven months.]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Republican Candidate Trump Considers Jamie Dimon for Treasury Secretary Amid Bitcoin Rally]]></title>
-        <id>https://thedefiant.io/news/people/republican-candidate-trump-considers-jamie-dimon-treasury-secretary-amid-bitcoin</id>
-        <link href="https://thedefiant.io/news/people/republican-candidate-trump-considers-jamie-dimon-treasury-secretary-amid-bitcoin"/>
-        <updated>2024-07-18T07:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Republican presidential candidate Donald Trump is considering Jamie Dimon, a prominent Bitcoin critic, for the position of US Treasury Secretary.]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
