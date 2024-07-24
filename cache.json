@@ -60,6 +60,16 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7f8d4a1ff98e9a2cb86b8e707ba4723daa66be03-1792x1024.webp"
         },
         {
+          "id": "https://thedefiant.io/news/defi/dydx-trading-inc-discusses-sale-of-v3-infrastructure-for-undisclosed-amount-to-wintermute-and",
+          "author": "DeepNewz",
+          "description": "The company is reportedly in discussions to sell its deprecated dYdX V3 infrastructure, specifically the StarkEx rollup, to a consortium that includes major crypto market makers such as Wintermute Trading Ltd. and Selini Capital.",
+          "link": "https://thedefiant.io/news/defi/dydx-trading-inc-discusses-sale-of-v3-infrastructure-for-undisclosed-amount-to-wintermute-and",
+          "publishedOn": "2024-07-24T08:52:37.000Z",
+          "wordCount": 1146,
+          "title": "dYdX Trading Inc. Discusses Sale of V3 Infrastructure for Undisclosed Amount to Wintermute and Selini",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/navigating-the-institutional-defi-trilemma",
           "author": "IntoTheBlock",
           "description": "Engaging in DeFi at scale presents unique challenges, encapsulated by the \"Institutional DeFi Trilemma\" model — Risk, Reward, and Capacity.",
@@ -1135,6 +1145,21 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aa8070ce454ecb4d253f36c73094d16af44c64b7-1792x1024.webp"
         },
         {
+          "id": "https://thedefiant.io/podcasts-and-videos/blockchains/near-protocol-wants-to-fix-cryptos-ai-problem-co-founder-illia-polosukhin",
+          "author": "Jack Dunham",
+          "description": "We sat down with Illia Polosukhin, Co-Founder of NEAR Protocol, during ETH CC in Brussels. Illia shared his insights on the latest developments in the blockchain space, NEAR’s unique approach to scalability, their focus on open source development, NEAR’s new AI hub and upcoming milestones.",
+          "link": "https://thedefiant.io/podcasts-and-videos/blockchains/near-protocol-wants-to-fix-cryptos-ai-problem-co-founder-illia-polosukhin",
+          "publishedOn": "2024-07-18T10:05:00.000Z",
+          "wordCount": null,
+          "title": "NEAR Protocol Wants To Fix Crypto's AI Problem | Co-Founder Illia Polosukhin",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c21ece37324fb761acc05168cbfbdd29358b9a8a-1280x720.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c21ece37324fb761acc05168cbfbdd29358b9a8a-1280x720.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/sec-approves-proshares-and-grayscale-mini-spot-ether-etfs",
           "author": "Samuel Haig",
           "description": "Experts say spot Ether ETFs will begin trading on July 23.",
@@ -1403,36 +1428,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/65b8ef564d19f270e6bc6cb51efcdcae46d6f146-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/arca-taps-securitize-to-list-tokenized-u-s-treasury-fund",
-          "author": "Samuel Haig",
-          "description": "The news comes after the market cap of tokenized treasuries grew 140% since the start of the year.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/arca-taps-securitize-to-list-tokenized-u-s-treasury-fund",
-          "publishedOn": "2024-07-17T13:00:00.000Z",
-          "wordCount": 1661,
-          "title": "Arca Taps Securitize To List Tokenized U.S. Treasury Fund",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9bb1c426641773b2258cb0312ac0baa9ad88d2f7-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9bb1c426641773b2258cb0312ac0baa9ad88d2f7-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/hermetica-launches-bitcoin-backed-synthetic-dollar",
-          "author": "yyctrader",
-          "description": "USDh leverages the Runes protocol and currently offers a 12% staking yield.",
-          "link": "https://thedefiant.io/news/defi/hermetica-launches-bitcoin-backed-synthetic-dollar",
-          "publishedOn": "2024-07-17T12:22:35.000Z",
-          "wordCount": 1391,
-          "title": "Hermetica Launches Bitcoin-backed Synthetic Dollar",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ea8e3329de088b69b675370c91a498a2c2369df2-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ea8e3329de088b69b675370c91a498a2c2369df2-1792x1024.webp"
         }
       ]
     },
