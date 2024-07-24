@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-24T11:12:11.935Z</id>
+    <id>urn:2024-07-24T12:27:34.876Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-24T11:12:11.935Z</updated>
+    <updated>2024-07-24T12:27:34.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pudgy Penguins’ Parent Company Raises $11 Million to Build Consumer Blockchain]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-parent-company-raises-usd11-million-to-build-consumer-blockchain</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-parent-company-raises-usd11-million-to-build-consumer-blockchain"/>
+        <updated>2024-07-24T11:08:51.000Z</updated>
+        <summary type="html"><![CDATA[The new chain, dubbed Abstract, will leverage zero-knowledge technology and EigenDA.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Base Launches Stage 1 Decentralization On Testnet]]></title>
         <id>https://thedefiant.io/news/blockchains/base-launches-stage-1-decentralization-on-testnet</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/chainlink-launches-digital-asset-sandbox-for-financial-institutions</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/chainlink-launches-digital-asset-sandbox-for-financial-institutions"/>
         <updated>2024-07-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink launched a digital asset sandbox targeting legacy financial institutions in a bid to accelerate mainstream adoption of web3.]]></summary>
+        <summary type="html"><![CDATA[Chainlink aims to accelerate mainstream institutions’ ability to launch pilots and proof-of-concepts exploring digital assets.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Kraken has informed users that Mt. Gox reimbursement funds have been received.]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crossing The Chasm With Jeremy Allaire | Circle, USDC, Stablecoins, CBDCs]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/people/crossing-the-chasm-with-jeremy-allaire-or-circle-usdc-stablecoins-cbdcs</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/people/crossing-the-chasm-with-jeremy-allaire-or-circle-usdc-stablecoins-cbdcs"/>
-        <updated>2024-07-17T21:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Jeremy Allaire is an American entrepreneur and technology executive known for his work in the internet and cryptocurrency industries. He is the co-founder and CEO of Circle, a financial technology company that focuses on digital currency and blockchain technology. Circle is best known for its stablecoin, USD Coin (USDC), which is a type of cryptocurrency designed to have a stable value tied to the US dollar. This interview was recorded during EthCC[7].]]></summary>
-        <author>
-            <name>Jack Dunham</name>
         </author>
     </entry>
     <entry>
