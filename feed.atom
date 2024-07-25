@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-25T15:15:07.844Z</id>
+    <id>urn:2024-07-25T16:18:19.459Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-25T15:15:07.844Z</updated>
+    <updated>2024-07-25T16:18:19.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,11 +26,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yona Network Integrates Neon For EVM and SVM Compatibility On Bitcoin]]></title>
+        <title type="html"><![CDATA[Bitcoin Layer 2 Yona Network Wants to Bring Ethereum and Solana dApps to Bitcoin]]></title>
         <id>https://thedefiant.io/news/blockchains/yona-network-integrates-neon-for-evm-and-svm-compatibility-on-bitcoin</id>
         <link href="https://thedefiant.io/news/blockchains/yona-network-integrates-neon-for-evm-and-svm-compatibility-on-bitcoin"/>
         <updated>2024-07-25T12:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Yona Network integrated the Neon Stack to combine EVM-compatibility with its Solana Virtual Machine.]]></summary>
+        <summary type="html"><![CDATA[Yona Network integrated the Neon Stack to add Ethereum Virtual Machine (EVM)-compatibility. It already runs a Solana Virtual Machine (SVM).]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
