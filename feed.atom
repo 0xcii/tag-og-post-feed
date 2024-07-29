@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-29T13:18:18.748Z</id>
+    <id>urn:2024-07-29T14:13:55.571Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-29T13:18:18.748Z</updated>
+    <updated>2024-07-29T14:13:55.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,13 +16,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aave Launches Lido-Only V3 Deployment]]></title>
-        <id>https://thedefiant.io/news/defi/aave-launches-lido-only-v3-deployment</id>
-        <link href="https://thedefiant.io/news/defi/aave-launches-lido-only-v3-deployment"/>
-        <updated>2024-07-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new market exclusively supports liquidity pools for Lido’s stETH and wrapped stETH liquid staking token.]]></summary>
+        <title type="html"><![CDATA[21Shares Implements Chainlink Proof of Reserve to Enhance ETF Transparency]]></title>
+        <id>https://thedefiant.io/news/cefi/21shares-implements-chainlink-proof-of-reserve-to-enhance-etf-transparency</id>
+        <link href="https://thedefiant.io/news/cefi/21shares-implements-chainlink-proof-of-reserve-to-enhance-etf-transparency"/>
+        <updated>2024-07-29T12:38:21.000Z</updated>
+        <summary type="html"><![CDATA[The ETF issuer aims to assure investors that CETH is backed by actual ETH holdings.]]></summary>
         <author>
-            <name>Samuel Haig</name>
+            <name>yyctrader</name>
         </author>
     </entry>
     <entry>
