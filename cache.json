@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/btc-inches-closer-to-usd70-000-after-trump-says-never-sell-your-bitcoin",
+          "author": "Mehab Qureshi",
+          "description": "Trump asserted that he would fire SEC chair Gensler and ensure the federal government retains its Bitcoin holdings if he is re-elected.",
+          "link": "https://thedefiant.io/news/markets/btc-inches-closer-to-usd70-000-after-trump-says-never-sell-your-bitcoin",
+          "publishedOn": "2024-07-29T13:09:39.000Z",
+          "wordCount": 1679,
+          "title": "BTC Inches Closer to $70,000 after Trump Says ‘Never Sell Your Bitcoin’",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f06ea1f50b33b5fb976f175d2f02c7c827d10977-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f06ea1f50b33b5fb976f175d2f02c7c827d10977-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/aave-launches-lido-only-v3-deployment",
+          "author": "Samuel Haig",
+          "description": "The new market exclusively supports liquidity pools for Lido’s stETH and wrapped stETH liquid staking token.",
+          "link": "https://thedefiant.io/news/defi/aave-launches-lido-only-v3-deployment",
+          "publishedOn": "2024-07-29T13:00:00.000Z",
+          "wordCount": 1826,
+          "title": "Aave Launches Lido-Only V3 Deployment",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6aa2d65b6d0309fe8d9eb29f1e1ada62ad97965f-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6aa2d65b6d0309fe8d9eb29f1e1ada62ad97965f-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/compound-community-accuses-notorious-whale-of-engineering-governance-attack",
           "author": "Samuel Haig",
           "description": "Compound governance passed a proposal to mobilize $24 million worth of COMP to Humpy’s goldCOMP vault, but critics say foul play is afoot.",
@@ -215,7 +245,7 @@
           "description": "At least 22 celebrities used Pump.fun to launch memecoins but most have abandoned their projects.",
           "link": "https://thedefiant.io/news/markets/nearly-every-celebrity-token-launched-in-2024-has-gone-to-zero",
           "publishedOn": "2024-07-26T22:31:28.000Z",
-          "wordCount": 1309,
+          "wordCount": 1305,
           "title": "Nearly Every Celebrity Token Launched in 2024 Has Gone to Zero",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc6988e6b40f19dc78f10f4e6b31884a8c5584ec-1792x1024.webp",
@@ -415,7 +445,7 @@
           "description": "Crypto traders get some relief as BTC and ETH rally 5% and 3%, respectively.",
           "link": "https://thedefiant.io/news/markets/bitcoin-bounces-back-after-brutal-crypto-selloff",
           "publishedOn": "2024-07-26T07:47:59.000Z",
-          "wordCount": 1563,
+          "wordCount": 1559,
           "title": "Bitcoin Bounces Back after Brutal Crypto Selloff",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3c47242134fbfbbb06061dfa833df394c8500890-1792x1024.webp",
@@ -810,7 +840,7 @@
           "description": "In the past 24 hours, $290 million of leveraged crypto positions have been liquidated.",
           "link": "https://thedefiant.io/news/markets/bitcoin-and-ether-plunge-amid-mt-gox-distributions",
           "publishedOn": "2024-07-25T08:48:49.000Z",
-          "wordCount": 1668,
+          "wordCount": 1664,
           "title": "Bitcoin and Ether Plunge Amid Mt. Gox Distributions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/db135c859ca909667bdf1f0d3c4cbb15b9507dad-1792x1024.webp",
@@ -855,7 +885,7 @@
           "description": "Ethereum’s ETH is flat in the past 24 hours even after ETFs drew in more than $100 million of inflows.",
           "link": "https://thedefiant.io/news/markets/eth-is-flat-after-strong-etf-debut",
           "publishedOn": "2024-07-24T18:16:36.000Z",
-          "wordCount": 1562,
+          "wordCount": 1558,
           "title": "ETH is Flat After Strong ETF Debut",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1c8ae8fab7650b95433994718dea95dbf8b5f719-1292x738.png",
@@ -885,7 +915,7 @@
           "description": "Solana, a prominent player in the cryptocurrency space, is experiencing renewed interest following a successful rebranding initiative by its money market protocol, Solend",
           "link": "https://thedefiant.io/news/markets/solana-s-sol-token-gains-momentum-to-250-amid-successful-solend-rebranding-etf",
           "publishedOn": "2024-07-24T16:25:19.000Z",
-          "wordCount": 1126,
+          "wordCount": 1122,
           "title": "Solana's SOL Token Gains Momentum to $250 Amid Successful Solend Rebranding and Ethereum ETF Speculation",
           "imageUrl": null
         },
@@ -1065,7 +1095,7 @@
           "description": "Elon Musk's companies continue to maintain significant holdings in Bitcoin, with Tesla reporting that it has not sold any of its Bitcoin during the second quarter of 2024",
           "link": "https://thedefiant.io/news/markets/tesla-holds-640-9-million-bitcoin-no-sales-q2-2024-spacex-owns-550-million",
           "publishedOn": "2024-07-24T06:54:44.000Z",
-          "wordCount": 1097,
+          "wordCount": 1093,
           "title": "Tesla Holds $640.9 Million in Bitcoin, No Sales in Q2 2024; SpaceX Owns $550 Million",
           "imageUrl": null
         },
@@ -1205,7 +1235,7 @@
           "description": "The majority of open positions are betting the ETH will rise in price despite the market’s selloff.",
           "link": "https://thedefiant.io/news/markets/derivatives-traders-are-going-long-eth",
           "publishedOn": "2024-07-23T18:21:29.000Z",
-          "wordCount": 1117,
+          "wordCount": 1113,
           "title": "Derivatives Traders are Going Long ETH",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b39c8ca3582c05b7b918dc3b81ba3574b70af502-828x473.png",
@@ -1235,7 +1265,7 @@
           "description": "Ethereum spot ETFs launch amid downturn for major cryptocurrencies.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-dip-as-ethereum-spot-etfs-make-debut",
           "publishedOn": "2024-07-23T16:11:57.000Z",
-          "wordCount": 1712,
+          "wordCount": 1708,
           "title": "Crypto Markets Dip as Ethereum Spot ETFs Make Debut",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/22a3ea0ee18c55fc6bc355a910f4994c3d910f22-1792x1024.png",
@@ -1350,39 +1380,9 @@
           "description": "The anticipated launch of Spot Ether ETFs is expected to bring significant capital inflows into the Ethereum market, with predictions ranging from $5 billion to $10 billion",
           "link": "https://thedefiant.io/news/markets/spot-ether-etfs-expected-to-bring-5b-to-10b-inflows-boosting-liquidity-causing",
           "publishedOn": "2024-07-23T11:37:01.000Z",
-          "wordCount": 1234,
+          "wordCount": 1230,
           "title": "Spot Ether ETFs Expected to Bring $5B to $10B in Inflows, Boosting Liquidity and Causing Price Volatility, Says Kaiko",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/california-based-swan-shelves-ipo-plans-cuts-staff-shuts-down-bitcoin-mining",
-          "author": "DeepNewz",
-          "description": "California-based Bitcoin services firm Swan has announced significant operational changes, including shelving its IPO plans, cutting staff, and shutting down its managed Bitcoin mining business",
-          "link": "https://thedefiant.io/news/cefi/california-based-swan-shelves-ipo-plans-cuts-staff-shuts-down-bitcoin-mining",
-          "publishedOn": "2024-07-23T09:41:47.000Z",
-          "wordCount": 1081,
-          "title": "California-based Swan Shelves IPO Plans, Cuts Staff, and Shuts Down Bitcoin Mining Unit",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cae8cca538de31e19d60e979b8e2c772944e2dfb-1920x1080.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cae8cca538de31e19d60e979b8e2c772944e2dfb-1920x1080.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/hive-digital-to-build-100mw-bitcoin-mining-facility-paraguay-amid-14-tariff",
-          "author": "DeepNewz",
-          "description": "Paraguay has recently become a hub for bitcoin miners due to its cheap electricity, lax laws, and low taxes",
-          "link": "https://thedefiant.io/news/cefi/hive-digital-to-build-100mw-bitcoin-mining-facility-paraguay-amid-14-tariff",
-          "publishedOn": "2024-07-23T09:40:50.000Z",
-          "wordCount": 1231,
-          "title": "HIVE Digital to Build 100MW Bitcoin Mining Facility in Paraguay Amid 14% Tariff Hikes, Brazil Exodus",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f3af5d013c924a4ff75f132dea7d1a85cd1375d-1280x720.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8f3af5d013c924a4ff75f132dea7d1a85cd1375d-1280x720.jpg"
         }
       ]
     },
