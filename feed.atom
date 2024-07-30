@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-30T07:13:22.091Z</id>
+    <id>urn:2024-07-30T08:18:37.727Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-30T07:13:22.091Z</updated>
+    <updated>2024-07-30T08:18:37.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,6 +31,56 @@
         <link href="https://thedefiant.io/news/regulation/vote-on-sen-stabenow-s-bipartisan-crypto-bill-delayed-work-to-resume-september"/>
         <updated>2024-07-30T06:49:48.000Z</updated>
         <summary type="html"><![CDATA[The vote on Senator Debbie Stabenow's cryptocurrency bill has been delayed, with work expected to resume in September]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPal's Solana-Based $PYUSD Reaches $240M, Closing Gap with Ethereum's $348M Supply]]></title>
+        <id>https://thedefiant.io/news/defi/paypal-s-solana-based-pyusd-reaches-240m-closing-gap-ethereum-s-348m-supply</id>
+        <link href="https://thedefiant.io/news/defi/paypal-s-solana-based-pyusd-reaches-240m-closing-gap-ethereum-s-348m-supply"/>
+        <updated>2024-07-30T06:49:14.000Z</updated>
+        <summary type="html"><![CDATA[PayPal's stablecoin, $PYUSD, built on the Solana network, is rapidly closing the supply gap with its Ethereum counterpart]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi Influencer Humpy Advocates Fee Activations as $AAVE and $MKR Gain Traction in DeFi]]></title>
+        <id>https://thedefiant.io/news/defi/defi-influencer-humpy-advocates-fee-activations-aave-mkr-gain-traction-defi</id>
+        <link href="https://thedefiant.io/news/defi/defi-influencer-humpy-advocates-fee-activations-aave-mkr-gain-traction-defi"/>
+        <updated>2024-07-30T06:48:18.000Z</updated>
+        <summary type="html"><![CDATA[Recent discussions within the decentralized finance (DeFi) community highlight the growing influence of traders on governance platforms]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mike Novogratz Urges Kamala Harris to Attend Permissionless Conference, Ditch Elizabeth Warren's Anti-Crypto Stance]]></title>
+        <id>https://thedefiant.io/news/people/mike-novogratz-urges-kamala-harris-to-attend-permissionless-conference-ditch-s</id>
+        <link href="https://thedefiant.io/news/people/mike-novogratz-urges-kamala-harris-to-attend-permissionless-conference-ditch-s"/>
+        <updated>2024-07-30T06:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Billionaire Mike Novogratz, CEO of Galaxy Digital, is advocating for Vice President Kamala Harris to participate in the upcoming Permissionless Conference]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Surpasses Ethereum in Fee Revenue, Collects $25M vs $21M]]></title>
+        <id>https://thedefiant.io/news/defi/solana-surpasses-ethereum-fee-revenue-collects-25m-vs-21m</id>
+        <link href="https://thedefiant.io/news/defi/solana-surpasses-ethereum-fee-revenue-collects-25m-vs-21m"/>
+        <updated>2024-07-30T06:47:58.000Z</updated>
+        <summary type="html"><![CDATA[Solana has surpassed Ethereum in both 24-hour and weekly fee revenue]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Celebrates 9th Birthday on July 30, 2024; Vitalik Buterin Anticipates Future Innovations]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-celebrates-9th-birthday-on-july-30-2024-vitalik-buterin-anticipates</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-celebrates-9th-birthday-on-july-30-2024-vitalik-buterin-anticipates"/>
+        <updated>2024-07-30T06:47:37.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum, the second-largest cryptocurrency by market capitalization, celebrates its 9th birthday on July 30, 2024]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
@@ -840,7 +890,7 @@
         <id>https://thedefiant.io/news/blockchains/base-launches-stage-1-decentralization-on-testnet</id>
         <link href="https://thedefiant.io/news/blockchains/base-launches-stage-1-decentralization-on-testnet"/>
         <updated>2024-07-24T09:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Base launched fault proofs on its Sepolia testnet, paving the way for the Layer 2 to achieve Stage 1 decentralization.]]></summary>
+        <summary type="html"><![CDATA[Base deployed fault proofs on its Sepolia testnet.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -951,56 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/zcash-zec-gains-support-freedom-money-shielded-addresses-amid-eu-transparency"/>
         <updated>2024-07-24T06:54:02.000Z</updated>
         <summary type="html"><![CDATA[Zcash is gaining traction among cryptocurrency enthusiasts, being referred to as 'freedom money' and 'the real bitcoin' by various supporters]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Becomes Bipartisan Issue in Presidential Election with $BTC Conference]]></title>
-        <id>https://thedefiant.io/news/people/crypto-becomes-bipartisan-issue-presidential-election-btc-conference</id>
-        <link href="https://thedefiant.io/news/people/crypto-becomes-bipartisan-issue-presidential-election-btc-conference"/>
-        <updated>2024-07-24T06:53:13.000Z</updated>
-        <summary type="html"><![CDATA[Crypto is emerging as a bipartisan issue in the upcoming presidential election]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bittensor Launches Graphite Subnet to Tackle Traveling Salesman Problem]]></title>
-        <id>https://thedefiant.io/news/blockchains/bittensor-launches-graphite-subnet-to-tackle-traveling-salesman-problem</id>
-        <link href="https://thedefiant.io/news/blockchains/bittensor-launches-graphite-subnet-to-tackle-traveling-salesman-problem"/>
-        <updated>2024-07-24T06:52:55.000Z</updated>
-        <summary type="html"><![CDATA[Bittensor, a decentralized machine learning network, has gained attention following the introduction of its new subnet, Graphite, which aims to address the Traveling Salesman Problem]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Franklin Templeton Highlights Potential for Solana ETFs Amidst Ethereum ETF Launch]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-highlights-potential-solana-etfs-amidst-ethereum-etf-launch</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-highlights-potential-solana-etfs-amidst-ethereum-etf-launch"/>
-        <updated>2024-07-24T06:52:31.000Z</updated>
-        <summary type="html"><![CDATA[Franklin Templeton Digital Assets has indicated that Solana is showing significant adoption and maturity, suggesting the potential for a Solana ETF]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senator Lummis Criticizes Biden's 'Disastrous' Bitcoin Mining Tax Proposal]]></title>
-        <id>https://thedefiant.io/news/regulation/senator-lummis-criticizes-biden-s-disastrous-bitcoin-mining-tax-proposal</id>
-        <link href="https://thedefiant.io/news/regulation/senator-lummis-criticizes-biden-s-disastrous-bitcoin-mining-tax-proposal"/>
-        <updated>2024-07-24T06:52:18.000Z</updated>
-        <summary type="html"><![CDATA[Senator Cynthia Lummis has released a report strongly criticizing the Biden administration's 'disastrous proposal' to tax Bitcoin miners]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Files Motion to Compel SEC to Release Critical Documents for Defense in Investigation]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-files-motion-to-compel-sec-to-release-critical-documents-defense</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-files-motion-to-compel-sec-to-release-critical-documents-defense"/>
-        <updated>2024-07-24T06:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase has filed a motion to compel the U.S. Securities and Exchange Commission (SEC) to produce documents critical to its defense in an ongoing investigation.]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
