@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-30T06:20:31.881Z</id>
+    <id>urn:2024-07-30T07:13:22.091Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-30T06:20:31.881Z</updated>
+    <updated>2024-07-30T07:13:22.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Amends Binance Lawsuit, Drops Security Claims for Solana and Other Cryptocurrencies]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-amends-binance-lawsuit-drops-security-claims-for-solana-and-other-cryptocurrencies</id>
+        <link href="https://thedefiant.io/news/regulation/sec-amends-binance-lawsuit-drops-security-claims-for-solana-and-other-cryptocurrencies"/>
+        <updated>2024-07-30T06:58:21.000Z</updated>
+        <summary type="html"><![CDATA[The SEC’s lawsuit against Binance had classified SOL, ADA, MATIC, FIL, ATOM, SAND, MANA, ALGO, AXS, and COTI as securities.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forgotten Runiverse Closed Beta Launches in 2 Days for Wizards and Ring Holders, Offering Mana Bonus and Creator Kit]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/forgotten-runiverse-closed-beta-launches-2-days-wizards-ring-holders-offering</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/forgotten-runiverse-closed-beta-launches-2-days-wizards-ring-holders-offering"/>
+        <updated>2024-07-30T06:49:57.000Z</updated>
+        <summary type="html"><![CDATA[The upcoming Closed Beta Test (CBT) for the browser-based game Forgotten Runiverse is set to launch in two days, with access granted to Wizards, Souls, Warriors, and Ring holders]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vote on Sen. Stabenow's Bipartisan Crypto Bill Delayed; Work to Resume in September During August Work Period]]></title>
+        <id>https://thedefiant.io/news/regulation/vote-on-sen-stabenow-s-bipartisan-crypto-bill-delayed-work-to-resume-september</id>
+        <link href="https://thedefiant.io/news/regulation/vote-on-sen-stabenow-s-bipartisan-crypto-bill-delayed-work-to-resume-september"/>
+        <updated>2024-07-30T06:49:48.000Z</updated>
+        <summary type="html"><![CDATA[The vote on Senator Debbie Stabenow's cryptocurrency bill has been delayed, with work expected to resume in September]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Very Liberal Americans Are Most Likely To Own Bitcoin Says New Study]]></title>
         <id>https://thedefiant.io/news/blockchains/very-liberal-americans-are-most-likely-to-own-bitcoin-says-new-study</id>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/base-launches-stage-1-decentralization-on-testnet</id>
         <link href="https://thedefiant.io/news/blockchains/base-launches-stage-1-decentralization-on-testnet"/>
         <updated>2024-07-24T09:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Base deployed fault proofs on its Sepolia testnet.]]></summary>
+        <summary type="html"><![CDATA[Base launched fault proofs on its Sepolia testnet, paving the way for the Layer 2 to achieve Stage 1 decentralization.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -973,36 +1003,6 @@
         <summary type="html"><![CDATA[Coinbase has filed a motion to compel the U.S. Securities and Exchange Commission (SEC) to produce documents critical to its defense in an ongoing investigation.]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riot Platforms Acquires Block Mining in $92.5 Million Deal, Expanding Bitcoin Mining Power Capacity]]></title>
-        <id>https://thedefiant.io/news/cefi/riot-platforms-acquires-block-mining-92-5-million-deal-expanding-bitcoin-mining</id>
-        <link href="https://thedefiant.io/news/cefi/riot-platforms-acquires-block-mining-92-5-million-deal-expanding-bitcoin-mining"/>
-        <updated>2024-07-24T06:52:07.000Z</updated>
-        <summary type="html"><![CDATA[Riot Platforms has announced the acquisition of Block Mining]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kamala Harris's Campaign in Talks to Speak at Bitcoin Conference]]></title>
-        <id>https://thedefiant.io/news/people/kamala-harris-campaign-in-talks-to-speak-at-bitcoin-conference</id>
-        <link href="https://thedefiant.io/news/people/kamala-harris-campaign-in-talks-to-speak-at-bitcoin-conference"/>
-        <updated>2024-07-23T21:39:14.000Z</updated>
-        <summary type="html"><![CDATA[President Joe Biden endorsed Vice President Kamala Harris to become the presidential candidate for the Democratic Party in this year's election.]]></summary>
-        <author>
-            <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum ETFs Did  $1 Billion in Volume in First Day of Trading]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/ethereum-etfs-did-usd1-billion-in-volume-in-first-day-of-trading</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/ethereum-etfs-did-usd1-billion-in-volume-in-first-day-of-trading"/>
-        <updated>2024-07-23T21:25:25.000Z</updated>
-        <summary type="html"><![CDATA[ETH spot ETF volumes are about 22% of what Bitcoin spot ETFs did on their first day.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
