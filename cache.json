@@ -185,21 +185,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://thedefiant.io/news/people/mike-novogratz-urges-kamala-harris-to-attend-permissionless-conference-ditch-s",
-          "author": "DeepNewz",
-          "description": "Billionaire Mike Novogratz, CEO of Galaxy Digital, is advocating for Vice President Kamala Harris to participate in the upcoming Permissionless Conference",
-          "link": "https://thedefiant.io/news/people/mike-novogratz-urges-kamala-harris-to-attend-permissionless-conference-ditch-s",
-          "publishedOn": "2024-07-30T06:48:03.000Z",
-          "wordCount": null,
-          "title": "Mike Novogratz Urges Kamala Harris to Attend Permissionless Conference, Ditch Elizabeth Warren's Anti-Crypto Stance",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2fec87672e5952fa07e17c6bde6937f670f90e14-1024x512.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2fec87672e5952fa07e17c6bde6937f670f90e14-1024x512.jpg"
-        },
-        {
           "id": "https://thedefiant.io/news/defi/solana-surpasses-ethereum-fee-revenue-collects-25m-vs-21m",
           "author": "DeepNewz",
           "description": "Solana has surpassed Ethereum in both 24-hour and weekly fee revenue",
@@ -1192,7 +1177,7 @@
         {
           "id": "https://thedefiant.io/news/defi/proton-announces-its-self-custodial-bitcoin-wallet",
           "author": "Squiffs",
-          "description": "Early access is now open for Proton Wallet, marking the launch of the privacy company's first crypto product.",
+          "description": "Proton, a privacy focused service provider known for its email client, opened up early access for a  self-custodial Bitcoin wallet.",
           "link": "https://thedefiant.io/news/defi/proton-announces-its-self-custodial-bitcoin-wallet",
           "publishedOn": "2024-07-24T21:41:27.000Z",
           "wordCount": 1309,
@@ -1398,6 +1383,21 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4a787b23e8b64e7cde16aa5028d217c79b8530ab-1920x1080.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/research-and-opinion/navigating-the-institutional-defi-trilemma",
+          "author": "IntoTheBlock",
+          "description": "Engaging in DeFi at scale presents unique challenges, encapsulated by the \"Institutional DeFi Trilemma\" model — Risk, Reward, and Capacity.",
+          "link": "https://thedefiant.io/news/research-and-opinion/navigating-the-institutional-defi-trilemma",
+          "publishedOn": "2024-07-24T08:31:54.000Z",
+          "wordCount": 2556,
+          "title": "Navigating the Institutional DeFi Trilemma",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3a05fe0798d18c23e64f4a8a1468848da4ee9ec2-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3a05fe0798d18c23e64f4a8a1468848da4ee9ec2-1792x1024.webp"
         }
       ]
     },
