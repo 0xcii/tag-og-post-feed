@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/xrp-rallies-8-as-bitcoin-and-ether-trade-flat-ahead-of-fed",
+          "author": "Mehab Qureshi",
+          "description": "Key events this week include the FOMC meeting and Big Tech earnings from Apple, Amazon, and Meta.",
+          "link": "https://thedefiant.io/news/markets/xrp-rallies-8-as-bitcoin-and-ether-trade-flat-ahead-of-fed",
+          "publishedOn": "2024-07-31T12:14:24.000Z",
+          "wordCount": 1994,
+          "title": "XRP Rallies 8% as Bitcoin and Ether Trade Flat Ahead of Fed",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/efcb35045c2dcf7bced1b4d3791508252957d5b3-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/efcb35045c2dcf7bced1b4d3791508252957d5b3-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/compound-governance-attack-reveals-inherent-vulnerabilities-of-daos",
           "author": "Pedro Solimano",
           "description": "Many experts agree that DAOs are vulnerable to misaligned incentives and the whim of large tokenholders.",
@@ -200,7 +215,7 @@
           "description": "Grayscale Investments has reported significant outflows from its spot Bitcoin and Ether ETFs, totaling over $20 billion",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-reports-20-4b-outflow-spot-bitcoin-ether-etfs",
           "publishedOn": "2024-07-31T08:00:10.000Z",
-          "wordCount": 996,
+          "wordCount": 997,
           "title": "Grayscale Reports $20.4B Outflow from Spot Bitcoin and Ether ETFs",
           "imageUrl": null
         },
@@ -330,7 +345,7 @@
           "description": "BlackRock’s CIO of index investments said it \"will be a while” before the world’s largest asset manager expands its digital asset ETF roster.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-not-interested-in-solana-etf-expects-to-see-strong-inflows-to-ether-etfs-around-2025",
           "publishedOn": "2024-07-30T14:10:00.000Z",
-          "wordCount": 1980,
+          "wordCount": 1981,
           "title": "BlackRock Not Interested In Solana ETF, Expects To See Strong Inflows To Ether ETFs Around 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/390b835ecc69c017a8c34115e70a750623064bd3-1792x1024.webp",
@@ -357,11 +372,11 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/tradfi-giant-nomura-teams-up-with-dinero-on-eth-staking-fund",
           "author": "Samuel Haig",
-          "description": "The institutional fund is exclusively backed by Dinero’s pxETH liquid staking token.",
+          "description": "The ipxETH product is exclusively backed by Dinero’s pxETH liquid staking token.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/tradfi-giant-nomura-teams-up-with-dinero-on-eth-staking-fund",
           "publishedOn": "2024-07-30T11:15:00.000Z",
-          "wordCount": 1862,
-          "title": "TradFi Giant Nomura Teams Up With Dinero On ETH Staking Fund",
+          "wordCount": 1826,
+          "title": "Laser Digital Teams Up With Dinero On Institutional LST",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ae19a38b9a6bdeec7cfd66f5eece478129bb0a87-1792x1024.webp",
             "length": "1000000",
@@ -375,7 +390,7 @@
           "description": "The federal government transferred $2 billion worth of Bitcoin on Monday, according to Arkham Intelligence.",
           "link": "https://thedefiant.io/news/markets/markets-turn-lower-amid-fears-of-u-s-government-sales",
           "publishedOn": "2024-07-30T10:18:04.000Z",
-          "wordCount": 1516,
+          "wordCount": 1500,
           "title": "Markets Turn Lower Amid Fears of U.S. Government Sales",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/34b29345591779c74a1a57c746d873cd91f76893-1792x1024.webp",
@@ -565,7 +580,7 @@
           "description": "BlackRock has announced that there will be no Solana ETF in the near term, according to spokesperson Samara Cohen",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-announces-no-sol-etf-near-term",
           "publishedOn": "2024-07-29T19:25:41.000Z",
-          "wordCount": 934,
+          "wordCount": 935,
           "title": "BlackRock Announces No $SOL ETF in Near Term",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c45b7fcff6f7a3ea3ba255cee47532ab39223d5b-1920x1080.jpg",
@@ -580,7 +595,7 @@
           "description": "The U",
           "link": "https://thedefiant.io/news/markets/u-s-government-transfers-2-billion-seized-silk-road-bitcoin-splits-into-two-s",
           "publishedOn": "2024-07-29T19:25:29.000Z",
-          "wordCount": 1119,
+          "wordCount": 1103,
           "title": "U.S. Government Transfers $2 Billion in Seized Silk Road Bitcoin, Splits into Two Addresses After Trump's Speech",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dc582adb5427da0bc9466248468e2fdfddcd0e75-1920x1080.jpg",
@@ -610,7 +625,7 @@
           "description": "ETH ETFS recorded high trading volume relative to BTC ETFs, but net outflows while BTC funds had net inflows.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-etfs-lag-behind-bitcoin-etfs-in-first-week",
           "publishedOn": "2024-07-29T16:44:53.000Z",
-          "wordCount": 2247,
+          "wordCount": 2248,
           "title": "Ethereum ETFs Lag Behind Bitcoin ETFs in First Week",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b226528f3053e7c58b38e555209223a88fc38920-1292x738.png",
@@ -670,7 +685,7 @@
           "description": "Trump asserted that he would fire SEC chair Gensler and ensure the federal government retains its Bitcoin holdings if he is re-elected.",
           "link": "https://thedefiant.io/news/markets/btc-inches-closer-to-usd70-000-after-trump-says-never-sell-your-bitcoin",
           "publishedOn": "2024-07-29T13:09:39.000Z",
-          "wordCount": 1693,
+          "wordCount": 1677,
           "title": "BTC Inches Closer to $70,000 after Trump Says ‘Never Sell Your Bitcoin’",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f06ea1f50b33b5fb976f175d2f02c7c827d10977-1792x1024.webp",
@@ -865,7 +880,7 @@
           "description": "At least 22 celebrities used Pump.fun to launch memecoins but most have abandoned their projects.",
           "link": "https://thedefiant.io/news/markets/nearly-every-celebrity-token-launched-in-2024-has-gone-to-zero",
           "publishedOn": "2024-07-26T22:31:28.000Z",
-          "wordCount": 1319,
+          "wordCount": 1303,
           "title": "Nearly Every Celebrity Token Launched in 2024 Has Gone to Zero",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc6988e6b40f19dc78f10f4e6b31884a8c5584ec-1792x1024.webp",
@@ -935,7 +950,7 @@
           "description": "Franklin Templeton is collaborating with Japan's SBI Holdings to launch a new crypto entity this year.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-sbi-holdings-to-launch-bitcoin-ethereum-etfs-japan",
           "publishedOn": "2024-07-26T08:47:26.000Z",
-          "wordCount": 1039,
+          "wordCount": 1040,
           "title": "Franklin Templeton and SBI Holdings to Launch Bitcoin and Ethereum ETFs in Japan",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9c3dac6751a176e894a9add92f5c2218e532ff47-1280x720.jpg",
@@ -1065,7 +1080,7 @@
           "description": "Crypto traders get some relief as BTC and ETH rally 5% and 3%, respectively.",
           "link": "https://thedefiant.io/news/markets/bitcoin-bounces-back-after-brutal-crypto-selloff",
           "publishedOn": "2024-07-26T07:47:59.000Z",
-          "wordCount": 1573,
+          "wordCount": 1557,
           "title": "Bitcoin Bounces Back after Brutal Crypto Selloff",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3c47242134fbfbbb06061dfa833df394c8500890-1792x1024.webp",
@@ -1182,10 +1197,10 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/bitcoin-rewards-company-fold-to-go-public-on-nasdaq-via-spac-merger",
           "author": "Mehab Qureshi",
-          "description": "The deal marks the company's valuation at $365 million.",
+          "description": "Bitcoin rewards company Fold is gearing up to debut on the Nasdaq stock exchange through a merger with FTAC Emerald Acquisition Corp., a special-purpose acquisition company (SPAC).",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bitcoin-rewards-company-fold-to-go-public-on-nasdaq-via-spac-merger",
           "publishedOn": "2024-07-25T14:51:26.000Z",
-          "wordCount": 1568,
+          "wordCount": 1569,
           "title": "Bitcoin Rewards Company Fold to Go Public on Nasdaq Via SPAC Merger",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ea8e3329de088b69b675370c91a498a2c2369df2-1792x1024.webp",
@@ -1197,7 +1212,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/colombia-s-largest-bank-taps-chainlink-proof-of-reserves-for-copw-stablecoin",
           "author": "Samuel Haig",
-          "description": "Bancolombia, the largest bank in Colombia, integrated Chainlink's Proof of Reserves for its COPW stablecoin.",
+          "description": "Bancolombia Group entered the web3 sector in May after 10 years of research.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/colombia-s-largest-bank-taps-chainlink-proof-of-reserves-for-copw-stablecoin",
           "publishedOn": "2024-07-25T13:00:00.000Z",
           "wordCount": 1583,
@@ -1280,7 +1295,7 @@
           "description": "Fold, a Bitcoin reward firm, is in advanced talks to go public via a special purpose acquisition company (SPAC) started by veteran Betsy Cohen",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/fold-to-go-public-via-365-million-spac-deal-ftac-emerald-on-nasdaq",
           "publishedOn": "2024-07-25T09:26:03.000Z",
-          "wordCount": 1170,
+          "wordCount": 1171,
           "title": "Fold to Go Public via $365 Million SPAC Deal with FTAC Emerald on NASDAQ",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/886b0e95ff6d9cc8b3cbddf5f14caf6fc47f45e0-1280x720.jpg",
@@ -1388,21 +1403,6 @@
           "wordCount": 1219,
           "title": "Bridging Costs to Arbitrum Drop to $0.324 for $100, $0.034 for L2 Transfers; ETH Bridged More Than Doubles Since TGE",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/agridex-completes-first-agricultural-rwa-trade-on-solana-blockchain",
-          "author": "DeepNewz",
-          "description": "AgriDex, a Solana-based marketplace, has completed its first agricultural RWA trade on the Solana blockchain",
-          "link": "https://thedefiant.io/news/defi/agridex-completes-first-agricultural-rwa-trade-on-solana-blockchain",
-          "publishedOn": "2024-07-25T09:23:38.000Z",
-          "wordCount": 951,
-          "title": "AgriDex Completes First Agricultural RWA Trade on Solana Blockchain",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dbccfb49dbe920e2d4c71e9791fd1e643a0435c8-1200x799.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dbccfb49dbe920e2d4c71e9791fd1e643a0435c8-1200x799.jpg"
         }
       ]
     },

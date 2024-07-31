@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-31T11:11:49.389Z</id>
+    <id>urn:2024-07-31T12:29:02.192Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-31T11:11:49.389Z</updated>
+    <updated>2024-07-31T12:29:02.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[XRP Rallies 8% as Bitcoin and Ether Trade Flat Ahead of Fed]]></title>
+        <id>https://thedefiant.io/news/markets/xrp-rallies-8-as-bitcoin-and-ether-trade-flat-ahead-of-fed</id>
+        <link href="https://thedefiant.io/news/markets/xrp-rallies-8-as-bitcoin-and-ether-trade-flat-ahead-of-fed"/>
+        <updated>2024-07-31T12:14:24.000Z</updated>
+        <summary type="html"><![CDATA[Key events this week include the FOMC meeting and Big Tech earnings from Apple, Amazon, and Meta.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compound Governance Attack Reveals Inherent Vulnerabilities Of DAOs]]></title>
         <id>https://thedefiant.io/news/defi/compound-governance-attack-reveals-inherent-vulnerabilities-of-daos</id>
@@ -236,11 +246,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TradFi Giant Nomura Teams Up With Dinero On ETH Staking Fund]]></title>
+        <title type="html"><![CDATA[Laser Digital Teams Up With Dinero On Institutional LST]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/tradfi-giant-nomura-teams-up-with-dinero-on-eth-staking-fund</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/tradfi-giant-nomura-teams-up-with-dinero-on-eth-staking-fund"/>
         <updated>2024-07-30T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The institutional fund is exclusively backed by Dinero’s pxETH liquid staking token.]]></summary>
+        <summary type="html"><![CDATA[The ipxETH product is exclusively backed by Dinero’s pxETH liquid staking token.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/bitcoin-rewards-company-fold-to-go-public-on-nasdaq-via-spac-merger</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/bitcoin-rewards-company-fold-to-go-public-on-nasdaq-via-spac-merger"/>
         <updated>2024-07-25T14:51:26.000Z</updated>
-        <summary type="html"><![CDATA[The deal marks the company's valuation at $365 million.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin rewards company Fold is gearing up to debut on the Nasdaq stock exchange through a merger with FTAC Emerald Acquisition Corp., a special-purpose acquisition company (SPAC).]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/colombia-s-largest-bank-taps-chainlink-proof-of-reserves-for-copw-stablecoin</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/colombia-s-largest-bank-taps-chainlink-proof-of-reserves-for-copw-stablecoin"/>
         <updated>2024-07-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bancolombia, the largest bank in Colombia, integrated Chainlink's Proof of Reserves for its COPW stablecoin.]]></summary>
+        <summary type="html"><![CDATA[Bancolombia Group entered the web3 sector in May after 10 years of research.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/bridging-costs-to-arbitrum-drop-to-0-324-100-0-034-l2-transfers-eth-bridged-more"/>
         <updated>2024-07-25T09:23:46.000Z</updated>
         <summary type="html"><![CDATA[Recent discussions in the cryptocurrency community highlight the increasing cost-effectiveness of bridging assets to Layer 2 networks such as Arbitrum, Base, and Optimism]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AgriDex Completes First Agricultural RWA Trade on Solana Blockchain]]></title>
-        <id>https://thedefiant.io/news/defi/agridex-completes-first-agricultural-rwa-trade-on-solana-blockchain</id>
-        <link href="https://thedefiant.io/news/defi/agridex-completes-first-agricultural-rwa-trade-on-solana-blockchain"/>
-        <updated>2024-07-25T09:23:38.000Z</updated>
-        <summary type="html"><![CDATA[AgriDex, a Solana-based marketplace, has completed its first agricultural RWA trade on the Solana blockchain]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
