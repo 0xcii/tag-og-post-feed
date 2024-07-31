@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-31T16:18:04.520Z</id>
+    <id>urn:2024-07-31T17:14:41.589Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-31T16:18:04.520Z</updated>
+    <updated>2024-07-31T17:14:41.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[California DMV Brings Car Titles onto the Avalanche Blockchain]]></title>
+        <id>https://thedefiant.io/news/blockchains/california-dmv-brings-car-titles-onto-the-avalanche-blockchain</id>
+        <link href="https://thedefiant.io/news/blockchains/california-dmv-brings-car-titles-onto-the-avalanche-blockchain"/>
+        <updated>2024-07-31T17:08:32.000Z</updated>
+        <summary type="html"><![CDATA[The move sees the DMV digitize 42 million on Avalanche (AVAX) to simplify title management.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Degens Can Now Make Memecoins From Tweets]]></title>
+        <id>https://thedefiant.io/news/defi/degens-can-now-make-memecoins-from-tweets</id>
+        <link href="https://thedefiant.io/news/defi/degens-can-now-make-memecoins-from-tweets"/>
+        <updated>2024-07-31T16:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Four steps and users can launch their memecoins on makenow.meme.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram Game Hamster Kombat Plans to Airdrop 60% of Tokens to Users]]></title>
+        <id>https://thedefiant.io/news/defi/telegram-game-hamster-kombat-plans-to-airdrop-60-of-tokens-to-users</id>
+        <link href="https://thedefiant.io/news/defi/telegram-game-hamster-kombat-plans-to-airdrop-60-of-tokens-to-users"/>
+        <updated>2024-07-31T16:47:06.000Z</updated>
+        <summary type="html"><![CDATA[The airdrop announcement comes after the game decided to postpone its original plans in July.]]></summary>
+        <author>
+            <name>Mehab Qureshi and Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Airhead]]></title>
         <id>https://medium.com/p/1267718999f8</id>
@@ -981,36 +1011,6 @@
         <link href="https://thedefiant.io/news/defi/capital-shifts-eigenlayer-s-16-7b-to-symbiotic-finance-s-1-27b-4-9m-eth-restaked"/>
         <updated>2024-07-25T09:25:04.000Z</updated>
         <summary type="html"><![CDATA[The restaking landscape is witnessing a shift as capital flows from EigenLayer to Symbiotic Finance]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Uniswap v3 Dashboard Launches, Powered by Shadow Events Data; 80% of New Wallets Visit Uniswap]]></title>
-        <id>https://thedefiant.io/news/defi/new-uniswap-v3-dashboard-launches-powered-shadow-events-data-80-new-wallets</id>
-        <link href="https://thedefiant.io/news/defi/new-uniswap-v3-dashboard-launches-powered-shadow-events-data-80-new-wallets"/>
-        <updated>2024-07-25T09:24:58.000Z</updated>
-        <summary type="html"><![CDATA[A new dashboard has been launched in collaboration with Uniswap, utilizing data from Uniswap v3 shadow events]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MonoSwap Hacked in Phishing Attack; $100 Million Liquidated in Crypto Market]]></title>
-        <id>https://thedefiant.io/news/defi/monoswap-hacked-phishing-attack-100-million-liquidated-crypto-market</id>
-        <link href="https://thedefiant.io/news/defi/monoswap-hacked-phishing-attack-100-million-liquidated-crypto-market"/>
-        <updated>2024-07-25T09:24:42.000Z</updated>
-        <summary type="html"><![CDATA[MonoSwap, a staking platform on the Blast protocol, has been hacked following a phishing attack from a fake VC fund on one of its developers]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Plans Tokenized Money-Market Fund on Ethereum Following BlackRock's Success]]></title>
-        <id>https://thedefiant.io/news/defi/coinbase-plans-tokenized-money-market-fund-on-ethereum-following-blackrock-s</id>
-        <link href="https://thedefiant.io/news/defi/coinbase-plans-tokenized-money-market-fund-on-ethereum-following-blackrock-s"/>
-        <updated>2024-07-25T09:24:36.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase's asset management arm is planning to create a tokenized money-market fund, according to four people familiar with the plan]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
