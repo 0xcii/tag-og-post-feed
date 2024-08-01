@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/elixir-unveils-yield-bearing-stablecoin-to-compete-with-ethena",
+          "author": "Samuel Haig",
+          "description": "Elixir’s deUSD is backed by a delta-neutral ETH position, accumulating Ether staking rewards and short funding rates to pay out yield to holders.",
+          "link": "https://thedefiant.io/news/defi/elixir-unveils-yield-bearing-stablecoin-to-compete-with-ethena",
+          "publishedOn": "2024-08-01T10:06:00.000Z",
+          "wordCount": 1810,
+          "title": "Elixir Unveils Yield-Bearing Stablecoin To Compete With Ethena",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/32540c4d2d2d97c93f055f9d02a4d383d1dd7835-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/32540c4d2d2d97c93f055f9d02a4d383d1dd7835-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/terra-can-t-catch-a-break-as-blockchain-gets-exploited-for-usd6-million",
           "author": "Pedro Solimano",
           "description": "The attack, which exploited a vulnerability disclosed in April, drained roughly 60 million ASTRO tokens, which sent the price plummeting.",
@@ -1433,16 +1448,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b782893ed4f578bb7b99521625752140390b80a1-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/privy-launches-support-solana-to-enhance-embeddable-wallet-development",
-          "author": "DeepNewz",
-          "description": "Privy has announced the launch of its support for Solana, a blockchain known for its ecosystem of thoughtful builders focused on world-class experiences",
-          "link": "https://thedefiant.io/news/defi/privy-launches-support-solana-to-enhance-embeddable-wallet-development",
-          "publishedOn": "2024-07-25T09:26:11.000Z",
-          "wordCount": 1056,
-          "title": "Privy Launches Support for Solana to Enhance Embeddable Wallet Development",
-          "imageUrl": null
         }
       ]
     },
