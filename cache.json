@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/research-and-opinion/from-digital-scarcity-to-abundance-how-crypto-and-ai-complement-each-other",
+          "author": "Momir Amidzic | IOSG Ventures",
+          "description": "The convergence of crypto and AI presents a landscape ripe with innovation and potential.",
+          "link": "https://thedefiant.io/news/research-and-opinion/from-digital-scarcity-to-abundance-how-crypto-and-ai-complement-each-other",
+          "publishedOn": "2024-08-02T09:14:06.000Z",
+          "wordCount": 4050,
+          "title": "From Digital Scarcity to Abundance: How Crypto and AI Complement Each Other",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fa3950f7225efd93a0668b41de16e2d4b8eb9d81-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fa3950f7225efd93a0668b41de16e2d4b8eb9d81-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/coinbase-launches-summer-shop-100-unique-items-web3-investments-surpass-1b",
           "author": "DeepNewz",
           "description": "Coinbase has launched the Coinbase Summer Shop, an onchain marketplace that features over 100 unique items created by various talented creators",
@@ -113,6 +128,31 @@
           "wordCount": 1065,
           "title": "Sandbox Partners with LayerZero to Expand $SAND to Base, Polygon, and BNB",
           "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/arthur-hayes-maelstrom-invests-bitcoin-ordinals-wallet-oyl-launches-airheads",
+          "author": "DeepNewz",
+          "description": "Arthur Hayes' family office, Maelstrom, has invested in the Bitcoin Ordinals wallet Oyl and collaborated to develop a new series called Airheads",
+          "link": "https://thedefiant.io/news/nfts-and-web3/arthur-hayes-maelstrom-invests-bitcoin-ordinals-wallet-oyl-launches-airheads",
+          "publishedOn": "2024-08-02T08:23:16.000Z",
+          "wordCount": 1091,
+          "title": "Arthur Hayes' Maelstrom Invests in Bitcoin Ordinals Wallet Oyl and Launches Airheads for Digital Portfolios",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/bybit-to-cease-operations-france-on-august-2-amid-mica-regulations",
+          "author": "DeepNewz",
+          "description": "Bybit, the third largest offshore cryptocurrency exchange, has announced that it will cease its services and product offerings in France",
+          "link": "https://thedefiant.io/news/cefi/bybit-to-cease-operations-france-on-august-2-amid-mica-regulations",
+          "publishedOn": "2024-08-02T08:22:28.000Z",
+          "wordCount": 1148,
+          "title": "Bybit to Cease Operations in France on August 2 Amid MiCA Regulations",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fe1a08a337ea7bb0c29271a485a5f3f9fd9d42b1-1920x1080.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fe1a08a337ea7bb0c29271a485a5f3f9fd9d42b1-1920x1080.jpg"
         },
         {
           "id": "https://thedefiant.io/news/people/south-korea-wins-extradition-battle-for-do-kwon",
@@ -1285,7 +1325,7 @@
           "description": "The University of Wyoming is set to launch a Bitcoin Research Institute in August 2024, spearheaded by cryptocurrency advocate and professor Bradley Rettler",
           "link": "https://thedefiant.io/news/research-and-opinion/university-wyoming-to-launch-bitcoin-research-institute-led-bradley-rettler-peer",
           "publishedOn": "2024-07-29T11:07:26.000Z",
-          "wordCount": 1083,
+          "wordCount": 1107,
           "title": "University of Wyoming to Launch Bitcoin Research Institute Led by Bradley Rettler for Peer-Reviewed Studies in August 2024",
           "imageUrl": null
         },
@@ -1418,46 +1458,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1f6a5f96afb20635e79e08786b5ae739455e653a-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/morpholabs-launches-superfest-campaign-on-july-23-8m-deposited-on-base-51m-op",
-          "author": "DeepNewz",
-          "description": "MorphoLabs has launched its SuperFest campaign, which commenced on July 23, 2024",
-          "link": "https://thedefiant.io/news/defi/morpholabs-launches-superfest-campaign-on-july-23-8m-deposited-on-base-51m-op",
-          "publishedOn": "2024-07-26T08:48:00.000Z",
-          "wordCount": 1116,
-          "title": "MorphoLabs Launches SuperFest Campaign on July 23, $8M Deposited on Base, $51M in RE7Capital Vaults, OP Rewards Available",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-sbi-holdings-to-launch-bitcoin-ethereum-etfs-japan",
-          "author": "DeepNewz",
-          "description": "Franklin Templeton is collaborating with Japan's SBI Holdings to launch a new crypto entity this year.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-sbi-holdings-to-launch-bitcoin-ethereum-etfs-japan",
-          "publishedOn": "2024-07-26T08:47:26.000Z",
-          "wordCount": 1066,
-          "title": "Franklin Templeton and SBI Holdings to Launch Bitcoin and Ethereum ETFs in Japan",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9c3dac6751a176e894a9add92f5c2218e532ff47-1280x720.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9c3dac6751a176e894a9add92f5c2218e532ff47-1280x720.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/base-surges-to-top-layer-2-over-4-million-transactions-1220883-daily-active",
-          "author": "DeepNewz",
-          "description": "Base, a leading Layer 2 solution, has seen a significant surge in activity, becoming the top Layer 2 by daily transaction volume with over 4 million transactions",
-          "link": "https://thedefiant.io/news/defi/base-surges-to-top-layer-2-over-4-million-transactions-1220883-daily-active",
-          "publishedOn": "2024-07-26T08:46:06.000Z",
-          "wordCount": 1262,
-          "title": "Base Surges to Top Layer 2 with Over 4 Million Transactions and 1,220,883 Daily Active Addresses",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d8b11cd4193c4f413febe8e65f65a96fb437071-4267x2134.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0d8b11cd4193c4f413febe8e65f65a96fb437071-4267x2134.jpg"
         }
       ]
     },
