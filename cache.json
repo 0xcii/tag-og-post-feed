@@ -45,6 +45,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/trump-suggests-using-bitcoin-to-address-35-trillion-us-debt",
+          "author": "DeepNewz",
+          "description": "Former President Donald Trump has suggested the possibility of using cryptocurrency, specifically Bitcoin, to address the United States' $35 trillion national debt",
+          "link": "https://thedefiant.io/news/regulation/trump-suggests-using-bitcoin-to-address-35-trillion-us-debt",
+          "publishedOn": "2024-08-02T19:34:54.000Z",
+          "wordCount": 1056,
+          "title": "Trump Suggests Using Bitcoin to Address $35 Trillion US Debt",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/markets/almost-99-of-pump-fun-tokens-fail",
           "author": "Pedro Solimano",
           "description": "Of 1.58 million tokens that launched, barely 1.4% made it to Raydium for open trading.",
@@ -1222,7 +1232,7 @@
         {
           "id": "https://thedefiant.io/news/defi/slovenia-issues-first-digital-sovereign-bond-in-europe",
           "author": "Pedro Solimano",
-          "description": "Slovenia became the first European Union country to issue a sovereign digital on-chain bond.",
+          "description": "The $30 million euro bond was settled through Bank of France’s tokenized cash system and BNP Paribas.",
           "link": "https://thedefiant.io/news/defi/slovenia-issues-first-digital-sovereign-bond-in-europe",
           "publishedOn": "2024-07-29T17:10:24.000Z",
           "wordCount": 1305,
@@ -1443,21 +1453,6 @@
           "wordCount": 1213,
           "title": "Solana Achieves Record Highs: $5.65B TVL, 42% DEX Volume, and Flips Ethereum in 24-Hour Fees",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/trump-speaks-at-bitcoin2024-says-he-ll-fire-gary-gensler-on-day-1",
-          "author": "Pedro Solimano",
-          "description": "The presidential candidate also said he will end Operation Chokepoint 2.0.",
-          "link": "https://thedefiant.io/news/regulation/trump-speaks-at-bitcoin2024-says-he-ll-fire-gary-gensler-on-day-1",
-          "publishedOn": "2024-07-27T21:20:06.000Z",
-          "wordCount": 1913,
-          "title": "Trump Speaks at Bitcoin2024, Says He'll Fire Gary Gensler On Day One",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b782893ed4f578bb7b99521625752140390b80a1-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b782893ed4f578bb7b99521625752140390b80a1-1792x1024.webp"
         }
       ]
     },
