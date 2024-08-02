@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-02T21:14:24.774Z</id>
+    <id>urn:2024-08-02T22:14:16.701Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-02T21:14:24.774Z</updated>
+    <updated>2024-08-02T22:14:16.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Memecoins Runes Make Up 35% of All the Chain's Transactions]]></title>
+        <id>https://thedefiant.io/news/blockchains/bitcoin-memecoins-runes-make-up-35-of-all-the-chain-s-transactions</id>
+        <link href="https://thedefiant.io/news/blockchains/bitcoin-memecoins-runes-make-up-35-of-all-the-chain-s-transactions"/>
+        <updated>2024-08-02T21:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin-based memecoins, known as Runes, have only been around since April this year.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump Suggests Using Bitcoin to Address $35 Trillion US Debt]]></title>
         <id>https://thedefiant.io/news/regulation/trump-suggests-using-bitcoin-to-address-35-trillion-us-debt</id>
@@ -1001,16 +1011,6 @@
         <link href="https://thedefiant.io/news/cefi/wazirx-faces-cyberattack-offers-55-fund-recovery-fbi-investigates"/>
         <updated>2024-07-29T11:07:12.000Z</updated>
         <summary type="html"><![CDATA[WazirX, an Indian cryptocurrency exchange, faced a significant cyberattack on July 18, which was possible due to four points of failure in the digital signing process, according to founder and CEO Nischal Shetty]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Achieves Record Highs: $5.65B TVL, 42% DEX Volume, and Flips Ethereum in 24-Hour Fees]]></title>
-        <id>https://thedefiant.io/news/defi/solana-achieves-record-highs-5-65b-tvl-42-dex-volume-flips-ethereum-24-hour-fees</id>
-        <link href="https://thedefiant.io/news/defi/solana-achieves-record-highs-5-65b-tvl-42-dex-volume-flips-ethereum-24-hour-fees"/>
-        <updated>2024-07-29T11:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Solana has reached several significant milestones, marking a remarkable period of growth and dominance in the cryptocurrency space]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
