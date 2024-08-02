@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-02T13:17:05.722Z</id>
+    <id>urn:2024-08-02T14:13:32.270Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-02T13:17:05.722Z</updated>
+    <updated>2024-08-02T14:13:32.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin, Ethereum Tread Water as Mt. Gox Distributions Continue]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-ethereum-tread-water-as-mt-gox-distributions-continue</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-ethereum-tread-water-as-mt-gox-distributions-continue"/>
+        <updated>2024-08-02T14:07:12.000Z</updated>
+        <summary type="html"><![CDATA[$3.1 billion worth of Bitcoin was transferred from Mt. Gox to BitGo.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spot Ether ETF Outflows Drop As Grayscale Flows Dry Up]]></title>
+        <id>https://thedefiant.io/news/markets/spot-ether-etf-outflows-drop-as-grayscale-flows-dry-up</id>
+        <link href="https://thedefiant.io/news/markets/spot-ether-etf-outflows-drop-as-grayscale-flows-dry-up"/>
+        <updated>2024-08-02T13:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Excluding the Grayscale Ethereum Trust, spot Ether ETFs hosted inflows exceeding $1.5 billion in their first two weeks of trade.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polkadot Processes 3.8 Million Transactions on July 30 after Mythos Migration]]></title>
+        <id>https://thedefiant.io/news/blockchains/polkadot-processes-3-8-million-transactions-on-july-30-after-mythos-migration</id>
+        <link href="https://thedefiant.io/news/blockchains/polkadot-processes-3-8-million-transactions-on-july-30-after-mythos-migration"/>
+        <updated>2024-08-02T13:27:21.000Z</updated>
+        <summary type="html"><![CDATA[Polkadot is making inroads into the Web3 gaming ecosystem, currently dominated by BNB Chain, Polygon, and Ronin Network.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vitalik Says Ethereum Is Ready To Support ‘Tens Of Millions’ Of On-Chain Users]]></title>
         <id>https://thedefiant.io/news/blockchains/vitalik-says-ethereum-is-ready-to-support-tens-of-millions-of-on-chain-users</id>
@@ -983,36 +1013,6 @@
         <summary type="html"><![CDATA[NFT lending remains strong despite the general downtrend in prices.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nearly Every Celebrity Token Launched in 2024 Has Gone to Zero]]></title>
-        <id>https://thedefiant.io/news/markets/nearly-every-celebrity-token-launched-in-2024-has-gone-to-zero</id>
-        <link href="https://thedefiant.io/news/markets/nearly-every-celebrity-token-launched-in-2024-has-gone-to-zero"/>
-        <updated>2024-07-26T22:31:28.000Z</updated>
-        <summary type="html"><![CDATA[At least 22 celebrities used Pump.fun to launch memecoins but most have abandoned their projects.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flurry Of Politicians Advocate For Investing Public Funds Into Bitcoin]]></title>
-        <id>https://thedefiant.io/news/people/flurry-of-politicians-advocate-for-investing-public-funds-into-bitcoin</id>
-        <link href="https://thedefiant.io/news/people/flurry-of-politicians-advocate-for-investing-public-funds-into-bitcoin"/>
-        <updated>2024-07-26T14:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The mayor of Jersey City is moving to allocate 2% of the city’s Pension Fund into BTC, while Robert F Kennedy wants The Fed to match its gold holdings in Bitcoin.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardano Validators Begin Migration In Preparation for Chang Hard Fork]]></title>
-        <id>https://thedefiant.io/news/blockchains/cardano-validator-begin-migration-in-preparation-for-chang-hard-fork</id>
-        <link href="https://thedefiant.io/news/blockchains/cardano-validator-begin-migration-in-preparation-for-chang-hard-fork"/>
-        <updated>2024-07-26T11:57:00.000Z</updated>
-        <summary type="html"><![CDATA[The Chang hard fork aims to shift control from centralized entities to ADA holders.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>
