@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-08T14:13:26.370Z</id>
+    <id>urn:2024-08-08T15:15:50.975Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-08T14:13:26.370Z</updated>
+    <updated>2024-08-08T15:15:50.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Brazil Approves Spot Solana ETF]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/brazil-approves-spot-solana-etf</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/brazil-approves-spot-solana-etf"/>
+        <updated>2024-08-08T14:25:26.000Z</updated>
+        <summary type="html"><![CDATA[SOL has outperformed in recent days, with the SOL/ETH ratio hitting an all-time high.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Trade Flat Ahead of U.S. Unemployment Report]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-trade-flat-ahead-of-u-s-unemployment-report</id>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Four steps and users can launch their memecoins on makenow.meme.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram Game Hamster Kombat Plans to Airdrop 60% of Tokens to Users]]></title>
-        <id>https://thedefiant.io/news/defi/telegram-game-hamster-kombat-plans-to-airdrop-60-of-tokens-to-users</id>
-        <link href="https://thedefiant.io/news/defi/telegram-game-hamster-kombat-plans-to-airdrop-60-of-tokens-to-users"/>
-        <updated>2024-07-31T16:47:06.000Z</updated>
-        <summary type="html"><![CDATA[The airdrop announcement comes after the game decided to postpone its original plans in July.]]></summary>
-        <author>
-            <name>Mehab Qureshi and Pedro Solimano</name>
         </author>
     </entry>
     <entry>
