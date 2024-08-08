@@ -21,7 +21,7 @@
           "description": "What’s the point? Why do you work so hard? The point is feeding, clothing, and housing yourself and your family. But what’s the purpose…",
           "link": "https://cryptohayes.medium.com/airhead-1267718999f8?source=rss-2f6e06954878------2",
           "publishedOn": "2024-07-31T13:13:53.000Z",
-          "wordCount": 4200,
+          "wordCount": 4199,
           "title": "Airhead",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*39h5qN7yz54SOZoS"
         },
@@ -54,6 +54,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/markets/btc-eth-rebound-even-as-genesis-continues-repayments",
+          "author": "Squiffs",
+          "description": "Nearly $2 million in ETH and $11 million in BTC were moved from Genesis’ bankruptcy repayments wallet.",
+          "link": "https://thedefiant.io/news/markets/btc-eth-rebound-even-as-genesis-continues-repayments",
+          "publishedOn": "2024-08-08T19:45:03.000Z",
+          "wordCount": 2760,
+          "title": "BTC, ETH Rebound Even as Genesis Continues Repayments",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/479defa791eec1d43d22258fb00b1e3422d63f30-828x473.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/479defa791eec1d43d22258fb00b1e3422d63f30-828x473.png"
+        },
         {
           "id": "https://thedefiant.io/news/markets/new-trump-memecoin-rtr-launches-with-over-usd150-million-market-cap",
           "author": "Squiffs",
@@ -1433,21 +1448,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/148369d137bff8cc56005dfde665899c65cd26c7-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/elixir-unveils-yield-bearing-stablecoin-to-compete-with-ethena",
-          "author": "Samuel Haig",
-          "description": "Elixir’s deUSD is backed by a delta-neutral ETH position, accumulating Ether staking rewards and short funding rates to pay out yield to holders.",
-          "link": "https://thedefiant.io/news/defi/elixir-unveils-yield-bearing-stablecoin-to-compete-with-ethena",
-          "publishedOn": "2024-08-01T10:06:00.000Z",
-          "wordCount": 3250,
-          "title": "Elixir Unveils Yield-Bearing Stablecoin To Compete With Ethena",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/32540c4d2d2d97c93f055f9d02a4d383d1dd7835-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/32540c4d2d2d97c93f055f9d02a4d383d1dd7835-1792x1024.webp"
         }
       ]
     },
