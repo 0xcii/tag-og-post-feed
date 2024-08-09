@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-09T13:17:55.089Z</id>
+    <id>urn:2024-08-09T14:14:02.269Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-09T13:17:55.089Z</updated>
+    <updated>2024-08-09T14:14:02.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Donald Trump Jr Wants To “Take On” Banks With DeFi Platform]]></title>
+        <id>https://thedefiant.io/news/people/donald-trump-jr-wants-to-take-on-banks-with-defi-platform</id>
+        <link href="https://thedefiant.io/news/people/donald-trump-jr-wants-to-take-on-banks-with-defi-platform"/>
+        <updated>2024-08-09T14:03:43.000Z</updated>
+        <summary type="html"><![CDATA[“This notion of decentralized finance is very appealing to guys like me,” he said.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Price Crosses $60,000 As ETFs Attract Substantial Inflows]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-price-crosses-usd60-000-as-etfs-attract-substantial-inflows</id>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Polkadot is making inroads into the Web3 gaming ecosystem, currently dominated by BNB Chain, Polygon, and Ronin Network.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Says Ethereum Is Ready To Support ‘Tens Of Millions’ Of On-Chain Users]]></title>
-        <id>https://thedefiant.io/news/blockchains/vitalik-says-ethereum-is-ready-to-support-tens-of-millions-of-on-chain-users</id>
-        <link href="https://thedefiant.io/news/blockchains/vitalik-says-ethereum-is-ready-to-support-tens-of-millions-of-on-chain-users"/>
-        <updated>2024-08-02T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum’s chief scientist also called on Layer 2 developers to prioritize cross-L2 interoperability and improving decentralization.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
