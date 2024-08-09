@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-09T09:16:53.984Z</id>
+    <id>urn:2024-08-09T10:16:00.874Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-09T09:16:53.984Z</updated>
+    <updated>2024-08-09T10:16:00.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CFTC Awards $1 Million to Whistleblower in Digital Asset Case]]></title>
+        <id>https://thedefiant.io/news/regulation/cftc-awards-usd1-million-to-whistleblower-in-digital-asset-case</id>
+        <link href="https://thedefiant.io/news/regulation/cftc-awards-usd1-million-to-whistleblower-in-digital-asset-case"/>
+        <updated>2024-08-09T10:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Nearly half of the CFTC's cases in the last fiscal year were related to digital assets.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memecoins Can Now Be Created For Free on Pump.fun]]></title>
         <id>https://thedefiant.io/news/defi/memecoins-can-now-be-created-for-free-on-pump-fun</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/bitcoin-memecoins-runes-make-up-35-of-all-the-chain-s-transactions</id>
         <link href="https://thedefiant.io/news/blockchains/bitcoin-memecoins-runes-make-up-35-of-all-the-chain-s-transactions"/>
         <updated>2024-08-02T21:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin-based memecoins, known as Runes, have only been around since April this year.]]></summary>
+        <summary type="html"><![CDATA[The memecoin undercurrent is so strong across the cryptocurrency space, that it is now taking over the Bitcoin ecosystem, a blockchain once known for its no-nonsense community of hard-money advocates.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[No specific date has been set for the Terraform Labs co-founder’s extradition.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Shatters Monthly Usage Stats in July]]></title>
-        <id>https://thedefiant.io/news/defi/polymarket-shatters-monthly-usage-stats-in-july</id>
-        <link href="https://thedefiant.io/news/defi/polymarket-shatters-monthly-usage-stats-in-july"/>
-        <updated>2024-08-02T07:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Crypto’s leading prediction market tripled its monthly volume in July as traders took full advantage of the platform's versatility.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
