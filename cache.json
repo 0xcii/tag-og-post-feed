@@ -21,7 +21,7 @@
           "description": "What’s the point? Why do you work so hard? The point is feeding, clothing, and housing yourself and your family. But what’s the purpose…",
           "link": "https://cryptohayes.medium.com/airhead-1267718999f8?source=rss-2f6e06954878------2",
           "publishedOn": "2024-07-31T13:13:53.000Z",
-          "wordCount": 4199,
+          "wordCount": 4200,
           "title": "Airhead",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*39h5qN7yz54SOZoS"
         },
@@ -54,6 +54,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/samsung-teams-up-with-illuvium-in-latest-web3-push",
+          "author": "Samuel Haig",
+          "description": "Samsung Web3 TVs will feature Illuvium NFTs as part of the strategic partnership between the two entities.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/samsung-teams-up-with-illuvium-in-latest-web3-push",
+          "publishedOn": "2024-08-09T10:41:00.000Z",
+          "wordCount": 3286,
+          "title": "Samsung Teams Up With Illuvium In Latest Web3 Push",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/999e20d1062a7044cf33123195a14396902152ea-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/999e20d1062a7044cf33123195a14396902152ea-1792x1024.webp"
+        },
         {
           "id": "https://thedefiant.io/news/regulation/cftc-awards-usd1-million-to-whistleblower-in-digital-asset-case",
           "author": "Mehab Qureshi",
@@ -1182,7 +1197,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/bitcoin-memecoins-runes-make-up-35-of-all-the-chain-s-transactions",
           "author": "Pedro Solimano",
-          "description": "The memecoin undercurrent is so strong across the cryptocurrency space, that it is now taking over the Bitcoin ecosystem, a blockchain once known for its no-nonsense community of hard-money advocates.",
+          "description": "Bitcoin-based memecoins, known as Runes, have only been around since April this year.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-memecoins-runes-make-up-35-of-all-the-chain-s-transactions",
           "publishedOn": "2024-08-02T21:07:00.000Z",
           "wordCount": 3197,
@@ -1403,21 +1418,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fe1a08a337ea7bb0c29271a485a5f3f9fd9d42b1-1920x1080.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/people/south-korea-wins-extradition-battle-for-do-kwon",
-          "author": "Mehab Qureshi",
-          "description": "No specific date has been set for the Terraform Labs co-founder’s extradition.",
-          "link": "https://thedefiant.io/news/people/south-korea-wins-extradition-battle-for-do-kwon",
-          "publishedOn": "2024-08-02T08:15:12.000Z",
-          "wordCount": 3243,
-          "title": "South Korea Wins Extradition Battle for Do Kwon",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1741107c35197367f65154cfdb00376319cb71bd-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1741107c35197367f65154cfdb00376319cb71bd-1792x1024.webp"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-09T10:16:00.874Z</id>
+    <id>urn:2024-08-09T11:12:32.127Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-09T10:16:00.874Z</updated>
+    <updated>2024-08-09T11:12:32.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Samsung Teams Up With Illuvium In Latest Web3 Push]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/samsung-teams-up-with-illuvium-in-latest-web3-push</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/samsung-teams-up-with-illuvium-in-latest-web3-push"/>
+        <updated>2024-08-09T10:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsung Web3 TVs will feature Illuvium NFTs as part of the strategic partnership between the two entities.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFTC Awards $1 Million to Whistleblower in Digital Asset Case]]></title>
         <id>https://thedefiant.io/news/regulation/cftc-awards-usd1-million-to-whistleblower-in-digital-asset-case</id>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/news/blockchains/bitcoin-memecoins-runes-make-up-35-of-all-the-chain-s-transactions</id>
         <link href="https://thedefiant.io/news/blockchains/bitcoin-memecoins-runes-make-up-35-of-all-the-chain-s-transactions"/>
         <updated>2024-08-02T21:07:00.000Z</updated>
-        <summary type="html"><![CDATA[The memecoin undercurrent is so strong across the cryptocurrency space, that it is now taking over the Bitcoin ecosystem, a blockchain once known for its no-nonsense community of hard-money advocates.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin-based memecoins, known as Runes, have only been around since April this year.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Bybit, the third largest offshore cryptocurrency exchange, has announced that it will cease its services and product offerings in France]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Korea Wins Extradition Battle for Do Kwon]]></title>
-        <id>https://thedefiant.io/news/people/south-korea-wins-extradition-battle-for-do-kwon</id>
-        <link href="https://thedefiant.io/news/people/south-korea-wins-extradition-battle-for-do-kwon"/>
-        <updated>2024-08-02T08:15:12.000Z</updated>
-        <summary type="html"><![CDATA[No specific date has been set for the Terraform Labs co-founder’s extradition.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>
