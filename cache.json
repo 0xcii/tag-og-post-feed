@@ -80,9 +80,14 @@
           "description": "June and July set consecutive all time high unique L2 addresses on Uniswap.",
           "link": "https://thedefiant.io/news/defi/uniswap-layer-2-addresses-are-up-350-but-there-s-a-catch",
           "publishedOn": "2024-08-10T16:00:00.000Z",
-          "wordCount": 3133,
+          "wordCount": 3185,
           "title": "Uniswap Layer 2 Addresses are Up 350% - But There's a Catch",
-          "imageUrl": null
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bf7ad947b1dfe1e3445a8dbb00cd08e32ebc492d-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bf7ad947b1dfe1e3445a8dbb00cd08e32ebc492d-1792x1024.webp"
         },
         {
           "id": "https://thedefiant.io/news/blockchains/solana-developers-quietly-patched-a-critical-vulnerability",
