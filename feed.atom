@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-13T16:18:35.929Z</id>
+    <id>urn:2024-08-13T17:14:33.814Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-13T16:18:35.929Z</updated>
+    <updated>2024-08-13T17:14:33.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MKR Rallies After Grayscale MakerDAO Trust Launch]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/mkr-rallies-after-grayscale-makerdao-trust-launch</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/mkr-rallies-after-grayscale-makerdao-trust-launch"/>
+        <updated>2024-08-13T16:37:00.000Z</updated>
+        <summary type="html"><![CDATA[The MakerDAO Trust will allow accredited investors to gain exposure to one of DeFi’s leading protocols.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Bounces as Grayscale’s Ether ETF Posts First Daily Inflow]]></title>
         <id>https://thedefiant.io/news/markets/ethereum-bounces-as-grayscale-s-ether-etf-posts-first-daily-inflow</id>
@@ -1019,20 +1029,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cartridge Secures $7.5M Series A Funding Led by BITKRAFT Ventures to Boost Onchain Gaming on Starknet]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/cartridge-secures-7-5m-series-funding-led-bitkraft-ventures-to-boost-onchain-on</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/cartridge-secures-7-5m-series-funding-led-bitkraft-ventures-to-boost-onchain-on"/>
-        <updated>2024-08-05T13:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Cartridge, a leading infrastructure provider for building fully onchain games on Starknet, has announced a $7.5 million Series A funding round]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Airhead]]></title>
         <id>https://medium.com/p/1267718999f8</id>
         <link href="https://cryptohayes.medium.com/airhead-1267718999f8?source=rss-2f6e06954878------2"/>
         <updated>2024-07-31T13:13:53.000Z</updated>
+        <summary type="html"><![CDATA[What’s the point? Why do you work so hard? The point is feeding, clothing, and housing yourself and your family. But what’s the purpose…]]></summary>
         <author>
             <name>Arthur Hayes</name>
         </author>
