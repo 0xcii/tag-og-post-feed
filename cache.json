@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/makerdao-moves-away-from-wbtc-over-controversial-custodian",
+          "author": "Squiffs",
+          "description": "The changes were implemented on August 15 after a proposal passed with nearly 113,000 MKR Support.",
+          "link": "https://thedefiant.io/news/defi/makerdao-moves-away-from-wbtc-over-controversial-custodian",
+          "publishedOn": "2024-08-16T20:08:07.000Z",
+          "wordCount": 2954,
+          "title": "MakerDAO Moves Away From WBTC Over Controversial Custodian",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/299b52a6cc509ba5c685e549b84f7837daa63397-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/299b52a6cc509ba5c685e549b84f7837daa63397-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/eigenlayer-responds-to-claims-it-pressured-projects-for-token-allocations",
           "author": "Squiffs",
           "description": "A news article reported the restaking platform is abusing its position as a leader in DeFi to secure airdrops.",
@@ -1448,21 +1463,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5a843756069cdad99da3ea2294885940937c67a4-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/imf-says-it-s-willing-to-overlook-bitcoin-risk-in-el-salvador-agreement",
-          "author": "Pedro Solimano",
-          "description": "The IMF said that many potential risks associated with Bitcoin “have not yet materialized.”",
-          "link": "https://thedefiant.io/news/regulation/imf-says-it-s-willing-to-overlook-bitcoin-risk-in-el-salvador-agreement",
-          "publishedOn": "2024-08-08T06:27:23.000Z",
-          "wordCount": 3177,
-          "title": "IMF Says It’s Willing to Overlook Bitcoin Risk in El Salvador Agreement",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a3b1ae31648ea288e8df810aae25a3dd3fbf29fd-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a3b1ae31648ea288e8df810aae25a3dd3fbf29fd-1792x1024.webp"
         }
       ]
     },

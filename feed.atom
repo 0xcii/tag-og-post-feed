@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-16T19:13:11.366Z</id>
+    <id>urn:2024-08-16T20:16:11.163Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-16T19:13:11.366Z</updated>
+    <updated>2024-08-16T20:16:11.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO Moves Away From WBTC Over Controversial Custodian]]></title>
+        <id>https://thedefiant.io/news/defi/makerdao-moves-away-from-wbtc-over-controversial-custodian</id>
+        <link href="https://thedefiant.io/news/defi/makerdao-moves-away-from-wbtc-over-controversial-custodian"/>
+        <updated>2024-08-16T20:08:07.000Z</updated>
+        <summary type="html"><![CDATA[The changes were implemented on August 15 after a proposal passed with nearly 113,000 MKR Support.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EigenLayer Responds to Claims it Pressured Projects for Token Allocations]]></title>
         <id>https://thedefiant.io/news/defi/eigenlayer-responds-to-claims-it-pressured-projects-for-token-allocations</id>
@@ -1006,16 +1016,6 @@
         <summary type="html"><![CDATA[IBIT investors chose to do absolutely nothing on Monday as the rest of the market panicked.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMF Says It’s Willing to Overlook Bitcoin Risk in El Salvador Agreement]]></title>
-        <id>https://thedefiant.io/news/regulation/imf-says-it-s-willing-to-overlook-bitcoin-risk-in-el-salvador-agreement</id>
-        <link href="https://thedefiant.io/news/regulation/imf-says-it-s-willing-to-overlook-bitcoin-risk-in-el-salvador-agreement"/>
-        <updated>2024-08-08T06:27:23.000Z</updated>
-        <summary type="html"><![CDATA[The IMF said that many potential risks associated with Bitcoin “have not yet materialized.”]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
     <entry>
