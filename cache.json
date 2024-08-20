@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/just-3-of-pump-fun-traders-have-made-over-usd1000",
+          "author": "Squiffs",
+          "description": "Users are growing increasingly frustrated with the rollercoaster price action of memecoins on the leading Solana-based launchpad platform.",
+          "link": "https://thedefiant.io/news/defi/just-3-of-pump-fun-traders-have-made-over-usd1000",
+          "publishedOn": "2024-08-20T20:15:57.000Z",
+          "wordCount": 3010,
+          "title": "Just 3% of Pump.Fun Traders Have Made Over $1000",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/022fd6037e4205eb06bf86c8828dbe92ca3f9765-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/022fd6037e4205eb06bf86c8828dbe92ca3f9765-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/ordinals-flounder-while-runes-dominate-bitcoin-network",
           "author": "Pedro Solimano",
           "description": "Runes have accounted for less than 50% of Bitcoin transactions in only nine of the past thirty days. Meanwhile, interest in Ordinals has plummeted.",
@@ -1453,21 +1468,6 @@
           "wordCount": 2507,
           "title": "Injective Partners with Elliptic; Gains Utila Support and Highlights $INJ Token",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/animoca-brands-partners-lamborghini-to-enhance-automotive-brand-engagement",
-          "author": "DeepNewz",
-          "description": "Animoca Brands has announced a partnership with luxury car manufacturer Lamborghini",
-          "link": "https://thedefiant.io/news/nfts-and-web3/animoca-brands-partners-lamborghini-to-enhance-automotive-brand-engagement",
-          "publishedOn": "2024-08-08T14:41:20.000Z",
-          "wordCount": 2468,
-          "title": "Animoca Brands Partners with Lamborghini to Enhance Automotive Brand Engagement",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/284359671243741ddd61dfd53ba07be38cae588c-2048x820.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/284359671243741ddd61dfd53ba07be38cae588c-2048x820.jpg"
         }
       ]
     },
