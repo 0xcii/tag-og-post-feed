@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-27T22:15:24.429Z</id>
+    <id>urn:2024-08-27T23:15:05.990Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-27T22:15:24.429Z</updated>
+    <updated>2024-08-27T23:15:05.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sugar High]]></title>
+        <id>https://medium.com/p/5ddfc1c6decf</id>
+        <link href="https://cryptohayes.medium.com/sugar-high-5ddfc1c6decf?source=rss-2f6e06954878------2"/>
+        <updated>2024-08-27T23:01:34.000Z</updated>
+        <summary type="html"><![CDATA[I rounded out my northern hemispheric summer holiday by flipping the script and travelling to the southern hemisphere to ski for two weeks..]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CME Group to Launch Bitcoin Friday Futures on September 30]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-bitcoin-friday-futures-on-september-30</id>
