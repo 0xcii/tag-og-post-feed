@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-27T17:12:54.863Z</id>
+    <id>urn:2024-08-27T18:19:52.863Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-27T17:12:54.863Z</updated>
+    <updated>2024-08-27T18:19:52.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Layer 2 Network StarkNet Struggles to Maintain Its Footing Post-Airdrop]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-layer-2-network-starknet-struggles-to-maintain-its-footing-post-airdrop</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-layer-2-network-starknet-struggles-to-maintain-its-footing-post-airdrop"/>
+        <updated>2024-08-27T17:42:10.000Z</updated>
+        <summary type="html"><![CDATA[Activity took a downturn for StarkNet after its much anticipated airdrop did not meet the community's expectations.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“This Technology Can’t Be Stopped,” Says Top Argentina Regulator About Crypto]]></title>
+        <id>https://thedefiant.io/news/regulation/this-technology-can-t-be-stopped-says-top-argentina-regulator-about-crypto</id>
+        <link href="https://thedefiant.io/news/regulation/this-technology-can-t-be-stopped-says-top-argentina-regulator-about-crypto"/>
+        <updated>2024-08-27T17:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Daniel Vitolo, General Inspector of Justice for Argentina, is one of many government officials becoming friendly with the crypto movement Crecimiento.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Community Rattled by Foundation’s ETH Sales and Vitalik’s “DeFi Hate”]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-community-rattled-by-foundation-s-eth-sales-and-vitalik-s-defi-hate</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/pump-fun-smashes-revenue-records-but-some-users-are-not-happy</id>
         <link href="https://thedefiant.io/news/defi/pump-fun-smashes-revenue-records-but-some-users-are-not-happy"/>
         <updated>2024-08-14T16:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Traders are growing increasingly frustrated as they learn that the house always wins.]]></summary>
+        <summary type="html"><![CDATA[Sentiment is shifting on Pump.Fun as the most popular memecoin launchpad rakes in profits while the pile of its failed tokens grows.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[ENor Securities will offer tokenized securities to both retail and institutional investors.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Near Targets Bitcoin Interoperability With Aurora Light Client]]></title>
-        <id>https://thedefiant.io/news/blockchains/near-targets-bitcoin-interoperability-with-aurora-light-client</id>
-        <link href="https://thedefiant.io/news/blockchains/near-targets-bitcoin-interoperability-with-aurora-light-client"/>
-        <updated>2024-08-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“There’s a lot of untapped value in the Bitcoin ecosystem,” said Alex Shevchenko, the CEO of Aurora Labs.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido Community Approves Bridging wstETH Onto BNB Chain]]></title>
-        <id>https://thedefiant.io/news/defi/lido-community-approves-bridging-wsteth-onto-bnb-chain</id>
-        <link href="https://thedefiant.io/news/defi/lido-community-approves-bridging-wsteth-onto-bnb-chain"/>
-        <updated>2024-08-13T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The vote greenlit Wormhole and Axelar to serve as the canonical bridge for wstETH on BNB Chain.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
     <entry>

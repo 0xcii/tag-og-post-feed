@@ -55,6 +55,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-layer-2-network-starknet-struggles-to-maintain-its-footing-post-airdrop",
+          "author": "Mehab Qureshi",
+          "description": "Activity took a downturn for StarkNet after its much anticipated airdrop did not meet the community's expectations.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-layer-2-network-starknet-struggles-to-maintain-its-footing-post-airdrop",
+          "publishedOn": "2024-08-27T17:42:10.000Z",
+          "wordCount": 4939,
+          "title": "Ethereum Layer 2 Network StarkNet Struggles to Maintain Its Footing Post-Airdrop",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/752fe23bc2a9dc2e1e461860936853a9d1bea32d-1792x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/752fe23bc2a9dc2e1e461860936853a9d1bea32d-1792x1024.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/this-technology-can-t-be-stopped-says-top-argentina-regulator-about-crypto",
+          "author": "Pedro Solimano",
+          "description": "Daniel Vitolo, General Inspector of Justice for Argentina, is one of many government officials becoming friendly with the crypto movement Crecimiento.",
+          "link": "https://thedefiant.io/news/regulation/this-technology-can-t-be-stopped-says-top-argentina-regulator-about-crypto",
+          "publishedOn": "2024-08-27T17:08:12.000Z",
+          "wordCount": 5382,
+          "title": "“This Technology Can’t Be Stopped,” Says Top Argentina Regulator About Crypto",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/faedd7ab697da20a4a8e07c712911d039c087d44-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/faedd7ab697da20a4a8e07c712911d039c087d44-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/ethereum-community-rattled-by-foundation-s-eth-sales-and-vitalik-s-defi-hate",
           "author": "Squiffs",
           "description": "Community members are demanding transparency after the Foundation transferred $94 million to Kraken to fund its annual budget just as ETH showed signs of bullish momentum.",
@@ -1257,7 +1287,7 @@
         {
           "id": "https://thedefiant.io/news/defi/pump-fun-smashes-revenue-records-but-some-users-are-not-happy",
           "author": "Squiffs",
-          "description": "Traders are growing increasingly frustrated as they learn that the house always wins.",
+          "description": "Sentiment is shifting on Pump.Fun as the most popular memecoin launchpad rakes in profits while the pile of its failed tokens grows.",
           "link": "https://thedefiant.io/news/defi/pump-fun-smashes-revenue-records-but-some-users-are-not-happy",
           "publishedOn": "2024-08-14T16:56:20.000Z",
           "wordCount": 3113,
@@ -1508,36 +1538,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b588cb2acf4ee3e463d1aff990dfbd5713fab715-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/near-targets-bitcoin-interoperability-with-aurora-light-client",
-          "author": "Samuel Haig",
-          "description": "“There’s a lot of untapped value in the Bitcoin ecosystem,” said Alex Shevchenko, the CEO of Aurora Labs.",
-          "link": "https://thedefiant.io/news/blockchains/near-targets-bitcoin-interoperability-with-aurora-light-client",
-          "publishedOn": "2024-08-13T13:00:00.000Z",
-          "wordCount": 3300,
-          "title": "Near Targets Bitcoin Interoperability With Aurora Light Client",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2a85bd7d79dde48188bebdae3e96e30bd2a823cd-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2a85bd7d79dde48188bebdae3e96e30bd2a823cd-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/lido-community-approves-bridging-wsteth-onto-bnb-chain",
-          "author": "Pedro Solimano",
-          "description": "The vote greenlit Wormhole and Axelar to serve as the canonical bridge for wstETH on BNB Chain.",
-          "link": "https://thedefiant.io/news/defi/lido-community-approves-bridging-wsteth-onto-bnb-chain",
-          "publishedOn": "2024-08-13T07:55:00.000Z",
-          "wordCount": 3422,
-          "title": "Lido Community Approves Bridging wstETH Onto BNB Chain",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/320ab5652da22b34711318c84ae8584c98342d4f-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/320ab5652da22b34711318c84ae8584c98342d4f-1792x1024.webp"
         }
       ]
     },
