@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/sec-charges-abra-prepares-to-battle-kraken-in-court",
+          "author": "Mehab Qureshi",
+          "description": "The SEC has increased its scrutiny of the cryptocurrency industry over the years.",
+          "link": "https://thedefiant.io/news/regulation/sec-charges-abra-prepares-to-battle-kraken-in-court",
+          "publishedOn": "2024-08-27T15:25:00.000Z",
+          "wordCount": 3687,
+          "title": "SEC Charges Abra, Prepares To Battle Kraken In Court",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a83f81347ba9d41b67a03fe71042f518e409ee71-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a83f81347ba9d41b67a03fe71042f518e409ee71-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/polygon-miden-integrates-qed-protocol-to-accelerate-transaction-execution",
           "author": "Samuel Haig",
           "description": "QED Protocol’s WebGPU API is estimated to speed up client-side proving on Miden by 10 times.",
@@ -873,16 +888,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9b6d522888fca4ed975e2eec9be6e9a92c0e7031-828x470.png"
-        },
-        {
-          "id": "https://thedefiant.io/education/what-are-smart-contract-platforms",
-          "author": "The Defiant Team",
-          "description": "Smart contract platforms provide the infrastructure for creating decentralized applications (dApps) that can perform complex transactions and functions without central oversight or intermediaries.",
-          "link": "https://thedefiant.io/education/what-are-smart-contract-platforms",
-          "publishedOn": "2024-08-19T16:07:29.000Z",
-          "wordCount": 4348,
-          "title": "What are Smart Contract platforms?",
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/68eef63ab34b00b97f73703097862d61db51f62c-1600x900.png"
         },
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/ex-sushi-cto-joseph-delong-s-new-venture-is-a-socialfi-dapp-called-untitled",

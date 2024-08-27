@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-27T15:16:26.624Z</id>
+    <id>urn:2024-08-27T16:18:40.050Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-27T15:16:26.624Z</updated>
+    <updated>2024-08-27T16:18:40.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Charges Abra, Prepares To Battle Kraken In Court]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-charges-abra-prepares-to-battle-kraken-in-court</id>
+        <link href="https://thedefiant.io/news/regulation/sec-charges-abra-prepares-to-battle-kraken-in-court"/>
+        <updated>2024-08-27T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The SEC has increased its scrutiny of the cryptocurrency industry over the years.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon Miden Integrates QED Protocol To Accelerate Transaction Execution]]></title>
         <id>https://thedefiant.io/news/blockchains/polygon-miden-integrates-qed-protocol-to-accelerate-transaction-execution</id>
@@ -553,16 +563,6 @@
         <summary type="html"><![CDATA[The ‘Crypto Fear and Greed Index’, currently indicates "fear."]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Smart Contract platforms?]]></title>
-        <id>https://thedefiant.io/education/what-are-smart-contract-platforms</id>
-        <link href="https://thedefiant.io/education/what-are-smart-contract-platforms"/>
-        <updated>2024-08-19T16:07:29.000Z</updated>
-        <summary type="html"><![CDATA[Smart contract platforms provide the infrastructure for creating decentralized applications (dApps) that can perform complex transactions and functions without central oversight or intermediaries.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
