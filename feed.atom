@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-27T16:18:40.050Z</id>
+    <id>urn:2024-08-27T17:12:54.863Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-27T16:18:40.050Z</updated>
+    <updated>2024-08-27T17:12:54.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Community Rattled by Foundation’s ETH Sales and Vitalik’s “DeFi Hate”]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-community-rattled-by-foundation-s-eth-sales-and-vitalik-s-defi-hate</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-community-rattled-by-foundation-s-eth-sales-and-vitalik-s-defi-hate"/>
+        <updated>2024-08-27T16:37:57.000Z</updated>
+        <summary type="html"><![CDATA[Community members are demanding transparency after the Foundation transferred $94 million to Kraken to fund its annual budget just as ETH showed signs of bullish momentum.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Charges Abra, Prepares To Battle Kraken In Court]]></title>
         <id>https://thedefiant.io/news/regulation/sec-charges-abra-prepares-to-battle-kraken-in-court</id>
@@ -1006,16 +1016,6 @@
  Nor any drop to drink.]]></summary>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Miners At ‘Max Pain’ As Experts Reckon Bottom Is In]]></title>
-        <id>https://thedefiant.io/news/blockchains/bitcoin-miners-at-max-pain-as-experts-reckon-bottom-is-in</id>
-        <link href="https://thedefiant.io/news/blockchains/bitcoin-miners-at-max-pain-as-experts-reckon-bottom-is-in"/>
-        <updated>2024-08-12T20:20:41.000Z</updated>
-        <summary type="html"><![CDATA[It’s harder than ever to mine Bitcoin as the reward is also hardest to come by.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
     <entry>

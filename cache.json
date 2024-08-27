@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-community-rattled-by-foundation-s-eth-sales-and-vitalik-s-defi-hate",
+          "author": "Squiffs",
+          "description": "Community members are demanding transparency after the Foundation transferred $94 million to Kraken to fund its annual budget just as ETH showed signs of bullish momentum.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-community-rattled-by-foundation-s-eth-sales-and-vitalik-s-defi-hate",
+          "publishedOn": "2024-08-27T16:37:57.000Z",
+          "wordCount": 3924,
+          "title": "Ethereum Community Rattled by Foundation’s ETH Sales and Vitalik’s “DeFi Hate”",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/36301c7dfa5491c4f16f6bd85319206e687f6403-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/36301c7dfa5491c4f16f6bd85319206e687f6403-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/sec-charges-abra-prepares-to-battle-kraken-in-court",
           "author": "Mehab Qureshi",
           "description": "The SEC has increased its scrutiny of the cryptocurrency industry over the years.",
@@ -1523,21 +1538,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/320ab5652da22b34711318c84ae8584c98342d4f-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/bitcoin-miners-at-max-pain-as-experts-reckon-bottom-is-in",
-          "author": "Pedro Solimano",
-          "description": "It’s harder than ever to mine Bitcoin as the reward is also hardest to come by.",
-          "link": "https://thedefiant.io/news/blockchains/bitcoin-miners-at-max-pain-as-experts-reckon-bottom-is-in",
-          "publishedOn": "2024-08-12T20:20:41.000Z",
-          "wordCount": 3943,
-          "title": "Bitcoin Miners At ‘Max Pain’ As Experts Reckon Bottom Is In",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca736a9b007a704d4d906c5c42c84db458474359-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ca736a9b007a704d4d906c5c42c84db458474359-1792x1024.webp"
         }
       ]
     },
