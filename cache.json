@@ -65,6 +65,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ton-goes-offline-for-seven-hours-amid-dogs-airdrop",
+          "author": "Samuel Haig",
+          "description": "The Open network suffered a seven-hour outage as memecoin degens raced to claim DOGS tokens.",
+          "link": "https://thedefiant.io/news/blockchains/ton-goes-offline-for-seven-hours-amid-dogs-airdrop",
+          "publishedOn": "2024-08-28T09:56:00.000Z",
+          "wordCount": 3104,
+          "title": "TON Goes Offline For Seven Hours Amid DOGS Airdrop",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e3cfea36bd0d5b86d336fb99707ce6e876c0458c-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e3cfea36bd0d5b86d336fb99707ce6e876c0458c-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/sony-launches-testnet-and-incubator-for-soneium-layer-2",
           "author": "Mehab Qureshi",
           "description": "Soneium wants to foster projects targeting the DeFi, NFT, gaming, and social sectors.",
@@ -1523,21 +1538,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/19107f146906f379447d48ae773e285c642a054b-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/ton-ventures-spins-out-of-ton-foundation-after-usd40-million-raise",
-          "author": "Mehab Qureshi",
-          "description": "TON Ventures aims to connect investors and developers within the TON ecosystem.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/ton-ventures-spins-out-of-ton-foundation-after-usd40-million-raise",
-          "publishedOn": "2024-08-14T12:00:00.000Z",
-          "wordCount": 3579,
-          "title": "TON Ventures Spins Out Of TON Foundation After $40 Million Raise",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8174f3d8761bcc617b1d44fab27760f4eec38486-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8174f3d8761bcc617b1d44fab27760f4eec38486-1792x1024.webp"
         }
       ]
     },
