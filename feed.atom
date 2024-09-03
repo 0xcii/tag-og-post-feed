@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-03T19:12:59.179Z</id>
+    <id>urn:2024-09-03T20:15:56.046Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-03T19:12:59.179Z</updated>
+    <updated>2024-09-03T20:15:56.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pendle Pauses Contracts After Yield Protocol Penpie Suffers $27 Million Exploit]]></title>
+        <id>https://thedefiant.io/news/defi/pendle-pauses-contracts-after-yield-protocol-penpie-suffers-usd27-million-exploit</id>
+        <link href="https://thedefiant.io/news/defi/pendle-pauses-contracts-after-yield-protocol-penpie-suffers-usd27-million-exploit"/>
+        <updated>2024-09-03T20:10:26.000Z</updated>
+        <summary type="html"><![CDATA[The attacker exploited a smart contract vulnerability, said cybersecurity firm Cyvers.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galois Capital Settles With the SEC Over Alleged Custody Failures]]></title>
+        <id>https://thedefiant.io/news/regulation/galois-capital-settles-with-the-sec-over-alleged-custody-failures</id>
+        <link href="https://thedefiant.io/news/regulation/galois-capital-settles-with-the-sec-over-alleged-custody-failures"/>
+        <updated>2024-09-03T19:11:15.000Z</updated>
+        <summary type="html"><![CDATA[The crypto-focused fund that shut down after losing substantial assets on FTX quickly announced its intent to settle with the SEC and is “glad to put this matter behind us.”]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CryptoKitties’ ‘Eggs’ Soar 30x as NFT Community Calls for a Comeback]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/cryptokitties-eggs-soar-30x-as-nft-community-calls-for-a-comeback</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/blockchains/near-protocol-deploys-nightshade-2-0-upgrade-on-mainnet</id>
         <link href="https://thedefiant.io/news/blockchains/near-protocol-deploys-nightshade-2-0-upgrade-on-mainnet"/>
         <updated>2024-08-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Near estimates the upgrade will speed up transaction execution by 400%.]]></summary>
+        <summary type="html"><![CDATA[Near's Nightshade 2.0 upgrade is intended to improve node efficiency and speed up transaction execution by 400%.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -1003,26 +1023,6 @@
         <summary type="html"><![CDATA[The 90-page document makes no mention of cryptocurrency at a pivotal time in U.S. politics, despite Trump embracing the industry.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bears Halt Crypto Market Rally]]></title>
-        <id>https://thedefiant.io/news/markets/bears-halt-crypto-market-rally</id>
-        <link href="https://thedefiant.io/news/markets/bears-halt-crypto-market-rally"/>
-        <updated>2024-08-20T17:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Digital assets suffered a sharp retracement alongside U.S. stocks after surging in the early hours of Tuesday.]]></summary>
-        <author>
-            <name>Samuel Haig and Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clearpool Unveils RWA-Focused Layer 2]]></title>
-        <id>https://thedefiant.io/news/blockchains/clearpool-unveils-rwa-focused-layer-2</id>
-        <link href="https://thedefiant.io/news/blockchains/clearpool-unveils-rwa-focused-layer-2"/>
-        <updated>2024-08-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ozean offers an optional compliance layer, native stablecoin backed by U.S. treasury assets, and real-world asset liquidity layer.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
