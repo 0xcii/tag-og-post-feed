@@ -65,6 +65,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/research-and-opinion/how-intents-can-vastly-improve-the-web3-user-experience",
+          "author": "Adrian Brink",
+          "description": "Intents may be the missing link between the world of decentralized protocols (and all the benefits they offer) and the world of everyday users who are accustomed to the simplicity of Web2 experiences.",
+          "link": "https://thedefiant.io/news/research-and-opinion/how-intents-can-vastly-improve-the-web3-user-experience",
+          "publishedOn": "2024-09-04T17:27:35.000Z",
+          "wordCount": 3093,
+          "title": "How Intents Can Vastly Improve the Web3 User Experience",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7310c9e841dd1d963c718f4026001d9906e1d52b-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7310c9e841dd1d963c718f4026001d9906e1d52b-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/sui-creator-mysten-labs-launches-handheld-web3-gaming-device",
           "author": "Mehab Qureshi",
           "description": "Preorders for the SuiPlay0X1 are now live, priced at $599.",
@@ -1528,21 +1543,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/138a9399bfb62d6421919c262780e7bb4b1acca7-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/dexscreener-is-earning-over-usd1-million-in-weekly-fees",
-          "author": "Squiffs",
-          "description": "The chart and data aggregator is among the top 15 revenue generators across DeFi.",
-          "link": "https://thedefiant.io/news/defi/dexscreener-is-earning-over-usd1-million-in-weekly-fees",
-          "publishedOn": "2024-08-21T00:45:30.000Z",
-          "wordCount": 2340,
-          "title": "DEXScreener is Earning Over $1 Million in Weekly Fees",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4ed84ba91198d744bad2ce76d1d64d5a62feebcd-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4ed84ba91198d744bad2ce76d1d64d5a62feebcd-1792x1024.webp"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-04T17:14:26.176Z</id>
+    <id>urn:2024-09-04T18:18:13.484Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-04T17:14:26.176Z</updated>
+    <updated>2024-09-04T18:18:13.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Intents Can Vastly Improve the Web3 User Experience]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/how-intents-can-vastly-improve-the-web3-user-experience</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/how-intents-can-vastly-improve-the-web3-user-experience"/>
+        <updated>2024-09-04T17:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Intents may be the missing link between the world of decentralized protocols (and all the benefits they offer) and the world of everyday users who are accustomed to the simplicity of Web2 experiences.]]></summary>
+        <author>
+            <name>Adrian Brink</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sui Creator Mysten Labs Launches Handheld Web3 Gaming Device]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/sui-creator-mysten-labs-launches-handheld-web3-gaming-device</id>
@@ -1023,16 +1033,6 @@
         <summary type="html"><![CDATA[It’s a 3-month long pop-up city in Singapore with four goals: learn, burn, earn, and fun.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEXScreener is Earning Over $1 Million in Weekly Fees]]></title>
-        <id>https://thedefiant.io/news/defi/dexscreener-is-earning-over-usd1-million-in-weekly-fees</id>
-        <link href="https://thedefiant.io/news/defi/dexscreener-is-earning-over-usd1-million-in-weekly-fees"/>
-        <updated>2024-08-21T00:45:30.000Z</updated>
-        <summary type="html"><![CDATA[The chart and data aggregator is among the top 15 revenue generators across DeFi.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
