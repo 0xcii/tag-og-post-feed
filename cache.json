@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/people/vitalik-plans-to-donate-erc-20-holdings-and-cease-investing-in-web3-projects",
+          "author": "Samuel Haig",
+          "description": "Vitalik’s comment as transactions from his wallet face sustained scrutiny.",
+          "link": "https://thedefiant.io/news/people/vitalik-plans-to-donate-erc-20-holdings-and-cease-investing-in-web3-projects",
+          "publishedOn": "2024-09-06T14:40:00.000Z",
+          "wordCount": 2676,
+          "title": "Vitalik Plans To Donate ERC-20 Holdings and Cease Investing In Web3 Projects",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0c1bb2285a331e06065ba95eb01e4f4702420b2b-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0c1bb2285a331e06065ba95eb01e4f4702420b2b-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/mastercard-joins-forces-with-mercuryo-to-launch-non-custodial-crypto-card-in-europe",
           "author": "Pedro Solimano",
           "description": "The new crypto card is dubbed Spend.",
@@ -775,7 +790,7 @@
           "description": "The court found Musk’s statements to be non-factual and aspirational, describing them as \"puffery.\"",
           "link": "https://thedefiant.io/news/people/court-dismisses-usd258b-lawsuit-alleging-elon-musk-and-tesla-manipulated-dogecoin",
           "publishedOn": "2024-08-30T11:16:00.000Z",
-          "wordCount": 2634,
+          "wordCount": 2635,
           "title": "Court Dismisses $258B Lawsuit Alleging Elon Musk and Tesla Manipulated Dogecoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2ac13706316121af5f6f2c29706f46d690efc2ca-1792x1024.webp",
@@ -1485,7 +1500,7 @@
           "description": "Shan Hanes embezzled $47 million and lost it all to a common crypto scam.",
           "link": "https://thedefiant.io/news/people/former-kansas-bank-ceo-gets-24-years-in-jail-after-falling-for-pig-butchering-scam",
           "publishedOn": "2024-08-23T17:05:21.000Z",
-          "wordCount": 2843,
+          "wordCount": 2844,
           "title": "Former Kansas Bank CEO Gets 24 Years in Jail After Falling for ‘Pig Butchering’ Scam",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1803496d0c56c6d644bafef22ee4957b6015672b-1792x1024.webp",
@@ -1523,21 +1538,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6337123da5159c99e379d49f360c095071b92e82-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/tron-community-shaken-by-12-000-btc-withdrawal-from-usdd-reserves",
-          "author": "Mehab Qureshi",
-          "description": "This decision was executed without action from the Tron DAO.",
-          "link": "https://thedefiant.io/news/tokens/tron-community-shaken-by-12-000-btc-withdrawal-from-usdd-reserves",
-          "publishedOn": "2024-08-23T12:52:00.000Z",
-          "wordCount": 2745,
-          "title": "Tron Community Shaken By 12,000 BTC Withdrawal From USDD Reserves",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b9f07853350b5d4b0c7b31a23b339e456040654b-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b9f07853350b5d4b0c7b31a23b339e456040654b-1792x1024.webp"
         }
       ]
     },
