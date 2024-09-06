@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-06T13:19:50.604Z</id>
+    <id>urn:2024-09-06T14:14:08.733Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-06T13:19:50.604Z</updated>
+    <updated>2024-09-06T14:14:08.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mastercard Joins Forces With Mercuryo To Launch Non-Custodial Crypto Card in Europe]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/mastercard-joins-forces-with-mercuryo-to-launch-non-custodial-crypto-card-in-europe</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/mastercard-joins-forces-with-mercuryo-to-launch-non-custodial-crypto-card-in-europe"/>
+        <updated>2024-09-06T14:02:37.000Z</updated>
+        <summary type="html"><![CDATA[The new crypto card is dubbed Spend.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synthetix To Launch SNAXchain Appchain On Sept. 16]]></title>
         <id>https://thedefiant.io/news/blockchains/synthetix-to-launch-snaxchain-appchain-on-sept-16</id>
@@ -1023,16 +1033,6 @@
         <summary type="html"><![CDATA[This decision was executed without action from the Tron DAO.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony Unveils Web3 Division and Layer 2 Network]]></title>
-        <id>https://thedefiant.io/news/blockchains/sony-unveils-web3-division-and-layer-2-network</id>
-        <link href="https://thedefiant.io/news/blockchains/sony-unveils-web3-division-and-layer-2-network"/>
-        <updated>2024-08-23T06:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Sony Block Solutions Labs and Startale Labs will soon launch a testnet for the upcoming Soneium Layer 2 network.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
