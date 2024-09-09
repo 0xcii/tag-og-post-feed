@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-09T03:18:39.339Z</id>
+    <id>urn:2024-09-09T04:18:35.570Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-09T03:18:39.339Z</updated>
+    <updated>2024-09-09T04:18:35.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Credit scores, defi, and Sonic]]></title>
+        <id>https://medium.com/p/8daedfcb48f6</id>
+        <link href="https://andrecronje.medium.com/credit-scores-defi-and-sonic-8daedfcb48f6?source=rss-34f4446c6ba1------2"/>
+        <updated>2024-09-09T03:32:42.000Z</updated>
+        <summary type="html"><![CDATA[I have long been vocal about my belief that technical evolution happens in stages. You can’t simply go from the message boards like USENET…]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Meets Crypto: The Decentralized Revolution in Venture Capital and Finance]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/ai-meets-crypto-the-decentralized-revolution-in-venture-capital-and-finance</id>
