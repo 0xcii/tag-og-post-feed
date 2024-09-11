@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tokens/bitgo-taps-layerzero-for-multi-chain-wbtc-rollout",
+          "author": "Samuel Haig",
+          "description": "BitGo aims to launch Wrapped Bitcoin onto dozens of new chains using LayerZero’s Omnichain Fungible Token standard.",
+          "link": "https://thedefiant.io/news/tokens/bitgo-taps-layerzero-for-multi-chain-wbtc-rollout",
+          "publishedOn": "2024-09-11T12:19:00.000Z",
+          "wordCount": 2628,
+          "title": "BitGo Taps LayerZero For Multi-Chain WBTC Rollout",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7a92c02192e4196fcf6fea2d2bd06746467e709f-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7a92c02192e4196fcf6fea2d2bd06746467e709f-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/800-billion-standard-chartered-launches-bitcoin-crypto-custody-services-uae",
+          "author": "DeepNewz",
+          "description": "Standard Chartered, a $800 billion multinational banking giant, has launched a Bitcoin and crypto custody service in the United Arab Emirates (UAE)",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/800-billion-standard-chartered-launches-bitcoin-crypto-custody-services-uae",
+          "publishedOn": "2024-09-11T12:17:54.000Z",
+          "wordCount": 2230,
+          "title": "$800 Billion Standard Chartered Launches Bitcoin and Crypto Custody Services in UAE",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/781d9a8297abb09afda1923462497990847cb9bf-1200x672.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/781d9a8297abb09afda1923462497990847cb9bf-1200x672.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/ai-art-outpaces-the-rest-of-the-nft-market",
           "author": "Squiffs",
           "description": "NFT prices are slowly creeping up despite low volumes.",
@@ -110,7 +140,7 @@
           "description": "The market cap of PayPal's PYUSD stablecoin is down 17% in two weeks.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/paypal-and-venmo-integrate-support-for-ens-names",
           "publishedOn": "2024-09-10T16:00:00.000Z",
-          "wordCount": 2475,
+          "wordCount": 2453,
           "title": "PayPal and Venmo Integrate Support For ENS Names",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/eae8f44cbe26d51f62dbdbd3e8a1848f56fc49c1-1792x1024.webp",
@@ -125,7 +155,7 @@
           "description": "The launch marks the first CeFi integration for Morpho's Vaults.",
           "link": "https://thedefiant.io/news/cefi/swissborg-taps-morpho-vaults-for-usdc-earn-product",
           "publishedOn": "2024-09-10T14:18:00.000Z",
-          "wordCount": 2514,
+          "wordCount": 2492,
           "title": "SwissBorg Leverages Morpho Vaults For USDC Earn Product",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0599d88993155cff7fffe801f46f23871d0f5172-1792x1024.webp",
@@ -360,6 +390,21 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f72ab452d0a6c8612aad8b0e9ebd1fd7fa4b12e8-1792x1024.webp"
         },
         {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/aerodrome-finance-redefining-amms-on-base-with-alexander-cutler",
+          "author": "Camila Russo",
+          "description": "Alex Cutler, Co-Founder of Aerodrome, shares the story behind Aerodrome,  a decentralized exchange (DEX) built on Base, an Ethereum Layer 2 ecosystem.",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/aerodrome-finance-redefining-amms-on-base-with-alexander-cutler",
+          "publishedOn": "2024-09-09T09:28:00.000Z",
+          "wordCount": 2301,
+          "title": "Aerodrome Finance: Redefining AMMs on Base with Alexander Cutler",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5f7adaa1f84bc562faad6d906b8760a9dcdb57f2-1280x720.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5f7adaa1f84bc562faad6d906b8760a9dcdb57f2-1280x720.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/ai-meets-crypto-the-decentralized-revolution-in-venture-capital-and-finance",
           "author": "Joshua Johnson",
           "description": "The game is changing. The walls of the VC fortress are crumbling; a more open and equitable system is coming. It's time to adapt or be left behind.",
@@ -395,7 +440,7 @@
           "description": "VanEck has announced plans to close and liquidate its Ethereum futures ETF (EFUT)",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-to-close-liquidate-ethereum-futures-etf-september-23-2024",
           "publishedOn": "2024-09-06T19:42:25.000Z",
-          "wordCount": 2232,
+          "wordCount": 2216,
           "title": "VanEck to Close and Liquidate Ethereum Futures ETF by September 23, 2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/73c244254f5ffb55fac16ebd24f880afbb8d4921-800x500.png",
@@ -545,7 +590,7 @@
           "description": "The new crypto card is dubbed Spend.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/mastercard-joins-forces-with-mercuryo-to-launch-non-custodial-crypto-card-in-europe",
           "publishedOn": "2024-09-06T14:02:37.000Z",
-          "wordCount": 2373,
+          "wordCount": 2362,
           "title": "Mastercard Joins Forces With Mercuryo To Launch Non-Custodial Crypto Card in Europe",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0ba484fdf24810a87fe355874c77ca4dc28c3f79-1792x1024.webp",
@@ -1100,7 +1145,7 @@
           "description": "Sebastian Serrano is the Co-Founder and CEO of Ripio, one of the largest crypto asset platforms in Latin America.",
           "link": "https://thedefiant.io/podcasts-and-videos/podcast/latin-america-s-crypto-revolution-or-ripio-co-founder-sebastian-serrano",
           "publishedOn": "2024-09-02T09:28:00.000Z",
-          "wordCount": 2302,
+          "wordCount": 2279,
           "title": "Latin America's Crypto Revolution | Ripio Co-Founder, Sebastian Serrano",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f7bbc099b006db0ea33a3de4bdad3ca2cf2b5bf-1280x720.jpg",
@@ -1145,7 +1190,7 @@
           "description": "Wells Fargo is set to begin actively pitching Bitcoin ETFs to its clients starting in September",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/wells-fargo-to-pitch-bitcoin-etfs-september-managing-1-73-trillion-assets",
           "publishedOn": "2024-08-30T18:50:08.000Z",
-          "wordCount": 2226,
+          "wordCount": 2210,
           "title": "Wells Fargo to Pitch Bitcoin ETFs in September, Managing $1.73 Trillion Assets",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f7676a3bccc495fbf7bf5921aa6629c6b52595d0-567x425.jpg",
@@ -1242,7 +1287,7 @@
         {
           "id": "https://thedefiant.io/news/defi/controversial-curve-funding-proposal-wins-over-tokenholders",
           "author": "Samuel Haig",
-          "description": "The proposal previously attracted pushback from Curve’s community.",
+          "description": "Recent updates to a controversial proposal to fund Curve's development team has won over the project's community.",
           "link": "https://thedefiant.io/news/defi/controversial-curve-funding-proposal-wins-over-tokenholders",
           "publishedOn": "2024-08-30T12:50:00.000Z",
           "wordCount": 2669,
@@ -1287,7 +1332,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/nostr-surge-after-telegram-ceo-arrest-shows-growing-user-demand-for-privacy",
           "author": "Pedro Solimano",
-          "description": "Decentralized social media platform Nostr clocked a sizable uptick in users after Telegram CEO Pavel Durov was arrested in France on Aug. 25. Users concerned with potential regulatory interference are seeking more privacy-focused alternatives.",
+          "description": "Users soared to 34,000 from 9,000 after Pavel Durov was detained in France.",
           "link": "https://thedefiant.io/news/regulation/nostr-surge-after-telegram-ceo-arrest-shows-growing-user-demand-for-privacy",
           "publishedOn": "2024-08-29T22:15:44.000Z",
           "wordCount": 3206,
@@ -1493,46 +1538,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e3cfea36bd0d5b86d336fb99707ce6e876c0458c-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/sony-launches-testnet-and-incubator-for-soneium-layer-2",
-          "author": "Mehab Qureshi",
-          "description": "Soneium wants to foster projects targeting the DeFi, NFT, gaming, and social sectors.",
-          "link": "https://thedefiant.io/news/blockchains/sony-launches-testnet-and-incubator-for-soneium-layer-2",
-          "publishedOn": "2024-08-28T09:14:00.000Z",
-          "wordCount": 2616,
-          "title": "Sony Launches Testnet and Incubator For Soneium Layer 2",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/85b21920cbd3d5eca2e3a5ff543c9e869b6dad19-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/85b21920cbd3d5eca2e3a5ff543c9e869b6dad19-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-bitcoin-friday-futures-on-september-30",
-          "author": "DeepNewz",
-          "description": "CME Group has announced the launch of Bitcoin Friday Futures (BFF) on September 30, 2024",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-to-launch-bitcoin-friday-futures-on-september-30",
-          "publishedOn": "2024-08-27T19:59:32.000Z",
-          "wordCount": 2173,
-          "title": "CME Group to Launch Bitcoin Friday Futures on September 30",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/xapo-bank-hilbert-group-to-launch-200m-bitcoin-hedge-fund",
-          "author": "DeepNewz",
-          "description": "Xapo Bank and Hilbert Group have announced a partnership to launch a Bitcoin-denominated hedge fund with an initial capital of $200 million",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/xapo-bank-hilbert-group-to-launch-200m-bitcoin-hedge-fund",
-          "publishedOn": "2024-08-27T19:59:28.000Z",
-          "wordCount": 2210,
-          "title": "Xapo Bank and Hilbert Group to Launch $200M Bitcoin Hedge Fund",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f729268d207811c7dd73ca88ecd4249bd55f2fa-1200x798.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7f729268d207811c7dd73ca88ecd4249bd55f2fa-1200x798.jpg"
         }
       ]
     },
