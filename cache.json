@@ -45,6 +45,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/fractal-mania-continues-with-token-up-300-in-four-days",
+          "author": "Pedro Solimano",
+          "description": "Over 30% of Bitcoin miners are merge-mining with Fractal, while transactions on the Bitcoin sidechain have skyrocketed by 20,000%.",
+          "link": "https://thedefiant.io/news/blockchains/fractal-mania-continues-with-token-up-300-in-four-days",
+          "publishedOn": "2024-09-12T20:11:44.000Z",
+          "wordCount": 2474,
+          "title": "‘Fractal Mania’ Continues With Token up 300% in Four Days",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1b19042f8bd0b66051210e6ede803d228b3b5ec6-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1b19042f8bd0b66051210e6ede803d228b3b5ec6-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/zksync-launches-three-body-governance-system",
+          "author": "Pedro Solimano",
+          "description": "Governance is designed around three core pillars: token assembly, a security council, and guardians.",
+          "link": "https://thedefiant.io/news/blockchains/zksync-launches-three-body-governance-system",
+          "publishedOn": "2024-09-12T19:33:42.000Z",
+          "wordCount": 2764,
+          "title": "ZKSync Launches Three-Body Governance System",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/20a15b96ec4a92896a0ca05cc4323ff6bdd22bcd-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/20a15b96ec4a92896a0ca05cc4323ff6bdd22bcd-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/grayscale-launches-first-ripple-trust-in-the-u-s",
+          "author": "Squiffs",
+          "description": "XRP, the seventh-largest cryptocurrency by market capitalization, is now accessible to institutional investors.",
+          "link": "https://thedefiant.io/news/markets/grayscale-launches-first-ripple-trust-in-the-u-s",
+          "publishedOn": "2024-09-12T18:54:33.000Z",
+          "wordCount": 2339,
+          "title": "Grayscale Launches First Ripple Trust in the U.S.",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ed37cfbe7151434d1be0aecde600ee846333371b-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ed37cfbe7151434d1be0aecde600ee846333371b-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/hamster-kombat-s-hmstr-to-listed-on-bybit-binance-5x-leverage-september-12",
           "author": "DeepNewz",
           "description": "Hamster Kombat's $HMSTR token is set to be listed on multiple exchanges following its airdrop",
@@ -1247,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/cftc-orders-cease-and-desist-against-uniswap-labs",
           "author": "Squiffs",
-          "description": "Uniswap Labs will pay a $175,000 settlement fine as the “regulation by enforcement” campaign continues.",
+          "description": "The Commodity Futures Trading Commission (CFTC) issued an order to file and settle charges against Unisawp Labs for offering illegal digital asset derivatives trading.",
           "link": "https://thedefiant.io/news/regulation/cftc-orders-cease-and-desist-against-uniswap-labs",
           "publishedOn": "2024-09-04T17:58:50.000Z",
           "wordCount": 2504,
@@ -1292,7 +1337,7 @@
         {
           "id": "https://thedefiant.io/news/defi/euler-finance-rises-from-the-ashes-with-modular-v2-iteration",
           "author": "Samuel Haig",
-          "description": "Euler has launched its v2 iteration nearly 18 months after suffering a devastating hack.",
+          "description": "Developers can build and chain together money market vaults using Euler v2.",
           "link": "https://thedefiant.io/news/defi/euler-finance-rises-from-the-ashes-with-modular-v2-iteration",
           "publishedOn": "2024-09-04T14:00:00.000Z",
           "wordCount": 2676,
@@ -1498,51 +1543,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b048b31afe67c7ee4ce2e39376796b4c7db0ae56-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/coinbase-says-it-unlocked-first-ai-to-ai-crypto-transaction",
-          "author": "Pedro Solimano",
-          "description": "According to Brian Armstrong, AI agents used tokens to buy tokens.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/coinbase-says-it-unlocked-first-ai-to-ai-crypto-transaction",
-          "publishedOn": "2024-09-02T15:50:01.000Z",
-          "wordCount": 2423,
-          "title": "Coinbase Says it Unlocked First AI-to-AI Crypto Transaction",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fecc1b0d400124a2b6fffe10dded9516ff47a880-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fecc1b0d400124a2b6fffe10dded9516ff47a880-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/bitcoin-miners-suffer-worst-month-in-one-year",
-          "author": "Samuel Haig and Mehab Qureshi",
-          "description": "March recorded the highest miner revenue in the last 12 months, peaking at $2 billion.",
-          "link": "https://thedefiant.io/news/blockchains/bitcoin-miners-suffer-worst-month-in-one-year",
-          "publishedOn": "2024-09-02T14:33:00.000Z",
-          "wordCount": 2790,
-          "title": "Bitcoin Miners Suffer Worst Month In One Year",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5942c52ca5d306cf6926b8ff690390ae9293a3ed-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5942c52ca5d306cf6926b8ff690390ae9293a3ed-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/safedao-proposes-collecting-swap-fees-as-revenue",
-          "author": "Mehab Qureshi",
-          "description": "Should the proposal pass, SafeDAO will use the fees to accumulate SAFE tokens for the project’s treasury.",
-          "link": "https://thedefiant.io/news/defi/safedao-proposes-collecting-swap-fees-as-revenue",
-          "publishedOn": "2024-09-02T10:18:00.000Z",
-          "wordCount": 2582,
-          "title": "SafeDAO Proposes Collecting Swap Fees As Revenue",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1ceca48cb7b40af9fe08d8455a1f72aa684bfb73-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1ceca48cb7b40af9fe08d8455a1f72aa684bfb73-1792x1024.webp"
         }
       ]
     },
