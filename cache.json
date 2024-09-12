@@ -45,6 +45,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-layer-2-atlas-launches-private-testnet",
+          "author": "Squiffs",
+          "description": "The blockchain is built using an implementation of the Solana virtual machine, but settles transactions to Ethereum.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-layer-2-atlas-launches-private-testnet",
+          "publishedOn": "2024-09-12T03:43:29.000Z",
+          "wordCount": 2314,
+          "title": "Ethereum Layer 2 Atlas Launches Private Testnet",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0c9ae64fb58bc2927d87edb1fed3039a18f7df57-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0c9ae64fb58bc2927d87edb1fed3039a18f7df57-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/magic-eden-offers-50-diamond-bonus-for-buying-nfts-or-ordinals",
+          "author": "Pedro Solimano",
+          "description": "The additional reward is for users who purchase NFTs through the Magic Eden mobile wallet.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/magic-eden-offers-50-diamond-bonus-for-buying-nfts-or-ordinals",
+          "publishedOn": "2024-09-12T03:38:11.000Z",
+          "wordCount": 2671,
+          "title": "Magic Eden Offers 50% Diamond Bonus For Buying NFTs or Ordinals",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/293cceb219bdceb4a0a9500a143ef5ba6321525b-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/293cceb219bdceb4a0a9500a143ef5ba6321525b-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/polymarket-shows-heated-presidential-race-after-trump-harris-debate",
+          "author": "Pedro Solimano",
+          "description": "Candidates are within one percentage point of each other, with both briefly gaining the lead in the past 24 hours.",
+          "link": "https://thedefiant.io/news/regulation/polymarket-shows-heated-presidential-race-after-trump-harris-debate",
+          "publishedOn": "2024-09-12T03:33:23.000Z",
+          "wordCount": 2694,
+          "title": "Polymarket Shows Heated Presidential Race After Trump-Harris Debate",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b7bc4ef07b8158c58a53e18ebb032537e2304915-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b7bc4ef07b8158c58a53e18ebb032537e2304915-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/multi-million-dollar-cryptopunk-nft-sells-for-10-eth",
           "author": "Squiffs",
           "description": "The buyer cleverly purchased all the shares of the previously fractionalized rare CryptoPunk at a steep discount.",
@@ -110,7 +155,7 @@
           "description": "CleanSpark Inc. has announced the acquisition of seven Bitcoin mining facilities in Tennessee for a total of $27.5 million.",
           "link": "https://thedefiant.io/news/blockchains/cleanspark-acquires-7-bitcoin-mining-facilities-tennessee-up-to-30-million",
           "publishedOn": "2024-09-11T18:01:47.000Z",
-          "wordCount": 2219,
+          "wordCount": 2222,
           "title": "CleanSpark Acquires 7 Bitcoin Mining Facilities in Tennessee for Up to $30 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9982327b3410abbc32d6c5f49d9fd54fc31d0393-1070x1072.jpg",
@@ -155,7 +200,7 @@
           "description": "The United Kingdom has introduced and passed a new bill that recognizes cryptocurrencies, NFTs, and other digital assets as personal property",
           "link": "https://thedefiant.io/news/regulation/uk-parliament-passes-bill-recognizing-cryptocurrencies-nfts-personal-property",
           "publishedOn": "2024-09-11T18:01:13.000Z",
-          "wordCount": 2226,
+          "wordCount": 2238,
           "title": "UK Parliament Passes Bill Recognizing Cryptocurrencies and NFTs as Personal Property",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a3e95015ec192e72928bb5f691538ab67916415c-1200x604.jpg",
@@ -455,7 +500,7 @@
           "description": "Singapore police have launched an investigation into seven individuals suspected of offering services to buy and sell Worldcoin accounts and tokens",
           "link": "https://thedefiant.io/news/regulation/singapore-police-arrest-five-worldcoin-account-sales-investigation",
           "publishedOn": "2024-09-10T12:32:32.000Z",
-          "wordCount": 2194,
+          "wordCount": 2202,
           "title": "Singapore Police Arrest Five in Worldcoin Account Sales Investigation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f3081e632a56dc02a1ea2cd8f9b45df8cb3327f5-1089x233.jpg",
@@ -710,7 +755,7 @@
           "description": "A New York judge, Judge Failla, has ordered the U.S. Securities and Exchange Commission (SEC) to provide certain documents requested by Coinbase in its ongoing legal battle with the regulatory body.",
           "link": "https://thedefiant.io/news/regulation/judge-failla-orders-sec-to-provide-documents-coinbase-case-excludes-gensler",
           "publishedOn": "2024-09-06T19:41:55.000Z",
-          "wordCount": 2261,
+          "wordCount": 2273,
           "title": "Judge Failla Orders SEC to Provide Documents in Coinbase Case, Excludes Gensler Testimony",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/10080bcd7c33d8a5cadf74cf9bb4c45e754d4e5b-1024x1024.jpg",
@@ -1010,7 +1055,7 @@
           "description": "The Ethereum Foundation currently ranks as the 19th-largest ETH holder with 0.226% of Ether’s supply.",
           "link": "https://thedefiant.io/news/blockchains/justin-drake-says-ethereum-foundation-offloading-eth-improves-decentralization",
           "publishedOn": "2024-09-05T09:12:00.000Z",
-          "wordCount": 2559,
+          "wordCount": 2567,
           "title": "Justin Drake Says Ethereum Foundation Offloading ETH Improves Decentralization",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f055b3d5a8545d2ebeaf537eba3a6a7f0a06111e-1792x1024.webp",
@@ -1190,7 +1235,7 @@
           "description": "The crypto-focused fund that shut down after losing substantial assets on FTX quickly announced its intent to settle with the SEC and is “glad to put this matter behind us.”",
           "link": "https://thedefiant.io/news/regulation/galois-capital-settles-with-the-sec-over-alleged-custody-failures",
           "publishedOn": "2024-09-03T19:11:15.000Z",
-          "wordCount": 2481,
+          "wordCount": 2493,
           "title": "Galois Capital Settles With the SEC Over Alleged Custody Failures",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1e4622118ac6b94d1465a8d62edc5c1f66d48b9b-1792x1024.webp",
@@ -1220,7 +1265,7 @@
           "description": "The company behind Ethereum Layer 2 ZKsync is firing 24 employees to keep the team “agile and effective.”",
           "link": "https://thedefiant.io/news/blockchains/matter-labs-lays-off-staff-for-the-first-time-since-inception",
           "publishedOn": "2024-09-03T16:17:53.000Z",
-          "wordCount": 2529,
+          "wordCount": 2537,
           "title": "Matter Labs Lays Off Staff for the First Time Since Inception",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/99e3a549b8ff60ad7d8aad7fcb9e9b51a3051399-1792x1024.webp",
@@ -1235,7 +1280,7 @@
           "description": "Stylus introduces support for WebAssembly programming languages across the Arbitrum ecosystem.",
           "link": "https://thedefiant.io/news/blockchains/arbitrum-ships-stylus-upgrade",
           "publishedOn": "2024-09-03T16:00:00.000Z",
-          "wordCount": 2568,
+          "wordCount": 2576,
           "title": "Arbitrum Ships Stylus Upgrade",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f43c12f2f4ad16d729e58b2043b20b4360283d45-1792x1024.webp",
@@ -1247,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/defi/aave-and-sky-set-differences-aside-for-usds-incentives-proposal",
           "author": "Samuel Haig and Mehab Qureshi",
-          "description": "Sky wants to bootstrap the growth of its new USDS stablecoin via Aave v3, with both projects agreeing to split revenue evenly.",
+          "description": "Sky and Aave are teaming up on a proposal to incentivize Aave markets for Sky's upcoming USDS stablecoin.",
           "link": "https://thedefiant.io/news/defi/aave-and-sky-set-differences-aside-for-usds-incentives-proposal",
           "publishedOn": "2024-09-03T14:45:00.000Z",
           "wordCount": 2769,
@@ -1292,7 +1337,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-markets-trade-flat-after-bitcoin-and-ether-had-their-worst-week-in-a-month",
           "author": "Mehab Qureshi",
-          "description": "Cryptocurrency markets slid less than 1% Monday, with Bitcoin trading sideways afer it had its worst seven days in four weeks.",
+          "description": "Nearly 61,200  traders were liquidated, with total liquidations amounting to $166.72 million.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-trade-flat-after-bitcoin-and-ether-had-their-worst-week-in-a-month",
           "publishedOn": "2024-09-02T17:09:56.000Z",
           "wordCount": 2624,
@@ -1310,7 +1355,7 @@
           "description": "Cardano's governance is now in the hands of Delegated Representatives, Stake Pool Operators, and its Interim Constitutional Committee.",
           "link": "https://thedefiant.io/news/blockchains/cardano-moves-to-embrace-decentralized-governance-with-first-chang-hard-fork",
           "publishedOn": "2024-09-02T16:43:00.000Z",
-          "wordCount": 2509,
+          "wordCount": 2517,
           "title": "Cardano Moves To Embrace Decentralized Governance With First Chang Hard Fork",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b048b31afe67c7ee4ce2e39376796b4c7db0ae56-1792x1024.webp",
@@ -1485,7 +1530,7 @@
           "description": "Durov’s arrest has left many questioning the future of The Open Network.",
           "link": "https://thedefiant.io/news/blockchains/ton-faces-uncertainty-after-telegram-ceo-pavel-durov-s-arrest",
           "publishedOn": "2024-08-30T17:54:08.000Z",
-          "wordCount": 3649,
+          "wordCount": 3657,
           "title": "TON Faces Uncertainty After Telegram CEO Pavel Durov’s Arrest",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b58f35410c3ea74b664d0a9d759573f726f0d479-1792x1024.webp",
@@ -1493,51 +1538,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b58f35410c3ea74b664d0a9d759573f726f0d479-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-drops-as-etfs-record-third-day-of-net-outflows",
-          "author": "Mehab Qureshi",
-          "description": "Spot Bitcoin ETFs recorded $71.8 million in net outflows on Thursday.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-drops-as-etfs-record-third-day-of-net-outflows",
-          "publishedOn": "2024-08-30T17:36:24.000Z",
-          "wordCount": 2377,
-          "title": "Bitcoin Drops as ETFs Record Third Day of Net Outflows",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/356c0d13cf92703222677a050380e20ed5efe077-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/356c0d13cf92703222677a050380e20ed5efe077-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/controversial-curve-funding-proposal-wins-over-tokenholders",
-          "author": "Samuel Haig",
-          "description": "The proposal previously attracted pushback from Curve’s community.",
-          "link": "https://thedefiant.io/news/defi/controversial-curve-funding-proposal-wins-over-tokenholders",
-          "publishedOn": "2024-08-30T12:50:00.000Z",
-          "wordCount": 2661,
-          "title": "Controversial Curve Funding Proposal Wins Over Tokenholders",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6eb235fb5f775e86ee1ebf3594fd9637542e592a-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6eb235fb5f775e86ee1ebf3594fd9637542e592a-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/people/court-dismisses-usd258b-lawsuit-alleging-elon-musk-and-tesla-manipulated-dogecoin",
-          "author": "Mehab Qureshi",
-          "description": "The court found Musk’s statements to be non-factual and aspirational, describing them as \"puffery.\"",
-          "link": "https://thedefiant.io/news/people/court-dismisses-usd258b-lawsuit-alleging-elon-musk-and-tesla-manipulated-dogecoin",
-          "publishedOn": "2024-08-30T11:16:00.000Z",
-          "wordCount": 2635,
-          "title": "Court Dismisses $258B Lawsuit Alleging Elon Musk and Tesla Manipulated Dogecoin",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2ac13706316121af5f6f2c29706f46d690efc2ca-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2ac13706316121af5f6f2c29706f46d690efc2ca-1792x1024.webp"
         }
       ]
     },
