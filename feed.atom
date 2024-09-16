@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-16T17:13:57.974Z</id>
+    <id>urn:2024-09-16T18:20:59.072Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-16T17:13:57.974Z</updated>
+    <updated>2024-09-16T18:20:59.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binance Founder Changpeng Zhao Set to Be Released Next Week]]></title>
+        <id>https://thedefiant.io/news/people/binance-founder-changpeng-zhao-set-to-be-released-next-week</id>
+        <link href="https://thedefiant.io/news/people/binance-founder-changpeng-zhao-set-to-be-released-next-week"/>
+        <updated>2024-09-16T17:36:09.000Z</updated>
+        <summary type="html"><![CDATA[CZ’s four-month prison sentence will end on September 29.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Market Recap: ETH/BTC At Multi-Year Low, Bernstein Bullish On DeFi]]></title>
         <id>https://thedefiant.io/news/markets/market-recap-eth-btc-at-multi-year-low-bernstein-bullish-on-defi</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/mastercard-joins-forces-with-mercuryo-to-launch-non-custodial-crypto-card-in-europe</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/mastercard-joins-forces-with-mercuryo-to-launch-non-custodial-crypto-card-in-europe"/>
         <updated>2024-09-06T14:02:37.000Z</updated>
-        <summary type="html"><![CDATA[The new crypto card is dubbed Spend.]]></summary>
+        <summary type="html"><![CDATA[Crypto payment infrastructure platform Mercuryo has integrated with Mastercard to launch Spend, a virtual crypto debit card denominated in Euros.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/news/blockchains/synthetix-to-launch-snaxchain-appchain-on-sept-16</id>
         <link href="https://thedefiant.io/news/blockchains/synthetix-to-launch-snaxchain-appchain-on-sept-16"/>
         <updated>2024-09-06T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Synthetix is gearing up to launch SNAXchain, and OP Stack-powered appchain, in less than two weeks.]]></summary>
+        <summary type="html"><![CDATA[SNAXchain’s launch will coincide with Synthetix’s next governance epoch commencing.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Spot Bitcoin ETFs recorded net outflows of $287.8 million on September 3.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Orders Cease and Desist Against Uniswap Labs]]></title>
-        <id>https://thedefiant.io/news/regulation/cftc-orders-cease-and-desist-against-uniswap-labs</id>
-        <link href="https://thedefiant.io/news/regulation/cftc-orders-cease-and-desist-against-uniswap-labs"/>
-        <updated>2024-09-04T17:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Labs will pay a $175,000 settlement fine as the “regulation by enforcement” campaign continues.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
