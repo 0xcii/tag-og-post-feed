@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/degods-make-all-nfts-equal-after-claiming-rarity-model-is-communist",
+          "author": "Squiffs",
+          "description": "The controversial move allows holders to convert their Degods NFTs, Y00ts NFTs, and $DUST tokens into a new official token dubbed $DEGOD.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/degods-make-all-nfts-equal-after-claiming-rarity-model-is-communist",
+          "publishedOn": "2024-09-17T10:02:04.000Z",
+          "wordCount": 2460,
+          "title": "DeGods Make All NFTs Equal After Claiming Rarity Model is ‘Communist’",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a6dc1b0756323ebaa5ef34cfd49c04dfbc75a042-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a6dc1b0756323ebaa5ef34cfd49c04dfbc75a042-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/restaurant-settles-controversial-sec-action-over-nft-membership-program",
           "author": "Samuel Haig",
           "description": "SEC commissioners Hester Peirce and Mark Uyeda dissented against the enforcement action.",
@@ -80,7 +95,7 @@
           "description": "Videos surfaced of Token2049 attendees flying from Dubai to Singapore throwing a party at 30,000 ft.",
           "link": "https://thedefiant.io/news/nfts-and-web3/degens-throw-in-flight-party-enroute-to-token2049",
           "publishedOn": "2024-09-16T19:08:00.000Z",
-          "wordCount": 2409,
+          "wordCount": 2405,
           "title": "Degens Throw In-Flight Party En Route to Token2049",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ccfe5b97b34b3f7f7cc7faf8e24284fbb47e1692-1792x1024.webp",
@@ -270,7 +285,7 @@
           "description": "The Arbitrum-based blockchain gaming ecosystem is considering a pivot to ZKsync for its upcoming Treasure L2 launch.",
           "link": "https://thedefiant.io/news/nfts-and-web3/treasuredao-accused-of-grant-hopping-as-it-mulls-move-to-zksync",
           "publishedOn": "2024-09-13T20:19:06.000Z",
-          "wordCount": 2445,
+          "wordCount": 2442,
           "title": "TreasureDAO Accused of “Grant Hopping” as it Mulls Move to ZKsync",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a549f4cd7c8d6164d063b6004a06dc4131190bee-1792x1024.webp",
@@ -460,7 +475,7 @@
           "description": "Hamster Kombat's $HMSTR token is set to be listed on multiple exchanges following its airdrop",
           "link": "https://thedefiant.io/news/nfts-and-web3/hamster-kombat-s-hmstr-to-listed-on-bybit-binance-5x-leverage-september-12",
           "publishedOn": "2024-09-12T18:13:57.000Z",
-          "wordCount": 2273,
+          "wordCount": 2270,
           "title": "Hamster Kombat's $HMSTR to be Listed on Bybit and Binance with 5x Leverage from September 12",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/187a974d21ad246abfe17b06f90d016a328b5fd5-1200x675.jpg",
@@ -475,7 +490,7 @@
           "description": "Tune FM, a decentralized music streaming platform built on the Hedera Hashgraph blockchain, has secured a $50 million capital commitment from Global Emerging Markets Group",
           "link": "https://thedefiant.io/news/nfts-and-web3/tune-fm-secures-50m-global-emerging-markets-hedera-based-music-streaming",
           "publishedOn": "2024-09-12T18:13:51.000Z",
-          "wordCount": 2240,
+          "wordCount": 2237,
           "title": "Tune FM Secures $50M from Global Emerging Markets for Hedera-Based Music Streaming Platform",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/63f224b5cf35f58e2befcc8d94e11d6fac96dfb8-524x524.jpg",
@@ -625,7 +640,7 @@
           "description": "The additional reward is for users who purchase NFTs through the Magic Eden mobile wallet.",
           "link": "https://thedefiant.io/news/nfts-and-web3/magic-eden-offers-50-diamond-bonus-for-buying-nfts-or-ordinals",
           "publishedOn": "2024-09-12T03:38:11.000Z",
-          "wordCount": 2670,
+          "wordCount": 2676,
           "title": "Magic Eden Offers 50% Diamond Bonus For Buying NFTs or Ordinals",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/293cceb219bdceb4a0a9500a143ef5ba6321525b-1792x1024.webp",
@@ -655,7 +670,7 @@
           "description": "The buyer cleverly purchased all the shares of the previously fractionalized rare CryptoPunk at a steep discount.",
           "link": "https://thedefiant.io/news/nfts-and-web3/multi-million-dollar-cryptopunk-nft-sells-for-10-eth",
           "publishedOn": "2024-09-11T21:09:56.000Z",
-          "wordCount": 2476,
+          "wordCount": 2473,
           "title": "Multi-Million Dollar CryptoPunk NFT Sells for 10 ETH",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9ed88f70941bc104a90df69a983ac440211646e3-1792x1024.webp",
@@ -730,7 +745,7 @@
           "description": "India has emerged as the global leader in cryptocurrency adoption for the second consecutive year, according to a report by Chainalysis",
           "link": "https://thedefiant.io/news/nfts-and-web3/india-leads-global-crypto-adoption-second-year-chainalysis-report-cited-reuters",
           "publishedOn": "2024-09-11T18:01:26.000Z",
-          "wordCount": 2217,
+          "wordCount": 2214,
           "title": "India Leads Global Crypto Adoption for Second Year, Chainalysis Report Cited by Reuters",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/255e66dc2219135c239fef842502058c8dc14013-1200x750.jpg",
@@ -835,7 +850,7 @@
           "description": "Should governance approve the proposal, Cudos would merge its token with ASI and bring thousands of GPUs to the project.",
           "link": "https://thedefiant.io/news/nfts-and-web3/ai-focused-asi-alliance-aims-to-onboard-cudos-as-fourth-member",
           "publishedOn": "2024-09-11T13:00:00.000Z",
-          "wordCount": 2468,
+          "wordCount": 2474,
           "title": "AI-Focused ASI Alliance Aims To Onboard Cudos As Fourth Member",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1190ab285466b990831d2fd0ce6b39f5003162f3-1792x1024.webp",
@@ -910,7 +925,7 @@
           "description": "NFT prices are slowly creeping up despite low volumes.",
           "link": "https://thedefiant.io/news/nfts-and-web3/ai-art-outpaces-the-rest-of-the-nft-market",
           "publishedOn": "2024-09-11T03:39:59.000Z",
-          "wordCount": 2553,
+          "wordCount": 2550,
           "title": "AI Art Outpaces the Rest of the NFT Market",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d9ab6dbf239e9d1167f9234b1f7d90726b5b747c-1792x1024.webp",
@@ -1015,7 +1030,7 @@
           "description": "DeGods NFT has entered into a historic partnership with BlockBetGG, becoming the first community partner of the platform",
           "link": "https://thedefiant.io/news/nfts-and-web3/degods-nft-partners-blockbetgg-33-3-revenue-share-life",
           "publishedOn": "2024-09-10T12:34:06.000Z",
-          "wordCount": 2183,
+          "wordCount": 2180,
           "title": "DeGods NFT Partners with BlockBetGG for 33.3% Revenue Share for Life",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b1e577070a83a2ff3be75d25c941301d97c5c9cd-1200x675.jpg",
@@ -1075,7 +1090,7 @@
           "description": "Crypto scammers have used deepfake technology to impersonate Apple CEO Tim Cook during the iPhone 16 launch event on September 9",
           "link": "https://thedefiant.io/news/nfts-and-web3/crypto-scammers-use-deepfake-tim-cook-iphone-16-launch-scam-on-youtube",
           "publishedOn": "2024-09-10T12:32:27.000Z",
-          "wordCount": 2246,
+          "wordCount": 2252,
           "title": "Crypto Scammers Use Deepfake Tim Cook in iPhone 16 Launch Scam on YouTube",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dfe81170f1bf05397a0589571f21f77c4e10df05-1200x686.jpg",
@@ -1120,7 +1135,7 @@
           "description": "Projects include AI, DeFi, infrastructure, and consumer-facing apps like photo sharing and mapping.",
           "link": "https://thedefiant.io/news/nfts-and-web3/a16z-unveils-new-cohort-of-crypto-startups",
           "publishedOn": "2024-09-09T19:54:16.000Z",
-          "wordCount": 2315,
+          "wordCount": 2321,
           "title": "a16z Unveils New Cohort of Crypto Startups",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7637aaa44f06eef0dc77dd9f46e71cf71cd08c17-1792x1024.webp",
@@ -1390,7 +1405,7 @@
           "description": "Puffpaw wants to use token incentives to help smokers quit.",
           "link": "https://thedefiant.io/news/nfts-and-web3/want-to-quit-smoking-vape-to-earn-is-here",
           "publishedOn": "2024-09-06T17:19:38.000Z",
-          "wordCount": 2475,
+          "wordCount": 2472,
           "title": "Want to Quit Smoking? Vape-to-Earn Is Here",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/827afa44cc66f8181566c876f042dd524768ad8b-1792x1024.webp",
@@ -1518,21 +1533,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cc08737a838bb3243829eaf53d8a836a5a630557-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-drop-on-u-s-labor-market-concerns",
-          "author": "Mehab Qureshi",
-          "description": "The number of active addresses on the Bitcoin network has hit the lowest level since 2021.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-drop-on-u-s-labor-market-concerns",
-          "publishedOn": "2024-09-05T17:58:07.000Z",
-          "wordCount": 2419,
-          "title": "Crypto Markets Drop on U.S. Labor Market Concerns",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/770b54944d6a9e4f4b32dd9a2355b3b85ff4d346-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/770b54944d6a9e4f4b32dd9a2355b3b85ff4d346-1792x1024.webp"
         }
       ]
     },
