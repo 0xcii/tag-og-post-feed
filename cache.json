@@ -11,7 +11,7 @@
           "description": "Like Pavlovian dogs, we all believe the correct response to rate cuts is to BTFD. This behavioural response is rooted in the recent…",
           "link": "https://cryptohayes.medium.com/boom-times-delayed-5950963561df?source=rss-2f6e06954878------2",
           "publishedOn": "2024-09-03T23:01:24.000Z",
-          "wordCount": 5309,
+          "wordCount": 5308,
           "title": "Boom Times… Delayed",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*yIQjkAyna7hdHVY0"
         },
@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/token2049-roundup-solana-seeker-bitgo-stablecoin-and-more",
+          "author": "Mehab Qureshi",
+          "description": "The Token2049 conference in Singapore featured Solana's Seeker phone launch, BitGo’s USDS stablecoin, and other major product announcements.",
+          "link": "https://thedefiant.io/news/defi/token2049-roundup-solana-seeker-bitgo-stablecoin-and-more",
+          "publishedOn": "2024-09-19T19:06:13.000Z",
+          "wordCount": 2754,
+          "title": "Token2049 Roundup: Solana Seeker, BitGo Stablecoin and More",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2e3caeed2778d864165ba58a4ac975b034e724a6-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2e3caeed2778d864165ba58a4ac975b034e724a6-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/saga-rallies-75-as-altcoin-market-recovers",
+          "author": "Squiffs",
+          "description": "Saga Network is leading the alt-Layer 1 surge.",
+          "link": "https://thedefiant.io/news/markets/saga-rallies-75-as-altcoin-market-recovers",
+          "publishedOn": "2024-09-19T18:30:05.000Z",
+          "wordCount": 2340,
+          "title": "SAGA Rallies 75% as Altcoin Market Recovers",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c68c36a39757b92e38fb865511a5f811cfa85d58-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c68c36a39757b92e38fb865511a5f811cfa85d58-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-rallies-above-usd63-000-following-fed-rate-cut",
           "author": "Mehab Qureshi",
           "description": "Total crypto market capitalization is up 6% in a broad rally led by Popcat, Sei, Celestia and Bittensor.",
@@ -73,6 +103,81 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/01868eab359c03cc7c9692cd5739057a212c63e1-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/solana-unveils-new-mobile-device-web3-integration-breakpoint-339f92b3",
+          "author": "DeepNewz",
+          "description": "Solana has announced the launch of its new mobile device, Solana Mobile, which features cutting-edge technology and seamless Web3 integration",
+          "link": "https://thedefiant.io/news/nfts-and-web3/solana-unveils-new-mobile-device-web3-integration-breakpoint-339f92b3",
+          "publishedOn": "2024-09-19T16:06:04.000Z",
+          "wordCount": 2200,
+          "title": "Solana Unveils New Mobile Device with Web3 Integration at Breakpoint",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e1e7bad62d53f97f2337581365d357668c17fe45-590x532.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e1e7bad62d53f97f2337581365d357668c17fe45-590x532.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/wazirx-hacker-moves-7th-batch-32m-eth-amid-ownership-dispute-92e3d168",
+          "author": "DeepNewz",
+          "description": "The hacker behind WazirX has moved $32 million in ETH over the past four days, with the 7th batch of $12 million being laundered via Tornado Cash",
+          "link": "https://thedefiant.io/news/cefi/wazirx-hacker-moves-7th-batch-32m-eth-amid-ownership-dispute-92e3d168",
+          "publishedOn": "2024-09-19T16:05:21.000Z",
+          "wordCount": 2257,
+          "title": "WazirX Hacker Moves 7th Batch of $32M in ETH Amid Ownership Dispute",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7baeb491f392c40311b37086582e69906b1a4820-1198x278.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7baeb491f392c40311b37086582e69906b1a4820-1198x278.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/bitget-secures-eight-figure-deal-laliga-select-regions-8b5eff81",
+          "author": "DeepNewz",
+          "description": "Bitget, a cryptocurrency exchange, has secured an eight-figure, multi-million dollar partnership with LaLiga, Spain's top football league",
+          "link": "https://thedefiant.io/news/cefi/bitget-secures-eight-figure-deal-laliga-select-regions-8b5eff81",
+          "publishedOn": "2024-09-19T16:05:07.000Z",
+          "wordCount": 2165,
+          "title": "Bitget Secures Eight-Figure Deal with LaLiga in Select Regions",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/858ea5ae79d98591428034cd03476d754a435a11-1024x576.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/858ea5ae79d98591428034cd03476d754a435a11-1024x576.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/foresight-ventures-leads-multimillion-dollar-investment-joint-fund-aptos-e7349398",
+          "author": "DeepNewz",
+          "description": "Foresight Ventures has announced a multimillion-dollar investment in the Aptos blockchain ecosystem",
+          "link": "https://thedefiant.io/news/blockchains/foresight-ventures-leads-multimillion-dollar-investment-joint-fund-aptos-e7349398",
+          "publishedOn": "2024-09-19T16:04:53.000Z",
+          "wordCount": 2205,
+          "title": "Foresight Ventures Leads Multimillion-Dollar Investment, Joint Fund in Aptos Ecosystem",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2b28a4132e7548c08c81b6b1f735a3889f7892f2-1200x617.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2b28a4132e7548c08c81b6b1f735a3889f7892f2-1200x617.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/commerzbank-to-offer-bitcoin-ether-trading-custody-services-to-11-6-million-47bcc0d1",
+          "author": "DeepNewz",
+          "description": "Germany's Commerzbank, one of the country's largest banks with €34 billion in assets under management, has announced a partnership with Crypto Finance AG to offer Bitcoin and Ether trading services to its corporate clients",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/commerzbank-to-offer-bitcoin-ether-trading-custody-services-to-11-6-million-47bcc0d1",
+          "publishedOn": "2024-09-19T16:04:25.000Z",
+          "wordCount": 2293,
+          "title": "Commerzbank to Offer Bitcoin, Ether Trading and Custody Services to 11.6 Million Customers",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c9f2861b5d34dc8511547d66e372133bc9f52104-1200x1000.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c9f2861b5d34dc8511547d66e372133bc9f52104-1200x1000.jpg"
         },
         {
           "id": "https://thedefiant.io/news/defi/aave-community-opposes-offboarding-wbtc-despite-looming-restructure",
@@ -535,7 +640,7 @@
           "description": "The move comes as more than 40 firms joined the Bank for International Settlements’ tokenization initiative, Project Agorá.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/hedera-launches-asset-tokenization-studio-amid-global-rwa-push",
           "publishedOn": "2024-09-17T13:00:00.000Z",
-          "wordCount": 2234,
+          "wordCount": 2471,
           "title": "Hedera Launches Asset Tokenization Studio Amid Global RWA Push",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/df0aa88a25f1847d0825951e1210f3ec6780071f-1792x1024.webp",
@@ -595,7 +700,7 @@
           "description": "The $15 million market cap NEIRO token pumped over 10x on the listing, causing the market leader to plummet 40%.",
           "link": "https://thedefiant.io/news/cefi/binance-accused-of-insider-trading-after-listing-the-wrong-memecoin",
           "publishedOn": "2024-09-16T20:18:41.000Z",
-          "wordCount": 2543,
+          "wordCount": 2580,
           "title": "Binance Accused of Insider Trading After Listing the “Wrong” Memecoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc83b85eb1d98599f772dda5881cb228e590b1f7-1792x1024.webp",
@@ -740,7 +845,7 @@
           "description": "The announcement garnered mixed responses from the web3 community.",
           "link": "https://thedefiant.io/news/cefi/circle-plans-to-relocate-headquarters-to-new-york",
           "publishedOn": "2024-09-16T09:22:00.000Z",
-          "wordCount": 2522,
+          "wordCount": 2526,
           "title": "Circle Plans To Relocate Headquarters To New York",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/57a51405ec46bb54fc7ba975a5953003a0cbca33-1792x1024.webp",
@@ -1080,7 +1185,7 @@
           "description": "Coinbase is looking to capitalize on the controversy surrounding Wrapped Bitcoin's ownership restructure.",
           "link": "https://thedefiant.io/news/cefi/coinbase-begins-cbbtc-rollout",
           "publishedOn": "2024-09-12T11:00:00.000Z",
-          "wordCount": 2498,
+          "wordCount": 2502,
           "title": "Coinbase Begins cbBTC Rollout",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/37e716e17a70399ceef02675ca74532b82b7bbfb-1792x1024.webp",
@@ -1305,7 +1410,7 @@
           "description": "The world’s fourth-largest centralized exchange also holds 11% of all staked ETH and is behind the second-largest Ethereum Layer 2.",
           "link": "https://thedefiant.io/news/cefi/coinbase-holds-11-of-bitcoin-s-total-supply-how-worried-should-we-be",
           "publishedOn": "2024-09-11T17:04:26.000Z",
-          "wordCount": 3690,
+          "wordCount": 3694,
           "title": "Coinbase Holds 11% of Bitcoin’s Total Supply – How Worried Should We Be?",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/475fc9ce7235a897a41ba2ad60fc9423d72239d5-1555x875.png",
@@ -1388,111 +1493,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/781d9a8297abb09afda1923462497990847cb9bf-1200x672.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/indonesian-crypto-exchange-indodax-hacked-over-22-million-goes-offline",
-          "author": "DeepNewz",
-          "description": "Indonesian cryptocurrency exchange Indodax suffered a major security breach on the evening of September 10, 2024, resulting in the theft of over $22 million worth of various tokens",
-          "link": "https://thedefiant.io/news/cefi/indonesian-crypto-exchange-indodax-hacked-over-22-million-goes-offline",
-          "publishedOn": "2024-09-11T12:17:37.000Z",
-          "wordCount": 2266,
-          "title": "Indonesian Crypto Exchange Indodax Hacked for Over $22 Million, Goes Offline",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3bf33dbd2c90a8c41b238c8fc114c225eba0c7b8-800x533.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3bf33dbd2c90a8c41b238c8fc114c225eba0c7b8-800x533.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/tether-surpasses-blackrock-6-2-billion-profit-2023-700-million-more",
-          "author": "DeepNewz",
-          "description": "Tether, a prominent player in the cryptocurrency market, generated $6",
-          "link": "https://thedefiant.io/news/cefi/tether-surpasses-blackrock-6-2-billion-profit-2023-700-million-more",
-          "publishedOn": "2024-09-11T12:17:32.000Z",
-          "wordCount": 2166,
-          "title": "Tether Surpasses BlackRock with $6.2 Billion Profit in 2023, $700 Million More",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/735617c47f8ee817696461d42a16fd597a5e99df-1200x675.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/735617c47f8ee817696461d42a16fd597a5e99df-1200x675.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/ai-art-outpaces-the-rest-of-the-nft-market",
-          "author": "Squiffs",
-          "description": "NFT prices are slowly creeping up despite low volumes.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/ai-art-outpaces-the-rest-of-the-nft-market",
-          "publishedOn": "2024-09-11T03:39:59.000Z",
-          "wordCount": 2559,
-          "title": "AI Art Outpaces the Rest of the NFT Market",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d9ab6dbf239e9d1167f9234b1f7d90726b5b747c-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d9ab6dbf239e9d1167f9234b1f7d90726b5b747c-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/first-ever-defi-hearing-ends-with-u-s-lawmakers-at-odds",
-          "author": "Pedro Solimano",
-          "description": "Members of the House Financial Services Committee fought over how DeFi regulations should proceed.",
-          "link": "https://thedefiant.io/news/regulation/first-ever-defi-hearing-ends-with-u-s-lawmakers-at-odds",
-          "publishedOn": "2024-09-11T01:02:44.000Z",
-          "wordCount": 2658,
-          "title": "First-Ever DeFi Hearing Ends With U.S. Lawmakers At Odds",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/eb1d4f180510c79a74f69d5d1c8a1930ce6e7e36-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/eb1d4f180510c79a74f69d5d1c8a1930ce6e7e36-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/fbi-warns-against-north-korea-s-social-engineering-attacks-on-defi",
-          "author": "Squiffs",
-          "description": "The dictatorship is connected to billions in assets stolen through its cyber-warfare groups.",
-          "link": "https://thedefiant.io/news/defi/fbi-warns-against-north-korea-s-social-engineering-attacks-on-defi",
-          "publishedOn": "2024-09-10T19:17:16.000Z",
-          "wordCount": 2686,
-          "title": "FBI Warns Against North Korea’s Social Engineering Attacks on DeFi",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/272ba84f4f489327e50c72c11a34a0d5838cd1f2-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/272ba84f4f489327e50c72c11a34a0d5838cd1f2-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-price-surges-as-etfs-record-inflows-after-8-day-slump",
-          "author": "Mehab Qureshi",
-          "description": "Analysts believe the market will closely watch Kamala Harris’ policy cues in today's debut debate.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-price-surges-as-etfs-record-inflows-after-8-day-slump",
-          "publishedOn": "2024-09-10T16:34:42.000Z",
-          "wordCount": 2486,
-          "title": "Bitcoin Price Surges as ETFs Record Inflows After 8-Day Slump",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/04f063ec70aecfd012a34bbefd56e90d1bf67cc0-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/04f063ec70aecfd012a34bbefd56e90d1bf67cc0-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/paypal-and-venmo-integrate-support-for-ens-names",
-          "author": "Mehab Qureshi",
-          "description": "The market cap of PayPal's PYUSD stablecoin is down 17% in two weeks.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/paypal-and-venmo-integrate-support-for-ens-names",
-          "publishedOn": "2024-09-10T16:00:00.000Z",
-          "wordCount": 2234,
-          "title": "PayPal and Venmo Integrate Support For ENS Names",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/eae8f44cbe26d51f62dbdbd3e8a1848f56fc49c1-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/eae8f44cbe26d51f62dbdbd3e8a1848f56fc49c1-1792x1024.webp"
         }
       ]
     },
