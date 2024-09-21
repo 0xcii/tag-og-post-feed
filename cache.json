@@ -11,7 +11,7 @@
           "description": "Like Pavlovian dogs, we all believe the correct response to rate cuts is to BTFD. This behavioural response is rooted in the recent…",
           "link": "https://cryptohayes.medium.com/boom-times-delayed-5950963561df?source=rss-2f6e06954878------2",
           "publishedOn": "2024-09-03T23:01:24.000Z",
-          "wordCount": 5308,
+          "wordCount": 5309,
           "title": "Boom Times… Delayed",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*yIQjkAyna7hdHVY0"
         },
@@ -21,7 +21,7 @@
           "description": "I rounded out my northern hemispheric summer holiday by flipping the script and travelling to the southern hemisphere to ski for two weeks..",
           "link": "https://cryptohayes.medium.com/sugar-high-5ddfc1c6decf?source=rss-2f6e06954878------2",
           "publishedOn": "2024-08-27T23:01:34.000Z",
-          "wordCount": 6057,
+          "wordCount": 6058,
           "title": "Sugar High",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*wH74hnH48ptbbETR"
         }
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/defi/sky-preps-for-solana-expansion",
+          "author": "Squiffs",
+          "description": "The potential expansion is in the discussion stage after a proposal was floated by Sky (MakerDAO) founder Rune Christensen.",
+          "link": "https://thedefiant.io/news/defi/sky-preps-for-solana-expansion",
+          "publishedOn": "2024-09-21T01:04:08.000Z",
+          "wordCount": 2397,
+          "title": "Sky Preps for Solana Expansion",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/56771654d9054de178df1660e27d8b9fffb4dcfa-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/56771654d9054de178df1660e27d8b9fffb4dcfa-1792x1024.webp"
+        },
         {
           "id": "https://thedefiant.io/news/research-and-opinion/vitalik-an-ethereum-story-feature-documentary-film",
           "author": "Devin Sawyer",
@@ -1478,21 +1493,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0366d8c5d8350cb480ffbc801ea06dd61c013bd8-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/cleanspark-acquires-7-bitcoin-mining-facilities-tennessee-up-to-30-million",
-          "author": "DeepNewz",
-          "description": "CleanSpark Inc. has announced the acquisition of seven Bitcoin mining facilities in Tennessee for a total of $27.5 million.",
-          "link": "https://thedefiant.io/news/blockchains/cleanspark-acquires-7-bitcoin-mining-facilities-tennessee-up-to-30-million",
-          "publishedOn": "2024-09-11T18:01:47.000Z",
-          "wordCount": 2198,
-          "title": "CleanSpark Acquires 7 Bitcoin Mining Facilities in Tennessee for Up to $30 Million",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9982327b3410abbc32d6c5f49d9fd54fc31d0393-1070x1072.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9982327b3410abbc32d6c5f49d9fd54fc31d0393-1070x1072.jpg"
         }
       ]
     },
