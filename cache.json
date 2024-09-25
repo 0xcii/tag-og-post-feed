@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/zksync-s-zk-pumps-10-on-coinbase-listing",
+          "author": "Pedro Solimano",
+          "description": "Trading began at midday New York time.",
+          "link": "https://thedefiant.io/news/markets/zksync-s-zk-pumps-10-on-coinbase-listing",
+          "publishedOn": "2024-09-25T18:16:48.000Z",
+          "wordCount": 2310,
+          "title": "ZkSync's ZK Pumps 10% on Coinbase Listing",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6d66218a2bd9066cdcff8f78bbd16bbc83bca60b-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6d66218a2bd9066cdcff8f78bbd16bbc83bca60b-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/etherfi-launches-usde-lrt-and-season-4-points-campaign",
           "author": "Samuel Haig",
           "description": "EtherFi users will begin earning a wrapped token accruing rewards from EigenLayer’s AVS ecosystem during Season 4.",
@@ -1473,21 +1488,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ecc218f26bb86f9c04366ce1430c6e0ed1384e91-600x600.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-rally-after-u-s-retail-sales-beat-expectations",
-          "author": "Mehab Qureshi",
-          "description": "Investors anticipate a rate cut from the Federal Reserve tomorrow.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-rally-after-u-s-retail-sales-beat-expectations",
-          "publishedOn": "2024-09-17T17:02:08.000Z",
-          "wordCount": 2527,
-          "title": "Crypto Markets Rally After U.S. Retail Sales Beat Expectations",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b4ffbf17971193cedd7a8748b00dc4d0fe640099-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b4ffbf17971193cedd7a8748b00dc4d0fe640099-1792x1024.webp"
         }
       ]
     },
