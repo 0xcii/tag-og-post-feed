@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/caroline-ellison-sentenced-to-24-months-forfeits-11-billion-ftx-fraud-c5b54c6e",
+          "author": "DeepNewz",
+          "description": "Caroline Ellison, former CEO of Alameda Research and a key figure in the FTX cryptocurrency exchange collapse, has been sentenced to 24 months in prison",
+          "link": "https://thedefiant.io/news/regulation/caroline-ellison-sentenced-to-24-months-forfeits-11-billion-ftx-fraud-c5b54c6e",
+          "publishedOn": "2024-09-25T01:11:58.000Z",
+          "wordCount": 2282,
+          "title": "Caroline Ellison Sentenced to 24 Months, Forfeits $11 Billion in FTX Fraud",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3f4f60f35b8812f6c36ea4fb39fb6e40e57ad025-1200x800.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3f4f60f35b8812f6c36ea4fb39fb6e40e57ad025-1200x800.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/kudos-to-you-for-answering-a-different-question-says-u-s-senator-grilling-gary-gensler",
           "author": "Pedro Solimano",
           "description": "Five members of the SEC, including pro-crypto commissioner Hester Peirce, attended the Oversight of the SEC hearing in the U.S. Senate.",
@@ -1232,7 +1247,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/google-cloud-launches-blockchain-rpc-service-for-ethereum",
           "author": "Mehab Qureshi",
-          "description": "Google Cloud said it will integrate support for additional blockchain networks next year.",
+          "description": "Google Cloud launched an RPC service for Ethereum in the company's latest web3 foray.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/google-cloud-launches-blockchain-rpc-service-for-ethereum",
           "publishedOn": "2024-09-18T10:08:00.000Z",
           "wordCount": 2406,
@@ -1473,21 +1488,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a6dc1b0756323ebaa5ef34cfd49c04dfbc75a042-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/restaurant-settles-controversial-sec-action-over-nft-membership-program",
-          "author": "Samuel Haig",
-          "description": "SEC commissioners Hester Peirce and Mark Uyeda dissented against the enforcement action.",
-          "link": "https://thedefiant.io/news/regulation/restaurant-settles-controversial-sec-action-over-nft-membership-program",
-          "publishedOn": "2024-09-17T08:30:00.000Z",
-          "wordCount": 2731,
-          "title": "Restaurant Settles Controversial SEC Action Over NFT Membership Program",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9d96c50955157499600b4bb5500cca37d5d94c8f-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9d96c50955157499600b4bb5500cca37d5d94c8f-1792x1024.webp"
         }
       ]
     },
