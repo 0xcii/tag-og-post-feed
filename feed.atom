@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-26T11:13:24.427Z</id>
+    <id>urn:2024-09-26T12:32:50.196Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-26T11:13:24.427Z</updated>
+    <updated>2024-09-26T12:32:50.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hamster Kombat’s Highly Anticipated Airdrop Goes Live]]></title>
+        <id>https://thedefiant.io/news/tokens/hamster-kombat-s-highly-anticipated-airdrop-goes-live</id>
+        <link href="https://thedefiant.io/news/tokens/hamster-kombat-s-highly-anticipated-airdrop-goes-live"/>
+        <updated>2024-09-26T12:17:00.000Z</updated>
+        <summary type="html"><![CDATA[The price of HMSTR is quickly falling.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Volatility Supercycle]]></title>
         <id>https://medium.com/p/c767fff93ac2</id>
@@ -1001,16 +1011,6 @@
         <link href="https://thedefiant.io/news/markets/good-tech-leads-altcoin-bounce"/>
         <updated>2024-09-17T19:52:12.000Z</updated>
         <summary type="html"><![CDATA[TIA, SUI, FTM, TAO and XRP are among the largest gainers over the last week.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hit Mobile Game Flappy Bird Launches Crypto-based Comeback]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/hit-mobile-game-flappy-bird-launches-crypto-based-comeback</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/hit-mobile-game-flappy-bird-launches-crypto-based-comeback"/>
-        <updated>2024-09-17T18:41:38.000Z</updated>
-        <summary type="html"><![CDATA[Ten years after the game was pulled from app stores, a new team is reviving the IP, but mainstream media has already written it off.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
