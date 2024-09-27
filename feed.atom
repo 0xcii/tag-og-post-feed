@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-27T19:13:13.864Z</id>
+    <id>urn:2024-09-27T20:17:17.944Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-27T19:13:13.864Z</updated>
+    <updated>2024-09-27T20:17:17.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Moonshot Memecoin Trading App Gains Traction]]></title>
+        <id>https://thedefiant.io/news/defi/moonshot-memecoin-trading-app-gains-traction</id>
+        <link href="https://thedefiant.io/news/defi/moonshot-memecoin-trading-app-gains-traction"/>
+        <updated>2024-09-27T20:08:41.000Z</updated>
+        <summary type="html"><![CDATA[The retail-friendly memecoin app has partnered with MoonPay and is available on Apple and Google app stores.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin and Ethereum Lose Market Share in MENA Region: Chainalysis]]></title>
+        <id>https://thedefiant.io/news/defi/bitcoin-and-ethereum-lose-market-share-in-mena-region-chainalysis</id>
+        <link href="https://thedefiant.io/news/defi/bitcoin-and-ethereum-lose-market-share-in-mena-region-chainalysis"/>
+        <updated>2024-09-27T18:54:39.000Z</updated>
+        <summary type="html"><![CDATA[Stablecoins and altcoins are gaining traction in countries like Israel, Turkey, Saudi Arabia and the UAE.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shiba Inu Leads Memecoin Rally Gaining $6 Billion in Market Cap in a Week]]></title>
         <id>https://thedefiant.io/news/markets/shiba-inu-leads-memecoin-rally-gaining-usd6-billion-in-market-cap-in-a-week</id>
@@ -830,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-s-next-pectra-upgrade-to-take-place-over-two-forks</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-s-next-pectra-upgrade-to-take-place-over-two-forks"/>
         <updated>2024-09-20T12:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum’s developers are gearing up for the network’s next major upgrade.]]></summary>
+        <summary type="html"><![CDATA[Ethereum's upcoming Pectra upgrade will be divided across two hard forks.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,26 +1013,6 @@
         <summary type="html"><![CDATA[The DePIN sector has outperformed in 2024, led by projects like Helium and Render Networks.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethena Labs, Synthetic Dollar Protocol on Ethereum, Deactivates Frontend After Domain Registrar Compromise]]></title>
-        <id>https://thedefiant.io/news/defi/ethena-labs-synthetic-dollar-protocol-on-ethereum-deactivates-frontend-after-5ba15bf1</id>
-        <link href="https://thedefiant.io/news/defi/ethena-labs-synthetic-dollar-protocol-on-ethereum-deactivates-frontend-after-5ba15bf1"/>
-        <updated>2024-09-18T18:26:45.000Z</updated>
-        <summary type="html"><![CDATA[Ethena Labs, a synthetic dollar protocol on Ethereum, has temporarily deactivated its frontend website after a compromise of its domain registrar account]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Drop Ahead of Fed Decision]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-drop-ahead-of-fed-decision</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-drop-ahead-of-fed-decision"/>
-        <updated>2024-09-18T17:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin and Ethereum slipped 3% and 2%, respectively.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>
