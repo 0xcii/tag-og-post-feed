@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/bedrock-vulnerability-allows-hacker-to-drain-usd2m-from-unibtc-liquidity-pools",
+          "author": "Mehab Qureshi",
+          "description": "Bedrock reached out to the hacker with a job offer.",
+          "link": "https://thedefiant.io/news/hacks/bedrock-vulnerability-allows-hacker-to-drain-usd2m-from-unibtc-liquidity-pools",
+          "publishedOn": "2024-09-27T16:10:00.000Z",
+          "wordCount": 2550,
+          "title": "Bedrock Vulnerability Allows Hacker To Drain $2M From UniBTC Liquidity Pools",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0f378298491653e7e489e2eb09ae4dbd68fe2b3-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d0f378298491653e7e489e2eb09ae4dbd68fe2b3-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/vusd-stablecoin-depegs-after-usd3-8-million-exploit-of-onyxdao",
+          "author": "Squiffs",
+          "description": "The token dropped as much as 90% before partially recovering.",
+          "link": "https://thedefiant.io/news/defi/vusd-stablecoin-depegs-after-usd3-8-million-exploit-of-onyxdao",
+          "publishedOn": "2024-09-27T15:47:14.000Z",
+          "wordCount": 2381,
+          "title": "VUSD Stablecoin Depegs After $3.8 Million Exploit of OnyxDAO",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/36e84aee824239ab0c0836c034548269a70ab4fe-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/36e84aee824239ab0c0836c034548269a70ab4fe-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/aave-s-wbtc-holdings-surge-to-record-high-despite-restructure-drama",
           "author": "Samuel Haig",
           "description": "Aave also onboarded two new BTC-backed tokens over the past week.",
@@ -1477,26 +1507,6 @@
           "publishedOn": "2024-09-18T15:42:49.000Z",
           "wordCount": 2154,
           "title": "Tether's Q2 Audit Reveals $118.4B in Reserves, $97.6B in U.S. Treasuries, 18th Largest Holder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/icp-based-bitcoin-token-ckbtc-to-bridge-to-cosmos-via-osmosis-dex-collaboration-c5e84178",
-          "author": "DeepNewz",
-          "description": "The non-custodial Bitcoin token $ckBTC, based on Internet Computer Protocol (ICP), is set to bridge to the Cosmos ecosystem via the Osmosis decentralized exchange (DEX)",
-          "link": "https://thedefiant.io/news/defi/icp-based-bitcoin-token-ckbtc-to-bridge-to-cosmos-via-osmosis-dex-collaboration-c5e84178",
-          "publishedOn": "2024-09-18T15:42:22.000Z",
-          "wordCount": 2253,
-          "title": "ICP-Based Bitcoin Token $ckBTC to Bridge to Cosmos via Osmosis DEX in Collaboration with Dfinity and Omnity Network",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/paralleltcg-unveils-new-3d-shooter-game-tau-ceti-built-on-unreal-engine-5-set-q4-237e5a62",
-          "author": "DeepNewz",
-          "description": "ParallelTCG has unveiled a new 3D third-person shooter game codenamed Tau Ceti, built on Unreal Engine 5",
-          "link": "https://thedefiant.io/news/nfts-and-web3/paralleltcg-unveils-new-3d-shooter-game-tau-ceti-built-on-unreal-engine-5-set-q4-237e5a62",
-          "publishedOn": "2024-09-18T15:42:19.000Z",
-          "wordCount": 2253,
-          "title": "ParallelTCG Unveils New 3D Shooter Game Tau Ceti Built on Unreal Engine 5, Set for Q4 2025 Release",
           "imageUrl": null
         }
       ]
