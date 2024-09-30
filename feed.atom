@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-30T16:20:19.929Z</id>
+    <id>urn:2024-09-30T17:14:41.239Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-30T16:20:19.929Z</updated>
+    <updated>2024-09-30T17:14:41.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Donald Trump Vows to Use Crypto to Make America Great Again]]></title>
+        <id>https://thedefiant.io/news/defi/donald-trump-vows-to-use-crypto-to-make-america-great-again</id>
+        <link href="https://thedefiant.io/news/defi/donald-trump-vows-to-use-crypto-to-make-america-great-again"/>
+        <updated>2024-09-30T16:53:34.000Z</updated>
+        <summary type="html"><![CDATA[The presidential candidate says he wants to make America the “crypto capital of the world” as the World Liberty Financial KYC whitelist opens.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Creditors Expect Only 10% to 25% of Crypto Holdings to Be Recovered]]></title>
+        <id>https://thedefiant.io/news/cefi/ftx-creditors-expect-only-10-to-25-of-crypto-holdings-to-be-recovered</id>
+        <link href="https://thedefiant.io/news/cefi/ftx-creditors-expect-only-10-to-25-of-crypto-holdings-to-be-recovered"/>
+        <updated>2024-09-30T16:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Creditors argue that cash payouts don't fairly compensate for their losses.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synthetix Governance Overhaul Garners Near-Unanimous Support]]></title>
         <id>https://thedefiant.io/news/defi/synthetix-governance-overhaul-garners-near-unanimous-support</id>
@@ -850,7 +870,7 @@
         <id>https://thedefiant.io/news/regulation/silvergate-bank-shut-down-because-of-operation-choke-point-2-0-not-insolvency</id>
         <link href="https://thedefiant.io/news/regulation/silvergate-bank-shut-down-because-of-operation-choke-point-2-0-not-insolvency"/>
         <updated>2024-09-20T15:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Silvergate's bankruptcy filings reveal the bank was forced to shut down by U.S. regulators.]]></summary>
+        <summary type="html"><![CDATA[Silvergate’s bankruptcy filings attribute the bank's failure to regulators cracking down on its ability to service the crypto industry.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -993,26 +1013,6 @@
         <summary type="html"><![CDATA[Aave’s community is pushing back against a proposal to prevent users from taking out new WBTC loans.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worldcoin Pilots ‘Face Auth’ Account Verification To Prevent Fraud]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/worldcoin-pilots-face-auth-account-verification-to-prevent-fraud</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/worldcoin-pilots-face-auth-account-verification-to-prevent-fraud"/>
-        <updated>2024-09-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Worldcoin users will be able to confirm their World IDs by taking a selfie on their mobile device.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rari Capital Settles With SEC Over Unregistered Offerings]]></title>
-        <id>https://thedefiant.io/news/regulation/rari-capital-settles-with-sec-over-unregistered-offerings</id>
-        <link href="https://thedefiant.io/news/regulation/rari-capital-settles-with-sec-over-unregistered-offerings"/>
-        <updated>2024-09-19T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The SEC alleges that Rari Capital operated as an unregistered broker and sold securities through its Fuse platform.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>
