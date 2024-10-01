@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/roll-labs-launches-form-socialfi-platform",
+          "author": "Pedro Solimano",
+          "description": "“We’re building the financial internet with crypto’s first principles,” says co-founder and core contributor Bradley Mills.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/roll-labs-launches-form-socialfi-platform",
+          "publishedOn": "2024-10-01T16:56:32.000Z",
+          "wordCount": 3015,
+          "title": "Roll Labs Launches ‘Form’ SocialFi Platform",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/28213cbd0dc09fc98e8fbfd0bd06df88ee2e12ae-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/28213cbd0dc09fc98e8fbfd0bd06df88ee2e12ae-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/eigen-token-debuts-at-usd7-billion-valuation",
           "author": "Squiffs",
           "description": "EigenLayer’s highly anticipated native token is now transferable.",
@@ -110,7 +125,7 @@
           "description": "The 1/1 piece is dubbed ‘Ascend’ by artists Ryan Koopmans and Alice Wexell.",
           "link": "https://thedefiant.io/news/nfts-and-web3/christie-s-to-auction-first-bitcoin-ordinal",
           "publishedOn": "2024-09-30T17:40:57.000Z",
-          "wordCount": 2479,
+          "wordCount": 2459,
           "title": "Christie’s to Auction First Bitcoin Ordinal",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a0e2d36d528221233a4a1753692ec08a01bce46a-1792x1024.webp",
@@ -125,7 +140,7 @@
           "description": "GenoBank alleges AminoChain is infringing on its BioNFT patent.",
           "link": "https://thedefiant.io/news/nfts-and-web3/desci-projects-aminochain-and-genobank-fight-over-ip-rights",
           "publishedOn": "2024-09-30T17:17:25.000Z",
-          "wordCount": 2819,
+          "wordCount": 2783,
           "title": "DeSci Projects AminoChain and GenoBank Fight Over IP Rights",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a0f941d2473d2d8ae81a1dbe9a792b7ac2586d62-1792x1024.webp",
@@ -440,7 +455,7 @@
           "description": "XProtocol, an entertainment-focused “superchain” on Base, is launching an Android phone.",
           "link": "https://thedefiant.io/news/nfts-and-web3/crypto-smartphone-wars-xforge-aims-to-compete-with-solana-seeker",
           "publishedOn": "2024-09-26T17:31:00.000Z",
-          "wordCount": 2333,
+          "wordCount": 2313,
           "title": "Crypto Smartphone Wars: XForge Aims to Compete With Solana Seeker",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8d5974c550568d2f207aeb6ad6fb28537f499f1f-1792x1024.webp",
@@ -485,7 +500,7 @@
           "description": "The former secretary expressed concerns about compensation, poor communication, and lack of accountability.",
           "link": "https://thedefiant.io/news/nfts-and-web3/apecoin-shakeup-secretary-steps-down-citing-inactive-stewards",
           "publishedOn": "2024-09-26T13:59:00.000Z",
-          "wordCount": 2455,
+          "wordCount": 2435,
           "title": "ApeCoin Shakeup: Secretary Steps Down Citing Inactive Stewards",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1cdcebe542df6f697cceef4ac0913ffb303fef2f-1792x1024.webp",
@@ -740,7 +755,7 @@
           "description": "Pudgy Penguins has chosen DRiP Haus for its first activation on the Solana blockchain as part of a DRiP campaign",
           "link": "https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-launches-first-solana-activation-drip-haus-free-collectible-4bf4cac1",
           "publishedOn": "2024-09-24T17:39:08.000Z",
-          "wordCount": 2201,
+          "wordCount": 2166,
           "title": "Pudgy Penguins Launches First Solana Activation with DRiP Haus and Free Collectible",
           "imageUrl": null
         },
@@ -1150,7 +1165,7 @@
           "description": "JamboTechnology has officially launched the JamboPhone 2, a Web3 mobile device, at the Solana Breakpoint MainStage",
           "link": "https://thedefiant.io/news/nfts-and-web3/jambotechnology-launches-jambophone-2-99-solana-integration-ships-to-128-2e3bc4f3",
           "publishedOn": "2024-09-21T15:36:02.000Z",
-          "wordCount": 2195,
+          "wordCount": 2160,
           "title": "JamboTechnology Launches JamboPhone 2 at $99 with Solana Integration, Ships to 128 Countries",
           "imageUrl": null
         },
@@ -1235,7 +1250,7 @@
           "description": "The CATI token is trading at a fully diluted valuation of $1 billion.",
           "link": "https://thedefiant.io/news/nfts-and-web3/swipe-to-earn-telegram-game-catizen-airdrops-cati-token",
           "publishedOn": "2024-09-20T19:30:18.000Z",
-          "wordCount": 2601,
+          "wordCount": 2581,
           "title": "Swipe-to-Earn Telegram Game ‘Catizen’ Airdrops CATI Token",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/56cc29cdbe7231115a2aea874e65667084306499-1792x1024.webp",
@@ -1310,7 +1325,7 @@
           "description": "Magic Eden has announced a shift to optional creator royalties for its EVM chains, a move influenced by feedback from the community",
           "link": "https://thedefiant.io/news/nfts-and-web3/magic-eden-shifts-to-optional-creator-royalties-evm-chains-yuga-labs-responds-e4a395d5",
           "publishedOn": "2024-09-20T19:13:51.000Z",
-          "wordCount": 2253,
+          "wordCount": 2218,
           "title": "Magic Eden Shifts to Optional Creator Royalties for EVM Chains; Yuga Labs Responds",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dcf41a3ecafa7ed157d2c9ebbf798497c1a5e420-1108x1200.jpg",
@@ -1445,7 +1460,7 @@
           "description": "After a successful NFT mint, the game announced it would launch its Early Alpha phase on Blast and Ronin.",
           "link": "https://thedefiant.io/news/nfts-and-web3/runescape-inspired-mmo-cambria-announces-expansion-to-ronin-network",
           "publishedOn": "2024-09-19T20:16:42.000Z",
-          "wordCount": 2327,
+          "wordCount": 2291,
           "title": "Runescape-Inspired MMO Cambria Announces Expansion to Ronin Network",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/587ebc1620c30eec062f391594c6836e6aedeac4-997x529.png",
@@ -1513,21 +1528,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c59afdd6f18af65d70f766fee731f4808d6df230-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-calls-bitcoin-unique-diversifier-in-research-paper",
-          "author": "Squiffs",
-          "description": "The paper outlines the world’s largest asset manager’s observations of Bitcoin, its journey, its purpose, and performance.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-calls-bitcoin-unique-diversifier-in-research-paper",
-          "publishedOn": "2024-09-19T17:18:19.000Z",
-          "wordCount": 2337,
-          "title": "BlackRock Calls Bitcoin ‘Unique Diversifier’ in Research Paper",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/01868eab359c03cc7c9692cd5739057a212c63e1-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/01868eab359c03cc7c9692cd5739057a212c63e1-1792x1024.webp"
         }
       ]
     },
