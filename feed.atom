@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-01T19:13:09.827Z</id>
+    <id>urn:2024-10-01T20:17:13.414Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-01T19:13:09.827Z</updated>
+    <updated>2024-10-01T20:17:13.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CME Group's Bitcoin Friday Futures Launch with Record 31,498 Contracts Traded]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/cme-group-s-bitcoin-friday-futures-launch-record-31498-contracts-traded-ede36d87</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/cme-group-s-bitcoin-friday-futures-launch-record-31498-contracts-traded-ede36d87"/>
+        <updated>2024-10-01T18:38:00.000Z</updated>
+        <summary type="html"><![CDATA[CME Group has launched its Bitcoin Friday Futures (BFF), a new cryptocurrency product that has quickly become the most successful in the company's history]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlackRock's Bitcoin ETF Hits $1 Billion in Trading Volume; $IBIT Reaches $1 Billion at 1:00pm]]></title>
+        <id>https://thedefiant.io/news/markets/blackrock-s-bitcoin-etf-hits-1-billion-trading-volume-ibit-reaches-1-billion-1-50d8edb0</id>
+        <link href="https://thedefiant.io/news/markets/blackrock-s-bitcoin-etf-hits-1-billion-trading-volume-ibit-reaches-1-billion-1-50d8edb0"/>
+        <updated>2024-10-01T18:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin ETFs in the U.S. have seen a surge in trading volume]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Record $169 Billion Stablecoin Growth Propels Bitcoin Price Amid Rising Volatility]]></title>
+        <id>https://thedefiant.io/news/defi/record-169-billion-stablecoin-growth-propels-bitcoin-price-amid-rising-381b658f</id>
+        <link href="https://thedefiant.io/news/defi/record-169-billion-stablecoin-growth-propels-bitcoin-price-amid-rising-381b658f"/>
+        <updated>2024-10-01T18:37:04.000Z</updated>
+        <summary type="html"><![CDATA[CryptoQuant reports that the recent growth in the stablecoin market cap, which has reached a record $169 billion, is providing essential liquidity for Bitcoin]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Attracts Inflows after Five-Week Losing Streak]]></title>
         <id>https://thedefiant.io/news/markets/ethereum-attracts-inflows-after-five-week-losing-streak</id>
@@ -981,36 +1011,6 @@
         <link href="https://thedefiant.io/news/nfts-and-web3/runescape-inspired-mmo-cambria-announces-expansion-to-ronin-network"/>
         <updated>2024-09-19T20:16:42.000Z</updated>
         <summary type="html"><![CDATA[After a successful NFT mint, the game announced it would launch its Early Alpha phase on Blast and Ronin.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polkadot Introduces Agile Coretime to Enhance Network Efficiency]]></title>
-        <id>https://thedefiant.io/news/blockchains/polkadot-introduces-agile-coretime-to-enhance-network-efficiency</id>
-        <link href="https://thedefiant.io/news/blockchains/polkadot-introduces-agile-coretime-to-enhance-network-efficiency"/>
-        <updated>2024-09-19T19:48:02.000Z</updated>
-        <summary type="html"><![CDATA[This latest update is part of the Polkadot 2.0 series of upgrades designed to enhance the blockchain's functionality and scalability.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Token2049 Roundup: Solana Seeker, BitGo Stablecoin and More]]></title>
-        <id>https://thedefiant.io/news/defi/token2049-roundup-solana-seeker-bitgo-stablecoin-and-more</id>
-        <link href="https://thedefiant.io/news/defi/token2049-roundup-solana-seeker-bitgo-stablecoin-and-more"/>
-        <updated>2024-09-19T19:06:13.000Z</updated>
-        <summary type="html"><![CDATA[The Token2049 conference in Singapore featured Solana's Seeker phone launch, BitGo’s USDS stablecoin, and other major product announcements.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAGA Rallies 75% as Altcoin Market Recovers]]></title>
-        <id>https://thedefiant.io/news/markets/saga-rallies-75-as-altcoin-market-recovers</id>
-        <link href="https://thedefiant.io/news/markets/saga-rallies-75-as-altcoin-market-recovers"/>
-        <updated>2024-09-19T18:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Saga Network is leading the alt-Layer 1 surge.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
