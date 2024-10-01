@@ -45,19 +45,34 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
-          "id": "https://thedefiant.io/news/nfts-and-web3/roll-labs-launches-form-socialfi-platform",
+          "id": "https://thedefiant.io/news/markets/ethereum-attracts-inflows-after-five-week-losing-streak",
           "author": "Pedro Solimano",
-          "description": "“We’re building the financial internet with crypto’s first principles,” says co-founder and core contributor Bradley Mills.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/roll-labs-launches-form-socialfi-platform",
-          "publishedOn": "2024-10-01T16:56:32.000Z",
-          "wordCount": 3015,
-          "title": "Roll Labs Launches ‘Form’ SocialFi Platform",
+          "description": "Institutions added $87 million worth of ETH last week.",
+          "link": "https://thedefiant.io/news/markets/ethereum-attracts-inflows-after-five-week-losing-streak",
+          "publishedOn": "2024-10-01T18:05:00.000Z",
+          "wordCount": 2499,
+          "title": "Ethereum Attracts Inflows after Five-Week Losing Streak",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/28213cbd0dc09fc98e8fbfd0bd06df88ee2e12ae-1792x1024.webp",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/aca99a82620e50d1ee15583f0ebec7df1787a53b-1792x1024.webp",
             "length": "1000000",
             "type": "image/webp"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/28213cbd0dc09fc98e8fbfd0bd06df88ee2e12ae-1792x1024.webp"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aca99a82620e50d1ee15583f0ebec7df1787a53b-1792x1024.webp"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/ohio-senator-proposes-crypto-tax-payment-bill",
+          "author": "Mehab Qureshi",
+          "description": "The bill aims to boost crypto adoption in Ohio by allowing residents and businesses to pay taxes using digital assets.",
+          "link": "https://thedefiant.io/news/regulation/ohio-senator-proposes-crypto-tax-payment-bill",
+          "publishedOn": "2024-10-01T17:27:05.000Z",
+          "wordCount": 2703,
+          "title": "Ohio Senator Proposes Crypto Tax Payment Bill",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/71814f8cc0bcf91f1076f2859aa055a27f2adbc7-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/71814f8cc0bcf91f1076f2859aa055a27f2adbc7-1792x1024.webp"
         },
         {
           "id": "https://thedefiant.io/news/defi/eigen-token-debuts-at-usd7-billion-valuation",
@@ -110,7 +125,7 @@
           "description": "Spot Bitcoin ETFs attracted more than $1.1 billion in inflows last week.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-erase-last-week-s-gains",
           "publishedOn": "2024-09-30T18:41:18.000Z",
-          "wordCount": 2443,
+          "wordCount": 2425,
           "title": "Crypto Markets Erase Last Week’s Gains",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/73497b12eeb9e0ad109b5036cdaa9ece4aa76bdb-1792x1024.webp",
@@ -230,7 +245,7 @@
           "description": "PEPE, FLOKI, BONK and MOG all rally over 10% in 24 hours.",
           "link": "https://thedefiant.io/news/markets/shiba-inu-leads-memecoin-rally-gaining-usd6-billion-in-market-cap-in-a-week",
           "publishedOn": "2024-09-27T18:01:24.000Z",
-          "wordCount": 2366,
+          "wordCount": 2346,
           "title": "Shiba Inu Leads Memecoin Rally Gaining $6 Billion in Market Cap in a Week",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/80d88f8402ac2b8216f9ecbe60539aebf73e24dc-1792x1024.webp",
@@ -260,7 +275,7 @@
           "description": "Bitcoin ETFs have pulled in more than $600 million this week.",
           "link": "https://thedefiant.io/news/markets/memecoins-steal-spotlight-as-bitcoin-rallies-above-usd66-000",
           "publishedOn": "2024-09-27T17:34:08.000Z",
-          "wordCount": 2453,
+          "wordCount": 2435,
           "title": "Memecoins Steal Spotlight as Bitcoin Rallies Above $66,000",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2b0d0553a332fceb415c80dc5652924b4afd3268-1792x1024.webp",
@@ -275,7 +290,7 @@
           "description": "A federal judge has denied a motion to dismiss the criminal case against Tornado Cash developer Roman Storm.",
           "link": "https://thedefiant.io/news/regulation/judge-denies-motion-to-dismiss-tornado-cash-developer-roman-storm-s-case-trial-90b01091",
           "publishedOn": "2024-09-27T16:41:31.000Z",
-          "wordCount": 2305,
+          "wordCount": 2286,
           "title": "Judge Denies Motion to Dismiss in Tornado Cash Developer Roman Storm's Case, Trial Set for December",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/60211e583addd9d63c7756077d60dc87f758dbbb-225x225.png",
@@ -440,7 +455,7 @@
           "description": "Worldcoin and StarkNet are today’s top gainers, surging over 14%.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-climb-on-strong-u-s-economic-data",
           "publishedOn": "2024-09-26T18:45:07.000Z",
-          "wordCount": 2446,
+          "wordCount": 2428,
           "title": "Crypto Markets Climb on Strong U.S. Economic Data",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ac235bf3df941fcf4cb8b04c5d75ad0d082d73c6-1792x1024.webp",
@@ -590,7 +605,7 @@
           "description": "Polymarket traders are increasingly betting against a new Ethereum all-time high in 2024.",
           "link": "https://thedefiant.io/news/markets/ethereum-dips-3-as-sec-pushes-etf-options-decision-to-november",
           "publishedOn": "2024-09-25T18:18:00.000Z",
-          "wordCount": 2492,
+          "wordCount": 2474,
           "title": "Ethereum Dips 3% as SEC Pushes ETF Options Decision to November",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7b640f0365440637caf5c6dd5a4f0780e3f3db67-1792x1024.webp",
@@ -605,7 +620,7 @@
           "description": "Trading began at midday New York time.",
           "link": "https://thedefiant.io/news/markets/zksync-s-zk-pumps-10-on-coinbase-listing",
           "publishedOn": "2024-09-25T18:16:48.000Z",
-          "wordCount": 2320,
+          "wordCount": 2300,
           "title": "ZkSync's ZK Pumps 10% on Coinbase Listing",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6d66218a2bd9066cdcff8f78bbd16bbc83bca60b-1792x1024.webp",
@@ -650,7 +665,7 @@
           "description": "The SEC alleged that 99% of the assets backing TrueUSD were invested into a speculative fund by September 2024.",
           "link": "https://thedefiant.io/news/regulation/sec-alleges-tusd-hasn-t-been-backed-by-usd-since-2022",
           "publishedOn": "2024-09-25T12:49:00.000Z",
-          "wordCount": 2748,
+          "wordCount": 2734,
           "title": "SEC Alleges TUSD Hasn't Been Backed By USD Since 2022",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3eaeb69c3e1bd77bebe9e6847bfa5806d9025d10-1792x1024.webp",
@@ -665,7 +680,7 @@
           "description": "Ordinals are bouncing back after months of being overshadowed by Runes.",
           "link": "https://thedefiant.io/news/markets/ordinals-defy-the-nft-market-and-enjoy-best-day-in-months",
           "publishedOn": "2024-09-25T05:16:00.000Z",
-          "wordCount": 2561,
+          "wordCount": 2530,
           "title": "Ordinals Defy The NFT Market And Enjoy Best Day in Months",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a973b71a524df6e07bd6a06aef0b50dc94c8067a-1792x1024.webp",
@@ -680,7 +695,7 @@
           "description": "Caroline Ellison, former CEO of Alameda Research and a key figure in the FTX cryptocurrency exchange collapse, has been sentenced to 24 months in prison",
           "link": "https://thedefiant.io/news/regulation/caroline-ellison-sentenced-to-24-months-forfeits-11-billion-ftx-fraud-c5b54c6e",
           "publishedOn": "2024-09-25T01:11:58.000Z",
-          "wordCount": 2270,
+          "wordCount": 2251,
           "title": "Caroline Ellison Sentenced to 24 Months, Forfeits $11 Billion in FTX Fraud",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3f4f60f35b8812f6c36ea4fb39fb6e40e57ad025-1200x800.jpg",
@@ -695,7 +710,7 @@
           "description": "Five members of the SEC, including pro-crypto commissioner Hester Peirce, attended the Oversight of the SEC hearing in the U.S. Senate.",
           "link": "https://thedefiant.io/news/regulation/kudos-to-you-for-answering-a-different-question-says-u-s-senator-grilling-gary-gensler",
           "publishedOn": "2024-09-25T01:00:50.000Z",
-          "wordCount": 2698,
+          "wordCount": 2684,
           "title": "‘Kudos To You For Answering a Different Question,’ Says U.S. Senator Grilling Gary Gensler",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e2a6a4c91636b5d1f45e3451e8dc702e9d39df9a-1792x1024.webp",
@@ -795,7 +810,7 @@
           "description": "Spot Ethereum ETFs recorded the largest daily outflow since July on Monday.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-consolidate-as-spot-etfs-underperform",
           "publishedOn": "2024-09-24T17:35:05.000Z",
-          "wordCount": 2432,
+          "wordCount": 2414,
           "title": "Crypto Markets Consolidate as Spot ETFs Underperform",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9055c80a2578121cdbfdb5d823216dbf610767f3-1792x1024.webp",
@@ -895,7 +910,7 @@
           "description": "Up 1,000% in four years, the technology firm’s stock price has gone parabolic since it adopted its Bitcoin strategy.",
           "link": "https://thedefiant.io/news/markets/microstrategy-has-outperformed-all-s-and-p-500-companies-thanks-to-bitcoin",
           "publishedOn": "2024-09-23T19:17:29.000Z",
-          "wordCount": 2469,
+          "wordCount": 2449,
           "title": "Microstrategy Has Outperformed All S&amp; P 500 Companies Thanks to Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6d66218a2bd9066cdcff8f78bbd16bbc83bca60b-1792x1024.webp",
@@ -910,7 +925,7 @@
           "description": "Ethereum has outperformed Bitcoin in the recent rally, with the ETH/BTC ratio surging 10% since September 18.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-rally-as-fed-cut-spurs-institutional-inflows",
           "publishedOn": "2024-09-23T17:45:13.000Z",
-          "wordCount": 2497,
+          "wordCount": 2479,
           "title": "Crypto Markets Rally as Fed Cut Spurs Institutional Inflows",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b7800148a81606f6b5d5fcd73e237de8b31dd640-1792x1024.webp",
@@ -925,7 +940,7 @@
           "description": "Australia is set to implement new legislation requiring cryptocurrency exchanges to obtain financial services licenses under corporations law",
           "link": "https://thedefiant.io/news/regulation/australia-to-require-financial-services-licenses-crypto-firms-under-corporations-bc3f776b",
           "publishedOn": "2024-09-23T17:45:08.000Z",
-          "wordCount": 2203,
+          "wordCount": 2184,
           "title": "Australia to Require Financial Services Licenses for Crypto Firms Under Corporations Law",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8471546db36b5c685f439bf7638f4b09b3c72387-1024x1024.jpg",
@@ -1045,7 +1060,7 @@
           "description": "BlackRock CEO Larry Fink has expressed strong support for Bitcoin, describing it as a legitimate financial instrument that offers uncorrelated returns",
           "link": "https://thedefiant.io/news/markets/blackrock-ceo-larry-fink-endorses-bitcoin-legitimate-financial-instrument-amid-dd742552",
           "publishedOn": "2024-09-23T17:42:39.000Z",
-          "wordCount": 2238,
+          "wordCount": 2220,
           "title": "BlackRock CEO Larry Fink Endorses Bitcoin as Legitimate Financial Instrument Amid Gains",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9a0af85b082257a94299ddd6c10ae57d090cf613-1058x722.jpg",
@@ -1120,7 +1135,7 @@
           "description": "Harris’ comments drew mixed reactions from the crypto community.",
           "link": "https://thedefiant.io/news/regulation/kamala-harris-pledges-to-support-digital-asset-industry-in-first-public-crypto-comments",
           "publishedOn": "2024-09-23T09:47:00.000Z",
-          "wordCount": 2946,
+          "wordCount": 2932,
           "title": "Kamala Harris Pledges To Support Digital Asset Industry In First Public Crypto Comments",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5a9e1184ebb76a9032fe5d900edf118902035dc4-1792x1024.webp",
@@ -1135,7 +1150,7 @@
           "description": "Geoff Kendrick, head of digital assets research at $1 trillion Standard Chartered bank, predicts that Bitcoin could reach $200,000 by the end of 2025.",
           "link": "https://thedefiant.io/news/markets/1-trillion-standard-chartered-predicts-bitcoin-to-hit-200k-2025-eeb492e6",
           "publishedOn": "2024-09-21T15:36:50.000Z",
-          "wordCount": 2244,
+          "wordCount": 2226,
           "title": "$1 Trillion Standard Chartered Predicts Bitcoin to Hit $200K by 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/830e51cad2df58b41e024ba6287b908442d970b7-1024x576.jpg",
@@ -1175,7 +1190,7 @@
           "description": "Keonne Rodriguez and William Lonergan Hill appeared together in court in the Southern District of New York for a status conference on Tuesday.",
           "link": "https://thedefiant.io/news/regulation/samourai-wallet-founders-face-judge-over-money-laundering-charges",
           "publishedOn": "2024-09-21T15:30:49.000Z",
-          "wordCount": 2590,
+          "wordCount": 2576,
           "title": "Samourai Wallet Founders Face Judge Over Money Laundering Charges",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ac633a7e642eaad4c89c1f14240d25b0f8fc2d50-1792x1024.webp",
@@ -1280,7 +1295,7 @@
           "description": "The Ethereum Foundation has recently sold 300 ETH, valued at approximately $760,000, at an average price of $2,543",
           "link": "https://thedefiant.io/news/markets/ethereum-foundation-sells-300-eth-760k-2543-total-september-sales-reach-2-27-3af2a2d9",
           "publishedOn": "2024-09-20T19:14:32.000Z",
-          "wordCount": 2234,
+          "wordCount": 2216,
           "title": "Ethereum Foundation Sells 300 ETH for $760K at $2,543, Total September Sales Reach $2.27 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/18962fb2f49748c22d7aface59e513800617e2a3-1200x816.jpg",
@@ -1310,7 +1325,7 @@
           "description": "The company now holds 252,220 Bitcoin, acquired for approximately $9.9 billion",
           "link": "https://thedefiant.io/news/markets/microstrategy-completes-1-01-billion-note-offering-holds-252220-btc-6-1-billion-02e7b934",
           "publishedOn": "2024-09-20T19:14:09.000Z",
-          "wordCount": 2244,
+          "wordCount": 2226,
           "title": "MicroStrategy Completes $1.01 Billion Note Offering, Holds 252,220 BTC with $6.1 Billion Profit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/39b4bbd95c733a9e5600db2c27fb437ee969a0e9-1199x537.jpg",
@@ -1340,7 +1355,7 @@
           "description": "Analysts from VanEck suggest that both Kamala Harris and Donald Trump could have positive impacts on Bitcoin, albeit in different ways",
           "link": "https://thedefiant.io/news/regulation/vaneck-ceo-harris-trump-both-benefit-bitcoin-99796f85",
           "publishedOn": "2024-09-20T19:13:43.000Z",
-          "wordCount": 2259,
+          "wordCount": 2240,
           "title": "VanEck CEO: Harris and Trump Could Both Benefit Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/210abb42406e56f9f003bca4f7a17f16c166b910-1146x788.jpg",
@@ -1370,7 +1385,7 @@
           "description": "Today’s top gainers include Sui, Aptos and Bittensor.",
           "link": "https://thedefiant.io/news/markets/bitcoin-and-ethereum-surge-after-boj-leaves-interest-rates-unchanged",
           "publishedOn": "2024-09-20T19:12:20.000Z",
-          "wordCount": 2408,
+          "wordCount": 2390,
           "title": "Bitcoin and Ethereum Surge after BoJ Leaves Interest Rates Unchanged",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2c9dc662937443722780f890b71853567749f79b-1792x1024.webp",
@@ -1415,7 +1430,7 @@
           "description": "Silvergate’s bankruptcy filings attribute the bank's failure to regulators cracking down on its ability to service the crypto industry.",
           "link": "https://thedefiant.io/news/regulation/silvergate-bank-shut-down-because-of-operation-choke-point-2-0-not-insolvency",
           "publishedOn": "2024-09-20T15:05:00.000Z",
-          "wordCount": 2920,
+          "wordCount": 2906,
           "title": "Silvergate Bank Shut Down Because Of Operation Choke Point 2.0, Not Insolvency",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/15f9dba093c73092f061f158820e275d3541df4b-1792x1024.webp",
@@ -1505,7 +1520,7 @@
           "description": "Saga Network is leading the alt-Layer 1 surge.",
           "link": "https://thedefiant.io/news/markets/saga-rallies-75-as-altcoin-market-recovers",
           "publishedOn": "2024-09-19T18:30:05.000Z",
-          "wordCount": 2337,
+          "wordCount": 2319,
           "title": "SAGA Rallies 75% as Altcoin Market Recovers",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c68c36a39757b92e38fb865511a5f811cfa85d58-1792x1024.webp",
@@ -1513,21 +1528,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c68c36a39757b92e38fb865511a5f811cfa85d58-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-rallies-above-usd63-000-following-fed-rate-cut",
-          "author": "Mehab Qureshi",
-          "description": "Total crypto market capitalization is up 6% in a broad rally led by Popcat, Sei, Celestia and Bittensor.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-rallies-above-usd63-000-following-fed-rate-cut",
-          "publishedOn": "2024-09-19T17:46:53.000Z",
-          "wordCount": 2622,
-          "title": "Bitcoin Rallies Above $63,000 Following Fed Rate Cut",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c59afdd6f18af65d70f766fee731f4808d6df230-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c59afdd6f18af65d70f766fee731f4808d6df230-1792x1024.webp"
         }
       ]
     },

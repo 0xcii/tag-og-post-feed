@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-01T17:14:21.248Z</id>
+    <id>urn:2024-10-01T18:21:54.577Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-01T17:14:21.248Z</updated>
+    <updated>2024-10-01T18:21:54.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Roll Labs Launches ‘Form’ SocialFi Platform]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/roll-labs-launches-form-socialfi-platform</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/roll-labs-launches-form-socialfi-platform"/>
-        <updated>2024-10-01T16:56:32.000Z</updated>
-        <summary type="html"><![CDATA[“We’re building the financial internet with crypto’s first principles,” says co-founder and core contributor Bradley Mills.]]></summary>
+        <title type="html"><![CDATA[Ethereum Attracts Inflows after Five-Week Losing Streak]]></title>
+        <id>https://thedefiant.io/news/markets/ethereum-attracts-inflows-after-five-week-losing-streak</id>
+        <link href="https://thedefiant.io/news/markets/ethereum-attracts-inflows-after-five-week-losing-streak"/>
+        <updated>2024-10-01T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Institutions added $87 million worth of ETH last week.]]></summary>
         <author>
             <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ohio Senator Proposes Crypto Tax Payment Bill]]></title>
+        <id>https://thedefiant.io/news/regulation/ohio-senator-proposes-crypto-tax-payment-bill</id>
+        <link href="https://thedefiant.io/news/regulation/ohio-senator-proposes-crypto-tax-payment-bill"/>
+        <updated>2024-10-01T17:27:05.000Z</updated>
+        <summary type="html"><![CDATA[The bill aims to boost crypto adoption in Ohio by allowing residents and businesses to pay taxes using digital assets.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Saga Network is leading the alt-Layer 1 surge.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Rallies Above $63,000 Following Fed Rate Cut]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-rallies-above-usd63-000-following-fed-rate-cut</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-rallies-above-usd63-000-following-fed-rate-cut"/>
-        <updated>2024-09-19T17:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Total crypto market capitalization is up 6% in a broad rally led by Popcat, Sei, Celestia and Bittensor.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>
