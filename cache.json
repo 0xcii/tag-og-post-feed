@@ -11,7 +11,7 @@
           "description": "What a fucking week. If you were a numpty and didn’t fly into Singapore for Token2049 last week, I pray for your soul. Over 20,000…",
           "link": "https://cryptohayes.medium.com/volatility-supercycle-c767fff93ac2?source=rss-2f6e06954878------2",
           "publishedOn": "2024-09-26T00:21:17.000Z",
-          "wordCount": 7604,
+          "wordCount": 7603,
           "title": "Volatility Supercycle",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*066d_8Z-Uevz3XZu"
         }
@@ -34,6 +34,36 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/markets/aptos-rallies-7-on-franklin-templeton-expansion-and-hashpalette-acquisition",
+          "author": "Squiffs",
+          "description": "Franklin Templeton’s FOBXX is coming to Aptos and Japanese blockchain HashPalette is acquired by Aptos Labs",
+          "link": "https://thedefiant.io/news/markets/aptos-rallies-7-on-franklin-templeton-expansion-and-hashpalette-acquisition",
+          "publishedOn": "2024-10-03T22:06:11.000Z",
+          "wordCount": 2321,
+          "title": "Aptos Rallies 7% on Franklin Templeton Expansion and HashPalette Acquisition",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7c3bb7e46861056ef18a2251d96a7c152200f10e-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7c3bb7e46861056ef18a2251d96a7c152200f10e-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/makerdao-s-new-stablecoin-usds-jumped-to-usd1-billion-supply-in-two-weeks",
+          "author": "Pedro Solimano",
+          "description": "Ethena bought $400M of the stablecoin issued by the protocol formerly called MakerDAO to diversify collateral for its own stablecoin.",
+          "link": "https://thedefiant.io/news/defi/makerdao-s-new-stablecoin-usds-jumped-to-usd1-billion-supply-in-two-weeks",
+          "publishedOn": "2024-10-03T21:37:04.000Z",
+          "wordCount": 2379,
+          "title": "Sky’s New Stablecoin USDS Jumped to $1 Billion Supply in Two Weeks",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7efb938ad82bd7ff47ced4fe531f82a9287c5daf-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7efb938ad82bd7ff47ced4fe531f82a9287c5daf-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/regulation/ripple-vows-to-fight-back-after-sec-challenges-xrp-ruling",
           "author": "Mehab Qureshi",
@@ -1483,36 +1513,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b7487156b24156f6daee90e9bafe32c5fc2eac88-1111x721.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/china-leads-bitcoin-mining-55-hashrate-despite-ban-says-cryptoquant-c533bd2c",
-          "author": "DeepNewz",
-          "description": "The competition in Bitcoin mining has intensified, with China currently leading the race",
-          "link": "https://thedefiant.io/news/blockchains/china-leads-bitcoin-mining-55-hashrate-despite-ban-says-cryptoquant-c533bd2c",
-          "publishedOn": "2024-09-23T17:42:51.000Z",
-          "wordCount": 2170,
-          "title": "China Leads Bitcoin Mining with 55% Hashrate Despite Ban, Says CryptoQuant",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e5af01341e9cc08bd0f349d3aad81de5fd7f7756-1200x684.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e5af01341e9cc08bd0f349d3aad81de5fd7f7756-1200x684.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/tbtc-officially-launches-on-aave-on-september-23-marking-major-bitcoinfi-e2680e46",
-          "author": "DeepNewz",
-          "description": "tBTC has officially launched on Aave on September 23, marking a significant development for BitcoinFi",
-          "link": "https://thedefiant.io/news/defi/tbtc-officially-launches-on-aave-on-september-23-marking-major-bitcoinfi-e2680e46",
-          "publishedOn": "2024-09-23T17:42:47.000Z",
-          "wordCount": 2089,
-          "title": "tBTC Officially Launches on Aave on September 23, Marking Major BitcoinFi Development",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5b3f0c32f6ba2dd623bc459f0b49daf90554dee2-1200x860.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5b3f0c32f6ba2dd623bc459f0b49daf90554dee2-1200x860.jpg"
         }
       ]
     },

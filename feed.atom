@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-03T21:14:41.757Z</id>
+    <id>urn:2024-10-03T22:15:46.342Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-03T21:14:41.757Z</updated>
+    <updated>2024-10-03T22:15:46.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aptos Rallies 7% on Franklin Templeton Expansion and HashPalette Acquisition]]></title>
+        <id>https://thedefiant.io/news/markets/aptos-rallies-7-on-franklin-templeton-expansion-and-hashpalette-acquisition</id>
+        <link href="https://thedefiant.io/news/markets/aptos-rallies-7-on-franklin-templeton-expansion-and-hashpalette-acquisition"/>
+        <updated>2024-10-03T22:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Franklin Templeton’s FOBXX is coming to Aptos and Japanese blockchain HashPalette is acquired by Aptos Labs]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky’s New Stablecoin USDS Jumped to $1 Billion Supply in Two Weeks]]></title>
+        <id>https://thedefiant.io/news/defi/makerdao-s-new-stablecoin-usds-jumped-to-usd1-billion-supply-in-two-weeks</id>
+        <link href="https://thedefiant.io/news/defi/makerdao-s-new-stablecoin-usds-jumped-to-usd1-billion-supply-in-two-weeks"/>
+        <updated>2024-10-03T21:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Ethena bought $400M of the stablecoin issued by the protocol formerly called MakerDAO to diversify collateral for its own stablecoin.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ripple Vows to Fight Back after SEC Challenges XRP Ruling]]></title>
         <id>https://thedefiant.io/news/regulation/ripple-vows-to-fight-back-after-sec-challenges-xrp-ruling</id>
@@ -991,26 +1011,6 @@
         <link href="https://thedefiant.io/news/defi/stablecoins-challenge-fiat-eastern-asia-hong-kong-leads-40-crypto-value-ca514562"/>
         <updated>2024-09-23T17:43:04.000Z</updated>
         <summary type="html"><![CDATA[Stablecoins and cryptocurrencies are gaining significant traction in Eastern Asia, challenging the dominance of traditional fiat currencies]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Leads Bitcoin Mining with 55% Hashrate Despite Ban, Says CryptoQuant]]></title>
-        <id>https://thedefiant.io/news/blockchains/china-leads-bitcoin-mining-55-hashrate-despite-ban-says-cryptoquant-c533bd2c</id>
-        <link href="https://thedefiant.io/news/blockchains/china-leads-bitcoin-mining-55-hashrate-despite-ban-says-cryptoquant-c533bd2c"/>
-        <updated>2024-09-23T17:42:51.000Z</updated>
-        <summary type="html"><![CDATA[The competition in Bitcoin mining has intensified, with China currently leading the race]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tBTC Officially Launches on Aave on September 23, Marking Major BitcoinFi Development]]></title>
-        <id>https://thedefiant.io/news/defi/tbtc-officially-launches-on-aave-on-september-23-marking-major-bitcoinfi-e2680e46</id>
-        <link href="https://thedefiant.io/news/defi/tbtc-officially-launches-on-aave-on-september-23-marking-major-bitcoinfi-e2680e46"/>
-        <updated>2024-09-23T17:42:47.000Z</updated>
-        <summary type="html"><![CDATA[tBTC has officially launched on Aave on September 23, marking a significant development for BitcoinFi]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
