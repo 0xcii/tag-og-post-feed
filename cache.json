@@ -11,7 +11,7 @@
           "description": "What a fucking week. If you were a numpty and didn’t fly into Singapore for Token2049 last week, I pray for your soul. Over 20,000…",
           "link": "https://cryptohayes.medium.com/volatility-supercycle-c767fff93ac2?source=rss-2f6e06954878------2",
           "publishedOn": "2024-09-26T00:21:17.000Z",
-          "wordCount": 7604,
+          "wordCount": 7603,
           "title": "Volatility Supercycle",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:400/0*066d_8Z-Uevz3XZu"
         }
@@ -34,6 +34,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/markets/memecoins-rally-on-vc-attention",
+          "author": "Squiffs",
+          "description": "Large-cap and mid-cap memes are commanding mass attention as degesn hope VCs will join the trend.",
+          "link": "https://thedefiant.io/news/markets/memecoins-rally-on-vc-attention",
+          "publishedOn": "2024-10-07T21:51:17.000Z",
+          "wordCount": 2352,
+          "title": "Memecoins Rally on VC Attention",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cd7b8a1a4ea688c4750aec571f2262fee148f21f-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cd7b8a1a4ea688c4750aec571f2262fee148f21f-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/people/polymarket-speculators-now-think-nick-szabo-is-satoshi",
           "author": "Pedro Solimano",
@@ -1232,7 +1247,7 @@
         {
           "id": "https://thedefiant.io/news/markets/shiba-inu-leads-memecoin-rally-gaining-usd6-billion-in-market-cap-in-a-week",
           "author": "Squiffs",
-          "description": "PEPE, FLOKI, BONK and MOG all rally over 10% in 24 hours.",
+          "description": "The memecoin supercycle is back on, with established memes surging over the last week.",
           "link": "https://thedefiant.io/news/markets/shiba-inu-leads-memecoin-rally-gaining-usd6-billion-in-market-cap-in-a-week",
           "publishedOn": "2024-09-27T18:01:24.000Z",
           "wordCount": 2352,
@@ -1247,7 +1262,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/binance-founder-cz-set-for-prison-release",
           "author": "Squiffs",
-          "description": "Former Binance CEO Changpeng Zhao, also known as CZ, is slated to be released from prison Friday evening after spending the last four months incarcerated in the United States.",
+          "description": "Zhao will be released two days ahead of schedule after 119 days behind bars.",
           "link": "https://thedefiant.io/news/cefi/binance-founder-cz-set-for-prison-release",
           "publishedOn": "2024-09-27T17:52:56.000Z",
           "wordCount": 2410,
@@ -1483,21 +1498,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6fcae3a41d31988d3d154090626ab0f086ad4609-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/paypal-rolls-out-crypto-trading-and-transfers-for-u-s-merchants",
-          "author": "Samuel Haig",
-          "description": "The market cap of PayPal’s PYUSD stablecoin on Solana has crashed by half in the past month.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/paypal-rolls-out-crypto-trading-and-transfers-for-u-s-merchants",
-          "publishedOn": "2024-09-26T14:45:00.000Z",
-          "wordCount": 2404,
-          "title": "PayPal Rolls Out Crypto Trading and Transfers For U.S. Merchants",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/df00e63932b4dec7f34b7650381d2e5d1f8eacfd-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/df00e63932b4dec7f34b7650381d2e5d1f8eacfd-1792x1024.webp"
         }
       ]
     },
