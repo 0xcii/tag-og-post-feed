@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-08T01:14:47.982Z</id>
+    <id>urn:2024-10-08T02:51:35.783Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-08T01:14:47.982Z</updated>
+    <updated>2024-10-08T02:51:35.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PvP]]></title>
+        <id>https://medium.com/p/6528234ad013</id>
+        <link href="https://cryptohayes.medium.com/pvp-6528234ad013?source=rss-2f6e06954878------2"/>
+        <updated>2024-10-08T02:33:10.000Z</updated>
+        <summary type="html"><![CDATA[PvP, or “player vs. player,” is a phrase used often by shitcoin traders to describe this current market cycle. The sentiment it evokes…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memecoins Rally on VC Attention]]></title>
         <id>https://thedefiant.io/news/markets/memecoins-rally-on-vc-attention</id>
