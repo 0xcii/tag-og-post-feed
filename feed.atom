@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-10T14:15:25.490Z</id>
+    <id>urn:2024-10-10T15:17:09.104Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-10T14:15:25.490Z</updated>
+    <updated>2024-10-10T15:17:09.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wrapped Bitcoin Completes Corporate Restructuring]]></title>
+        <id>https://thedefiant.io/news/defi/wrapped-bitcoin-completes-corporate-restructuring</id>
+        <link href="https://thedefiant.io/news/defi/wrapped-bitcoin-completes-corporate-restructuring"/>
+        <updated>2024-10-10T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[The Bitcoin backing WBTC is now custodied in the U.S., Hong Kong, and Singapore.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap Launches Testnet For Unichain Layer 2]]></title>
         <id>https://thedefiant.io/news/defi/uniswap-launches-testnet-for-unichain-layer-2</id>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[The bill aims to boost crypto adoption in Ohio by allowing residents and businesses to pay taxes using digital assets.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EIGEN Token Debuts at $7 Billion Valuation]]></title>
-        <id>https://thedefiant.io/news/defi/eigen-token-debuts-at-usd7-billion-valuation</id>
-        <link href="https://thedefiant.io/news/defi/eigen-token-debuts-at-usd7-billion-valuation"/>
-        <updated>2024-10-01T12:39:39.000Z</updated>
-        <summary type="html"><![CDATA[EigenLayer’s highly anticipated native token is now transferable.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
