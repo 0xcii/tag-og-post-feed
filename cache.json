@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/memecoins-are-moving-from-ethereum-to-solana-to-access-moonshot-app",
+          "author": "Squiffs",
+          "description": "The APU token is now multi-chain, allowing it to be listed on the Moonshot memecoin trading app.",
+          "link": "https://thedefiant.io/news/defi/memecoins-are-moving-from-ethereum-to-solana-to-access-moonshot-app",
+          "publishedOn": "2024-10-10T16:35:03.000Z",
+          "wordCount": 2322,
+          "title": "Memecoins are Moving from Ethereum to Solana to Access Moonshot App",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7599418ac4e4ada212cb35159474ba480047c360-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7599418ac4e4ada212cb35159474ba480047c360-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-slide-as-inflation-concerns-resurface",
           "author": "Mehab Qureshi",
           "description": "Concerns are also mounting over the U.S. government's potential sale of 69,370 BTC seized from the Silk Road marketplace.",
@@ -335,7 +350,7 @@
           "description": "JupiterExchange has launched its much-anticipated mobile app, now available on iOS",
           "link": "https://thedefiant.io/news/defi/jupiterexchange-launches-ios-mobile-app-solana-1-tap-swap-zero-fees-multiple-451e0d7e",
           "publishedOn": "2024-10-08T20:18:44.000Z",
-          "wordCount": 2243,
+          "wordCount": 2217,
           "title": "JupiterExchange Launches iOS Mobile App for Solana with 1-Tap Swap, Zero Fees, and Multiple Payment Methods",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a079c2bd9066a7f5aa24f049c586e37225edbcdd-1154x1035.jpg",
@@ -545,7 +560,7 @@
           "description": "A wallet-draining scam operating on The Open Network (TON) has shut down due to a lack of high-value targets within the network and is now shifting its focus to Bitcoin",
           "link": "https://thedefiant.io/news/defi/hackers-shut-down-ton-wallet-drainer-due-to-lack-whales-target-bitcoin-next-fac294a7",
           "publishedOn": "2024-10-07T19:28:22.000Z",
-          "wordCount": 2271,
+          "wordCount": 2245,
           "title": "Hackers Shut Down TON Wallet Drainer Due to Lack of Whales, Target Bitcoin Next",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3440bd66ca7390c4846c0c492f761633ef5ff4f7-1024x1024.jpg",
@@ -605,7 +620,7 @@
           "description": "Infinex, a new DeFi frontend founded by Synthetix creator Kain Warwick, has partnered with Wormhole to enhance cross-chain functionality and support multichain expansion",
           "link": "https://thedefiant.io/news/defi/infinex-partners-wormhole-to-boost-cross-chain-functionality-after-65-3-million-02e31475",
           "publishedOn": "2024-10-07T19:27:13.000Z",
-          "wordCount": 2191,
+          "wordCount": 2165,
           "title": "Infinex Partners with Wormhole to Boost Cross-Chain Functionality After $65.3 Million NFT Sale",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1019e988789f26d578f83a590ff8ec1bf3796c4b-768x439.png",
@@ -1115,7 +1130,7 @@
           "description": "Ripple has partnered with Mercado Bitcoin, a leading Brazilian cryptocurrency exchange, to launch an international end-to-end payments solution in Brazil",
           "link": "https://thedefiant.io/news/defi/ripple-partners-mercado-bitcoin-to-launch-international-payments-solution-brazil-f6e6bb16",
           "publishedOn": "2024-10-03T17:06:08.000Z",
-          "wordCount": 2179,
+          "wordCount": 2153,
           "title": "Ripple Partners with Mercado Bitcoin to Launch International Payments Solution in Brazil",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/af81231ddbe3bf35dd2fac3c53b155c77b260d37-925x800.jpg",
@@ -1130,7 +1145,7 @@
           "description": "Binance Labs has announced an investment in Sophon, a ZKsync 'elastic chain' ecosystem focused on entertainment applications in gaming, social, AI, and prediction markets",
           "link": "https://thedefiant.io/news/defi/binance-labs-invests-sophon-ecosystem-token-round-dc67dc71",
           "publishedOn": "2024-10-03T17:06:04.000Z",
-          "wordCount": 2180,
+          "wordCount": 2154,
           "title": "Binance Labs Invests in Sophon Ecosystem in Token Round",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/062584707e264fb1443f43e361379b0f0d5fe855-1200x675.jpg",
@@ -1365,7 +1380,7 @@
           "description": "Franklin Templeton, a global asset management firm, has expanded its OnChain U.S. Government Money Fund ($FOBXX) to the Aptos blockchain.",
           "link": "https://thedefiant.io/news/defi/franklin-templeton-expands-fobxx-onchain-money-fund-to-aptos-20m-subscriptions-5bc9270e",
           "publishedOn": "2024-10-02T15:18:46.000Z",
-          "wordCount": 2217,
+          "wordCount": 2191,
           "title": "Franklin Templeton Expands $FOBXX OnChain Money Fund to Aptos with $20M+ Subscriptions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a67a63602638a4d83a89f14e0f49cc238e6822fe-602x682.png",
@@ -1470,7 +1485,7 @@
           "description": "CryptoQuant reports that the recent growth in the stablecoin market cap, which has reached a record $169 billion, is providing essential liquidity for Bitcoin",
           "link": "https://thedefiant.io/news/defi/record-169-billion-stablecoin-growth-propels-bitcoin-price-amid-rising-381b658f",
           "publishedOn": "2024-10-01T18:37:04.000Z",
-          "wordCount": 2191,
+          "wordCount": 2165,
           "title": "Record $169 Billion Stablecoin Growth Propels Bitcoin Price Amid Rising Volatility",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/458e7d2a3ef57040386b7a59087f80a0b9591713-1024x1024.jpg",
@@ -1493,21 +1508,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b8929e0e49818731cc6c4e6d70c1d812635502b6-1200x675.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/ethereum-attracts-inflows-after-five-week-losing-streak",
-          "author": "Pedro Solimano",
-          "description": "Institutions added $87 million worth of ETH last week.",
-          "link": "https://thedefiant.io/news/markets/ethereum-attracts-inflows-after-five-week-losing-streak",
-          "publishedOn": "2024-10-01T18:05:00.000Z",
-          "wordCount": 2495,
-          "title": "Ethereum Attracts Inflows after Five-Week Losing Streak",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/aca99a82620e50d1ee15583f0ebec7df1787a53b-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aca99a82620e50d1ee15583f0ebec7df1787a53b-1792x1024.webp"
         }
       ]
     },
