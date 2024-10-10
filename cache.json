@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/uniswap-launches-testnet-for-unichain-layer-2",
+          "author": "Samuel Haig",
+          "description": "Unichain claims to offer one-second block times and will join Optimism’s Superchain ecosystem.",
+          "link": "https://thedefiant.io/news/defi/uniswap-launches-testnet-for-unichain-layer-2",
+          "publishedOn": "2024-10-10T14:14:00.000Z",
+          "wordCount": 2513,
+          "title": "Uniswap Launches Testnet For Unichain Layer 2",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e8cf96d40c532f735e02eb23f785fa78fb2d3a2f-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e8cf96d40c532f735e02eb23f785fa78fb2d3a2f-1792x1024.webp"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/fbi-creates-ethereum-based-token-to-lure-market-manipulators",
           "author": "Mehab Qureshi",
           "description": "The FBI busted several market-making firms offering illegal wash trading services.",
@@ -1493,21 +1508,6 @@
             "type": "image/webp"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0aa63998233ddbf7f3ee9afea1fa29e279cd13da-1792x1024.webp"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/messari-mainnet-returns-as-new-york-s-largest-annual-crypto-event",
-          "author": "Squiffs",
-          "description": "The conference will occur between Sept 30 and Oct 2 at Pier 36 in New York.",
-          "link": "https://thedefiant.io/news/cefi/messari-mainnet-returns-as-new-york-s-largest-annual-crypto-event",
-          "publishedOn": "2024-09-30T21:37:22.000Z",
-          "wordCount": 2276,
-          "title": "Messari Mainnet Returns as New York’s Largest Annual Crypto Event",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/831382cdfec1a24e087e8087c2cceb937ae37b2e-1792x1024.webp",
-            "length": "1000000",
-            "type": "image/webp"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/831382cdfec1a24e087e8087c2cceb937ae37b2e-1792x1024.webp"
         }
       ]
     },

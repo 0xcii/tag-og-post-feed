@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-10T13:24:04.280Z</id>
+    <id>urn:2024-10-10T14:15:25.490Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-10T13:24:04.280Z</updated>
+    <updated>2024-10-10T14:15:25.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Launches Testnet For Unichain Layer 2]]></title>
+        <id>https://thedefiant.io/news/defi/uniswap-launches-testnet-for-unichain-layer-2</id>
+        <link href="https://thedefiant.io/news/defi/uniswap-launches-testnet-for-unichain-layer-2"/>
+        <updated>2024-10-10T14:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Unichain claims to offer one-second block times and will join Optimism’s Superchain ecosystem.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI Creates Ethereum-Based Token To Lure Market Manipulators]]></title>
         <id>https://thedefiant.io/news/regulation/fbi-creates-ethereum-based-token-to-lure-market-manipulators</id>
@@ -1001,16 +1011,6 @@
         <link href="https://thedefiant.io/news/defi/eigen-token-debuts-at-usd7-billion-valuation"/>
         <updated>2024-10-01T12:39:39.000Z</updated>
         <summary type="html"><![CDATA[EigenLayer’s highly anticipated native token is now transferable.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Messari Mainnet Returns as New York’s Largest Annual Crypto Event]]></title>
-        <id>https://thedefiant.io/news/cefi/messari-mainnet-returns-as-new-york-s-largest-annual-crypto-event</id>
-        <link href="https://thedefiant.io/news/cefi/messari-mainnet-returns-as-new-york-s-largest-annual-crypto-event"/>
-        <updated>2024-09-30T21:37:22.000Z</updated>
-        <summary type="html"><![CDATA[The conference will occur between Sept 30 and Oct 2 at Pier 36 in New York.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
