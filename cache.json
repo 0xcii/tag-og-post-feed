@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-ceo-larry-fink-declares-bitcoin-asset-class-market-cap-1-3-trillion-d65870ed",
+          "author": "DeepNewz",
+          "description": "BlackRock CEO Larry Fink has made significant statements regarding Bitcoin, asserting that the cryptocurrency is an asset class in itself",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-ceo-larry-fink-declares-bitcoin-asset-class-market-cap-1-3-trillion-d65870ed",
+          "publishedOn": "2024-10-14T20:27:34.000Z",
+          "wordCount": 2205,
+          "title": "BlackRock CEO Larry Fink Declares Bitcoin an Asset Class, Market Cap at $1.3 Trillion",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b40221c0eb57efbbfe5b6a5d5dabdcbe4cba70a5-1200x1200.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b40221c0eb57efbbfe5b6a5d5dabdcbe4cba70a5-1200x1200.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/hyper-foundation-teases-new-hype-token-for-hyperliquid",
           "author": "Pedro Solimano",
           "description": "The date for the airdrop hasn’t been announced.",
@@ -1503,21 +1518,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/98f449c80c926737e56d61117c1a1a38efd60585-875x508.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/investors-shift-bitcoin-to-gold-amid-iran-israel-tensions-jpm-2a2dabdc",
-          "author": "DeepNewz",
-          "description": "Investors are shifting their assets from Bitcoin to gold amid escalating geopolitical tensions between Iran and Israel",
-          "link": "https://thedefiant.io/news/markets/investors-shift-bitcoin-to-gold-amid-iran-israel-tensions-jpm-2a2dabdc",
-          "publishedOn": "2024-10-03T17:06:42.000Z",
-          "wordCount": 2129,
-          "title": "Investors Shift from Bitcoin to Gold Amid Iran-Israel Tensions: $JPM",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a5e0c6cec39e082ace24ca563c0afdf95ddd6543-800x533.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a5e0c6cec39e082ace24ca563c0afdf95ddd6543-800x533.jpg"
         }
       ]
     },
