@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-15T18:22:43.841Z</id>
+    <id>urn:2024-10-15T19:14:03.979Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-15T18:22:43.841Z</updated>
+    <updated>2024-10-15T19:14:03.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Proposes Fundamental Changes to Ethereum]]></title>
+        <id>https://thedefiant.io/news/blockchains/vitalik-proposes-fundamental-changes-to-ethereum</id>
+        <link href="https://thedefiant.io/news/blockchains/vitalik-proposes-fundamental-changes-to-ethereum"/>
+        <updated>2024-10-15T18:38:02.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum’s chief scientist explored ideas to make the network faster and transactions cheaper, including reducing staking deposits.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump’s World Liberty Financial Website Crashes Shortly Into Token Sale]]></title>
         <id>https://thedefiant.io/news/defi/trump-s-world-liberty-financial-website-crashes-shortly-into-token-sale</id>
@@ -1011,16 +1021,6 @@
         <link href="https://thedefiant.io/news/nfts-and-web3/magic-eden-ubisoft-launch-captain-laserhawk-gaming-nft-collection-on-arbitrum-de930d66"/>
         <updated>2024-10-04T16:53:09.000Z</updated>
         <summary type="html"><![CDATA[Magic Eden and Ubisoft have collaborated to release a gaming NFT collection on the Arbitrum blockchain]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El Salvador Buys 1 Bitcoin Daily to Counter IMF Neocolonialism]]></title>
-        <id>https://thedefiant.io/news/regulation/el-salvador-buys-1-bitcoin-daily-to-counter-imf-neocolonialism-f63e0d58</id>
-        <link href="https://thedefiant.io/news/regulation/el-salvador-buys-1-bitcoin-daily-to-counter-imf-neocolonialism-f63e0d58"/>
-        <updated>2024-10-04T16:53:05.000Z</updated>
-        <summary type="html"><![CDATA[El Salvador has initiated a policy of purchasing one Bitcoin every day, a move described by Christine Lagarde as an attempt to 'escape' the IMF's neocolonialism]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
