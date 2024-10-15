@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-15T17:15:08.531Z</id>
+    <id>urn:2024-10-15T18:22:43.841Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-15T17:15:08.531Z</updated>
+    <updated>2024-10-15T18:22:43.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trump’s World Liberty Financial Website Crashes Shortly Into Token Sale]]></title>
+        <id>https://thedefiant.io/news/defi/trump-s-world-liberty-financial-website-crashes-shortly-into-token-sale</id>
+        <link href="https://thedefiant.io/news/defi/trump-s-world-liberty-financial-website-crashes-shortly-into-token-sale"/>
+        <updated>2024-10-15T18:10:25.000Z</updated>
+        <summary type="html"><![CDATA[The website for the Trump family’s DeFi project has faced repeated interruptions and downtime since the sale went live earlier today.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Dip After Spot Bitcoin ETFs Record Massive Inflows]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-dip-after-spot-bitcoin-etfs-record-massive-inflows</id>
@@ -1013,16 +1023,6 @@
         <summary type="html"><![CDATA[El Salvador has initiated a policy of purchasing one Bitcoin every day, a move described by Christine Lagarde as an attempt to 'escape' the IMF's neocolonialism]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin and Ethereum Rally on Positive U.S. Jobs Report]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-and-ethereum-rally-on-positive-u-s-jobs-report</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-and-ethereum-rally-on-positive-u-s-jobs-report"/>
-        <updated>2024-10-04T16:48:14.000Z</updated>
-        <summary type="html"><![CDATA[September’s jobs report offers a bullish signal for crypto investors, driving market gains.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>
