@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-15T22:15:14.628Z</id>
+    <id>urn:2024-10-15T23:16:48.179Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-15T22:15:14.628Z</updated>
+    <updated>2024-10-15T23:16:48.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Persistent Weak Layer]]></title>
+        <id>https://medium.com/p/2ae5aab407ee</id>
+        <link href="https://cryptohayes.medium.com/persistent-weak-layer-2ae5aab407ee?source=rss-2f6e06954878------2"/>
+        <updated>2024-10-15T23:02:18.000Z</updated>
+        <summary type="html"><![CDATA[I spent the first two weeks of October skiing on the South Island of New Zealand. My guide, with whom I spent all of last season in Hokkaido]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Bitcoin Block Explorer Feature Has Maxis Complaining Again]]></title>
         <id>https://thedefiant.io/news/blockchains/new-bitcoin-block-explorer-feature-has-maxis-complaining-again</id>
