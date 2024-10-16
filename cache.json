@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/goat-memecoin-soars-above-usd300-million-valuation",
+          "author": "Squiffs",
+          "description": "The token was endorsed by the “Sentient” AI bot, Terminal of Truths, and has led to an AI-adjacent memecoin frenzy.",
+          "link": "https://thedefiant.io/news/markets/goat-memecoin-soars-above-usd300-million-valuation",
+          "publishedOn": "2024-10-16T21:20:23.000Z",
+          "wordCount": 2261,
+          "title": "GOAT Memecoin Soars Above $300 Million Valuation",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/64aec2702ea39f0ce4a9ca323dbaf0ef4761b451-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/64aec2702ea39f0ce4a9ca323dbaf0ef4761b451-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/a16z-s-latest-report-shows-strong-ties-between-crypto-and-ai-users",
           "author": "Pedro Solimano",
           "description": "Key takeaways from the 2024 State of Crypto report include all-time highs for usage and ZK proofs proving to be the endgame for privacy and scaling.",
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/news/people/crypto-community-slams-hbo-documentary-claiming-peter-todd-is-satoshi",
           "author": "Samuel Haig",
-          "description": "Prominent crypto commentators accuse the documentary of needlessly putting Todd in danger without providing substantial evidence supporting the claim he is Satoshi.",
+          "description": "The crypto community is pushing back an HBO documentary claiming that Peter Todd, a long-time Bitcoin contributor, is the network's pseudonymous founder.",
           "link": "https://thedefiant.io/news/people/crypto-community-slams-hbo-documentary-claiming-peter-todd-is-satoshi",
           "publishedOn": "2024-10-09T06:48:00.000Z",
           "wordCount": 2740,
@@ -1302,7 +1317,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/ethereum-developers-float-two-proposals-to-improve-layer-1-efficiency",
           "author": "Pedro Solimano",
-          "description": "Ethereum has been battling scaling issues since the inception of the network. However, two new proposals aim to assuage those problems, bringing network activity back to the Layer 1 and offering users the opportunity to transact on mainnet again.",
+          "description": "EIP-7781 would lower the network’s slot time, increase blobs per block, and help scale the main chain.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-developers-float-two-proposals-to-improve-layer-1-efficiency",
           "publishedOn": "2024-10-08T22:15:46.000Z",
           "wordCount": 2682,
@@ -1538,21 +1553,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3440bd66ca7390c4846c0c492f761633ef5ff4f7-1024x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-surges-past-64000-touches-65000-amid-strong-market-performance-d59f6c0a",
-          "author": "DeepNewz",
-          "description": "Bitcoin has experienced a significant surge, surpassing the $62,000 mark on October 4, 2024, and continuing its upward trajectory to reclaim $64,000 by October 7, 2024",
-          "link": "https://thedefiant.io/news/markets/bitcoin-surges-past-64000-touches-65000-amid-strong-market-performance-d59f6c0a",
-          "publishedOn": "2024-10-07T19:28:03.000Z",
-          "wordCount": 2120,
-          "title": "Bitcoin Surges Past $64,000, Touches $65,000 Amid Strong Market Performance",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a1ddec824487f1dd3cf42239faa1a75022129082-1095x949.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a1ddec824487f1dd3cf42239faa1a75022129082-1095x949.jpg"
         }
       ]
     },

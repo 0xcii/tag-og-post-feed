@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-16T21:16:08.812Z</id>
+    <id>urn:2024-10-16T22:15:08.481Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-16T21:16:08.812Z</updated>
+    <updated>2024-10-16T22:15:08.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GOAT Memecoin Soars Above $300 Million Valuation]]></title>
+        <id>https://thedefiant.io/news/markets/goat-memecoin-soars-above-usd300-million-valuation</id>
+        <link href="https://thedefiant.io/news/markets/goat-memecoin-soars-above-usd300-million-valuation"/>
+        <updated>2024-10-16T21:20:23.000Z</updated>
+        <summary type="html"><![CDATA[The token was endorsed by the “Sentient” AI bot, Terminal of Truths, and has led to an AI-adjacent memecoin frenzy.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[a16z’s Latest Report Shows Strong Ties Between Crypto and AI Users]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/a16z-s-latest-report-shows-strong-ties-between-crypto-and-ai-users</id>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/news/people/crypto-community-slams-hbo-documentary-claiming-peter-todd-is-satoshi</id>
         <link href="https://thedefiant.io/news/people/crypto-community-slams-hbo-documentary-claiming-peter-todd-is-satoshi"/>
         <updated>2024-10-09T06:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Prominent crypto commentators accuse the documentary of needlessly putting Todd in danger without providing substantial evidence supporting the claim he is Satoshi.]]></summary>
+        <summary type="html"><![CDATA[The crypto community is pushing back an HBO documentary claiming that Peter Todd, a long-time Bitcoin contributor, is the network's pseudonymous founder.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -860,7 +870,7 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-developers-float-two-proposals-to-improve-layer-1-efficiency</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-developers-float-two-proposals-to-improve-layer-1-efficiency"/>
         <updated>2024-10-08T22:15:46.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum has been battling scaling issues since the inception of the network. However, two new proposals aim to assuage those problems, bringing network activity back to the Layer 1 and offering users the opportunity to transact on mainnet again.]]></summary>
+        <summary type="html"><![CDATA[EIP-7781 would lower the network’s slot time, increase blobs per block, and help scale the main chain.]]></summary>
         <author>
             <name>Pedro Solimano</name>
         </author>
@@ -1021,16 +1031,6 @@
         <link href="https://thedefiant.io/news/defi/hackers-shut-down-ton-wallet-drainer-due-to-lack-whales-target-bitcoin-next-fac294a7"/>
         <updated>2024-10-07T19:28:22.000Z</updated>
         <summary type="html"><![CDATA[A wallet-draining scam operating on The Open Network (TON) has shut down due to a lack of high-value targets within the network and is now shifting its focus to Bitcoin]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Surges Past $64,000, Touches $65,000 Amid Strong Market Performance]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-surges-past-64000-touches-65000-amid-strong-market-performance-d59f6c0a</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-surges-past-64000-touches-65000-amid-strong-market-performance-d59f6c0a"/>
-        <updated>2024-10-07T19:28:03.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin has experienced a significant surge, surpassing the $62,000 mark on October 4, 2024, and continuing its upward trajectory to reclaim $64,000 by October 7, 2024]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
