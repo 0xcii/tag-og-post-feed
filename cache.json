@@ -60,9 +60,14 @@
           "description": "The WLFI token sale has attracted 10,885 unique wallet holders.",
           "link": "https://thedefiant.io/news/tokens/trump-backed-wlfi-token-sale-raises-just-usd12m-in-24-hours",
           "publishedOn": "2024-10-16T15:14:00.000Z",
-          "wordCount": 2443,
+          "wordCount": 2461,
           "title": "Trump-Backed WLFI Token Sale Raises Just $12M In 24 Hours",
-          "imageUrl": null
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/48dbda7e2cabfe11d45753a69500bd11e27f5c00-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/48dbda7e2cabfe11d45753a69500bd11e27f5c00-1555x875.png"
         },
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/christie-s-announces-art-auction-supporting-unhcr-on-ethereum",
@@ -1547,7 +1552,7 @@
           "description": "It started with a tweet;",
           "link": "https://andrecronje.medium.com/to-appchain-or-not-to-appchain-9332ccfa2ba9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2024-10-15T00:25:45.000Z",
-          "wordCount": 2959,
+          "wordCount": 2958,
           "title": "To appchain or not to appchain",
           "imageUrl": null
         }
