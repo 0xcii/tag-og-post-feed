@@ -11,7 +11,7 @@
           "description": "I spent the first two weeks of October skiing on the South Island of New Zealand. My guide, with whom I spent all of last season in…",
           "link": "https://cryptohayes.medium.com/persistent-weak-layer-2ae5aab407ee?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-15T23:02:18.000Z",
-          "wordCount": 5873,
+          "wordCount": 5874,
           "title": "Persistent Weak Layer",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*hSQ_wXphKWIuG8Kd"
         },
@@ -54,6 +54,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/defi/pump-fun-metrics-shatter-all-time-highs-again",
+          "author": "Squiffs",
+          "description": "Activity on the Solana launchpad is at new highs as the ‘memecoin supercycle’ carries on.",
+          "link": "https://thedefiant.io/news/defi/pump-fun-metrics-shatter-all-time-highs-again",
+          "publishedOn": "2024-10-18T20:36:07.000Z",
+          "wordCount": 2259,
+          "title": "Pump.Fun Metrics Shatter All-Time Highs Again",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d460e866b0d1c034c416142505570f143782ed36-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d460e866b0d1c034c416142505570f143782ed36-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/blockchains/world-network-launches-ethereum-layer-2-world-chain",
           "author": "Mehab Qureshi",
@@ -1538,21 +1553,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7599418ac4e4ada212cb35159474ba480047c360-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-slide-as-inflation-concerns-resurface",
-          "author": "Mehab Qureshi",
-          "description": "Concerns are also mounting over the U.S. government's potential sale of 69,370 BTC seized from the Silk Road marketplace.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-slide-as-inflation-concerns-resurface",
-          "publishedOn": "2024-10-10T16:17:18.000Z",
-          "wordCount": 2478,
-          "title": "Crypto Markets Slide as Inflation Concerns Resurface",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0209152810fe5dea54571c7afc88354a9081e615-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0209152810fe5dea54571c7afc88354a9081e615-1555x875.png"
         }
       ]
     },

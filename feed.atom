@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-18T20:16:57.222Z</id>
+    <id>urn:2024-10-18T21:15:46.497Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-18T20:16:57.222Z</updated>
+    <updated>2024-10-18T21:15:46.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pump.Fun Metrics Shatter All-Time Highs Again]]></title>
+        <id>https://thedefiant.io/news/defi/pump-fun-metrics-shatter-all-time-highs-again</id>
+        <link href="https://thedefiant.io/news/defi/pump-fun-metrics-shatter-all-time-highs-again"/>
+        <updated>2024-10-18T20:36:07.000Z</updated>
+        <summary type="html"><![CDATA[Activity on the Solana launchpad is at new highs as the ‘memecoin supercycle’ carries on.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Network Launches Ethereum Layer 2 'World Chain']]></title>
         <id>https://thedefiant.io/news/blockchains/world-network-launches-ethereum-layer-2-world-chain</id>
@@ -1013,16 +1023,6 @@
         <summary type="html"><![CDATA[The APU token is now multi-chain, allowing it to be listed on the Moonshot memecoin trading app.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Slide as Inflation Concerns Resurface]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-slide-as-inflation-concerns-resurface</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-slide-as-inflation-concerns-resurface"/>
-        <updated>2024-10-10T16:17:18.000Z</updated>
-        <summary type="html"><![CDATA[Concerns are also mounting over the U.S. government's potential sale of 69,370 BTC seized from the Silk Road marketplace.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>
