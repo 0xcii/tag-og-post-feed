@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-21T11:14:38.088Z</id>
+    <id>urn:2024-10-21T12:32:51.287Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-21T11:14:38.088Z</updated>
+    <updated>2024-10-21T12:32:51.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Centrifuge Integrates Fireblocks RWA Custody]]></title>
+        <id>https://thedefiant.io/news/defi/centrifuge-integrates-fireblocks-rwa-custody</id>
+        <link href="https://thedefiant.io/news/defi/centrifuge-integrates-fireblocks-rwa-custody"/>
+        <updated>2024-10-21T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The partnership makes Centrifuge available to Fireblocks’ 2,000 institutional counterparties.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pump.Fun Metrics Shatter All-Time Highs Again]]></title>
         <id>https://thedefiant.io/news/defi/pump-fun-metrics-shatter-all-time-highs-again</id>
@@ -1013,16 +1023,6 @@
         <summary type="html"><![CDATA[Equities are most favored across all investors, with crypto coming in second.]]></summary>
         <author>
             <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memecoins are Moving from Ethereum to Solana to Access Moonshot App]]></title>
-        <id>https://thedefiant.io/news/defi/memecoins-are-moving-from-ethereum-to-solana-to-access-moonshot-app</id>
-        <link href="https://thedefiant.io/news/defi/memecoins-are-moving-from-ethereum-to-solana-to-access-moonshot-app"/>
-        <updated>2024-10-10T16:35:03.000Z</updated>
-        <summary type="html"><![CDATA[The APU token is now multi-chain, allowing it to be listed on the Moonshot memecoin trading app.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>

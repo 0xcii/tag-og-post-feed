@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/centrifuge-integrates-fireblocks-rwa-custody",
+          "author": "Mehab Qureshi",
+          "description": "The partnership makes Centrifuge available to Fireblocks’ 2,000 institutional counterparties.",
+          "link": "https://thedefiant.io/news/defi/centrifuge-integrates-fireblocks-rwa-custody",
+          "publishedOn": "2024-10-21T12:30:00.000Z",
+          "wordCount": 2373,
+          "title": "Centrifuge Integrates Fireblocks RWA Custody",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3a840953be271307af6ad08fdafe98a96e1f0193-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3a840953be271307af6ad08fdafe98a96e1f0193-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/pump-fun-metrics-shatter-all-time-highs-again",
           "author": "Squiffs",
           "description": "Activity on the Solana launchpad is at new highs as the ‘memecoin supercycle’ carries on.",
@@ -1538,21 +1553,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/872ed43af6b51ab0fa54b38c62b7036353ea2b8e-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/memecoins-are-moving-from-ethereum-to-solana-to-access-moonshot-app",
-          "author": "Squiffs",
-          "description": "The APU token is now multi-chain, allowing it to be listed on the Moonshot memecoin trading app.",
-          "link": "https://thedefiant.io/news/defi/memecoins-are-moving-from-ethereum-to-solana-to-access-moonshot-app",
-          "publishedOn": "2024-10-10T16:35:03.000Z",
-          "wordCount": 2296,
-          "title": "Memecoins are Moving from Ethereum to Solana to Access Moonshot App",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7599418ac4e4ada212cb35159474ba480047c360-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7599418ac4e4ada212cb35159474ba480047c360-1555x875.png"
         }
       ]
     },
