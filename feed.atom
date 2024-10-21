@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-21T12:32:51.287Z</id>
+    <id>urn:2024-10-21T13:25:05.107Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-21T12:32:51.287Z</updated>
+    <updated>2024-10-21T13:25:05.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PumpFun Teases Token and Launches Unveils 'Advance' Platform]]></title>
+        <id>https://thedefiant.io/news/tokens/pumpfun-teases-token-and-launches-unveils-advance-platform</id>
+        <link href="https://thedefiant.io/news/tokens/pumpfun-teases-token-and-launches-unveils-advance-platform"/>
+        <updated>2024-10-21T13:12:00.000Z</updated>
+        <summary type="html"><![CDATA[PumpFun confirmed it plans to airdrop a token to early users in the future.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Centrifuge Integrates Fireblocks RWA Custody]]></title>
         <id>https://thedefiant.io/news/defi/centrifuge-integrates-fireblocks-rwa-custody</id>
@@ -1013,16 +1023,6 @@
         <summary type="html"><![CDATA[The liquid staking protocol is gearing up to launch its long-awaited SWELL token.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Among Top Choices For ETF Investors Across All Age Groups: Schwab]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/crypto-among-top-choices-for-etf-investors-across-all-age-groups-schwab</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/crypto-among-top-choices-for-etf-investors-across-all-age-groups-schwab"/>
-        <updated>2024-10-10T18:33:34.000Z</updated>
-        <summary type="html"><![CDATA[Equities are most favored across all investors, with crypto coming in second.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
     <entry>
