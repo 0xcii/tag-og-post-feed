@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/blockchain-infra-provider-lava-network-unveils-industry-first-incentive-structure",
+          "author": "Pedro Solimano",
+          "description": "Supported blockchains will gradually pay out $1 million in their native tokens to Lava contributors.",
+          "link": "https://thedefiant.io/news/infrastructure/blockchain-infra-provider-lava-network-unveils-industry-first-incentive-structure",
+          "publishedOn": "2024-10-21T17:07:43.000Z",
+          "wordCount": 2618,
+          "title": "Blockchain Infra Provider Lava Network Unveils “Industry First” Incentive Structure",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/660671c56562beb7840d6f02ebd0360f357d57ee-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/660671c56562beb7840d6f02ebd0360f357d57ee-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/vitalik-says-the-scourge-will-tackle-ethereum-s-centralization-threats",
           "author": "Samuel Haig",
           "description": "The Scourge aims to address issues associated with large entities capturing ETH staking rewards and Ethereum block production.",
@@ -585,7 +600,7 @@
           "description": "Walrus aims to bolster the efficiency of data storage on Sui and other blockchain networks.",
           "link": "https://thedefiant.io/news/infrastructure/sui-s-mysten-labs-launches-walrus-data-storage-network-on-testnet",
           "publishedOn": "2024-10-17T13:00:00.000Z",
-          "wordCount": 2641,
+          "wordCount": 2617,
           "title": "Sui’s Mysten Labs Launches Walrus Data Storage Network On Testnet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d184ba270f907b1fed8108f706dbf06d79d1fa83-1555x875.png",
@@ -735,7 +750,7 @@
           "description": "MoonPay has announced two significant partnerships aimed at enhancing its cryptocurrency services",
           "link": "https://thedefiant.io/news/infrastructure/moonpay-partners-bitrefill-ripple-to-enhance-xrp-crypto-services-4a3d0863",
           "publishedOn": "2024-10-16T17:42:39.000Z",
-          "wordCount": 2140,
+          "wordCount": 2114,
           "title": "MoonPay Partners with Bitrefill and Ripple to Enhance XRP and Crypto Services",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cde25d5625db7c75705a5210a824ed12e60d59d0-480x240.jpg",
@@ -1005,7 +1020,7 @@
           "description": "Paxos has announced a partnership with Stripe to launch a stablecoin payment platform, marking a significant development in the cryptocurrency space",
           "link": "https://thedefiant.io/news/infrastructure/paxos-partners-stripe-to-launch-stablecoin-payment-platform-on-october-15-amid-s-5666d58e",
           "publishedOn": "2024-10-15T17:05:33.000Z",
-          "wordCount": 2217,
+          "wordCount": 2191,
           "title": "Paxos Partners with Stripe to Launch Stablecoin Payment Platform on October 15 Amid Cooling S&amp; P 500 and Dow Trends",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fd006b6cfa2c8468709a22931ce389cf1915080e-1009x850.jpg",
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/education/research-and-opinion/bitcoin-s-new-horizon-leveraging-near-s-chain-signatures-for-enhanced-interoperability",
           "author": "Proximity Labs",
-          "description": "The blockchain ecosystem has long grappled with a critical challenge: interoperability. Bitcoin, as the first and most renowned cryptocurrency, has remained largely isolated from the innovations flourishing on other blockchains. NEAR's introduction of Chain Signatures represents not just a technical evolution but a strategic pivot towards a unified blockchain future. Here's an in-depth exploration into why this technology is pivotal.",
+          "description": "Information platform at the intersection of tech and finance.",
           "link": "https://thedefiant.io/education/research-and-opinion/bitcoin-s-new-horizon-leveraging-near-s-chain-signatures-for-enhanced-interoperability",
           "publishedOn": "2024-10-12T06:49:55.000Z",
           "wordCount": 3438,
@@ -1538,21 +1553,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ef015967f08398e1bd0e7d5c2a07b2b318bf1ad2-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/xcopy-nft-sells-for-usd2-million",
-          "author": "Squiffs",
-          "description": "“Chatbot and Chill?” an XCOPY 1/1 from 2018, sold for 800 ETH.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/xcopy-nft-sells-for-usd2-million",
-          "publishedOn": "2024-10-11T03:56:25.000Z",
-          "wordCount": 2296,
-          "title": "XCOPY NFT Sells for $2 Million",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dd0e7cea334700d258161b070bf3e35f63871fd3-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dd0e7cea334700d258161b070bf3e35f63871fd3-1555x875.png"
         }
       ]
     },
