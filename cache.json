@@ -55,6 +55,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ordinals-marketplaces-battle-to-offer-best-mempool-sniping-protection",
+          "author": "Pedro Solimano",
+          "description": "Magic Eden and Mintify are competing, while Satflow quietly builds in beta.",
+          "link": "https://thedefiant.io/news/blockchains/ordinals-marketplaces-battle-to-offer-best-mempool-sniping-protection",
+          "publishedOn": "2024-10-22T20:13:58.000Z",
+          "wordCount": 2533,
+          "title": "Ordinals Marketplaces Battle to Offer Best Mempool Sniping Protection",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5bf4ff657719248a150110a36db2fc61bba47edc-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5bf4ff657719248a150110a36db2fc61bba47edc-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/sol-eth-ratio-hits-new-all-time-high",
+          "author": "Squiffs",
+          "description": "Solana continues to outperform as memecoin mania shows no signs of slowing down.",
+          "link": "https://thedefiant.io/news/markets/sol-eth-ratio-hits-new-all-time-high",
+          "publishedOn": "2024-10-22T20:05:32.000Z",
+          "wordCount": 2156,
+          "title": "SOL/ETH Ratio Hits New All-time High",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f0bd6e4f83096b2368e7816dddc8fc27f3ede310-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f0bd6e4f83096b2368e7816dddc8fc27f3ede310-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/uniswap-faces-criticism-after-launching-unichain-without-dao-approval",
+          "author": "Mehab Qureshi",
+          "description": "Uniswap Labs launched a testnet for Unichain on Oct. 11.",
+          "link": "https://thedefiant.io/news/defi/uniswap-faces-criticism-after-launching-unichain-without-dao-approval",
+          "publishedOn": "2024-10-22T19:25:25.000Z",
+          "wordCount": 2671,
+          "title": "Uniswap Faces Criticism after Launching Unichain Without DAO Approval",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/94b1186d36e6f6f191f68e462bb1314608bba51e-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/94b1186d36e6f6f191f68e462bb1314608bba51e-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/human-like-typo-by-ai-millionaire-nukes-token",
           "author": "Pedro Solimano",
           "description": "Crypto Twitter started dumping their tokens after Truth Terminal made a typo.",
@@ -170,7 +215,7 @@
           "description": "The airdrop event will distribute 5.5% of Scroll’s token supply to nearly 600,000 eligible wallets.",
           "link": "https://thedefiant.io/news/blockchains/scroll-to-airdrop-scr-tokens-on-october-22",
           "publishedOn": "2024-10-21T20:43:51.000Z",
-          "wordCount": 2323,
+          "wordCount": 2313,
           "title": "Scroll to Airdrop SCR Tokens on October 22",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5e2acc7ed33f1ffb9ed3b27dda6a81fdac5eecbd-1555x875.png",
@@ -245,7 +290,7 @@
           "description": "The Scourge aims to address issues associated with large entities capturing ETH staking rewards and Ethereum block production.",
           "link": "https://thedefiant.io/news/blockchains/vitalik-says-the-scourge-will-tackle-ethereum-s-centralization-threats",
           "publishedOn": "2024-10-21T15:36:00.000Z",
-          "wordCount": 2746,
+          "wordCount": 2736,
           "title": "Vitalik Says 'The Scourge' Will Tackle Ethereum's Centralization Threats",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e6803b967f8b87765d0fa86382d5de75b71117f4-1555x875.png",
@@ -320,7 +365,7 @@
           "description": "The World Network touts over 6.9 million verified users.",
           "link": "https://thedefiant.io/news/blockchains/world-network-launches-ethereum-layer-2-world-chain",
           "publishedOn": "2024-10-18T20:11:19.000Z",
-          "wordCount": 2490,
+          "wordCount": 2478,
           "title": "World Network Launches Ethereum Layer 2 'World Chain'",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9cc020f8af73ab1f704bc4bd1c7656bfeafd2fbd-1555x875.png",
@@ -350,7 +395,7 @@
           "description": "Bittensor’s TAO token has more than doubled in the past month.",
           "link": "https://thedefiant.io/news/blockchains/bittensor-launches-smart-contracts-and-ethereum-compatibility",
           "publishedOn": "2024-10-18T18:57:31.000Z",
-          "wordCount": 2208,
+          "wordCount": 2196,
           "title": "Bittensor Launches Smart Contracts and Ethereum Compatibility",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/82508a7cc15db8f37df5b026b3890eb5445a5bf6-1555x875.png",
@@ -545,7 +590,7 @@
           "description": "The Layer 1 network is enjoying a moderate resurgence as it prepares to rebrand.",
           "link": "https://thedefiant.io/news/blockchains/fantom-ecosystem-activity-picks-up-ahead-of-sonic-labs-rebrand",
           "publishedOn": "2024-10-18T07:04:00.000Z",
-          "wordCount": 2243,
+          "wordCount": 2233,
           "title": "Fantom Ecosystem Activity Picks Up Ahead of Sonic Labs Rebrand",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/488d1fdad93c850058a23876aa1c4644620a5596-1555x875.png",
@@ -575,7 +620,7 @@
           "description": "In a new post, Ethereum’s chief scientist laid out his vision for scaling the ecosystem beyond 100,000 transactions per second.",
           "link": "https://thedefiant.io/news/blockchains/vitalik-outlines-ethereum-s-road-to-100-000-tps",
           "publishedOn": "2024-10-17T19:43:28.000Z",
-          "wordCount": 2389,
+          "wordCount": 2376,
           "title": "Vitalik Outlines Ethereum’s Road to 100,000 TPS",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4cc49d069fe674db0e6a8faad03bd00b34babfc6-1555x875.png",
@@ -935,7 +980,7 @@
           "description": "Fuel Labs has launched 'Ignition', a new rollup network with a focus on parallelization and a UTXO-based model",
           "link": "https://thedefiant.io/news/blockchains/fuel-labs-launches-ignition-rollup-network-mainnet-live-21k-tps-7082dd73",
           "publishedOn": "2024-10-16T17:42:35.000Z",
-          "wordCount": 2128,
+          "wordCount": 2115,
           "title": "Fuel Labs Launches Ignition Rollup Network, Mainnet Live with 21K TPS",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/07d3e77a8dceb05cc668021cca010ea786c16302-620x620.png",
@@ -980,7 +1025,7 @@
           "description": "U.S.-listed Bitcoin miners have reached a new milestone, accounting for 29% of the global Bitcoin network hashrate",
           "link": "https://thedefiant.io/news/blockchains/u-s-bitcoin-miners-reach-29-global-hashrate-66-supermajority-jpmorgan-reports-09c17198",
           "publishedOn": "2024-10-16T17:41:58.000Z",
-          "wordCount": 2138,
+          "wordCount": 2125,
           "title": "U.S. Bitcoin Miners Reach 29% Global Hashrate with 66% Supermajority, JPMorgan Reports",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/837679cf8a90af3a3676451ab8bd407eaa81083b-1199x749.jpg",
@@ -1055,7 +1100,7 @@
           "description": "Axelar’s Mobius Development Stack will connect TON with 68 different blockchain networks.",
           "link": "https://thedefiant.io/news/blockchains/ton-taps-axelar-for-first-cross-chain-interoperability-infrastructure",
           "publishedOn": "2024-10-16T13:00:00.000Z",
-          "wordCount": 2358,
+          "wordCount": 2348,
           "title": "TON Taps Axelar For First Cross-Chain Interoperability Infrastructure",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/00bb1d59ecac477d01bf35f512d85efd28d9500c-1555x875.png",
@@ -1100,7 +1145,7 @@
           "description": "Controversy erupted after mempool.space added a feature that allows users to know if a transaction includes a Rune.",
           "link": "https://thedefiant.io/news/blockchains/new-bitcoin-block-explorer-feature-has-maxis-complaining-again",
           "publishedOn": "2024-10-15T21:08:26.000Z",
-          "wordCount": 2599,
+          "wordCount": 2589,
           "title": "New Bitcoin Block Explorer Feature Has Maxis Complaining Again",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a11db2dceb1879fea0dd6f7644afce2b4ef0e228-1555x875.png",
@@ -1115,7 +1160,7 @@
           "description": "The litepaper disclosed details about Sonic’s mainnet launch and upcoming airdrop.",
           "link": "https://thedefiant.io/news/blockchains/ftm-surges-as-sonic-publishes-litepaper",
           "publishedOn": "2024-10-15T20:21:12.000Z",
-          "wordCount": 2313,
+          "wordCount": 2303,
           "title": "FTM Surges as Sonic Publishes Litepaper",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f406080e394bd923029da8c2f7a11684508efb4a-1555x875.png",
@@ -1130,7 +1175,7 @@
           "description": "Ethereum’s chief scientist explored ideas to make the network faster and transactions cheaper, including reducing staking deposits.",
           "link": "https://thedefiant.io/news/blockchains/vitalik-proposes-fundamental-changes-to-ethereum",
           "publishedOn": "2024-10-15T18:38:02.000Z",
-          "wordCount": 2480,
+          "wordCount": 2470,
           "title": "Vitalik Proposes Fundamental Changes to Ethereum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cf3c0c2b1f10f401d65ba6acf66be12ecc29b371-1555x875.png",
@@ -1247,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/dtcc-unveils-digital-asset-sandbox",
           "author": "Samuel Haig",
-          "description": "The DTCC's launchpad aims to provide a unified ecosystem for digital asset pilots targeting mainstream financial applications.",
+          "description": "The DTCC is launching a digital asset sandbox providing infrastructure for pilots exploring mainstream financial applications of DLT.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/dtcc-unveils-digital-asset-sandbox",
           "publishedOn": "2024-10-15T12:00:00.000Z",
           "wordCount": 2600,
@@ -1498,51 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7e436df2de346e1e3c732c2b9a14ebdaf2e1628c-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/sentient-ai-agent-funded-by-marc-andreessen-adopts-its-own-memecoin",
-          "author": "Squiffs",
-          "description": "Through communications via X, the AI Agent decided to officially endorse and bull-post the $GOAT token.",
-          "link": "https://thedefiant.io/news/markets/sentient-ai-agent-funded-by-marc-andreessen-adopts-its-own-memecoin",
-          "publishedOn": "2024-10-11T19:24:28.000Z",
-          "wordCount": 2585,
-          "title": "Sentient AI Agent Funded by Marc Andreessen Adopts its Own Memecoin",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/af81789f0f548ad8b98165aa4b5ef125aa240ee5-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/af81789f0f548ad8b98165aa4b5ef125aa240ee5-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/off-the-grid-tops-epic-games-twitch-charts-surpasses-3-5m-wallets-on-avalanche-f682ce11",
-          "author": "DeepNewz",
-          "description": "The new AAA shooter game 'Off The Grid' has rapidly gained popularity, becoming the top free-to-play game on Epic Games and the second most popular for PC",
-          "link": "https://thedefiant.io/news/nfts-and-web3/off-the-grid-tops-epic-games-twitch-charts-surpasses-3-5m-wallets-on-avalanche-f682ce11",
-          "publishedOn": "2024-10-11T19:23:29.000Z",
-          "wordCount": 2231,
-          "title": "'Off The Grid' Tops Epic Games and Twitch Charts, Surpasses 3.5M Wallets on Avalanche L1",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/651fb0ff9dc0c632a3354225b22aa61909dc39d0-675x299.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/651fb0ff9dc0c632a3354225b22aa61909dc39d0-675x299.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/worldcoin-partners-dune-analytics-enhanced-transparency-ahead-world-chain-launch-7895e9c3",
-          "author": "DeepNewz",
-          "description": "Worldcoin has announced a partnership with Dune Analytics to enhance data accessibility and transparency ahead of the World Chain mainnet launch",
-          "link": "https://thedefiant.io/news/blockchains/worldcoin-partners-dune-analytics-enhanced-transparency-ahead-world-chain-launch-7895e9c3",
-          "publishedOn": "2024-10-11T19:23:16.000Z",
-          "wordCount": 2169,
-          "title": "Worldcoin Partners with Dune Analytics for Enhanced Transparency Ahead of World Chain Mainnet Launch, $WLD Involved",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/763923fb3987922ad601aad44c361c051b2bed23-1200x928.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/763923fb3987922ad601aad44c361c051b2bed23-1200x928.jpg"
         }
       ]
     },
