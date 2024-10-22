@@ -70,6 +70,21 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5bf4ff657719248a150110a36db2fc61bba47edc-1555x875.png"
         },
         {
+          "id": "https://thedefiant.io/news/markets/polymarket-enhances-compliance-checks-on-us-users-amid-18-million-trump-bet-3625dbbb",
+          "author": "DeepNewz",
+          "description": "Polymarket is enhancing its compliance measures to ensure that traders in the United States are not participating in betting on the upcoming presidential election",
+          "link": "https://thedefiant.io/news/markets/polymarket-enhances-compliance-checks-on-us-users-amid-18-million-trump-bet-3625dbbb",
+          "publishedOn": "2024-10-22T20:13:05.000Z",
+          "wordCount": 2174,
+          "title": "Polymarket Enhances Compliance Checks on US Users Amid $18 Million Trump Bet Spike for Presidential Election",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f1cb04d4427eeacf6dbc4577733901a8d074d455-500x500.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f1cb04d4427eeacf6dbc4577733901a8d074d455-500x500.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/sol-eth-ratio-hits-new-all-time-high",
           "author": "Squiffs",
           "description": "Solana continues to outperform as memecoin mania shows no signs of slowing down.",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/seemingly-pro-crypto-harris-policy-doc-attracts-industry-pushback",
           "author": "Mehab Qureshi",
-          "description": "Onlookers took exception with the Harris campaign for failing to outline concrete policy proposals for crypto.",
+          "description": "Harris is seeking to court black male voters with promises of crypto regulations, but the web3 industry is unimpressed.",
           "link": "https://thedefiant.io/news/regulation/seemingly-pro-crypto-harris-policy-doc-attracts-industry-pushback",
           "publishedOn": "2024-10-15T15:13:00.000Z",
           "wordCount": 2731,
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/dtcc-unveils-digital-asset-sandbox",
           "author": "Samuel Haig",
-          "description": "The DTCC is launching a digital asset sandbox providing infrastructure for pilots exploring mainstream financial applications of DLT.",
+          "description": "The DTCC's launchpad aims to provide a unified ecosystem for digital asset pilots targeting mainstream financial applications.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/dtcc-unveils-digital-asset-sandbox",
           "publishedOn": "2024-10-15T12:00:00.000Z",
           "wordCount": 2600,
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/50fca8001ee5eaf07f3fc6782016b6a665c61625-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/runes-rally-as-traders-move-up-the-risk-curve",
-          "author": "Squiffs",
-          "description": "Runes are up multiples over the last week as traders move to acquire memecoins and other Bitcoin ecosystem assets.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/runes-rally-as-traders-move-up-the-risk-curve",
-          "publishedOn": "2024-10-11T20:38:32.000Z",
-          "wordCount": 2352,
-          "title": "Runes Rally as Traders Move Up the Risk Curve",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7e436df2de346e1e3c732c2b9a14ebdaf2e1628c-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7e436df2de346e1e3c732c2b9a14ebdaf2e1628c-1555x875.png"
         }
       ]
     },

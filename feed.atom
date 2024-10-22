@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-22T20:17:28.982Z</id>
+    <id>urn:2024-10-22T21:15:14.128Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-22T20:17:28.982Z</updated>
+    <updated>2024-10-22T21:15:14.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[Magic Eden and Mintify are competing, while Satflow quietly builds in beta.]]></summary>
         <author>
             <name>Pedro Solimano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Enhances Compliance Checks on US Users Amid $18 Million Trump Bet Spike for Presidential Election]]></title>
+        <id>https://thedefiant.io/news/markets/polymarket-enhances-compliance-checks-on-us-users-amid-18-million-trump-bet-3625dbbb</id>
+        <link href="https://thedefiant.io/news/markets/polymarket-enhances-compliance-checks-on-us-users-amid-18-million-trump-bet-3625dbbb"/>
+        <updated>2024-10-22T20:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Polymarket is enhancing its compliance measures to ensure that traders in the United States are not participating in betting on the upcoming presidential election]]></summary>
+        <author>
+            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/seemingly-pro-crypto-harris-policy-doc-attracts-industry-pushback</id>
         <link href="https://thedefiant.io/news/regulation/seemingly-pro-crypto-harris-policy-doc-attracts-industry-pushback"/>
         <updated>2024-10-15T15:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Onlookers took exception with the Harris campaign for failing to outline concrete policy proposals for crypto.]]></summary>
+        <summary type="html"><![CDATA[Harris is seeking to court black male voters with promises of crypto regulations, but the web3 industry is unimpressed.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/dtcc-unveils-digital-asset-sandbox</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/dtcc-unveils-digital-asset-sandbox"/>
         <updated>2024-10-15T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The DTCC is launching a digital asset sandbox providing infrastructure for pilots exploring mainstream financial applications of DLT.]]></summary>
+        <summary type="html"><![CDATA[The DTCC's launchpad aims to provide a unified ecosystem for digital asset pilots targeting mainstream financial applications.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -1013,16 +1023,6 @@
         <summary type="html"><![CDATA[The blockchain ecosystem has long grappled with a critical challenge: interoperability. Bitcoin, as the first and most renowned cryptocurrency, has remained largely isolated from the innovations flourishing on other blockchains. NEAR's introduction of Chain Signatures represents not just a technical evolution but a strategic pivot towards a unified blockchain future. Here's an in-depth exploration into why this technology is pivotal.]]></summary>
         <author>
             <name>Proximity Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runes Rally as Traders Move Up the Risk Curve]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/runes-rally-as-traders-move-up-the-risk-curve</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/runes-rally-as-traders-move-up-the-risk-curve"/>
-        <updated>2024-10-11T20:38:32.000Z</updated>
-        <summary type="html"><![CDATA[Runes are up multiples over the last week as traders move to acquire memecoins and other Bitcoin ecosystem assets.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
