@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-25T18:21:52.243Z</id>
+    <id>urn:2024-10-25T19:12:38.565Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-25T18:21:52.243Z</updated>
+    <updated>2024-10-25T19:12:38.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hacker Returns $19 Million Stolen from U.S. Government]]></title>
+        <id>https://thedefiant.io/news/defi/hacker-returns-usd19-million-stolen-from-u-s-government</id>
+        <link href="https://thedefiant.io/news/defi/hacker-returns-usd19-million-stolen-from-u-s-government"/>
+        <updated>2024-10-25T18:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Roughly $700,000 of assets are still missing.]]></summary>
+        <author>
+            <name>Pedro Solimano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mantle-based mETH Protocol Announces Oct. 29 Airdrop]]></title>
         <id>https://thedefiant.io/news/defi/mantle-based-meth-protocol-announces-oct-29-airdrop</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/coinbase-rebounds-to-204-up-28-amid-bitcoin-surge-7af3e46a"/>
         <updated>2024-10-16T17:42:43.000Z</updated>
         <summary type="html"><![CDATA[Coinbase (COIN) has experienced a significant rebound, with its stock price reaching $204, up from $140 in early August]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoonPay Partners with Bitrefill and Ripple to Enhance XRP and Crypto Services]]></title>
-        <id>https://thedefiant.io/news/infrastructure/moonpay-partners-bitrefill-ripple-to-enhance-xrp-crypto-services-4a3d0863</id>
-        <link href="https://thedefiant.io/news/infrastructure/moonpay-partners-bitrefill-ripple-to-enhance-xrp-crypto-services-4a3d0863"/>
-        <updated>2024-10-16T17:42:39.000Z</updated>
-        <summary type="html"><![CDATA[MoonPay has announced two significant partnerships aimed at enhancing its cryptocurrency services]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
