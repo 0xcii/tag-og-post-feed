@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/education/premium-tutorials/tokemak-autopilot-earn-34-on-eth-with-the-first-automated-liquidity-router-for-lps",
+          "author": "The Defiant Team",
+          "description": "This week, we’re diving into a new DeFi innovation called Autopools, powered by Tokemak's Autopilot. These pools are designed to simplify liquidity provisions (LPs) by autonomously rebalancing your positions across multiple decentralized exchanges (DEXs) and assets, all while keeping you connected to DeFi.",
+          "link": "https://thedefiant.io/education/premium-tutorials/tokemak-autopilot-earn-34-on-eth-with-the-first-automated-liquidity-router-for-lps",
+          "publishedOn": "2024-10-27T16:04:45.000Z",
+          "wordCount": 2376,
+          "title": "Tokemak Autopilot: Earn 34% on ETH with the First Automated Liquidity Router for LPs",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/772d2b918ca7a8779426cc084faf62ec34ad6e42-1200x419.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/772d2b918ca7a8779426cc084faf62ec34ad6e42-1200x419.png"
+        },
+        {
+          "id": "https://thedefiant.io/education/premium-tutorials/introducing-turtle-club-boost-your-yields-with-collective-liquidity-power",
+          "author": "The Defiant Team",
+          "description": "In DeFi, much like in the retail world, collective power can unlock exclusive benefits. Just like members of a warehouse club such as Costco gain access to bulk pricing and special deals, Turtle Club members leverage their collective liquidity to negotiate better yield opportunities across DeFi protocols.",
+          "link": "https://thedefiant.io/education/premium-tutorials/introducing-turtle-club-boost-your-yields-with-collective-liquidity-power",
+          "publishedOn": "2024-10-27T16:04:45.000Z",
+          "wordCount": 2481,
+          "title": "Introducing Turtle Club: Boost Your Yields with Collective Liquidity Power",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d4b354d8d89bf4cfc1ed482062d3326502c36cce-1200x400.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d4b354d8d89bf4cfc1ed482062d3326502c36cce-1200x400.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/retail-demand-bitcoin-etfs-hits-six-month-high-80-retail-investors-amid-supply-edcd7fb3",
           "author": "DeepNewz",
           "description": "Retail demand for Bitcoin has surged to levels not seen since early April 2024, with spot Bitcoin ETF demand reaching a six-month high",
@@ -1242,7 +1272,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/fantom-ecosystem-activity-picks-up-ahead-of-sonic-labs-rebrand",
           "author": "Squiffs",
-          "description": "The Layer 1 network is enjoying a moderate resurgence as it prepares to rebrand.",
+          "description": "Fantom is mounting a comeback ahead of its Sonic rebrand.",
           "link": "https://thedefiant.io/news/blockchains/fantom-ecosystem-activity-picks-up-ahead-of-sonic-labs-rebrand",
           "publishedOn": "2024-10-18T07:04:00.000Z",
           "wordCount": 2245,
@@ -1493,36 +1523,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f0326261d16744819ab7fe4804711236e4074200-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/no-the-sec-did-not-miss-its-deadline-to-appeal-against-ripple-labs",
-          "author": "Samuel Haig",
-          "description": "Despite multiple media outlets reporting that the SEC already missed a crucial filing deadline, the agency has until Oct. 18 to submit all necessary documents.",
-          "link": "https://thedefiant.io/news/regulation/no-the-sec-did-not-miss-its-deadline-to-appeal-against-ripple-labs",
-          "publishedOn": "2024-10-17T09:46:00.000Z",
-          "wordCount": 2709,
-          "title": "No, The SEC Did Not Miss Its Deadline To Appeal Against Ripple Labs",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9a84f6665b7727b94b50f7005c6fcf63ace9b750-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9a84f6665b7727b94b50f7005c6fcf63ace9b750-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/goat-memecoin-soars-above-usd300-million-valuation",
-          "author": "Squiffs",
-          "description": "The token was endorsed by the “Sentient” AI bot, Terminal of Truths, and has led to an AI-adjacent memecoin frenzy.",
-          "link": "https://thedefiant.io/news/markets/goat-memecoin-soars-above-usd300-million-valuation",
-          "publishedOn": "2024-10-16T21:20:23.000Z",
-          "wordCount": 2271,
-          "title": "GOAT Memecoin Soars Above $300 Million Valuation",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/64aec2702ea39f0ce4a9ca323dbaf0ef4761b451-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/64aec2702ea39f0ce4a9ca323dbaf0ef4761b451-1555x875.png"
         }
       ]
     },
