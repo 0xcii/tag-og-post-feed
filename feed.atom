@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-27T16:18:56.252Z</id>
+    <id>urn:2024-10-27T17:14:02.240Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-27T16:18:56.252Z</updated>
+    <updated>2024-10-27T17:14:02.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -16,11 +16,42 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[eBTC: Ether.fi’s New Bitcoin LRT]]></title>
+        <id>https://thedefiant.io/education/premium-tutorials/ebtc-ether-fi-s-new-bitcoin-lrt</id>
+        <link href="https://thedefiant.io/education/premium-tutorials/ebtc-ether-fi-s-new-bitcoin-lrt"/>
+        <updated>2024-10-27T16:04:45.000Z</updated>
+        <summary type="html"><![CDATA[Known for its market-leading liquid restaking products, ether.fi just launched eBTC, an easy way for Bitcoin holders to onboard to the restaking ecosystems of Symbiotic, Karak, and soon EigenLayer.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introducing Turtle Club: Boost Your Yields with Collective Liquidity Power]]></title>
         <id>https://thedefiant.io/education/premium-tutorials/introducing-turtle-club-boost-your-yields-with-collective-liquidity-power</id>
         <link href="https://thedefiant.io/education/premium-tutorials/introducing-turtle-club-boost-your-yields-with-collective-liquidity-power"/>
         <updated>2024-10-27T16:04:45.000Z</updated>
         <summary type="html"><![CDATA[In DeFi, much like in the retail world, collective power can unlock exclusive benefits. Just like members of a warehouse club such as Costco gain access to bulk pricing and special deals, Turtle Club members leverage their collective liquidity to negotiate better yield opportunities across DeFi protocols.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Native Liquid Staking for AVAIL: Earn 21.5% APY with stAVAIL]]></title>
+        <id>https://thedefiant.io/education/premium-tutorials/native-liquid-staking-for-avail-earn-21-5-apy-with-stavail</id>
+        <link href="https://thedefiant.io/education/premium-tutorials/native-liquid-staking-for-avail-earn-21-5-apy-with-stavail"/>
+        <updated>2024-10-27T16:04:45.000Z</updated>
+        <summary type="html"><![CDATA[Avail, the Web3 infrastructure layer known for its flagship data availability (DA) solution, just launched Avail DA Mainnet and the AVAIL native token four weeks ago. Avail DA promises to be the first modular DA layer using validity proofs and data availability sampling.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Getting Started with Coinbase’s New cbBTC]]></title>
+        <id>https://thedefiant.io/education/premium-tutorials/a-guide-to-getting-started-with-coinbase-s-new-cbbtc</id>
+        <link href="https://thedefiant.io/education/premium-tutorials/a-guide-to-getting-started-with-coinbase-s-new-cbbtc"/>
+        <updated>2024-10-27T16:04:45.000Z</updated>
+        <summary type="html"><![CDATA[On September 12, 2024, Coinbase rolled out Coinbased Wrapped BTC (cbBTC), an ERC20 token backed 1:1 by BTC custodied by Coinbase. With cbBTC, Bitcoin holders can now leverage their BTC in DeFi apps across multiple blockchains without having to trade or sell.
+To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, with plans to expand to more chains, bringing even greater utility to Bitcoin to the DeFi world.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -840,7 +871,7 @@
         <id>https://thedefiant.io/news/blockchains/fantom-ecosystem-activity-picks-up-ahead-of-sonic-labs-rebrand</id>
         <link href="https://thedefiant.io/news/blockchains/fantom-ecosystem-activity-picks-up-ahead-of-sonic-labs-rebrand"/>
         <updated>2024-10-18T07:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Fantom is mounting a comeback ahead of its Sonic rebrand.]]></summary>
+        <summary type="html"><![CDATA[The Layer 1 network is enjoying a moderate resurgence as it prepares to rebrand.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -973,36 +1004,6 @@
         <summary type="html"><![CDATA[An Alabama man, 25-year-old Eric Council Jr from Athens, was arrested by the FBI for allegedly hacking the Securities and Exchange Commission's (SEC) X account on January 9, 2024]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Consolidate as Traders Await Next Catalyst]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-consolidate-as-traders-await-next-catalyst</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-consolidate-as-traders-await-next-catalyst"/>
-        <updated>2024-10-17T16:56:35.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin dipped 1%, while Ethereum is flat. In the past 24 hours, 48,319 traders were liquidated for a total of $124 million.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sui’s Mysten Labs Launches Walrus Data Storage Network On Testnet]]></title>
-        <id>https://thedefiant.io/news/infrastructure/sui-s-mysten-labs-launches-walrus-data-storage-network-on-testnet</id>
-        <link href="https://thedefiant.io/news/infrastructure/sui-s-mysten-labs-launches-walrus-data-storage-network-on-testnet"/>
-        <updated>2024-10-17T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Walrus aims to bolster the efficiency of data storage on Sui and other blockchain networks.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Company Can Claim 75% of World Liberty Financial Revenue]]></title>
-        <id>https://thedefiant.io/news/people/trump-company-can-claim-75-of-world-liberty-financial-revenue</id>
-        <link href="https://thedefiant.io/news/people/trump-company-can-claim-75-of-world-liberty-financial-revenue"/>
-        <updated>2024-10-17T11:55:00.000Z</updated>
-        <summary type="html"><![CDATA[A company affiliated with Trump has a right to claim three-quarters of the revenue generated by the WLFI token sale and the World Liberty Financial platform.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>
