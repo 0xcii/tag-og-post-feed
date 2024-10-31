@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/student-launches-solana-memecoin-from-samsung-fridge-in-mall",
+          "author": "yyctrader",
+          "description": "The FRIDGE token reached a $9 million market capitalization on Oct. 29 but has since plunged 80%.",
+          "link": "https://thedefiant.io/news/defi/student-launches-solana-memecoin-from-samsung-fridge-in-mall",
+          "publishedOn": "2024-10-31T17:10:42.000Z",
+          "wordCount": 2491,
+          "title": "Student Launches Solana Memecoin from Samsung Fridge in Mall",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dad4b324e37bd3423ab8146f692656744b4490e7-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dad4b324e37bd3423ab8146f692656744b4490e7-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tokens/zircuit-airdrops-zrc-to-190-000-eigen-holders",
           "author": "Samuel Haig",
           "description": "Airdrop recipients will receive the same number of ZRC, regardless of the value of their EIGEN holdings.",
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/94b1186d36e6f6f191f68e462bb1314608bba51e-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/human-like-typo-by-ai-millionaire-nukes-token",
-          "author": "Pedro Solimano",
-          "description": "Crypto Twitter started dumping their tokens after Truth Terminal made a typo.",
-          "link": "https://thedefiant.io/news/markets/human-like-typo-by-ai-millionaire-nukes-token",
-          "publishedOn": "2024-10-22T18:03:30.000Z",
-          "wordCount": 2517,
-          "title": "Human-like Typo By AI Millionaire Nukes Token",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3c1921646b4b8ca1d29262fcc9124ffbbbb0e975-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3c1921646b4b8ca1d29262fcc9124ffbbbb0e975-1555x875.png"
         }
       ]
     },

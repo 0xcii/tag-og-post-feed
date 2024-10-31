@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-31T16:20:32.950Z</id>
+    <id>urn:2024-10-31T17:17:13.853Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-31T16:20:32.950Z</updated>
+    <updated>2024-10-31T17:17:13.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Student Launches Solana Memecoin from Samsung Fridge in Mall]]></title>
+        <id>https://thedefiant.io/news/defi/student-launches-solana-memecoin-from-samsung-fridge-in-mall</id>
+        <link href="https://thedefiant.io/news/defi/student-launches-solana-memecoin-from-samsung-fridge-in-mall"/>
+        <updated>2024-10-31T17:10:42.000Z</updated>
+        <summary type="html"><![CDATA[The FRIDGE token reached a $9 million market capitalization on Oct. 29 but has since plunged 80%.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zircuit Airdrops ZRC To 190,000 EIGEN Holders]]></title>
         <id>https://thedefiant.io/news/tokens/zircuit-airdrops-zrc-to-190-000-eigen-holders</id>
@@ -1004,16 +1014,6 @@ To start, cbBTC will be live on both Ethereum Mainnet and the Base L2 network, w
         <summary type="html"><![CDATA[Uniswap Labs launched a testnet for Unichain on Oct. 11.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human-like Typo By AI Millionaire Nukes Token]]></title>
-        <id>https://thedefiant.io/news/markets/human-like-typo-by-ai-millionaire-nukes-token</id>
-        <link href="https://thedefiant.io/news/markets/human-like-typo-by-ai-millionaire-nukes-token"/>
-        <updated>2024-10-22T18:03:30.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Twitter started dumping their tokens after Truth Terminal made a typo.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
         </author>
     </entry>
     <entry>
