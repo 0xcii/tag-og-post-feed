@@ -55,6 +55,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/degens-hit-the-memecoin-trenches-to-gamble-on-election",
+          "author": "Squiffs",
+          "description": "Kamala Harris and Donald Trump memecoins are trading in tandem with Polymarket odds and general market sentiment.",
+          "link": "https://thedefiant.io/news/defi/degens-hit-the-memecoin-trenches-to-gamble-on-election",
+          "publishedOn": "2024-11-05T20:10:35.000Z",
+          "wordCount": 2286,
+          "title": "Degens Hit the Memecoin Trenches to Gamble on Election",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d544cceb810c1619d45383da7d58d48bdd7cc133-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d544cceb810c1619d45383da7d58d48bdd7cc133-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/paxos-launches-a-yield-bearing-stablecoin-with-support-from-industry-heave-weights",
+          "author": "Mehab Qureshi",
+          "description": "USDG is backed by Anchorage Digital, Bullish, Galaxy Digital, Kraken, Nuvei, Paxos and Robinhood.",
+          "link": "https://thedefiant.io/news/cefi/paxos-launches-a-yield-bearing-stablecoin-with-support-from-industry-heave-weights",
+          "publishedOn": "2024-11-05T19:11:44.000Z",
+          "wordCount": 2604,
+          "title": "Paxos Launches a Yield-Bearing Stablecoin With Support from Industry Heave-Weights",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/06776200775eb3994f8bc771f8b0046085f5159c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/06776200775eb3994f8bc771f8b0046085f5159c-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-rallies-above-usd70-000-on-election-day",
           "author": "Mehab Qureshi",
           "description": "Dogecoin soared 12%, the biggest gainer among the Top 100 digital assets.",
@@ -315,7 +345,7 @@
           "description": "The Ethereum and Solana-based casino had its hot wallets compromised through a withdrawal system.",
           "link": "https://thedefiant.io/news/defi/metawin-casino-exploited-for-usd4-million",
           "publishedOn": "2024-11-04T18:46:25.000Z",
-          "wordCount": 2220,
+          "wordCount": 2215,
           "title": "Metawin Casino Exploited for $4 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/edd159bf882f76acf3ad6929e9fbbf7fdd742f81-1555x875.png",
@@ -570,7 +600,7 @@
           "description": "The FRIDGE token reached a $9 million market capitalization on Oct. 29 but has since plunged 80%.",
           "link": "https://thedefiant.io/news/defi/student-launches-solana-memecoin-from-samsung-fridge-in-mall",
           "publishedOn": "2024-10-31T17:10:42.000Z",
-          "wordCount": 2515,
+          "wordCount": 2510,
           "title": "Student Launches Solana Memecoin from Samsung Fridge in Mall",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dad4b324e37bd3423ab8146f692656744b4490e7-1555x875.png",
@@ -690,7 +720,7 @@
           "description": "The U.S Treasury Bill-backed stablecoin is the first RWA synthetic stablecoin.",
           "link": "https://thedefiant.io/news/defi/solayer-launches-rwa-backed-stablecoin-susd",
           "publishedOn": "2024-10-30T19:36:55.000Z",
-          "wordCount": 2225,
+          "wordCount": 2220,
           "title": "Solayer Launches RWA-Backed Stablecoin, sUSD",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/03b13cd04d2ec49fc2150156c112d74c4d4f20b8-1555x875.png",
@@ -855,7 +885,7 @@
           "description": "The blockchain software company is behind major projects like Metamask, Infura, and the Linea Layer 2 network.",
           "link": "https://thedefiant.io/news/defi/consensys-lays-off-20-of-staff-citing-economic-challenges",
           "publishedOn": "2024-10-29T20:12:20.000Z",
-          "wordCount": 2299,
+          "wordCount": 2294,
           "title": "Consensys Lays Off 20% of Staff Citing Economic Challenges",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f6a959f09dbc55c2c3a0c3b325a228e99bea4ae2-1555x875.png",
@@ -1478,36 +1508,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/097b899276661ecc41ddaac25e90ead2d36960c1-1200x403.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-dominance-reaches-highest-level-since-2021",
-          "author": "Squiffs",
-          "description": "BTC dominance is approaching 60% as the altcoin market fails to outperform.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-dominance-reaches-highest-level-since-2021",
-          "publishedOn": "2024-10-26T05:20:58.000Z",
-          "wordCount": 2223,
-          "title": "Bitcoin Dominance Reaches Highest Level Since 2021",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dd82a765ce14bf2bc07ca4dd93273b815f3c4de2-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dd82a765ce14bf2bc07ca4dd93273b815f3c4de2-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/hacker-returns-usd19-million-stolen-from-u-s-government",
-          "author": "Pedro Solimano",
-          "description": "Roughly $700,000 of assets are still missing.",
-          "link": "https://thedefiant.io/news/defi/hacker-returns-usd19-million-stolen-from-u-s-government",
-          "publishedOn": "2024-10-25T18:40:26.000Z",
-          "wordCount": 2276,
-          "title": "Hacker Returns $19 Million Stolen from U.S. Government",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f0df1797be215e44cbd5d6f59dc1c9c6aa479eef-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f0df1797be215e44cbd5d6f59dc1c9c6aa479eef-1555x875.png"
         }
       ]
     },
