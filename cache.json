@@ -11,7 +11,7 @@
           "description": "The Wharton business school celebrates capitalism and American exceptionalism. Wide-eyed and bushy-tailed students from across the globe…",
           "link": "https://cryptohayes.medium.com/%E5%8A%A0%E6%B2%B9%E6%AF%94%E7%89%B9%E5%B8%81-lets-go-bitcoin-076f153fd502?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-28T23:02:17.000Z",
-          "wordCount": 13262,
+          "wordCount": 13281,
           "title": "加油比特币 Let’s Go Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*W6ok8Kw2Mwr0RD9h.jpeg"
         },
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/regulation/pro-crypto-candidates-dominate-2024-elections-as-trump-reclaims-presidency",
+          "author": "Mehab Qureshi",
+          "description": "247 pro-crypto candidates won seats in the House of Representatives.",
+          "link": "https://thedefiant.io/news/regulation/pro-crypto-candidates-dominate-2024-elections-as-trump-reclaims-presidency",
+          "publishedOn": "2024-11-06T18:03:39.000Z",
+          "wordCount": 2771,
+          "title": "Pro-Crypto Candidates Dominate 2024 Elections as Trump Reclaims Presidency",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dee70c874c0ae8bfd3cc44223d7733e1edf6606-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dee70c874c0ae8bfd3cc44223d7733e1edf6606-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/regulation/elizabeth-warren-defeats-pro-crypto-deaton-to-secure-third-senate-term",
           "author": "Mehab Qureshi",
@@ -1247,7 +1262,7 @@
         {
           "id": "https://thedefiant.io/news/markets/ai-memecoin-frenzy-cools-sparking-flight-to-quality",
           "author": "Squiffs",
-          "description": "$GOAT Token and AI Agent NFT’s are holding strong, while the other token’s plummet.",
+          "description": "After a euphoria-laden run in AI memecoins led by the launch of the GOAT token on October 11, a few assets are holding strong while the rest plunges.",
           "link": "https://thedefiant.io/news/markets/ai-memecoin-frenzy-cools-sparking-flight-to-quality",
           "publishedOn": "2024-10-28T18:36:30.000Z",
           "wordCount": 2283,
@@ -1488,21 +1503,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b2934e21138dcdfe916b027cbfa00454c87a5048-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ethereum-foundation-is-exploring-staking-its-eth",
-          "author": "Samuel Haig",
-          "description": "The Ethereum Foundation’s recent ETH sales have irked the project’s community.",
-          "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-is-exploring-staking-its-eth",
-          "publishedOn": "2024-10-28T09:57:00.000Z",
-          "wordCount": 2372,
-          "title": "Ethereum Foundation Is Exploring Staking Its ETH",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7cc01ae52cd23d82e0e6903577af69fab496a2ad-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7cc01ae52cd23d82e0e6903577af69fab496a2ad-1555x875.png"
         }
       ]
     },
