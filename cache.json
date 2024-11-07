@@ -11,7 +11,7 @@
           "description": "The Wharton business school celebrates capitalism and American exceptionalism. Wide-eyed and bushy-tailed students from across the globe…",
           "link": "https://cryptohayes.medium.com/%E5%8A%A0%E6%B2%B9%E6%AF%94%E7%89%B9%E5%B8%81-lets-go-bitcoin-076f153fd502?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-28T23:02:17.000Z",
-          "wordCount": 13281,
+          "wordCount": 13262,
           "title": "加油比特币 Let’s Go Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*W6ok8Kw2Mwr0RD9h.jpeg"
         },
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/blockchains/eclipse-launches-public-mainnet",
+          "author": "Squiffs",
+          "description": "The project brings Solana technology to Ethereum, launching as Ethereum’s first SVM Layer 2 network.",
+          "link": "https://thedefiant.io/news/blockchains/eclipse-launches-public-mainnet",
+          "publishedOn": "2024-11-07T19:08:17.000Z",
+          "wordCount": 2226,
+          "title": "Eclipse Launches Public Mainnet",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/00fc7d195fc480e8a50ef2407efd825a25a6c7df-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/00fc7d195fc480e8a50ef2407efd825a25a6c7df-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-soars-above-usd76-000-ahead-of-fed-decision",
           "author": "Mehab Qureshi",
@@ -320,7 +335,7 @@
           "description": "Bitcoin mining difficulty has reached an all-time high, surpassing 100 trillion for the first time, as reported by Bitcoin Magazine and CoinDesk",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-hits-record-high-surpasses-100-trillion-amid-73700-95cb0685",
           "publishedOn": "2024-11-05T20:24:05.000Z",
-          "wordCount": 2163,
+          "wordCount": 2156,
           "title": "Bitcoin Mining Difficulty Hits Record High, Surpasses 100 Trillion Amid $73,700 Peak",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/88e306c509d37321228813a74107bc585dd4d5a7-750x709.jpg",
@@ -1235,7 +1250,7 @@
           "description": "The Optimism Foundation has agreed to provide grants totaling 25 million OP tokens",
           "link": "https://thedefiant.io/news/blockchains/optimism-foundation-grants-25m-op-tokens-worth-42-5m-to-kraken-op-stack-layer-2-07e66fb9",
           "publishedOn": "2024-10-29T17:04:13.000Z",
-          "wordCount": 2154,
+          "wordCount": 2147,
           "title": "Optimism Foundation Grants 25M OP Tokens Worth $42.5M to Kraken for OP Stack Layer-2 Network",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9696418fd150ad98ae53b927997caa9f03b358f1-1199x1200.jpg",
@@ -1340,7 +1355,7 @@
           "description": "The Stacks blockchain is set to undergo a significant upgrade known as the Nakamoto Upgrade, which will enhance transaction speeds from ten minutes to ten seconds",
           "link": "https://thedefiant.io/news/blockchains/stacks-nakamoto-upgrade-enhances-bitcoin-transactions-to-10-seconds-enabling-100-5321290a",
           "publishedOn": "2024-10-28T19:49:34.000Z",
-          "wordCount": 2255,
+          "wordCount": 2248,
           "title": "Stacks' Nakamoto Upgrade Enhances Bitcoin Transactions to 10 Seconds, Enabling Trade Runes and 100 AI Agent Teams",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f59056be5688d5d4557aa2984c103b8ddbfb399f-1200x1200.jpg",
@@ -1493,16 +1508,6 @@
           "wordCount": 2133,
           "title": "Solana's Phantom Wallet Faces Major Downtime During GRASS Airdrop",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/gelato-raises-11-million-total-funding-reaches-23-million-rollups-service-kraken-3709b666",
-          "author": "DeepNewz",
-          "description": "Gelato, a rollup development platform specializing in smart-contract automation, has successfully raised $11 million in its latest funding round",
-          "link": "https://thedefiant.io/news/infrastructure/gelato-raises-11-million-total-funding-reaches-23-million-rollups-service-kraken-3709b666",
-          "publishedOn": "2024-10-28T15:54:57.000Z",
-          "wordCount": 2166,
-          "title": "Gelato Raises $11 Million, Total Funding Reaches $23 Million for Rollups as a Service with Kraken's Ink",
-          "imageUrl": null
         }
       ]
     },
@@ -1517,7 +1522,7 @@
           "description": "It started with a tweet;",
           "link": "https://andrecronje.medium.com/to-appchain-or-not-to-appchain-9332ccfa2ba9?source=rss-34f4446c6ba1------2",
           "publishedOn": "2024-10-15T00:25:45.000Z",
-          "wordCount": 2959,
+          "wordCount": 2978,
           "title": "To appchain or not to appchain",
           "imageUrl": null
         }
