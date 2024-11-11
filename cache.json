@@ -11,7 +11,7 @@
           "description": "The Wharton business school celebrates capitalism and American exceptionalism. Wide-eyed and bushy-tailed students from across the globe…",
           "link": "https://cryptohayes.medium.com/%E5%8A%A0%E6%B2%B9%E6%AF%94%E7%89%B9%E5%B8%81-lets-go-bitcoin-076f153fd502?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-28T23:02:17.000Z",
-          "wordCount": 13281,
+          "wordCount": 13262,
           "title": "加油比特币 Let’s Go Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*W6ok8Kw2Mwr0RD9h.jpeg"
         },
@@ -21,7 +21,7 @@
           "description": "I spent the first two weeks of October skiing on the South Island of New Zealand. My guide, with whom I spent all of last season in…",
           "link": "https://cryptohayes.medium.com/persistent-weak-layer-2ae5aab407ee?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-15T23:02:18.000Z",
-          "wordCount": 5873,
+          "wordCount": 5892,
           "title": "Persistent Weak Layer",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*hSQ_wXphKWIuG8Kd"
         }
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/defi/avara-launches-non-custodial-ethereum-wallet",
+          "author": "Samuel Haig",
+          "description": "Avara's wallet, Family, supports several features catering to advanced DeFi users.",
+          "link": "https://thedefiant.io/news/defi/avara-launches-non-custodial-ethereum-wallet",
+          "publishedOn": "2024-11-11T13:00:00.000Z",
+          "wordCount": 2438,
+          "title": "Avara Launches Non-Custodial Ethereum Wallet",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4ae218d4e4093fe2c67de37f1ecf74ca8afb554a-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4ae218d4e4093fe2c67de37f1ecf74ca8afb554a-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/regulation/a16z-predicts-bright-future-for-crypto-under-trump",
           "author": "Mehab Qureshi",
@@ -1272,7 +1287,7 @@
         {
           "id": "https://thedefiant.io/news/people/binance-co-founder-cz-returns-to-spotlight-after-prison-release",
           "author": "Mehab Qureshi",
-          "description": "In his first appearance after serving time in jail, former Binance chief executive officer (CEO) Changpeng Zhao, widely known as \"CZ,\" said he still owns shares in the cryptocurrency exchange but cannot make decisions.",
+          "description": "Zhao was sentenced after he pleaded guilty to violating the Bank Secrecy Act (BSA).",
           "link": "https://thedefiant.io/news/people/binance-co-founder-cz-returns-to-spotlight-after-prison-release",
           "publishedOn": "2024-10-31T16:58:09.000Z",
           "wordCount": 2625,
@@ -1493,21 +1508,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0e9ba4d63084072589536fa75793d38f739bf35a-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/coinbase-integrates-support-for-visa-direct",
-          "author": "Mehab Qureshi",
-          "description": "The news comes as Coinbase is looking to reclaim USD market share from Crypto.com.",
-          "link": "https://thedefiant.io/news/cefi/coinbase-integrates-support-for-visa-direct",
-          "publishedOn": "2024-10-30T10:40:00.000Z",
-          "wordCount": 2388,
-          "title": "Coinbase Integrates Support For Visa Direct",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/64f23b6e1e78fc52b705a3f463048d17733a12b7-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/64f23b6e1e78fc52b705a3f463048d17733a12b7-1555x875.png"
         }
       ]
     },
