@@ -21,7 +21,7 @@
           "description": "The Wharton business school celebrates capitalism and American exceptionalism. Wide-eyed and bushy-tailed students from across the globe…",
           "link": "https://cryptohayes.medium.com/%E5%8A%A0%E6%B2%B9%E6%AF%94%E7%89%B9%E5%B8%81-lets-go-bitcoin-076f153fd502?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-28T23:02:17.000Z",
-          "wordCount": 13281,
+          "wordCount": 13262,
           "title": "加油比特币 Let’s Go Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*W6ok8Kw2Mwr0RD9h.jpeg"
         },
@@ -31,7 +31,7 @@
           "description": "I spent the first two weeks of October skiing on the South Island of New Zealand. My guide, with whom I spent all of last season in…",
           "link": "https://cryptohayes.medium.com/persistent-weak-layer-2ae5aab407ee?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-15T23:02:18.000Z",
-          "wordCount": 5892,
+          "wordCount": 5873,
           "title": "Persistent Weak Layer",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*hSQ_wXphKWIuG8Kd"
         }
@@ -54,6 +54,36 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/markets/1-billion-leveraged-crypto-positions-liquidated-bitcoin-hits-89000-709-million-d3fe519a",
+          "author": "DeepNewz",
+          "description": "On November 12, 2024, over $1 billion in leveraged cryptocurrency positions were liquidated as Bitcoin reached a record high of $89,000",
+          "link": "https://thedefiant.io/news/markets/1-billion-leveraged-crypto-positions-liquidated-bitcoin-hits-89000-709-million-d3fe519a",
+          "publishedOn": "2024-11-12T17:44:16.000Z",
+          "wordCount": 2148,
+          "title": "$1 Billion in Leveraged Crypto Positions Liquidated as Bitcoin Hits $89,000; $709 Million Liquidated at $81,000",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7312fd1834a0f6921332a92589e98a18c8c6d07a-1024x576.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7312fd1834a0f6921332a92589e98a18c8c6d07a-1024x576.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/trump-s-victory-propels-bitcoin-to-90k-record-highs-crypto-market-cap-hits-3-0b9e112f",
+          "author": "DeepNewz",
+          "description": "Following Donald Trump's recent U.S. presidential election victory, Bitcoin has surged to new record highs, reaching $90,000.",
+          "link": "https://thedefiant.io/news/markets/trump-s-victory-propels-bitcoin-to-90k-record-highs-crypto-market-cap-hits-3-0b9e112f",
+          "publishedOn": "2024-11-12T17:44:10.000Z",
+          "wordCount": 2176,
+          "title": "Trump's Victory Propels Bitcoin to $90k Record Highs, Crypto Market Cap Hits $3 Trillion",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5bdabb10395f8fba9d4ffe98f56bc8e4091306f1-1200x706.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5bdabb10395f8fba9d4ffe98f56bc8e4091306f1-1200x706.jpg"
+        },
         {
           "id": "https://thedefiant.io/news/defi/pendle-announces-leveraged-yield-tokenization-platform",
           "author": "Samuel Haig",
@@ -1252,7 +1282,7 @@
         {
           "id": "https://thedefiant.io/news/defi/monthly-polymarket-volume-soars-to-usd2-28-billion-as-election-looms",
           "author": "Samuel Haig",
-          "description": "An uptick in non-election betting suggests Polymarket may still enjoy significant adoption after the election.",
+          "description": "October's volume on Polymarket beat out combined activity on the platform throughout the rest of 2024 by 353%.",
           "link": "https://thedefiant.io/news/defi/monthly-polymarket-volume-soars-to-usd2-28-billion-as-election-looms",
           "publishedOn": "2024-11-01T11:50:00.000Z",
           "wordCount": 2352,
@@ -1503,36 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8085fa3c73be428cc55f58bc5eb301d1e0ea9bb-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/solayer-launches-rwa-backed-stablecoin-susd",
-          "author": "Squiffs",
-          "description": "The U.S Treasury Bill-backed stablecoin is the first RWA synthetic stablecoin.",
-          "link": "https://thedefiant.io/news/defi/solayer-launches-rwa-backed-stablecoin-susd",
-          "publishedOn": "2024-10-30T19:36:55.000Z",
-          "wordCount": 2187,
-          "title": "Solayer Launches RWA-Backed Stablecoin, sUSD",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/03b13cd04d2ec49fc2150156c112d74c4d4f20b8-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/03b13cd04d2ec49fc2150156c112d74c4d4f20b8-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/microsoft-shareholders-begin-voting-on-3-trillion-bitcoin-investment-despite-f43451c1",
-          "author": "DeepNewz",
-          "description": "Microsoft shareholders have begun voting on whether the company should invest in Bitcoin for its $3 trillion corporate treasury",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/microsoft-shareholders-begin-voting-on-3-trillion-bitcoin-investment-despite-f43451c1",
-          "publishedOn": "2024-10-30T19:00:04.000Z",
-          "wordCount": 2154,
-          "title": "Microsoft Shareholders Begin Voting on $3 Trillion Bitcoin Investment Despite Opposition",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ea97789c0e557f86c410e67ade75907a471b9448-1200x686.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ea97789c0e557f86c410e67ade75907a471b9448-1200x686.jpg"
         }
       ]
     },
