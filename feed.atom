@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-12T18:21:18.531Z</id>
+    <id>urn:2024-11-12T19:12:08.469Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-12T18:21:18.531Z</updated>
+    <updated>2024-11-12T19:12:08.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Consolidates after Approaching $90,000]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-consolidates-after-approaching-usd90-000</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-consolidates-after-approaching-usd90-000"/>
+        <updated>2024-11-12T18:10:17.000Z</updated>
+        <summary type="html"><![CDATA[Asset manager Bernstein says, "Welcome to the crypto bull market — buy everything you can."]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDC Supply Grows $1.93B (5.5%) as Stablecoin Market Hits $176B, Enhancing U.S. Dollar Dominance]]></title>
+        <id>https://thedefiant.io/news/defi/usdc-supply-grows-1-93b-5-5-stablecoin-market-hits-176b-enhancing-u-s-dollar-45b11146</id>
+        <link href="https://thedefiant.io/news/defi/usdc-supply-grows-1-93b-5-5-stablecoin-market-hits-176b-enhancing-u-s-dollar-45b11146"/>
+        <updated>2024-11-12T17:45:02.000Z</updated>
+        <summary type="html"><![CDATA[The stablecoin market has experienced significant growth, particularly in the wake of the recent elections]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitwise to Launch World's First Aptos Staking ETP (APTB) on Swiss Exchange on November 19, 2024]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/bitwise-to-launch-world-s-first-aptos-staking-etp-aptb-on-swiss-exchange-on-19-a3ee5689</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/bitwise-to-launch-world-s-first-aptos-staking-etp-aptb-on-swiss-exchange-on-19-a3ee5689"/>
+        <updated>2024-11-12T17:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Bitwise Asset Management has announced the upcoming launch of the world's first Aptos Staking ETP]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[$1 Billion in Leveraged Crypto Positions Liquidated as Bitcoin Hits $89,000; $709 Million Liquidated at $81,000]]></title>
         <id>https://thedefiant.io/news/markets/1-billion-leveraged-crypto-positions-liquidated-bitcoin-hits-89000-709-million-d3fe519a</id>
@@ -850,7 +880,7 @@
         <id>https://thedefiant.io/news/defi/monthly-polymarket-volume-soars-to-usd2-28-billion-as-election-looms</id>
         <link href="https://thedefiant.io/news/defi/monthly-polymarket-volume-soars-to-usd2-28-billion-as-election-looms"/>
         <updated>2024-11-01T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[October's volume on Polymarket beat out combined activity on the platform throughout the rest of 2024 by 353%.]]></summary>
+        <summary type="html"><![CDATA[An uptick in non-election betting suggests Polymarket may still enjoy significant adoption after the election.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -983,36 +1013,6 @@
         <summary type="html"><![CDATA[Anyone can now propose or challenge Base state roots for mainnet validation.]]></summary>
         <author>
             <name>Samuel Haig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memecoin Speculators Push ZachXBT’s Free NFTs to $12 Million Market Cap]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/memecoin-speculators-push-zachxbt-s-free-nfts-to-usd12-million-market-cap</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/memecoin-speculators-push-zachxbt-s-free-nfts-to-usd12-million-market-cap"/>
-        <updated>2024-10-31T09:24:33.000Z</updated>
-        <summary type="html"><![CDATA[The commemorative ‘Investigations’ NFT is interchangeable with an ERC20 token tradeable on Uniswap, using Zora’s onchain secondary market feature.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Announces $1 Billion Share Buyback and Q3 Earnings]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-announces-usd1-billion-share-buyback-and-q3-earnings</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-announces-usd1-billion-share-buyback-and-q3-earnings"/>
-        <updated>2024-10-31T08:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase’s Q3 revenue rose 81% year-over-year to $1.13 billion but missed the $1.26 billion forecast by analysts.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondo Finance Partners with Trillion Dollar Wellington Management]]></title>
-        <id>https://thedefiant.io/news/defi/ondo-finance-partners-with-trillion-dollar-wellington-management</id>
-        <link href="https://thedefiant.io/news/defi/ondo-finance-partners-with-trillion-dollar-wellington-management"/>
-        <updated>2024-10-31T00:48:18.000Z</updated>
-        <summary type="html"><![CDATA[The asset management group will be launching the Delta Wellington Ultra Short Treasury On-Chain Fund with Ondo.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
