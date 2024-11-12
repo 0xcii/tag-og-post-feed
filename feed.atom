@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-12T14:15:27.101Z</id>
+    <id>urn:2024-11-12T15:17:22.903Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-12T14:15:27.101Z</updated>
+    <updated>2024-11-12T15:17:22.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pendle Announces Leveraged Yield Tokenization Platform]]></title>
+        <id>https://thedefiant.io/news/defi/pendle-announces-leveraged-yield-tokenization-platform</id>
+        <link href="https://thedefiant.io/news/defi/pendle-announces-leveraged-yield-tokenization-platform"/>
+        <updated>2024-11-12T15:16:00.000Z</updated>
+        <summary type="html"><![CDATA[The new protocol, Boros, will first facilitate funding rate tokenization.]]></summary>
+        <author>
+            <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Considers Pro-Crypto Officials To Head SEC]]></title>
+        <id>https://thedefiant.io/news/regulation/trump-considers-pro-crypto-officials-to-head-sec</id>
+        <link href="https://thedefiant.io/news/regulation/trump-considers-pro-crypto-officials-to-head-sec"/>
+        <updated>2024-11-12T14:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Trump’s team is reportedly looking to fill key roles at the CFTC, FDIC, and OCC as well.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Justin Drake Proposes Beam Chain Overhaul For Ethereum]]></title>
         <id>https://thedefiant.io/news/blockchains/justin-drake-proposes-beam-chain-overhaul-for-ethereum</id>
@@ -991,26 +1011,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/microsoft-shareholders-begin-voting-on-3-trillion-bitcoin-investment-despite-f43451c1"/>
         <updated>2024-10-30T19:00:04.000Z</updated>
         <summary type="html"><![CDATA[Microsoft shareholders have begun voting on whether the company should invest in Bitcoin for its $3 trillion corporate treasury]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysts Find One-Third of Polymarket's Presidential Market Volume Tied to Wash Trading]]></title>
-        <id>https://thedefiant.io/news/regulation/analysts-find-one-third-polymarket-s-presidential-market-volume-tied-to-wash-b2b65478</id>
-        <link href="https://thedefiant.io/news/regulation/analysts-find-one-third-polymarket-s-presidential-market-volume-tied-to-wash-b2b65478"/>
-        <updated>2024-10-30T18:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Analysts from Chaos Labs and Inca Digital have uncovered evidence of rampant wash trading on Polymarket, a leading electoral betting site]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwise CIO Matt Hougan Predicts Bitcoin Will Surpass $100,000, Foresees New All-Time Highs in 2025]]></title>
-        <id>https://thedefiant.io/news/markets/bitwise-cio-matt-hougan-predicts-bitcoin-surpass-100000-foresees-new-all-time-4ec62d47</id>
-        <link href="https://thedefiant.io/news/markets/bitwise-cio-matt-hougan-predicts-bitcoin-surpass-100000-foresees-new-all-time-4ec62d47"/>
-        <updated>2024-10-30T18:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Matt Hougan, Chief Investment Officer at Bitwise Asset Management, expressed optimism regarding Bitcoin's future, predicting the cryptocurrency will surpass $100,000]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
