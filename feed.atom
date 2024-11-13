@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-13T11:13:51.302Z</id>
+    <id>urn:2024-11-13T12:32:13.478Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-13T11:13:51.302Z</updated>
+    <updated>2024-11-13T12:32:13.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unichain Halted After Early Developer Access Gets Leaked]]></title>
+        <id>https://thedefiant.io/news/blockchains/unichain-halted-after-early-developer-access-gets-leaked</id>
+        <link href="https://thedefiant.io/news/blockchains/unichain-halted-after-early-developer-access-gets-leaked"/>
+        <updated>2024-11-13T11:40:49.000Z</updated>
+        <summary type="html"><![CDATA[The team claims early access was leaked, while others accuse the team of making a mistake.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Consenys' Linea Targets Token Launch by Q2 2025]]></title>
         <id>https://thedefiant.io/news/tokens/consenys-linea-targets-token-launch-by-q2-2025</id>
@@ -1006,16 +1016,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Market Volatility Triggers $190M in Liquidations]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-market-volatility-triggers-usd190m-in-liquidations</id>
-        <link href="https://thedefiant.io/news/markets/crypto-market-volatility-triggers-usd190m-in-liquidations"/>
-        <updated>2024-11-01T18:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin dipped to $69,000 on Friday.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[加油比特币 Let’s Go Bitcoin]]></title>
         <id>https://medium.com/p/076f153fd502</id>
         <link href="https://cryptohayes.medium.com/%E5%8A%A0%E6%B2%B9%E6%AF%94%E7%89%B9%E5%B8%81-lets-go-bitcoin-076f153fd502?source=rss-2f6e06954878------2"/>
@@ -1033,16 +1033,6 @@
         <summary type="html"><![CDATA[I spent the first two weeks of October skiing on the South Island of New Zealand. My guide, with whom I spent all of last season in…]]></summary>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To appchain or not to appchain]]></title>
-        <id>https://medium.com/p/9332ccfa2ba9</id>
-        <link href="https://andrecronje.medium.com/to-appchain-or-not-to-appchain-9332ccfa2ba9?source=rss-34f4446c6ba1------2"/>
-        <updated>2024-10-15T00:25:45.000Z</updated>
-        <summary type="html"><![CDATA[It started with a tweet;]]></summary>
-        <author>
-            <name>Andre Cronje</name>
         </author>
     </entry>
 </feed>
