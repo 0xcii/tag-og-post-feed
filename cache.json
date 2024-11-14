@@ -31,7 +31,7 @@
           "description": "I spent the first two weeks of October skiing on the South Island of New Zealand. My guide, with whom I spent all of last season in…",
           "link": "https://cryptohayes.medium.com/persistent-weak-layer-2ae5aab407ee?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-15T23:02:18.000Z",
-          "wordCount": 5892,
+          "wordCount": 5873,
           "title": "Persistent Weak Layer",
           "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*hSQ_wXphKWIuG8Kd"
         }
@@ -54,6 +54,96 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/markets/memecoins-fly-as-coinbase-lists-pepe-and-wif",
+          "author": "Squiffs",
+          "description": "After months of demand, Coinbase is in the process of listing both PEPE and WIF, expanding its memecoin offerings.",
+          "link": "https://thedefiant.io/news/markets/memecoins-fly-as-coinbase-lists-pepe-and-wif",
+          "publishedOn": "2024-11-14T01:15:15.000Z",
+          "wordCount": 2184,
+          "title": "Memecoins Fly as Coinbase Lists PEPE and WIF",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f29313847c4045f13387c194f2053f86cd765780-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f29313847c4045f13387c194f2053f86cd765780-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/coinbase-acquires-utopia-labs-to-enhance-stablecoin-payments-on-base-layer-2-83b3a49e",
+          "author": "DeepNewz",
+          "description": "Coinbase has acquired Utopia Labs, a stablecoin payment processor, in a strategic move to enhance its on-chain payments capabilities",
+          "link": "https://thedefiant.io/news/cefi/coinbase-acquires-utopia-labs-to-enhance-stablecoin-payments-on-base-layer-2-83b3a49e",
+          "publishedOn": "2024-11-14T00:00:29.000Z",
+          "wordCount": 2139,
+          "title": "Coinbase Acquires Utopia Labs to Enhance Stablecoin Payments on Base Layer 2",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/09ece5e09b0c019e5bebf9ac316e8a02b1837e80-1200x686.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/09ece5e09b0c019e5bebf9ac316e8a02b1837e80-1200x686.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/elon-musk-calls-dogecoin-s-flat-inflation-feature-bug-doge-inflation-decreases-231a01fa",
+          "author": "DeepNewz",
+          "description": "Elon Musk, the Chief DOGE Officer, has publicly stated that he believes Dogecoin's flat inflation rate, which results in a decreasing percentage of inflation, is a feature rather than a flaw",
+          "link": "https://thedefiant.io/news/people/elon-musk-calls-dogecoin-s-flat-inflation-feature-bug-doge-inflation-decreases-231a01fa",
+          "publishedOn": "2024-11-13T23:15:34.000Z",
+          "wordCount": 2180,
+          "title": "Elon Musk Calls Dogecoin's Flat Inflation a Feature, Not a Bug; $DOGE Inflation Decreases",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a6fbd38adab3e74a8cf895bb06492d8054186b75-962x1200.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a6fbd38adab3e74a8cf895bb06492d8054186b75-962x1200.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-nears-100000-76-odds-before-christmas-1de97ae3",
+          "author": "DeepNewz",
+          "description": "Bitcoin has surged to new all-time highs, reaching $93,000, with market sentiment increasingly bullish on the cryptocurrency reaching $100,000 before the end of 2024",
+          "link": "https://thedefiant.io/news/markets/bitcoin-nears-100000-76-odds-before-christmas-1de97ae3",
+          "publishedOn": "2024-11-13T22:45:39.000Z",
+          "wordCount": 2134,
+          "title": "Bitcoin Nears $100,000 with 76% Odds Before Christmas",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5021f5640e4ac02eeeb71aa833f9949137dd5bc5-1198x698.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5021f5640e4ac02eeeb71aa833f9949137dd5bc5-1198x698.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/mike-novogratz-bitcoin-hit-500000-strategic-reserve-established-despite-low-c0006638",
+          "author": "DeepNewz",
+          "description": "Mike Novogratz has stated that Bitcoin could reach $500,000 if a strategic reserve is established",
+          "link": "https://thedefiant.io/news/people/mike-novogratz-bitcoin-hit-500000-strategic-reserve-established-despite-low-c0006638",
+          "publishedOn": "2024-11-13T22:31:01.000Z",
+          "wordCount": 2097,
+          "title": "Mike Novogratz: Bitcoin Could Hit $500,000 If Strategic Reserve Established Despite Low Probability",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/16dfd0ea21a1fd90cf7f40f71966346c85c49945-874x483.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/16dfd0ea21a1fd90cf7f40f71966346c85c49945-874x483.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-surpasses-saudi-aramco-now-worth-over-1-8-trillion-585bdb53",
+          "author": "DeepNewz",
+          "description": "Bitcoin has surpassed Saudi Aramco to become the 7th most valuable asset in the world by market cap",
+          "link": "https://thedefiant.io/news/markets/bitcoin-surpasses-saudi-aramco-now-worth-over-1-8-trillion-585bdb53",
+          "publishedOn": "2024-11-13T21:44:07.000Z",
+          "wordCount": 2095,
+          "title": "Bitcoin Surpasses Saudi Aramco, Now Worth Over $1.8 Trillion",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1bc6fa7e5c54709de575762785c32ca3c8a92920-882x514.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1bc6fa7e5c54709de575762785c32ca3c8a92920-882x514.png"
+        },
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-tops-usd93-000-as-etfs-attract-nearly-usd2-billion-in-two-days",
           "author": "yyctrader",
@@ -1458,86 +1548,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/92f85811ea22449d22b1a2c0df3f30395b748aeb-1200x769.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/magic-eden-launches-full-mempool-protection-ending-sniping-ordinals-runes-coming-e247cb18",
-          "author": "DeepNewz",
-          "description": "Magic Eden has announced the launch of full mempool protection, effectively ending the practice of sniping for Ordinals",
-          "link": "https://thedefiant.io/news/nfts-and-web3/magic-eden-launches-full-mempool-protection-ending-sniping-ordinals-runes-coming-e247cb18",
-          "publishedOn": "2024-11-04T20:18:48.000Z",
-          "wordCount": null,
-          "title": "Magic Eden Launches Full Mempool Protection, Ending Sniping for Ordinals; Runes Protection Coming Soon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/cartwright-leads-first-uk-pension-scheme-to-invest-bitcoin-largest-3-allocation-a69efa3f",
-          "author": "DeepNewz",
-          "description": "Cartwright, a British pension specialist, has announced a groundbreaking decision to allocate 3% of a UK pension scheme's portfolio to Bitcoin",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/cartwright-leads-first-uk-pension-scheme-to-invest-bitcoin-largest-3-allocation-a69efa3f",
-          "publishedOn": "2024-11-04T20:18:40.000Z",
-          "wordCount": 2198,
-          "title": "Cartwright Leads First UK Pension Scheme to Invest in Bitcoin with Largest 3% Allocation",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/10dbf5aa5d785e28d89395335885cb506e1e6331-1080x1080.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/10dbf5aa5d785e28d89395335885cb506e1e6331-1080x1080.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/bitcoin-policy-institute-recommends-u-s-strategic-bitcoin-reserve-to-counter-df17aa03",
-          "author": "DeepNewz",
-          "description": "The Bitcoin Policy Institute has released a 44-page paper recommending the United States develop a Strategic Bitcoin Reserve (SBR)",
-          "link": "https://thedefiant.io/news/regulation/bitcoin-policy-institute-recommends-u-s-strategic-bitcoin-reserve-to-counter-df17aa03",
-          "publishedOn": "2024-11-04T20:18:25.000Z",
-          "wordCount": 2130,
-          "title": "Bitcoin Policy Institute Recommends U.S. Strategic Bitcoin Reserve to Counter China, Worth Billions",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8a508ef558df4814f04fb981d45cc049c32b2f76-1024x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8a508ef558df4814f04fb981d45cc049c32b2f76-1024x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/people/elon-musk-becomes-key-trump-donor-dogecoin-rally-speculated-trump-wins-election-8c446520",
-          "author": "DeepNewz",
-          "description": "Elon Musk has emerged as one of Donald Trump's top campaign donors, a development that could have significant implications",
-          "link": "https://thedefiant.io/news/people/elon-musk-becomes-key-trump-donor-dogecoin-rally-speculated-trump-wins-election-8c446520",
-          "publishedOn": "2024-11-04T20:18:12.000Z",
-          "wordCount": null,
-          "title": "Elon Musk Becomes Key Trump Donor, Dogecoin Rally Speculated if Trump Wins Election Day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/celo-offers-cusd-payments-euler-distributes-3660-reul-tokens-new-reward-programs-df52f976",
-          "author": "DeepNewz",
-          "description": "Celo and Euler are launching new reward initiatives to incentivize participation within their ecosystems",
-          "link": "https://thedefiant.io/news/defi/celo-offers-cusd-payments-euler-distributes-3660-reul-tokens-new-reward-programs-df52f976",
-          "publishedOn": "2024-11-04T20:18:03.000Z",
-          "wordCount": 2184,
-          "title": "Celo Offers cUSD Payments and Euler Distributes 3,660 rEUL Tokens in New Reward Programs",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/908a4bdc29ee25890efc6f70be3df77f95ab4fde-1200x675.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/908a4bdc29ee25890efc6f70be3df77f95ab4fde-1200x675.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/polymarket-s-us-election-prediction-market-surpasses-3-2-billion-volume-day-cdc0677e",
-          "author": "DeepNewz",
-          "description": "The prediction market for the 2024 US Presidential Election on Polymarket has surpassed $3 billion in volume",
-          "link": "https://thedefiant.io/news/regulation/polymarket-s-us-election-prediction-market-surpasses-3-2-billion-volume-day-cdc0677e",
-          "publishedOn": "2024-11-04T20:17:58.000Z",
-          "wordCount": 2164,
-          "title": "Polymarket's US Election Prediction Market Surpasses $3.2 Billion in Volume a Day Before Election",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3532102c0950d8c9b73de2e37229519b0c22fc3e-1128x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3532102c0950d8c9b73de2e37229519b0c22fc3e-1128x1200.jpg"
         }
       ]
     },
