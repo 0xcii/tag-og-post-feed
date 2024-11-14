@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-14T06:23:27.089Z</id>
+    <id>urn:2024-11-14T07:15:42.397Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-14T06:23:27.089Z</updated>
+    <updated>2024-11-14T07:15:42.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blackrock Launches BUIDL on Five New Blockchains]]></title>
+        <id>https://thedefiant.io/news/defi/blackrock-launches-buidl-on-five-new-blockchains</id>
+        <link href="https://thedefiant.io/news/defi/blackrock-launches-buidl-on-five-new-blockchains"/>
+        <updated>2024-11-14T07:08:50.000Z</updated>
+        <summary type="html"><![CDATA[The largest tokenized Treasury fund is now offering shares on Aptos, Arbitrum Avalanche, Optimism, and Polygon.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memecoins Fly as Coinbase Lists PEPE and WIF]]></title>
         <id>https://thedefiant.io/news/markets/memecoins-fly-as-coinbase-lists-pepe-and-wif</id>
@@ -1001,16 +1011,6 @@
         <link href="https://thedefiant.io/news/nfts-and-web3/rektguy-nft-project-achieves-one-largest-product-sales-222000-rekt-drinks-sold-f9b67cf7"/>
         <updated>2024-11-04T20:19:22.000Z</updated>
         <summary type="html"><![CDATA[Rektguy, a prominent NFT project, achieved a significant milestone last week by selling 222,000 cans of 'Rekt Drinks' within 48 hours]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH/BTC Hits New Year-to-Date Low and 3.5-Year Low, Lowest Since April 2021]]></title>
-        <id>https://thedefiant.io/news/markets/eth-btc-hits-new-year-to-date-low-3-5-year-low-lowest-since-april-2021-952a8125</id>
-        <link href="https://thedefiant.io/news/markets/eth-btc-hits-new-year-to-date-low-3-5-year-low-lowest-since-april-2021-952a8125"/>
-        <updated>2024-11-04T20:19:00.000Z</updated>
-        <summary type="html"><![CDATA[The cryptocurrency market is experiencing significant declines, with the ETH/BTC trading pair reaching a new year-to-date low]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>

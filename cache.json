@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/blackrock-launches-buidl-on-five-new-blockchains",
+          "author": "Squiffs",
+          "description": "The largest tokenized Treasury fund is now offering shares on Aptos, Arbitrum Avalanche, Optimism, and Polygon.",
+          "link": "https://thedefiant.io/news/defi/blackrock-launches-buidl-on-five-new-blockchains",
+          "publishedOn": "2024-11-14T07:08:50.000Z",
+          "wordCount": 2141,
+          "title": "Blackrock Launches BUIDL on Five New Blockchains",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d290b33cd460371d2d4c580b7f3922ccd996aaad-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d290b33cd460371d2d4c580b7f3922ccd996aaad-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/memecoins-fly-as-coinbase-lists-pepe-and-wif",
           "author": "Squiffs",
           "description": "After months of demand, Coinbase is in the process of listing both PEPE and WIF, expanding its memecoin offerings.",
@@ -330,7 +345,7 @@
           "description": "PayPal has announced the integration of its stablecoin, PayPal USD (PYUSD), with LayerZero, enabling seamless transfers between the Ethereum and Solana blockchains",
           "link": "https://thedefiant.io/news/defi/paypal-integrates-layerzero-pyusd-transfers-between-ethereum-solana-using-85b83360",
           "publishedOn": "2024-11-13T01:09:47.000Z",
-          "wordCount": 2119,
+          "wordCount": 2116,
           "title": "PayPal Integrates LayerZero for PYUSD Transfers Between Ethereum and Solana Using LayerZero",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0ad46349f761eab1050b082cf59be6834343a02-1200x703.jpg",
@@ -345,7 +360,7 @@
           "description": "The retail-focused memecoin trading app surpassed $100,000 in daily revenue for the first time since its launch.",
           "link": "https://thedefiant.io/news/defi/moonshot-memecoin-app-hits-all-time-high-daily-revenue",
           "publishedOn": "2024-11-12T22:01:47.000Z",
-          "wordCount": 2181,
+          "wordCount": 2178,
           "title": "Moonshot Memecoin App Hits All-time High Daily Revenue",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b283b71a68609cbb1f99b11a3a072086930bbf0f-1555x875.png",
@@ -675,7 +690,7 @@
           "description": "Avara's wallet, Family, supports several features catering to advanced DeFi users.",
           "link": "https://thedefiant.io/news/defi/avara-launches-non-custodial-ethereum-wallet",
           "publishedOn": "2024-11-11T13:00:00.000Z",
-          "wordCount": 2427,
+          "wordCount": 2424,
           "title": "Avara Launches Non-Custodial Ethereum Wallet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4ae218d4e4093fe2c67de37f1ecf74ca8afb554a-1555x875.png",
@@ -1120,7 +1135,7 @@
           "description": "One user profited nearly $50 million across 4 Polymarket accounts.",
           "link": "https://thedefiant.io/news/defi/polymarket-whales-cash-out-millions-on-trump-win",
           "publishedOn": "2024-11-07T06:23:44.000Z",
-          "wordCount": 2242,
+          "wordCount": 2239,
           "title": "Polymarket Whales Cash Out Millions on Trump Win",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d81b3c35ae56af600f677b60c61500d1a658f4d6-1555x875.png",
@@ -1533,21 +1548,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2205d1df7a4bbb125669bdc7d6d2ef852033b3cf-1014x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/eth-btc-hits-new-year-to-date-low-3-5-year-low-lowest-since-april-2021-952a8125",
-          "author": "DeepNewz",
-          "description": "The cryptocurrency market is experiencing significant declines, with the ETH/BTC trading pair reaching a new year-to-date low",
-          "link": "https://thedefiant.io/news/markets/eth-btc-hits-new-year-to-date-low-3-5-year-low-lowest-since-april-2021-952a8125",
-          "publishedOn": "2024-11-04T20:19:00.000Z",
-          "wordCount": 2104,
-          "title": "ETH/BTC Hits New Year-to-Date Low and 3.5-Year Low, Lowest Since April 2021",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/92f85811ea22449d22b1a2c0df3f30395b748aeb-1200x769.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/92f85811ea22449d22b1a2c0df3f30395b748aeb-1200x769.jpg"
         }
       ]
     },
