@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/hyperliquid-gears-up-for-token-launch",
+          "author": "Squiffs",
+          "description": "The HYPE token generation event is expected soon, but some users are having trouble confirming their participation.",
+          "link": "https://thedefiant.io/news/defi/hyperliquid-gears-up-for-token-launch",
+          "publishedOn": "2024-11-15T06:38:17.000Z",
+          "wordCount": 2220,
+          "title": "Hyperliquid Gears Up for Token Launch",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ba8948fede1651c26abf50dd1cdbc3d2e2328e1a-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ba8948fede1651c26abf50dd1cdbc3d2e2328e1a-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/18-u-s-states-sue-sec-gary-gensler-alleging-unconstitutional-overreach-crypto-ecb00f00",
+          "author": "DeepNewz",
+          "description": "Eighteen U.S. states, including Kentucky, Nebraska, and Texas, have filed a federal lawsuit against the Securities and Exchange Commission (SEC) and its Chair, Gary Gensler",
+          "link": "https://thedefiant.io/news/regulation/18-u-s-states-sue-sec-gary-gensler-alleging-unconstitutional-overreach-crypto-ecb00f00",
+          "publishedOn": "2024-11-15T06:27:00.000Z",
+          "wordCount": 2214,
+          "title": "18 U.S. States Sue SEC and Gary Gensler, Alleging Unconstitutional Overreach in Crypto Regulation",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/77f710ebf9fde19cb6496a575db6163b7359075e-985x1200.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/77f710ebf9fde19cb6496a575db6163b7359075e-985x1200.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/opensea-activity-picks-up-on-token-speculation",
           "author": "Squiffs",
           "description": "Volume and market share of the NFT marketplace are beginning to bounce back after reports that OpenSea will share details on its token launch next month.",
@@ -595,21 +625,6 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/780765b6465e0dcbf6f79619fc1dd980de55c202-1200x676.jpg"
         },
         {
-          "id": "https://thedefiant.io/news/infrastructure/zetachain-partners-google-cloud-10m-credits-bnb-chain-projects-b6d7fcb8",
-          "author": "DeepNewz",
-          "description": "ZetaChain has announced a collaboration with Google Cloud to accelerate Web3 adoption and innovation of universal applications across all chains",
-          "link": "https://thedefiant.io/news/infrastructure/zetachain-partners-google-cloud-10m-credits-bnb-chain-projects-b6d7fcb8",
-          "publishedOn": "2024-11-12T17:44:25.000Z",
-          "wordCount": 2148,
-          "title": "ZetaChain Partners with Google Cloud; $10M Credits for BNB Chain Projects",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f340373d5524b65d3df543700c4631d8913057e-1200x675.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8f340373d5524b65d3df543700c4631d8913057e-1200x675.jpg"
-        },
-        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/publicly-traded-genius-group-adopts-bitcoin-primary-treasury-asset-120m-ee7c195a",
           "author": "DeepNewz",
           "description": "Genius Group, a publicly traded, Singapore-based artificial intelligence company, has adopted Bitcoin as its primary treasury asset",
@@ -810,7 +825,7 @@
           "description": "The major crypto VC anticipates a shift from “regulation by enforcement” to a more constructive legislative approach.",
           "link": "https://thedefiant.io/news/regulation/a16z-predicts-bright-future-for-crypto-under-trump",
           "publishedOn": "2024-11-11T11:39:00.000Z",
-          "wordCount": 2652,
+          "wordCount": 2647,
           "title": "A16z Predicts Bright Future for Crypto Under Trump",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2da38e76d7555ab7739b748f0c6a47fc38df43b0-1555x875.png",
@@ -885,7 +900,7 @@
           "description": "At least five U.S. states support various government service payments in the form of crypto.",
           "link": "https://thedefiant.io/news/regulation/detroit-to-become-largest-u-s-city-to-accept-cryptocurrency-for-taxes-and-fees",
           "publishedOn": "2024-11-08T13:30:00.000Z",
-          "wordCount": 2479,
+          "wordCount": 2474,
           "title": "Detroit to Become Largest U.S. City Accepting Crypto for Taxes",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bfd5cb7dedb8380dd5717af8b13887845002a4cf-1555x875.png",
@@ -915,7 +930,7 @@
           "description": "Germany's recent decision to sell its Bitcoin holdings has drawn criticism as the cryptocurrency's value has surged",
           "link": "https://thedefiant.io/news/regulation/germany-sells-50000-btc-54k-losing-872-million-bitcoin-value-surges-to-3-75-02a76683",
           "publishedOn": "2024-11-08T12:45:47.000Z",
-          "wordCount": 2181,
+          "wordCount": 2167,
           "title": "Germany Sells 50,000 BTC at $54K, Losing $872 Million as Bitcoin Value Surges to $3.75 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/49642430802ccad5d990fe36678449b81b3e0bc5-666x234.png",
@@ -1000,7 +1015,7 @@
           "description": "Detroit, Michigan, has announced that it will start accepting Bitcoin and other cryptocurrencies for tax payments and city fees beginning in mid-2025",
           "link": "https://thedefiant.io/news/regulation/detroit-to-accept-bitcoin-taxes-fees-2025-managed-paypal-b50a4cb9",
           "publishedOn": "2024-11-08T12:41:58.000Z",
-          "wordCount": 2144,
+          "wordCount": 2130,
           "title": "Detroit to Accept Bitcoin for Taxes and Fees in 2025, Managed by PayPal",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/abbd74ed1b28158ca9eec0c5b89026e383c1f82b-810x810.jpg",
@@ -1015,7 +1030,7 @@
           "description": "Phantom has announced a new feature allowing its users to buy cryptocurrency using Venmo",
           "link": "https://thedefiant.io/news/infrastructure/phantom-enables-crypto-purchases-venmo-via-moonpay-solana-included-9da4dca4",
           "publishedOn": "2024-11-08T12:41:54.000Z",
-          "wordCount": 2077,
+          "wordCount": 2063,
           "title": "Phantom Enables Crypto Purchases with Venmo via MoonPay, Solana Included",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f4bb4838f0de3430eb51818f9f9a756be1db235a-1200x675.jpg",
@@ -1045,7 +1060,7 @@
           "description": "President-elect Donald Trump is considering candidates to replace SEC Chair Gary Gensler immediately upon taking office, with Robinhood's Chief Legal Officer Dan Gallagher reportedly the front-runner, according to Reuters",
           "link": "https://thedefiant.io/news/regulation/trump-to-replace-sec-chair-gensler-immediately-robinhood-clo-dan-gallagher-front-37e21d3d",
           "publishedOn": "2024-11-08T12:41:35.000Z",
-          "wordCount": 2226,
+          "wordCount": 2212,
           "title": "Trump to Replace SEC Chair Gensler Immediately, Robinhood CLO Dan Gallagher Front-runner",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cd7d029aca1f0d86ae20d90074744224b1e3b6f9-1024x768.jpg",
@@ -1195,7 +1210,7 @@
           "description": "Trump pledged that his administration would retain all U.S. government-held Bitcoin if elected.",
           "link": "https://thedefiant.io/news/regulation/cynthia-lummis-announces-u-s-strategic-bitcoin-reserve-after-trump-win",
           "publishedOn": "2024-11-07T13:11:00.000Z",
-          "wordCount": 2486,
+          "wordCount": 2472,
           "title": "Cynthia Lummis Announces U.S. ‘Strategic Bitcoin Reserve’ After Trump Win",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f74280356fdbfc19923c5ca46c2527ad127386b8-1555x875.png",
@@ -1300,7 +1315,7 @@
           "description": "247 pro-crypto candidates won seats in the House of Representatives.",
           "link": "https://thedefiant.io/news/regulation/pro-crypto-candidates-dominate-2024-elections-as-trump-reclaims-presidency",
           "publishedOn": "2024-11-06T18:03:39.000Z",
-          "wordCount": 2763,
+          "wordCount": 2749,
           "title": "Pro-Crypto Candidates Dominate 2024 Elections as Trump Reclaims Presidency",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dee70c874c0ae8bfd3cc44223d7733e1edf6606-1555x875.png",
@@ -1360,7 +1375,7 @@
           "description": "The agreement marks a groundbreaking progression in the modernization of the judicial process in Argentina.",
           "link": "https://thedefiant.io/news/regulation/kleros-to-collaborate-with-supreme-court-of-mendoza",
           "publishedOn": "2024-11-05T21:46:51.000Z",
-          "wordCount": 2339,
+          "wordCount": 2325,
           "title": "Kleros to Collaborate with Supreme Court of Mendoza",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3a739e013f708fdcd386bbce14784910659aadfe-1555x875.png",
@@ -1420,7 +1435,7 @@
           "description": "Gary Gensler is expected to step down as the SEC Chair following the US elections",
           "link": "https://thedefiant.io/news/regulation/gary-gensler-expected-to-step-down-sec-chair-crypto-mom-hester-peirce-crypto-dad-987a4a70",
           "publishedOn": "2024-11-05T20:24:51.000Z",
-          "wordCount": 2226,
+          "wordCount": 2212,
           "title": "Gary Gensler Expected to Step Down as SEC Chair, 'Crypto Mom' Hester Peirce and 'Crypto Dad' Chris Giancarlo Eyed as Successors",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ffd20a57a4caff02e1b7ee7ac9aabcef87cb7034-1200x675.jpg",
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c0480c5b77bcab1feecd05da1f0975d3d3ad6195-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/michigan-hosts-first-u-s-pension-fund-to-buy-spot-ethereum-etf-shares",
-          "author": "Mehab Qureshi",
-          "description": "The fund own more than $11 million worth of Ethereum ETF shares.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/michigan-hosts-first-u-s-pension-fund-to-buy-spot-ethereum-etf-shares",
-          "publishedOn": "2024-11-05T11:08:00.000Z",
-          "wordCount": 2400,
-          "title": "Michigan Hosts First U.S. Pension Fund to Buy Spot Ethereum ETF Shares",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/91fcd908efd291e0bf530fc2c7aba159e505d264-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/91fcd908efd291e0bf530fc2c7aba159e505d264-1555x875.png"
         }
       ]
     },
