@@ -45,6 +45,61 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/opensea-activity-picks-up-on-token-speculation",
+          "author": "Squiffs",
+          "description": "Volume and market share of the NFT marketplace are beginning to bounce back after reports that OpenSea will share details on its token launch next month.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/opensea-activity-picks-up-on-token-speculation",
+          "publishedOn": "2024-11-15T06:19:41.000Z",
+          "wordCount": 2291,
+          "title": "OpenSea Activity Picks Up on Token Speculation",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3d95560187835078422c8da54ee51fa936bd1e62-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3d95560187835078422c8da54ee51fa936bd1e62-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/xrp-surges-to-0-80-up-39-sec-chair-gensler-hints-resignation-6842ee19",
+          "author": "DeepNewz",
+          "description": "XRP, the cryptocurrency associated with Ripple, has experienced a significant surge in value",
+          "link": "https://thedefiant.io/news/markets/xrp-surges-to-0-80-up-39-sec-chair-gensler-hints-resignation-6842ee19",
+          "publishedOn": "2024-11-15T06:00:38.000Z",
+          "wordCount": 2109,
+          "title": "XRP Surges to $0.80, Up 39%, as SEC Chair Gensler Hints at Resignation",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f2c96a56b65f406fa91ed309e770584afa2435c1-1200x809.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f2c96a56b65f406fa91ed309e770584afa2435c1-1200x809.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/tether-launches-hadron-platform-service-to-simplify-asset-tokenization-accefb8a",
+          "author": "DeepNewz",
+          "description": "Tether, the largest stablecoin issuer, has launched a new platform as a service called Hadron aimed at simplifying the process of asset tokenization",
+          "link": "https://thedefiant.io/news/defi/tether-launches-hadron-platform-service-to-simplify-asset-tokenization-accefb8a",
+          "publishedOn": "2024-11-15T05:29:28.000Z",
+          "wordCount": 2176,
+          "title": "Tether Launches Hadron Platform as a Service to Simplify Asset Tokenization",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e90b0935e57e42708919d18618c338a0a9f49f6b-1183x1162.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e90b0935e57e42708919d18618c338a0a9f49f6b-1183x1162.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/microstrategy-s-bitcoin-holdings-reach-24-billion-27200-btc-saylor-plans-42-2-3-315246c4",
+          "author": "DeepNewz",
+          "description": "MicroStrategy's Bitcoin holdings have reached $24 billion following the acquisition of 27,200 BTC, solidifying its status as the largest corporate Bitcoin holder",
+          "link": "https://thedefiant.io/news/markets/microstrategy-s-bitcoin-holdings-reach-24-billion-27200-btc-saylor-plans-42-2-3-315246c4",
+          "publishedOn": "2024-11-15T04:25:42.000Z",
+          "wordCount": null,
+          "title": "MicroStrategy's Bitcoin Holdings Reach $24 Billion with 27,200 BTC; Saylor Plans $42 Billion Raise Before 2-3 Years",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-consolidates-around-usd90-000-amid-record-etf-inflows",
           "author": "Mehab Qureshi",
           "description": "Analysts attributed Bitcoin's rally to substantial inflows from spot ETFs.",
@@ -110,7 +165,7 @@
           "description": "The largest tokenized Treasury fund is now offering shares on Aptos, Arbitrum Avalanche, Optimism, and Polygon.",
           "link": "https://thedefiant.io/news/defi/blackrock-launches-buidl-on-five-new-blockchains",
           "publishedOn": "2024-11-14T07:08:50.000Z",
-          "wordCount": 2149,
+          "wordCount": 2154,
           "title": "Blackrock Launches BUIDL on Five New Blockchains",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d290b33cd460371d2d4c580b7f3922ccd996aaad-1555x875.png",
@@ -395,7 +450,7 @@
           "description": "PayPal has announced the integration of its stablecoin, PayPal USD (PYUSD), with LayerZero, enabling seamless transfers between the Ethereum and Solana blockchains",
           "link": "https://thedefiant.io/news/defi/paypal-integrates-layerzero-pyusd-transfers-between-ethereum-solana-using-85b83360",
           "publishedOn": "2024-11-13T01:09:47.000Z",
-          "wordCount": 2124,
+          "wordCount": 2129,
           "title": "PayPal Integrates LayerZero for PYUSD Transfers Between Ethereum and Solana Using LayerZero",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0ad46349f761eab1050b082cf59be6834343a02-1200x703.jpg",
@@ -410,7 +465,7 @@
           "description": "The retail-focused memecoin trading app surpassed $100,000 in daily revenue for the first time since its launch.",
           "link": "https://thedefiant.io/news/defi/moonshot-memecoin-app-hits-all-time-high-daily-revenue",
           "publishedOn": "2024-11-12T22:01:47.000Z",
-          "wordCount": 2186,
+          "wordCount": 2191,
           "title": "Moonshot Memecoin App Hits All-time High Daily Revenue",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b283b71a68609cbb1f99b11a3a072086930bbf0f-1555x875.png",
@@ -425,7 +480,7 @@
           "description": "The fast food giant posted a teaser, with more information to be revealed next week.",
           "link": "https://thedefiant.io/news/nfts-and-web3/doodles-nfts-soar-on-mcdonald-s-collaboration",
           "publishedOn": "2024-11-12T20:25:54.000Z",
-          "wordCount": 2206,
+          "wordCount": 2201,
           "title": "Doodles NFTs Soar on McDonald’s Collaboration",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bc1d051bb079afc1a0e7e412e66d6d10eeaaa755-1555x875.png",
@@ -455,7 +510,7 @@
           "description": "The stablecoin market has experienced significant growth, particularly in the wake of the recent elections",
           "link": "https://thedefiant.io/news/defi/usdc-supply-grows-1-93b-5-5-stablecoin-market-hits-176b-enhancing-u-s-dollar-45b11146",
           "publishedOn": "2024-11-12T17:45:02.000Z",
-          "wordCount": 2189,
+          "wordCount": 2191,
           "title": "USDC Supply Grows $1.93B (5.5%) as Stablecoin Market Hits $176B, Enhancing U.S. Dollar Dominance",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/51c954f6a5e2b0153bdb5d4d481bf59538f66adb-1199x550.jpg",
@@ -500,7 +555,7 @@
           "description": "Huma Finance has launched its advanced Real World Assets (RWA) protocol on the Solana blockchain, expanding its PayFi network",
           "link": "https://thedefiant.io/news/defi/huma-finance-launches-rwa-protocol-on-solana-expands-payfi-network-double-digit-4843479f",
           "publishedOn": "2024-11-12T17:44:46.000Z",
-          "wordCount": 2134,
+          "wordCount": 2136,
           "title": "Huma Finance Launches RWA Protocol on Solana, Expands PayFi Network with Double-Digit Yields",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0db7ae24c4eb2a5e3109e456b9e918e838523822-1200x675.jpg",
@@ -515,7 +570,7 @@
           "description": "The market for FWOG NFTs is gaining traction, with several notable sales reported recently",
           "link": "https://thedefiant.io/news/nfts-and-web3/fwog-nfts-surge-popularity-sales-reaching-60000-278-43-sol-58000-fda9f173",
           "publishedOn": "2024-11-12T17:44:36.000Z",
-          "wordCount": 2130,
+          "wordCount": 2125,
           "title": "FWOG NFTs Surge in Popularity with Sales Reaching $60,000 and 278.43 SOL ($58,000)",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/68da191c79d1920f0f88bbe37a0a002e4f647c12-1200x1200.jpg",
@@ -740,7 +795,7 @@
           "description": "Avara's wallet, Family, supports several features catering to advanced DeFi users.",
           "link": "https://thedefiant.io/news/defi/avara-launches-non-custodial-ethereum-wallet",
           "publishedOn": "2024-11-11T13:00:00.000Z",
-          "wordCount": 2432,
+          "wordCount": 2437,
           "title": "Avara Launches Non-Custodial Ethereum Wallet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4ae218d4e4093fe2c67de37f1ecf74ca8afb554a-1555x875.png",
@@ -875,7 +930,7 @@
           "description": "Coinbase has launched cbBTC, now live on Solana, a Solana Program Library (SPL) token backed 1:1 by Bitcoin (BTC) held in custody by Coinbase",
           "link": "https://thedefiant.io/news/defi/coinbase-launches-first-solana-based-token-cbbtc-bitcoin-backed-spl-token-39f421fc",
           "publishedOn": "2024-11-08T12:45:29.000Z",
-          "wordCount": 2125,
+          "wordCount": 2127,
           "title": "Coinbase Launches First Solana-Based Token cbBTC, a Bitcoin-Backed SPL Token",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6432078ec4f28a4bda66f66d81900b989c22624c-1200x768.jpg",
@@ -890,7 +945,7 @@
           "description": "North Korean hackers, specifically the DPRK-linked group BlueNoroff, are intensifying their cyberattacks targeting cryptocurrency firms and users of macOS systems",
           "link": "https://thedefiant.io/news/defi/north-korean-hackers-intensify-cyberattacks-on-crypto-firms-macos-users-winos-4-dc5798e0",
           "publishedOn": "2024-11-08T12:45:21.000Z",
-          "wordCount": 2188,
+          "wordCount": 2190,
           "title": "North Korean Hackers Intensify Cyberattacks on Crypto Firms and macOS Users with Winos 4.0 Malware and BlueNoroff Tactics",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bd8896c912dadb51fe74a63cf11c8f4faff83037-1020x680.jpg",
@@ -1020,7 +1075,7 @@
           "description": "A portrait of English mathematician Alan Turing, created by the humanoid robot artist Ai-Da, sold for a record $1.32M",
           "link": "https://thedefiant.io/news/nfts-and-web3/ai-da-robot-s-ai-god-portrait-alan-turing-fetches-record-1-32-million-sotheby-s-58856f1a",
           "publishedOn": "2024-11-08T12:41:21.000Z",
-          "wordCount": 2163,
+          "wordCount": 2158,
           "title": "Ai-Da Robot's 'AI God' Portrait of Alan Turing Fetches Record $1.32 Million at Sotheby's",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7aed5bf7548b38b82ed2272233da35c3c2c591cb-634x865.jpg",
@@ -1065,7 +1120,7 @@
           "description": "The bandwidth-sharing DePIN project’s price action suggests that airdrops are not dead after all.",
           "link": "https://thedefiant.io/news/defi/grass-token-soars-to-usd3-billion-valuation",
           "publishedOn": "2024-11-08T01:30:39.000Z",
-          "wordCount": 2172,
+          "wordCount": 2174,
           "title": "GRASS Token Soars to $3 Billion Valuation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f60c54dbf134e2ef4189ef4628fcd227a72abe21-1555x875.png",
@@ -1185,7 +1240,7 @@
           "description": "One user profited nearly $50 million across 4 Polymarket accounts.",
           "link": "https://thedefiant.io/news/defi/polymarket-whales-cash-out-millions-on-trump-win",
           "publishedOn": "2024-11-07T06:23:44.000Z",
-          "wordCount": 2247,
+          "wordCount": 2252,
           "title": "Polymarket Whales Cash Out Millions on Trump Win",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d81b3c35ae56af600f677b60c61500d1a658f4d6-1555x875.png",
@@ -1287,7 +1342,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-tags-all-time-high-as-trump-takes-early-election-lead",
           "author": "Samuel Haig",
-          "description": "Bitcoin rallied to a new all-time high above $74,500 as Trump took a strong early lead in the U.S. presidential election.",
+          "description": "The combined cryptocurrency market cap is at its highest level since July.",
           "link": "https://thedefiant.io/news/markets/bitcoin-tags-all-time-high-as-trump-takes-early-election-lead",
           "publishedOn": "2024-11-06T05:12:00.000Z",
           "wordCount": 2461,
@@ -1320,7 +1375,7 @@
           "description": "Prediction market volumes are at all-time highs as the odds of a Trump presidency soar.",
           "link": "https://thedefiant.io/news/defi/polymarket-does-more-volume-in-5-days-than-all-of-2023",
           "publishedOn": "2024-11-05T21:00:33.000Z",
-          "wordCount": 2386,
+          "wordCount": 2388,
           "title": "Polymarket Does More Volume in 5 Days than All of 2023",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3a6e65c4444bc3426daf2a761d651d422a3b3893-1555x875.png",
@@ -1425,7 +1480,7 @@
           "description": "Kamala Harris and Donald Trump memecoins are trading in tandem with Polymarket odds and general market sentiment.",
           "link": "https://thedefiant.io/news/defi/degens-hit-the-memecoin-trenches-to-gamble-on-election",
           "publishedOn": "2024-11-05T20:10:35.000Z",
-          "wordCount": 2256,
+          "wordCount": 2258,
           "title": "Degens Hit the Memecoin Trenches to Gamble on Election",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d544cceb810c1619d45383da7d58d48bdd7cc133-1555x875.png",
@@ -1478,66 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/91fcd908efd291e0bf530fc2c7aba159e505d264-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/curve-proposes-giving-10-of-crvusd-revenue-to-savings-crvusd-holders",
-          "author": "Samuel Haig",
-          "description": "The measure aims to scale crvUSD to stabilize borrow rates and price fluctuations.",
-          "link": "https://thedefiant.io/news/defi/curve-proposes-giving-10-of-crvusd-revenue-to-savings-crvusd-holders",
-          "publishedOn": "2024-11-05T09:36:00.000Z",
-          "wordCount": 2553,
-          "title": "Curve Proposes Giving 10% Of crvUSD Revenue To Savings crvUSD Holders",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4d06caaf6cfade2a440bb9c114a38249ed2fb1f7-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4d06caaf6cfade2a440bb9c114a38249ed2fb1f7-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/citi-and-fidelity-announce-on-chain-money-market-fund",
-          "author": "Squiffs",
-          "description": "The move comes just three days after UBS launched its own tokenized product.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/citi-and-fidelity-announce-on-chain-money-market-fund",
-          "publishedOn": "2024-11-04T23:03:07.000Z",
-          "wordCount": 2385,
-          "title": "Citi and Fidelity Announce On-Chain Money Market Fund",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/98a3dabcadfa6dac73c8f8cca7718aff858068a7-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/98a3dabcadfa6dac73c8f8cca7718aff858068a7-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/hamster-kombat-loses-259-million-players-amid-86-drop-blockchain-gaming-01e15538",
-          "author": "DeepNewz",
-          "description": "Hamster Kombat, a tap-to-earn game on Telegram, has experienced a significant decline in its user base",
-          "link": "https://thedefiant.io/news/nfts-and-web3/hamster-kombat-loses-259-million-players-amid-86-drop-blockchain-gaming-01e15538",
-          "publishedOn": "2024-11-04T21:15:22.000Z",
-          "wordCount": 2175,
-          "title": "Hamster Kombat Loses 259 Million Players Amid 86% Drop and Blockchain Gaming Developments",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/69aac926277512f4ca293178b569fa16d67c4937-1200x675.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/69aac926277512f4ca293178b569fa16d67c4937-1200x675.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/sbi-digital-ubs-complete-pilot-using-chainlink-ccip-tokenized-funds-project-68cba8c9",
-          "author": "DeepNewz",
-          "description": "SBI Digital Markets and UBS Asset Management have successfully completed a pilot project using Chainlink's Cross-Chain Interoperability Protocol (CCIP) to streamline tokenized fund operations across different chains and financial systems",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/sbi-digital-ubs-complete-pilot-using-chainlink-ccip-tokenized-funds-project-68cba8c9",
-          "publishedOn": "2024-11-04T21:15:09.000Z",
-          "wordCount": 2213,
-          "title": "SBI Digital and UBS Complete Pilot Using Chainlink CCIP for Tokenized Funds in Project Guardian",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1ab63a0a7670ab3383092bdbdc22ccfa6c76e58f-1114x900.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1ab63a0a7670ab3383092bdbdc22ccfa6c76e58f-1114x900.jpg"
         }
       ]
     },
