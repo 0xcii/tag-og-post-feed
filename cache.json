@@ -21,7 +21,7 @@
           "description": "The Wharton business school celebrates capitalism and American exceptionalism. Wide-eyed and bushy-tailed students from across the globe…",
           "link": "https://cryptohayes.medium.com/%E5%8A%A0%E6%B2%B9%E6%AF%94%E7%89%B9%E5%B8%81-lets-go-bitcoin-076f153fd502?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-28T23:02:17.000Z",
-          "wordCount": 13262,
+          "wordCount": 13283,
           "title": "加油比特币 Let’s Go Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*W6ok8Kw2Mwr0RD9h.jpeg"
         }
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/defi/pump-science-combines-desci-with-memecoins",
+          "author": "Squiffs",
+          "description": "The platform's first two tokens, RIF and URO, are surging as traders and investors trade chemical compounds.",
+          "link": "https://thedefiant.io/news/defi/pump-science-combines-desci-with-memecoins",
+          "publishedOn": "2024-11-18T20:41:45.000Z",
+          "wordCount": 2250,
+          "title": "Pump Science Combines DeSci with Memecoins",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d740a7db5a29c0720eb1eb4cf59e005beb8fdc7d-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d740a7db5a29c0720eb1eb4cf59e005beb8fdc7d-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/cefi/binance-announces-new-stablecoin-offering-19-55-yield",
           "author": "Squiffs",
@@ -1513,21 +1528,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ee545250f2d6e2816eacca7423f3280b2580083c-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/bitcoin-dev-archives-purged-from-linux-rehomed-on-google-groups",
-          "author": "Mehab Qureshi",
-          "description": "Historically, Bitcoin Core development discussions took place by email and on the BitcoinTalk.org forum.",
-          "link": "https://thedefiant.io/news/blockchains/bitcoin-dev-archives-purged-from-linux-rehomed-on-google-groups",
-          "publishedOn": "2024-11-07T08:34:00.000Z",
-          "wordCount": 2547,
-          "title": "Bitcoin-dev Archives Purged From Linux, Re-Homed On Google Groups",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/576427bf775a02aacd1830debf23f7ed2405a22d-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/576427bf775a02aacd1830debf23f7ed2405a22d-1555x875.png"
         }
       ]
     },

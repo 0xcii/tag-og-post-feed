@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-18T20:18:13.010Z</id>
+    <id>urn:2024-11-18T21:13:57.301Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-18T20:18:13.010Z</updated>
+    <updated>2024-11-18T21:13:57.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pump Science Combines DeSci with Memecoins]]></title>
+        <id>https://thedefiant.io/news/defi/pump-science-combines-desci-with-memecoins</id>
+        <link href="https://thedefiant.io/news/defi/pump-science-combines-desci-with-memecoins"/>
+        <updated>2024-11-18T20:41:45.000Z</updated>
+        <summary type="html"><![CDATA[The platform's first two tokens, RIF and URO, are surging as traders and investors trade chemical compounds.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance Announces New Stablecoin Offering 19.55% Yield]]></title>
         <id>https://thedefiant.io/news/cefi/binance-announces-new-stablecoin-offering-19-55-yield</id>
@@ -1001,16 +1011,6 @@
         <link href="https://thedefiant.io/news/tokens/over-75-of-memecoins-were-created-in-2024-but-97-are-dead"/>
         <updated>2024-11-07T10:56:00.000Z</updated>
         <summary type="html"><![CDATA[Memecoins’ share of the altcoin market has nearly tripled since 2022.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin-dev Archives Purged From Linux, Re-Homed On Google Groups]]></title>
-        <id>https://thedefiant.io/news/blockchains/bitcoin-dev-archives-purged-from-linux-rehomed-on-google-groups</id>
-        <link href="https://thedefiant.io/news/blockchains/bitcoin-dev-archives-purged-from-linux-rehomed-on-google-groups"/>
-        <updated>2024-11-07T08:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Historically, Bitcoin Core development discussions took place by email and on the BitcoinTalk.org forum.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
