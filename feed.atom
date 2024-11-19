@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-19T09:18:11.683Z</id>
+    <id>urn:2024-11-19T10:18:26.444Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-19T09:18:11.683Z</updated>
+    <updated>2024-11-19T10:18:26.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[California Rules Governance Participants Are Liable For Lido DAO's Actions]]></title>
+        <id>https://thedefiant.io/news/regulation/california-rules-governance-participants-are-liable-for-lido-dao-s-actions</id>
+        <link href="https://thedefiant.io/news/regulation/california-rules-governance-participants-are-liable-for-lido-dao-s-actions"/>
+        <updated>2024-11-19T09:59:00.000Z</updated>
+        <summary type="html"><![CDATA[The ruling suggests ordinary DAO members could be liable for the actions of a web3 project.]]></summary>
+        <author>
+            <name>Mehab Qureshi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DYdX Launches Permissionless Listings With Unlimited Upgrade]]></title>
         <id>https://thedefiant.io/news/defi/dydx-launches-permissionless-listings-with-unlimited-upgrade</id>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[The project brings Solana technology to Ethereum, launching as Ethereum’s first SVM Layer 2 network.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Soars Above $76,000 Ahead of Fed Decision]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-soars-above-usd76-000-ahead-of-fed-decision</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-soars-above-usd76-000-ahead-of-fed-decision"/>
-        <updated>2024-11-07T18:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum and Solana rallied 8% and 5%, respectively.]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
         </author>
     </entry>
     <entry>

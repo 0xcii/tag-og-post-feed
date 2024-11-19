@@ -11,7 +11,7 @@
           "description": "Former President of China Deng Xiaoping famously quipped the following when asked about his pragmatic approach to the implementation of…",
           "link": "https://cryptohayes.medium.com/black-or-white-ba5e07049ba3?source=rss-2f6e06954878------2",
           "publishedOn": "2024-11-11T23:02:28.000Z",
-          "wordCount": 11785,
+          "wordCount": 11766,
           "title": "Black or White?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*_LVnkLC56EoU6vnA.jpeg"
         },
@@ -21,7 +21,7 @@
           "description": "The Wharton business school celebrates capitalism and American exceptionalism. Wide-eyed and bushy-tailed students from across the globe…",
           "link": "https://cryptohayes.medium.com/%E5%8A%A0%E6%B2%B9%E6%AF%94%E7%89%B9%E5%B8%81-lets-go-bitcoin-076f153fd502?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-28T23:02:17.000Z",
-          "wordCount": 13281,
+          "wordCount": 13262,
           "title": "加油比特币 Let’s Go Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*W6ok8Kw2Mwr0RD9h.jpeg"
         }
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/regulation/california-rules-governance-participants-are-liable-for-lido-dao-s-actions",
+          "author": "Mehab Qureshi",
+          "description": "The ruling suggests ordinary DAO members could be liable for the actions of a web3 project.",
+          "link": "https://thedefiant.io/news/regulation/california-rules-governance-participants-are-liable-for-lido-dao-s-actions",
+          "publishedOn": "2024-11-19T09:59:00.000Z",
+          "wordCount": 2744,
+          "title": "California Rules Governance Participants Are Liable For Lido DAO's Actions",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/00cb87e0049409dee45452e2e0c54c0286b9c5ab-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/00cb87e0049409dee45452e2e0c54c0286b9c5ab-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/defi/dydx-launches-permissionless-listings-with-unlimited-upgrade",
           "author": "Samuel Haig",
@@ -155,7 +170,7 @@
           "description": "The launch of options trading for spot Bitcoin ETFs is imminent, following recent approvals from the Commodity Futures Trading Commission (CFTC) and the Options Clearing Corporation (OCC)",
           "link": "https://thedefiant.io/news/regulation/bitcoin-etf-options-launch-imminent-cftc-occ-approve-paul-tudor-jones-boosts-to-61bec054",
           "publishedOn": "2024-11-18T18:24:10.000Z",
-          "wordCount": 2241,
+          "wordCount": 2231,
           "title": "Bitcoin ETF Options Launch Imminent as CFTC and OCC Approve; Paul Tudor Jones Boosts Holdings to $230 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/04722710ea4dd3e2200c4f76c6a015ac1609add1-1200x835.png",
@@ -230,7 +245,7 @@
           "description": "The U.S. government appears to be preparing to loosen restrictions on the crypto industry as rumors of Gary Gensler’s retirement pick up steam.",
           "link": "https://thedefiant.io/news/regulation/regulatory-scrutiny-surrounding-defi-tapers",
           "publishedOn": "2024-11-16T17:33:13.000Z",
-          "wordCount": 2273,
+          "wordCount": 2263,
           "title": "Regulatory Scrutiny Surrounding DeFi Tapers",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0f2ca0da48fd5b7984c7b10237f7a85e205ffc76-1555x875.png",
@@ -275,7 +290,7 @@
           "description": "House representatives want to earmark up to 10% of the state's $7 billion strategic reserve assets for buying Bitcoin.",
           "link": "https://thedefiant.io/news/regulation/pennsylvania-house-moves-to-create-strategic-bitcoin-reserve",
           "publishedOn": "2024-11-15T14:07:00.000Z",
-          "wordCount": 2598,
+          "wordCount": 2596,
           "title": "Pennsylvania House Moves To Create Strategic Bitcoin Reserve",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bf0c1bd72cdcc4f93d0a961472db6c9a81f74b32-1555x875.png",
@@ -290,7 +305,7 @@
           "description": "The plaintiffs argue that the SEC’s actions have stifled innovation.",
           "link": "https://thedefiant.io/news/regulation/18-u-s-states-sue-gary-gensler-s-sec-over-crypto-crackdown",
           "publishedOn": "2024-11-15T12:14:00.000Z",
-          "wordCount": 2695,
+          "wordCount": 2693,
           "title": "18 U.S. States Sue Gary Gensler’s SEC Over Crypto Crackdown",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8412e998f44e1097310475ba97666304c0970622-1555x875.png",
@@ -375,7 +390,7 @@
           "description": "Eighteen U.S. states, including Kentucky, Nebraska, and Texas, have filed a federal lawsuit against the Securities and Exchange Commission (SEC) and its Chair, Gary Gensler",
           "link": "https://thedefiant.io/news/regulation/18-u-s-states-sue-sec-gary-gensler-alleging-unconstitutional-overreach-crypto-ecb00f00",
           "publishedOn": "2024-11-15T06:27:00.000Z",
-          "wordCount": 2223,
+          "wordCount": 2213,
           "title": "18 U.S. States Sue SEC and Gary Gensler, Alleging Unconstitutional Overreach in Crypto Regulation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/77f710ebf9fde19cb6496a575db6163b7359075e-985x1200.jpg",
@@ -450,7 +465,7 @@
           "description": "Ilya Lichtenstein, also known as 'Razzlekhan', has been sentenced to 60 months (five years) in prison for laundering funds from the Bitfinex hack, one of the largest Bitcoin heists in history",
           "link": "https://thedefiant.io/news/regulation/ilya-lichtenstein-sentenced-to-60-months-laundering-bitfinex-funds-9eea12ce",
           "publishedOn": "2024-11-15T04:26:02.000Z",
-          "wordCount": 2150,
+          "wordCount": 2140,
           "title": "Ilya Lichtenstein Sentenced to 60 Months for Laundering Bitfinex Funds",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/22aa9032e16977ada6c79b5a7e04af747cdc4214-1125x688.jpg",
@@ -490,7 +505,7 @@
           "description": "The booming prediction market platform began geo-blocking U.S. users in 2022, but U.S. residents reportedly turned to VPNs to access the website.",
           "link": "https://thedefiant.io/news/regulation/fbi-raids-polymarket-ceo-s-home-over-alleged-u-s-betting-violations",
           "publishedOn": "2024-11-14T13:28:00.000Z",
-          "wordCount": 2501,
+          "wordCount": 2499,
           "title": "FBI Raids Polymarket CEO’s Home Over Alleged U.S. Betting Violations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3149d639b199a76990f705260482317632896289-1555x875.png",
@@ -1030,7 +1045,7 @@
           "description": "Trump’s team is reportedly looking to fill key roles at the CFTC, FDIC, and OCC as well.",
           "link": "https://thedefiant.io/news/regulation/trump-considers-pro-crypto-officials-to-head-sec",
           "publishedOn": "2024-11-12T14:37:00.000Z",
-          "wordCount": 2718,
+          "wordCount": 2716,
           "title": "Trump Considers Pro-Crypto Officials To Head SEC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/de28d5e89c26bb78f6ec56f821ca4b1efee0fed7-1555x875.png",
@@ -1165,7 +1180,7 @@
           "description": "The major crypto VC anticipates a shift from “regulation by enforcement” to a more constructive legislative approach.",
           "link": "https://thedefiant.io/news/regulation/a16z-predicts-bright-future-for-crypto-under-trump",
           "publishedOn": "2024-11-11T11:39:00.000Z",
-          "wordCount": 2656,
+          "wordCount": 2646,
           "title": "A16z Predicts Bright Future for Crypto Under Trump",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2da38e76d7555ab7739b748f0c6a47fc38df43b0-1555x875.png",
@@ -1240,7 +1255,7 @@
           "description": "At least five U.S. states support various government service payments in the form of crypto.",
           "link": "https://thedefiant.io/news/regulation/detroit-to-become-largest-u-s-city-to-accept-cryptocurrency-for-taxes-and-fees",
           "publishedOn": "2024-11-08T13:30:00.000Z",
-          "wordCount": 2483,
+          "wordCount": 2473,
           "title": "Detroit to Become Largest U.S. City Accepting Crypto for Taxes",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bfd5cb7dedb8380dd5717af8b13887845002a4cf-1555x875.png",
@@ -1270,7 +1285,7 @@
           "description": "Germany's recent decision to sell its Bitcoin holdings has drawn criticism as the cryptocurrency's value has surged",
           "link": "https://thedefiant.io/news/regulation/germany-sells-50000-btc-54k-losing-872-million-bitcoin-value-surges-to-3-75-02a76683",
           "publishedOn": "2024-11-08T12:45:47.000Z",
-          "wordCount": 2185,
+          "wordCount": 2175,
           "title": "Germany Sells 50,000 BTC at $54K, Losing $872 Million as Bitcoin Value Surges to $3.75 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/49642430802ccad5d990fe36678449b81b3e0bc5-666x234.png",
@@ -1355,7 +1370,7 @@
           "description": "Detroit, Michigan, has announced that it will start accepting Bitcoin and other cryptocurrencies for tax payments and city fees beginning in mid-2025",
           "link": "https://thedefiant.io/news/regulation/detroit-to-accept-bitcoin-taxes-fees-2025-managed-paypal-b50a4cb9",
           "publishedOn": "2024-11-08T12:41:58.000Z",
-          "wordCount": 2148,
+          "wordCount": 2138,
           "title": "Detroit to Accept Bitcoin for Taxes and Fees in 2025, Managed by PayPal",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/abbd74ed1b28158ca9eec0c5b89026e383c1f82b-810x810.jpg",
@@ -1400,7 +1415,7 @@
           "description": "President-elect Donald Trump is considering candidates to replace SEC Chair Gary Gensler immediately upon taking office, with Robinhood's Chief Legal Officer Dan Gallagher reportedly the front-runner, according to Reuters",
           "link": "https://thedefiant.io/news/regulation/trump-to-replace-sec-chair-gensler-immediately-robinhood-clo-dan-gallagher-front-37e21d3d",
           "publishedOn": "2024-11-08T12:41:35.000Z",
-          "wordCount": 2230,
+          "wordCount": 2220,
           "title": "Trump to Replace SEC Chair Gensler Immediately, Robinhood CLO Dan Gallagher Front-runner",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cd7d029aca1f0d86ae20d90074744224b1e3b6f9-1024x768.jpg",
@@ -1513,21 +1528,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/00fc7d195fc480e8a50ef2407efd825a25a6c7df-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-soars-above-usd76-000-ahead-of-fed-decision",
-          "author": "Mehab Qureshi",
-          "description": "Ethereum and Solana rallied 8% and 5%, respectively.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-soars-above-usd76-000-ahead-of-fed-decision",
-          "publishedOn": "2024-11-07T18:13:08.000Z",
-          "wordCount": 2399,
-          "title": "Bitcoin Soars Above $76,000 Ahead of Fed Decision",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9781875c407a0a6d56c67f9fc1f2f02ef52e9b8c-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9781875c407a0a6d56c67f9fc1f2f02ef52e9b8c-1555x875.png"
         }
       ]
     },
