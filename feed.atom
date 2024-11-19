@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-19T08:21:52.925Z</id>
+    <id>urn:2024-11-19T09:18:11.683Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-19T08:21:52.925Z</updated>
+    <updated>2024-11-19T09:18:11.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[The protocol’s new permissionless markets are powered by an automated master liquidity vault.]]></summary>
         <author>
             <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic Eden Unveils $ME Tokenomics]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/magic-eden-unveils-usdme-tokenomics</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/magic-eden-unveils-usdme-tokenomics"/>
+        <updated>2024-11-19T05:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The NFT marketplace is set to launch its token and airdrop “in a few weeks.”]]></summary>
+        <author>
+            <name>yyctrader</name>
         </author>
     </entry>
     <entry>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Ethereum and Solana rallied 8% and 5%, respectively.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protocol Guild Has Distributed $20M To Support Ethereum Development]]></title>
-        <id>https://thedefiant.io/news/blockchains/protocol-guild-has-distributed-usd20m-to-support-ethereum-development</id>
-        <link href="https://thedefiant.io/news/blockchains/protocol-guild-has-distributed-usd20m-to-support-ethereum-development"/>
-        <updated>2024-11-07T13:42:00.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum community is rallying behind Protocol Guild, a collective funding mechanism supporting 181 Ethereum core protocol developers.]]></summary>
-        <author>
-            <name>Samuel Haig</name>
         </author>
     </entry>
     <entry>
