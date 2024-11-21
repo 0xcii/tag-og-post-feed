@@ -21,7 +21,7 @@
           "description": "The Wharton business school celebrates capitalism and American exceptionalism. Wide-eyed and bushy-tailed students from across the globe…",
           "link": "https://cryptohayes.medium.com/%E5%8A%A0%E6%B2%B9%E6%AF%94%E7%89%B9%E5%B8%81-lets-go-bitcoin-076f153fd502?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-28T23:02:17.000Z",
-          "wordCount": 13281,
+          "wordCount": 13262,
           "title": "加油比特币 Let’s Go Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*W6ok8Kw2Mwr0RD9h.jpeg"
         }
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/blockchains/litecoin-distances-itself-from-lester-memecoin",
+          "author": "Joel Lim",
+          "description": "Litecoin became the subject of controversy after its new mascot was launched as a meme coin.",
+          "link": "https://thedefiant.io/news/blockchains/litecoin-distances-itself-from-lester-memecoin",
+          "publishedOn": "2024-11-21T10:18:52.000Z",
+          "wordCount": 2358,
+          "title": "Litecoin Distances Itself from Lester Memecoin",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5efe73732c49e2e48b84c6df2b75dff6994624b5-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5efe73732c49e2e48b84c6df2b75dff6994624b5-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-hits-another-record-high-of-usd94-900",
           "author": "Mehab Qureshi",
@@ -1282,7 +1297,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/ftx-sues-binance-over-usd1-76b-share-repurchase-deal",
           "author": "Samuel Haig and Mehab Qureshi",
-          "description": "FTX wants to claw back $1.76 billion it claims was stolen from customers buy Binance out of its ownership stake in the exchange.",
+          "description": "The complaint alleges that FTX customers’ assets were used to fund a share repurchase deal from Binance.",
           "link": "https://thedefiant.io/news/cefi/ftx-sues-binance-over-usd1-76b-share-repurchase-deal",
           "publishedOn": "2024-11-11T16:19:00.000Z",
           "wordCount": 2605,
@@ -1513,21 +1528,6 @@
           "wordCount": 2166,
           "title": "Trump to Make U.S. World’s Crypto Capital and Establish Strategic Bitcoin Reserve Amid $1.4 Trillion Stimulus, Chinese Media Reports",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-hits-multiple-all-time-highs-latest-76679-fourth-time-this-week-bf707a08",
-          "author": "DeepNewz",
-          "description": "Bitcoin has reached a new all-time high (ATH) multiple times this week, with the latest peak at $76,679",
-          "link": "https://thedefiant.io/news/markets/bitcoin-hits-multiple-all-time-highs-latest-76679-fourth-time-this-week-bf707a08",
-          "publishedOn": "2024-11-08T12:44:47.000Z",
-          "wordCount": 2112,
-          "title": "Bitcoin Hits Multiple All-Time Highs, Latest at $76,679, Fourth Time This Week",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/65b1f2fb8cc9fd77b955b9846364791d393d8a8c-1072x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/65b1f2fb8cc9fd77b955b9846364791d393d8a8c-1072x1200.jpg"
         }
       ]
     },
