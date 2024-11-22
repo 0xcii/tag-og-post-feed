@@ -11,7 +11,7 @@
           "description": "Former President of China Deng Xiaoping famously quipped the following when asked about his pragmatic approach to the implementation of…",
           "link": "https://cryptohayes.medium.com/black-or-white-ba5e07049ba3?source=rss-2f6e06954878------2",
           "publishedOn": "2024-11-11T23:02:28.000Z",
-          "wordCount": 11794,
+          "wordCount": 11785,
           "title": "Black or White?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*_LVnkLC56EoU6vnA.jpeg"
         },
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/markets/ai-agent-tokens-rebound-to-fresh-highs",
+          "author": "Squiffs",
+          "description": "Many AI tokens sold off as traders chased TikTok memecoins, but the winners have bounced back to new highs.",
+          "link": "https://thedefiant.io/news/markets/ai-agent-tokens-rebound-to-fresh-highs",
+          "publishedOn": "2024-11-22T20:25:59.000Z",
+          "wordCount": 2300,
+          "title": "AI Agent Tokens Rebound to Fresh Highs",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/92cee216a705e9be63228b4fdc1a49999373b3f4-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/92cee216a705e9be63228b4fdc1a49999373b3f4-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/markets/veteran-layer-1s-lead-rally-as-bitcoin-hovers-at-usd99-000",
           "author": "Mehab Qureshi",
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/59f8427eee6b8eeba471f159adbb182d705c0bbd-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/education/premium-tutorials/trench-trading-market-leader-vs-beta-plays",
-          "author": "Squiffs",
-          "description": "Trends to Watch (AI memecoins + Airdrops)",
-          "link": "https://thedefiant.io/education/premium-tutorials/trench-trading-market-leader-vs-beta-plays",
-          "publishedOn": "2024-11-12T01:00:00.000Z",
-          "wordCount": 2493,
-          "title": "Trench Trading: Market Leader vs Beta Plays",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/190559ca68d897dd15735019702d72398e8ee34f-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/190559ca68d897dd15735019702d72398e8ee34f-1555x875.png"
         }
       ]
     },
