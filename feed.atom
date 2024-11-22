@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-22T17:14:43.794Z</id>
+    <id>urn:2024-11-22T18:23:48.829Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-22T17:14:43.794Z</updated>
+    <updated>2024-11-22T18:23:48.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin’s Rally Sends Bitcoin Spot ETFs Soaring]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-s-rally-sends-bitcoin-spot-etfs-soaring</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-s-rally-sends-bitcoin-spot-etfs-soaring"/>
+        <updated>2024-11-22T18:14:56.000Z</updated>
+        <summary type="html"><![CDATA[The asset class hits a new milestone and is edging closer to surpassing Gold ETFs.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump Team Considers Creating First-Ever White House Crypto Role]]></title>
         <id>https://thedefiant.io/news/regulation/trump-team-considers-creating-first-ever-white-house-crypto-role</id>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[The crypto rally continues, with Ethereum and Solana gaining 5%.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Sues Binance Over $1.76B Share Repurchase Deal]]></title>
-        <id>https://thedefiant.io/news/cefi/ftx-sues-binance-over-usd1-76b-share-repurchase-deal</id>
-        <link href="https://thedefiant.io/news/cefi/ftx-sues-binance-over-usd1-76b-share-repurchase-deal"/>
-        <updated>2024-11-11T16:19:00.000Z</updated>
-        <summary type="html"><![CDATA[The complaint alleges that FTX customers’ assets were used to fund a share repurchase deal from Binance.]]></summary>
-        <author>
-            <name>Samuel Haig and Mehab Qureshi</name>
         </author>
     </entry>
     <entry>

@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-s-rally-sends-bitcoin-spot-etfs-soaring",
+          "author": "Joel Lim",
+          "description": "The asset class hits a new milestone and is edging closer to surpassing Gold ETFs.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-s-rally-sends-bitcoin-spot-etfs-soaring",
+          "publishedOn": "2024-11-22T18:14:56.000Z",
+          "wordCount": 2401,
+          "title": "Bitcoin’s Rally Sends Bitcoin Spot ETFs Soaring",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5e653a3b2627bd1424b7e9ceb1a613d771fc7973-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5e653a3b2627bd1424b7e9ceb1a613d771fc7973-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/trump-team-considers-creating-first-ever-white-house-crypto-role",
           "author": "Joel Lim",
           "description": "Bloomberg reported major crypto players are pushing for the role to have a direct line to the president himself.",
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/32ebf26675398a9ff70796d79bf7444b21ab973a-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/ftx-sues-binance-over-usd1-76b-share-repurchase-deal",
-          "author": "Samuel Haig and Mehab Qureshi",
-          "description": "The complaint alleges that FTX customers’ assets were used to fund a share repurchase deal from Binance.",
-          "link": "https://thedefiant.io/news/cefi/ftx-sues-binance-over-usd1-76b-share-repurchase-deal",
-          "publishedOn": "2024-11-11T16:19:00.000Z",
-          "wordCount": 2605,
-          "title": "FTX Sues Binance Over $1.76B Share Repurchase Deal",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/62643b92753f63b2d39d83682f18392eaa1840ba-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/62643b92753f63b2d39d83682f18392eaa1840ba-1555x875.png"
         }
       ]
     },
