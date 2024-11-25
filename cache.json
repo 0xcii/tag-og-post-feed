@@ -21,7 +21,7 @@
           "description": "The Wharton business school celebrates capitalism and American exceptionalism. Wide-eyed and bushy-tailed students from across the globe…",
           "link": "https://cryptohayes.medium.com/%E5%8A%A0%E6%B2%B9%E6%AF%94%E7%89%B9%E5%B8%81-lets-go-bitcoin-076f153fd502?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-28T23:02:17.000Z",
-          "wordCount": 13281,
+          "wordCount": 13290,
           "title": "加油比特币 Let’s Go Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*W6ok8Kw2Mwr0RD9h.jpeg"
         }
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/markets/have-memecoins-come-full-circle",
+          "author": "Squiffs",
+          "description": "Pump.Fun is seeing an influx of token launches that back tangible products and startups.",
+          "link": "https://thedefiant.io/news/markets/have-memecoins-come-full-circle",
+          "publishedOn": "2024-11-25T19:51:42.000Z",
+          "wordCount": 2292,
+          "title": "Have Memecoins Come Full Circle?",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/624d6562bef3accc92baabc7c660334b8cfce84d-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/624d6562bef3accc92baabc7c660334b8cfce84d-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/regulation/trump-s-media-company-files-crypto-payments-trademark",
           "author": "Joel Lim",
@@ -1518,21 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/780765b6465e0dcbf6f79619fc1dd980de55c202-1200x676.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/publicly-traded-genius-group-adopts-bitcoin-primary-treasury-asset-120m-ee7c195a",
-          "author": "DeepNewz",
-          "description": "Genius Group, a publicly traded, Singapore-based artificial intelligence company, has adopted Bitcoin as its primary treasury asset",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/publicly-traded-genius-group-adopts-bitcoin-primary-treasury-asset-120m-ee7c195a",
-          "publishedOn": "2024-11-12T17:44:20.000Z",
-          "wordCount": 2150,
-          "title": "Publicly Traded Genius Group Adopts Bitcoin as Primary Treasury Asset with $120M Investment",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fcd65044d51306bef2a76357db86ac66d0a13c01-968x918.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fcd65044d51306bef2a76357db86ac66d0a13c01-968x918.jpg"
         }
       ]
     },
