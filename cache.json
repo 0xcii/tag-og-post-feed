@@ -21,7 +21,7 @@
           "description": "The Wharton business school celebrates capitalism and American exceptionalism. Wide-eyed and bushy-tailed students from across the globe…",
           "link": "https://cryptohayes.medium.com/%E5%8A%A0%E6%B2%B9%E6%AF%94%E7%89%B9%E5%B8%81-lets-go-bitcoin-076f153fd502?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-28T23:02:17.000Z",
-          "wordCount": 13290,
+          "wordCount": 13281,
           "title": "加油比特币 Let’s Go Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*W6ok8Kw2Mwr0RD9h.jpeg"
         }
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/regulation/trump-s-media-company-files-crypto-payments-trademark",
+          "author": "Joel Lim",
+          "description": "Trump Media and Technology Group recently filed a trademark application for a crypto payment solution called TruthFi.",
+          "link": "https://thedefiant.io/news/regulation/trump-s-media-company-files-crypto-payments-trademark",
+          "publishedOn": "2024-11-25T18:41:44.000Z",
+          "wordCount": 2362,
+          "title": "Trump’s Media Company Files Crypto Payments Trademark",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/06c18abe768986462dc95b193815ca1069e0c7e4-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/06c18abe768986462dc95b193815ca1069e0c7e4-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-trades-flat-amid-usd500-million-of-crypto-liquidations",
           "author": "Mehab Qureshi",
@@ -1282,7 +1297,7 @@
         {
           "id": "https://thedefiant.io/news/defi/lens-launches-v3-testnet-for-developers",
           "author": "Samuel Haig",
-          "description": "Lens v3 is now live on testnet, allowing developers to explore the upcoming social graph protocol.",
+          "description": "The new iteration will introduce a slew of turn-key social features for developers alongside smart contract-based data storage.",
           "link": "https://thedefiant.io/news/defi/lens-launches-v3-testnet-for-developers",
           "publishedOn": "2024-11-13T14:46:00.000Z",
           "wordCount": 2382,
@@ -1518,21 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fcd65044d51306bef2a76357db86ac66d0a13c01-968x918.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/1-billion-leveraged-crypto-positions-liquidated-bitcoin-hits-89000-709-million-d3fe519a",
-          "author": "DeepNewz",
-          "description": "On November 12, 2024, over $1 billion in leveraged cryptocurrency positions were liquidated as Bitcoin reached a record high of $89,000",
-          "link": "https://thedefiant.io/news/markets/1-billion-leveraged-crypto-positions-liquidated-bitcoin-hits-89000-709-million-d3fe519a",
-          "publishedOn": "2024-11-12T17:44:16.000Z",
-          "wordCount": 2157,
-          "title": "$1 Billion in Leveraged Crypto Positions Liquidated as Bitcoin Hits $89,000; $709 Million Liquidated at $81,000",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7312fd1834a0f6921332a92589e98a18c8c6d07a-1024x576.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7312fd1834a0f6921332a92589e98a18c8c6d07a-1024x576.jpg"
         }
       ]
     },

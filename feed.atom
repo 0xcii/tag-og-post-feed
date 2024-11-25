@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-25T18:23:00.004Z</id>
+    <id>urn:2024-11-25T19:13:38.723Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-25T18:23:00.004Z</updated>
+    <updated>2024-11-25T19:13:38.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trump’s Media Company Files Crypto Payments Trademark]]></title>
+        <id>https://thedefiant.io/news/regulation/trump-s-media-company-files-crypto-payments-trademark</id>
+        <link href="https://thedefiant.io/news/regulation/trump-s-media-company-files-crypto-payments-trademark"/>
+        <updated>2024-11-25T18:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Trump Media and Technology Group recently filed a trademark application for a crypto payment solution called TruthFi.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Trades Flat Amid $500 Million of Crypto Liquidations]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-trades-flat-amid-usd500-million-of-crypto-liquidations</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/lens-launches-v3-testnet-for-developers</id>
         <link href="https://thedefiant.io/news/defi/lens-launches-v3-testnet-for-developers"/>
         <updated>2024-11-13T14:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Lens v3 is now live on testnet, allowing developers to explore the upcoming social graph protocol.]]></summary>
+        <summary type="html"><![CDATA[The new iteration will introduce a slew of turn-key social features for developers alongside smart contract-based data storage.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/publicly-traded-genius-group-adopts-bitcoin-primary-treasury-asset-120m-ee7c195a"/>
         <updated>2024-11-12T17:44:20.000Z</updated>
         <summary type="html"><![CDATA[Genius Group, a publicly traded, Singapore-based artificial intelligence company, has adopted Bitcoin as its primary treasury asset]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$1 Billion in Leveraged Crypto Positions Liquidated as Bitcoin Hits $89,000; $709 Million Liquidated at $81,000]]></title>
-        <id>https://thedefiant.io/news/markets/1-billion-leveraged-crypto-positions-liquidated-bitcoin-hits-89000-709-million-d3fe519a</id>
-        <link href="https://thedefiant.io/news/markets/1-billion-leveraged-crypto-positions-liquidated-bitcoin-hits-89000-709-million-d3fe519a"/>
-        <updated>2024-11-12T17:44:16.000Z</updated>
-        <summary type="html"><![CDATA[On November 12, 2024, over $1 billion in leveraged cryptocurrency positions were liquidated as Bitcoin reached a record high of $89,000]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
