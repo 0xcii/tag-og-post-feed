@@ -21,7 +21,7 @@
           "description": "The Wharton business school celebrates capitalism and American exceptionalism. Wide-eyed and bushy-tailed students from across the globe…",
           "link": "https://cryptohayes.medium.com/%E5%8A%A0%E6%B2%B9%E6%AF%94%E7%89%B9%E5%B8%81-lets-go-bitcoin-076f153fd502?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-28T23:02:17.000Z",
-          "wordCount": 13281,
+          "wordCount": 13290,
           "title": "加油比特币 Let’s Go Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*W6ok8Kw2Mwr0RD9h.jpeg"
         }
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/defi/voting-on-jupiter-s-next-proposed-airdrop-is-live",
+          "author": "Joel Lim",
+          "description": "1.4 million JUP tokens could be airdropped to community members if the vote passes.",
+          "link": "https://thedefiant.io/news/defi/voting-on-jupiter-s-next-proposed-airdrop-is-live",
+          "publishedOn": "2024-11-26T19:09:19.000Z",
+          "wordCount": 2442,
+          "title": "Voting on Jupiter’s Next Proposed Airdrop is Live",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a2bc77e11a74c2ea057c89e7dea6f49b2a682588-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a2bc77e11a74c2ea057c89e7dea6f49b2a682588-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-falls-below-usd93-000-as-market-cools-off",
           "author": "Mehab Qureshi",
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1bc6fa7e5c54709de575762785c32ca3c8a92920-882x514.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-tops-usd93-000-as-etfs-attract-nearly-usd2-billion-in-two-days",
-          "author": "yyctrader",
-          "description": "At 61.3%, BTC dominance is at the highest level since March 2021.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-tops-usd93-000-as-etfs-attract-nearly-usd2-billion-in-two-days",
-          "publishedOn": "2024-11-13T21:23:17.000Z",
-          "wordCount": 2242,
-          "title": "Bitcoin Tops $93,000 as ETFs Attract Nearly $2 Billion in Two Days",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5926aacc4ebe463a033eb49be927191ebc4a4e24-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5926aacc4ebe463a033eb49be927191ebc4a4e24-1555x875.png"
         }
       ]
     },
