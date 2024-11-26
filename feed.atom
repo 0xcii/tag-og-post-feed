@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-26T08:22:38.968Z</id>
+    <id>urn:2024-11-26T09:18:26.189Z</id>
     <title>web3::cave</title>
-    <updated>2024-11-26T08:22:38.968Z</updated>
+    <updated>2024-11-26T09:18:26.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Donald Trump Holds Over $5.4M in Crypto, Largest by a U.S. President, with Ethereum as Top Asset]]></title>
+        <id>https://thedefiant.io/news/people/donald-trump-holds-over-5-4m-crypto-largest-u-s-president-ethereum-top-asset-ad8936c4</id>
+        <link href="https://thedefiant.io/news/people/donald-trump-holds-over-5-4m-crypto-largest-u-s-president-ethereum-top-asset-ad8936c4"/>
+        <updated>2024-11-26T08:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Donald Trump, the President-elect of the United States, reportedly holds over $5.4 million in cryptocurrency.]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Founder Zhao Changpeng Calls for Focus on Real Applications Amid Concerns Over Two BNBChain Memecoins' Sharp Price Drop]]></title>
+        <id>https://thedefiant.io/news/people/binance-founder-zhao-changpeng-calls-focus-on-real-applications-amid-concerns-d6563ab5</id>
+        <link href="https://thedefiant.io/news/people/binance-founder-zhao-changpeng-calls-focus-on-real-applications-amid-concerns-d6563ab5"/>
+        <updated>2024-11-26T08:41:28.000Z</updated>
+        <summary type="html"><![CDATA[Zhao Changpeng, the founder of Binance, has expressed concerns about the current state of meme coins, stating that they are becoming "a little weird now]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Assets Record All-time High Weekly Inflows]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-assets-record-all-time-high-weekly-inflows</id>
+        <link href="https://thedefiant.io/news/markets/crypto-assets-record-all-time-high-weekly-inflows"/>
+        <updated>2024-11-26T08:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Solana are the best performers, as crypto assets hit a record weekly inflow of $3.13 billion.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeSci Momentum Picks Up]]></title>
         <id>https://thedefiant.io/news/markets/desci-momentum-picks-up</id>
@@ -416,6 +446,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Markets - Bitcoin Surges to $93,500]]></title>
+        <id>https://thedefiant.io/education/premium-tutorials/markets-bitcoin-surges-to-usd93-500</id>
+        <link href="https://thedefiant.io/education/premium-tutorials/markets-bitcoin-surges-to-usd93-500"/>
+        <updated>2024-11-19T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Ripple (XRP) is our chart of the week.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DYdX Launches Permissionless Listings With Unlimited Upgrade]]></title>
         <id>https://thedefiant.io/news/defi/dydx-launches-permissionless-listings-with-unlimited-upgrade</id>
         <link href="https://thedefiant.io/news/defi/dydx-launches-permissionless-listings-with-unlimited-upgrade"/>
@@ -526,6 +566,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Deal With Market Volatility]]></title>
+        <id>https://thedefiant.io/education/premium-tutorials/how-to-deal-with-market-volatility</id>
+        <link href="https://thedefiant.io/education/premium-tutorials/how-to-deal-with-market-volatility"/>
+        <updated>2024-11-18T08:41:00.000Z</updated>
+        <summary type="html"><![CDATA[The ability to remain objective and understand why your position is not performing is imperative.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BONK Rallies As Burn Event Commences, But Supply Impact Will Be Minimal]]></title>
         <id>https://thedefiant.io/news/tokens/bonk-rallies-as-burn-event-commences-but-supply-impact-will-be-minimal</id>
         <link href="https://thedefiant.io/news/tokens/bonk-rallies-as-burn-event-commences-but-supply-impact-will-be-minimal"/>
@@ -533,6 +583,16 @@
         <summary type="html"><![CDATA[Bonk aims to burn 1 trillion tokens after roughly six weeks.]]></summary>
         <author>
             <name>Samuel Haig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolv: The Programmatic, Delta-Neutral Stablecoin]]></title>
+        <id>https://thedefiant.io/education/premium-tutorials/resolv-the-programmatic-delta-neutral-stablecoin</id>
+        <link href="https://thedefiant.io/education/premium-tutorials/resolv-the-programmatic-delta-neutral-stablecoin"/>
+        <updated>2024-11-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As of this post, there is $13.4M in USR, earning 21.68% APR for stUSR holders while there’s $10.4M in RLP, earning 41.98% APR for RLP holders.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
@@ -941,66 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/paypal-integrates-layerzero-pyusd-transfers-between-ethereum-solana-using-85b83360"/>
         <updated>2024-11-13T01:09:47.000Z</updated>
         <summary type="html"><![CDATA[PayPal has announced the integration of its stablecoin, PayPal USD (PYUSD), with LayerZero, enabling seamless transfers between the Ethereum and Solana blockchains]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonshot Memecoin App Hits All-time High Daily Revenue]]></title>
-        <id>https://thedefiant.io/news/defi/moonshot-memecoin-app-hits-all-time-high-daily-revenue</id>
-        <link href="https://thedefiant.io/news/defi/moonshot-memecoin-app-hits-all-time-high-daily-revenue"/>
-        <updated>2024-11-12T22:01:47.000Z</updated>
-        <summary type="html"><![CDATA[The retail-focused memecoin trading app surpassed $100,000 in daily revenue for the first time since its launch.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doodles NFTs Soar on McDonald’s Collaboration]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/doodles-nfts-soar-on-mcdonald-s-collaboration</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/doodles-nfts-soar-on-mcdonald-s-collaboration"/>
-        <updated>2024-11-12T20:25:54.000Z</updated>
-        <summary type="html"><![CDATA[The fast food giant posted a teaser, with more information to be revealed next week.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Consolidates after Approaching $90,000]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-consolidates-after-approaching-usd90-000</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-consolidates-after-approaching-usd90-000"/>
-        <updated>2024-11-12T18:10:17.000Z</updated>
-        <summary type="html"><![CDATA[Asset manager Bernstein says, "Welcome to the crypto bull market — buy everything you can."]]></summary>
-        <author>
-            <name>Mehab Qureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDC Supply Grows $1.93B (5.5%) as Stablecoin Market Hits $176B, Enhancing U.S. Dollar Dominance]]></title>
-        <id>https://thedefiant.io/news/defi/usdc-supply-grows-1-93b-5-5-stablecoin-market-hits-176b-enhancing-u-s-dollar-45b11146</id>
-        <link href="https://thedefiant.io/news/defi/usdc-supply-grows-1-93b-5-5-stablecoin-market-hits-176b-enhancing-u-s-dollar-45b11146"/>
-        <updated>2024-11-12T17:45:02.000Z</updated>
-        <summary type="html"><![CDATA[The stablecoin market has experienced significant growth, particularly in the wake of the recent elections]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwise to Launch World's First Aptos Staking ETP (APTB) on Swiss Exchange on November 19, 2024]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/bitwise-to-launch-world-s-first-aptos-staking-etp-aptb-on-swiss-exchange-on-19-a3ee5689</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/bitwise-to-launch-world-s-first-aptos-staking-etp-aptb-on-swiss-exchange-on-19-a3ee5689"/>
-        <updated>2024-11-12T17:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Bitwise Asset Management has announced the upcoming launch of the world's first Aptos Staking ETP]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI $SOL Memecoin $GOAT Surpasses $1 Billion Market Cap, Listed on Bybit]]></title>
-        <id>https://thedefiant.io/news/markets/ai-sol-memecoin-goat-surpasses-1-billion-market-cap-listed-on-bybit-844c2e73</id>
-        <link href="https://thedefiant.io/news/markets/ai-sol-memecoin-goat-surpasses-1-billion-market-cap-listed-on-bybit-844c2e73"/>
-        <updated>2024-11-12T17:44:49.000Z</updated>
-        <summary type="html"><![CDATA[The Solana-based AI $SOL memecoin $GOAT has achieved a significant milestone by surpassing a market cap of $1 billion]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
