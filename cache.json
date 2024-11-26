@@ -11,7 +11,7 @@
           "description": "Former President of China Deng Xiaoping famously quipped the following when asked about his pragmatic approach to the implementation of…",
           "link": "https://cryptohayes.medium.com/black-or-white-ba5e07049ba3?source=rss-2f6e06954878------2",
           "publishedOn": "2024-11-11T23:02:28.000Z",
-          "wordCount": 11785,
+          "wordCount": 11794,
           "title": "Black or White?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*_LVnkLC56EoU6vnA.jpeg"
         },
@@ -21,7 +21,7 @@
           "description": "The Wharton business school celebrates capitalism and American exceptionalism. Wide-eyed and bushy-tailed students from across the globe…",
           "link": "https://cryptohayes.medium.com/%E5%8A%A0%E6%B2%B9%E6%AF%94%E7%89%B9%E5%B8%81-lets-go-bitcoin-076f153fd502?source=rss-2f6e06954878------2",
           "publishedOn": "2024-10-28T23:02:17.000Z",
-          "wordCount": 13290,
+          "wordCount": 13281,
           "title": "加油比特币 Let’s Go Bitcoin",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*W6ok8Kw2Mwr0RD9h.jpeg"
         }
@@ -44,6 +44,36 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-market-cap-plummets-100-billion-after-jim-cramer-s-bullish-call-price-to-8e741562",
+          "author": "DeepNewz",
+          "description": "Bitcoin's market value has seen a significant decline since Jim Cramer, a prominent financial commentator, expressed a bullish stance on the cryptocurrency",
+          "link": "https://thedefiant.io/news/markets/bitcoin-market-cap-plummets-100-billion-after-jim-cramer-s-bullish-call-price-to-8e741562",
+          "publishedOn": "2024-11-26T10:00:44.000Z",
+          "wordCount": 2199,
+          "title": "Bitcoin Market Cap Plummets $100 Billion After Jim Cramer's Bullish Call, Price Falls from $99,000 to $95,000",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/044ce849c84d8bddc8368afc8b1568447fbb4109-1179x829.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/044ce849c84d8bddc8368afc8b1568447fbb4109-1179x829.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-s-118-billion-report-calls-el-salvador-s-bitcoin-adoption-latin-america-s-d5ec20d8",
+          "author": "DeepNewz",
+          "description": "VanEck, a financial investment firm with $118 billion in assets under management, has labeled El Salvador's adoption of Bitcoin as 'Latin America's ultimate comeback story",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-s-118-billion-report-calls-el-salvador-s-bitcoin-adoption-latin-america-s-d5ec20d8",
+          "publishedOn": "2024-11-26T09:25:00.000Z",
+          "wordCount": 2192,
+          "title": "VanEck's $118 Billion Report Calls El Salvador's Bitcoin Adoption 'Latin America's Ultimate Comeback Story' Under Nayib Bukele",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e799c105d4ff977f50422c0b289fd5cd3592c69f-975x967.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e799c105d4ff977f50422c0b289fd5cd3592c69f-975x967.jpg"
+        },
         {
           "id": "https://thedefiant.io/news/people/donald-trump-holds-over-5-4m-crypto-largest-u-s-president-ethereum-top-asset-ad8936c4",
           "author": "DeepNewz",
@@ -665,7 +695,7 @@
           "description": "The initiative comprises the second pilot phase involving the DLT platform of Brazil’s central bank.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/brazil-taps-chainlink-for-cross-border-cbdc-trade-finance-pilot",
           "publishedOn": "2024-11-19T14:00:00.000Z",
-          "wordCount": 2397,
+          "wordCount": 2403,
           "title": "Brazil Taps Chainlink For Cross-Border CBDC Trade Finance Pilot",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/58effd5f2368203caac09151b6c1618aaad5fb68-1555x875.png",
@@ -1140,7 +1170,7 @@
           "description": "Bitwise Asset Management has announced that NYSE Arca has filed to list the Bitwise 10 Crypto Index Fund (BITW) as an Exchange-Traded Product (ETP)",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bitwise-files-form-19b-4-to-list-1-3b-crypto-index-fund-bitw-etp-on-nyse-arca-ebdf70be",
           "publishedOn": "2024-11-15T04:26:29.000Z",
-          "wordCount": 2221,
+          "wordCount": 2227,
           "title": "Bitwise Files Form 19b-4 to List $1.3B Crypto Index Fund BITW as ETP on NYSE Arca, Includes BTC and SOL",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a69fa5236671f9dfb50ccf5b18c6f804adef491c-1200x675.jpg",
@@ -1360,7 +1390,7 @@
           "description": "BlackRock's Bitcoin ETF has reached $40 billion in assets under management (AUM) faster than any other ETF in history, achieving this milestone in just 211 days",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-s-bitcoin-etf-hits-40-billion-211-days-bitcoin-surges-to-91000-50c5f333",
           "publishedOn": "2024-11-13T21:00:17.000Z",
-          "wordCount": 2195,
+          "wordCount": 2201,
           "title": "BlackRock's Bitcoin ETF Hits $40 Billion in 211 Days, Bitcoin Surges to $91,000",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a670ddc8ec692450379745b837329d0f3bc0e61f-1199x770.jpg",
@@ -1435,7 +1465,7 @@
           "description": "Asset management company VanEck has launched a new SUI Exchange-Traded Note (ETN) listed on the Euronext Amsterdam and Paris exchanges",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-launches-sui-etn-mysten-labs-on-euronext-amsterdam-paris-577e3d3f",
           "publishedOn": "2024-11-13T18:33:59.000Z",
-          "wordCount": 2134,
+          "wordCount": 2140,
           "title": "VanEck Launches SUI ETN by Mysten Labs on Euronext Amsterdam and Paris",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2ea96dfde9bbc5f7d555f74f31dae083fe37aa58-1080x1080.jpg",
@@ -1503,36 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8b9681a001c7ba3e9086216f30b7e75409990548-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-reaches-new-all-time-high-90000-today-c903b7f4",
-          "author": "DeepNewz",
-          "description": "Bitcoin has reached a new all-time high of $90,000 for the first time today, marking a significant milestone in its history",
-          "link": "https://thedefiant.io/news/markets/bitcoin-reaches-new-all-time-high-90000-today-c903b7f4",
-          "publishedOn": "2024-11-13T01:10:06.000Z",
-          "wordCount": 2103,
-          "title": "Bitcoin Reaches New All-Time High of $90,000 Today",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/10e68e69dd6919488b84011beca1a9f42de01ae7-1179x811.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/10e68e69dd6919488b84011beca1a9f42de01ae7-1179x811.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/paypal-integrates-layerzero-pyusd-transfers-between-ethereum-solana-using-85b83360",
-          "author": "DeepNewz",
-          "description": "PayPal has announced the integration of its stablecoin, PayPal USD (PYUSD), with LayerZero, enabling seamless transfers between the Ethereum and Solana blockchains",
-          "link": "https://thedefiant.io/news/defi/paypal-integrates-layerzero-pyusd-transfers-between-ethereum-solana-using-85b83360",
-          "publishedOn": "2024-11-13T01:09:47.000Z",
-          "wordCount": 2121,
-          "title": "PayPal Integrates LayerZero for PYUSD Transfers Between Ethereum and Solana Using LayerZero",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0ad46349f761eab1050b082cf59be6834343a02-1200x703.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d0ad46349f761eab1050b082cf59be6834343a02-1200x703.jpg"
         }
       ]
     },
