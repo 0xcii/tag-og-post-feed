@@ -11,7 +11,7 @@
           "description": "Former President of China Deng Xiaoping famously quipped the following when asked about his pragmatic approach to the implementation of…",
           "link": "https://cryptohayes.medium.com/black-or-white-ba5e07049ba3?source=rss-2f6e06954878------2",
           "publishedOn": "2024-11-11T23:02:28.000Z",
-          "wordCount": 11785,
+          "wordCount": 11795,
           "title": "Black or White?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*_LVnkLC56EoU6vnA.jpeg"
         }
@@ -34,6 +34,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/defi/curve-launches-lite-protocol-targeting-ethereum-s-layer-2-ecosystem",
+          "author": "Samuel Haig",
+          "description": "Rollups leverage popular Layer 2 tech stacks can permissionlessly deploy Curve-Lite.",
+          "link": "https://thedefiant.io/news/defi/curve-launches-lite-protocol-targeting-ethereum-s-layer-2-ecosystem",
+          "publishedOn": "2024-11-29T12:23:00.000Z",
+          "wordCount": 2467,
+          "title": "Curve Launches ‘Lite’ Protocol Targeting Ethereum’s Layer 2 Ecosystem",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/39963980074932a8b6a3c25bcf9b77a27a086e8d-1792x1024.webp",
+            "length": "1000000",
+            "type": "image/webp"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/39963980074932a8b6a3c25bcf9b77a27a086e8d-1792x1024.webp"
+        },
         {
           "id": "https://thedefiant.io/news/tokens/solv-protocol-teases-token-generation-event",
           "author": "Samuel Haig",
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/04722710ea4dd3e2200c4f76c6a015ac1609add1-1200x835.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ethena-foundation-approves-fee-switch",
-          "author": "Squiffs",
-          "description": "The governance risk committee aims to enable revenue sharing with token holders by Nov 30",
-          "link": "https://thedefiant.io/news/defi/ethena-foundation-approves-fee-switch",
-          "publishedOn": "2024-11-18T17:50:56.000Z",
-          "wordCount": 2409,
-          "title": "Ethena Foundation Approves Fee Switch",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/737f1496510418c72edfafa44222fbfdc22968e1-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/737f1496510418c72edfafa44222fbfdc22968e1-1555x875.png"
         }
       ]
     },
