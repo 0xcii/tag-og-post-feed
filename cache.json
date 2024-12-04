@@ -11,7 +11,7 @@
           "description": "The grippy and the rod sometimes infect men and women and produce irrational behavior. It’s unfortunate that many Maelstrom portfolio…",
           "link": "https://cryptohayes.medium.com/the-cure-a0bff46b9454?source=rss-2f6e06954878------2",
           "publishedOn": "2024-12-02T23:02:18.000Z",
-          "wordCount": 8199,
+          "wordCount": 8208,
           "title": "The Cure",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:625/1*zgbpfSnIuONuJeGXhF9jiA.png"
         },
@@ -21,7 +21,7 @@
           "description": "Former President of China Deng Xiaoping famously quipped the following when asked about his pragmatic approach to the implementation of…",
           "link": "https://cryptohayes.medium.com/black-or-white-ba5e07049ba3?source=rss-2f6e06954878------2",
           "publishedOn": "2024-11-11T23:02:28.000Z",
-          "wordCount": 11785,
+          "wordCount": 11794,
           "title": "Black or White?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*_LVnkLC56EoU6vnA.jpeg"
         }
@@ -44,6 +44,66 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/blockchains/tron-surges-to-new-all-time-high",
+          "author": "Joel Lim",
+          "description": "Tron has surpassed its $14.76 billion valuation record set in January 2018.",
+          "link": "https://thedefiant.io/news/blockchains/tron-surges-to-new-all-time-high",
+          "publishedOn": "2024-12-04T12:29:48.000Z",
+          "wordCount": 2224,
+          "title": "Tron Surges to New All-Time High",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9d5a34bcab52bb2ad9168eb026ec093670a2a3f0-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9d5a34bcab52bb2ad9168eb026ec093670a2a3f0-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/gifto-mints-and-dumps-usd8-6-million-worth-of-tokens-after-binance-delisting",
+          "author": "Joel Lim",
+          "description": "The GFT token is down 75% in the last seven days.",
+          "link": "https://thedefiant.io/news/defi/gifto-mints-and-dumps-usd8-6-million-worth-of-tokens-after-binance-delisting",
+          "publishedOn": "2024-12-04T12:17:18.000Z",
+          "wordCount": 2281,
+          "title": "Gifto Mints and Dumps $8.6 Million Worth of Tokens After Binance Delisting",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/19e5d01bb39b6a4597b220d9bf5ba9b0dbfe69e6-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/19e5d01bb39b6a4597b220d9bf5ba9b0dbfe69e6-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/fireblocks-reveals-150-annual-increase-in-institutional-defi-transactions",
+          "author": "Samuel Haig",
+          "description": "Fireblocks’ institutional users executed more than $60 billion worth of DeFi transactions this year.",
+          "link": "https://thedefiant.io/news/defi/fireblocks-reveals-150-annual-increase-in-institutional-defi-transactions",
+          "publishedOn": "2024-12-04T12:00:00.000Z",
+          "wordCount": 2440,
+          "title": "Fireblocks Reveals 150% Annual Increase In Institutional DeFi Transactions",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a7a4a4147d933dc845357a0d55cc95a492573531-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a7a4a4147d933dc845357a0d55cc95a492573531-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/defi-tvl-soars-to-record-high-above-usd200b",
+          "author": "Samuel Haig",
+          "description": "The milestone follows growth of 82% since September, driven by the Ethereum, Solana, Tron, Base, and Bitcoin networks.",
+          "link": "https://thedefiant.io/news/markets/defi-tvl-soars-to-record-high-above-usd200b",
+          "publishedOn": "2024-12-04T11:18:00.000Z",
+          "wordCount": 2424,
+          "title": "DeFi TVL Soars To Record High Above $200B",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/08f2e781027861136672c08c94b33de29dd19aba-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/08f2e781027861136672c08c94b33de29dd19aba-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/defi/instadapp-proposes-rebrand-and-new-tokenomics-following-fluid-launch",
           "author": "Samuel Haig",
@@ -110,7 +170,7 @@
           "description": "Foundry, the world's largest Bitcoin mining pool and a subsidiary of Digital Currency Group, has announced a significant reduction in its workforce, laying off approximately 60% of its staff",
           "link": "https://thedefiant.io/news/blockchains/foundry-largest-bitcoin-mining-pool-30-hashrate-lays-off-60-staff-reducing-250-97e76bb5",
           "publishedOn": "2024-12-03T23:10:42.000Z",
-          "wordCount": 2247,
+          "wordCount": 2240,
           "title": "Foundry, largest Bitcoin mining pool with 30% hashrate, lays off 60% of staff, reducing from 250 to 80-90 employees",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d3c23275ea3e049a82984b30bfb41e5018c08bc6-1024x1024.jpg",
@@ -150,7 +210,7 @@
           "description": "The Solana web3",
           "link": "https://thedefiant.io/news/blockchains/solana-web3-js-library-compromised-versions-1-95-6-1-95-7-supply-chain-attack-to-fc9a91e0",
           "publishedOn": "2024-12-03T23:10:18.000Z",
-          "wordCount": 2095,
+          "wordCount": 2088,
           "title": "Solana web3.js Library Compromised in Versions 1.95.6 and 1.95.7",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3c7fd130173a8b454e9e06905e5f2820f1a5b110-1200x1004.jpg",
@@ -180,7 +240,7 @@
           "description": "Anticipation is building after Sonic, formerly Fantom, announced the blockchain's genesis block.",
           "link": "https://thedefiant.io/news/blockchains/ftm-soars-to-highest-level-since-april-2022",
           "publishedOn": "2024-12-03T21:36:18.000Z",
-          "wordCount": 2253,
+          "wordCount": 2245,
           "title": "FTM Soars to Highest Level Since April 2022",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/514769971a43573605d75a3bf1363474fbefa7a4-1555x875.png",
@@ -360,7 +420,7 @@
           "description": "The platform surpasses competitors including dYdX, SynFutures and ApeX Protocol, capturing about half of total daily trading volume.",
           "link": "https://thedefiant.io/news/markets/hyperliquid-dominates-crypto-derivatives-market-after-airdrop",
           "publishedOn": "2024-12-02T19:44:38.000Z",
-          "wordCount": 2642,
+          "wordCount": 2629,
           "title": "Hyperliquid Dominates Crypto Derivatives Market After Airdrop",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/18f1730853ed21e0aa108cee1e987a855ecedbdc-1555x875.png",
@@ -375,7 +435,7 @@
           "description": "23 years after it filed for bankruptcy, the company is back with a new vision and approach - or is it.",
           "link": "https://thedefiant.io/news/markets/fake-enron-announces-parody-crypto-relaunch-with-viral-post",
           "publishedOn": "2024-12-02T19:21:16.000Z",
-          "wordCount": 2597,
+          "wordCount": 2584,
           "title": "Fake Enron Announces Parody Crypto Relaunch With Viral Post",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8ff1122202197ca16a7051835cd6d0917fdedf3f-1555x875.png",
@@ -405,7 +465,7 @@
           "description": "XRP is staging an explosive rally while Bitcoin struggles.",
           "link": "https://thedefiant.io/news/markets/ripple-soars-on-regulatory-optimism-while-crypto-market-slips",
           "publishedOn": "2024-12-02T17:24:48.000Z",
-          "wordCount": 2428,
+          "wordCount": 2418,
           "title": "Ripple Soars on Regulatory Optimism while Crypto Market Slips",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5500a00a9ab5b645a75b3a5f37817ccc3ba16399-1555x875.png",
@@ -420,7 +480,7 @@
           "description": "Researchers believe the Beacon Chain needs to be overhauled to address centralization risks facing the network.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-celebrates-beacon-chain-s-fourth-birthday-ahead-of-overhaul",
           "publishedOn": "2024-12-02T14:51:00.000Z",
-          "wordCount": 2669,
+          "wordCount": 2656,
           "title": "Ethereum Celebrates Beacon Chain’s Fourth Birthday Ahead of Overhaul",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/071332616ac81c551f162989b6e28fb2130ca098-1555x875.png",
@@ -460,6 +520,21 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4c212c8dcf704b545d3cd10b8a1c65290e29a1df-1555x875.png"
         },
         {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/how-lido-is-making-eth-staking-easier-and-more-decentralized-or-dmitry-gusakov-community-staking",
+          "author": "Camila Russo",
+          "description": "In this episode, Dimitri Gusakov, Community Staking Lead at Lido, discusses the protocol’s efforts to enhance decentralization and accessibility in Ethereum staking.",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/how-lido-is-making-eth-staking-easier-and-more-decentralized-or-dmitry-gusakov-community-staking",
+          "publishedOn": "2024-12-02T07:28:00.000Z",
+          "wordCount": 2256,
+          "title": "How Lido is Making ETH Staking Easier and More Decentralized | Dmitry Gusakov, Community Staking",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c8ce01d6ce707222b77d9fe1dda48ed006a460a5-1280x720.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c8ce01d6ce707222b77d9fe1dda48ed006a460a5-1280x720.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/people/justin-sun-denies-30m-investment-trump-backed-world-liberty-financial-was-40e30c26",
           "author": "DeepNewz",
           "description": "Justin Sun, a prominent cryptocurrency entrepreneur, has denied allegations that his $30 million investment in the Trump-backed World Liberty Financial was an attempt to influence President-elect Donald Trump",
@@ -480,7 +555,7 @@
           "description": "Bitcoin is nearing the $100,000 milestone, with market participants closely watching its approach to this significant level",
           "link": "https://thedefiant.io/news/markets/bitcoin-nears-100000-after-40-november-surge-hits-100205-on-cme-futures-5700edb5",
           "publishedOn": "2024-11-29T21:00:04.000Z",
-          "wordCount": 2168,
+          "wordCount": 2158,
           "title": "Bitcoin Nears $100,000 After 40% November Surge; Hits $100,205 on CME Futures",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8533726c84fe09b921e920413c7e53642bfa74a5-798x1200.jpg",
@@ -525,7 +600,7 @@
           "description": "As of November 29, 2024, Bitcoin futures open interest has reached $61 billion, reflecting a significant increase of over 50% in just five weeks, according to data from CoinGlass",
           "link": "https://thedefiant.io/news/markets/bitcoin-futures-open-interest-reaches-61-billion-surpassing-40000-contracts-up-c0b634fc",
           "publishedOn": "2024-11-29T19:00:28.000Z",
-          "wordCount": 2256,
+          "wordCount": 2246,
           "title": "Bitcoin Futures Open Interest Reaches $61 Billion, Surpassing 40,000 Contracts, Up Over 50% in Five Weeks",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a0a111e756df0dfd04ded7a729cbbafc691a798a-863x481.jpg",
@@ -540,7 +615,7 @@
           "description": "Google search interest for \"Bitcoin\" stands at 54, far below its peak of 100 in December 2017 during the historic bull run.",
           "link": "https://thedefiant.io/news/markets/bitcoin-nears-usd100-000-as-whales-snap-up-usd1-5-billion",
           "publishedOn": "2024-11-29T18:36:44.000Z",
-          "wordCount": 2446,
+          "wordCount": 2436,
           "title": "Bitcoin Nears $100,000 as Whales Snap Up $1.5 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fe4e2387f5339f25e64b382c6d223dc0afa699f3-1555x875.png",
@@ -555,7 +630,7 @@
           "description": "Boyaa Interactive, a Hong Kong-listed company often referred to as the 'MicroStrategy of Hong Kong,' has significantly increased its Bitcoin holdings by converting 14,200 Ethereum (ETH) into 515 Bitcoin (BTC)",
           "link": "https://thedefiant.io/news/markets/hong-kong-s-boyaa-interactive-overtakes-metaplanet-asia-s-largest-corporate-49-90fadc20",
           "publishedOn": "2024-11-29T18:30:43.000Z",
-          "wordCount": 2213,
+          "wordCount": 2203,
           "title": "Hong Kong's Boyaa Interactive Overtakes Metaplanet as Asia's Largest Corporate Bitcoin Holder with $49.5M Investment",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f3e2301fd5937bbd0227cabe87083326a4fedd4f-906x1119.jpg",
@@ -570,7 +645,7 @@
           "description": "$XRP has surpassed $BNB to become the fifth-largest cryptocurrency by market capitalization, achieving a valuation of over $98 billion",
           "link": "https://thedefiant.io/news/markets/xrp-surpasses-bnb-becomes-5th-largest-cryptocurrency-1-746-98b-market-cap-a1f1013c",
           "publishedOn": "2024-11-29T18:10:14.000Z",
-          "wordCount": 2183,
+          "wordCount": 2173,
           "title": "$XRP Surpasses $BNB, Becomes 5th Largest Cryptocurrency at $1.746 with $98B Market Cap",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c2194151a4fb765d502f4ae14b1930d77f7869fe-1200x339.jpg",
@@ -660,7 +735,7 @@
           "description": "Bitcoin is experiencing significant volatility during the Thanksgiving period, reminiscent of the 2020 'Thanksgiving Massacre'",
           "link": "https://thedefiant.io/news/markets/bitcoin-drops-8-100k-to-91-5k-over-thanksgiving-blackrock-eyes-market-d0b21725",
           "publishedOn": "2024-11-28T23:00:46.000Z",
-          "wordCount": 2154,
+          "wordCount": 2144,
           "title": "Bitcoin Drops 8% from $100K to $91.5K over Thanksgiving as BlackRock Eyes Market",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/844be9eabba7009e25fcbab4c450fb621ba9b0bd-1024x574.jpg",
@@ -675,7 +750,7 @@
           "description": "In a significant development for the cryptocurrency market, Solana has reported inflows of $4 billion from other blockchain networks over the past year, surpassing Ethereum's inflows by $3 billion",
           "link": "https://thedefiant.io/news/blockchains/solana-reports-4-billion-inflows-hits-240-generates-2-33m-royalties-200m-fees-6f9990b9",
           "publishedOn": "2024-11-28T22:35:59.000Z",
-          "wordCount": 2277,
+          "wordCount": 2269,
           "title": "Solana Reports $4 Billion Inflows, Hits $240; Generates $2.33M in Royalties and $200M in Fees, Surpassing Ethereum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d068870a81f0f7ec39fc64575aef24b8bf507099-1000x600.jpg",
@@ -690,7 +765,7 @@
           "description": "On November 28, 2024, the cryptocurrency community marked the 12th anniversary of Bitcoin's first halving, which occurred in 2012",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-marks-12th-halving-anniversary-first-halving-12-next-april-2028-price-8fa203e2",
           "publishedOn": "2024-11-28T22:00:04.000Z",
-          "wordCount": 2197,
+          "wordCount": 2189,
           "title": "Bitcoin Marks 12th Halving Anniversary; First Halving at $12, Next in April 2028, Price Nears $100K",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ccd4a4d67408bff58ae8881711e353307b1eaf25-944x1008.jpg",
@@ -705,7 +780,7 @@
           "description": "Jeffrey Wilcke, a co-founder of Ethereum, has transferred 20,000 ETH",
           "link": "https://thedefiant.io/news/markets/ethereum-co-founder-jeffrey-wilcke-transfers-20000-eth-worth-72-5m-to-kraken-eth-21434b2b",
           "publishedOn": "2024-11-28T21:32:08.000Z",
-          "wordCount": 2146,
+          "wordCount": 2136,
           "title": "Ethereum Co-Founder Jeffrey Wilcke Transfers 20,000 ETH Worth $72.5M to Kraken, Retains 106,000 ETH Valued at $384M",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f0accde58df83b70be2f242e2e0102db8d848be9-1200x472.jpg",
@@ -780,7 +855,7 @@
           "description": "Base, a Layer 2 blockchain developed by Coinbase, achieved a significant milestone by processing 11.447 million transactions on November 26",
           "link": "https://thedefiant.io/news/blockchains/base-blockchain-hits-11m-daily-transactions-on-november-26-sees-50x-growth-4b-6e625d91",
           "publishedOn": "2024-11-28T19:02:50.000Z",
-          "wordCount": 2237,
+          "wordCount": 2229,
           "title": "Base Blockchain Hits 11M Daily Transactions on November 26, Sees 50x Growth and $4B Bridged",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e2fdc8669858260256b7c7dee3cc80878431a84d-950x475.jpg",
@@ -795,7 +870,7 @@
           "description": "Ronin Network has reported significant growth in its ecosystem, showcasing strong network effects and increasing institutional interest",
           "link": "https://thedefiant.io/news/blockchains/ronin-network-reports-growth-1-2b-tvl-10-2m-weekly-transactions-395k-daily-nft-43a935b7",
           "publishedOn": "2024-11-28T18:36:56.000Z",
-          "wordCount": 2159,
+          "wordCount": 2151,
           "title": "Ronin Network Reports Growth with $1.2B TVL, 10.2M Weekly Transactions, and $395K Daily NFT Volume",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/53db35254903e97541bc13edb44822ebd99de42f-1200x1025.jpg",
@@ -810,7 +885,7 @@
           "description": "On Wednesday, spot Bitcoin ETFs collectively recorded $103 million in inflows.",
           "link": "https://thedefiant.io/news/markets/bitcoin-dominance-slips-as-ethereum-rallies",
           "publishedOn": "2024-11-28T18:15:59.000Z",
-          "wordCount": 2386,
+          "wordCount": 2376,
           "title": "Bitcoin Dominance Slips as Ethereum Rallies",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5efdbe0881b09a1c8fd6772fb84cb527bf20b90a-1555x875.png",
@@ -855,7 +930,7 @@
           "description": "DEX volumes on Solana and Ethereum Layer 2s are at all-time highs.",
           "link": "https://thedefiant.io/news/markets/memecoin-mania-drives-record-monthly-dex-volume",
           "publishedOn": "2024-11-28T15:17:00.000Z",
-          "wordCount": 2427,
+          "wordCount": 2414,
           "title": "Memecoin Mania Drives Record Monthly DEX Volume",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/69786231904775578959f0f7f0c00119941e468a-1792x1024.png",
@@ -930,7 +1005,7 @@
           "description": "Activity on Coinbase’s Layer 2 continues to surge as AI Agent mania spreads.",
           "link": "https://thedefiant.io/news/markets/virtuals-ai-agent-protocol-soars-as-base-activity-hits-all-time-high",
           "publishedOn": "2024-11-27T20:42:00.000Z",
-          "wordCount": 2378,
+          "wordCount": 2365,
           "title": "Virtuals AI Agent Protocol Soars as Base Activity Hits All-time High",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ded595de25c1a24292cb3a556319bdffc9d54a76-1555x875.png",
@@ -975,7 +1050,7 @@
           "description": "The Crypto Fear & Greed Index has dipped to 73.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-rebound-after-two-day-decline",
           "publishedOn": "2024-11-27T18:39:49.000Z",
-          "wordCount": 2290,
+          "wordCount": 2280,
           "title": "Crypto Markets Rebound After Two-day Decline",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d26983e0e66a6634493a7f414533492cd961b4f1-1555x875.png",
@@ -1020,7 +1095,7 @@
           "description": "Ripple plans to allocate $5 million to purchase tokens representing shares in Abrdn's Lux fund.",
           "link": "https://thedefiant.io/news/blockchains/ripple-introduces-tokenized-money-market-fund-on-xrp-ledger-in-rwa-push",
           "publishedOn": "2024-11-27T12:41:40.000Z",
-          "wordCount": 2392,
+          "wordCount": 2384,
           "title": "Ripple Introduces Tokenized Money Market Fund on XRP Ledger in RWA Push",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ce2bbeff42cc1477c3e8579c771bac1b6dca9a01-1555x875.png",
@@ -1095,7 +1170,7 @@
           "description": "The cryptocurrency’s network activity continues to surge.",
           "link": "https://thedefiant.io/news/blockchains/cardano-investors-withdraw-millions-signaling-potential-price-rally",
           "publishedOn": "2024-11-26T20:21:45.000Z",
-          "wordCount": 2252,
+          "wordCount": 2244,
           "title": "Cardano Investors Withdraw Millions, Signaling ​​Potential Price Rally",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9fb82e4503ba068306c5db62364fbbb534220f65-1555x875.png",
@@ -1125,7 +1200,7 @@
           "description": "Analysts view the pullback as natural after the torrid rally since the U.S. election.",
           "link": "https://thedefiant.io/news/markets/bitcoin-falls-below-usd93-000-as-market-cools-off",
           "publishedOn": "2024-11-26T18:45:16.000Z",
-          "wordCount": 2361,
+          "wordCount": 2351,
           "title": "Bitcoin Falls Below $93,000 as Market Cools Off",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5e549aea7f7b8359486fe9b9d7fb0ebddbee7765-1555x875.png",
@@ -1170,7 +1245,7 @@
           "description": "Solana has surpassed Ethereum in daily fees for seven consecutive days, driven by a surge in activity linked to a memecoin frenzy",
           "link": "https://thedefiant.io/news/blockchains/solana-surpasses-ethereum-daily-fees-7-days-generating-70-million-0fbfa947",
           "publishedOn": "2024-11-26T14:01:38.000Z",
-          "wordCount": 2170,
+          "wordCount": 2162,
           "title": "Solana Surpasses Ethereum in Daily Fees for 7 Days, Generating $70 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c40494d4c25243170e2309b8bb711d01a43389b8-1200x564.jpg",
@@ -1185,7 +1260,7 @@
           "description": "Orbit chains make up two of the top five chains in the Ethereum ecosystem by daily throughput.",
           "link": "https://thedefiant.io/news/blockchains/arbitrum-and-alchemy-team-up-on-grants-promoting-orbit-chain-development",
           "publishedOn": "2024-11-26T14:00:00.000Z",
-          "wordCount": 2410,
+          "wordCount": 2397,
           "title": "Arbitrum and Alchemy Team Up On Grants Promoting Orbit Chain Development",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/780bf1ee476c3dd42ec3cce3989370614ccc4c94-1555x875.png",
@@ -1200,7 +1275,7 @@
           "description": "In a significant shift within the Solana meme coin market, $WIF (Dog Wif Coin) has overtaken $BONK (Bonk Inu) in market capitalization, becoming the largest meme coin on the Solana blockchain",
           "link": "https://thedefiant.io/news/markets/wif-3-34-overtakes-bonk-market-cap-largest-solana-meme-coin-both-down-12-7-5-5a2f9beb",
           "publishedOn": "2024-11-26T13:22:43.000Z",
-          "wordCount": 2292,
+          "wordCount": 2282,
           "title": "$WIF at $3.34 Overtakes $BONK in Market Cap as Largest Solana Meme Coin, Both Down 12% and 7.5%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b50e23bee03318aba5071a94fd79503d90dc7fc-1199x465.jpg",
@@ -1212,7 +1287,7 @@
         {
           "id": "https://thedefiant.io/news/defi/starknet-becomes-first-rollup-to-deploy-native-staking",
           "author": "Samuel Haig",
-          "description": "Staking rewards will adjust dynamically based on staking participation.",
+          "description": "Starknet claims to have become the first Ethereum rollup to introduce native staking.",
           "link": "https://thedefiant.io/news/defi/starknet-becomes-first-rollup-to-deploy-native-staking",
           "publishedOn": "2024-11-26T13:08:00.000Z",
           "wordCount": 2420,
@@ -1230,7 +1305,7 @@
           "description": "Bitcoin has experienced significant volatility over the past 24 hours, with its price dipping to $93,000 after briefly falling below this level",
           "link": "https://thedefiant.io/news/markets/bitcoin-dips-to-93000-amid-553m-liquidations-near-98000-gold-all-time-high-71de8f28",
           "publishedOn": "2024-11-26T12:41:51.000Z",
-          "wordCount": 2208,
+          "wordCount": 2198,
           "title": "Bitcoin Dips to $93,000 Amid $553M Liquidations, Near $98,000 and Gold All-Time High",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3ac94c81fd7cde876fe80b194e1abed9b8e9feb6-1122x1200.jpg",
@@ -1260,7 +1335,7 @@
           "description": "Movement Labs has announced the launch of its utility token, $MOVE, which will play a crucial role in the Movement Network Foundation's objectives",
           "link": "https://thedefiant.io/news/blockchains/movement-labs-launches-move-token-10-billion-supply-22-initial-circulation-60-to-20cc106e",
           "publishedOn": "2024-11-26T11:25:44.000Z",
-          "wordCount": 2272,
+          "wordCount": 2264,
           "title": "Movement Labs Launches $MOVE Token with 10 Billion Supply, 22% Initial Circulation, 60% Allocated to Community, $41.4 Million Raised",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b0047e94fbbf433b76b0532b09b5d8fe84e9a567-1009x467.jpg",
@@ -1305,7 +1380,7 @@
           "description": "Bitcoin's market value has seen a significant decline since Jim Cramer, a prominent financial commentator, expressed a bullish stance on the cryptocurrency",
           "link": "https://thedefiant.io/news/markets/bitcoin-market-cap-plummets-100-billion-after-jim-cramer-s-bullish-call-price-to-8e741562",
           "publishedOn": "2024-11-26T10:00:44.000Z",
-          "wordCount": 2231,
+          "wordCount": 2221,
           "title": "Bitcoin Market Cap Plummets $100 Billion After Jim Cramer's Bullish Call, Price Falls from $99,000 to $95,000",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/044ce849c84d8bddc8368afc8b1568447fbb4109-1179x829.jpg",
@@ -1365,7 +1440,7 @@
           "description": "Bitcoin and Solana are the best performers, as crypto assets hit a record weekly inflow of $3.13 billion.",
           "link": "https://thedefiant.io/news/markets/crypto-assets-record-all-time-high-weekly-inflows",
           "publishedOn": "2024-11-26T08:35:39.000Z",
-          "wordCount": 2288,
+          "wordCount": 2278,
           "title": "Crypto Assets Record All-time High Weekly Inflows",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/757e34be95e2b794d337f007468488afaecf7b2a-1555x875.png",
@@ -1380,7 +1455,7 @@
           "description": "Investors are turning their heads towards decentralized science (DeSci) as a market sector with potential.",
           "link": "https://thedefiant.io/news/markets/desci-momentum-picks-up",
           "publishedOn": "2024-11-26T05:40:55.000Z",
-          "wordCount": 2343,
+          "wordCount": 2333,
           "title": "DeSci Momentum Picks Up",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/31cb01026ae40d3b9ac9876852819ba97dfe80e6-1555x875.png",
@@ -1425,7 +1500,7 @@
           "description": "Pump.Fun is seeing an influx of token launches that back tangible products and startups.",
           "link": "https://thedefiant.io/news/markets/have-memecoins-come-full-circle",
           "publishedOn": "2024-11-25T19:51:42.000Z",
-          "wordCount": 2329,
+          "wordCount": 2319,
           "title": "Have Memecoins Come Full Circle?",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/624d6562bef3accc92baabc7c660334b8cfce84d-1555x875.png",
@@ -1455,7 +1530,7 @@
           "description": "Most major altcoins posted gains, with Ethereum and Ripple up 4% and 8%, respectively.",
           "link": "https://thedefiant.io/news/markets/bitcoin-trades-flat-amid-usd500-million-of-crypto-liquidations",
           "publishedOn": "2024-11-25T18:07:21.000Z",
-          "wordCount": 2348,
+          "wordCount": 2338,
           "title": "Bitcoin Trades Flat Amid $500 Million of Crypto Liquidations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3213495808a99debb4bb1b79946b64cfccdf06d2-1555x875.png",
@@ -1463,81 +1538,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3213495808a99debb4bb1b79946b64cfccdf06d2-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/tornado-cash-developer-alexey-pertsev-s-detention-prolonged",
-          "author": "Mehab Qureshi",
-          "description": "Alexey Pertsev is waiting to appeal a five-year prison sentence.",
-          "link": "https://thedefiant.io/news/regulation/tornado-cash-developer-alexey-pertsev-s-detention-prolonged",
-          "publishedOn": "2024-11-25T12:18:00.000Z",
-          "wordCount": 2604,
-          "title": "Tornado Cash Developer Alexey Pertsev’s Detention Prolonged",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c91cec7ce2c6cf5da21445bb045a3a423ba1a551-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c91cec7ce2c6cf5da21445bb045a3a423ba1a551-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/base-s-daily-throughput-exceeds-100-transactions-per-second",
-          "author": "Samuel Haig",
-          "description": "Base is now the top Layer 2 network by DeFi TVL, decentralized exchange volume, and throughput.",
-          "link": "https://thedefiant.io/news/blockchains/base-s-daily-throughput-exceeds-100-transactions-per-second",
-          "publishedOn": "2024-11-25T11:48:00.000Z",
-          "wordCount": 2416,
-          "title": "Base’s Daily Throughput Exceeds 100 Transactions Per Second",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/77800d11a0d496589fc12a4d1a5ab60b41ba8fb2-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/77800d11a0d496589fc12a4d1a5ab60b41ba8fb2-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/market-cap-of-ethena-s-usde-stablecoin-surged-60-in-six-weeks",
-          "author": "Samuel Haig",
-          "description": "USDe’s yields and adoption are surging amid the latest leg of the crypto bull market.",
-          "link": "https://thedefiant.io/news/defi/market-cap-of-ethena-s-usde-stablecoin-surged-60-in-six-weeks",
-          "publishedOn": "2024-11-25T08:35:00.000Z",
-          "wordCount": 2387,
-          "title": "Market Cap of Ethena's USDe Stablecoin Surged 60% In Six Weeks",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b1abaa7b04307f22ee94cabab6ffc2c4024da327-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b1abaa7b04307f22ee94cabab6ffc2c4024da327-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/daos-fun-launches-v3-upgrade",
-          "author": "Squiffs",
-          "description": "The DAO fundraising platform has added staking to earn fees on its top products.",
-          "link": "https://thedefiant.io/news/defi/daos-fun-launches-v3-upgrade",
-          "publishedOn": "2024-11-22T22:06:14.000Z",
-          "wordCount": 2371,
-          "title": "DAOs.Fun Launches V3 Upgrade",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/90fddb85f1f67b36425ded6f72f2e81e3a27f1cc-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/90fddb85f1f67b36425ded6f72f2e81e3a27f1cc-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/ai-agent-tokens-rebound-to-fresh-highs",
-          "author": "Squiffs",
-          "description": "Many AI tokens sold off as traders chased TikTok memecoins, but the winners have bounced back to new highs.",
-          "link": "https://thedefiant.io/news/markets/ai-agent-tokens-rebound-to-fresh-highs",
-          "publishedOn": "2024-11-22T20:25:59.000Z",
-          "wordCount": 2328,
-          "title": "AI Agent Tokens Rebound to Fresh Highs",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/92cee216a705e9be63228b4fdc1a49999373b3f4-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/92cee216a705e9be63228b4fdc1a49999373b3f4-1555x875.png"
         }
       ]
     },
