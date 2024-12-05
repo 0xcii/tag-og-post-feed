@@ -11,7 +11,7 @@
           "description": "The grippy and the rod sometimes infect men and women and produce irrational behavior. It’s unfortunate that many Maelstrom portfolio…",
           "link": "https://cryptohayes.medium.com/the-cure-a0bff46b9454?source=rss-2f6e06954878------2",
           "publishedOn": "2024-12-02T23:02:18.000Z",
-          "wordCount": 8208,
+          "wordCount": 8199,
           "title": "The Cure",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:625/1*zgbpfSnIuONuJeGXhF9jiA.png"
         },
@@ -21,7 +21,7 @@
           "description": "Former President of China Deng Xiaoping famously quipped the following when asked about his pragmatic approach to the implementation of…",
           "link": "https://cryptohayes.medium.com/black-or-white-ba5e07049ba3?source=rss-2f6e06954878------2",
           "publishedOn": "2024-11-11T23:02:28.000Z",
-          "wordCount": 11794,
+          "wordCount": 11785,
           "title": "Black or White?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*_LVnkLC56EoU6vnA.jpeg"
         }
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/defi/solana-stablecoin-isc-money-to-shut-down-operations",
+          "author": "Joel Lim",
+          "description": "The company will now pivot to FxSwap, failing to find product market fit after two years.",
+          "link": "https://thedefiant.io/news/defi/solana-stablecoin-isc-money-to-shut-down-operations",
+          "publishedOn": "2024-12-05T00:44:55.000Z",
+          "wordCount": 2299,
+          "title": "Solana Stablecoin ISC Money to Shut Down Operations",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bf128e1d7978688c032a3f760154f98978dc2917-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bf128e1d7978688c032a3f760154f98978dc2917-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/defi/pancakeswap-takes-on-pump-fun-with-token-launchpad-springboard",
           "author": "Jona Jaupi",
@@ -1272,7 +1287,7 @@
         {
           "id": "https://thedefiant.io/education/premium-tutorials/markets-bitcoin-pulls-back-after-usd100k-test",
           "author": "yyctrader",
-          "description": "Our chart of the week is XLM.",
+          "description": "Information platform at the intersection of tech and finance.",
           "link": "https://thedefiant.io/education/premium-tutorials/markets-bitcoin-pulls-back-after-usd100k-test",
           "publishedOn": "2024-11-26T16:03:00.000Z",
           "wordCount": 2325,
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/education/premium-tutorials/pump-fun-as-an-ico-alternative",
           "author": "Squiffs",
-          "description": "Information platform at the intersection of tech and finance.",
+          "description": "Trends to Watch (DeSci, mainstream memecoins)",
           "link": "https://thedefiant.io/education/premium-tutorials/pump-fun-as-an-ico-alternative",
           "publishedOn": "2024-11-26T16:00:00.000Z",
           "wordCount": 2354,
@@ -1523,21 +1538,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/31cb01026ae40d3b9ac9876852819ba97dfe80e6-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/sui-blockchain-s-largest-memecoin-fudsui-becomes-a-liquid-staking-token",
-          "author": "Joel Lim",
-          "description": "The LST is based on Fudthepug, a dog-based meme project on SUI.",
-          "link": "https://thedefiant.io/news/defi/sui-blockchain-s-largest-memecoin-fudsui-becomes-a-liquid-staking-token",
-          "publishedOn": "2024-11-25T22:28:10.000Z",
-          "wordCount": 2437,
-          "title": "SUI Blockchain’s Largest Memecoin fudSUI Becomes a Liquid Staking Token",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5301be84f02c1a6d471daef0b22a925400be3aff-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5301be84f02c1a6d471daef0b22a925400be3aff-1555x875.png"
         }
       ]
     },
