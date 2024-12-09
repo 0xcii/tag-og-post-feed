@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-09T22:16:49.317Z</id>
+    <id>urn:2024-12-09T23:16:49.358Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-09T22:16:49.317Z</updated>
+    <updated>2024-12-09T23:16:49.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Moonwell Launches Debit Card for Crypto Spending at 44 Million Merchants in Collaboration with Cypher_HQ]]></title>
+        <id>https://thedefiant.io/news/defi/moonwell-launches-debit-card-crypto-spending-44-million-merchants-collaboration-1fbd6a22</id>
+        <link href="https://thedefiant.io/news/defi/moonwell-launches-debit-card-crypto-spending-44-million-merchants-collaboration-1fbd6a22"/>
+        <updated>2024-12-09T22:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Moonwell has launched the Moonwell Card, a debit card that allows users to spend their onchain crypto assets globally]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azuki NFT Collection Soars as Traders Anticipate ANIME Token]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/azuki-nft-collection-soars-as-traders-anticipate-anime-token</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/azuki-nft-collection-soars-as-traders-anticipate-anime-token"/>
+        <updated>2024-12-09T22:19:48.000Z</updated>
+        <summary type="html"><![CDATA[Traders are attempting to frontrun Azuki’s ANIME token after Pudgy Penguins pumped 50% on PENGU announcement.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Circle to Launch CCTP V2 for Faster USDC Transfers with Low-Latency Settlements on Ethereum, Base, and Avalanche in Early 2025]]></title>
         <id>https://thedefiant.io/news/defi/circle-to-launch-cctp-v2-faster-usdc-transfers-low-latency-settlements-on-base-4dd79d59</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/cefi/bitcoin-becomes-corporate-gold-as-microstrategy-and-mara-double-down</id>
         <link href="https://thedefiant.io/news/cefi/bitcoin-becomes-corporate-gold-as-microstrategy-and-mara-double-down"/>
         <updated>2024-12-03T16:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Major corporations are emulating MicroStrategy’s reserve asset strategy by ramping up Bitcoin accumulation.]]></summary>
+        <summary type="html"><![CDATA[MicroStrategy has inspired numerous firms to rapidly accumulate Bitcoin, including Mara, Metaplanet, and Boyaa Interactive.]]></summary>
         <author>
             <name>Mehab Qureshi</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/defi/aave-users-are-paying-more-than-20-for-stablecoin-loans</id>
         <link href="https://thedefiant.io/news/defi/aave-users-are-paying-more-than-20-for-stablecoin-loans"/>
         <updated>2024-12-03T11:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Users are paying more than 20% to borrow stablecoins on top money market protocols Aave and Compound.]]></summary>
+        <summary type="html"><![CDATA[The sky-high stablecoin utilization rates indicate traders are accessing leverage to speculate on digital assets.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -991,26 +1011,6 @@
         <link href="https://thedefiant.io/news/cefi/coinbase-bitstamp-list-pepe-u-s-trading-boosting-memecoin-market-8f070bfb"/>
         <updated>2024-11-29T20:30:18.000Z</updated>
         <summary type="html"><![CDATA[Coinbase has expanded its trading options by listing the memecoin $PEPE for New York residents, marking a significant move in the cryptocurrency trading landscape]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$870 Billion Asset Manager Macquarie Says Bitcoin Mining Supports Local Energy Grids]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/870-billion-asset-manager-macquarie-says-bitcoin-mining-supports-local-energy-fb372a8f</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/870-billion-asset-manager-macquarie-says-bitcoin-mining-supports-local-energy-fb372a8f"/>
-        <updated>2024-11-29T19:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Macquarie, a $57 billion multinational investment bank and asset manager with $870 billion in assets under management, has stated that Bitcoin mining supports and bolsters local energy grids]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Futures Open Interest Reaches $61 Billion, Surpassing 40,000 Contracts, Up Over 50% in Five Weeks]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-futures-open-interest-reaches-61-billion-surpassing-40000-contracts-up-c0b634fc</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-futures-open-interest-reaches-61-billion-surpassing-40000-contracts-up-c0b634fc"/>
-        <updated>2024-11-29T19:00:28.000Z</updated>
-        <summary type="html"><![CDATA[As of November 29, 2024, Bitcoin futures open interest has reached $61 billion, reflecting a significant increase of over 50% in just five weeks, according to data from CoinGlass]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
