@@ -11,7 +11,7 @@
           "description": "The grippy and the rod sometimes infect men and women and produce irrational behavior. It’s unfortunate that many Maelstrom portfolio…",
           "link": "https://cryptohayes.medium.com/the-cure-a0bff46b9454?source=rss-2f6e06954878------2",
           "publishedOn": "2024-12-02T23:02:18.000Z",
-          "wordCount": 8208,
+          "wordCount": 8199,
           "title": "The Cure",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:625/1*zgbpfSnIuONuJeGXhF9jiA.png"
         },
@@ -21,7 +21,7 @@
           "description": "Former President of China Deng Xiaoping famously quipped the following when asked about his pragmatic approach to the implementation of…",
           "link": "https://cryptohayes.medium.com/black-or-white-ba5e07049ba3?source=rss-2f6e06954878------2",
           "publishedOn": "2024-11-11T23:02:28.000Z",
-          "wordCount": 11785,
+          "wordCount": 11794,
           "title": "Black or White?",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*_LVnkLC56EoU6vnA.jpeg"
         }
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/infrastructure/flashbots-migrates-to-decentralized-block-production-software-buildernet",
+          "author": "Samuel Haig",
+          "description": "Two block proposers account for 88% of Ethereum blocks.",
+          "link": "https://thedefiant.io/news/infrastructure/flashbots-migrates-to-decentralized-block-production-software-buildernet",
+          "publishedOn": "2024-12-10T13:59:00.000Z",
+          "wordCount": 3331,
+          "title": "Flashbots Migrates To Decentralized Block Production Software, BuilderNet",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ae2ff9304282988ca851ef511f05aaef99a6d8b3-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ae2ff9304282988ca851ef511f05aaef99a6d8b3-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/regulation/governments-from-across-the-globe-move-to-embrace-crypto",
           "author": "Samuel Haig",
@@ -1503,21 +1518,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5500a00a9ab5b645a75b3a5f37817ccc3ba16399-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ethereum-celebrates-beacon-chain-s-fourth-birthday-ahead-of-overhaul",
-          "author": "Samuel Haig",
-          "description": "Researchers believe the Beacon Chain needs to be overhauled to address centralization risks facing the network.",
-          "link": "https://thedefiant.io/news/blockchains/ethereum-celebrates-beacon-chain-s-fourth-birthday-ahead-of-overhaul",
-          "publishedOn": "2024-12-02T14:51:00.000Z",
-          "wordCount": 3638,
-          "title": "Ethereum Celebrates Beacon Chain’s Fourth Birthday Ahead of Overhaul",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/071332616ac81c551f162989b6e28fb2130ca098-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/071332616ac81c551f162989b6e28fb2130ca098-1555x875.png"
         }
       ]
     },
