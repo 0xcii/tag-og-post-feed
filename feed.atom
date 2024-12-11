@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-11T21:16:03.588Z</id>
+    <id>urn:2024-12-11T22:16:38.736Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-11T21:16:03.588Z</updated>
+    <updated>2024-12-11T22:16:38.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Soars to $16 Billion Valuation]]></title>
+        <id>https://thedefiant.io/news/blockchains/hyperliquid-soars-to-usd16-billion-valuation</id>
+        <link href="https://thedefiant.io/news/blockchains/hyperliquid-soars-to-usd16-billion-valuation"/>
+        <updated>2024-12-11T21:26:54.000Z</updated>
+        <summary type="html"><![CDATA[The decentralized exchange and Layer 1 network is growing at a parabolic pace after its airdrop.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synthetix to Offer Leveraged Tokens in 2025 after TLX and Kwenta Acquisitions]]></title>
         <id>https://thedefiant.io/news/defi/synthetix-to-offer-leveraged-tokens-in-2025-after-tlx-and-kwenta-acquisitions</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-rallies-above-usd100k-marking-gains-of-3-33-billion-since-2010</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-rallies-above-usd100k-marking-gains-of-3-33-billion-since-2010"/>
         <updated>2024-12-05T09:58:00.000Z</updated>
-        <summary type="html"><![CDATA[The price of Bitcoin has broken into the long-fabled six-figure threshold.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin has rallied above $100,000 for the first time, with BTC's market cap currently sitting above $2 trillion.]]></summary>
         <author>
             <name>Samuel Haig</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/hyperliquid-cryptocurrency-reaches-ath-gains-attention-solana-enthusiasts-2915f94e"/>
         <updated>2024-12-03T23:10:30.000Z</updated>
         <summary type="html"><![CDATA[Hyperliquid has emerged as a notable cryptocurrency, attracting attention from Solana enthusiasts]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana web3.js Library Compromised in Versions 1.95.6 and 1.95.7]]></title>
-        <id>https://thedefiant.io/news/blockchains/solana-web3-js-library-compromised-versions-1-95-6-1-95-7-supply-chain-attack-to-fc9a91e0</id>
-        <link href="https://thedefiant.io/news/blockchains/solana-web3-js-library-compromised-versions-1-95-6-1-95-7-supply-chain-attack-to-fc9a91e0"/>
-        <updated>2024-12-03T23:10:18.000Z</updated>
-        <summary type="html"><![CDATA[The Solana web3]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
