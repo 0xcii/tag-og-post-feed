@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/venture-capital-firms-pile-into-cryptoai",
+          "author": "Joel Lim",
+          "description": "The AI meta is likely to be one of the hottest crypto narratives in 2025.",
+          "link": "https://thedefiant.io/news/defi/venture-capital-firms-pile-into-cryptoai",
+          "publishedOn": "2024-12-11T12:35:47.000Z",
+          "wordCount": 3268,
+          "title": "Venture Capital Firms Pile Into CryptoAI",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f6ce704351865764e82374d9ad39f8ebcc6768de-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f6ce704351865764e82374d9ad39f8ebcc6768de-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/circle-inks-partnership-with-binance-and-expands-mena-operations",
           "author": "Samuel Haig",
           "description": "Binance will leverage USDC for its corporate treasury operations as part of the deal.",
@@ -1493,21 +1508,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e459c401297b24c4f72011877dbe418ea7c8f5cd-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/education/premium-tutorials/markets-altcoins-soar-as-bitcoin-consolidates",
-          "author": "yyctrader",
-          "description": "Our chart of the week is HYPE.",
-          "link": "https://thedefiant.io/education/premium-tutorials/markets-altcoins-soar-as-bitcoin-consolidates",
-          "publishedOn": "2024-12-03T16:57:46.000Z",
-          "wordCount": 3227,
-          "title": "Markets - Altcoins Soar as Bitcoin Consolidates",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/59f8427eee6b8eeba471f159adbb182d705c0bbd-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/59f8427eee6b8eeba471f159adbb182d705c0bbd-1555x875.png"
         }
       ]
     },
