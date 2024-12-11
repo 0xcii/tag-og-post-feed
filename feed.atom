@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-11T20:19:22.114Z</id>
+    <id>urn:2024-12-11T21:16:03.588Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-11T20:19:22.114Z</updated>
+    <updated>2024-12-11T21:16:03.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Synthetix to Offer Leveraged Tokens in 2025 after TLX and Kwenta Acquisitions]]></title>
+        <id>https://thedefiant.io/news/defi/synthetix-to-offer-leveraged-tokens-in-2025-after-tlx-and-kwenta-acquisitions</id>
+        <link href="https://thedefiant.io/news/defi/synthetix-to-offer-leveraged-tokens-in-2025-after-tlx-and-kwenta-acquisitions"/>
+        <updated>2024-12-11T21:09:20.000Z</updated>
+        <summary type="html"><![CDATA[The recent acquisitions are part of Synthetix’s plans to become a category leader among derivative exchanges.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Travala to Launch Bitcoin Treasury Reserve After $100M Milestone]]></title>
+        <id>https://thedefiant.io/news/markets/travala-to-launch-bitcoin-treasury-reserve-after-usd100m-milestone</id>
+        <link href="https://thedefiant.io/news/markets/travala-to-launch-bitcoin-treasury-reserve-after-usd100m-milestone"/>
+        <updated>2024-12-11T20:21:32.000Z</updated>
+        <summary type="html"><![CDATA[The crypto-powered travel platform’s plan hopes to strengthen long-term stability and drive expansion.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ripple’s RLUSD Stablecoin Gets Approved by NY Regulators]]></title>
         <id>https://thedefiant.io/news/defi/ripple-s-rlusd-stablecoin-gets-approved-by-ny-regulators</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/blockchains/solana-makes-move-to-enable-real-life-payments-with-sol-token</id>
         <link href="https://thedefiant.io/news/blockchains/solana-makes-move-to-enable-real-life-payments-with-sol-token"/>
         <updated>2024-12-04T22:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Solana, the fifth-largest blockchain by market capitalization, has integrated with various providers in the past week to power real-life payments using stablecoins and its SOL token.]]></summary>
+        <summary type="html"><![CDATA[Latest integration allows users to make crypto payments with Google and Apple Pay.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The Solana web3]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale Files for Solana ETF]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/grayscale-files-for-solana-etf</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/grayscale-files-for-solana-etf"/>
-        <updated>2024-12-03T22:41:53.000Z</updated>
-        <summary type="html"><![CDATA[The asset manager filed with the NYSE to convert its Solana Trust into a publicly traded ETF.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTM Soars to Highest Level Since April 2022]]></title>
-        <id>https://thedefiant.io/news/blockchains/ftm-soars-to-highest-level-since-april-2022</id>
-        <link href="https://thedefiant.io/news/blockchains/ftm-soars-to-highest-level-since-april-2022"/>
-        <updated>2024-12-03T21:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Anticipation is building after Sonic, formerly Fantom, announced the blockchain's genesis block.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
