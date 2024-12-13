@@ -11,7 +11,7 @@
           "description": "The grippy and the rod sometimes infect men and women and produce irrational behavior. It’s unfortunate that many Maelstrom portfolio…",
           "link": "https://cryptohayes.medium.com/the-cure-a0bff46b9454?source=rss-2f6e06954878------2",
           "publishedOn": "2024-12-02T23:02:18.000Z",
-          "wordCount": 8208,
+          "wordCount": 8220,
           "title": "The Cure",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:625/1*zgbpfSnIuONuJeGXhF9jiA.png"
         }
@@ -34,6 +34,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/regulation/austin-man-sentenced-to-two-years-in-prison-for-underreporting-usd4m-in-bitcoin-gains",
+          "author": "Jona Jaupi",
+          "description": "Frank Richard Ahlgren III's tax evasion case highlights the growing scrutiny of cryptocurrency transactions by the IRS.",
+          "link": "https://thedefiant.io/news/regulation/austin-man-sentenced-to-two-years-in-prison-for-underreporting-usd4m-in-bitcoin-gains",
+          "publishedOn": "2024-12-13T23:04:21.000Z",
+          "wordCount": 3558,
+          "title": "Austin Man Sentenced to Two Years in Prison for Underreporting $4M in Bitcoin Gains",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/209c4101da5a366560386d03f7b9d576201f5930-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/209c4101da5a366560386d03f7b9d576201f5930-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/defi/metalex-labs-launches-erc20-cybernetic-law-token-exchanger-ricardian-tripler-1faf97c0",
           "author": "DeepNewz",
@@ -1498,16 +1513,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4c7298752ebc488ef8479e5f28801c8a4293054e-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-surges-past-100k-signals-year-end-stock-market-rally-crypto-sector-92af3c81",
-          "author": "DeepNewz",
-          "description": "Bitcoin has surged past the $100,000 milestone, marking a significant development in the cryptocurrency market",
-          "link": "https://thedefiant.io/news/markets/bitcoin-surges-past-100k-signals-year-end-stock-market-rally-crypto-sector-92af3c81",
-          "publishedOn": "2024-12-06T19:30:00.000Z",
-          "wordCount": 3068,
-          "title": "Bitcoin Surges Past $100K, Signals Year-End Stock Market Rally and Crypto Sector Reweighting",
-          "imageUrl": null
         }
       ]
     },

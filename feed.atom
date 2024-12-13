@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-13T22:16:20.054Z</id>
+    <id>urn:2024-12-13T23:16:15.463Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-13T22:16:20.054Z</updated>
+    <updated>2024-12-13T23:16:15.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Austin Man Sentenced to Two Years in Prison for Underreporting $4M in Bitcoin Gains]]></title>
+        <id>https://thedefiant.io/news/regulation/austin-man-sentenced-to-two-years-in-prison-for-underreporting-usd4m-in-bitcoin-gains</id>
+        <link href="https://thedefiant.io/news/regulation/austin-man-sentenced-to-two-years-in-prison-for-underreporting-usd4m-in-bitcoin-gains"/>
+        <updated>2024-12-13T23:04:21.000Z</updated>
+        <summary type="html"><![CDATA[Frank Richard Ahlgren III's tax evasion case highlights the growing scrutiny of cryptocurrency transactions by the IRS.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetaLeX Labs Launches ERC20 Cybernetic Law Token Exchanger with Ricardian Tripler for Noncustodial Escrow Deals]]></title>
         <id>https://thedefiant.io/news/defi/metalex-labs-launches-erc20-cybernetic-law-token-exchanger-ricardian-tripler-1faf97c0</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[A wave of excitement washes over the network’s developer community at the prospect.]]></summary>
         <author>
             <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Surges Past $100K, Signals Year-End Stock Market Rally and Crypto Sector Reweighting]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-surges-past-100k-signals-year-end-stock-market-rally-crypto-sector-92af3c81</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-surges-past-100k-signals-year-end-stock-market-rally-crypto-sector-92af3c81"/>
-        <updated>2024-12-06T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin has surged past the $100,000 milestone, marking a significant development in the cryptocurrency market]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>
