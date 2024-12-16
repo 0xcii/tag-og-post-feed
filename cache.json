@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/justin-sun-linked-bit-global-sues-coinbase-for-usd1b-over-wbtc-delisting",
+          "author": "Samuel Haig",
+          "description": "BiT Global accuses Coinbase of engaging in anti-competitive behavior by launching a Wrapped Bitcoin competitor before announcing it would delist WBTC.",
+          "link": "https://thedefiant.io/news/cefi/justin-sun-linked-bit-global-sues-coinbase-for-usd1b-over-wbtc-delisting",
+          "publishedOn": "2024-12-16T10:29:00.000Z",
+          "wordCount": 3704,
+          "title": "Justin Sun-Linked BiT Global Sues Coinbase For $1B Over WBTC Delisting",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8d54fc626563ce153489340af33eb29d30157133-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8d54fc626563ce153489340af33eb29d30157133-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/btc-tags-new-high-after-trump-stoked-u-s-bitcoin-reserve-hopes",
           "author": "Samuel Haig",
           "description": "President-elect Donald Trump said he expects to create a national strategic Bitcoin reserve during his second term in office.",
@@ -550,7 +565,7 @@
           "description": "Coinbase is set to restrict European users from trading certain stablecoins that do not comply with the EU's Markets in Crypto-Assets (MiCA) regulations, effective December 13, 2024",
           "link": "https://thedefiant.io/news/cefi/coinbase-to-restrict-european-users-trading-usdt-gusd-gyen-dai-pax-pyusd-13-2024-7ebf9029",
           "publishedOn": "2024-12-12T19:00:03.000Z",
-          "wordCount": 3215,
+          "wordCount": 3246,
           "title": "Coinbase to Restrict European Users from Trading USDT, GUSD, GYEN, DAI, PAX, and PYUSD Starting December 13, 2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b72b77734176c9884ede13eeb0afc396b721254e-673x673.jpg",
@@ -670,7 +685,7 @@
           "description": "The recovered funds mark another step forward in the defunct exchange’s effort to repay creditors.",
           "link": "https://thedefiant.io/news/cefi/ftx-debtors-retrieve-usd14-5m-of-political-donations",
           "publishedOn": "2024-12-12T09:26:33.000Z",
-          "wordCount": 3288,
+          "wordCount": 3319,
           "title": "FTX Debtors Retrieve $14.5M of Political Donations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8b392091ba8d49ee42b6b38b74aa40d61c91955b-1555x875.png",
@@ -890,7 +905,7 @@
           "description": "Binance will leverage USDC for its corporate treasury operations as part of the deal.",
           "link": "https://thedefiant.io/news/cefi/circle-inks-partnership-with-binance-and-expands-mena-operations",
           "publishedOn": "2024-12-11T12:14:00.000Z",
-          "wordCount": 3509,
+          "wordCount": 3531,
           "title": "Circle Inks Partnership With Binance and Expands MENA Operations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8ebeb3694eb375f91dd0a99e6561b349ea1d146e-1555x875.png",
@@ -905,7 +920,7 @@
           "description": "Babylon features self-custodial capped staking pools for BTC.",
           "link": "https://thedefiant.io/news/cefi/binance-offers-btc-staking-through-babylon",
           "publishedOn": "2024-12-11T02:50:44.000Z",
-          "wordCount": 3274,
+          "wordCount": 3296,
           "title": "Binance Offers BTC Staking Through Babylon",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2d1acc13d12d06a1cbd112e6b9117c5f74567823-1555x875.png",
@@ -980,7 +995,7 @@
           "description": "Coinbase has announced that it will add support for Magic Eden's $ME token on the Solana network (SPL token)",
           "link": "https://thedefiant.io/news/cefi/coinbase-to-list-magic-eden-s-token-on-solana-spot-trading-pending-liquidity-d45615a9",
           "publishedOn": "2024-12-10T22:56:05.000Z",
-          "wordCount": 3104,
+          "wordCount": 3135,
           "title": "Coinbase to List Magic Eden's $ME Token on Solana, Spot Trading Pending Liquidity",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bb8a09b1846b3f5bdf93e2e493f1bfac2a388818-1200x703.jpg",
@@ -1493,21 +1508,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6e5123a1f3869b5ba975f3e4f539ebeff4b335e8-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/u-s-bitcoin-etfs-now-hold-over-1-1m-btc-surpassing-satoshi-nakamoto-67ef51c4",
-          "author": "DeepNewz",
-          "description": "U.S. spot Bitcoin exchange-traded funds (ETFs) have surpassed Satoshi Nakamoto",
-          "link": "https://thedefiant.io/news/blockchains/u-s-bitcoin-etfs-now-hold-over-1-1m-btc-surpassing-satoshi-nakamoto-67ef51c4",
-          "publishedOn": "2024-12-06T21:00:43.000Z",
-          "wordCount": 3038,
-          "title": "U.S. Bitcoin ETFs Now Hold Over 1.1M BTC, Surpassing Satoshi Nakamoto",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/29e66ae64ee064b4926ae399fdcd1eb95949e1e2-1200x716.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/29e66ae64ee064b4926ae399fdcd1eb95949e1e2-1200x716.jpg"
         }
       ]
     },
