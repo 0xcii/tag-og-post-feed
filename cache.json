@@ -11,7 +11,7 @@
           "description": "Four steps: that is the distance from the wall where a vertical plank of wood is affixed to a movable stand. My yoga teacher instructs me…",
           "link": "https://cryptohayes.medium.com/trump-truth-fdcbd31f2e26?source=rss-2f6e06954878------2",
           "publishedOn": "2024-12-17T23:01:31.000Z",
-          "wordCount": 15266,
+          "wordCount": 15265,
           "title": "Trump Truth",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:446/1*FynfF3RqQZPfi_tXZZbJcQ.jpeg"
         },
@@ -44,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-market-tumbles-after-fed-signals-rate-cut-caution",
+          "author": "Jona Jaupi",
+          "description": "Bitcoin, Ethereum, and other major cryptocurrencies fell after the Federal Reserve rate projections dampened investor sentiment.",
+          "link": "https://thedefiant.io/news/markets/crypto-market-tumbles-after-fed-signals-rate-cut-caution",
+          "publishedOn": "2024-12-19T15:55:18.000Z",
+          "wordCount": 3551,
+          "title": "Crypto Market Tumbles After Fed Signals Rate-Cut Caution",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8ecf9746ac2e8a56827dcae5ec82a913236d521c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8ecf9746ac2e8a56827dcae5ec82a913236d521c-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/markets/doge-ip-owner-buys-rights-to-neiro-setting-up-dog-fight-over-new-meme",
           "author": "Leo Jakobson",
@@ -1257,7 +1272,7 @@
         {
           "id": "https://thedefiant.io/news/defi/world-liberty-financial-s-governance-approves-aave-deployment",
           "author": "Samuel Haig",
-          "description": "World Liberty Financial's first governance has passed, paving the way for the project to launch an instance of Aave v3.",
+          "description": "World Liberty Financial plans to launch an instance of Aave v3 supporting USDT, USDC, ETH, and WBTC.",
           "link": "https://thedefiant.io/news/defi/world-liberty-financial-s-governance-approves-aave-deployment",
           "publishedOn": "2024-12-13T08:17:00.000Z",
           "wordCount": 3336,
@@ -1493,21 +1508,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b72b77734176c9884ede13eeb0afc396b721254e-673x673.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/ethereum-trading-3945-up-5-62-eyes-5000-after-testing-4000-support-9a1bcb89",
-          "author": "DeepNewz",
-          "description": "Ethereum (ETH) is experiencing a significant upward trend, with current trading at approximately $3,945 and a recent high of $3,975.",
-          "link": "https://thedefiant.io/news/markets/ethereum-trading-3945-up-5-62-eyes-5000-after-testing-4000-support-9a1bcb89",
-          "publishedOn": "2024-12-12T18:30:12.000Z",
-          "wordCount": 3126,
-          "title": "Ethereum Trading at $3,945, Up 5.62%, Eyes $5,000 After Testing $4,000 Support",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/625c07ea232aab9078b1a246fcc4a7f57d62fc53-1024x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/625c07ea232aab9078b1a246fcc4a7f57d62fc53-1024x1024.jpg"
         }
       ]
     },
