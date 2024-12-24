@@ -45,12 +45,42 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/trump-appoints-pro-crypto-former-football-player-bo-hines-to-digital-assets-council",
+          "author": "Jona Jaupi",
+          "description": "Hines will be tasked with promoting innovation and supporting the growth of the cryptocurrency industry.",
+          "link": "https://thedefiant.io/news/regulation/trump-appoints-pro-crypto-former-football-player-bo-hines-to-digital-assets-council",
+          "publishedOn": "2024-12-24T14:07:50.000Z",
+          "wordCount": 3399,
+          "title": "Trump Appoints Pro-Crypto Former Football Player Bo Hines to Digital Assets Council",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0016558bafb86cebceeb724304e97d25ec2a4b82-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0016558bafb86cebceeb724304e97d25ec2a4b82-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/altcoins-rally-as-bitcoin-flounders-on-christmas-eve",
+          "author": "Jona Jaupi",
+          "description": "Saylor’s MicroStrategy bought another $561 million worth of Bitcoin last week.",
+          "link": "https://thedefiant.io/news/markets/altcoins-rally-as-bitcoin-flounders-on-christmas-eve",
+          "publishedOn": "2024-12-24T13:57:44.000Z",
+          "wordCount": 3446,
+          "title": "Altcoins Rally as Bitcoin Flounders on Christmas Eve",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/786f16c68590ae1e38e706cf4b7914cda5ba6d9f-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/786f16c68590ae1e38e706cf4b7914cda5ba6d9f-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/tornado-cash-dev-wants-charges-tossed-after-appeals-court-nixes-sanctions",
           "author": "Leo Jakobson",
           "description": "Roman Storm is asking a U.S. court to dismiss money laundering charges after an appeals court found the government could not sanction the mixing service he co-created.",
           "link": "https://thedefiant.io/news/regulation/tornado-cash-dev-wants-charges-tossed-after-appeals-court-nixes-sanctions",
           "publishedOn": "2024-12-21T16:47:18.000Z",
-          "wordCount": 3472,
+          "wordCount": 3511,
           "title": "Tornado Cash Dev Wants Charges Tossed after Appeals Court Nixes Sanctions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a0ad9156a86de063f764376a26494d771910fa67-1555x875.png",
@@ -110,7 +140,7 @@
           "description": "A sharp rise in ETF outflows reflects investor uncertainty over the Fed's interest rate decisions and the broader economic landscape.",
           "link": "https://thedefiant.io/news/markets/bitcoin-spot-etfs-face-record-outflows-amid-federal-reserve-s-cautious-stance",
           "publishedOn": "2024-12-20T20:57:33.000Z",
-          "wordCount": 3512,
+          "wordCount": 3546,
           "title": "Bitcoin Spot ETFs Face Record Outflows Amid Federal Reserve's Cautious Stance",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/90d62cdf6b22ffa2e6b353fd8737e80671319dcb-1555x875.png",
@@ -170,7 +200,7 @@
           "description": "Bitcoin and major altcoins plunged for a third day after the Federal Reserve signaled no plans to hold digital assets and adopted a cautious stance on future rate cuts.",
           "link": "https://thedefiant.io/news/markets/crypto-market-struggles-after-fed-s-cautious-outlook-and-rate-cut-remarks",
           "publishedOn": "2024-12-20T15:53:19.000Z",
-          "wordCount": 3615,
+          "wordCount": 3649,
           "title": "Crypto Market Struggles after Fed's Cautious Outlook and Rate Cut Remarks",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/da0e118e1ee825a08ceda5cc782fa09a2e6caeeb-1555x875.png",
@@ -185,7 +215,7 @@
           "description": "Bitcoin experienced a significant price drop, falling below $100,000 and reaching a low of $95,000, following a hawkish rate outlook from the Federal Reserve",
           "link": "https://thedefiant.io/news/markets/bitcoin-dips-to-95000-after-fed-cuts-rates-25-basis-points-triggers-1-2-billion-8abdbf76",
           "publishedOn": "2024-12-20T12:39:11.000Z",
-          "wordCount": 3204,
+          "wordCount": 3241,
           "title": "Bitcoin Dips to $95,000 After Fed Cuts Rates by 25 Basis Points, Triggers $1.2 Billion Crypto Liquidations",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dcad1735b3853b175bcab169a6f606b0719fb149-875x1200.jpg",
@@ -200,7 +230,7 @@
           "description": "Traders are preparing for heightened market volatility",
           "link": "https://thedefiant.io/news/markets/record-6-6-trillion-options-including-2-6b-bitcoin-ethereum-set-to-expire-ever-62eb2f29",
           "publishedOn": "2024-12-20T12:38:48.000Z",
-          "wordCount": 3121,
+          "wordCount": 3158,
           "title": "Record $6.6 Trillion in Options, Including $2.6B in Bitcoin and Ethereum, Set to Expire in Largest Ever 'Triple Witching'",
           "imageUrl": null
         },
@@ -270,7 +300,7 @@
           "description": "The cryptocurrency market has experienced a substantial downturn, with over $1",
           "link": "https://thedefiant.io/news/markets/crypto-market-sees-1-23-billion-liquidated-24-hours-373368-traders-affected-amid-c402912c",
           "publishedOn": "2024-12-19T23:45:05.000Z",
-          "wordCount": 3133,
+          "wordCount": 3169,
           "title": "Crypto Market Sees $1.23 Billion Liquidated in 24 Hours, 373,368 Traders Affected Amid Bitcoin Drop to $96,782",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b910b20af161bd401f4bbc51134cb6c2d9b790b1-1024x1024.jpg",
@@ -325,7 +355,7 @@
           "description": "The report forecasts BTC will be at least $145,000 by the middle of next year.",
           "link": "https://thedefiant.io/news/markets/bitfinex-analysts-say-bitcoin-will-rally-to-as-high-as-usd200-000-in-2025",
           "publishedOn": "2024-12-19T22:49:13.000Z",
-          "wordCount": 3255,
+          "wordCount": 3289,
           "title": "Bitfinex Analysts Say Bitcoin Will Rally to as High as $200,000 in 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3f45c4aec5ba128699dab5f6b9650289bb93d616-1555x875.png",
@@ -340,7 +370,7 @@
           "description": "Ark Invest has sold $3.9 million worth of Coinbase shares",
           "link": "https://thedefiant.io/news/markets/ark-invest-sells-3-9m-coinbase-shares-stock-drops-10-to-279-86-bitcoin-100k-7613cf0d",
           "publishedOn": "2024-12-19T22:30:17.000Z",
-          "wordCount": 3128,
+          "wordCount": 3166,
           "title": "Ark Invest Sells $3.9M in Coinbase Shares as Stock Drops 10% to $279.86; Bitcoin at $100K",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/41304c41c3da6fed36b8471ab4c887e6cf80f44f-1024x1024.jpg",
@@ -395,7 +425,7 @@
           "description": "Bitcoin and Ether are plunging after the Fed signalled that it would be cautious about further rate cuts, dampening investor appetite for risky assets.",
           "link": "https://thedefiant.io/news/markets/cryptocurrency-etf-inflows-slow-after-month-of-record-highs",
           "publishedOn": "2024-12-19T21:21:40.000Z",
-          "wordCount": 3464,
+          "wordCount": 3503,
           "title": "Cryptocurrency ETF Inflows Slow after Month of Record Highs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d9ae48275cbd8e21457059f29b86a7c872121ea6-1555x875.png",
@@ -470,7 +500,7 @@
           "description": "Bitcoin, Ethereum, and other major cryptocurrencies fell after the Federal Reserve rate projections dampened investor sentiment.",
           "link": "https://thedefiant.io/news/markets/crypto-market-tumbles-after-fed-signals-rate-cut-caution",
           "publishedOn": "2024-12-19T15:55:18.000Z",
-          "wordCount": 3567,
+          "wordCount": 3601,
           "title": "Crypto Market Tumbles After Fed Signals Rate-Cut Caution",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8ecf9746ac2e8a56827dcae5ec82a913236d521c-1555x875.png",
@@ -485,7 +515,7 @@
           "description": "The Own the Doge DAO bought the intellectual property rights to the successor to the late Doge meme dog Kabosu, and is voting on which token to anoint as 'legitimate.'",
           "link": "https://thedefiant.io/news/markets/doge-ip-owner-buys-rights-to-neiro-setting-up-dog-fight-over-new-meme",
           "publishedOn": "2024-12-19T11:15:33.000Z",
-          "wordCount": 3399,
+          "wordCount": 3430,
           "title": "Doge IP Owner Buys Rights to Neiro, Setting Up Dog Fight Over New Meme",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/314d563140608e1ecebf13068193794c9675ae9d-1555x875.png",
@@ -530,7 +560,7 @@
           "description": "The PolitiFi token is outperforming the rest of the memecoin sector.",
           "link": "https://thedefiant.io/news/markets/patriot-memecoin-soars-to-usd73-million-market-cap-amid-trump-election-buzz",
           "publishedOn": "2024-12-18T23:31:00.000Z",
-          "wordCount": 3322,
+          "wordCount": 3356,
           "title": "Patriot Memecoin Soars to $73 Million Market Cap Amid Trump Election Buzz",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/096541b2dc1c07a322e2296c10d28fb270798a42-1555x875.png",
@@ -665,7 +695,7 @@
           "description": "Recent forecasts from cryptocurrency analysts suggest a bullish outlook for Bitcoin, with predictions of substantial price increases in the coming years",
           "link": "https://thedefiant.io/news/markets/analysts-predict-bitcoin-reach-200000-2025-vaneck-s-matthew-sigel-sees-180000-dd8d1619",
           "publishedOn": "2024-12-18T21:00:20.000Z",
-          "wordCount": 3139,
+          "wordCount": 3170,
           "title": "Analysts Predict Bitcoin Could Reach $200,000 by 2025, VanEck's Matthew Sigel Sees $180,000 Amid Growing Institutional Adoption",
           "imageUrl": null
         },
@@ -700,7 +730,7 @@
           "description": "It is the second Web3 gaming firm hit with a Wells Notice warning of a pending enforcement action by the Securities and Exchange Commission in two months.",
           "link": "https://thedefiant.io/news/regulation/cyberkongz-faces-sec-lawsuit-after-years-of-living-in-fear",
           "publishedOn": "2024-12-18T19:55:01.000Z",
-          "wordCount": 3537,
+          "wordCount": 3576,
           "title": "CyberKongz Faces SEC Lawsuit after Years of ‘Living in Fear’",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d3569e805c9cd504176d25f4ce30896c11487af-1555x875.png",
@@ -730,7 +760,7 @@
           "description": "Following similar proposals from Texas and Florida, Ohio introduces legislation to create a Bitcoin reserve as part of its strategy to strengthen state finances.",
           "link": "https://thedefiant.io/news/regulation/ohio-joins-growing-trend-of-states-considering-bitcoin-reserves",
           "publishedOn": "2024-12-18T19:06:24.000Z",
-          "wordCount": 3511,
+          "wordCount": 3547,
           "title": "Ohio Joins Growing Trend of States Considering Bitcoin Reserves",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3f6db02162d5203719b7c30af9ca7c866354d748-1555x875.png",
@@ -820,7 +850,7 @@
           "description": "Trump reportedly discussed government appointments concerning digital assets and plans for a strategic Bitcoin reserve with Crypto.com’s CEO.",
           "link": "https://thedefiant.io/news/regulation/crypto-com-drops-sec-lawsuit-as-ceo-meets-with-trump",
           "publishedOn": "2024-12-18T08:50:00.000Z",
-          "wordCount": 3562,
+          "wordCount": 3598,
           "title": "Crypto.com Drops SEC Lawsuit As CEO Meets With Trump",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c45b5760a3a7e1c8b77cd2c3f1ac07b900709179-1555x875.png",
@@ -925,7 +955,7 @@
           "description": "The wallet purchased AAVE, ENA, LINK, and ONDO over the last week, sending each token on a speculation-fueled rally.",
           "link": "https://thedefiant.io/news/markets/trump-s-world-liberty-financial-acquires-blue-chip-defi-tokens",
           "publishedOn": "2024-12-17T22:38:02.000Z",
-          "wordCount": 3357,
+          "wordCount": 3391,
           "title": "Trump’s World Liberty Financial Acquires Blue Chip DeFi Tokens",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/acf9d62ae84467d2560c1481af8b0f5edb61e445-1555x875.png",
@@ -1000,7 +1030,7 @@
           "description": "By demanding that Binance delist PNUT due to trademark infringement, the viral squirrel’s owner highlights a potential pitfall for memecoin makers.",
           "link": "https://thedefiant.io/news/regulation/peanut-the-squirrel-lawsuit-is-a-warning-for-memecoin-creators",
           "publishedOn": "2024-12-17T20:27:08.000Z",
-          "wordCount": 3559,
+          "wordCount": 3598,
           "title": "Peanut the Squirrel Lawsuit is a Warning for Memecoin Creators",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/46994d169086d409febbfd1197f28b9bdb5a8ed3-1555x875.png",
@@ -1055,7 +1085,7 @@
           "description": "The Senate Banking Committee has canceled its scheduled vote on the renomination of Caroline Crenshaw as SEC Commissioner, effectively ending her bid for reappointment",
           "link": "https://thedefiant.io/news/regulation/senate-banking-committee-cancels-vote-on-anti-crypto-sec-commissioner-caroline-s-38836254",
           "publishedOn": "2024-12-17T18:59:49.000Z",
-          "wordCount": 3165,
+          "wordCount": 3204,
           "title": "Senate Banking Committee Cancels Vote on Anti-Crypto SEC Commissioner Caroline Crenshaw's Renomination",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/371418c4028de1d889b5eeb130c53c00d96f25c2-1024x1024.jpg",
@@ -1145,7 +1175,7 @@
           "description": "The humor-driven cryptocurrency inched closer to the $1 billion milestone.",
           "link": "https://thedefiant.io/news/markets/fartcoin-climbed-to-a-record-market-cap-of-usd850m-as-memecoins-ride-the-popularity-wave",
           "publishedOn": "2024-12-16T23:47:23.000Z",
-          "wordCount": 3471,
+          "wordCount": 3505,
           "title": "Fartcoin Climbed to a Record Market Cap of $850M as Memecoins Ride the Popularity Wave",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f926e4f7bc44c6d406ccf2f26d132884cad8a108-1555x875.png",
@@ -1160,7 +1190,7 @@
           "description": "Former German Finance Minister Christian Lindner has publicly criticized Chancellor Olaf Scholz for not integrating Bitcoin into Germany's financial strategy",
           "link": "https://thedefiant.io/news/regulation/former-german-finance-minister-lindner-criticizes-scholz-on-bitcoin-adoption-us-d586364a",
           "publishedOn": "2024-12-16T23:30:20.000Z",
-          "wordCount": 3151,
+          "wordCount": 3190,
           "title": "Former German Finance Minister Lindner Criticizes Scholz on Bitcoin Adoption in Bundestag Speech, Citing US Example",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/62aa02857abcb1105a5a9c73c0f6a80384cfa826-960x1200.jpg",
@@ -1257,7 +1287,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/microstrategy-buys-additional-15-350-bitcoin-for-usd1-5-billion",
           "author": "Joel Lim",
-          "description": "MicroStrategy purchased an additional 15,350 BTC for $1.5 billion between Dec. 9 and Dec. 15 at an average price of $100,386 per BTC, according to a recent 8-K filing with the Securities and Exchange Commission (SEC).",
+          "description": "The latest purchase takes the company’s Bitcoin holdings to 439,000 BTC.",
           "link": "https://thedefiant.io/news/cefi/microstrategy-buys-additional-15-350-bitcoin-for-usd1-5-billion",
           "publishedOn": "2024-12-16T20:06:31.000Z",
           "wordCount": 3373,
@@ -1410,7 +1440,7 @@
           "description": "President-elect Donald Trump said he expects to create a national strategic Bitcoin reserve during his second term in office.",
           "link": "https://thedefiant.io/news/markets/btc-tags-new-high-after-trump-stoked-u-s-bitcoin-reserve-hopes",
           "publishedOn": "2024-12-16T08:19:00.000Z",
-          "wordCount": 3419,
+          "wordCount": 3453,
           "title": "BTC Tags New High As Trump Stokes U.S. Bitcoin Reserve Hopes",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d3c8a7ebaba95e85a1098036a9ae3d76ea368a07-1555x875.png",
@@ -1440,7 +1470,7 @@
           "description": "Frank Richard Ahlgren III's tax evasion case highlights the growing scrutiny of cryptocurrency transactions by the IRS.",
           "link": "https://thedefiant.io/news/regulation/austin-man-sentenced-to-two-years-in-prison-for-underreporting-usd4m-in-bitcoin-gains",
           "publishedOn": "2024-12-13T23:04:21.000Z",
-          "wordCount": 3576,
+          "wordCount": 3612,
           "title": "Austin Man Sentenced to Two Years in Prison for Underreporting $4M in Bitcoin Gains",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/209c4101da5a366560386d03f7b9d576201f5930-1555x875.png",
@@ -1455,7 +1485,7 @@
           "description": "MicroStrategy Inc",
           "link": "https://thedefiant.io/news/markets/microstrategy-poised-nasdaq-100-inclusion-etfs-to-buy-2-1-billion-6583b7f1",
           "publishedOn": "2024-12-13T22:08:51.000Z",
-          "wordCount": 3138,
+          "wordCount": 3169,
           "title": "MicroStrategy Poised for Nasdaq 100 Inclusion, ETFs to Buy $2.1 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/90b9d556051d2c38150c78b4ba288d880b489292-746x692.png",
@@ -1470,7 +1500,7 @@
           "description": "VanEck, an asset management firm with $89",
           "link": "https://thedefiant.io/news/markets/vaneck-predicts-bitcoin-to-reach-180k-ethereum-to-exceed-6k-solana-to-surpass-9b5bdd30",
           "publishedOn": "2024-12-13T22:07:59.000Z",
-          "wordCount": 3146,
+          "wordCount": 3177,
           "title": "VanEck Predicts Bitcoin to Reach $180K, Ethereum to Exceed $6K, and Solana to Surpass $500 in 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b03f022dcca4fc74ee8e46ca80c2f11078b7692-1024x1024.jpg",
@@ -1478,26 +1508,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9b03f022dcca4fc74ee8e46ca80c2f11078b7692-1024x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/terra-classic-community-backs-cz-leader-lunc-ustc-revival-using-czleaderoflunc-63002a8d",
-          "author": "DeepNewz",
-          "description": "The Terra Classic community is rallying behind Changpeng Zhao (CZ), the CEO of Binance, as a leader in their efforts to revive the LUNA and UST cryptocurrencies",
-          "link": "https://thedefiant.io/news/markets/terra-classic-community-backs-cz-leader-lunc-ustc-revival-using-czleaderoflunc-63002a8d",
-          "publishedOn": "2024-12-13T22:07:54.000Z",
-          "wordCount": 3183,
-          "title": "Terra Classic Community Backs CZ as Leader for $LUNC and $USTC Revival, Using #CZLeaderofLUNC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/metalex-labs-launches-erc20-cybernetic-law-token-exchanger-ricardian-tripler-1faf97c0",
-          "author": "DeepNewz",
-          "description": "MetaLeX Labs has launched its Cybernetic Law Token Exchanger (CyTE), a peer-to-peer ERC20 token exchange platform designed for on-chain legal agreements",
-          "link": "https://thedefiant.io/news/defi/metalex-labs-launches-erc20-cybernetic-law-token-exchanger-ricardian-tripler-1faf97c0",
-          "publishedOn": "2024-12-13T22:00:46.000Z",
-          "wordCount": 3172,
-          "title": "MetaLeX Labs Launches ERC20 Cybernetic Law Token Exchanger with Ricardian Tripler for Noncustodial Escrow Deals",
-          "imageUrl": null
         }
       ]
     },

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-24T13:20:28.541Z</id>
+    <id>urn:2024-12-24T14:14:25.881Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-24T13:20:28.541Z</updated>
+    <updated>2024-12-24T14:14:25.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trump Appoints Pro-Crypto Former Football Player Bo Hines to Digital Assets Council]]></title>
+        <id>https://thedefiant.io/news/regulation/trump-appoints-pro-crypto-former-football-player-bo-hines-to-digital-assets-council</id>
+        <link href="https://thedefiant.io/news/regulation/trump-appoints-pro-crypto-former-football-player-bo-hines-to-digital-assets-council"/>
+        <updated>2024-12-24T14:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Hines will be tasked with promoting innovation and supporting the growth of the cryptocurrency industry.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Altcoins Rally as Bitcoin Flounders on Christmas Eve]]></title>
+        <id>https://thedefiant.io/news/markets/altcoins-rally-as-bitcoin-flounders-on-christmas-eve</id>
+        <link href="https://thedefiant.io/news/markets/altcoins-rally-as-bitcoin-flounders-on-christmas-eve"/>
+        <updated>2024-12-24T13:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Saylor’s MicroStrategy bought another $561 million worth of Bitcoin last week.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tornado Cash Dev Wants Charges Tossed after Appeals Court Nixes Sanctions]]></title>
         <id>https://thedefiant.io/news/regulation/tornado-cash-dev-wants-charges-tossed-after-appeals-court-nixes-sanctions</id>
@@ -850,7 +870,7 @@
         <id>https://thedefiant.io/news/cefi/microstrategy-buys-additional-15-350-bitcoin-for-usd1-5-billion</id>
         <link href="https://thedefiant.io/news/cefi/microstrategy-buys-additional-15-350-bitcoin-for-usd1-5-billion"/>
         <updated>2024-12-16T20:06:31.000Z</updated>
-        <summary type="html"><![CDATA[MicroStrategy purchased an additional 15,350 BTC for $1.5 billion between Dec. 9 and Dec. 15 at an average price of $100,386 per BTC, according to a recent 8-K filing with the Securities and Exchange Commission (SEC).]]></summary>
+        <summary type="html"><![CDATA[The latest purchase takes the company’s Bitcoin holdings to 439,000 BTC.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
@@ -991,26 +1011,6 @@
         <link href="https://thedefiant.io/news/markets/vaneck-predicts-bitcoin-to-reach-180k-ethereum-to-exceed-6k-solana-to-surpass-9b5bdd30"/>
         <updated>2024-12-13T22:07:59.000Z</updated>
         <summary type="html"><![CDATA[VanEck, an asset management firm with $89]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terra Classic Community Backs CZ as Leader for $LUNC and $USTC Revival, Using #CZLeaderofLUNC]]></title>
-        <id>https://thedefiant.io/news/markets/terra-classic-community-backs-cz-leader-lunc-ustc-revival-using-czleaderoflunc-63002a8d</id>
-        <link href="https://thedefiant.io/news/markets/terra-classic-community-backs-cz-leader-lunc-ustc-revival-using-czleaderoflunc-63002a8d"/>
-        <updated>2024-12-13T22:07:54.000Z</updated>
-        <summary type="html"><![CDATA[The Terra Classic community is rallying behind Changpeng Zhao (CZ), the CEO of Binance, as a leader in their efforts to revive the LUNA and UST cryptocurrencies]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaLeX Labs Launches ERC20 Cybernetic Law Token Exchanger with Ricardian Tripler for Noncustodial Escrow Deals]]></title>
-        <id>https://thedefiant.io/news/defi/metalex-labs-launches-erc20-cybernetic-law-token-exchanger-ricardian-tripler-1faf97c0</id>
-        <link href="https://thedefiant.io/news/defi/metalex-labs-launches-erc20-cybernetic-law-token-exchanger-ricardian-tripler-1faf97c0"/>
-        <updated>2024-12-13T22:00:46.000Z</updated>
-        <summary type="html"><![CDATA[MetaLeX Labs has launched its Cybernetic Law Token Exchanger (CyTE), a peer-to-peer ERC20 token exchange platform designed for on-chain legal agreements]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
