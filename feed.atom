@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-24T14:14:25.881Z</id>
+    <id>urn:2024-12-24T15:15:48.333Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-24T14:14:25.881Z</updated>
+    <updated>2024-12-24T15:15:48.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Assets Suffer $1B of Outflows Amid Fed's Hawkish Stance]]></title>
+        <id>https://thedefiant.io/news/markets/digital-assets-suffer-usd1b-of-outflows-amid-fed-s-hawkish-stance</id>
+        <link href="https://thedefiant.io/news/markets/digital-assets-suffer-usd1b-of-outflows-amid-fed-s-hawkish-stance"/>
+        <updated>2024-12-24T14:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Despite $1 billion in outflows, digital asset funds managed to maintain positive inflows, marking the 11th consecutive week of growth.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump Appoints Pro-Crypto Former Football Player Bo Hines to Digital Assets Council]]></title>
         <id>https://thedefiant.io/news/regulation/trump-appoints-pro-crypto-former-football-player-bo-hines-to-digital-assets-council</id>
@@ -1001,16 +1011,6 @@
         <link href="https://thedefiant.io/news/markets/microstrategy-poised-nasdaq-100-inclusion-etfs-to-buy-2-1-billion-6583b7f1"/>
         <updated>2024-12-13T22:08:51.000Z</updated>
         <summary type="html"><![CDATA[MicroStrategy Inc]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VanEck Predicts Bitcoin to Reach $180K, Ethereum to Exceed $6K, and Solana to Surpass $500 in 2025]]></title>
-        <id>https://thedefiant.io/news/markets/vaneck-predicts-bitcoin-to-reach-180k-ethereum-to-exceed-6k-solana-to-surpass-9b5bdd30</id>
-        <link href="https://thedefiant.io/news/markets/vaneck-predicts-bitcoin-to-reach-180k-ethereum-to-exceed-6k-solana-to-surpass-9b5bdd30"/>
-        <updated>2024-12-13T22:07:59.000Z</updated>
-        <summary type="html"><![CDATA[VanEck, an asset management firm with $89]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>

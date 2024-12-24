@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/digital-assets-suffer-usd1b-of-outflows-amid-fed-s-hawkish-stance",
+          "author": "Jona Jaupi",
+          "description": "Despite $1 billion in outflows, digital asset funds managed to maintain positive inflows, marking the 11th consecutive week of growth.",
+          "link": "https://thedefiant.io/news/markets/digital-assets-suffer-usd1b-of-outflows-amid-fed-s-hawkish-stance",
+          "publishedOn": "2024-12-24T14:17:02.000Z",
+          "wordCount": 3499,
+          "title": "Digital Assets Suffer $1B of Outflows Amid Fed's Hawkish Stance",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/af55c65561b902daeb0b808f6276acc5ab4c1769-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/af55c65561b902daeb0b808f6276acc5ab4c1769-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/trump-appoints-pro-crypto-former-football-player-bo-hines-to-digital-assets-council",
           "author": "Jona Jaupi",
           "description": "Hines will be tasked with promoting innovation and supporting the growth of the cryptocurrency industry.",
@@ -1493,21 +1508,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/90b9d556051d2c38150c78b4ba288d880b489292-746x692.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/vaneck-predicts-bitcoin-to-reach-180k-ethereum-to-exceed-6k-solana-to-surpass-9b5bdd30",
-          "author": "DeepNewz",
-          "description": "VanEck, an asset management firm with $89",
-          "link": "https://thedefiant.io/news/markets/vaneck-predicts-bitcoin-to-reach-180k-ethereum-to-exceed-6k-solana-to-surpass-9b5bdd30",
-          "publishedOn": "2024-12-13T22:07:59.000Z",
-          "wordCount": 3177,
-          "title": "VanEck Predicts Bitcoin to Reach $180K, Ethereum to Exceed $6K, and Solana to Surpass $500 in 2025",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b03f022dcca4fc74ee8e46ca80c2f11078b7692-1024x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9b03f022dcca4fc74ee8e46ca80c2f11078b7692-1024x1024.jpg"
         }
       ]
     },
