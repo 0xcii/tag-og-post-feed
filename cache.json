@@ -45,12 +45,42 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-etfs-reverse-losing-streak-with-usd475m-of-inflows",
+          "author": "Jona Jaupi",
+          "description": "Following four days of record outflows totaling $1.5 billion, Bitcoin ETFs are regaining investor confidence.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-etfs-reverse-losing-streak-with-usd475m-of-inflows",
+          "publishedOn": "2024-12-27T18:06:29.000Z",
+          "wordCount": 3341,
+          "title": "Bitcoin ETFs Reverse Losing Streak With $475M of Inflows",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8fade5c9387ed9e1923c7dcaf95240c259a068e4-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8fade5c9387ed9e1923c7dcaf95240c259a068e4-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/korean-crypto-users-spike-following-trump-s-election-victory",
+          "author": "Leo Jakobson",
+          "description": "610,000 new South Korean users invested in crypto in the month following the U.S. presidential election, pushing the total above 30% of the population.",
+          "link": "https://thedefiant.io/news/markets/korean-crypto-users-spike-following-trump-s-election-victory",
+          "publishedOn": "2024-12-27T17:45:40.000Z",
+          "wordCount": 3346,
+          "title": "Korean Crypto Users Spike Following Trump’s Election Victory",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e0915c59417b11035a606cba71287b74e112cea7-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e0915c59417b11035a606cba71287b74e112cea7-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/coingecko-report-crowns-memecoins-as-leading-crypto-narrative-in-2024",
           "author": "Joel Lim",
           "description": "Alongside the main memecoin narrative, four other memecoin trends made the top 20.",
           "link": "https://thedefiant.io/news/markets/coingecko-report-crowns-memecoins-as-leading-crypto-narrative-in-2024",
           "publishedOn": "2024-12-27T15:45:03.000Z",
-          "wordCount": 3468,
+          "wordCount": 3438,
           "title": "Coingecko Report Crowns Memecoins as Leading Crypto Narrative in 2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9c10085d5841e871a055e58f02695eb55729efe6-1555x875.png",
@@ -170,7 +200,7 @@
           "description": "The liquidity platform’s vault is one of two incentivized pre-deposit vaults launched as a part of Berachain’s “69 hours of Beramas” initiative.",
           "link": "https://thedefiant.io/news/defi/stakestone-s-berachain-vault-tvl-surpasses-usd130-million-in-24-hours",
           "publishedOn": "2024-12-26T22:15:48.000Z",
-          "wordCount": 3468,
+          "wordCount": 3466,
           "title": "StakeStone’s Berachain Vault TVL Surpasses $130 Million in 24 Hours",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6dbeed472e55d50a48404a0e422a8911127f7279-1555x875.png",
@@ -200,7 +230,7 @@
           "description": "Aave and Chainlink are collaborating to enhance the decentralized finance ecosystem through the integration of Chainlink's Smart Value Recapture (SVR) oracles into Aave's v3 platform",
           "link": "https://thedefiant.io/news/defi/aave-chainlink-collaborate-to-optimize-mev-recapture-potentially-worth-millions-c22962be",
           "publishedOn": "2024-12-26T21:00:06.000Z",
-          "wordCount": 3216,
+          "wordCount": 3223,
           "title": "Aave and Chainlink Collaborate to Optimize MEV Recapture, Potentially Worth Millions and 40%+ of Leaked MEV",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e246992de23b1e7c7d5a69b63bab2329e217c749-1200x630.jpg",
@@ -275,7 +305,7 @@
           "description": "Jupiter Exchange has announced the upcoming JUPuary airdrop, scheduled for next month, which will distribute a total of 700 million $JUP tokens, valued at over $590 million",
           "link": "https://thedefiant.io/news/defi/jupiter-exchange-announces-700m-jup-airdrop-worth-590m-2-3m-eligible-wallets-75m-a67e73e2",
           "publishedOn": "2024-12-26T19:29:50.000Z",
-          "wordCount": 3219,
+          "wordCount": 3229,
           "title": "Jupiter Exchange Announces 700M $JUP Airdrop Worth $590M+ for 2.3M Eligible Wallets, 75M $JUP Reserved",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/30a5412f3f63bbcaef14c4665ad4254acea45a1c-1200x664.jpg",
@@ -485,7 +515,7 @@
           "description": "Investors found a creative workaround to get into the presale for the Wonderland founder's new project earlier than the competition.",
           "link": "https://thedefiant.io/news/defi/daniele-sesta-s-heyanon-ai-drives-mass-demand-as-devs-hack-into-the-presale-early",
           "publishedOn": "2024-12-20T22:23:48.000Z",
-          "wordCount": 3673,
+          "wordCount": 3679,
           "title": "Daniele Sesta's HeyAnon.AI Drove Devs to Uncover Early Presale Access",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e9adda2a928f9c4b3c55a5bd797e317ef7f6fd5b-1555x875.png",
@@ -815,7 +845,7 @@
           "description": "Chainlink has announced a partnership with Shiba Inu, allowing Shiba Inu assets including SHIB, BONE, and LEASH to adopt the CCT standard",
           "link": "https://thedefiant.io/news/defi/chainlink-partners-shiba-inu-enhancing-multi-chain-capabilities-shib-bone-leash-0b61ee58",
           "publishedOn": "2024-12-19T20:37:00.000Z",
-          "wordCount": 3178,
+          "wordCount": 3188,
           "title": "Chainlink Partners with Shiba Inu, Enhancing Multi-Chain Capabilities for SHIB, BONE, and LEASH Across 12 Blockchains",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/283b02a7ea3140ab858a0d2715679965d860a4e1-1200x1200.jpg",
@@ -845,7 +875,7 @@
           "description": "MetaMask Card is already live in the EU, UK, Brazil, Mexico and Colombia.",
           "link": "https://thedefiant.io/news/defi/metamask-announces-u-s-debit-card-pilot-program",
           "publishedOn": "2024-12-19T18:28:11.000Z",
-          "wordCount": 3294,
+          "wordCount": 3304,
           "title": "MetaMask Announces U.S Debit Card Pilot Program",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cff4d82d259ce0fdcd410e041d3ee2b2cdec5ad3-1555x875.png",
@@ -905,7 +935,7 @@
           "description": "A U.S. judge refused to stop Coinbase from delisting wrapped Bitcoin after the exchange said there was an ‘unacceptable risk’ that control of wBTC would ‘fall into the hands of Justin Sun.’",
           "link": "https://thedefiant.io/news/defi/coinbase-calls-out-justin-sun-in-explaining-why-it-booted-wbtc",
           "publishedOn": "2024-12-19T09:35:23.000Z",
-          "wordCount": 3661,
+          "wordCount": 3671,
           "title": "Coinbase Calls Out Justin Sun in Explaining Why It Booted wBTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d8911f8519081aba83f15199449210241296d7df-1555x875.png",
@@ -995,7 +1025,7 @@
           "description": "JupiterExchange has launched JupiterZ, a new feature on the Solana blockchain that enables gasless swaps with 0% slippage",
           "link": "https://thedefiant.io/news/defi/jupiterexchange-launches-jupiterz-on-solana-gasless-swaps-0-slippage-starknet-027ed827",
           "publishedOn": "2024-12-18T22:00:29.000Z",
-          "wordCount": 3229,
+          "wordCount": 3239,
           "title": "JupiterExchange Launches JupiterZ on Solana for Gasless Swaps and 0% Slippage; Starknet and Mantle Network Updates Included",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/83fca1512c507cdb7c3646fb6e84fc453d32adbf-1200x957.jpg",
@@ -1150,7 +1180,7 @@
           "description": "Ethena Labs has entered into a strategic partnership with World Liberty Financial, a cryptocurrency project backed by Donald Trump",
           "link": "https://thedefiant.io/news/defi/ethena-labs-trump-backed-world-liberty-financial-partner-to-integrate-susde-defi-babbf1be",
           "publishedOn": "2024-12-18T18:44:11.000Z",
-          "wordCount": 3185,
+          "wordCount": 3195,
           "title": "Ethena Labs and Trump-Backed World Liberty Financial Partner to Integrate sUSDe in DeFi",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/096733fd2498dda8daa90a7b35444921a82a35a6-1200x670.jpg",
@@ -1180,7 +1210,7 @@
           "description": "The total real-world asset market capitalization is at a new all-time high, and RWA tokens are surging.",
           "link": "https://thedefiant.io/news/defi/tokenized-rwa-market-surpasses-usd14-billion",
           "publishedOn": "2024-12-18T10:42:12.000Z",
-          "wordCount": 3427,
+          "wordCount": 3433,
           "title": "Tokenized RWA Market Surpasses $14 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e100257af62c34dbf74e167113aeb0f9cc51fd58-1555x875.png",
@@ -1195,7 +1225,7 @@
           "description": "If approved, 5% of Ether.Fi’s revenue will be allocated towards monthly staking rewards.",
           "link": "https://thedefiant.io/news/defi/ether-fi-proposes-new-reward-program-for-stakers",
           "publishedOn": "2024-12-18T10:30:24.000Z",
-          "wordCount": 3279,
+          "wordCount": 3289,
           "title": "Ether.Fi Proposes New Reward Program for Stakers",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8ed20937b446bd1b05db5cffc1425473d0808016-1555x875.png",
@@ -1225,7 +1255,7 @@
           "description": "Nearly $6 billion worth of BTC is now staked via Babylon.",
           "link": "https://thedefiant.io/news/defi/babylon-tvl-surges-more-than-usd3-5b-in-one-week",
           "publishedOn": "2024-12-18T07:19:00.000Z",
-          "wordCount": 3388,
+          "wordCount": 3394,
           "title": "Babylon TVL Surges By More Than $3.5B In One Week",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0b1160333594589e9392c225d5fdedb69836b1cf-1555x875.png",
@@ -1267,7 +1297,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/riot-platforms-acquires-an-additional-667-btc",
           "author": "Joel Lim",
-          "description": "Bitcoin mining and digital infrastructure company Riot Platforms announced it has acquired an additional 667 BTC using the proceeds from its $594 million senior convertible notes sale, according to an X post from the company.",
+          "description": "The acquisition comes just days after the company purchased 5,117 BTC.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/riot-platforms-acquires-an-additional-667-btc",
           "publishedOn": "2024-12-17T23:19:59.000Z",
           "wordCount": 3183,
@@ -1345,7 +1375,7 @@
           "description": "Tether, the company behind the largest stablecoin USDT, has invested in StablR, a European stablecoin provider, to promote the adoption of stablecoins in Europe",
           "link": "https://thedefiant.io/news/defi/tether-backs-stablr-to-promote-stablecoin-adoption-europe-amid-mica-compliance-31be0652",
           "publishedOn": "2024-12-17T22:00:03.000Z",
-          "wordCount": 3287,
+          "wordCount": 3297,
           "title": "Tether Backs StablR to Promote Stablecoin Adoption in Europe Amid MiCA Compliance",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/30ea05444c822594b96adda0a5a74b36eb6bc755-1200x1193.jpg",
@@ -1405,7 +1435,7 @@
           "description": "USDtb aims to mitigate risks during market downturns and provide an alternative to Ethena’s flagship USDe synthetic dollar.",
           "link": "https://thedefiant.io/news/defi/ethena-launches-new-stablecoin-backed-by-blackrock-s-treasury-fund",
           "publishedOn": "2024-12-17T19:55:44.000Z",
-          "wordCount": 3544,
+          "wordCount": 3550,
           "title": "Ethena Launches New Stablecoin Backed by BlackRock’s Treasury Fund",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7b17c857b656a2050eee9336f87ffc7bb476756c-1555x875.png",
@@ -1460,7 +1490,7 @@
           "description": "The US dollar-pegged token will be available on Ethereum and the XRP Ledger.",
           "link": "https://thedefiant.io/news/defi/ripple-s-rlusd-stablecoin-to-commence-trading-today",
           "publishedOn": "2024-12-17T18:04:00.000Z",
-          "wordCount": 3405,
+          "wordCount": 3411,
           "title": "Ripple’s RLUSD Stablecoin to Commence Trading Today",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/40517df92c294ecf4b0a6dbd321af6cf36d48e6c-1555x875.png",
@@ -1475,7 +1505,7 @@
           "description": "The Synthetix Exchange relaunch coincides with multi-collateral perps going live on Base.",
           "link": "https://thedefiant.io/news/defi/synthetix-relaunches-native-exchange-following-kwenta-acquisition",
           "publishedOn": "2024-12-17T13:59:00.000Z",
-          "wordCount": 3473,
+          "wordCount": 3479,
           "title": "Synthetix Relaunches Native Exchange Following Kwenta Acquisition",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/247be0438acf67a26e9810beb15e840a03beb797-1555x875.png",
@@ -1483,36 +1513,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/247be0438acf67a26e9810beb15e840a03beb797-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/pengu-claims-go-live-after-pudgy-penguins-nfts-post-new-all-time-highs",
-          "author": "Samuel Haig",
-          "description": "Both Pudgy Penguins and Lil Pudgies NFTs have enjoyed triple-digit price gains in less than two weeks following news of the PENGU airdrop.",
-          "link": "https://thedefiant.io/news/tokens/pengu-claims-go-live-after-pudgy-penguins-nfts-post-new-all-time-highs",
-          "publishedOn": "2024-12-17T13:00:00.000Z",
-          "wordCount": 3540,
-          "title": "PENGU Claims Go Live After Pudgy Penguins NFTs Post New All-Time Highs",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0b938b64ce8c8fde98649ddbd01bcc1498eacddb-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0b938b64ce8c8fde98649ddbd01bcc1498eacddb-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/masa-launches-ai-agent-arena-on-bittensor",
-          "author": "Squiffs",
-          "description": "The initiative is built in partnership with Yuma, a subsidiary of Barry Silbert's DCG dedicated to Bittensor Acceleration.",
-          "link": "https://thedefiant.io/news/blockchains/masa-launches-ai-agent-arena-on-bittensor",
-          "publishedOn": "2024-12-17T11:55:28.000Z",
-          "wordCount": 3288,
-          "title": "Masa Launches AI Agent Arena on Bittensor",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/baa1e34762d9d7118fc439960a5c89c5d68edc17-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/baa1e34762d9d7118fc439960a5c89c5d68edc17-1555x875.png"
         }
       ]
     },
