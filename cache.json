@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/hyperliquid-opens-staking-with-hype-token-in-top-25-by-market-cap",
+          "author": "Leo Jakobson",
+          "description": "The HYPE token is up almost 620% in its month-long lifetime.",
+          "link": "https://thedefiant.io/news/defi/hyperliquid-opens-staking-with-hype-token-in-top-25-by-market-cap",
+          "publishedOn": "2024-12-30T22:48:05.000Z",
+          "wordCount": 3289,
+          "title": "Hyperliquid Opens Staking with HYPE Token in Top 25 by Market Cap",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/55b8894d9a52fa016b625f736ebafaddf2c67f94-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/55b8894d9a52fa016b625f736ebafaddf2c67f94-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/dex-trading-volume-hits-record-usd451-billion-amid-memecoin-frenzy",
           "author": "Jona Jaupi",
           "description": "Uniswap and PancakeSwap lead the charge.",
@@ -1503,21 +1518,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e100257af62c34dbf74e167113aeb0f9cc51fd58-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ether-fi-proposes-new-reward-program-for-stakers",
-          "author": "Joel Lim",
-          "description": "If approved, 5% of Ether.Fi’s revenue will be allocated towards monthly staking rewards.",
-          "link": "https://thedefiant.io/news/defi/ether-fi-proposes-new-reward-program-for-stakers",
-          "publishedOn": "2024-12-18T10:30:24.000Z",
-          "wordCount": 3281,
-          "title": "Ether.Fi Proposes New Reward Program for Stakers",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8ed20937b446bd1b05db5cffc1425473d0808016-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8ed20937b446bd1b05db5cffc1425473d0808016-1555x875.png"
         }
       ]
     },

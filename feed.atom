@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-30T22:14:43.513Z</id>
+    <id>urn:2024-12-30T23:14:47.177Z</id>
     <title>web3::cave</title>
-    <updated>2024-12-30T22:14:43.513Z</updated>
+    <updated>2024-12-30T23:14:47.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Opens Staking with HYPE Token in Top 25 by Market Cap]]></title>
+        <id>https://thedefiant.io/news/defi/hyperliquid-opens-staking-with-hype-token-in-top-25-by-market-cap</id>
+        <link href="https://thedefiant.io/news/defi/hyperliquid-opens-staking-with-hype-token-in-top-25-by-market-cap"/>
+        <updated>2024-12-30T22:48:05.000Z</updated>
+        <summary type="html"><![CDATA[The HYPE token is up almost 620% in its month-long lifetime.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEX Trading Volume Hits Record $451 Billion Amid Memecoin Frenzy]]></title>
         <id>https://thedefiant.io/news/defi/dex-trading-volume-hits-record-usd451-billion-amid-memecoin-frenzy</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The total real-world asset market capitalization is at a new all-time high, and RWA tokens are surging.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ether.Fi Proposes New Reward Program for Stakers]]></title>
-        <id>https://thedefiant.io/news/defi/ether-fi-proposes-new-reward-program-for-stakers</id>
-        <link href="https://thedefiant.io/news/defi/ether-fi-proposes-new-reward-program-for-stakers"/>
-        <updated>2024-12-18T10:30:24.000Z</updated>
-        <summary type="html"><![CDATA[If approved, 5% of Ether.Fi’s revenue will be allocated towards monthly staking rewards.]]></summary>
-        <author>
-            <name>Joel Lim</name>
         </author>
     </entry>
     <entry>
