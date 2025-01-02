@@ -35,6 +35,81 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/kekius-maximus-memecoin-dips-70-after-elon-musk-changes-x-profile-name",
+          "author": "Joel Lim",
+          "description": "The memecoin’s price surged by over 3,000% when Musk changed his profile name on Dec. 31.",
+          "link": "https://thedefiant.io/news/markets/kekius-maximus-memecoin-dips-70-after-elon-musk-changes-x-profile-name",
+          "publishedOn": "2025-01-02T19:08:19.000Z",
+          "wordCount": 3360,
+          "title": "Kekius Maximus Memecoin Dips 70% After Elon Musk Changes X Profile Name",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7d457aab7798401c689a52cf9b55e7820e7a34b7-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7d457aab7798401c689a52cf9b55e7820e7a34b7-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/ethereum-etfs-recorded-inflows-of-usd2-1-billion-in-december",
+          "author": "Jona Jaupi",
+          "description": "BlackRock’s ETHA led the charge, amassing the majority of December’s $2 billion in inflows.",
+          "link": "https://thedefiant.io/news/markets/ethereum-etfs-recorded-inflows-of-usd2-1-billion-in-december",
+          "publishedOn": "2025-01-02T19:07:35.000Z",
+          "wordCount": 3395,
+          "title": "Ethereum ETFs Recorded Inflows of $2.1 Billion in December",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/aa7948d3677dd1c831ae4df8b71e9c2f3f794835-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aa7948d3677dd1c831ae4df8b71e9c2f3f794835-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/ai-meme-tokens-hit-10b-market-cap-2-7b-trading-volume-binance-offers-75x-on-a655faff",
+          "author": "DeepNewz",
+          "description": "The market capitalization of AI-inspired meme tokens has surged past $10 billion,",
+          "link": "https://thedefiant.io/news/markets/ai-meme-tokens-hit-10b-market-cap-2-7b-trading-volume-binance-offers-75x-on-a655faff",
+          "publishedOn": "2025-01-02T19:00:49.000Z",
+          "wordCount": 3188,
+          "title": "AI Meme Tokens Hit $10B Market Cap with $2.7B Trading Volume, Binance Offers 75x Leverage on ai16z, Zerebro, Griffain",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/38f4d6f15d8ee262a4adac7d365ff5dc91d335ce-1125x848.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/38f4d6f15d8ee262a4adac7d365ff5dc91d335ce-1125x848.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/xrp-surpasses-tether-3rd-largest-cryptocurrency-138-4b-market-cap-price-hits-2-798a7aae",
+          "author": "DeepNewz",
+          "description": "XRP has reclaimed its position as the third-largest cryptocurrency by market capitalization, surpassing Tether (USDT)",
+          "link": "https://thedefiant.io/news/markets/xrp-surpasses-tether-3rd-largest-cryptocurrency-138-4b-market-cap-price-hits-2-798a7aae",
+          "publishedOn": "2025-01-02T18:00:57.000Z",
+          "wordCount": 3203,
+          "title": "XRP Surpasses Tether as 3rd Largest Cryptocurrency with $138.4B Market Cap, Price Hits $2.42 After 15% Surge",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c8a450d0981ce737f34d019ec8e6b83edb9f2f70-1200x675.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c8a450d0981ce737f34d019ec8e6b83edb9f2f70-1200x675.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/crypto-scam-hack-losses-fall-to-28-6-million-december-2024-down-63-8-million-f17043b1",
+          "author": "DeepNewz",
+          "description": "In December 2024, losses from crypto scams and hacks fell to $28.6 million",
+          "link": "https://thedefiant.io/news/defi/crypto-scam-hack-losses-fall-to-28-6-million-december-2024-down-63-8-million-f17043b1",
+          "publishedOn": "2025-01-02T17:20:14.000Z",
+          "wordCount": 3130,
+          "title": "Crypto Scam and Hack Losses Fall to $28.6 Million in December 2024, Down from $63.8 Million in November",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/00a179ca2d95a51ad8ee61841b97c5f2b5083b0f-972x729.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/00a179ca2d95a51ad8ee61841b97c5f2b5083b0f-972x729.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/blader-to-reimburse-600000-zero-losses-amid-5-year-old-daughter-s-brain-tumor-b6ad8f82",
           "author": "DeepNewz",
           "description": "An individual known as Blader, whose 5-year-old daughter is suffering from a brain tumor, has been involved in launching a cryptocurrency token called $ZERO",
@@ -1443,81 +1518,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cff4d82d259ce0fdcd410e041d3ee2b2cdec5ad3-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-market-tumbles-after-fed-signals-rate-cut-caution",
-          "author": "Jona Jaupi",
-          "description": "Bitcoin, Ethereum, and other major cryptocurrencies fell after the Federal Reserve rate projections dampened investor sentiment.",
-          "link": "https://thedefiant.io/news/markets/crypto-market-tumbles-after-fed-signals-rate-cut-caution",
-          "publishedOn": "2024-12-19T15:55:18.000Z",
-          "wordCount": 3570,
-          "title": "Crypto Market Tumbles After Fed Signals Rate-Cut Caution",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8ecf9746ac2e8a56827dcae5ec82a913236d521c-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8ecf9746ac2e8a56827dcae5ec82a913236d521c-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/doge-ip-owner-buys-rights-to-neiro-setting-up-dog-fight-over-new-meme",
-          "author": "Leo Jakobson",
-          "description": "The Own the Doge DAO bought the intellectual property rights to the successor to the late Doge meme dog Kabosu, and is voting on which token to anoint as 'legitimate.'",
-          "link": "https://thedefiant.io/news/markets/doge-ip-owner-buys-rights-to-neiro-setting-up-dog-fight-over-new-meme",
-          "publishedOn": "2024-12-19T11:15:33.000Z",
-          "wordCount": 3399,
-          "title": "Doge IP Owner Buys Rights to Neiro, Setting Up Dog Fight Over New Meme",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/314d563140608e1ecebf13068193794c9675ae9d-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/314d563140608e1ecebf13068193794c9675ae9d-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/bitwise-launches-solana-staking-etp-in-europe",
-          "author": "Joel Lim",
-          "description": "The move comes after the SEC denied Bitwise’s request to list a Solana ETF in the U.S.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/bitwise-launches-solana-staking-etp-in-europe",
-          "publishedOn": "2024-12-19T09:47:53.000Z",
-          "wordCount": 3216,
-          "title": "Bitwise Launches Solana Staking ETP in Europe",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a908241457d14c357bd9c0ddeadae28985ad0f22-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a908241457d14c357bd9c0ddeadae28985ad0f22-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/coinbase-calls-out-justin-sun-in-explaining-why-it-booted-wbtc",
-          "author": "Leo Jakobson",
-          "description": "A U.S. judge refused to stop Coinbase from delisting wrapped Bitcoin after the exchange said there was an ‘unacceptable risk’ that control of wBTC would ‘fall into the hands of Justin Sun.’",
-          "link": "https://thedefiant.io/news/defi/coinbase-calls-out-justin-sun-in-explaining-why-it-booted-wbtc",
-          "publishedOn": "2024-12-19T09:35:23.000Z",
-          "wordCount": 3630,
-          "title": "Coinbase Calls Out Justin Sun in Explaining Why It Booted wBTC",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d8911f8519081aba83f15199449210241296d7df-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d8911f8519081aba83f15199449210241296d7df-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/patriot-memecoin-soars-to-usd73-million-market-cap-amid-trump-election-buzz",
-          "author": "Jona Jaupi",
-          "description": "The PolitiFi token is outperforming the rest of the memecoin sector.",
-          "link": "https://thedefiant.io/news/markets/patriot-memecoin-soars-to-usd73-million-market-cap-amid-trump-election-buzz",
-          "publishedOn": "2024-12-18T23:31:00.000Z",
-          "wordCount": 3325,
-          "title": "Patriot Memecoin Soars to $73 Million Market Cap Amid Trump Election Buzz",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/096541b2dc1c07a322e2296c10d28fb270798a42-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/096541b2dc1c07a322e2296c10d28fb270798a42-1555x875.png"
         }
       ]
     },
