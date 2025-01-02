@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-02T19:11:59.336Z</id>
+    <id>urn:2025-01-02T20:16:59.241Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-02T19:11:59.336Z</updated>
+    <updated>2025-01-02T20:16:59.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Token Infrastructure Outperforms Agents and Memecoins]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/ai-token-infrastructure-outperform-agents-and-memecoins</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/ai-token-infrastructure-outperform-agents-and-memecoins"/>
+        <updated>2025-01-02T19:23:07.000Z</updated>
+        <summary type="html"><![CDATA[The market has shifted from agent-specific tokens, towards AI agent frameworks.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kekius Maximus Memecoin Dips 70% After Elon Musk Changes X Profile Name]]></title>
         <id>https://thedefiant.io/news/markets/kekius-maximus-memecoin-dips-70-after-elon-musk-changes-x-profile-name</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Formula 1 (F1) has announced the extension of its partnership with Crypto.com]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask Announces U.S Debit Card Pilot Program]]></title>
-        <id>https://thedefiant.io/news/defi/metamask-announces-u-s-debit-card-pilot-program</id>
-        <link href="https://thedefiant.io/news/defi/metamask-announces-u-s-debit-card-pilot-program"/>
-        <updated>2024-12-19T18:28:11.000Z</updated>
-        <summary type="html"><![CDATA[MetaMask Card is already live in the EU, UK, Brazil, Mexico and Colombia.]]></summary>
-        <author>
-            <name>Joel Lim</name>
         </author>
     </entry>
     <entry>
