@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ripple-president-says-xrp-etf-next-in-line-after-bitcoin-and-ethereum",
+          "author": "Joel Lim",
+          "description": "Also says major listings for RLUSD are on the way in a recent interview with Bloomberg.",
+          "link": "https://thedefiant.io/news/blockchains/ripple-president-says-xrp-etf-next-in-line-after-bitcoin-and-ethereum",
+          "publishedOn": "2025-01-09T03:24:36.000Z",
+          "wordCount": 3358,
+          "title": "Ripple President Says XRP ETF Next In Line After Bitcoin and Ethereum's",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c0d6c367506aa8bfe1f18d09f6441be0b269a455-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c0d6c367506aa8bfe1f18d09f6441be0b269a455-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/hyperliquid-fights-back-against-lack-of-decentralization-complaints",
+          "author": "Leo Jakobson",
+          "description": "The perpetual futures DEX said it will open up as soon as security allows.",
+          "link": "https://thedefiant.io/news/blockchains/hyperliquid-fights-back-against-lack-of-decentralization-complaints",
+          "publishedOn": "2025-01-09T03:12:41.000Z",
+          "wordCount": 3555,
+          "title": "Hyperliquid Fights Back Against Lack of Decentralization Complaints",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3a74922031efb9afdc6e28bc77ae4f9b4fe5e6a0-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3a74922031efb9afdc6e28bc77ae4f9b4fe5e6a0-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/reddit-nfts-head-is-unsure-of-collection-direction-after-her-exit",
           "author": "Joel Lim",
           "description": "The Reddit Collectibe Avatars NFT collection has dwindled in sales since its launch in 2022.",
@@ -1508,36 +1538,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b82e1011935fa8e3ab7233d10831aa2902013cfa-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ai16z-surpasses-usd1-billion-market-cap-as-it-considers-memecoin-launchpad",
-          "author": "Joel Lim",
-          "description": "It becomes the first Solana-based AI agent memecoin to surpass that milestone.",
-          "link": "https://thedefiant.io/news/defi/ai16z-surpasses-usd1-billion-market-cap-as-it-considers-memecoin-launchpad",
-          "publishedOn": "2024-12-30T21:29:21.000Z",
-          "wordCount": 3383,
-          "title": "AI16z Surpasses $1 Billion Market Cap as it Considers Memecoin Launchpad",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f280979a973451afeb5d2750fe5f91b0eeeba21c-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f280979a973451afeb5d2750fe5f91b0eeeba21c-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/a16z-crypto-supports-legal-challenge-against-irs-s-defi-regulations",
-          "author": "Jona Jaupi",
-          "description": "The lawsuit contests new rules that classify DeFi platforms as brokers and urges for clearer policies to protect the sector's growth.",
-          "link": "https://thedefiant.io/news/regulation/a16z-crypto-supports-legal-challenge-against-irs-s-defi-regulations",
-          "publishedOn": "2024-12-30T21:11:40.000Z",
-          "wordCount": 3589,
-          "title": "a16z Crypto Supports Legal Challenge Against IRS's DeFi Regulations",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c350db16135f979066fda97e93406acd3ef78e62-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c350db16135f979066fda97e93406acd3ef78e62-1555x875.png"
         }
       ]
     },

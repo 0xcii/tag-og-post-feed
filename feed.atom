@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-09T03:11:09.200Z</id>
+    <id>urn:2025-01-09T04:19:21.797Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-09T03:11:09.200Z</updated>
+    <updated>2025-01-09T04:19:21.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ripple President Says XRP ETF Next In Line After Bitcoin and Ethereum's]]></title>
+        <id>https://thedefiant.io/news/blockchains/ripple-president-says-xrp-etf-next-in-line-after-bitcoin-and-ethereum</id>
+        <link href="https://thedefiant.io/news/blockchains/ripple-president-says-xrp-etf-next-in-line-after-bitcoin-and-ethereum"/>
+        <updated>2025-01-09T03:24:36.000Z</updated>
+        <summary type="html"><![CDATA[Also says major listings for RLUSD are on the way in a recent interview with Bloomberg.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Fights Back Against Lack of Decentralization Complaints]]></title>
+        <id>https://thedefiant.io/news/blockchains/hyperliquid-fights-back-against-lack-of-decentralization-complaints</id>
+        <link href="https://thedefiant.io/news/blockchains/hyperliquid-fights-back-against-lack-of-decentralization-complaints"/>
+        <updated>2025-01-09T03:12:41.000Z</updated>
+        <summary type="html"><![CDATA[The perpetual futures DEX said it will open up as soon as security allows.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reddit NFTs Head is “Unsure” of Collection Direction After Her Exit]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/reddit-nfts-head-is-unsure-of-collection-direction-after-her-exit</id>
@@ -991,26 +1011,6 @@
         <link href="https://thedefiant.io/news/defi/dex-trading-volume-hits-record-usd451-billion-amid-memecoin-frenzy"/>
         <updated>2024-12-30T21:47:09.000Z</updated>
         <summary type="html"><![CDATA[Uniswap and PancakeSwap lead the charge.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI16z Surpasses $1 Billion Market Cap as it Considers Memecoin Launchpad]]></title>
-        <id>https://thedefiant.io/news/defi/ai16z-surpasses-usd1-billion-market-cap-as-it-considers-memecoin-launchpad</id>
-        <link href="https://thedefiant.io/news/defi/ai16z-surpasses-usd1-billion-market-cap-as-it-considers-memecoin-launchpad"/>
-        <updated>2024-12-30T21:29:21.000Z</updated>
-        <summary type="html"><![CDATA[It becomes the first Solana-based AI agent memecoin to surpass that milestone.]]></summary>
-        <author>
-            <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a16z Crypto Supports Legal Challenge Against IRS's DeFi Regulations]]></title>
-        <id>https://thedefiant.io/news/regulation/a16z-crypto-supports-legal-challenge-against-irs-s-defi-regulations</id>
-        <link href="https://thedefiant.io/news/regulation/a16z-crypto-supports-legal-challenge-against-irs-s-defi-regulations"/>
-        <updated>2024-12-30T21:11:40.000Z</updated>
-        <summary type="html"><![CDATA[The lawsuit contests new rules that classify DeFi platforms as brokers and urges for clearer policies to protect the sector's growth.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
