@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/uk-judge-dismisses-usd750-million-bitcoin-landfill-case-blocking-recovery-effort",
+          "author": "Jona Jaupi",
+          "description": "James Howells' attempt to excavate a landfill for a hard drive containing 8,000 Bitcoin is halted.",
+          "link": "https://thedefiant.io/news/regulation/uk-judge-dismisses-usd750-million-bitcoin-landfill-case-blocking-recovery-effort",
+          "publishedOn": "2025-01-10T20:04:05.000Z",
+          "wordCount": 3514,
+          "title": "UK Judge Dismisses $750 Million Bitcoin Landfill Case, Blocking Recovery Effort",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b067e5be83ba2833c387892dce8e116a6ee6499-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9b067e5be83ba2833c387892dce8e116a6ee6499-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/usual-money-under-fire-for-altering-asset-floor-price",
           "author": "Squiffs",
           "description": "Users have been minting USD0++ for $1, but the team manually restructured the asset's floor price to $0.87.",
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/on-bitcoin-s-16th-birthday-difficulty-and-hashrate-reach-all-time-highs",
           "author": "Leo Jakobson",
-          "description": "Bitcoin’s mining difficulty reached a new all-time high on the 16th anniversary of the first cryptocurrency’s genesis block.",
+          "description": "With bitcoin’s price having more than doubled last year, the effort thrown at mining bitcoins is also growing rapidly, with the hashrate cracking one zetahash on Jan. 2.",
           "link": "https://thedefiant.io/news/blockchains/on-bitcoin-s-16th-birthday-difficulty-and-hashrate-reach-all-time-highs",
           "publishedOn": "2025-01-03T21:17:00.000Z",
           "wordCount": 3464,
@@ -1523,21 +1538,6 @@
           "wordCount": 3220,
           "title": "T3 Financial Crime Unit Freezes $100 Million in USDT, Including $3 Million Linked to North Korea, Across Five Continents",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/ai-token-infrastructure-outperform-agents-and-memecoins",
-          "author": "Squiffs",
-          "description": "The market has shifted from agent-specific tokens, towards AI agent frameworks.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/ai-token-infrastructure-outperform-agents-and-memecoins",
-          "publishedOn": "2025-01-02T19:23:07.000Z",
-          "wordCount": 3569,
-          "title": "AI Token Infrastructure Outperforms Agents and Memecoins",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7336266f9c8cef86d0d56e06181205eb8916731f-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7336266f9c8cef86d0d56e06181205eb8916731f-1555x875.png"
         }
       ]
     },
