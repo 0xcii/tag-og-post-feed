@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/centaurus-energy-shifts-focus-from-oil-and-gas-to-crypto-and-commodities-investments",
+          "author": "Jona Jaupi",
+          "description": "Following the sale of its oil and gas operations, the company aims to invest in physical and digital assets, including Ethereum and Solana.",
+          "link": "https://thedefiant.io/news/cefi/centaurus-energy-shifts-focus-from-oil-and-gas-to-crypto-and-commodities-investments",
+          "publishedOn": "2025-01-10T03:01:57.000Z",
+          "wordCount": 3340,
+          "title": "Centaurus Energy Shifts Focus From Oil and Gas to Crypto and Commodities Investments",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9409f23bd62f6f6bbb4d7f4679ffe542c533fdfb-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9409f23bd62f6f6bbb4d7f4679ffe542c533fdfb-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/blackrock-s-buidl-enabled-as-collateral-for-enhanced-yield-strategies",
+          "author": "Squiffs",
+          "description": "The tokenized treasury product was used as collateral in a basis trade via QCP, yielding an 18% APY.",
+          "link": "https://thedefiant.io/news/defi/blackrock-s-buidl-enabled-as-collateral-for-enhanced-yield-strategies",
+          "publishedOn": "2025-01-10T02:42:52.000Z",
+          "wordCount": 3554,
+          "title": "BlackRock’s BUIDL Enabled as Collateral for Enhanced Yield Strategies",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/67a6e72dd077ce2c0cb7f9a589b0ef5f7f909219-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/67a6e72dd077ce2c0cb7f9a589b0ef5f7f909219-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/raydium-protocol-launches-beta-perpetual-futures-trading-40x-leverage-gas-free-8-0450e19a",
           "author": "DeepNewz",
           "description": "Raydium Protocol, a Solana-based decentralized finance platform, has launched its beta version of perpetual futures trading",
@@ -1508,36 +1538,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c8a450d0981ce737f34d019ec8e6b83edb9f2f70-1200x675.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/crypto-scam-hack-losses-fall-to-28-6-million-december-2024-down-63-8-million-f17043b1",
-          "author": "DeepNewz",
-          "description": "In December 2024, losses from crypto scams and hacks fell to $28.6 million",
-          "link": "https://thedefiant.io/news/defi/crypto-scam-hack-losses-fall-to-28-6-million-december-2024-down-63-8-million-f17043b1",
-          "publishedOn": "2025-01-02T17:20:14.000Z",
-          "wordCount": 3151,
-          "title": "Crypto Scam and Hack Losses Fall to $28.6 Million in December 2024, Down from $63.8 Million in November",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/00a179ca2d95a51ad8ee61841b97c5f2b5083b0f-972x729.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/00a179ca2d95a51ad8ee61841b97c5f2b5083b0f-972x729.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/education/premium-tutorials/markets-holiday-consolidation",
-          "author": "yyctrader",
-          "description": "Our chart of the week is FARTCOIN.",
-          "link": "https://thedefiant.io/education/premium-tutorials/markets-holiday-consolidation",
-          "publishedOn": "2025-01-01T11:36:00.000Z",
-          "wordCount": 3325,
-          "title": "Markets - Holiday Consolidation",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/59f8427eee6b8eeba471f159adbb182d705c0bbd-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/59f8427eee6b8eeba471f159adbb182d705c0bbd-1555x875.png"
         }
       ]
     },
