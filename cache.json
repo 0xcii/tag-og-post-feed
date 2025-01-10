@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/gensler-and-behnam-look-back-at-crypto-regulation-and-the-difference-shows",
+          "author": "Leo Jakobson",
+          "description": "The outgoing chairman of the SEC had a much more hostile view of crypto than his counterpart at the CFTC.",
+          "link": "https://thedefiant.io/news/regulation/gensler-and-behnam-look-back-at-crypto-regulation-and-the-difference-shows",
+          "publishedOn": "2025-01-10T11:09:29.000Z",
+          "wordCount": 3802,
+          "title": "Gensler and Behnam Look Back at Crypto Regulation and the Difference Shows",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/edd165336bedd7899a77f237124756d60e793687-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/edd165336bedd7899a77f237124756d60e793687-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/centaurus-energy-shifts-focus-from-oil-and-gas-to-crypto-and-commodities-investments",
           "author": "Jona Jaupi",
           "description": "Following the sale of its oil and gas operations, the company aims to invest in physical and digital assets, including Ethereum and Solana.",
@@ -155,7 +170,7 @@
           "description": "A move to include Bitcoin, Ethereum, and Binance Coin in its proposed reserves highlights the city’s commitment to blockchain technology.",
           "link": "https://thedefiant.io/news/regulation/bhutan-s-gelephu-mindfulness-city-plans-to-create-strategic-crypto-reserve",
           "publishedOn": "2025-01-09T22:30:45.000Z",
-          "wordCount": 3336,
+          "wordCount": 3355,
           "title": "Bhutan's Gelephu Mindfulness City Plans to Create Strategic Crypto Reserve",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2355f28481230dc5b7f4f050054a0c716c7731e1-1555x875.png",
@@ -170,7 +185,7 @@
           "description": "Representative Bryan Steil has been appointed as the new Chairman of the Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence within the House Financial Services Committee",
           "link": "https://thedefiant.io/news/regulation/rep-bryan-steil-appointed-chairman-digital-assets-subcommittee-house-financial-s-862d3543",
           "publishedOn": "2025-01-09T22:30:09.000Z",
-          "wordCount": 3207,
+          "wordCount": 3223,
           "title": "Rep. Bryan Steil Appointed Chairman of Digital Assets Subcommittee by House Financial Services Committee's French Hill",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d1abf549cce044ef679fcf60fca65bf0801d5552-1200x628.jpg",
@@ -245,7 +260,7 @@
           "description": "The cryptocurrency industry is actively lobbying President Donald Trump to issue an executive order within his first 100 days in office to establish a U.S. Bitcoin Reserve.",
           "link": "https://thedefiant.io/news/regulation/crypto-industry-lobbies-trump-u-s-bitcoin-reserve-advisory-committee-first-100-ea19ebc5",
           "publishedOn": "2025-01-09T20:45:48.000Z",
-          "wordCount": 3208,
+          "wordCount": 3229,
           "title": "Crypto Industry Lobbies Trump for U.S. Bitcoin Reserve and Advisory Committee in First 100 Days",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a2a44e914750b042d60b9c719040aa4beace5166-1200x642.jpg",
@@ -275,7 +290,7 @@
           "description": "The U.S. Commodity Futures Trading Commission (CFTC) has issued a subpoena to Coinbase",
           "link": "https://thedefiant.io/news/regulation/cftc-subpoena-requires-coinbase-to-provide-customer-info-polymarket-case-january-8cbff87b",
           "publishedOn": "2025-01-09T20:30:28.000Z",
-          "wordCount": 3146,
+          "wordCount": 3167,
           "title": "CFTC Subpoena Requires Coinbase to Provide Customer Info in Polymarket Case by January 15, 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/908785fa996d001b198ade7ca6d857493f1eeeec-1200x351.jpg",
@@ -335,7 +350,7 @@
           "description": "New measures include allowing corporations to issue real-name crypto accounts and increasing fintech investment limits for financial institutions.",
           "link": "https://thedefiant.io/news/regulation/south-korea-to-ease-rules-allowing-financial-holding-companies-to-acquire-digital-assets",
           "publishedOn": "2025-01-09T12:41:09.000Z",
-          "wordCount": 3319,
+          "wordCount": 3336,
           "title": "South Korea to Ease Rules Allowing Financial Holding Companies to Acquire Digital Assets",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f4c10dc5ee167e8bfe4c8a193ec163c380560c7-1555x875.png",
@@ -485,7 +500,7 @@
           "description": "The initiative aims to boost digital asset use and position Thailand as a crypto-friendly destination.",
           "link": "https://thedefiant.io/news/regulation/thailand-to-roll-out-pilot-for-cryptocurrency-payments-in-phuket",
           "publishedOn": "2025-01-08T20:36:49.000Z",
-          "wordCount": 3342,
+          "wordCount": 3354,
           "title": "Thailand To Roll Out Pilot for Cryptocurrency Payments in Phuket",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0c35ea9d6f4ece1c06480b619280081c36f7777e-1555x875.png",
@@ -560,7 +575,7 @@
           "description": "The organization aims to integrate Bitcoin into as many state financial strategies as possible.",
           "link": "https://thedefiant.io/news/regulation/satoshi-action-fund-says-dozens-of-bitcoin-reserve-bills-will-soon-be-introduced-at-the-state",
           "publishedOn": "2025-01-08T11:36:30.000Z",
-          "wordCount": 3527,
+          "wordCount": 3544,
           "title": "Satoshi Action Fund Says Multiple Bitcoin Reserve Bills Will Soon Be Introduced at the State Level",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2d078ac0cc00b52ab9bdae0d3053714be2b5fc7c-1555x875.png",
@@ -695,7 +710,7 @@
           "description": "Under Behnam, the Commodity Futures Trading Commission did a lot of enforcement but also pushed for crypto regulation, and said many tokens were commodities, not securities",
           "link": "https://thedefiant.io/news/regulation/cftc-chairman-rostin-behnam-announces-departure-as-trump-era-regulators-prepare-to-take-over",
           "publishedOn": "2025-01-07T20:07:49.000Z",
-          "wordCount": 3347,
+          "wordCount": 3359,
           "title": "CFTC Chairman Rostin Behnam Announces Departure as Trump Era Regulators Prepare to Take Over",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b6f265b83e26616f809afda5bbf6bf600a30857b-1555x875.png",
@@ -710,7 +725,7 @@
           "description": "The Czech National Bank is considering the inclusion of a small amount of Bitcoin in its future reserve strategy as a means of diversification for its foreign exchange reserves",
           "link": "https://thedefiant.io/news/regulation/czech-national-bank-governor-ales-michl-considers-small-amount-bitcoin-future-7489c53c",
           "publishedOn": "2025-01-07T20:00:54.000Z",
-          "wordCount": 3215,
+          "wordCount": 3232,
           "title": "Czech National Bank Governor Aleš Michl Considers Small Amount of Bitcoin for Future Reserves",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f4862b422c7217e728618cf2741e13e8af40471b-1024x1024.jpg",
@@ -1025,7 +1040,7 @@
           "description": "Coinbase released a trove of letters showing the Federal Deposit Insurance Corporation (FDIC) ‘suggesting’ that banks stop any involvement with crypto and blockchain.",
           "link": "https://thedefiant.io/news/regulation/newly-released-fdic-letters-show-operation-choke-point-2-0-in-action",
           "publishedOn": "2025-01-06T21:22:07.000Z",
-          "wordCount": 3734,
+          "wordCount": 3746,
           "title": "Newly Released FDIC Letters Show Operation Choke Point 2.0 In Action",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a69e20f615ccf201e35e0940262dfcfa214632bb-1555x875.png",
@@ -1100,7 +1115,7 @@
           "description": "Recent documents released by the Federal Deposit Insurance Corporation (FDIC) indicate that U.S. regulators advised banks to pause their direct involvement in cryptocurrency activities during 2022 and 2023.",
           "link": "https://thedefiant.io/news/regulation/fdic-documents-on-operation-chokepoint-reveal-u-s-regulators-advised-banks-to-no-2150edc2",
           "publishedOn": "2025-01-04T01:02:02.000Z",
-          "wordCount": 3260,
+          "wordCount": 3277,
           "title": "FDIC Documents on Operation Chokepoint Reveal U.S. Regulators Advised Banks to Pause Crypto Activities, No Full Ban Issued",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/31b37a81b04975b39fce6761932b011c1928438e-978x1200.jpg",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/people/ai-memecoin-craze-will-end-in-a-year-says-dragonfly-capital-s-haseeb-qureshi",
           "author": "Leo Jakobson",
-          "description": "The novelty of ‘AI-flavored memecoins’ will die off by 2026, the venture capitalist predicted.",
+          "description": "The current AI agent and AI memecoin craze will run through 2025, but will die off by the end of the year, according to venture capitalist Haseeb Qureshi.",
           "link": "https://thedefiant.io/news/people/ai-memecoin-craze-will-end-in-a-year-says-dragonfly-capital-s-haseeb-qureshi",
           "publishedOn": "2025-01-03T18:53:25.000Z",
           "wordCount": 3705,
@@ -1523,21 +1538,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/38f4d6f15d8ee262a4adac7d365ff5dc91d335ce-1125x848.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/xrp-surpasses-tether-3rd-largest-cryptocurrency-138-4b-market-cap-price-hits-2-798a7aae",
-          "author": "DeepNewz",
-          "description": "XRP has reclaimed its position as the third-largest cryptocurrency by market capitalization, surpassing Tether (USDT)",
-          "link": "https://thedefiant.io/news/markets/xrp-surpasses-tether-3rd-largest-cryptocurrency-138-4b-market-cap-price-hits-2-798a7aae",
-          "publishedOn": "2025-01-02T18:00:57.000Z",
-          "wordCount": 3224,
-          "title": "XRP Surpasses Tether as 3rd Largest Cryptocurrency with $138.4B Market Cap, Price Hits $2.42 After 15% Surge",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c8a450d0981ce737f34d019ec8e6b83edb9f2f70-1200x675.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c8a450d0981ce737f34d019ec8e6b83edb9f2f70-1200x675.png"
         }
       ]
     },
