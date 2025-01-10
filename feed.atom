@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-10T11:13:34.805Z</id>
+    <id>urn:2025-01-10T12:32:45.877Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-10T11:13:34.805Z</updated>
+    <updated>2025-01-10T12:32:45.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Survey Finds Financial Advisors Warming to Crypto]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/survey-finds-financial-advisors-warming-to-crypto</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/survey-finds-financial-advisors-warming-to-crypto"/>
+        <updated>2025-01-10T11:31:34.000Z</updated>
+        <summary type="html"><![CDATA[56% of participants said the election of Donald Trump made them more likely to buy crypto for clients.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gensler and Behnam Look Back at Crypto Regulation and the Difference Shows]]></title>
         <id>https://thedefiant.io/news/regulation/gensler-and-behnam-look-back-at-crypto-regulation-and-the-difference-shows</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/solayer-announces-foundation-layer-token-and-upcoming-airdrop</id>
         <link href="https://thedefiant.io/news/defi/solayer-announces-foundation-layer-token-and-upcoming-airdrop"/>
         <updated>2025-01-03T20:05:23.000Z</updated>
-        <summary type="html"><![CDATA[The launch of a foundation and token are part of its efforts to support the next phase of its journey.]]></summary>
+        <summary type="html"><![CDATA[Solana-based restaking platform Solayer has announced the launch of its foundation, governance token, and upcoming airdrop in a Jan. 2 X post.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/news/people/ai-memecoin-craze-will-end-in-a-year-says-dragonfly-capital-s-haseeb-qureshi</id>
         <link href="https://thedefiant.io/news/people/ai-memecoin-craze-will-end-in-a-year-says-dragonfly-capital-s-haseeb-qureshi"/>
         <updated>2025-01-03T18:53:25.000Z</updated>
-        <summary type="html"><![CDATA[The current AI agent and AI memecoin craze will run through 2025, but will die off by the end of the year, according to venture capitalist Haseeb Qureshi.]]></summary>
+        <summary type="html"><![CDATA[The novelty of ‘AI-flavored memecoins’ will die off by 2026, the venture capitalist predicted.]]></summary>
         <author>
             <name>Leo Jakobson</name>
         </author>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[BlackRock’s ETHA led the charge, amassing the majority of December’s $2 billion in inflows.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Meme Tokens Hit $10B Market Cap with $2.7B Trading Volume, Binance Offers 75x Leverage on ai16z, Zerebro, Griffain]]></title>
-        <id>https://thedefiant.io/news/markets/ai-meme-tokens-hit-10b-market-cap-2-7b-trading-volume-binance-offers-75x-on-a655faff</id>
-        <link href="https://thedefiant.io/news/markets/ai-meme-tokens-hit-10b-market-cap-2-7b-trading-volume-binance-offers-75x-on-a655faff"/>
-        <updated>2025-01-02T19:00:49.000Z</updated>
-        <summary type="html"><![CDATA[The market capitalization of AI-inspired meme tokens has surged past $10 billion,]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>
