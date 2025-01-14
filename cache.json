@@ -45,6 +45,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/microstrategy-boosts-bitcoin-holdings-by-another-usd243-million",
+          "author": "Jona Jaupi",
+          "description": "Saylor’s software company has acquired an additional 2,530 BTC, pushing its reserves above $43 billion.",
+          "link": "https://thedefiant.io/news/markets/microstrategy-boosts-bitcoin-holdings-by-another-usd243-million",
+          "publishedOn": "2025-01-14T12:20:25.000Z",
+          "wordCount": 3291,
+          "title": "MicroStrategy Boosts Bitcoin Holdings by Another $243 Million",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4654781f22153b4a15ad08643e691baa357d6267-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4654781f22153b4a15ad08643e691baa357d6267-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/moonpay-acquires-helio-for-usd175-million-to-expand-crypto-payments",
+          "author": "Jona Jaupi",
+          "description": "The acquisition strengthens MoonPay’s position in the Web3 space and broadens its suite of crypto payment services.",
+          "link": "https://thedefiant.io/news/defi/moonpay-acquires-helio-for-usd175-million-to-expand-crypto-payments",
+          "publishedOn": "2025-01-14T12:07:50.000Z",
+          "wordCount": 3289,
+          "title": "MoonPay Acquires Helio for $175 Million to Expand Crypto Payments",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b7f18c7eb1eb9e83bda63a405c7159463e0d8181-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b7f18c7eb1eb9e83bda63a405c7159463e0d8181-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/mango-markets-to-shut-down-after-sec-settlement",
+          "author": "Joel Lim",
+          "description": "Mango Markets will close its operations effective Jan. 13 following an SEC settlement for selling unregistered tokens.",
+          "link": "https://thedefiant.io/news/defi/mango-markets-to-shut-down-after-sec-settlement",
+          "publishedOn": "2025-01-14T11:57:39.000Z",
+          "wordCount": 3269,
+          "title": "Mango Markets to Shut Down After SEC Settlement",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a63ffe491e1c5c7222c6fddbb90507f8b1fcf493-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a63ffe491e1c5c7222c6fddbb90507f8b1fcf493-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/prediction-market-polymarket-banned-in-singapore",
           "author": "Leo Jakobson",
           "description": "The leading prediction market may be planning a return to the U.S., but in Singapore, it has been declared an illegal gambling site.",
@@ -185,7 +230,7 @@
           "description": "In 2025, corporate demand for Bitcoin is reportedly outpacing new supply, according to multiple sources including Bitwise",
           "link": "https://thedefiant.io/news/markets/corporate-demand-bitcoin-2025-surpasses-new-supply-according-to-bitwise-price-018e07f4",
           "publishedOn": "2025-01-13T18:16:33.000Z",
-          "wordCount": 3135,
+          "wordCount": 3129,
           "title": "Corporate Demand for Bitcoin in 2025 Surpasses New Supply, According to Bitwise, Indicating Price Pressure",
           "imageUrl": null
         },
@@ -195,7 +240,7 @@
           "description": "A stronger U.S. labor market fuels risk-off sentiment, leading to a broad sell-off in the crypto market.",
           "link": "https://thedefiant.io/news/markets/cryptocurrency-market-losses-extend-into-second-week-amid-macroeconomic-uncertainty",
           "publishedOn": "2025-01-13T18:11:09.000Z",
-          "wordCount": 3425,
+          "wordCount": 3424,
           "title": "Cryptocurrency Market Losses Extend Into Second Week Amid Macroeconomic Uncertainty",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c80a0eb96a6926cffd016780429c151fded88b61-1555x875.png",
@@ -375,7 +420,7 @@
           "description": "Experts are concerned that stronger-than-expected job growth and slower wage inflation could prompt the Fed to keep rates high.",
           "link": "https://thedefiant.io/news/markets/cryptocurrency-market-extends-losses-as-upbeat-u-s-payrolls-data-dampens-investor-sentiment",
           "publishedOn": "2025-01-10T17:53:37.000Z",
-          "wordCount": 3386,
+          "wordCount": 3385,
           "title": "Cryptocurrency Market Extends Losses as Upbeat U.S Payrolls Data Dampens Investor Sentiment",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8626cd131bae0196428938aa421305f262d4a091-1555x875.png",
@@ -630,7 +675,7 @@
           "description": "Bitcoin, Ethereum, and other major cryptocurrencies continue to decline, with market liquidation reaching $404 million in 24 hours.",
           "link": "https://thedefiant.io/news/markets/cryptocurrency-market-extends-losses-for-third-day",
           "publishedOn": "2025-01-09T20:42:35.000Z",
-          "wordCount": 3472,
+          "wordCount": 3471,
           "title": "Cryptocurrency Market Extends Losses for Third Day",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/892e2539930d8a4743071f2ebe1983aa6d767729-1555x875.png",
@@ -900,7 +945,7 @@
           "description": "Bitcoin drops 4% to $93,000, and Ethereum slips 6% to $3,200 as macroeconomic concerns fuel investor jitters.",
           "link": "https://thedefiant.io/news/markets/liquidations-top-usd655-million-as-crypto-markets-drop-for-second-day",
           "publishedOn": "2025-01-08T18:05:44.000Z",
-          "wordCount": 3462,
+          "wordCount": 3461,
           "title": "Liquidations Top $655 Million as Crypto Markets Drop for Second Day",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b65f703482e4e31731d02e7f53b738992990f236-1555x875.png",
@@ -945,7 +990,7 @@
           "description": "Memecoin supercycle believers get some respite as Murad Mahmudov’s list of tokens outperforms the rest of the memecoin market.",
           "link": "https://thedefiant.io/news/markets/murad-memes-bounce-back",
           "publishedOn": "2025-01-08T10:46:54.000Z",
-          "wordCount": 3354,
+          "wordCount": 3353,
           "title": "‘Murad Memes’ Bounce Back",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/55ab059e18db365f262149d13aaa984c9a74691b-1555x875.png",
@@ -990,7 +1035,7 @@
           "description": "Amid price volatility and an influx of liquidity, analysts see the potential for extended growth.",
           "link": "https://thedefiant.io/news/markets/bitcoin-bull-market-could-be-the-longest-ever-says-cryptoquant-ceo",
           "publishedOn": "2025-01-07T21:41:28.000Z",
-          "wordCount": 3490,
+          "wordCount": 3489,
           "title": "Bitcoin Bull Market Could Be the Longest Ever, Says CryptoQuant CEO",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f694bce9569ee40e095a10f6620873e85385ae75-1555x875.png",
@@ -1005,7 +1050,7 @@
           "description": "Bitcoin, Ethereum, XRP, and Solana plunged between 5% and 8%, with the total crypto market cap dropping 7.6% to $3.53 trillion.",
           "link": "https://thedefiant.io/news/markets/crypto-market-rocked-by-biggest-selloff-in-a-month",
           "publishedOn": "2025-01-07T21:24:45.000Z",
-          "wordCount": 3508,
+          "wordCount": 3507,
           "title": "Crypto Market Rocked by Biggest Selloff in a Month",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bd75bebb17e03e296ad8d73b0cf54f33e828f065-1555x875.png",
@@ -1140,7 +1185,7 @@
           "description": "The cryptocurrency market has experienced a sharp decline, with over $205 million liquidated in the past hour",
           "link": "https://thedefiant.io/news/markets/cryptocurrency-market-sees-205-million-liquidated-last-hour-bitcoin-drops-below-5f6c78c3",
           "publishedOn": "2025-01-07T17:49:49.000Z",
-          "wordCount": 3165,
+          "wordCount": 3164,
           "title": "Cryptocurrency Market Sees $205 Million Liquidated in Last Hour as Bitcoin Drops Below $98K and Ethereum Below $3.5K",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c4b75f85f6b98a2ea80503cfca3e3a35ef43f6ee-932x1200.jpg",
@@ -1170,7 +1215,7 @@
           "description": "Analysts from Bernstein have forecasted that Bitcoin will reach $200,000 by the end of 2025, driven by increased institutional and corporate demand",
           "link": "https://thedefiant.io/news/markets/bernstein-projects-bitcoin-200000-2025-driven-institutional-corporate-demand-37a680c5",
           "publishedOn": "2025-01-07T17:17:09.000Z",
-          "wordCount": 3246,
+          "wordCount": 3245,
           "title": "Bernstein Projects Bitcoin at $200,000 by 2025, Driven by Institutional and Corporate Demand",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/434a8cb81be3e89a05efbc9804c2c1363dc3a0e3-1200x675.jpg",
@@ -1440,7 +1485,7 @@
           "description": "Michael Saylor disclosed the ninth consecutive weekly purchase of 1,070 BTC and that plans for a $2 billion stock offering are underway.",
           "link": "https://thedefiant.io/news/markets/microstrategy-buys-another-usd100-million-of-bitcoin",
           "publishedOn": "2025-01-06T17:57:39.000Z",
-          "wordCount": 3289,
+          "wordCount": 3288,
           "title": "MicroStrategy Buys Another $100 Million of Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/345a8b1ea5a8d6992896af4ed212a43b601544c4-1555x875.png",
@@ -1493,51 +1538,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2a0bdf5d39b67508bf723b2d87b81c7d5fec9a1c-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/solana-s-fartcoin-hits-1-6-billion-market-cap-3-months-tops-1000-russell-3000-e73beaee",
-          "author": "DeepNewz",
-          "description": "The Solana-based memecoin Fartcoin has experienced a significant surge",
-          "link": "https://thedefiant.io/news/markets/solana-s-fartcoin-hits-1-6-billion-market-cap-3-months-tops-1000-russell-3000-e73beaee",
-          "publishedOn": "2025-01-04T00:02:07.000Z",
-          "wordCount": 3157,
-          "title": "Solana's Fartcoin Hits $1.6 Billion Market Cap in 3 Months, Tops 1,000 Russell 3000 Companies",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c85a338987a0473a622238a7953c55ccfa14902b-1200x860.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c85a338987a0473a622238a7953c55ccfa14902b-1200x860.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/ethereum-surges-past-3600-amidst-bullish-sentiment-staked-etfs-speculation-41f5c396",
-          "author": "DeepNewz",
-          "description": "Ethereum (ETH) has experienced a notable price surge, recently breaking the $3,600 mark",
-          "link": "https://thedefiant.io/news/markets/ethereum-surges-past-3600-amidst-bullish-sentiment-staked-etfs-speculation-41f5c396",
-          "publishedOn": "2025-01-03T23:01:29.000Z",
-          "wordCount": 3097,
-          "title": "Ethereum Surges Past $3,600 Amidst Bullish Sentiment and Staked ETFs Speculation",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/586a4971c0853d96783d9924e0668e2cda37d8e9-986x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/586a4971c0853d96783d9924e0668e2cda37d8e9-986x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/virtuals-protocol-patches-bug-flagged-by-security-researcher",
-          "author": "Joel Lim",
-          "description": "The AI agent launchpad also announced that it plans to launch a bug bounty program soon.",
-          "link": "https://thedefiant.io/news/security/virtuals-protocol-patches-bug-flagged-by-security-researcher",
-          "publishedOn": "2025-01-03T22:08:18.000Z",
-          "wordCount": 3236,
-          "title": "Virtuals Protocol Patches Bug Flagged By Security Researcher",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/26910053a94d1810653b7d7b6d18a60400cc515a-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/26910053a94d1810653b7d7b6d18a60400cc515a-1555x875.png"
         }
       ]
     },
