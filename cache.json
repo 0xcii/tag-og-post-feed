@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/spot-bitcoin-etfs-celebrate-one-year-anniversary-after-record-year",
+          "author": "Jona Jaupi",
+          "description": "Spot Bitcoin ETFs surpassed $105 billion in net assets in 2024, fueled by institutional adoption and growing investor confidence in digital assets.",
+          "link": "https://thedefiant.io/news/markets/spot-bitcoin-etfs-celebrate-one-year-anniversary-after-record-year",
+          "publishedOn": "2025-01-14T12:46:43.000Z",
+          "wordCount": 3435,
+          "title": "Spot Bitcoin ETFs Celebrate One Year Anniversary After Record Year",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/45e35d994b87a94f4a5982bc3048907aa15ebe94-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/45e35d994b87a94f4a5982bc3048907aa15ebe94-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/microstrategy-boosts-bitcoin-holdings-by-another-usd243-million",
           "author": "Jona Jaupi",
           "description": "Saylor’s software company has acquired an additional 2,530 BTC, pushing its reserves above $43 billion.",
@@ -1523,21 +1538,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/31b37a81b04975b39fce6761932b011c1928438e-978x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ethena-s-ena-spikes-on-2025-roadmap-release",
-          "author": "Leo Jakobson",
-          "description": "Plans are afoot to integrate the staked USDe stablecoin yield into TradFi’s fixed-income market and payments tool for Telegram’s 900 million users.",
-          "link": "https://thedefiant.io/news/defi/ethena-s-ena-spikes-on-2025-roadmap-release",
-          "publishedOn": "2025-01-04T00:11:08.000Z",
-          "wordCount": 3553,
-          "title": "Ethena’s ENA Spikes on 2025 Roadmap Release",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2a0bdf5d39b67508bf723b2d87b81c7d5fec9a1c-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2a0bdf5d39b67508bf723b2d87b81c7d5fec9a1c-1555x875.png"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-14T12:31:14.201Z</id>
+    <id>urn:2025-01-14T13:19:53.867Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-14T12:31:14.201Z</updated>
+    <updated>2025-01-14T13:19:53.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Spot Bitcoin ETFs Celebrate One Year Anniversary After Record Year]]></title>
+        <id>https://thedefiant.io/news/markets/spot-bitcoin-etfs-celebrate-one-year-anniversary-after-record-year</id>
+        <link href="https://thedefiant.io/news/markets/spot-bitcoin-etfs-celebrate-one-year-anniversary-after-record-year"/>
+        <updated>2025-01-14T12:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Spot Bitcoin ETFs surpassed $105 billion in net assets in 2024, fueled by institutional adoption and growing investor confidence in digital assets.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MicroStrategy Boosts Bitcoin Holdings by Another $243 Million]]></title>
         <id>https://thedefiant.io/news/markets/microstrategy-boosts-bitcoin-holdings-by-another-usd243-million</id>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Recent documents released by the Federal Deposit Insurance Corporation (FDIC) indicate that U.S. regulators advised banks to pause their direct involvement in cryptocurrency activities during 2022 and 2023.]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethena’s ENA Spikes on 2025 Roadmap Release]]></title>
-        <id>https://thedefiant.io/news/defi/ethena-s-ena-spikes-on-2025-roadmap-release</id>
-        <link href="https://thedefiant.io/news/defi/ethena-s-ena-spikes-on-2025-roadmap-release"/>
-        <updated>2025-01-04T00:11:08.000Z</updated>
-        <summary type="html"><![CDATA[Plans are afoot to integrate the staked USDe stablecoin yield into TradFi’s fixed-income market and payments tool for Telegram’s 900 million users.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
         </author>
     </entry>
     <entry>
