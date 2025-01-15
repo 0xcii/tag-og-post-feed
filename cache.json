@@ -45,6 +45,16 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/people/sec-chair-gary-gensler-labels-bitcoin-speculative-cnbc-exit-interview-cites-7-2277862b",
+          "author": "DeepNewz",
+          "description": "In an exit interview on CNBC, SEC Chair Gary Gensler described Bitcoin as a highly speculative asset but noted that 7 billion people want to trade it",
+          "link": "https://thedefiant.io/news/people/sec-chair-gary-gensler-labels-bitcoin-speculative-cnbc-exit-interview-cites-7-2277862b",
+          "publishedOn": "2025-01-14T23:00:52.000Z",
+          "wordCount": 3229,
+          "title": "SEC Chair Gary Gensler Labels Bitcoin Speculative in CNBC Exit Interview, Cites 7 Billion Traders",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/polygon-launches-season-2-community-grants-program-35-million-pol-ai-depin-9d895024",
           "author": "DeepNewz",
           "description": "Polygon has announced the launch of Season 2 of its Community Grants Program (CGP), offering a total of 35 million POL in funding for innovative projects",
@@ -1262,7 +1272,7 @@
         {
           "id": "https://thedefiant.io/news/people/arthur-hayes-predicts-ongoing-trump-pump-to-last-until-end-of-q1-2025",
           "author": "Joel Lim",
-          "description": "In a recent blog post, Hayes claimed the crypto market would benefit from an incoming $617 billion cash injection from the U.S. government.",
+          "description": "In a Jan. 7. blog post, former BitMex CEO Arthur Hayes claimed that the ongoing “Trump pump” could last until the end of Q1 2025 at the very least, likely due to liquidity injections from the U.S. Federal Reserve (Fed) and the U.S. Treasury Department.",
           "link": "https://thedefiant.io/news/people/arthur-hayes-predicts-ongoing-trump-pump-to-last-until-end-of-q1-2025",
           "publishedOn": "2025-01-07T20:54:29.000Z",
           "wordCount": 3547,
@@ -1277,7 +1287,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/south-korea-s-jeju-island-uses-nfts-to-attract-young-tourists",
           "author": "Leo Jakobson",
-          "description": "South Korea’s Jeju Island is issuing NFT-based tourism cards that aim to attract young tourists to visit and return repeatedly, South Korean news agency Yonhap reported on Jan. 6.",
+          "description": "The Digital Tourist Resident Cards come with discounts, gamification and travel funding.",
           "link": "https://thedefiant.io/news/nfts-and-web3/south-korea-s-jeju-island-uses-nfts-to-attract-young-tourists",
           "publishedOn": "2025-01-07T20:24:04.000Z",
           "wordCount": 3457,
@@ -1513,21 +1523,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cc6f7271c75e816e90d200818e652522681176a7-1200x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/berachain-unveils-boyco-liquidity-platform-1b-deposits-dolo-token-launch-planned-da208725",
-          "author": "DeepNewz",
-          "description": "Berachain has announced Boyco, a pre-launch liquidity platform designed to help decentralized applications (dApps) secure liquidity before the Berachain mainnet launch",
-          "link": "https://thedefiant.io/news/blockchains/berachain-unveils-boyco-liquidity-platform-1b-deposits-dolo-token-launch-planned-da208725",
-          "publishedOn": "2025-01-07T11:00:07.000Z",
-          "wordCount": 3225,
-          "title": "Berachain Unveils Boyco Liquidity Platform with $1B Deposits, $DOLO Token Launch Planned",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bc2c6c8ec1ce4217ba1c841058d7bf161a2c9aca-706x782.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bc2c6c8ec1ce4217ba1c841058d7bf161a2c9aca-706x782.png"
         }
       ]
     },
