@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-15T02:42:05.913Z</id>
+    <id>urn:2025-01-15T03:17:16.086Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-15T02:42:05.913Z</updated>
+    <updated>2025-01-15T03:17:16.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[eGirl Capital Projects Bullish 2025]]></title>
+        <id>https://thedefiant.io/news/markets/egirl-capital-projects-bullish-2025</id>
+        <link href="https://thedefiant.io/news/markets/egirl-capital-projects-bullish-2025"/>
+        <updated>2025-01-15T02:55:46.000Z</updated>
+        <summary type="html"><![CDATA[The founder of Cove Finance expects a golden age of American-based DeFi.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Chair Gary Gensler Labels Bitcoin Speculative in CNBC Exit Interview, Cites 7 Billion Traders]]></title>
         <id>https://thedefiant.io/news/people/sec-chair-gary-gensler-labels-bitcoin-speculative-cnbc-exit-interview-cites-7-2277862b</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/people/arthur-hayes-predicts-ongoing-trump-pump-to-last-until-end-of-q1-2025</id>
         <link href="https://thedefiant.io/news/people/arthur-hayes-predicts-ongoing-trump-pump-to-last-until-end-of-q1-2025"/>
         <updated>2025-01-07T20:54:29.000Z</updated>
-        <summary type="html"><![CDATA[In a Jan. 7. blog post, former BitMex CEO Arthur Hayes claimed that the ongoing “Trump pump” could last until the end of Q1 2025 at the very least, likely due to liquidity injections from the U.S. Federal Reserve (Fed) and the U.S. Treasury Department.]]></summary>
+        <summary type="html"><![CDATA[In a recent blog post, Hayes claimed the crypto market would benefit from an incoming $617 billion cash injection from the U.S. government.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/nfts-and-web3/nvidia-ceo-forecasts-ai-agents-autonomous-vehicles-multi-trillion-dollar-ces-2df03169"/>
         <updated>2025-01-07T13:00:22.000Z</updated>
         <summary type="html"><![CDATA[Nvidia Corp. CEO Jensen Huang has forecasted that AI agents and robotics, including autonomous vehicles, represent a multi-trillion dollar industry.]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pumpdotfun Accounts for Nearly 70% of SPL Token Launches on Solana Over Two Days, $SOL]]></title>
-        <id>https://thedefiant.io/news/defi/pumpdotfun-accounts-nearly-70-spl-token-launches-on-solana-over-two-days-sol-42d46037</id>
-        <link href="https://thedefiant.io/news/defi/pumpdotfun-accounts-nearly-70-spl-token-launches-on-solana-over-two-days-sol-42d46037"/>
-        <updated>2025-01-07T12:00:46.000Z</updated>
-        <summary type="html"><![CDATA[The platform @Pumpdotfun has emerged as a dominant force in the Solana blockchain ecosystem, accounting for approximately 70% of all token launches over the past two days]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>

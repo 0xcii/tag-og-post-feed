@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/egirl-capital-projects-bullish-2025",
+          "author": "Squiffs",
+          "description": "The founder of Cove Finance expects a golden age of American-based DeFi.",
+          "link": "https://thedefiant.io/news/markets/egirl-capital-projects-bullish-2025",
+          "publishedOn": "2025-01-15T02:55:46.000Z",
+          "wordCount": 3480,
+          "title": "eGirl Capital Projects Bullish 2025",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9265b30488aec60a2995db23692868af6825db9c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9265b30488aec60a2995db23692868af6825db9c-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/people/sec-chair-gary-gensler-labels-bitcoin-speculative-cnbc-exit-interview-cites-7-2277862b",
           "author": "DeepNewz",
           "description": "In an exit interview on CNBC, SEC Chair Gary Gensler described Bitcoin as a highly speculative asset but noted that 7 billion people want to trade it",
@@ -1272,7 +1287,7 @@
         {
           "id": "https://thedefiant.io/news/people/arthur-hayes-predicts-ongoing-trump-pump-to-last-until-end-of-q1-2025",
           "author": "Joel Lim",
-          "description": "In a Jan. 7. blog post, former BitMex CEO Arthur Hayes claimed that the ongoing “Trump pump” could last until the end of Q1 2025 at the very least, likely due to liquidity injections from the U.S. Federal Reserve (Fed) and the U.S. Treasury Department.",
+          "description": "In a recent blog post, Hayes claimed the crypto market would benefit from an incoming $617 billion cash injection from the U.S. government.",
           "link": "https://thedefiant.io/news/people/arthur-hayes-predicts-ongoing-trump-pump-to-last-until-end-of-q1-2025",
           "publishedOn": "2025-01-07T20:54:29.000Z",
           "wordCount": 3547,
@@ -1508,21 +1523,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3f66fe4c406b841152c014105fce8d742057550f-780x520.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/pumpdotfun-accounts-nearly-70-spl-token-launches-on-solana-over-two-days-sol-42d46037",
-          "author": "DeepNewz",
-          "description": "The platform @Pumpdotfun has emerged as a dominant force in the Solana blockchain ecosystem, accounting for approximately 70% of all token launches over the past two days",
-          "link": "https://thedefiant.io/news/defi/pumpdotfun-accounts-nearly-70-spl-token-launches-on-solana-over-two-days-sol-42d46037",
-          "publishedOn": "2025-01-07T12:00:46.000Z",
-          "wordCount": 3224,
-          "title": "Pumpdotfun Accounts for Nearly 70% of SPL Token Launches on Solana Over Two Days, $SOL",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc6f7271c75e816e90d200818e652522681176a7-1200x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cc6f7271c75e816e90d200818e652522681176a7-1200x1200.jpg"
         }
       ]
     },
