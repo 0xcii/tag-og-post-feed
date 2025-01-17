@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-17T20:16:23.440Z</id>
+    <id>urn:2025-01-17T21:13:41.768Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-17T20:16:23.440Z</updated>
+    <updated>2025-01-17T21:13:41.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AGIXT Token Surges to $100 Million Market Cap Hours From Launch]]></title>
+        <id>https://thedefiant.io/news/markets/agixt-token-surges-to-usd100-million-market-cap-hours-from-launch</id>
+        <link href="https://thedefiant.io/news/markets/agixt-token-surges-to-usd100-million-market-cap-hours-from-launch"/>
+        <updated>2025-01-17T20:22:42.000Z</updated>
+        <summary type="html"><![CDATA[The token is the latest AI Agent infrastructure token to launch on PumpFun.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether Launches Cross-Chain Stablecoin USDT0]]></title>
         <id>https://thedefiant.io/news/cefi/tether-launches-cross-chain-stablecoin-usdt0</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[New measures include allowing corporations to issue real-name crypto accounts and increasing fintech investment limits for financial institutions.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scammers Abuse Open-Source AI Developers]]></title>
-        <id>https://thedefiant.io/news/defi/scammers-abuse-open-source-ai-developers</id>
-        <link href="https://thedefiant.io/news/defi/scammers-abuse-open-source-ai-developers"/>
-        <updated>2025-01-09T12:26:13.000Z</updated>
-        <summary type="html"><![CDATA[Malicious actors are launching tokens associated with open-sourced AI projects and rug-pulling investors.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
