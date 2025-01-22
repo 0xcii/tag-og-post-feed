@@ -35,6 +35,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/polymarket-shows-reality-setting-in-after-trump-stays-silent-on-crypto",
+          "author": "Leo Jakobson",
+          "description": "Bettors’ hopes that crypto would play a part in the symbolic first day of President Donald Trump’s administration were dashed.",
+          "link": "https://thedefiant.io/news/regulation/polymarket-shows-reality-setting-in-after-trump-stays-silent-on-crypto",
+          "publishedOn": "2025-01-22T12:19:21.000Z",
+          "wordCount": 3397,
+          "title": "Polymarket Shows Reality Setting In After Trump Stays Silent on Crypto",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c1c4c3c581895766cf43f4405d0b7ed72898150a-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c1c4c3c581895766cf43f4405d0b7ed72898150a-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/vitalik-buterin-says-ethereum-foundation-is-considering-staking-eth",
+          "author": "Joel Lim",
+          "description": "The Ethereum co-founder cited regulatory and hard fork risks as the reasons for the Ethereum Foundation previously avoiding staking.",
+          "link": "https://thedefiant.io/news/blockchains/vitalik-buterin-says-ethereum-foundation-is-considering-staking-eth",
+          "publishedOn": "2025-01-22T11:24:23.000Z",
+          "wordCount": 3275,
+          "title": "Vitalik Buterin Says Ethereum Foundation is Considering Staking ETH",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/42faab67548e4567f4420706fd669880f0c445fb-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/42faab67548e4567f4420706fd669880f0c445fb-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/coinbase-ceo-predicts-bitcoin-reach-multiple-millions-sees-new-gold-standard-9eae88c4",
           "author": "DeepNewz",
           "description": "Coinbase CEO Brian Armstrong has expressed a bullish outlook on Bitcoin, predicting that the cryptocurrency will eventually reach a price range in the millions, and potentially multiple millions",
@@ -85,7 +115,7 @@
           "description": "Telegram has entered into an exclusivity agreement with The Open Network (TON) Foundation, designating TON as the sole blockchain infrastructure for its mini-app platform",
           "link": "https://thedefiant.io/news/blockchains/telegram-partners-exclusively-ton-mini-apps-serving-950-million-users-via-ton-41bb70ec",
           "publishedOn": "2025-01-22T00:00:28.000Z",
-          "wordCount": 3220,
+          "wordCount": 3205,
           "title": "Telegram Partners Exclusively With TON for Mini Apps, Serving 950 Million Users Via TON Connect",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/906c879dcf1fe639e0108b700ef69b5985218f94-1200x1200.jpg",
@@ -100,7 +130,7 @@
           "description": "Senator Cynthia Lummis of Wyoming has emphasized the importance of focusing on a 'Strategic Bitcoin Reserve' during discussions with Eric Trump at a recent inaugural lunch at the Capitol",
           "link": "https://thedefiant.io/news/regulation/senator-cynthia-lummis-advocates-strategic-bitcoin-reserve-after-discussions-f7936595",
           "publishedOn": "2025-01-21T23:30:52.000Z",
-          "wordCount": 3207,
+          "wordCount": 3198,
           "title": "Senator Cynthia Lummis Advocates for Strategic Bitcoin Reserve After Discussions with Eric Trump at Capitol Lunch",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f9bda4b0b18a7f1af24c3c75edb6d8e97501f98d-1200x674.jpg",
@@ -125,7 +155,7 @@
           "description": "The US Debt Clock website has introduced a new section dedicated to Dogecoin (DOGE), referred to as the 'DOGE Clock",
           "link": "https://thedefiant.io/news/regulation/us-debt-clock-introduces-doge-clock-to-calculate-savings-produced-doge-e20ff26a",
           "publishedOn": "2025-01-21T22:30:30.000Z",
-          "wordCount": 3116,
+          "wordCount": 3107,
           "title": "US Debt Clock Introduces DOGE Clock to Calculate Savings Produced by DOGE",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c3b167955d43d8472a14cec3288b591591ca668-1088x538.jpg",
@@ -185,7 +215,7 @@
           "description": "The task force will collaborate with other federal agencies to develop a sensible regulatory framework.",
           "link": "https://thedefiant.io/news/regulation/sec-launches-crypto-task-force-led-by-commissioner-peirce",
           "publishedOn": "2025-01-21T19:58:45.000Z",
-          "wordCount": 3186,
+          "wordCount": 3183,
           "title": "SEC Launches Crypto Task Force Led By Commissioner Peirce",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/07c39b9a7699ead82a465f280ac64b642209959b-1555x875.png",
@@ -260,7 +290,7 @@
           "description": "Crypto crowdfunding developer Michael Lewellen fears the government will treat him as an unlicensed money transmitter like the developers of Tornado Cash.",
           "link": "https://thedefiant.io/news/regulation/crypto-developer-sues-doj-to-have-software-declared-legal",
           "publishedOn": "2025-01-21T11:15:41.000Z",
-          "wordCount": 3612,
+          "wordCount": 3598,
           "title": "Crypto Developer Sues DoJ to Have Software Declared Legal",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e424a2b1ce938399e7b4ef6a0f0ad1f228fc2030-1555x875.png",
@@ -320,7 +350,7 @@
           "description": "President Donald Trump has appointed Mark Uyeda as the acting chair of the SEC",
           "link": "https://thedefiant.io/news/regulation/trump-names-pro-crypto-mark-uyeda-acting-sec-chair-vows-to-end-war-on-crypto-27e988c4",
           "publishedOn": "2025-01-21T01:00:09.000Z",
-          "wordCount": 3171,
+          "wordCount": 3167,
           "title": "Trump Names Pro-Crypto Mark Uyeda Acting SEC Chair, Vows to End 'War on Crypto'",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d2a0b6d6e83b0d36bed47e0220b1ca270b284736-933x933.jpg",
@@ -335,7 +365,7 @@
           "description": "The incoming Trump administration has circulated a document to Republican lawmakers that does not include cryptocurrency among its immediate priorities",
           "link": "https://thedefiant.io/news/regulation/trump-administration-omitted-cryptocurrency-immediate-priorities-document-to-94e5cf12",
           "publishedOn": "2025-01-21T00:19:02.000Z",
-          "wordCount": 3107,
+          "wordCount": 3103,
           "title": "Trump Administration Omitted Cryptocurrency from Immediate Priorities Document, According to Punchbowl",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/563f94fd154a4ad7cfa98fb42ab7b6afd42152c9-653x836.png",
@@ -350,7 +380,7 @@
           "description": "Canary Capital’s proposed Litecoin exchange-traded fund took another step as it started the clock on SEC approval.",
           "link": "https://thedefiant.io/news/blockchains/litecoin-surges-on-etf-speculation",
           "publishedOn": "2025-01-20T22:58:21.000Z",
-          "wordCount": 3315,
+          "wordCount": 3301,
           "title": "Litecoin Surges on ETF Speculation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/aa20bd05aeabf9319fe3c098584df334912c168d-1555x875.png",
@@ -380,7 +410,7 @@
           "description": "Donald Trump has officially taken office as the 47th President of the United States on January 20, 2025",
           "link": "https://thedefiant.io/news/regulation/donald-trump-sworn-47th-president-on-january-20-2025-promising-bitcoin-reserves-18a59736",
           "publishedOn": "2025-01-20T20:00:20.000Z",
-          "wordCount": 3163,
+          "wordCount": 3160,
           "title": "Donald Trump Sworn in as 47th President on January 20, 2025, Promising Bitcoin Reserves and Ross Ulbricht's Comeback",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/69b943d53d702f5ddb3daa6b120e332fb9af5089-968x726.jpg",
@@ -410,7 +440,7 @@
           "description": "Nillion, a decentralized network focused on blind computation for AI, is preparing for the launch of its Alpha Mainnet and has announced an airdrop of its token, NIL",
           "link": "https://thedefiant.io/news/blockchains/nillion-announces-nil-airdrop-50m-funding-ahead-alpha-mainnet-launch-51b0494e",
           "publishedOn": "2025-01-20T17:49:44.000Z",
-          "wordCount": 3199,
+          "wordCount": 3184,
           "title": "Nillion Announces NIL Airdrop and $50M Funding Ahead of Alpha Mainnet Launch",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8d3381402696ca0f73f182b572ae97f6515bf9c1-1200x675.jpg",
@@ -425,7 +455,7 @@
           "description": "BNB Chain has introduced a new no-code solution that simplifies the creation and management of meme coins",
           "link": "https://thedefiant.io/news/blockchains/bnb-chain-launches-no-code-solution-meme-coin-creation-dc64ee2c",
           "publishedOn": "2025-01-20T17:37:45.000Z",
-          "wordCount": 3087,
+          "wordCount": 3072,
           "title": "BNB Chain Launches No-Code Solution for Meme Coin Creation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8e08b524200d207616a0c1e62a85012f9125fcab-1200x675.jpg",
@@ -455,7 +485,7 @@
           "description": "The Ethereum Foundation is exploring the possibility of staking its holdings of $1 billion worth of ETH, which could generate an estimated annual yield of $26 million",
           "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-considers-staking-1b-eth-holdings-26m-annual-yield-amid-100-93cb717e",
           "publishedOn": "2025-01-20T17:05:17.000Z",
-          "wordCount": 3211,
+          "wordCount": 3196,
           "title": "Ethereum Foundation Considers Staking $1B ETH Holdings for $26M Annual Yield Amid Regulatory Risks After Selling 100 ETH",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5ef09c853a27f0dcf337aa5ff9aed7b0cb154938-1200x630.jpg",
@@ -500,7 +530,7 @@
           "description": "Mainnet is slated to launch before the end of January, and Abstract just announced its version of a points program.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-layer-2-abstract-announces-incentives-program",
           "publishedOn": "2025-01-17T22:17:16.000Z",
-          "wordCount": 3349,
+          "wordCount": 3335,
           "title": "Ethereum Layer 2 Abstract Announces Incentives Program",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/87f1fb79954979aef1132fa6af64501b6d8d6ed8-1555x875.png",
@@ -515,7 +545,7 @@
           "description": "Hard forks on Ethereum test networks have been scheduled for February ahead of the mainnet launch.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-pectra-network-upgrade-to-go-live-in-march",
           "publishedOn": "2025-01-17T21:35:26.000Z",
-          "wordCount": 3400,
+          "wordCount": 3386,
           "title": "Ethereum Pectra Network Upgrade to Go Live in March",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/de1aee16f0b94621db0596e736b7632e017d3962-1555x875.png",
@@ -605,7 +635,7 @@
           "description": "As Solana’s economic activity grows, a new proposal suggests shifting from fixed emissions to a dynamic system.",
           "link": "https://thedefiant.io/news/blockchains/multicoin-proposal-seeks-to-reduce-sol-inflation-and-transition-to-market-driven-emissions",
           "publishedOn": "2025-01-17T09:35:08.000Z",
-          "wordCount": 3398,
+          "wordCount": 3383,
           "title": "Multicoin Proposal Seeks to Reduce SOL Inflation and Transition to Market-Driven Emissions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1a19a4f77e73517265c7e015368377f466371d2f-1555x875.png",
@@ -680,7 +710,7 @@
           "description": "Over 20 venture firms participated in the platform’s seed funding round, including F-Prime Capital and Galaxy Ventures.",
           "link": "https://thedefiant.io/news/blockchains/1money-raises-usd20-million-to-build-stablecoin-payments-network",
           "publishedOn": "2025-01-16T22:17:48.000Z",
-          "wordCount": 3359,
+          "wordCount": 3345,
           "title": "1Money Raises $20 Million to Build Stablecoin Payments Network",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c7527f6962fbca317ae438c913ac8064bb20eb7e-1555x875.png",
@@ -725,7 +755,7 @@
           "description": "During his confirmation hearing, Scott Bessent, President-elect Donald Trump's nominee for Treasury Secretary, stated that he sees no reason for the United States to have a Central Bank Digital Currency (CBDC)",
           "link": "https://thedefiant.io/news/regulation/trump-s-treasury-nominee-bessent-opposes-us-cbdc-no-reason-to-one-588a8e42",
           "publishedOn": "2025-01-16T19:41:44.000Z",
-          "wordCount": 3174,
+          "wordCount": 3171,
           "title": "Trump's Treasury Nominee Bessent Opposes US CBDC: 'No Reason to Have One'",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1cb14ee065dfc38d6a307a33793bae6306424c8e-1200x822.jpg",
@@ -800,7 +830,7 @@
           "description": "The 17-story Crypto Tower is set to become a hub for blockchain, Web3, and DeFi companies.",
           "link": "https://thedefiant.io/news/regulation/dubai-to-open-world-s-first-crypto-tower-by-2027",
           "publishedOn": "2025-01-16T13:06:44.000Z",
-          "wordCount": 3222,
+          "wordCount": 3219,
           "title": "Dubai to Open World’s First ‘Crypto Tower’ by 2027",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/19893dba0bd1dfd55f274b8da795be913db2ab5a-1555x875.png",
@@ -845,7 +875,7 @@
           "description": "The country’s SEC is exploring listing Bitcoin ETFs on local exchanges, following the launch of a fund offering exposure to overseas options.",
           "link": "https://thedefiant.io/news/regulation/thailand-considers-bitcoin-etfs-as-crypto-adoption-grows-in-asia",
           "publishedOn": "2025-01-16T03:32:32.000Z",
-          "wordCount": 3447,
+          "wordCount": 3433,
           "title": "Thailand Considers Bitcoin ETFs as Crypto Adoption Grows in Asia",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bb8553fada1da54c0423038e16e039920cef2dfc-1555x875.png",
@@ -950,7 +980,7 @@
           "description": "Senator Cynthia Lummis has made headlines with a statement indicating that 'things are about to get crazy' regarding Bitcoin and cryptocurrency regulations",
           "link": "https://thedefiant.io/news/regulation/senator-cynthia-lummis-warns-things-to-get-crazy-bitcoin-investors-amid-bitcoin-6c8a8555",
           "publishedOn": "2025-01-15T19:00:08.000Z",
-          "wordCount": 3173,
+          "wordCount": 3170,
           "title": "Senator Cynthia Lummis Warns 'Things Are About to Get Crazy' for Bitcoin Investors Amid Strategic Bitcoin Reserve Proposal",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/add4dd3fa67bcd6a81d5ec98130b16ff16525254-1200x598.jpg",
@@ -1020,7 +1050,7 @@
           "description": "SEC Chairman Gary Gensler’s planned departure on inauguration day will leave two pro-crypto commissioners in charge until joined by incoming Chairman Paul Atkins.",
           "link": "https://thedefiant.io/news/regulation/sec-commissioners-said-to-be-planning-crypto-overhaul-when-gensler-leaves",
           "publishedOn": "2025-01-15T16:26:37.000Z",
-          "wordCount": 3323,
+          "wordCount": 3309,
           "title": "SEC Commissioners Said To Be Planning Crypto Overhaul When Gensler Leaves",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e1bf8fc576f3a2a7084d7939a22716e46324a62f-1555x875.png",
@@ -1080,7 +1110,7 @@
           "description": "Citing the president-elect’s promises of a crypto-friendly environment, the Telegram messaging service-linked blockchain is refocusing on the U.S. market.",
           "link": "https://thedefiant.io/news/blockchains/ton-blockchain-targets-u-s-growth-under-trump-administration",
           "publishedOn": "2025-01-15T03:15:29.000Z",
-          "wordCount": 3436,
+          "wordCount": 3422,
           "title": "TON Blockchain Targets U.S. Growth Under Trump Administration",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/361159f492c4e74d9dcd5bc80f63b868832d98c2-1555x875.png",
@@ -1135,7 +1165,7 @@
           "description": "Polygon has announced the launch of Season 2 of its Community Grants Program (CGP), offering a total of 35 million POL in funding for innovative projects",
           "link": "https://thedefiant.io/news/blockchains/polygon-launches-season-2-community-grants-program-35-million-pol-ai-depin-9d895024",
           "publishedOn": "2025-01-14T22:30:25.000Z",
-          "wordCount": 3206,
+          "wordCount": 3191,
           "title": "Polygon Launches Season 2 of Community Grants Program With 35 Million POL for AI, DePIN, and Memecoins",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d3a7320d3095a5fccba7548a964db020ab5417cf-1200x675.png",
@@ -1237,7 +1267,7 @@
         {
           "id": "https://thedefiant.io/news/defi/sony-layer-2-soneium-fields-user-uproar-over-frozen-memecoins",
           "author": "Jona Jaupi",
-          "description": "Soneium’s restrictions on its launch day spark debate over intellectual property enforcement and decentralization.",
+          "description": "Sony, the second-largest consumer electronics company by units sold, today launched its own Ethereum Layer 2 company, a major milestone for both the Japanese company and the blockchain industry. Still, the day quickly soured.",
           "link": "https://thedefiant.io/news/defi/sony-layer-2-soneium-fields-user-uproar-over-frozen-memecoins",
           "publishedOn": "2025-01-14T16:18:28.000Z",
           "wordCount": 3616,
@@ -1270,7 +1300,7 @@
           "description": "On January 14, 2025, the governments of Japan, the United States, and South Korea issued a joint statement addressing the issue of cryptocurrency theft attributed to North Korea",
           "link": "https://thedefiant.io/news/regulation/japan-u-s-and-south-korea-warn-of-north-korea-s-usd235-million-cryptocurrency-theft-from-wazirx",
           "publishedOn": "2025-01-14T14:00:20.000Z",
-          "wordCount": 3162,
+          "wordCount": 3159,
           "title": "Japan, U.S., and South Korea Warn of North Korea's $235 Million Cryptocurrency Theft from WazirX",
           "imageUrl": null
         },
@@ -1280,7 +1310,7 @@
           "description": "The Bank of England (BOE) has announced that no decision has been made regarding the implementation of a digital pound",
           "link": "https://thedefiant.io/news/regulation/bank-england-to-assess-digital-pound-after-design-phase-launch-digital-pound-lab-f34fdde0",
           "publishedOn": "2025-01-14T13:30:23.000Z",
-          "wordCount": 3133,
+          "wordCount": 3130,
           "title": "Bank of England to Assess Digital Pound After Design Phase, Launch Digital Pound Lab in Next Couple of Years",
           "imageUrl": null
         },
@@ -1365,7 +1395,7 @@
           "description": "The leading prediction market may be planning a return to the U.S., but in Singapore, it has been declared an illegal gambling site.",
           "link": "https://thedefiant.io/news/regulation/prediction-market-polymarket-banned-in-singapore",
           "publishedOn": "2025-01-14T02:37:29.000Z",
-          "wordCount": 3413,
+          "wordCount": 3399,
           "title": "Prediction Market Polymarket Banned in Singapore",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bc9501e4335a985439793e23f2999e2735e223f0-1555x875.png",
@@ -1425,7 +1455,7 @@
           "description": "Coinbase has secured a partial victory against the SEC",
           "link": "https://thedefiant.io/news/regulation/third-circuit-court-rules-sec-s-denial-coinbase-petition-arbitrary-capricious-bf0a4e35",
           "publishedOn": "2025-01-13T22:00:24.000Z",
-          "wordCount": 3149,
+          "wordCount": 3146,
           "title": "Third Circuit Court Rules SEC's Denial of Coinbase Petition 'Arbitrary and Capricious'",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dc0bb69f866664c6dfa36c7539cea6397536e9d1-1200x1148.png",
@@ -1478,31 +1508,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a19a0d4f828985c6f6b3276b8b2442acb11564cb-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/azuki-reveals-anime-tokenomics-with-37-allocated-to-nft-holders",
-          "author": "Squiffs",
-          "description": "The NFT project will release its flagship token sometime before the end of January, with 50.5% of the supply airdropped to the community.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/azuki-reveals-anime-tokenomics-with-37-allocated-to-nft-holders",
-          "publishedOn": "2025-01-13T20:03:36.000Z",
-          "wordCount": 3412,
-          "title": "Azuki Reveals ANIME Tokenomics with 37% Allocated to NFT Holders",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f0e196883d5b394cf26b79a0c9e1bbe0e0cf3ec1-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f0e196883d5b394cf26b79a0c9e1bbe0e0cf3ec1-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/corporate-demand-bitcoin-2025-surpasses-new-supply-according-to-bitwise-price-018e07f4",
-          "author": "DeepNewz",
-          "description": "In 2025, corporate demand for Bitcoin is reportedly outpacing new supply, according to multiple sources including Bitwise",
-          "link": "https://thedefiant.io/news/markets/corporate-demand-bitcoin-2025-surpasses-new-supply-according-to-bitwise-price-018e07f4",
-          "publishedOn": "2025-01-13T18:16:33.000Z",
-          "wordCount": 3085,
-          "title": "Corporate Demand for Bitcoin in 2025 Surpasses New Supply, According to Bitwise, Indicating Price Pressure",
-          "imageUrl": null
         }
       ]
     },
