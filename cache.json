@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/senate-banking-committee-names-sen-cynthia-lummis-chair-of-digital-assets-subcommittee",
+          "author": "Jona Jaupi",
+          "description": "The vote follows a cryptic post by Lummis that fueled rumors of a potential U.S. strategic Bitcoin reserve.",
+          "link": "https://thedefiant.io/news/regulation/senate-banking-committee-names-sen-cynthia-lummis-chair-of-digital-assets-subcommittee",
+          "publishedOn": "2025-01-23T17:21:52.000Z",
+          "wordCount": 3511,
+          "title": "Senate Banking Committee Names Sen. Cynthia Lummis Chair of Digital Assets Subcommittee",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bbdc4c9cec65cb66a783f6b420a5a14b8ce7edde-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bbdc4c9cec65cb66a783f6b420a5a14b8ce7edde-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/ross-ulbricht-memecoin-plummets-90-upon-presidential-pardon",
           "author": "Squiffs",
           "description": "The Silk Road founder’s presidential pardon quickly pivoted into a sell-the-news event.",
@@ -1503,21 +1518,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4f7a4951e3dd622dd90f3c1f42edf0840dd8302b-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/morpho-tvl-up-150-since-its-token-launch",
-          "author": "Squiffs",
-          "description": "The peer-to-peer lending layer is experiencing a surge in active users and active loans.",
-          "link": "https://thedefiant.io/news/defi/morpho-tvl-up-150-since-its-token-launch",
-          "publishedOn": "2025-01-14T21:14:49.000Z",
-          "wordCount": 3303,
-          "title": "Morpho TVL Up 150% Since its Token Launch",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3e87f719f97a1a1215eb9721e8bbb7267ca3c203-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3e87f719f97a1a1215eb9721e8bbb7267ca3c203-1555x875.png"
         }
       ]
     },
