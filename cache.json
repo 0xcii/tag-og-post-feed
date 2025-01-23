@@ -35,6 +35,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/digital-asset-funds-aum-climbs-to-new-high-after-drawing-usd2-2-billion-in-a-week",
+          "author": "Jona Jaupi",
+          "description": "Bitcoin leads with $1.9 billion in inflows, as total YTD investments reach $2.8 billion.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/digital-asset-funds-aum-climbs-to-new-high-after-drawing-usd2-2-billion-in-a-week",
+          "publishedOn": "2025-01-23T02:57:34.000Z",
+          "wordCount": 3415,
+          "title": "Digital Asset Funds' AUM Climbs to New High After Drawing  $2.2 Billion in a Week",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/32e437105d6765a0ed9c7db6710a48774ebaca47-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/32e437105d6765a0ed9c7db6710a48774ebaca47-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/uniswap-plans-to-release-its-v4-this-week",
+          "author": "Joel Lim",
+          "description": "The latest update aims to add flexibility to the top decentralized exchange.",
+          "link": "https://thedefiant.io/news/defi/uniswap-plans-to-release-its-v4-this-week",
+          "publishedOn": "2025-01-23T02:41:44.000Z",
+          "wordCount": 3310,
+          "title": "Uniswap Plans to Release its V4 This Week",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4e8e4d9330f24dace67266de35299fc66ba94549-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4e8e4d9330f24dace67266de35299fc66ba94549-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/torn-surges-over-150-after-us-appeals-court-lifted-tornado-cash-sanctions",
           "author": "Joel Lim",
           "description": "The U.S. court found that smart contracts can’t be considered property of a foreign national entity and, therefore, cannot be sanctioned.",
@@ -1242,7 +1272,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/sec-commissioners-said-to-be-planning-crypto-overhaul-when-gensler-leaves",
           "author": "Leo Jakobson",
-          "description": "SEC Chairman Gary Gensler’s planned departure on inauguration day will leave two pro-crypto commissioners in charge until joined by incoming Chairman Paul Atkins.",
+          "description": "Republican commissioners of the Securities and Exchange Commission (SEC) are planning to start an overhaul of its crypto policies as soon as President-elect Donald Trump is sworn in.",
           "link": "https://thedefiant.io/news/regulation/sec-commissioners-said-to-be-planning-crypto-overhaul-when-gensler-leaves",
           "publishedOn": "2025-01-15T16:26:37.000Z",
           "wordCount": 3309,
@@ -1488,26 +1518,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2afbf67fce471b611de79d6a273aff39969fe2d3-1200x675.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/japan-u-s-and-south-korea-warn-of-north-korea-s-usd235-million-cryptocurrency-theft-from-wazirx",
-          "author": "DeepNewz",
-          "description": "On January 14, 2025, the governments of Japan, the United States, and South Korea issued a joint statement addressing the issue of cryptocurrency theft attributed to North Korea",
-          "link": "https://thedefiant.io/news/regulation/japan-u-s-and-south-korea-warn-of-north-korea-s-usd235-million-cryptocurrency-theft-from-wazirx",
-          "publishedOn": "2025-01-14T14:00:20.000Z",
-          "wordCount": 3159,
-          "title": "Japan, U.S., and South Korea Warn of North Korea's $235 Million Cryptocurrency Theft from WazirX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/bank-england-to-assess-digital-pound-after-design-phase-launch-digital-pound-lab-f34fdde0",
-          "author": "DeepNewz",
-          "description": "The Bank of England (BOE) has announced that no decision has been made regarding the implementation of a digital pound",
-          "link": "https://thedefiant.io/news/regulation/bank-england-to-assess-digital-pound-after-design-phase-launch-digital-pound-lab-f34fdde0",
-          "publishedOn": "2025-01-14T13:30:23.000Z",
-          "wordCount": 3130,
-          "title": "Bank of England to Assess Digital Pound After Design Phase, Launch Digital Pound Lab in Next Couple of Years",
-          "imageUrl": null
         }
       ]
     },
