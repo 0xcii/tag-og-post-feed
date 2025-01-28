@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-28T13:20:44.667Z</id>
+    <id>urn:2025-01-28T14:14:55.859Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-28T13:20:44.667Z</updated>
+    <updated>2025-01-28T14:14:55.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why did I quit in 2022]]></title>
+        <id>https://medium.com/p/e9a3a6ae91ef</id>
+        <link href="https://andrecronje.medium.com/why-did-i-quit-in-2022-e9a3a6ae91ef?source=rss-34f4446c6ba1------2"/>
+        <updated>2025-01-28T13:44:47.000Z</updated>
+        <summary type="html"><![CDATA[For those of you who might not know, back in 2022 I stepped away from Defi; this did not coincide with some “building in defi sucks” post…]]></summary>
+        <author>
+            <name>Andre Cronje</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Funds Attracted Nearly $2 Billion Following Trump Executive Order]]></title>
         <id>https://thedefiant.io/news/markets/crypto-funds-attracted-nearly-usd2-billion-following-trump-executive-order</id>
