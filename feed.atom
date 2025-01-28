@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-28T11:12:55.762Z</id>
+    <id>urn:2025-01-28T12:31:21.427Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-28T11:12:55.762Z</updated>
+    <updated>2025-01-28T12:31:21.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Funds Attracted Nearly $2 Billion Following Trump Executive Order]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-funds-attracted-nearly-usd2-billion-following-trump-executive-order</id>
+        <link href="https://thedefiant.io/news/markets/crypto-funds-attracted-nearly-usd2-billion-following-trump-executive-order"/>
+        <updated>2025-01-28T12:18:49.000Z</updated>
+        <summary type="html"><![CDATA[CoinShares weekly digital asset fund flow report noted broad-based inflows, with Bitcoin racking up $1.6 billion.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Erik Voorhees’ Venice AI Launches VVV Token]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/erik-voorhees-venice-ai-launches-vvv-token</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/erik-voorhees-venice-ai-launches-vvv-token"/>
+        <updated>2025-01-28T11:52:30.000Z</updated>
+        <summary type="html"><![CDATA[VVV is trading at a $1.6 billion valuation after securing a Coinbase listing on launch day.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Ugly]]></title>
         <id>https://medium.com/p/dfba4f46ebd4</id>
@@ -991,26 +1011,6 @@
         <link href="https://thedefiant.io/news/blockchains/ethereum-pectra-network-upgrade-to-go-live-in-march"/>
         <updated>2025-01-17T21:35:26.000Z</updated>
         <summary type="html"><![CDATA[Hard forks on Ethereum test networks have been scheduled for February ahead of the mainnet launch.]]></summary>
-        <author>
-            <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AGIXT Token Surges to $100 Million Market Cap Hours From Launch]]></title>
-        <id>https://thedefiant.io/news/markets/agixt-token-surges-to-usd100-million-market-cap-hours-from-launch</id>
-        <link href="https://thedefiant.io/news/markets/agixt-token-surges-to-usd100-million-market-cap-hours-from-launch"/>
-        <updated>2025-01-17T20:22:42.000Z</updated>
-        <summary type="html"><![CDATA[The token is the latest AI Agent infrastructure token to launch on PumpFun.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether Launches Cross-Chain Stablecoin USDT0]]></title>
-        <id>https://thedefiant.io/news/cefi/tether-launches-cross-chain-stablecoin-usdt0</id>
-        <link href="https://thedefiant.io/news/cefi/tether-launches-cross-chain-stablecoin-usdt0"/>
-        <updated>2025-01-17T20:06:10.000Z</updated>
-        <summary type="html"><![CDATA[Tether launched USDT0 on Kraken’s Layer 2, Ink.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
