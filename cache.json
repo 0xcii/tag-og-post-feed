@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/arbitrum-polygon-and-optimism-show-how-to-start-an-x-feud-in-four-easy-steps",
+          "author": "Leo Jakobson",
+          "description": "The fight began, humorously enough, with a post about the need for Layer 2 blockchains to work together.",
+          "link": "https://thedefiant.io/news/blockchains/arbitrum-polygon-and-optimism-show-how-to-start-an-x-feud-in-four-easy-steps",
+          "publishedOn": "2025-01-29T22:31:14.000Z",
+          "wordCount": 3609,
+          "title": "Arbitrum, Polygon and Optimism Show How To Start an X Feud in Four Easy Steps",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8115a2fee1ab7859a7dffa13b4779437c24bd627-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8115a2fee1ab7859a7dffa13b4779437c24bd627-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-market-rallies-after-federal-reserve-leaves-interest-rates-unchanged",
           "author": "Jona Jaupi",
           "description": "BTC, ETH, and SOL surged 3% after Fed Chair Powell’s press conference.",
@@ -1262,7 +1277,7 @@
         {
           "id": "https://thedefiant.io/news/defi/uniswap-plans-to-release-its-v4-this-week",
           "author": "Joel Lim",
-          "description": "The latest update aims to add flexibility to the top decentralized exchange.",
+          "description": "Uniswap, the largest decentralized exchange (DEX) by volume, said it’s planning to deploy its V4 this week, according to a Jan. 21 X post.",
           "link": "https://thedefiant.io/news/defi/uniswap-plans-to-release-its-v4-this-week",
           "publishedOn": "2025-01-23T02:41:44.000Z",
           "wordCount": 3312,
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/markets/torn-surges-over-150-after-us-appeals-court-lifted-tornado-cash-sanctions",
           "author": "Joel Lim",
-          "description": "On Jan. 22, TORN, the native token of Tornado Cash, skyrocketed by over 150% after a U.S. appeals court revoked the U.S. Treasury’s Office of Foreign Assets Control (OFAC) decision to sanction the cryptocurrency mixer.",
+          "description": "The U.S. court found that smart contracts can’t be considered property of a foreign national entity and, therefore, cannot be sanctioned.",
           "link": "https://thedefiant.io/news/markets/torn-surges-over-150-after-us-appeals-court-lifted-tornado-cash-sanctions",
           "publishedOn": "2025-01-23T02:32:06.000Z",
           "wordCount": 3466,
@@ -1513,21 +1528,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3f04a732a98392391b3e3f0d02f3ca6693e72c1e-1199x905.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/bank-america-ceo-brian-moynihan-signals-readiness-crypto-payments-davos-3b73ea93",
-          "author": "DeepNewz",
-          "description": "Bank of America, with a valuation of $1.6 trillion, is poised to embrace cryptocurrencies for payments if regulators approve, according to CEO Brian Moynihan.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/bank-america-ceo-brian-moynihan-signals-readiness-crypto-payments-davos-3b73ea93",
-          "publishedOn": "2025-01-22T01:34:44.000Z",
-          "wordCount": 3172,
-          "title": "Bank of America CEO Brian Moynihan Signals Readiness for Crypto Payments at Davos",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/89e52ca387198942442f8c84e385e2c8a0f42e02-1200x675.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/89e52ca387198942442f8c84e385e2c8a0f42e02-1200x675.jpg"
         }
       ]
     },

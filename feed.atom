@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-29T22:14:59.593Z</id>
+    <id>urn:2025-01-29T23:14:48.043Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-29T22:14:59.593Z</updated>
+    <updated>2025-01-29T23:14:48.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum, Polygon and Optimism Show How To Start an X Feud in Four Easy Steps]]></title>
+        <id>https://thedefiant.io/news/blockchains/arbitrum-polygon-and-optimism-show-how-to-start-an-x-feud-in-four-easy-steps</id>
+        <link href="https://thedefiant.io/news/blockchains/arbitrum-polygon-and-optimism-show-how-to-start-an-x-feud-in-four-easy-steps"/>
+        <updated>2025-01-29T22:31:14.000Z</updated>
+        <summary type="html"><![CDATA[The fight began, humorously enough, with a post about the need for Layer 2 blockchains to work together.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Market Rallies After Federal Reserve Leaves Interest Rates Unchanged]]></title>
         <id>https://thedefiant.io/news/markets/crypto-market-rallies-after-federal-reserve-leaves-interest-rates-unchanged</id>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/news/defi/uniswap-plans-to-release-its-v4-this-week</id>
         <link href="https://thedefiant.io/news/defi/uniswap-plans-to-release-its-v4-this-week"/>
         <updated>2025-01-23T02:41:44.000Z</updated>
-        <summary type="html"><![CDATA[The latest update aims to add flexibility to the top decentralized exchange.]]></summary>
+        <summary type="html"><![CDATA[Uniswap, the largest decentralized exchange (DEX) by volume, said it’s planning to deploy its V4 this week, according to a Jan. 21 X post.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
@@ -860,7 +870,7 @@
         <id>https://thedefiant.io/news/markets/torn-surges-over-150-after-us-appeals-court-lifted-tornado-cash-sanctions</id>
         <link href="https://thedefiant.io/news/markets/torn-surges-over-150-after-us-appeals-court-lifted-tornado-cash-sanctions"/>
         <updated>2025-01-23T02:32:06.000Z</updated>
-        <summary type="html"><![CDATA[On Jan. 22, TORN, the native token of Tornado Cash, skyrocketed by over 150% after a U.S. appeals court revoked the U.S. Treasury’s Office of Foreign Assets Control (OFAC) decision to sanction the cryptocurrency mixer.]]></summary>
+        <summary type="html"><![CDATA[The U.S. court found that smart contracts can’t be considered property of a foreign national entity and, therefore, cannot be sanctioned.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
@@ -1011,16 +1021,6 @@
         <link href="https://thedefiant.io/news/cefi/coinbase-ceo-predicts-bitcoin-reach-multiple-millions-sees-new-gold-standard-9eae88c4"/>
         <updated>2025-01-22T02:00:40.000Z</updated>
         <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong has expressed a bullish outlook on Bitcoin, predicting that the cryptocurrency will eventually reach a price range in the millions, and potentially multiple millions]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bank of America CEO Brian Moynihan Signals Readiness for Crypto Payments at Davos]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/bank-america-ceo-brian-moynihan-signals-readiness-crypto-payments-davos-3b73ea93</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/bank-america-ceo-brian-moynihan-signals-readiness-crypto-payments-davos-3b73ea93"/>
-        <updated>2025-01-22T01:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Bank of America, with a valuation of $1.6 trillion, is poised to embrace cryptocurrencies for payments if regulators approve, according to CEO Brian Moynihan.]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
