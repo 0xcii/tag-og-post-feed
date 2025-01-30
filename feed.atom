@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-30T21:14:28.258Z</id>
+    <id>urn:2025-01-30T22:14:25.109Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-30T21:14:28.258Z</updated>
+    <updated>2025-01-30T22:14:25.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Venmo Co-Founder Releases Fair-Launch Token for New Platform, JellyJelly]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/venmo-co-founder-releases-fair-launch-token-for-new-platform-jellyjelly</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/venmo-co-founder-releases-fair-launch-token-for-new-platform-jellyjelly"/>
+        <updated>2025-01-30T22:13:11.000Z</updated>
+        <summary type="html"><![CDATA[The token was created as a fair launch on Pump.Fun and surged to a $250 million valuation in hours.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Edges Closer to Decision on Canary Capital’s Litecoin ETF]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-edges-closer-to-decision-on-canary-capital-s-litecoin-etf</id>
+        <link href="https://thedefiant.io/news/regulation/sec-edges-closer-to-decision-on-canary-capital-s-litecoin-etf"/>
+        <updated>2025-01-30T22:10:49.000Z</updated>
+        <summary type="html"><![CDATA[The agency has called for the public’s comments on the proposed ETF before it approves or denies it.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MarginFi Introduces Staked Collateral Feature]]></title>
         <id>https://thedefiant.io/news/defi/marginfi-introduces-staked-collateral-feature</id>
@@ -1003,26 +1023,6 @@
         <summary type="html"><![CDATA[The latest update aims to add flexibility to the top decentralized exchange.]]></summary>
         <author>
             <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TORN Surges Over 150% After US Appeals Court Lifted Tornado Cash Sanctions]]></title>
-        <id>https://thedefiant.io/news/markets/torn-surges-over-150-after-us-appeals-court-lifted-tornado-cash-sanctions</id>
-        <link href="https://thedefiant.io/news/markets/torn-surges-over-150-after-us-appeals-court-lifted-tornado-cash-sanctions"/>
-        <updated>2025-01-23T02:32:06.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. court found that smart contracts can’t be considered property of a foreign national entity and, therefore, cannot be sanctioned.]]></summary>
-        <author>
-            <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Rallies as Crypto Markets Consolidate Following Trump’s Inauguration]]></title>
-        <id>https://thedefiant.io/news/markets/solana-rallies-as-crypto-markets-consolidate-following-trump-s-inauguration</id>
-        <link href="https://thedefiant.io/news/markets/solana-rallies-as-crypto-markets-consolidate-following-trump-s-inauguration"/>
-        <updated>2025-01-22T22:18:17.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin dips after hitting an all-time high while Solana surges, and over $173 million in liquidations rattle the market amidst uncertainty over political policy.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
     <entry>
