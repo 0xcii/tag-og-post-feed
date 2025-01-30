@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/crypto-hacks-total-usd74m-in-january-and-cefi-accounts-for-93-of-losses",
+          "author": "Jona Jaupi",
+          "description": "Despite a 45% drop from last year, security threats persist across the crypto sector.",
+          "link": "https://thedefiant.io/news/hacks/crypto-hacks-total-usd74m-in-january-and-cefi-accounts-for-93-of-losses",
+          "publishedOn": "2025-01-30T22:56:57.000Z",
+          "wordCount": 3239,
+          "title": "Crypto Hacks Total $74M in January and CeFi Accounts for 93% of Losses",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ae6f6122f82ef2bc49e306013e7fe5c246ce9449-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ae6f6122f82ef2bc49e306013e7fe5c246ce9449-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/hyperliquid-flips-ethereum-in-fees-and-revenue",
+          "author": "Squiffs",
+          "description": "Activity on Hyperliquid is ramping up compared to Ethereum, the leading Layer 1 by TVL.",
+          "link": "https://thedefiant.io/news/defi/hyperliquid-flips-ethereum-in-fees-and-revenue",
+          "publishedOn": "2025-01-30T22:39:15.000Z",
+          "wordCount": 3327,
+          "title": "Hyperliquid Flips Ethereum in Fees and Revenue as Token Rallies",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/525106d88f907d1db8b10bed4c7d7504be5ac88d-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/525106d88f907d1db8b10bed4c7d7504be5ac88d-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/venmo-co-founder-releases-fair-launch-token-for-new-platform-jellyjelly",
           "author": "Squiffs",
           "description": "The token was created as a fair launch on Pump.Fun and surged to a $250 million valuation in hours.",
@@ -1247,7 +1277,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/azuki-linked-animecoin-airdrop-goes-live",
           "author": "Leo Jakobson",
-          "description": "About two-thirds of the 3.75 billion tokens available to the community have been claimed by holders of Azuki NFTs.",
+          "description": "About two-thirds of the 3.75 billion tokens available to the community have been claimed by holders of Azuki’s anime-themed NFTs.",
           "link": "https://thedefiant.io/news/nfts-and-web3/azuki-linked-animecoin-airdrop-goes-live",
           "publishedOn": "2025-01-24T10:40:47.000Z",
           "wordCount": 3276,
@@ -1498,36 +1528,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/64460ca4bfbe1fac3a65c9c50482106c5bcc2abc-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/digital-asset-funds-aum-climbs-to-new-high-after-drawing-usd2-2-billion-in-a-week",
-          "author": "Jona Jaupi",
-          "description": "Bitcoin leads with $1.9 billion in inflows, as total YTD investments reach $2.8 billion.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/digital-asset-funds-aum-climbs-to-new-high-after-drawing-usd2-2-billion-in-a-week",
-          "publishedOn": "2025-01-23T02:57:34.000Z",
-          "wordCount": 3417,
-          "title": "Digital Asset Funds' AUM Climbs to New High After Drawing  $2.2 Billion in a Week",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/32e437105d6765a0ed9c7db6710a48774ebaca47-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/32e437105d6765a0ed9c7db6710a48774ebaca47-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/uniswap-plans-to-release-its-v4-this-week",
-          "author": "Joel Lim",
-          "description": "The latest update aims to add flexibility to the top decentralized exchange.",
-          "link": "https://thedefiant.io/news/defi/uniswap-plans-to-release-its-v4-this-week",
-          "publishedOn": "2025-01-23T02:41:44.000Z",
-          "wordCount": 3314,
-          "title": "Uniswap Plans to Release its V4 This Week",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4e8e4d9330f24dace67266de35299fc66ba94549-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4e8e4d9330f24dace67266de35299fc66ba94549-1555x875.png"
         }
       ]
     },
