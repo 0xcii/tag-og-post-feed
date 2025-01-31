@@ -50,9 +50,14 @@
           "description": "The long-awaited update introduces customizable swaps and improved efficiency.",
           "link": "https://thedefiant.io/news/defi/uniswap-labs-launches-v4-bringing-major-upgrades-to-its-dex",
           "publishedOn": "2025-01-31T15:07:47.000Z",
-          "wordCount": 3167,
+          "wordCount": 3189,
           "title": "Uniswap Labs Launches V4, Bringing Major Upgrades to Its DEX",
-          "imageUrl": null
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/50b7bc39fbc3730eec0269bf0462f82806d0540a-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/50b7bc39fbc3730eec0269bf0462f82806d0540a-1555x875.png"
         },
         {
           "id": "https://thedefiant.io/news/research-and-opinion/bitwise-cio-says-trump-s-executive-order-could-end-crypto-s-four-year-cycles",
@@ -210,7 +215,7 @@
           "description": "Ross Ulbricht, known for founding the Silk Road, reportedly lost approximately $12 million due to a liquidity pool error involving the Pumpfun token on the Solana blockchain",
           "link": "https://thedefiant.io/news/people/ross-ulbricht-loses-12-million-including-10-5-million-35-total-supply-due-to-on-5b7d2685",
           "publishedOn": "2025-01-30T17:37:01.000Z",
-          "wordCount": 3234,
+          "wordCount": 3239,
           "title": "Ross Ulbricht Loses $12 Million, Including $10.5 Million and 35% of Total Supply, Due to Liquidity Pool Error on Pumpfun Token",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d70323874bb184ff01890cd38e46ee7954ba9d4e-1004x565.jpg",
@@ -225,7 +230,7 @@
           "description": "Michael Saylor, CEO of MicroStrategy, has been featured on the cover of Forbes magazine, dubbed 'The Bitcoin Alchemist'",
           "link": "https://thedefiant.io/news/people/michael-saylor-now-worth-9-4-billion-featured-on-forbes-the-bitcoin-alchemist-s-7c67c4bd",
           "publishedOn": "2025-01-30T16:39:52.000Z",
-          "wordCount": 3230,
+          "wordCount": 3235,
           "title": "Michael Saylor, Now Worth $9.4 Billion, Featured on Forbes as 'The Bitcoin Alchemist' Amid MicroStrategy's $84 Billion Market Cap Surge",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/13d868f895f9dda660b48db901863d645811f1e9-1028x1200.jpg",
@@ -315,7 +320,7 @@
           "description": "In a Washington Post op-ed post, Vlad Tenev argued that the U.S. is falling behind the rest of the world in the coming investing revolution.",
           "link": "https://thedefiant.io/news/people/robinhood-ceo-says-sec-should-revise-rules-to-foster-tokenization",
           "publishedOn": "2025-01-29T23:14:48.000Z",
-          "wordCount": 3402,
+          "wordCount": 3404,
           "title": "Robinhood CEO Says SEC Should Revise Rules To Foster Tokenization",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ddd61579bc8f80d0597aa07be2d3615f6b7938f8-1555x875.png",
@@ -660,7 +665,7 @@
           "description": "The proposal would require a huge ETH mint, causing substantial inflation in ether.",
           "link": "https://thedefiant.io/news/people/uniswap-s-hayden-adams-pitches-ethereum-buying-out-layer-2s-and-defi",
           "publishedOn": "2025-01-28T22:39:04.000Z",
-          "wordCount": 3406,
+          "wordCount": 3408,
           "title": "Uniswap’s Hayden Adams Pitches Ethereum Buying Out Layer 2s and DeFi",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7035be94d0cd099934744e89fc503d5f9bfe0ab5-1555x875.png",
@@ -1395,7 +1400,7 @@
           "description": "Binance founder Changpeng Zhao has indicated that a U.S. Strategic Bitcoin Reserve is 'pretty much confirmed.'",
           "link": "https://thedefiant.io/news/people/binance-founder-confirms-u-s-strategic-bitcoin-reserve-pretty-much-confirmed-f755bb80",
           "publishedOn": "2025-01-23T21:00:46.000Z",
-          "wordCount": 3063,
+          "wordCount": 3068,
           "title": "Binance Founder Confirms U.S. Strategic Bitcoin Reserve 'Pretty Much Confirmed'",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/401b23616d560e6022acef0529ee474813192dc1-1200x677.jpg",
@@ -1485,7 +1490,7 @@
           "description": "President Donald Trump, speaking at the World Economic Forum in Davos, announced his intention to position the United States as the global leader in artificial intelligence (AI) and cryptocurrency",
           "link": "https://thedefiant.io/news/people/trump-vows-to-make-us-ai-crypto-leader-manufacturing-superpower-60b6a498",
           "publishedOn": "2025-01-23T19:47:50.000Z",
-          "wordCount": 3189,
+          "wordCount": 3194,
           "title": "Trump Vows to Make US AI, Crypto Leader and Manufacturing Superpower",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1f6de5492452cc83f4d5d0ba8ffa6db7773370e0-960x1200.jpg",
