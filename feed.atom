@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-03T21:14:48.860Z</id>
+    <id>urn:2025-02-03T22:14:37.343Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-03T21:14:48.860Z</updated>
+    <updated>2025-02-03T22:14:37.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trump's World Liberty Finance Buys 86,000 ETH for $220 Million, Total Holdings Reach $420 Million with 65% Allocation]]></title>
+        <id>https://thedefiant.io/news/defi/trump-s-world-liberty-finance-buys-86000-eth-220-million-total-holdings-reach-65-d9c8dcb4</id>
+        <link href="https://thedefiant.io/news/defi/trump-s-world-liberty-finance-buys-86000-eth-220-million-total-holdings-reach-65-d9c8dcb4"/>
+        <updated>2025-02-03T21:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Trump's World Liberty Finance has acquired 86,000 Ethereum (ETH) in the past eight hours, spending approximately $220 million]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THORChain Proposes TCY Equity Tokens to Address $200 Million Debt Crisis]]></title>
+        <id>https://thedefiant.io/news/blockchains/thorchain-proposes-tcy-equity-tokens-to-address-usd200-million-debt-crisis</id>
+        <link href="https://thedefiant.io/news/blockchains/thorchain-proposes-tcy-equity-tokens-to-address-usd200-million-debt-crisis"/>
+        <updated>2025-02-03T21:57:45.000Z</updated>
+        <summary type="html"><![CDATA[THORChain’s native token, RUNE, rebounded after sharp losses following the platform’s new debt plan]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokenized Real-World Assets Hit All-time High of $17 Billion]]></title>
+        <id>https://thedefiant.io/news/defi/tokenized-real-world-assets-hit-all-time-high-of-usd17-billion</id>
+        <link href="https://thedefiant.io/news/defi/tokenized-real-world-assets-hit-all-time-high-of-usd17-billion"/>
+        <updated>2025-02-03T21:46:04.000Z</updated>
+        <summary type="html"><![CDATA[With the legal and technological frameworks falling into place, the sector could grow to $600 billion by 2030, predicts Boston Consulting Group.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainlink Wants to Become Crypto’s Benchmark Index Provider]]></title>
+        <id>https://thedefiant.io/news/defi/chainlink-wants-to-become-crypto-s-benchmark-index-provider-starting-with-defi-yield</id>
+        <link href="https://thedefiant.io/news/defi/chainlink-wants-to-become-crypto-s-benchmark-index-provider-starting-with-defi-yield"/>
+        <updated>2025-02-03T21:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Crypto's largest oracle network is starting with a DeFi yield index.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Seeks to Change DEX Game Again With v4’s “Hooks”]]></title>
+        <id>https://thedefiant.io/news/defi/uniswap-sets-out-to-change-the-dex-game-again-with-v4-s-hooks</id>
+        <link href="https://thedefiant.io/news/defi/uniswap-sets-out-to-change-the-dex-game-again-with-v4-s-hooks"/>
+        <updated>2025-02-03T21:19:25.000Z</updated>
+        <summary type="html"><![CDATA[The latest upgrade empowers developers with customizable features and significant gas optimizations.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MicroStrategy Ends $20B Bitcoin Buying Streak; Total Holdings at 471,107 BTC]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/microstrategy-ends-20b-bitcoin-buying-streak-total-holdings-471107-btc-12a1270a</id>
@@ -973,56 +1023,6 @@
         <summary type="html"><![CDATA[Ethereum co-founder lays out a vision for scaling with Layer 2s, prioritizing interoperability, lower fees, and long-term ETH value.]]></summary>
         <author>
             <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale and Coinshares File 19b-4 for $LTC and $SOL Spot ETFs with NYSE]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/grayscale-coinshares-file-19b-4-ltc-sol-spot-etfs-nyse-d9e8433b</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/grayscale-coinshares-file-19b-4-ltc-sol-spot-etfs-nyse-d9e8433b"/>
-        <updated>2025-01-24T21:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Grayscale Investments and Coinshares have filed applications with the New York Stock Exchange (NYSE) for spot exchange-traded funds (ETFs) for Litecoin ($LTC) and Solana ($SOL)]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clout.Me Blends Social-Fi with Memecoins]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/clout-me-blends-social-fi-with-memecoins</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/clout-me-blends-social-fi-with-memecoins"/>
-        <updated>2025-01-24T21:29:54.000Z</updated>
-        <summary type="html"><![CDATA[The app is climbing up the Apple Store leaderboard and is ranked #34 in the finance app category.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Ruling Allows Banks to Custody Crypto]]></title>
-        <id>https://thedefiant.io/news/regulation/sec-ruling-allows-banks-to-custody-crypto</id>
-        <link href="https://thedefiant.io/news/regulation/sec-ruling-allows-banks-to-custody-crypto"/>
-        <updated>2025-01-24T21:00:58.000Z</updated>
-        <summary type="html"><![CDATA[By reversing its SAB121 Guidance, the Securities and Exchange Commission is allowing banks to keep customer’s crypto in their own balance sheets.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. House Oversight Committee, Led by James Comer, Probes Debanking Claims Against Major Crypto Firms]]></title>
-        <id>https://thedefiant.io/news/regulation/u-s-house-oversight-committee-led-james-comer-probes-debanking-claims-against-65c5bf21</id>
-        <link href="https://thedefiant.io/news/regulation/u-s-house-oversight-committee-led-james-comer-probes-debanking-claims-against-65c5bf21"/>
-        <updated>2025-01-24T21:00:32.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. House Oversight Committee, led by Chairman James Comer, has initiated an investigation into allegations of 'debanking' within the tech and cryptocurrency sectors.]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wall Street CEOs Ready to Expand Crypto Investments, CNBC Reports; Bank of America Eager for Regulatory Approval]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/wall-street-ceos-ready-to-expand-crypto-investments-cnbc-reports-bank-america-29ee4a7e</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/wall-street-ceos-ready-to-expand-crypto-investments-cnbc-reports-bank-america-29ee4a7e"/>
-        <updated>2025-01-24T20:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Wall Street CEOs are reportedly prepared to significantly increase their investments in cryptocurrency, according to a report by CNBC]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>
