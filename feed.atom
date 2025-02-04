@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-04T09:16:46.245Z</id>
+    <id>urn:2025-02-04T10:17:04.935Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-04T09:16:46.245Z</updated>
+    <updated>2025-02-04T10:17:04.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Raydium Monthly Volume Surpassed Uniswap for the First Time in January]]></title>
+        <id>https://thedefiant.io/news/defi/raydium-monthly-volume-surpassed-uniswap-for-the-first-time-in-january</id>
+        <link href="https://thedefiant.io/news/defi/raydium-monthly-volume-surpassed-uniswap-for-the-first-time-in-january"/>
+        <updated>2025-02-04T10:09:52.000Z</updated>
+        <summary type="html"><![CDATA[Raydium processed 27.11% of all DEX volume in January compared to Uniswap’s 21.96%.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenSea’s V2 Beta Testers Accuse the Platform of Copying Blur]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/opensea-s-v2-beta-testers-accuse-the-platform-of-copying-blur</id>
@@ -850,7 +860,7 @@
         <id>https://thedefiant.io/news/markets/deepseek-ai-debut-sparks-crypto-market-sell-off-amid-rising-tech-competition</id>
         <link href="https://thedefiant.io/news/markets/deepseek-ai-debut-sparks-crypto-market-sell-off-amid-rising-tech-competition"/>
         <updated>2025-01-27T22:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin and Ethereum fall as investors react to China joining the AI race.]]></summary>
+        <summary type="html"><![CDATA[The release of DeepSeek, a Chinese artificial intelligence (AI) model designed to rival OpenAI's ChatGPT, triggered a sell-off in U.S. tech stocks, bringing crypto down too. But analysts say cheaper AI may actually be good news for the space.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -1013,16 +1023,6 @@
         <summary type="html"><![CDATA[BlackRock Inc]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Volatility Continues as Bitcoin Hovers Around $105,000]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-market-volatility-continues-as-bitcoin-hovers-around-usd105-000</id>
-        <link href="https://thedefiant.io/news/markets/crypto-market-volatility-continues-as-bitcoin-hovers-around-usd105-000"/>
-        <updated>2025-01-24T22:29:54.000Z</updated>
-        <summary type="html"><![CDATA[While Bitcoin and other major cryptocurrencies posted gains, investor sentiment remains mixed as major questions about crypto regulation persist.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
     <entry>
