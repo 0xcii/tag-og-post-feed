@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/flash-crash-and-rebound-leave-crypto-in-recovery-mode",
+          "author": "Leo Jakobson",
+          "description": "After the crypto markets crashed during Asian trading hours, U.S. traders woke up to a bloodbath with record liquidations.",
+          "link": "https://thedefiant.io/news/markets/flash-crash-and-rebound-leave-crypto-in-recovery-mode",
+          "publishedOn": "2025-02-04T11:02:46.000Z",
+          "wordCount": 3459,
+          "title": "Flash Crash and Rebound Leave Crypto In Recovery Mode",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5943cdc4ecaafedc7b9ebab940c2808de60574a9-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5943cdc4ecaafedc7b9ebab940c2808de60574a9-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-dominance-hits-new-cycle-high",
+          "author": "Squiffs",
+          "description": "At 61.6%, the closely-watched BTC.D metric just hit its highest level since March 2021.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-dominance-hits-new-cycle-high",
+          "publishedOn": "2025-02-04T10:27:51.000Z",
+          "wordCount": 3154,
+          "title": "Bitcoin Dominance Hits New Cycle High",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a2283f07d1b629df99855e800da7615ca95bc13c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a2283f07d1b629df99855e800da7615ca95bc13c-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/raydium-monthly-volume-surpassed-uniswap-for-the-first-time-in-january",
           "author": "Joel Lim",
           "description": "Raydium processed 27.11% of all DEX volume in January compared to Uniswap’s 21.96%.",
@@ -185,7 +215,7 @@
           "description": "ETH accounted for $628M in liquidations, while BTC recorded $460M.",
           "link": "https://thedefiant.io/news/markets/bitcoin-plunges-to-usd92-000-as-trump-s-tariffs-spark-crypto-market-crash",
           "publishedOn": "2025-02-03T17:38:24.000Z",
-          "wordCount": 3419,
+          "wordCount": 3404,
           "title": "Bitcoin Plunges to $92,000 as Trump’s Tariffs Spark Crypto Market Crash",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/518cc7117b7a1277e925379e139a14ed6927cb21-1555x875.png",
@@ -230,7 +260,7 @@
           "description": "The exchange rate between Ethereum (ETH) and Bitcoin (BTC), known as ETH/BTC, has reached new 4-year lows not seen since 2020",
           "link": "https://thedefiant.io/news/markets/eth-btc-exchange-rate-hits-0-027-lowest-since-2020-37-65-eth-per-btc-76447188",
           "publishedOn": "2025-02-03T10:00:24.000Z",
-          "wordCount": 3148,
+          "wordCount": 3131,
           "title": "ETH/BTC Exchange Rate Hits 0.027, Lowest Since 2020 at 37.65 ETH per BTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ed7830f2a5275101b0dab318f358c27aff17353a-1119x1200.jpg",
@@ -275,7 +305,7 @@
           "description": "The cryptocurrency market experienced a historic liquidation event over the past 24 hours",
           "link": "https://thedefiant.io/news/markets/crypto-market-sees-record-2-23-billion-liquidation-largest-single-day-event-amid-cb8d84ba",
           "publishedOn": "2025-02-03T09:30:16.000Z",
-          "wordCount": 3210,
+          "wordCount": 3194,
           "title": "Crypto Market Sees Record $2.23 Billion Liquidation in Largest Single-Day Event Amid Trump's Tariffs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7db8c5b3b44dc4ffd4a4f1a952476d9896967ca9-1200x1044.jpg",
@@ -290,7 +320,7 @@
           "description": "The cryptocurrency market is currently experiencing a downturn, with reports indicating a total market cap decline of 6%",
           "link": "https://thedefiant.io/news/markets/cryptocurrency-market-total-cap-declines-6-amid-bloodbath-crypto-holders-eb288b22",
           "publishedOn": "2025-02-03T09:21:37.000Z",
-          "wordCount": 3092,
+          "wordCount": 3076,
           "title": "Cryptocurrency Market Total Cap Declines 6% Amid Bloodbath for Crypto Holders",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/efe512d43308bad36d32961c51dbd30fcf12b3cb-1152x638.png",
@@ -305,7 +335,7 @@
           "description": "Ethereum experienced a significant decline in its value, dropping as much as 33% within a few hours on Monday, described as a 'Black Sunday' in the market",
           "link": "https://thedefiant.io/news/markets/ethereum-suffers-black-sunday-drop-33-steepest-four-years-due-to-tariffs-7d14cfde",
           "publishedOn": "2025-02-03T09:20:54.000Z",
-          "wordCount": 3188,
+          "wordCount": 3172,
           "title": "Ethereum Suffers 'Black Sunday' Drop of 33%, Steepest in Four Years Due to Tariffs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a69771184c5b122e83855df9a264c5c990e6119e-760x597.png",
@@ -410,7 +440,7 @@
           "description": "Bitcoin dipped to $103,000 while Ethereum briefly rallied above $3400.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-eke-out-weekly-gain-following-fed-s-rate-decision",
           "publishedOn": "2025-01-31T19:52:16.000Z",
-          "wordCount": 3349,
+          "wordCount": 3333,
           "title": "Crypto Markets Eke Out Weekly Gain Following Fed’s Rate Decision",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e568e67deda37e036e77fab5319e146a54d8df6b-1555x875.png",
@@ -560,7 +590,7 @@
           "description": "Bitcoin is up 2% to $105,000, while Ethereum and Solana surged 5%.",
           "link": "https://thedefiant.io/news/markets/crypto-market-extends-gains-after-fed-holds-rates-steady",
           "publishedOn": "2025-01-30T19:09:11.000Z",
-          "wordCount": 3308,
+          "wordCount": 3292,
           "title": "Crypto Market Extends Gains After Fed Holds Rates Steady",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e485fc22b3c173de439604fa93da760d1e06c948-1555x875.png",
@@ -770,7 +800,7 @@
           "description": "BTC, ETH, and SOL surged 3% after Fed Chair Powell’s press conference.",
           "link": "https://thedefiant.io/news/markets/crypto-market-rallies-after-federal-reserve-leaves-interest-rates-unchanged",
           "publishedOn": "2025-01-29T22:07:36.000Z",
-          "wordCount": 3259,
+          "wordCount": 3243,
           "title": "Crypto Market Rallies After Federal Reserve Leaves Interest Rates Unchanged",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d6643af5fd02e3cc6cd0af41b92af62e0e3bf6d0-1555x875.png",
@@ -1010,7 +1040,7 @@
           "description": "BlackRock increases its Bitcoin holdings, surpassing government reserves.",
           "link": "https://thedefiant.io/news/markets/blackrock-buys-usd1-billion-in-bitcoin-now-holds-2-7-of-total-supply",
           "publishedOn": "2025-01-28T23:27:04.000Z",
-          "wordCount": 3250,
+          "wordCount": 3234,
           "title": "BlackRock Buys $1 Billion in Bitcoin, Now Holds 2.7% of Total Supply",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/85ca1ad1a3b9e6d1428fa4bd8c8174503b97346f-1555x875.png",
@@ -1125,7 +1155,7 @@
           "description": "Bitcoin, Ethereum, and other top digital assets posted modest gains as liquidations decreased sharply from Monday's spike.",
           "link": "https://thedefiant.io/news/markets/cryptocurrency-market-rebounds-after-monday-s-deepseek-induced-drop",
           "publishedOn": "2025-01-28T21:24:20.000Z",
-          "wordCount": 3304,
+          "wordCount": 3288,
           "title": "Cryptocurrency Market Rebounds After Monday's DeepSeek-Induced Drop",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8dd48ccb69ae73ee1dab89b6a76cd875324ba2d5-1555x875.png",
@@ -1240,7 +1270,7 @@
           "description": "CoinShares weekly digital asset fund flow report noted broad-based inflows, with Bitcoin racking up $1.6 billion.",
           "link": "https://thedefiant.io/news/markets/crypto-funds-attracted-nearly-usd2-billion-following-trump-executive-order",
           "publishedOn": "2025-01-28T12:18:49.000Z",
-          "wordCount": 3418,
+          "wordCount": 3402,
           "title": "Crypto Funds Attracted Nearly $2 Billion Following Trump Executive Order",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4f5db5b860e49323fc50b9439d583c6620e026ff-1555x875.png",
@@ -1282,10 +1312,10 @@
         {
           "id": "https://thedefiant.io/news/markets/deepseek-ai-debut-sparks-crypto-market-sell-off-amid-rising-tech-competition",
           "author": "Jona Jaupi",
-          "description": "The release of DeepSeek, a Chinese artificial intelligence (AI) model designed to rival OpenAI's ChatGPT, triggered a sell-off in U.S. tech stocks, bringing crypto down too. But analysts say cheaper AI may actually be good news for the space.",
+          "description": "Bitcoin and Ethereum fall as investors react to China joining the AI race.",
           "link": "https://thedefiant.io/news/markets/deepseek-ai-debut-sparks-crypto-market-sell-off-amid-rising-tech-competition",
           "publishedOn": "2025-01-27T22:43:11.000Z",
-          "wordCount": 3659,
+          "wordCount": 3643,
           "title": "DeepSeek AI Debut Sparks Crypto Market Sell-Off Amid Rising Tech Competition",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/da49aaba01b8b468883c37742b22d8bafefab4b4-1555x875.png",
@@ -1400,7 +1430,7 @@
           "description": "Nearly $1 billion in liquidations occurred as the global crypto market reacted to the debut of DeepSeek.",
           "link": "https://thedefiant.io/news/markets/cryptocurrency-market-tumbles-7-following-release-of-chinese-ai-rival-to-chatgpt",
           "publishedOn": "2025-01-27T20:04:46.000Z",
-          "wordCount": 3478,
+          "wordCount": 3462,
           "title": "Cryptocurrency Market Tumbles 7% Following Release of Chinese AI Rival to ChatGPT",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b6510c1d62a7c328d223d44e52c11fae67a1abc0-1555x875.png",
@@ -1475,7 +1505,7 @@
           "description": "Data from Santiment shows mid-sized Bitcoin holders now number 15,777, fueling optimism for a bullish 2025.",
           "link": "https://thedefiant.io/news/markets/bitcoin-wallets-holding-100-to-1-000-btc-reach-record-high",
           "publishedOn": "2025-01-26T22:26:54.000Z",
-          "wordCount": 3383,
+          "wordCount": 3367,
           "title": "Bitcoin Wallets Holding 100 to 1,000 BTC Hit Record High",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1ab6a6f1f4fc45ab9521101750afddcec437fb07-1555x875.png",
@@ -1498,36 +1528,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/35d891a35927a4d1edf7a6ac43323f27af8e03ed-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/coinbase-s-brian-armstrong-calls-for-11-bitcoin-reserve",
-          "author": "Leo Jakobson",
-          "description": "Noting that Bitcoin’s market cap is about 11% of gold’s, he argued that it’s a reasonable amount and that he believes it will appreciate faster than gold.",
-          "link": "https://thedefiant.io/news/blockchains/coinbase-s-brian-armstrong-calls-for-11-bitcoin-reserve",
-          "publishedOn": "2025-01-24T22:41:26.000Z",
-          "wordCount": 3409,
-          "title": "Coinbase’s Brian Armstrong Calls For 11% Bitcoin Reserve",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8e3438a1ea2ebfbe2eca306f8d261162d0a05831-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8e3438a1ea2ebfbe2eca306f8d261162d0a05831-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-s-11-trillion-ishares-bitcoin-trust-ibit-files-kind-redemptions-nyse-7ee8d0d1",
-          "author": "DeepNewz",
-          "description": "BlackRock Inc",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-s-11-trillion-ishares-bitcoin-trust-ibit-files-kind-redemptions-nyse-7ee8d0d1",
-          "publishedOn": "2025-01-24T22:30:56.000Z",
-          "wordCount": 3092,
-          "title": "BlackRock's $11 Trillion iShares Bitcoin Trust ($IBIT) Files for In-Kind Redemptions, NYSE and Nasdaq Follow",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6cce2af0f5964c619a9798eef3d0a4b812199c95-896x496.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6cce2af0f5964c619a9798eef3d0a4b812199c95-896x496.png"
         }
       ]
     },
