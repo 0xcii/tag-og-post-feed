@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-05T10:17:02.707Z</id>
+    <id>urn:2025-02-05T11:12:57.198Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-05T10:17:02.707Z</updated>
+    <updated>2025-02-05T11:12:57.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1023,16 +1023,6 @@
         <summary type="html"><![CDATA[The industry needs a standardised framework to connect blockchain platforms to land registries - essentially a “SWIFT for real estate”]]></summary>
         <author>
             <name>Joshua Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sasa]]></title>
-        <id>https://medium.com/p/0b474e218c5d</id>
-        <link href="https://cryptohayes.medium.com/sasa-0b474e218c5d?source=rss-2f6e06954878------2"/>
-        <updated>2025-01-06T23:02:36.000Z</updated>
-        <summary type="html"><![CDATA[The backcountry gates at Hokkaido ski resorts offer excellent, mostly lift-accessible terrain. Early in the season, the burning question…]]></summary>
-        <author>
-            <name>Arthur Hayes</name>
         </author>
     </entry>
 </feed>
