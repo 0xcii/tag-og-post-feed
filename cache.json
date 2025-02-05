@@ -6,6 +6,16 @@
       "siteUrl": "https://medium.com/@cryptohayes?source=rss-2f6e06954878------2",
       "articles": [
         {
+          "id": "https://medium.com/p/348d557b4fd4",
+          "author": "Arthur Hayes",
+          "description": "Headquartered at Mar-a-Lago, the Pax Americana Make-A-Wish Corporation receives many supplicants. The crypto folks are lining up just like..",
+          "link": "https://cryptohayes.medium.com/the-genie-348d557b4fd4?source=rss-2f6e06954878------2",
+          "publishedOn": "2025-02-05T23:01:40.000Z",
+          "wordCount": 13417,
+          "title": "The Genie",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*rrZx8UKsqPkBkdRR.png"
+        },
+        {
           "id": "https://medium.com/p/dfba4f46ebd4",
           "author": "Arthur Hayes",
           "description": "“Stop — thirty-meter spacing on this face,” were the instructions from my guide as we abruptly slowed our pace skiing up a dormant volcano..",
@@ -34,6 +44,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/blockchains/megaeth-announces-ico-via-soulbound-nft-mint",
+          "author": "Squiffs",
+          "description": "The Vitalik-backed blockchain will allocate a minimum of 5% of its token supply to 10,000 soulbound NFTs.",
+          "link": "https://thedefiant.io/news/blockchains/megaeth-announces-ico-via-soulbound-nft-mint",
+          "publishedOn": "2025-02-05T22:42:38.000Z",
+          "wordCount": 3309,
+          "title": "MegaETH Announces ICO via Soulbound NFT Mint",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/efbc0794fa7c0fec6b81d5d98a4a7e6fec5aedf4-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/efbc0794fa7c0fec6b81d5d98a4a7e6fec5aedf4-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/regulation/uae-embrace-shiba-inu-as-web3-project-platform",
           "author": "Leo Jakobson",
@@ -1185,7 +1210,7 @@
           "description": "Cardano is set to undergo a significant transition to full decentralized governance with the activation of the Plomin hard fork today",
           "link": "https://thedefiant.io/news/blockchains/cardano-s-plomin-hard-fork-goes-live-granting-ada-holders-voting-power-voting-32641844",
           "publishedOn": "2025-01-29T21:00:54.000Z",
-          "wordCount": 3147,
+          "wordCount": 3136,
           "title": "Cardano's Plomin Hard Fork Goes Live, Granting $ADA Holders Voting Power; Voting Ends January 30th",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9c6b1922c63238bb374a2958e1a7c5db0dfbc323-1080x1080.png",
@@ -1257,7 +1282,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/trump-media-launches-truthfi-fintech-with-eye-on-crypto",
           "author": "Jona Jaupi",
-          "description": "TMTG to allocate up to $250 million into Bitcoin, ETFs, and other financial assets.",
+          "description": "Trump Media & Technology Group (TMTG), the parent company of Truth Social, announced on Wednesday the launch of TruthFi, a new fintech venture focused on the cryptocurrency space.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/trump-media-launches-truthfi-fintech-with-eye-on-crypto",
           "publishedOn": "2025-01-29T18:42:55.000Z",
           "wordCount": 3600,
@@ -1275,7 +1300,7 @@
           "description": "Ethereum's network is experiencing a resurgence, with active addresses increasing by 37% to 575,000, up from a low of 420,000 in November",
           "link": "https://thedefiant.io/news/blockchains/ethereum-active-addresses-surge-37-to-575k-1-3m-daily-transactions-world-liberty-dec08101",
           "publishedOn": "2025-01-29T18:15:51.000Z",
-          "wordCount": 3172,
+          "wordCount": 3169,
           "title": "Ethereum Active Addresses Surge 37% to 575K with 1.3M Daily Transactions as World Liberty Financial Invests $47M",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/607e016c92e31e07009cf8a1c3a38ee5f8ac06db-1082x518.jpg",
@@ -1470,7 +1495,7 @@
           "description": "The Movement Network Foundation has officially launched its developer mainnet, marking a significant step towards integrating Facebook's Move Virtual Machine with the Ethereum blockchain",
           "link": "https://thedefiant.io/news/blockchains/movement-network-foundation-launches-developer-mainnet-plans-mid-february-public-0748cd93",
           "publishedOn": "2025-01-28T22:00:14.000Z",
-          "wordCount": 3180,
+          "wordCount": 3177,
           "title": "Movement Network Foundation Launches Developer Mainnet, Plans Mid-February Public Beta and 'Cornucopia' Liquidity Program with BTC, ETH, $MOVE",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f1274a60bb5075ad4ce3ced8bcaadefee64cafaf-1200x1200.jpg",
@@ -1503,16 +1528,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8dd48ccb69ae73ee1dab89b6a76cd875324ba2d5-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/symbiotic-launches-first-fully-permissionless-restaking-protocol-on-ethereum-two-5af7c2ad",
-          "author": "DeepNewz",
-          "description": "Symbiotic has officially launched its first fully permissionless and modular restaking protocol on the Ethereum mainnet",
-          "link": "https://thedefiant.io/news/defi/symbiotic-launches-first-fully-permissionless-restaking-protocol-on-ethereum-two-5af7c2ad",
-          "publishedOn": "2025-01-28T21:00:29.000Z",
-          "wordCount": 3091,
-          "title": "Symbiotic Launches First Fully Permissionless Restaking Protocol on Ethereum Mainnet After Two Years of Development",
-          "imageUrl": null
         }
       ]
     },
