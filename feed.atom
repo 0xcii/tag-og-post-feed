@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-05T12:32:06.329Z</id>
+    <id>urn:2025-02-05T13:21:37.388Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-05T12:32:06.329Z</updated>
+    <updated>2025-02-05T13:21:37.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Increases Gas Limit, Enabling More Transactions Per Block]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-increases-gas-limit-enabling-more-transactions-per-block</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-increases-gas-limit-enabling-more-transactions-per-block"/>
+        <updated>2025-02-05T13:02:32.000Z</updated>
+        <summary type="html"><![CDATA[A proposal to increase the gas limit from 30 million to 36 million passed yesterday, increasing the transaction capacity of each Ethereum block.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sygnum Researchers Say Ethereum Will Be Biggest Beneficiary of Regulatory Clarity]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/sygnum-researchers-say-ethereum-will-be-biggest-beneficiary-of-regulatory-clarity</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/bitcoin-s-ordinals-plummet-to-lowest-levels-since-february-2024</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/bitcoin-s-ordinals-plummet-to-lowest-levels-since-february-2024"/>
         <updated>2025-01-28T23:20:44.000Z</updated>
-        <summary type="html"><![CDATA[The top Ordinals collections are struggling as volume dives.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin ordinals, which are akin to non-fungible tokens (NFTs) on the Bitcoin network, are suffering as the leading collections trend down to their lowest prices in nearly a year.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -1013,16 +1023,6 @@
         <summary type="html"><![CDATA[“Stop — thirty-meter spacing on this face,” were the instructions from my guide as we abruptly slowed our pace skiing up a dormant volcano..]]></summary>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana-Based Social-Fi Protocol Tribe.Run Takes Off]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/solana-based-social-fi-protocol-tribe-run-takes-off</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/solana-based-social-fi-protocol-tribe-run-takes-off"/>
-        <updated>2025-01-27T22:58:12.000Z</updated>
-        <summary type="html"><![CDATA[The FriendTech-inspired social-fi protocol allows users to buy and sell access to token-gated chats on Solana.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
