@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/florida-bill-senator-joe-gruters-allow-1-5-billion-investment-bitcoin-10-cap-eda0558b",
+          "author": "DeepNewz",
+          "description": "Florida is considering a new bill, SB 550, introduced by Senator Joe Gruters, which would permit the state to invest public funds in Bitcoin as a strategic asset",
+          "link": "https://thedefiant.io/news/regulation/florida-bill-senator-joe-gruters-allow-1-5-billion-investment-bitcoin-10-cap-eda0558b",
+          "publishedOn": "2025-02-10T16:40:06.000Z",
+          "wordCount": 3205,
+          "title": "Florida Bill by Senator Joe Gruters Could Allow $1.5 Billion Investment in Bitcoin with 10% Cap",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ccc26ebc7782d75c807adbd593128229bc61a6b8-1200x392.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ccc26ebc7782d75c807adbd593128229bc61a6b8-1200x392.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/balancer-v3-launches-on-arbitrum-with-aave-integration",
           "author": "Leo Jakobson",
           "description": "Balancer V3 uses 100% boosted liquidity pools, deploying idle capital on yield-generating platforms like Aave.",
@@ -1513,21 +1528,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8e1fe63533b4a8e99e2e54dd871141d57be96760-1200x675.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/circle-launches-native-usdc-on-aptos-introduces-cctp-10-blockchains-8fa59bbc",
-          "author": "DeepNewz",
-          "description": "Circle has announced the launch of native USDC on the Aptos blockchain, marking a significant development for the Aptos ecosystem",
-          "link": "https://thedefiant.io/news/defi/circle-launches-native-usdc-on-aptos-introduces-cctp-10-blockchains-8fa59bbc",
-          "publishedOn": "2025-01-30T18:00:27.000Z",
-          "wordCount": 3176,
-          "title": "Circle Launches Native USDC on Aptos, Introduces CCTP for 10 Blockchains",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f9e15b5d36198d25915723a7256dfb8b8172a224-1200x627.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f9e15b5d36198d25915723a7256dfb8b8172a224-1200x627.jpg"
         }
       ]
     },
