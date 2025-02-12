@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/wazirx-to-issue-new-cryptocurrency-to-compensate-users-after-usd230-million-breach",
+          "author": "Joel Lim",
+          "description": "WazirX’s founder said they would list the new crypto if users were interested.",
+          "link": "https://thedefiant.io/news/hacks/wazirx-to-issue-new-cryptocurrency-to-compensate-users-after-usd230-million-breach",
+          "publishedOn": "2025-02-12T02:15:09.000Z",
+          "wordCount": 3337,
+          "title": "WazirX To Issue New Cryptocurrency To Compensate Users After $230 Million Breach",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d1b89056a8f739563587e2c3182cf4b0e1ff0571-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d1b89056a8f739563587e2c3182cf4b0e1ff0571-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/ton-integrates-layerzero-cross-chain-transfers-across-100-blockchains-tether-on-90aa4c64",
+          "author": "DeepNewz",
+          "description": "The Open Network (TON) has integrated with LayerZero, an interoperability protocol, to facilitate cross-chain asset transfers across more than 100 blockchains, including Ethereum, Solana, and Tron",
+          "link": "https://thedefiant.io/news/blockchains/ton-integrates-layerzero-cross-chain-transfers-across-100-blockchains-tether-on-90aa4c64",
+          "publishedOn": "2025-02-11T22:00:49.000Z",
+          "wordCount": 3274,
+          "title": "TON Integrates with LayerZero for Cross-Chain Transfers Across 100+ Blockchains, Tether Launches USDT0 on Arbitrum to Connect $138 Billion USDT",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/eb41530805aebcac4be1b9492a03e462218d6792-1024x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/eb41530805aebcac4be1b9492a03e462218d6792-1024x1024.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/rocket-pool-extends-price-rally-amid-saturn-devnet-launch",
           "author": "Joel Lim",
           "description": "The Ethereum liquid staking protocol’s RPL token has surged by over 50% in the last three days.",
@@ -1247,7 +1277,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/coinbase-users-were-scammed-out-of-usd65-million-in-a-month-according-to-zachxbt",
           "author": "Joel Lim",
-          "description": "Scammers convince users of unauthorized login attempts on their account and tell them to move their funds to another Coinbase wallet.",
+          "description": "Renowned blockchain investigator ZachXBT says Coinbase, the largest U.S.-based centralized crypto exchange, has failed to end social engineering scams on its platform, resulting in over $300 million worth of losses per year, according to a Feb. 3 X post thread.",
           "link": "https://thedefiant.io/news/hacks/coinbase-users-were-scammed-out-of-usd65-million-in-a-month-according-to-zachxbt",
           "publishedOn": "2025-02-04T23:07:19.000Z",
           "wordCount": 3498,
@@ -1277,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/markets/animal-spirits-in-crypto-whipsaw-from-fear-to-greed-as-tariffs-concerns-recede",
           "author": "Leo Jakobson",
-          "description": "The Crypto Fear and Greed Index whipsawed back to greed after a day deep in fear territory.",
+          "description": "The Crypto Fear and Greed Index fell to 44 before jumping back all the way to 72 today.",
           "link": "https://thedefiant.io/news/markets/animal-spirits-in-crypto-whipsaw-from-fear-to-greed-as-tariffs-concerns-recede",
           "publishedOn": "2025-02-04T21:04:17.000Z",
           "wordCount": 3310,
@@ -1493,36 +1523,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d1f072c1c1ee70664f3266841b58d9a502b6e314-760x626.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/thorchain-proposes-tcy-equity-tokens-to-address-usd200-million-debt-crisis",
-          "author": "Jona Jaupi",
-          "description": "THORChain’s native token, RUNE, rebounded after sharp losses following the platform’s new debt plan",
-          "link": "https://thedefiant.io/news/blockchains/thorchain-proposes-tcy-equity-tokens-to-address-usd200-million-debt-crisis",
-          "publishedOn": "2025-02-03T21:57:45.000Z",
-          "wordCount": 3429,
-          "title": "THORChain Proposes TCY Equity Tokens to Address $200 Million Debt Crisis",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/142232a4352de461e6e266817167388429e7e92f-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/142232a4352de461e6e266817167388429e7e92f-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/tokenized-real-world-assets-hit-all-time-high-of-usd17-billion",
-          "author": "Leo Jakobson",
-          "description": "With the legal and technological frameworks falling into place, the sector could grow to $600 billion by 2030, predicts Boston Consulting Group.",
-          "link": "https://thedefiant.io/news/defi/tokenized-real-world-assets-hit-all-time-high-of-usd17-billion",
-          "publishedOn": "2025-02-03T21:46:04.000Z",
-          "wordCount": 3450,
-          "title": "Tokenized Real-World Assets Hit All-time High of $17 Billion",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ba508152401cb67d52637802b2ac210d2c41bb11-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ba508152401cb67d52637802b2ac210d2c41bb11-1555x875.png"
         }
       ]
     },
