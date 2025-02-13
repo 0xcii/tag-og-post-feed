@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-13T10:17:17.256Z</id>
+    <id>urn:2025-02-13T11:13:23.695Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-13T10:17:17.256Z</updated>
+    <updated>2025-02-13T11:13:23.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BNB Rallies 23% in a Week, Outshines Bitcoin Amid Rising Activity]]></title>
+        <id>https://thedefiant.io/news/blockchains/bnb-rallies-23-in-a-week-outshines-bitcoin-amid-rising-activity</id>
+        <link href="https://thedefiant.io/news/blockchains/bnb-rallies-23-in-a-week-outshines-bitcoin-amid-rising-activity"/>
+        <updated>2025-02-13T11:03:28.000Z</updated>
+        <summary type="html"><![CDATA[Experts say the surge is driven by BNB Chain growth and the unexpected popularity of the TST memecoin.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zero Knowledge Proof]]></title>
         <id>https://medium.com/p/75956024e4af</id>
@@ -860,7 +870,7 @@
         <id>https://thedefiant.io/news/regulation/uae-embrace-shiba-inu-as-web3-project-platform</id>
         <link href="https://thedefiant.io/news/regulation/uae-embrace-shiba-inu-as-web3-project-platform"/>
         <updated>2025-02-05T22:07:59.000Z</updated>
-        <summary type="html"><![CDATA[Shiba Inu took another step away from its memecoin roots yesterday when the United Arab Emirates (UAE) announced a partnership with the token to bring innovative Web3 solutions to the federal government.]]></summary>
+        <summary type="html"><![CDATA[The United Arab Emirates’ Ministry of Energy and Infrastructure has signed a deal to build projects designed to unify development on ShibOS.]]></summary>
         <author>
             <name>Leo Jakobson</name>
         </author>
@@ -1011,16 +1021,6 @@
         <link href="https://thedefiant.io/news/markets/ethereum-etfs-volume-surges-as-eth-btc-plunges-to-lowest-since-2021"/>
         <updated>2025-02-04T20:51:58.000Z</updated>
         <summary type="html"><![CDATA[The plunging ETH price relative to BTC is sparking investor interest.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Tops $100,000 as Crypto Market Rebounds Amid Tariff Uncertainty]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-tops-usd100-000-as-crypto-market-rebounds-amid-tariff-uncertainty</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-tops-usd100-000-as-crypto-market-rebounds-amid-tariff-uncertainty"/>
-        <updated>2025-02-04T19:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin, Ethereum, and Solana surge as the market recovers from recent losses triggered by Trump's tariff announcements.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
