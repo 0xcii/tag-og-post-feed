@@ -55,6 +55,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/solana-proposal-to-pay-full-priority-fees-to-validators-goes-live",
+          "author": "Joel Lim",
+          "description": "Solana Validators will now receive 100% of priority fees under the new model rather than 50%.",
+          "link": "https://thedefiant.io/news/blockchains/solana-proposal-to-pay-full-priority-fees-to-validators-goes-live",
+          "publishedOn": "2025-02-13T12:04:17.000Z",
+          "wordCount": 3320,
+          "title": "Solana Proposal to Pay Full Priority Fees to Validators Goes Live",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4d8af56f5b03fc24932868ddedf81662b8a20bcd-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4d8af56f5b03fc24932868ddedf81662b8a20bcd-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/cftc-commissioner-says-election-prediction-markets-are-here-to-stay",
+          "author": "Leo Jakobson",
+          "description": "Commissioner Summer Mersinger said in a policy seminar that the CFTC must take a more “pro-innovator” approach.",
+          "link": "https://thedefiant.io/news/regulation/cftc-commissioner-says-election-prediction-markets-are-here-to-stay",
+          "publishedOn": "2025-02-13T11:48:51.000Z",
+          "wordCount": 3399,
+          "title": "CFTC Commissioner Says Election Prediction Markets ‘Are Here to Stay’",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0a443b6467041ba4a0d40d025b652418cfb028e7-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0a443b6467041ba4a0d40d025b652418cfb028e7-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/sky-mavis-makes-ronin-gaming-blockchain-permissionless",
+          "author": "Leo Jakobson",
+          "description": "The team behind Axie Infinity is relinquishing control to increase ecosystem growth.",
+          "link": "https://thedefiant.io/news/blockchains/sky-mavis-makes-ronin-gaming-blockchain-permissionless",
+          "publishedOn": "2025-02-13T11:30:34.000Z",
+          "wordCount": 3304,
+          "title": "Sky Mavis Makes Ronin Gaming Blockchain Permissionless",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1d411dfc22cb52e23921ca737e628e0fc4495b00-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1d411dfc22cb52e23921ca737e628e0fc4495b00-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/bnb-rallies-23-in-a-week-outshines-bitcoin-amid-rising-activity",
           "author": "Jona Jaupi",
           "description": "Experts say the surge is driven by BNB Chain growth and the unexpected popularity of the TST memecoin.",
@@ -90,7 +135,7 @@
           "description": "The movement to integrate BTC into state financial strategies gains momentum as Oklahoma joins Arizona and Utah in advancing SBR legislation.",
           "link": "https://thedefiant.io/news/regulation/arizona-utah-and-oklahoma-take-the-lead-in-strategic-bitcoin-reserves-legislation",
           "publishedOn": "2025-02-12T21:49:16.000Z",
-          "wordCount": 3992,
+          "wordCount": 3996,
           "title": "Arizona, Utah, and Oklahoma Take the Lead in Strategic Bitcoin Reserves Legislation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a759744bcfe516fa62f3076578085e75c4e53b28-1555x875.png",
@@ -345,7 +390,7 @@
           "description": "Federal Reserve Chair Jerome Powell has expressed his support for the establishment of a regulatory framework surrounding stablecoins",
           "link": "https://thedefiant.io/news/regulation/fed-chair-powell-supports-regulatory-framework-stablecoins-c44789bf",
           "publishedOn": "2025-02-11T18:53:22.000Z",
-          "wordCount": 3103,
+          "wordCount": 3104,
           "title": "Fed Chair Powell Supports Regulatory Framework for Stablecoins",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f08fc68ebe37fef8629dbc0ab07d8bd599d2d784-1024x683.jpg",
@@ -540,7 +585,7 @@
           "description": "Legislation aimed at regulating cryptocurrencies in the United States is set to progress, with all four congressional committees overseeing crypto regulation—Senate Banking, House Financial Services, Senate Agriculture, and House Agriculture—aligned on the issue",
           "link": "https://thedefiant.io/news/regulation/u-s-congress-to-pass-stablecoin-regulation-six-months-genius-act-introduced-28faac88",
           "publishedOn": "2025-02-10T21:00:39.000Z",
-          "wordCount": 3217,
+          "wordCount": 3218,
           "title": "U.S. Congress to Pass Stablecoin Regulation in Six Months, GENIUS Act Introduced",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1c7a20399446c81a07648ca9a8bf8c39bfadab83-860x484.png",
@@ -585,7 +630,7 @@
           "description": "James Howells, a British man who lost access to a hard drive containing 8,000 bitcoins, valued at approximately £620 million ($768 million), is seeking to purchase the Newport landfill where the hard drive was discarded",
           "link": "https://thedefiant.io/news/regulation/james-howells-seeks-to-buy-newport-landfill-containing-8000-bitcoins-worth-768-85ba9211",
           "publishedOn": "2025-02-10T20:00:19.000Z",
-          "wordCount": 3259,
+          "wordCount": 3260,
           "title": "James Howells Seeks to Buy Newport Landfill Containing 8,000 Bitcoins Worth $768 Million Ahead of 2025-26 Closure",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d19c54648e9edb48eae2d16231f043586701edc7-1024x1024.jpg",
@@ -735,7 +780,7 @@
           "description": "Florida is considering a new bill, SB 550, introduced by Senator Joe Gruters, which would permit the state to invest public funds in Bitcoin as a strategic asset",
           "link": "https://thedefiant.io/news/regulation/florida-bill-senator-joe-gruters-allow-1-5-billion-investment-bitcoin-10-cap-eda0558b",
           "publishedOn": "2025-02-10T16:40:06.000Z",
-          "wordCount": 3203,
+          "wordCount": 3204,
           "title": "Florida Bill by Senator Joe Gruters Could Allow $1.5 Billion Investment in Bitcoin with 10% Cap",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ccc26ebc7782d75c807adbd593128229bc61a6b8-1200x392.jpg",
@@ -810,7 +855,7 @@
           "description": "Japan's Financial Services Agency (FSA) has requested Apple and Google to remove apps of five unregistered overseas cryptocurrency exchanges from their app stores in the country",
           "link": "https://thedefiant.io/news/regulation/japan-s-fsa-requests-apple-to-remove-bybit-mexc-lbank-kucoin-bitget-apps-first-1669c3b1",
           "publishedOn": "2025-02-08T02:00:17.000Z",
-          "wordCount": 3221,
+          "wordCount": 3222,
           "title": "Japan's FSA Requests Apple to Remove Bybit, MEXC, LBank, KuCoin, Bitget Apps in First Such Action",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/123321224d40d1a0c40d7317f7a92de00bddff9b-1024x1024.jpg",
@@ -825,7 +870,7 @@
           "description": "The U.S. Securities and Exchange Commission (SEC) has postponed its decision regarding options trading for BlackRock’s iShares Ethereum Trust.",
           "link": "https://thedefiant.io/news/regulation/sec-delays-decision-on-nasdaq-s-proposal-blackrocks-ishares-ethereum-trust-until-8c2e94dc",
           "publishedOn": "2025-02-08T01:00:11.000Z",
-          "wordCount": 3139,
+          "wordCount": 3140,
           "title": "SEC Delays Decision on Nasdaq's Proposal for BlackRock’s iShares Ethereum Trust Options Trading Until April 9, 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1341fc6815b249951f7eed2c183ea8b73dcb731f-1200x1200.jpg",
@@ -945,7 +990,7 @@
           "description": "The U.S. Commodity Futures Trading Commission (CFTC), under Acting Chair Caroline Pham, is hosting two major initiatives to address regulatory approaches in emerging markets.",
           "link": "https://thedefiant.io/news/regulation/cftc-to-review-prediction-markets-launch-digital-asset-pilot-6ee0398a",
           "publishedOn": "2025-02-07T20:29:33.000Z",
-          "wordCount": 3290,
+          "wordCount": 3291,
           "title": "CFTC to Review Prediction Markets and Launch Digital Asset Pilot",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f2dbd314d1126350c55055d9f345a8ed78363e2a-1138x982.jpg",
@@ -1005,7 +1050,7 @@
           "description": "Maryland has become the latest state to file for a strategic Bitcoin reserve, joining a growing list of states advocating for similar measures",
           "link": "https://thedefiant.io/news/regulation/maryland-s-caylin-young-files-strategic-bitcoin-reserve-act-joining-18-states-e4185dd4",
           "publishedOn": "2025-02-07T18:27:54.000Z",
-          "wordCount": 3139,
+          "wordCount": 3140,
           "title": "Maryland's Caylin Young Files Strategic Bitcoin Reserve Act, Joining 18 States",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/85f14b9beba9fbab996b449b4d70647147ac6d31-1200x970.jpg",
@@ -1125,7 +1170,7 @@
           "description": "Czech President Petr Pavel has signed a new law that eliminates the capital gains tax on Bitcoin for holdings over three years",
           "link": "https://thedefiant.io/news/regulation/czech-president-petr-pavel-signs-law-eliminating-capital-gains-tax-on-bitcoin-3-be629267",
           "publishedOn": "2025-02-06T21:00:07.000Z",
-          "wordCount": 3171,
+          "wordCount": 3172,
           "title": "Czech President Petr Pavel Signs Law Eliminating Capital Gains Tax on Bitcoin for HODLERS After 3+ Years",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/428f0b710700e96f40da9e0a47b46b380ac2c6ea-1200x678.jpg",
@@ -1185,7 +1230,7 @@
           "description": "Public Citizen, a U.S. nonprofit watchdog group, has filed a formal complaint with the Department of Justice and the Office of Government Ethics",
           "link": "https://thedefiant.io/news/regulation/public-citizen-urges-doj-probe-into-trump-s-trump-token-promotion-over-gift-e2c80464",
           "publishedOn": "2025-02-06T19:00:20.000Z",
-          "wordCount": 3239,
+          "wordCount": 3240,
           "title": "Public Citizen Urges DOJ Probe Into Trump's TRUMP Token Promotion Over Gift Solicitation, Foreign Payment Concerns",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/45a0e0c97ff7f30f504e568fe84581ed24f7ab85-1024x1024.jpg",
@@ -1300,7 +1345,7 @@
           "description": "The United Arab Emirates’ Ministry of Energy and Infrastructure has signed a deal to build projects designed to unify development on ShibOS.",
           "link": "https://thedefiant.io/news/regulation/uae-embrace-shiba-inu-as-web3-project-platform",
           "publishedOn": "2025-02-05T22:07:59.000Z",
-          "wordCount": 3517,
+          "wordCount": 3521,
           "title": "UAE Embrace Shiba Inu as Web3 Project Platform",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ad86b6415ca67b94452d9bedd5633ed1f6e82757-1555x875.png",
@@ -1375,7 +1420,7 @@
           "description": "Senator Elizabeth Warren has acknowledged that former President Donald Trump was correct in identifying issues related to the debanking practices of major financial institutions, including Bank of America, JPMorgan, Wells Fargo, and Citibank",
           "link": "https://thedefiant.io/news/regulation/elizabeth-warren-acknowledges-trump-s-criticism-bank-america-debanking-practices-fe147f8d",
           "publishedOn": "2025-02-05T19:00:44.000Z",
-          "wordCount": 3255,
+          "wordCount": 3256,
           "title": "Elizabeth Warren Acknowledges Trump's Criticism of Bank of America Debanking Practices Affecting Four Big Banks Accounting for Half of All Complaints",
           "imageUrl": null
         },
@@ -1460,7 +1505,7 @@
           "description": "A stablecoin bill will likely precede broader market regulation to President Donald Trump’s desk, and a bitcoin reserve will be a priority.",
           "link": "https://thedefiant.io/news/regulation/crypto-czar-david-sacks-says-stablecoin-bill-and-bitcoin-reserve-are-priorities",
           "publishedOn": "2025-02-04T23:33:40.000Z",
-          "wordCount": 3729,
+          "wordCount": 3733,
           "title": "Crypto Czar David Sacks Says Stablecoin Bill and Bitcoin Reserve are Priorities",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4122e055afa7227037f3994e81c58a3a6c8a802d-1555x875.png",
@@ -1483,51 +1528,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/787a225e0f7835d549738fc82563163b1fe552f6-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/berachain-to-launch-mainnet-and-airdrop-on-feb-6",
-          "author": "Squiffs",
-          "description": "The highly anticipated Proof-of-Liquidity Layer 1 ecosystem is set to launch its token and mainnet later this week.",
-          "link": "https://thedefiant.io/news/blockchains/berachain-to-launch-mainnet-and-airdrop-on-feb-6",
-          "publishedOn": "2025-02-04T21:15:52.000Z",
-          "wordCount": 3327,
-          "title": "Berachain to Launch Mainnet and Airdrop on Feb. 6",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4baa7adf3ccb2fedc7a84255883d01dd95358bb0-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4baa7adf3ccb2fedc7a84255883d01dd95358bb0-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/animal-spirits-in-crypto-whipsaw-from-fear-to-greed-as-tariffs-concerns-recede",
-          "author": "Leo Jakobson",
-          "description": "The Crypto Fear and Greed Index fell to 44 before jumping back all the way to 72 today.",
-          "link": "https://thedefiant.io/news/markets/animal-spirits-in-crypto-whipsaw-from-fear-to-greed-as-tariffs-concerns-recede",
-          "publishedOn": "2025-02-04T21:04:17.000Z",
-          "wordCount": 3310,
-          "title": "Animal Spirits in Crypto Whipsaw From Fear to Greed As Tariffs Concerns Recede",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6bfaa975c6296f18530560fd974ce2f09b0367fd-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6bfaa975c6296f18530560fd974ce2f09b0367fd-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/ethereum-etfs-volume-surges-as-eth-btc-plunges-to-lowest-since-2021",
-          "author": "Jona Jaupi",
-          "description": "The plunging ETH price relative to BTC is sparking investor interest.",
-          "link": "https://thedefiant.io/news/markets/ethereum-etfs-volume-surges-as-eth-btc-plunges-to-lowest-since-2021",
-          "publishedOn": "2025-02-04T20:51:58.000Z",
-          "wordCount": 3390,
-          "title": "Ethereum ETFs Volume Surges as ETH/BTC Plunges to Lowest Since 2021",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/eb5951a80538447ed455145b3a8dbac7d2655b42-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/eb5951a80538447ed455145b3a8dbac7d2655b42-1555x875.png"
         }
       ]
     },

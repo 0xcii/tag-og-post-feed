@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-13T11:13:23.695Z</id>
+    <id>urn:2025-02-13T12:32:24.593Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-13T11:13:23.695Z</updated>
+    <updated>2025-02-13T12:32:24.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Proposal to Pay Full Priority Fees to Validators Goes Live]]></title>
+        <id>https://thedefiant.io/news/blockchains/solana-proposal-to-pay-full-priority-fees-to-validators-goes-live</id>
+        <link href="https://thedefiant.io/news/blockchains/solana-proposal-to-pay-full-priority-fees-to-validators-goes-live"/>
+        <updated>2025-02-13T12:04:17.000Z</updated>
+        <summary type="html"><![CDATA[Solana Validators will now receive 100% of priority fees under the new model rather than 50%.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC Commissioner Says Election Prediction Markets ‘Are Here to Stay’]]></title>
+        <id>https://thedefiant.io/news/regulation/cftc-commissioner-says-election-prediction-markets-are-here-to-stay</id>
+        <link href="https://thedefiant.io/news/regulation/cftc-commissioner-says-election-prediction-markets-are-here-to-stay"/>
+        <updated>2025-02-13T11:48:51.000Z</updated>
+        <summary type="html"><![CDATA[Commissioner Summer Mersinger said in a policy seminar that the CFTC must take a more “pro-innovator” approach.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky Mavis Makes Ronin Gaming Blockchain Permissionless]]></title>
+        <id>https://thedefiant.io/news/blockchains/sky-mavis-makes-ronin-gaming-blockchain-permissionless</id>
+        <link href="https://thedefiant.io/news/blockchains/sky-mavis-makes-ronin-gaming-blockchain-permissionless"/>
+        <updated>2025-02-13T11:30:34.000Z</updated>
+        <summary type="html"><![CDATA[The team behind Axie Infinity is relinquishing control to increase ecosystem growth.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BNB Rallies 23% in a Week, Outshines Bitcoin Amid Rising Activity]]></title>
         <id>https://thedefiant.io/news/blockchains/bnb-rallies-23-in-a-week-outshines-bitcoin-amid-rising-activity</id>
@@ -993,36 +1023,6 @@
         <summary type="html"><![CDATA[Scammers convince users of unauthorized login attempts on their account and tell them to move their funds to another Coinbase wallet.]]></summary>
         <author>
             <name>Joel Lim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berachain to Launch Mainnet and Airdrop on Feb. 6]]></title>
-        <id>https://thedefiant.io/news/blockchains/berachain-to-launch-mainnet-and-airdrop-on-feb-6</id>
-        <link href="https://thedefiant.io/news/blockchains/berachain-to-launch-mainnet-and-airdrop-on-feb-6"/>
-        <updated>2025-02-04T21:15:52.000Z</updated>
-        <summary type="html"><![CDATA[The highly anticipated Proof-of-Liquidity Layer 1 ecosystem is set to launch its token and mainnet later this week.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animal Spirits in Crypto Whipsaw From Fear to Greed As Tariffs Concerns Recede]]></title>
-        <id>https://thedefiant.io/news/markets/animal-spirits-in-crypto-whipsaw-from-fear-to-greed-as-tariffs-concerns-recede</id>
-        <link href="https://thedefiant.io/news/markets/animal-spirits-in-crypto-whipsaw-from-fear-to-greed-as-tariffs-concerns-recede"/>
-        <updated>2025-02-04T21:04:17.000Z</updated>
-        <summary type="html"><![CDATA[The Crypto Fear and Greed Index fell to 44 before jumping back all the way to 72 today.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum ETFs Volume Surges as ETH/BTC Plunges to Lowest Since 2021]]></title>
-        <id>https://thedefiant.io/news/markets/ethereum-etfs-volume-surges-as-eth-btc-plunges-to-lowest-since-2021</id>
-        <link href="https://thedefiant.io/news/markets/ethereum-etfs-volume-surges-as-eth-btc-plunges-to-lowest-since-2021"/>
-        <updated>2025-02-04T20:51:58.000Z</updated>
-        <summary type="html"><![CDATA[The plunging ETH price relative to BTC is sparking investor interest.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
     <entry>
