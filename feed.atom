@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-13T02:46:31.384Z</id>
+    <id>urn:2025-02-13T03:19:44.098Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-13T02:46:31.384Z</updated>
+    <updated>2025-02-13T03:19:44.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zero Knowledge Proof]]></title>
+        <id>https://medium.com/p/75956024e4af</id>
+        <link href="https://cryptohayes.medium.com/zero-knowledge-proof-75956024e4af?source=rss-2f6e06954878------2"/>
+        <updated>2025-02-13T02:52:17.000Z</updated>
+        <summary type="html"><![CDATA[Before I dig into political memecoins, I need to shill the launch of my hoodie in collaboration with Dream Temple. Dream Temple is a…]]></summary>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH Jumps on Cboe and 21Shares’ Ether ETF Staking Filing]]></title>
         <id>https://thedefiant.io/news/markets/eth-jumps-on-cboe-and-21shares-ether-etf-staking-filing</id>
