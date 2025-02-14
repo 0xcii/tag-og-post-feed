@@ -11,7 +11,7 @@
           "description": "Before I dig into political memecoins, I need to shill the launch of my hoodie in collaboration with Dream Temple. Dream Temple is a…",
           "link": "https://cryptohayes.medium.com/zero-knowledge-proof-75956024e4af?source=rss-2f6e06954878------2",
           "publishedOn": "2025-02-13T02:52:17.000Z",
-          "wordCount": 9621,
+          "wordCount": 9625,
           "title": "Zero Knowledge Proof",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:626/1*6Vcau1p13KMF6V1BvCVw_Q.png"
         },
@@ -54,6 +54,36 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-etfs-post-three-consecutive-days-of-outflows-totaling-nearly-usd500m",
+          "author": "Jona Jaupi",
+          "description": "Investor sentiment weakens as macroeconomic concerns weigh on Bitcoin ETFs and price action.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-etfs-post-three-consecutive-days-of-outflows-totaling-nearly-usd500m",
+          "publishedOn": "2025-02-14T03:12:31.000Z",
+          "wordCount": 3462,
+          "title": "Bitcoin ETFs Post Three Consecutive Days of Outflows, Totaling Nearly $500M",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b199d7a75193d7ec8c4001915b0da4968f90fa1c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b199d7a75193d7ec8c4001915b0da4968f90fa1c-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/bitcoin-blocks-are-going-out-half-full-as-layer-2s-take-off",
+          "author": "Leo Jakobson",
+          "description": "Transaction fees also plunged, with some bringing in just one satoshi.",
+          "link": "https://thedefiant.io/news/blockchains/bitcoin-blocks-are-going-out-half-full-as-layer-2s-take-off",
+          "publishedOn": "2025-02-14T02:59:27.000Z",
+          "wordCount": 3865,
+          "title": "Bitcoin Blocks Are Going Out Half Full as Layer 2s Take Off",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/46911bdb0c190806402e6f93519d407d3596c650-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/46911bdb0c190806402e6f93519d407d3596c650-1555x875.png"
+        },
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/doodles-set-to-launch-official-token-usddood-on-solana",
           "author": "Joel Lim",
@@ -1503,36 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/df3572f34a5d8901007643dae0392522f7f52216-1125x917.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/solana-emerges-as-top-pick-for-retail-investors-report",
-          "author": "Joel Lim",
-          "description": "According to a report from Gemini and Glassnode, Solana has surpassed Bitcoin and Ethereum as the asset of choice for crypto speculators.",
-          "link": "https://thedefiant.io/news/research-and-opinion/solana-emerges-as-top-pick-for-retail-investors-report",
-          "publishedOn": "2025-02-06T11:18:38.000Z",
-          "wordCount": 3361,
-          "title": "Solana Emerges as Top Pick for Retail Investors: Report",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7cacb2516a6ff1d5e7c55b382d24524fae6ccac8-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7cacb2516a6ff1d5e7c55b382d24524fae6ccac8-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/megaeth-announces-ico-via-soulbound-nft-mint",
-          "author": "Squiffs",
-          "description": "The Vitalik-backed blockchain will allocate a minimum of 5% of its token supply to 10,000 soulbound NFTs.",
-          "link": "https://thedefiant.io/news/blockchains/megaeth-announces-ico-via-soulbound-nft-mint",
-          "publishedOn": "2025-02-05T22:42:38.000Z",
-          "wordCount": 3334,
-          "title": "MegaETH Announces ICO via Soulbound NFT Mint",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/efbc0794fa7c0fec6b81d5d98a4a7e6fec5aedf4-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/efbc0794fa7c0fec6b81d5d98a4a7e6fec5aedf4-1555x875.png"
         }
       ]
     },
