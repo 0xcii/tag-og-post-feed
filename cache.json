@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/doodles-set-to-launch-official-token-usddood-on-solana",
+          "author": "Joel Lim",
+          "description": "Doodles will launch $DOOD memecoin, with 68% of the token supply to be allocated to the community.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/doodles-set-to-launch-official-token-usddood-on-solana",
+          "publishedOn": "2025-02-14T02:22:15.000Z",
+          "wordCount": 3347,
+          "title": "Doodles Set to Launch Official Token $DOOD on Solana",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3f2b01dc82c7e7f3bcf34b5acec7b36af5856a8c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3f2b01dc82c7e7f3bcf34b5acec7b36af5856a8c-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/people/vitalik-buterin-s-make-communism-great-again-comment-sparks-controversy-amid-etf-4c14e582",
           "author": "DeepNewz",
           "description": "Vitalik Buterin, co-founder of Ethereum, has sparked controversy with a statement suggesting 'Make Communism Great Again",
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/crypto-community-blasts-jupiter-over-security-lapse-in-meow-token-rug-pull",
           "author": "Jona Jaupi",
-          "description": "The crypto community on Thursday called out decentralized exchange Jupiter after scammers hacked its official X account on Feb. 5 to promote the Meow token.",
+          "description": "Investors criticized Jupiter’s security after its hacked X account promoted a scam token, leading to millions in losses.",
           "link": "https://thedefiant.io/news/hacks/crypto-community-blasts-jupiter-over-security-lapse-in-meow-token-rug-pull",
           "publishedOn": "2025-02-06T23:28:41.000Z",
           "wordCount": 3410,
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/efbc0794fa7c0fec6b81d5d98a4a7e6fec5aedf4-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/uae-embrace-shiba-inu-as-web3-project-platform",
-          "author": "Leo Jakobson",
-          "description": "The United Arab Emirates’ Ministry of Energy and Infrastructure has signed a deal to build projects designed to unify development on ShibOS.",
-          "link": "https://thedefiant.io/news/regulation/uae-embrace-shiba-inu-as-web3-project-platform",
-          "publishedOn": "2025-02-05T22:07:59.000Z",
-          "wordCount": 3521,
-          "title": "UAE Embrace Shiba Inu as Web3 Project Platform",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ad86b6415ca67b94452d9bedd5633ed1f6e82757-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ad86b6415ca67b94452d9bedd5633ed1f6e82757-1555x875.png"
         }
       ]
     },
