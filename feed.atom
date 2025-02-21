@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-20T23:15:37.619Z</id>
+    <id>urn:2025-02-21T01:16:05.391Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-20T23:15:37.619Z</updated>
+    <updated>2025-02-21T01:16:05.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation Launches Open Intents Framework]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-foundation-launches-open-intents-framework</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-foundation-launches-open-intents-framework"/>
+        <updated>2025-02-20T23:27:07.000Z</updated>
+        <summary type="html"><![CDATA[The framework enhances interoperability within the Ethereum ecosystem, making cross-chain experiences faster and seamless.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase CEO Brian Armstrong is Still Bullish on Memecoins]]></title>
         <id>https://thedefiant.io/news/people/coinbase-ceo-brian-armstrong-is-still-bullish-on-memecoins</id>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[The Open Network (TON) has integrated with LayerZero, an interoperability protocol, to facilitate cross-chain asset transfers across more than 100 blockchains, including Ethereum, Solana, and Tron]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket Pool Extends Price Rally Amid Saturn Devnet Launch]]></title>
-        <id>https://thedefiant.io/news/defi/rocket-pool-extends-price-rally-amid-saturn-devnet-launch</id>
-        <link href="https://thedefiant.io/news/defi/rocket-pool-extends-price-rally-amid-saturn-devnet-launch"/>
-        <updated>2025-02-11T21:50:44.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum liquid staking protocol’s RPL token has surged by over 50% in the last three days.]]></summary>
-        <author>
-            <name>Joel Lim</name>
         </author>
     </entry>
     <entry>

@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-foundation-launches-open-intents-framework",
+          "author": "Joel Lim",
+          "description": "The framework enhances interoperability within the Ethereum ecosystem, making cross-chain experiences faster and seamless.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-launches-open-intents-framework",
+          "publishedOn": "2025-02-20T23:27:07.000Z",
+          "wordCount": 3514,
+          "title": "Ethereum Foundation Launches Open Intents Framework",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fa4881f1a87e4679245024b05cc304e7ec9c87fb-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fa4881f1a87e4679245024b05cc304e7ec9c87fb-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/people/coinbase-ceo-brian-armstrong-is-still-bullish-on-memecoins",
           "author": "Leo Jakobson",
           "description": "Calls memecoins ‘a canary in a coal mine’ to tokenizing everything from artwork to user identity.",
@@ -1528,21 +1543,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/eb41530805aebcac4be1b9492a03e462218d6792-1024x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/rocket-pool-extends-price-rally-amid-saturn-devnet-launch",
-          "author": "Joel Lim",
-          "description": "The Ethereum liquid staking protocol’s RPL token has surged by over 50% in the last three days.",
-          "link": "https://thedefiant.io/news/defi/rocket-pool-extends-price-rally-amid-saturn-devnet-launch",
-          "publishedOn": "2025-02-11T21:50:44.000Z",
-          "wordCount": 3319,
-          "title": "Rocket Pool Extends Price Rally Amid Saturn Devnet Launch",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/18d0b19fe7392d99cf449538a7122831f0df8d78-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/18d0b19fe7392d99cf449538a7122831f0df8d78-1555x875.png"
         }
       ]
     },
