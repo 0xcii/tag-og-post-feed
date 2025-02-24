@@ -55,6 +55,66 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/altcoins-plunge-as-bitcoin-dips-under-usd95-000",
+          "author": "yyctrader",
+          "description": "In the past 24 hours, ETH, SOL and XRP are down 5%, 8%, and 4% respectively.",
+          "link": "https://thedefiant.io/news/markets/altcoins-plunge-as-bitcoin-dips-under-usd95-000",
+          "publishedOn": "2025-02-24T18:17:32.000Z",
+          "wordCount": 2764,
+          "title": "Altcoins Plunge as Bitcoin Dips Under $95,000",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/32bc809ccb0b090745e7d06d03e1beda7cf348f9-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/32bc809ccb0b090745e7d06d03e1beda7cf348f9-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/dekabank-launches-crypto-trading-custody-services-institutional-clients-managing-9c52d905",
+          "author": "DeepNewz",
+          "description": "DekaBank, one of Germany's largest banks with approximately €377 billion ($395 billion) in assets under management, has officially launched cryptocurrency trading and custody services aimed at institutional clients",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/dekabank-launches-crypto-trading-custody-services-institutional-clients-managing-9c52d905",
+          "publishedOn": "2025-02-24T17:48:07.000Z",
+          "wordCount": 2727,
+          "title": "DekaBank Launches Crypto Trading and Custody Services for Institutional Clients, Managing €377 Billion ($395 Billion) in Assets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5f4a87c581feac69566df307d81858d85fff9345-1200x1008.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5f4a87c581feac69566df307d81858d85fff9345-1200x1008.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/yzi-labs-invests-crypto-ai-startup-vana-focused-on-data-ownership-cz-joins-41470faa",
+          "author": "DeepNewz",
+          "description": "YZi Labs, previously known as Binance Labs, has made an investment in the crypto-AI startup Vana, which specializes in data ownership",
+          "link": "https://thedefiant.io/news/nfts-and-web3/yzi-labs-invests-crypto-ai-startup-vana-focused-on-data-ownership-cz-joins-41470faa",
+          "publishedOn": "2025-02-24T17:30:21.000Z",
+          "wordCount": 2666,
+          "title": "YZi Labs Invests in Crypto-AI Startup Vana Focused on Data Ownership, CZ Joins as Advisor",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/251aaf943820717e2d144e84e7e6ad435a054178-1080x1080.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/251aaf943820717e2d144e84e7e6ad435a054178-1080x1080.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/michael-saylor-buys-20000-btc-2-billion-97500-holding-reaches-499096-btc-amid-0064e4ac",
+          "author": "DeepNewz",
+          "description": "Michael Saylor, the co-founder of MicroStrategy, has reportedly purchased $2 billion worth of Bitcoin, acquiring approximately 20,000 BTC at an average price of $97,500",
+          "link": "https://thedefiant.io/news/markets/michael-saylor-buys-20000-btc-2-billion-97500-holding-reaches-499096-btc-amid-0064e4ac",
+          "publishedOn": "2025-02-24T16:46:24.000Z",
+          "wordCount": 2715,
+          "title": "Michael Saylor Buys 20,000 BTC for $2 Billion at $97,500 Each, Holding Reaches 499,096 BTC Amid Flat Prices",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f56e4138d640c1533d9ddedfbf3300d2312b458-1200x404.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7f56e4138d640c1533d9ddedfbf3300d2312b458-1200x404.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/sec-launches-cyber-unit-to-combat-blockchain-fraud",
           "author": "Squiffs",
           "description": "The Cyber and Emerging Technologies Unit will target cyber-related misconduct, including fraud, hacks, and cybersecurity.",
@@ -120,7 +180,7 @@
           "description": "VanEck has projected that Bitcoin's price could reach $21 million by 2048 if the United States acquires a strategic reserve of the cryptocurrency",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-estimates-bitcoin-price-reach-21-million-2048-22000-gain-u-s-buys-reserve-715c6003",
           "publishedOn": "2025-02-21T21:07:56.000Z",
-          "wordCount": 2728,
+          "wordCount": 2731,
           "title": "VanEck Estimates Bitcoin Price Could Reach $21 Million by 2048, 22,000% Gain If U.S. Buys Strategic Reserve",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1cea6dc61fad6e7abd0c5e7ff13dd78a00cf8540-1200x675.jpg",
@@ -195,7 +255,7 @@
           "description": "Costa Rica is witnessing a major shift in its financial landscape as Banco Nacional, the largest commercial bank in the country, announces the launch of its first Bitcoin exchange-traded fund (ETF)",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/banco-nacional-launches-costa-rica-s-first-bitcoin-etf-7-billion-bank-opening-to-51c6cb38",
           "publishedOn": "2025-02-21T17:46:19.000Z",
-          "wordCount": 2755,
+          "wordCount": 2758,
           "title": "Banco Nacional Launches Costa Rica's First Bitcoin ETF, $7 Billion Bank Opening Crypto Investment to Citizens",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/608e6f186c11a9bdd62a47a50f67392b9b4d7716-1200x840.jpg",
@@ -240,7 +300,7 @@
           "description": "Canary Capital's proposed spot Litecoin ETF (ticker: LTCC) has been added to the Depository Trust and Clearing Corporation (DTCC) website, marking a key step in the pre-launch process",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/canary-capital-s-litecoin-etf-listed-on-dtcc-litecoin-trades-133-09-57c41204",
           "publishedOn": "2025-02-21T15:28:45.000Z",
-          "wordCount": 2775,
+          "wordCount": 2778,
           "title": "Canary Capital's Litecoin ETF Listed on DTCC as Litecoin Trades at $133.09",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ad9842674ef39897e02e43b3f98e1d7f80ca9154-1024x976.jpg",
@@ -360,7 +420,7 @@
           "description": "During Visa's Investor Day 2025, the CEO announced that stablecoin transactions have increased by 40% over the past two years",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/visa-ceo-reports-40-increase-stablecoin-transactions-over-two-years-investor-day-9074ff16",
           "publishedOn": "2025-02-20T20:31:10.000Z",
-          "wordCount": 2671,
+          "wordCount": 2674,
           "title": "Visa CEO Reports 40% Increase in Stablecoin Transactions Over Two Years at Investor Day 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f7aabb2f51c11239bb0aeff338ed689d8a0bb73b-1199x677.jpg",
@@ -390,7 +450,7 @@
           "description": "The recent launch of the OnChain Heroes project has garnered significant interest, resulting in a successful sellout of its Genesis Heroes collection",
           "link": "https://thedefiant.io/news/nfts-and-web3/onchain-heroes-launches-successful-sellout-10000-genesis-heroes-0-069-eth-mint-0-0514bc12",
           "publishedOn": "2025-02-20T19:30:46.000Z",
-          "wordCount": 2749,
+          "wordCount": 2752,
           "title": "OnChain Heroes Launches Successful Sellout of 10,000 Genesis Heroes at 0.069 ETH Mint Price, Current Floor Price 0.14 ETH",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9abdb4c397e87c7ae9741e0fd586a720f1911564-1200x638.jpg",
@@ -450,7 +510,7 @@
           "description": "The European Central Bank (ECB) is exploring the development of a blockchain-based payment system, according to reports from Bloomberg and other sources",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ecb-explores-blockchain-based-payment-system-bad6651f",
           "publishedOn": "2025-02-20T17:30:21.000Z",
-          "wordCount": 2575,
+          "wordCount": 2578,
           "title": "ECB Explores Blockchain-Based Payment System",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/41c45c3fc682c7d2b423a0432bf54d6094cd06d2-1200x800.jpg",
@@ -675,7 +735,7 @@
           "description": "The legacy NFT platform just launched its OS2 product to the public, but has already rescinded part of its points distribution mechanism.",
           "link": "https://thedefiant.io/news/nfts-and-web3/opensea-to-modify-points-program-amid-community-backlash",
           "publishedOn": "2025-02-19T11:14:47.000Z",
-          "wordCount": 2926,
+          "wordCount": 2927,
           "title": "OpenSea to Modify Points Program Amid Community Backlash",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f79d88d3397827580702c6fbe805dd4008c275c3-1555x875.png",
@@ -780,7 +840,7 @@
           "description": "Fold is set to go public on Nasdaq tomorrow, marking its position as the first Bitcoin-only financial services company to do so",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/fold-set-to-go-public-on-nasdaq-february-19-2025-holding-over-1000-btc-first-a924b5cd",
           "publishedOn": "2025-02-18T18:40:00.000Z",
-          "wordCount": 2739,
+          "wordCount": 2742,
           "title": "Fold Set to Go Public on Nasdaq February 19, 2025, Holding Over 1,000 BTC as First Bitcoin-Only Financial Services Company",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/626861674bfe077118c82aab11f39198af7de726-953x476.jpg",
@@ -825,7 +885,7 @@
           "description": "Grayscale Investments has launched the Grayscale Pyth Trust, a new single-asset crypto investment fund that provides accredited investors with exposure to the $PYTH token",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-launches-pyth-trust-pyth-token-solana-ecosystem-d4aaa7d1",
           "publishedOn": "2025-02-18T17:30:20.000Z",
-          "wordCount": 2660,
+          "wordCount": 2663,
           "title": "Grayscale Launches Pyth Trust for $PYTH Token in Solana Ecosystem",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e7514cecbd010328c14589bce3857735689d772a-1200x675.png",
@@ -1050,7 +1110,7 @@
           "description": "Metaplanet, a Japanese company, has expanded its Bitcoin holdings",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/metaplanet-expands-bitcoin-holdings-to-2031-btc-26-3-million-purchase-269-43-btc-f3a7c6cf",
           "publishedOn": "2025-02-17T11:17:22.000Z",
-          "wordCount": 2658,
+          "wordCount": 2661,
           "title": "Metaplanet Expands Bitcoin Holdings to 2,031 BTC with $26.3 Million Purchase of 269.43 BTC, Yielding 15.3% YTD",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/65be9eb64bb46a6a80572af9cb15b1e60295552e-1080x1080.jpg",
@@ -1095,7 +1155,7 @@
           "description": "Citi and State Street, leading financial institutions with assets of $4 trillion and $6 trillion respectively, are moving into cryptocurrency custody services as President Trump quickly loosens regulations, including the repeal of SAB 121 in January",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/citi-state-street-plan-crypto-custody-services-amid-sab-121-repeal-63f43509",
           "publishedOn": "2025-02-14T22:00:42.000Z",
-          "wordCount": 2740,
+          "wordCount": 2743,
           "title": "Citi and State Street Plan Crypto Custody Services Amid SAB 121 Repeal",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/20879c5fde55a84d0c038c69aa3c888497503a8b-1200x675.jpg",
@@ -1230,7 +1290,7 @@
           "description": "The Meebits NFT collection has been acquired by the Meebit Company, a venture backed by 1confirmation, from Yuga Labs",
           "link": "https://thedefiant.io/news/nfts-and-web3/1confirmation-backed-meebit-company-acquires-meebits-nft-collection-yuga-labs-db02ce1f",
           "publishedOn": "2025-02-14T17:29:46.000Z",
-          "wordCount": 2673,
+          "wordCount": 2676,
           "title": "1confirmation-Backed Meebit Company Acquires Meebits NFT Collection from Yuga Labs, Led by Sergito",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4cee8a326a710142e1cc913dcada9f482176b487-680x680.png",
@@ -1302,7 +1362,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-etfs-post-three-consecutive-days-of-outflows-totaling-nearly-usd500m",
           "author": "Jona Jaupi",
-          "description": "U.S. spot Bitcoin exchange-traded funds (ETFs) have recorded three consecutive days of outflows, totaling nearly $500 million, as macroeconomic uncertainty dampens investor sentiment.",
+          "description": "Investor sentiment weakens as macroeconomic concerns weigh on Bitcoin ETFs and price action.",
           "link": "https://thedefiant.io/news/markets/bitcoin-etfs-post-three-consecutive-days-of-outflows-totaling-nearly-usd500m",
           "publishedOn": "2025-02-14T03:12:31.000Z",
           "wordCount": 2989,
@@ -1335,7 +1395,7 @@
           "description": "Doodles will launch $DOOD memecoin, with 68% of the token supply to be allocated to the community.",
           "link": "https://thedefiant.io/news/nfts-and-web3/doodles-set-to-launch-official-token-usddood-on-solana",
           "publishedOn": "2025-02-14T02:22:15.000Z",
-          "wordCount": 2873,
+          "wordCount": 2874,
           "title": "Doodles Set to Launch Official Token $DOOD on Solana",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3f2b01dc82c7e7f3bcf34b5acec7b36af5856a8c-1555x875.png",
@@ -1365,7 +1425,7 @@
           "description": "GHO is a top 30 stablecoin by market cap and enables lending/borrowing on Aave.",
           "link": "https://thedefiant.io/news/nfts-and-web3/lens-chain-adopts-aave-s-gho-stablecoin-for-gas-fee-payments",
           "publishedOn": "2025-02-13T21:31:55.000Z",
-          "wordCount": 2839,
+          "wordCount": 2840,
           "title": "Lens Chain Adopts Aave’s GHO Stablecoin For Gas Fee Payments",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6e4cb077c2df75320a9de1386495bdb054ac233b-1555x875.png",
@@ -1395,7 +1455,7 @@
           "description": "Metaplanet, a Japanese firm, has raised ¥4.0 billion ($26 million) through the issuance of zero-interest, unsecured, and unguaranteed bonds from EVO Funds to expand its Bitcoin holdings.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/metaplanet-raises-26-million-via-zero-interest-bonds-to-expand-bitcoin-holdings-9d410679",
           "publishedOn": "2025-02-13T21:00:46.000Z",
-          "wordCount": 2760,
+          "wordCount": 2763,
           "title": "Metaplanet Raises $26 Million Via Zero-Interest Bonds to Expand Bitcoin Holdings, Aims for 10,000 BTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/65be9eb64bb46a6a80572af9cb15b1e60295552e-1080x1080.jpg",
@@ -1493,66 +1553,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9c4a70180293bcbfc1fb51262dff426b8bcf2c07-1080x1080.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/opensea-expands-into-crypto-trading-announces-sea-token-airdrop",
-          "author": "Jona Jaupi",
-          "description": "NFT marketplace launches OS2 platform to the public, integrating token swaps and cross-chain purchasing.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/opensea-expands-into-crypto-trading-announces-sea-token-airdrop",
-          "publishedOn": "2025-02-13T18:08:13.000Z",
-          "wordCount": 2984,
-          "title": "OpenSea Expands Into Crypto Trading, Foundation Announces SEA Token Airdrop",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/73fe5a530c9d958b8adb76a1bf867400bbb25aec-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/73fe5a530c9d958b8adb76a1bf867400bbb25aec-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/moonpay-eliminates-fees-crypto-purchases-using-moonpay-balance-us-uk-eu-phantom-a6bf0863",
-          "author": "DeepNewz",
-          "description": "MoonPay has announced the removal of transaction fees for users buying or selling cryptocurrency using their MoonPay Balance",
-          "link": "https://thedefiant.io/news/infrastructure/moonpay-eliminates-fees-crypto-purchases-using-moonpay-balance-us-uk-eu-phantom-a6bf0863",
-          "publishedOn": "2025-02-13T16:20:30.000Z",
-          "wordCount": 2687,
-          "title": "MoonPay Eliminates Fees for Crypto Purchases Using MoonPay Balance in US, UK, and EU; Integrates with Phantom Wallet",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/87e7cc16015bf5c7d44a08414c40707dcfd78ca6-1200x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/87e7cc16015bf5c7d44a08414c40707dcfd78ca6-1200x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/solana-proposal-to-pay-full-priority-fees-to-validators-goes-live",
-          "author": "Joel Lim",
-          "description": "Solana Validators will now receive 100% of priority fees under the new model rather than 50%.",
-          "link": "https://thedefiant.io/news/blockchains/solana-proposal-to-pay-full-priority-fees-to-validators-goes-live",
-          "publishedOn": "2025-02-13T12:04:17.000Z",
-          "wordCount": 2846,
-          "title": "Solana Proposal to Pay Full Priority Fees to Validators Goes Live",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4d8af56f5b03fc24932868ddedf81662b8a20bcd-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4d8af56f5b03fc24932868ddedf81662b8a20bcd-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/cftc-commissioner-says-election-prediction-markets-are-here-to-stay",
-          "author": "Leo Jakobson",
-          "description": "Commissioner Summer Mersinger said in a policy seminar that the CFTC must take a more “pro-innovator” approach.",
-          "link": "https://thedefiant.io/news/regulation/cftc-commissioner-says-election-prediction-markets-are-here-to-stay",
-          "publishedOn": "2025-02-13T11:48:51.000Z",
-          "wordCount": 2925,
-          "title": "CFTC Commissioner Says Election Prediction Markets ‘Are Here to Stay’",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0a443b6467041ba4a0d40d025b652418cfb028e7-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0a443b6467041ba4a0d40d025b652418cfb028e7-1555x875.png"
         }
       ]
     },
