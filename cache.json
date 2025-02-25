@@ -55,19 +55,34 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-enters-bear-market-after-falling-over-20-109000-high-on-january-20-2025-30319016",
+          "author": "DeepNewz",
+          "description": "Bitcoin ($BTC) has officially entered a technical bear market after experiencing a decline of over 20% from its all-time high of $109,000, reached on January 20, 2025, which coincided with Inauguration Day",
+          "link": "https://thedefiant.io/news/markets/bitcoin-enters-bear-market-after-falling-over-20-109000-high-on-january-20-2025-30319016",
+          "publishedOn": "2025-02-25T17:28:52.000Z",
+          "wordCount": 2723,
+          "title": "Bitcoin Enters Bear Market After Falling Over 20% from $109,000 High on January 20, 2025",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/581b11bbac31fc4dc58b2ee2264bbdf613305466-1200x790.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/581b11bbac31fc4dc58b2ee2264bbdf613305466-1200x790.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/tezos-layer-2-etherlink-launches-mainnet-and-unveils-rewards-programs",
           "author": "Joel Lim",
           "description": "The platform plans to unveil several initiatives to reward users and attract builder interest.",
           "link": "https://thedefiant.io/news/blockchains/tezos-layer-2-etherlink-launches-mainnet-and-unveils-rewards-programs",
-          "publishedOn": "2025-02-25T00:58:47.000Z",
-          "wordCount": 2904,
+          "publishedOn": "2025-02-25T09:00:00.000Z",
+          "wordCount": 2913,
           "title": "Tezos Layer 2 Etherlink Launches Mainnet and Unveils Rewards Programs",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/64e62ec66c026e61f83f04980953bef362635d86-1555x875.png",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee931ac105607892bbf5c5f43017d2d3ab945a00-1555x875.png",
             "length": "1000000",
             "type": "image/png"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/64e62ec66c026e61f83f04980953bef362635d86-1555x875.png"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ee931ac105607892bbf5c5f43017d2d3ab945a00-1555x875.png"
         },
         {
           "id": "https://thedefiant.io/news/cefi/bybit-said-it-closed-usd1-5b-gap-left-after-largest-crypto-exploit-in-history",
@@ -1538,21 +1553,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/46911bdb0c190806402e6f93519d407d3596c650-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/doodles-set-to-launch-official-token-usddood-on-solana",
-          "author": "Joel Lim",
-          "description": "Doodles will launch $DOOD memecoin, with 68% of the token supply to be allocated to the community.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/doodles-set-to-launch-official-token-usddood-on-solana",
-          "publishedOn": "2025-02-14T02:22:15.000Z",
-          "wordCount": 2882,
-          "title": "Doodles Set to Launch Official Token $DOOD on Solana",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3f2b01dc82c7e7f3bcf34b5acec7b36af5856a8c-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3f2b01dc82c7e7f3bcf34b5acec7b36af5856a8c-1555x875.png"
         }
       ]
     },
