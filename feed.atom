@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T20:18:18.040Z</id>
+    <id>urn:2025-02-26T21:15:36.340Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-26T20:18:18.040Z</updated>
+    <updated>2025-02-26T21:15:36.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Avalanche Launches Visa Card for AVAX, USDT, USDC Spending, Targeting Latin America]]></title>
+        <id>https://thedefiant.io/news/blockchains/avalanche-launches-visa-card-avax-usdt-usdc-spending-targeting-latin-america-d114768d</id>
+        <link href="https://thedefiant.io/news/blockchains/avalanche-launches-visa-card-avax-usdt-usdc-spending-targeting-latin-america-d114768d"/>
+        <updated>2025-02-26T20:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Avalanche has launched the Avalanche Visa Card, allowing users to spend their AVAX, USDT, USDC, wAVAX, and sAVAX tokens at any of the 150 million merchants that accept Visa]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaito AI's $KAITO Token Surges 46% Daily, Nears ATH Amid OKX's 500K $KAITO Trading Campaign]]></title>
         <id>https://thedefiant.io/news/markets/kaito-ai-s-kaito-token-surges-46-daily-nears-ath-amid-okx-s-500k-kaito-trading-d53c6263</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The BitMEX founder claims a new era of political communication has begun.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Estonians Plead Guilty to Running $577M Crypto Ponzi Scheme]]></title>
-        <id>https://thedefiant.io/news/regulation/two-estonians-plead-guilty-to-running-usd577m-crypto-ponzi-scheme</id>
-        <link href="https://thedefiant.io/news/regulation/two-estonians-plead-guilty-to-running-usd577m-crypto-ponzi-scheme"/>
-        <updated>2025-02-17T11:40:13.000Z</updated>
-        <summary type="html"><![CDATA[The pair admitted to defrauding hundreds of thousands of victims through a fraudulent investment platform.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
     <entry>
