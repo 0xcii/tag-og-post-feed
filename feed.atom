@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T10:18:04.450Z</id>
+    <id>urn:2025-02-26T11:14:10.903Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-26T10:18:04.450Z</updated>
+    <updated>2025-02-26T11:14:10.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1033,16 +1033,6 @@
         <summary type="html"><![CDATA[For those of you who might not know, back in 2022 I stepped away from Defi; this did not coincide with some “building in defi sucks” post…]]></summary>
         <author>
             <name>Andre Cronje</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ugly]]></title>
-        <id>https://medium.com/p/dfba4f46ebd4</id>
-        <link href="https://cryptohayes.medium.com/the-ugly-dfba4f46ebd4?source=rss-2f6e06954878------2"/>
-        <updated>2025-01-27T23:02:11.000Z</updated>
-        <summary type="html"><![CDATA[“Stop — thirty-meter spacing on this face,” were the instructions from my guide as we abruptly slowed our pace skiing up a dormant volcano..]]></summary>
-        <author>
-            <name>Arthur Hayes</name>
         </author>
     </entry>
 </feed>
