@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-27T22:16:39.635Z</id>
+    <id>urn:2025-02-27T23:16:11.107Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-27T22:16:39.635Z</updated>
+    <updated>2025-02-27T23:16:11.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC and Justin Sun Pause Tron Fraud Lawsuit for Settlement Talks]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-and-justin-sun-pause-tron-fraud-lawsuit-for-settlement-talks</id>
+        <link href="https://thedefiant.io/news/regulation/sec-and-justin-sun-pause-tron-fraud-lawsuit-for-settlement-talks"/>
+        <updated>2025-02-27T22:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Sun, the Tron Foundation and BitTorrent are also accused of selling unregistered securities.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitwise CIO Says Stablecoins Will ‘Dominate’ $44T Cross-Border B2B Payments in Five Years]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/bitwise-cio-says-stablecoins-will-dominate-usd44t-cross-border-b2b-payments-in-five-years</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[For many, the Libra debacle feels like the final straw of a broken memecoin market.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Argentine President Milei Remorseless After Promoting LIBRA Scam]]></title>
-        <id>https://thedefiant.io/news/people/argentine-president-milei-remorseless-after-promoting-libra-scam</id>
-        <link href="https://thedefiant.io/news/people/argentine-president-milei-remorseless-after-promoting-libra-scam"/>
-        <updated>2025-02-18T23:23:27.000Z</updated>
-        <summary type="html"><![CDATA[The Argentine President is facing fraud charges for his involvement in the $LIBRA meme coin scam.]]></summary>
-        <author>
-            <name>Joel Lim</name>
         </author>
     </entry>
     <entry>

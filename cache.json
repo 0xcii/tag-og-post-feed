@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/sec-and-justin-sun-pause-tron-fraud-lawsuit-for-settlement-talks",
+          "author": "Leo Jakobson",
+          "description": "Sun, the Tron Foundation and BitTorrent are also accused of selling unregistered securities.",
+          "link": "https://thedefiant.io/news/regulation/sec-and-justin-sun-pause-tron-fraud-lawsuit-for-settlement-talks",
+          "publishedOn": "2025-02-27T22:23:40.000Z",
+          "wordCount": 2766,
+          "title": "SEC and Justin Sun Pause Tron Fraud Lawsuit for Settlement Talks",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/28d2758870eefe957458210480eb4741a8623158-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/28d2758870eefe957458210480eb4741a8623158-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/bitwise-cio-says-stablecoins-will-dominate-usd44t-cross-border-b2b-payments-in-five-years",
           "author": "Leo Jakobson",
           "description": "Matt Hougan predicts that once merchants get comfortable with B2B stablecoin payments, they’ll roll them out across domestic retail transactions.",
@@ -435,7 +450,7 @@
           "description": "Former North Carolina Congressman and Chair of the House Financial Services Committee, Patrick McHenry, has joined Andreessen Horowitz (a16z) as a senior advisor",
           "link": "https://thedefiant.io/news/regulation/former-house-financial-services-chair-patrick-mchenry-joins-andreessen-horowitz-0b50e221",
           "publishedOn": "2025-02-26T18:30:15.000Z",
-          "wordCount": 2786,
+          "wordCount": 2788,
           "title": "Former House Financial Services Chair Patrick McHenry Joins Andreessen Horowitz Amid Senate Crypto Policy Focus",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f66f6c2d07cebb0dbaa5b1ddfef329d9ae2fdb80-1200x675.jpg",
@@ -1523,21 +1538,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6b044a79a754553a7e0e2646b78c45165930917f-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/people/argentine-president-milei-remorseless-after-promoting-libra-scam",
-          "author": "Joel Lim",
-          "description": "The Argentine President is facing fraud charges for his involvement in the $LIBRA meme coin scam.",
-          "link": "https://thedefiant.io/news/people/argentine-president-milei-remorseless-after-promoting-libra-scam",
-          "publishedOn": "2025-02-18T23:23:27.000Z",
-          "wordCount": 3423,
-          "title": "Argentine President Milei Remorseless After Promoting LIBRA Scam",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d49039a8071cc126354b7342045c3c04e4e64af1-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d49039a8071cc126354b7342045c3c04e4e64af1-1555x875.png"
         }
       ]
     },
