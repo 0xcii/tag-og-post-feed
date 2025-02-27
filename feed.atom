@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-27T19:13:05.619Z</id>
+    <id>urn:2025-02-27T20:18:20.503Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-27T19:13:05.619Z</updated>
+    <updated>2025-02-27T20:18:20.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Clings to $83,000 after Trump Says Tariffs Will Start Next Week]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-clings-to-usd83-000-after-trump-says-tariffs-will-start-next-week</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-clings-to-usd83-000-after-trump-says-tariffs-will-start-next-week"/>
+        <updated>2025-02-27T20:13:36.000Z</updated>
+        <summary type="html"><![CDATA[Crypto markets reversed earlier gains after President Trump announced that trade tariffs on Canada and Mexico will start on March 4 along with additional 10% tariff on Chinese products.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybercrime Group 'Crazy Evil' Targets Web3 Professionals with Fake Job Interviews via GrassCall App and Xyro Capital]]></title>
+        <id>https://thedefiant.io/news/security/cybercrime-group-crazy-evil-targets-web3-professionals-fake-job-interviews-via-eac84b65</id>
+        <link href="https://thedefiant.io/news/security/cybercrime-group-crazy-evil-targets-web3-professionals-fake-job-interviews-via-eac84b65"/>
+        <updated>2025-02-27T20:00:27.000Z</updated>
+        <summary type="html"><![CDATA[A cybercrime group known as 'Crazy Evil' is reportedly targeting Web3 professionals through a sophisticated social engineering scheme involving fake job interviews]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple Partners with BDACS for Institutional Custody of XRP and RLUSD in South Korea on February 27, 2025]]></title>
+        <id>https://thedefiant.io/news/blockchains/ripple-partners-bdacs-institutional-custody-xrp-rlusd-south-korea-on-february-27-12cda314</id>
+        <link href="https://thedefiant.io/news/blockchains/ripple-partners-bdacs-institutional-custody-xrp-rlusd-south-korea-on-february-27-12cda314"/>
+        <updated>2025-02-27T19:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Ripple has announced a partnership with BDACS, a prominent South Korean digital asset custody provider, to enhance institutional crypto custody services in South Korea]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC to Drop Consensys Lawsuit]]></title>
         <id>https://thedefiant.io/news/regulation/sec-to-drop-consensys-lawsuit</id>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/traders-build-record-11-3-billion-short-position-on-ethereum-amid-2-billion-long-c5a5230f"/>
         <updated>2025-02-18T18:00:04.000Z</updated>
         <summary type="html"><![CDATA[Traders have established a record short position on Ethereum (ETH)]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale Launches Pyth Trust for $PYTH Token in Solana Ecosystem]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/grayscale-launches-pyth-trust-pyth-token-solana-ecosystem-d4aaa7d1</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/grayscale-launches-pyth-trust-pyth-token-solana-ecosystem-d4aaa7d1"/>
-        <updated>2025-02-18T17:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Grayscale Investments has launched the Grayscale Pyth Trust, a new single-asset crypto investment fund that provides accredited investors with exposure to the $PYTH token]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nigeria Revises Regulations to Tax Cryptocurrency Transactions in February 2025, Plans Full Licenses for Exchanges]]></title>
-        <id>https://thedefiant.io/news/regulation/nigeria-revises-regulations-to-tax-cryptocurrency-transactions-february-2025-34eafbca</id>
-        <link href="https://thedefiant.io/news/regulation/nigeria-revises-regulations-to-tax-cryptocurrency-transactions-february-2025-34eafbca"/>
-        <updated>2025-02-18T17:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Nigeria is revising its regulations to tax cryptocurrency and digital transactions as part of a broader effort to enhance fiscal revenue]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hong Kong Explores Gold Tokenization, Merging Physical Gold and Blockchain Technology for Cross-Border Payments]]></title>
-        <id>https://thedefiant.io/news/regulation/hong-kong-explores-gold-tokenization-merging-physical-gold-blockchain-technology-33bdab32</id>
-        <link href="https://thedefiant.io/news/regulation/hong-kong-explores-gold-tokenization-merging-physical-gold-blockchain-technology-33bdab32"/>
-        <updated>2025-02-18T16:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Hong Kong is actively exploring the concept of gold tokenization, which involves merging physical gold with blockchain technology]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
