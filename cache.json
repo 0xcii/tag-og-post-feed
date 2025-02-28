@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-announces-launch-solana-futures-pending-regulatory-approval-daa3ead8",
+          "author": "DeepNewz",
+          "description": "CME Group, the world's largest derivatives marketplace, announced plans to launch Solana (SOL) futures contracts on March 17, 2025",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-announces-launch-solana-futures-pending-regulatory-approval-daa3ead8",
+          "publishedOn": "2025-02-28T19:30:15.000Z",
+          "wordCount": 2706,
+          "title": "CME Group Announces Launch of Solana Futures Pending Regulatory Approval",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cd4a3e6fc15756df6da328a5a8002e0c32a66c3e-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cd4a3e6fc15756df6da328a5a8002e0c32a66c3e-1200x675.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-bounce-after-cme-announces-solana-futures",
           "author": "yyctrader",
           "description": "Bitcoin traded as low as $78,200 overnight before recovering to $84,000.",
@@ -65,7 +80,7 @@
           "description": "BlackRock Inc has included its iShares Bitcoin Trust ETF (IBIT) in its model portfolio for the first time.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-adds-48-billion-ishares-bitcoin-trust-etf-to-model-portfolio-1-2-875872ee",
           "publishedOn": "2025-02-28T19:00:45.000Z",
-          "wordCount": 2711,
+          "wordCount": 2712,
           "title": "BlackRock Adds $48 Billion iShares Bitcoin Trust ETF to Model Portfolio with 1-2% Allocation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8228fe499675a1f6b98361dd7f7a806067e031d4-1200x434.jpg",
@@ -495,7 +510,7 @@
           "description": "Former North Carolina Congressman and Chair of the House Financial Services Committee, Patrick McHenry, has joined Andreessen Horowitz (a16z) as a senior advisor",
           "link": "https://thedefiant.io/news/regulation/former-house-financial-services-chair-patrick-mchenry-joins-andreessen-horowitz-0b50e221",
           "publishedOn": "2025-02-26T18:30:15.000Z",
-          "wordCount": 2824,
+          "wordCount": 2825,
           "title": "Former House Financial Services Chair Patrick McHenry Joins Andreessen Horowitz Amid Senate Crypto Policy Focus",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f66f6c2d07cebb0dbaa5b1ddfef329d9ae2fdb80-1200x675.jpg",
@@ -525,7 +540,7 @@
           "description": "The Ethereum Foundation has announced a $1.25 million donation to support the legal defense of Alexey Pertsev",
           "link": "https://thedefiant.io/news/regulation/ethereum-foundation-donates-1-25m-to-alexey-pertsev-s-defense-netherlands-case-ac9e1bc7",
           "publishedOn": "2025-02-26T17:33:30.000Z",
-          "wordCount": 2695,
+          "wordCount": 2696,
           "title": "Ethereum Foundation Donates $1.25M to Alexey Pertsev's Defense in Netherlands Case Over Privacy Protocol",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d140c57bebb84a79d1459ad57a3dc38aec91563-1200x899.jpg",
@@ -540,7 +555,7 @@
           "description": "Grayscale Investments has filed for a spot Polkadot ETF with Nasdaq, aiming to expand its offerings in the cryptocurrency market",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-files-dot-etf-nasdaq-second-polkadot-etf-application-this-year-7ec584a1",
           "publishedOn": "2025-02-25T22:00:37.000Z",
-          "wordCount": 2698,
+          "wordCount": 2699,
           "title": "Grayscale Files for $DOT ETF with Nasdaq, Second Polkadot ETF Application This Year",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0020a08a8a959b7e7562f9835bafd331f2a1ac0a-900x500.jpg",
@@ -1140,7 +1155,7 @@
           "description": "Iowa has introduced a new bill that would allow the state treasurer to invest in Bitcoin and other cryptocurrencies",
           "link": "https://thedefiant.io/news/regulation/iowa-introduces-bill-allowing-state-treasurer-to-invest-bitcoin-crypto-accessing-f6cd202b",
           "publishedOn": "2025-02-21T15:27:25.000Z",
-          "wordCount": 2695,
+          "wordCount": 2696,
           "title": "Iowa Introduces Bill Allowing State Treasurer to Invest in Bitcoin and Crypto, Accessing $45 Billion Fund",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bcec9ccf1f61d24efa1c2d4b7d3721bd0e45b56e-1200x1008.jpg",
@@ -1523,21 +1538,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7c78d0534618acd444511c00fa7fad785dd30c93-1200x900.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/wintermute-trading-world-s-leading-digital-asset-market-maker-plans-us-expansion-6653e38c",
-          "author": "DeepNewz",
-          "description": "Wintermute is planning to expand its operations in the United States",
-          "link": "https://thedefiant.io/news/cefi/wintermute-trading-world-s-leading-digital-asset-market-maker-plans-us-expansion-6653e38c",
-          "publishedOn": "2025-02-19T12:00:08.000Z",
-          "wordCount": 2612,
-          "title": "Wintermute Trading, World's Leading Digital Asset Market Maker, Plans US Expansion and New Products After Tencent Funding",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bf78a112df3906ce46616acc2a855a5dd99d81c5-662x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bf78a112df3906ce46616acc2a855a5dd99d81c5-662x1200.jpg"
         }
       ]
     },

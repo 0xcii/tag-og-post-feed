@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-28T19:14:23.776Z</id>
+    <id>urn:2025-02-28T20:18:04.174Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-28T19:14:23.776Z</updated>
+    <updated>2025-02-28T20:18:04.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CME Group Announces Launch of Solana Futures Pending Regulatory Approval]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/cme-group-announces-launch-solana-futures-pending-regulatory-approval-daa3ead8</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/cme-group-announces-launch-solana-futures-pending-regulatory-approval-daa3ead8"/>
+        <updated>2025-02-28T19:30:15.000Z</updated>
+        <summary type="html"><![CDATA[CME Group, the world's largest derivatives marketplace, announced plans to launch Solana (SOL) futures contracts on March 17, 2025]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Bounce After CME Announces Solana Futures]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-bounce-after-cme-announces-solana-futures</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/hong-kong-aims-to-asia-s-digital-asset-hub-new-derivative-products-says-sfc-ceo-a370cb1a"/>
         <updated>2025-02-19T13:00:03.000Z</updated>
         <summary type="html"><![CDATA[Hong Kong is actively working to establish itself as a central hub for digital asset services in Asia, as highlighted during the Consensus 2025 conference]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wintermute Trading, World's Leading Digital Asset Market Maker, Plans US Expansion and New Products After Tencent Funding]]></title>
-        <id>https://thedefiant.io/news/cefi/wintermute-trading-world-s-leading-digital-asset-market-maker-plans-us-expansion-6653e38c</id>
-        <link href="https://thedefiant.io/news/cefi/wintermute-trading-world-s-leading-digital-asset-market-maker-plans-us-expansion-6653e38c"/>
-        <updated>2025-02-19T12:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Wintermute is planning to expand its operations in the United States]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
