@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-28T22:15:31.971Z</id>
+    <id>urn:2025-02-28T23:15:15.342Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-28T22:15:31.971Z</updated>
+    <updated>2025-02-28T23:15:15.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Flips PumpFun to Become Top 3 Revenue Generator in DeFi]]></title>
+        <id>https://thedefiant.io/news/defi/hyperliquid-flips-pumpfun-to-become-top-3-revenue-generator-in-defi</id>
+        <link href="https://thedefiant.io/news/defi/hyperliquid-flips-pumpfun-to-become-top-3-revenue-generator-in-defi"/>
+        <updated>2025-02-28T22:20:16.000Z</updated>
+        <summary type="html"><![CDATA[The protocol only trails stablecoin issuers Tether and Circle.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtuals Protocol Revenue Craters by 95%]]></title>
         <id>https://thedefiant.io/news/defi/virtuals-protocol-revenue-craters-by-95</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/rwa-tokenization-firm-centrifuge-has-a-new-ceo-bhaji-illuminati</id>
         <link href="https://thedefiant.io/news/defi/rwa-tokenization-firm-centrifuge-has-a-new-ceo-bhaji-illuminati"/>
         <updated>2025-02-21T03:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Centrifuge, a real-world asset (RWA) protocol with over $100 million of total value locked, has a new CEO, Bhaji Illuminati.]]></summary>
+        <summary type="html"><![CDATA[The former CMO sees real-world asset tokenization as being at an inflection point.]]></summary>
         <author>
             <name>Leo Jakobson</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Low volatility, higher gas limits and transactions moving to Layer 2s all played a part.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Franklin Templeton Launches Tokenized U.S. Treasury Fund on Stellar Network in Luxembourg for European Investors]]></title>
-        <id>https://thedefiant.io/news/defi/franklin-templeton-launches-tokenized-u-s-treasury-fund-on-stellar-network-cbefa6f7</id>
-        <link href="https://thedefiant.io/news/defi/franklin-templeton-launches-tokenized-u-s-treasury-fund-on-stellar-network-cbefa6f7"/>
-        <updated>2025-02-19T22:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Franklin Templeton has launched its first tokenized U.S. Treasury fund in Luxembourg]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>

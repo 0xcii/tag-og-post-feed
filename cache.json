@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/hyperliquid-flips-pumpfun-to-become-top-3-revenue-generator-in-defi",
+          "author": "Squiffs",
+          "description": "The protocol only trails stablecoin issuers Tether and Circle.",
+          "link": "https://thedefiant.io/news/defi/hyperliquid-flips-pumpfun-to-become-top-3-revenue-generator-in-defi",
+          "publishedOn": "2025-02-28T22:20:16.000Z",
+          "wordCount": 2731,
+          "title": "Hyperliquid Flips PumpFun to Become Top 3 Revenue Generator in DeFi",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/adf22f3f53acdee84c98036608991a9395fc46b3-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/adf22f3f53acdee84c98036608991a9395fc46b3-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/virtuals-protocol-revenue-craters-by-95",
           "author": "Joel Lim",
           "description": "Virtuals Protocol’s daily revenue continues to drop due to dwindling demand for AI agent tokens.",
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/news/defi/rwa-tokenization-firm-centrifuge-has-a-new-ceo-bhaji-illuminati",
           "author": "Leo Jakobson",
-          "description": "Centrifuge, a real-world asset (RWA) protocol with over $100 million of total value locked, has a new CEO, Bhaji Illuminati.",
+          "description": "The former CMO sees real-world asset tokenization as being at an inflection point.",
           "link": "https://thedefiant.io/news/defi/rwa-tokenization-firm-centrifuge-has-a-new-ceo-bhaji-illuminati",
           "publishedOn": "2025-02-21T03:24:20.000Z",
           "wordCount": 3204,
@@ -1523,21 +1538,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/223efe33e91a3fca76cf4886822d869b87303a1a-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/franklin-templeton-launches-tokenized-u-s-treasury-fund-on-stellar-network-cbefa6f7",
-          "author": "DeepNewz",
-          "description": "Franklin Templeton has launched its first tokenized U.S. Treasury fund in Luxembourg",
-          "link": "https://thedefiant.io/news/defi/franklin-templeton-launches-tokenized-u-s-treasury-fund-on-stellar-network-cbefa6f7",
-          "publishedOn": "2025-02-19T22:00:39.000Z",
-          "wordCount": 2629,
-          "title": "Franklin Templeton Launches Tokenized U.S. Treasury Fund on Stellar Network in Luxembourg for European Investors",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7ce75cbddd15581f82e3b88c3cba2ccbae0f7963-1178x396.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7ce75cbddd15581f82e3b88c3cba2ccbae0f7963-1178x396.jpg"
         }
       ]
     },
