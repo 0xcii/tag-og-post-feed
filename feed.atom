@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-03T20:18:36.390Z</id>
+    <id>urn:2025-03-03T21:16:43.891Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-03T20:18:36.390Z</updated>
+    <updated>2025-03-03T21:16:43.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Michael Saylor Predicts Bitcoin Market Cap Will Reach $20 Trillion and $200 Trillion, Calling It a $100 Trillion Opportunity on CNBC]]></title>
+        <id>https://thedefiant.io/news/people/michael-saylor-predicts-bitcoin-market-cap-reach-20-trillion-200-trillion-100-on-4585448b</id>
+        <link href="https://thedefiant.io/news/people/michael-saylor-predicts-bitcoin-market-cap-reach-20-trillion-200-trillion-100-on-4585448b"/>
+        <updated>2025-03-03T21:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Michael Saylor, the CEO of MicroStrategy, made bold predictions regarding Bitcoin's future during a recent appearance on CNBC]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zora Announces Token Airdrop 'For Fun']]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/zora-announces-token-airdrop-for-fun</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/zora-announces-token-airdrop-for-fun"/>
+        <updated>2025-03-03T20:10:56.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum Layer 2 will launch its official token this spring with 10% of its supply allocated to an airdrop.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Standard Chartered Sets $500,000 Bitcoin Target for 2028 Amid Trump's Crypto Reserve Plan]]></title>
         <id>https://thedefiant.io/news/markets/standard-chartered-sets-500000-bitcoin-target-2028-amid-trump-s-crypto-reserve-4f064e43</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/ethereum-foundation-seeks-social-media-manager-hiring-notice-amid-community-over-629d2e71"/>
         <updated>2025-02-20T18:50:06.000Z</updated>
         <summary type="html"><![CDATA[The Ethereum Foundation has announced a hiring notice for a social media manager, aiming to regain community support amid concerns that developers and projects are migrating to competing platforms like Solana and SUI]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Davis Reveals Tactics to "Max Extract" from Memecoins Like LIBRA and MELANIA]]></title>
-        <id>https://thedefiant.io/news/defi/davis-reveals-tactics-to-max-extract-from-memecoins-like-libra-and-melania</id>
-        <link href="https://thedefiant.io/news/defi/davis-reveals-tactics-to-max-extract-from-memecoins-like-libra-and-melania"/>
-        <updated>2025-02-20T18:39:17.000Z</updated>
-        <summary type="html"><![CDATA[Kelsier Ventures and Hayden Davis were behind the two largest rug pulls of 2025, LIBRA and MELANIA.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB Chain's $4.4 Million Meme Token Liquidity Program Starts February 18, 2025, with $BROCCOLI as First Winner]]></title>
-        <id>https://thedefiant.io/news/blockchains/bnb-chain-s-4-4-million-meme-token-liquidity-program-starts-february-18-2025-d3c861e1</id>
-        <link href="https://thedefiant.io/news/blockchains/bnb-chain-s-4-4-million-meme-token-liquidity-program-starts-february-18-2025-d3c861e1"/>
-        <updated>2025-02-20T18:00:21.000Z</updated>
-        <summary type="html"><![CDATA[The BNB Chain has initiated a $4.4 million liquidity support program aimed at bolstering its meme token ecosystem.]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
