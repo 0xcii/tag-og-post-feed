@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/standard-chartered-sets-500000-bitcoin-target-2028-amid-trump-s-crypto-reserve-4f064e43",
+          "author": "DeepNewz",
+          "description": "Geoff Kendrick, Head of Digital Assets Research at Standard Chartered, remains optimistic about Bitcoin's future despite recent market fluctuations",
+          "link": "https://thedefiant.io/news/markets/standard-chartered-sets-500000-bitcoin-target-2028-amid-trump-s-crypto-reserve-4f064e43",
+          "publishedOn": "2025-03-03T19:00:33.000Z",
+          "wordCount": 2745,
+          "title": "Standard Chartered Sets $500,000 Bitcoin Target for 2028 Amid Trump's Crypto Reserve Plan",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4edc2e80a139ba38a5ee720168b01d1e1d1cb914-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4edc2e80a139ba38a5ee720168b01d1e1d1cb914-1200x675.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/aave-launches-lending-markets-on-sonic-blockchain-15-million-backing-first-layer-a87b168e",
           "author": "DeepNewz",
           "description": "Aave has launched its lending markets on the Sonic blockchain, marking its first Layer 1 expansion of the year",
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/bybit-suffers-security-exploit-with-usd1-5b-drained-so-far",
           "author": "Squiffs",
-          "description": "ByBit, the second-largest centralized exchange by trading volume, is experiencing a security exploit, according to onchain sleuth ZachXBT.",
+          "description": "The exploit has primarily affected staked ETH assets.",
           "link": "https://thedefiant.io/news/hacks/bybit-suffers-security-exploit-with-usd1-5b-drained-so-far",
           "publishedOn": "2025-02-21T15:57:27.000Z",
           "wordCount": 2790,
@@ -1523,21 +1538,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5a45fe2e01be2022bc096d18b3d800d581bbf468-699x1199.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/ecb-explores-blockchain-based-payment-system-bad6651f",
-          "author": "DeepNewz",
-          "description": "The European Central Bank (ECB) is exploring the development of a blockchain-based payment system, according to reports from Bloomberg and other sources",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/ecb-explores-blockchain-based-payment-system-bad6651f",
-          "publishedOn": "2025-02-20T17:30:21.000Z",
-          "wordCount": 2556,
-          "title": "ECB Explores Blockchain-Based Payment System",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/41c45c3fc682c7d2b423a0432bf54d6094cd06d2-1200x800.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/41c45c3fc682c7d2b423a0432bf54d6094cd06d2-1200x800.jpg"
         }
       ]
     },
