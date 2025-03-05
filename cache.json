@@ -11,7 +11,7 @@
           "description": "Many readers forget the principle of KISS when reacting to the policy firehose of US President Donald Trump’s administration. Trump’s…",
           "link": "https://cryptohayes.medium.com/kiss-of-death-916ae30fedc5?source=rss-2f6e06954878------2",
           "publishedOn": "2025-03-03T23:02:41.000Z",
-          "wordCount": 8073,
+          "wordCount": 8072,
           "title": "KISS of Death",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*Bkb4sy7nzXjfKUIZ.png"
         },
@@ -31,7 +31,7 @@
           "description": "Headquartered at Mar-a-Lago, the Pax Americana Make-A-Wish Corporation receives many supplicants. The crypto folks are lining up just like..",
           "link": "https://cryptohayes.medium.com/the-genie-348d557b4fd4?source=rss-2f6e06954878------2",
           "publishedOn": "2025-02-05T23:01:40.000Z",
-          "wordCount": 13422,
+          "wordCount": 13421,
           "title": "The Genie",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:400/0*rrZx8UKsqPkBkdRR.png"
         }
@@ -54,6 +54,16 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/christie-s-augmented-intelligence-ai-art-auction-closes-on-march-5-2025-34-lots-0fecbeac",
+          "author": "DeepNewz",
+          "description": "Christie's has concluded its first-ever auction dedicated entirely to AI art, titled 'Augmented Intelligence,' which closed on March 5, 2025",
+          "link": "https://thedefiant.io/news/nfts-and-web3/christie-s-augmented-intelligence-ai-art-auction-closes-on-march-5-2025-34-lots-0fecbeac",
+          "publishedOn": "2025-03-05T21:30:30.000Z",
+          "wordCount": 2748,
+          "title": "Christie's 'Augmented Intelligence' AI Art Auction Closes on March 5, 2025, with 34 Lots Fetching $728,784",
+          "imageUrl": null
+        },
         {
           "id": "https://thedefiant.io/news/regulation/south-korea-s-financial-supervisory-service-set-to-approve-btc-etfs-soon-japan-s-433718d9",
           "author": "DeepNewz",
@@ -1513,21 +1523,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5f4a87c581feac69566df307d81858d85fff9345-1200x1008.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/yzi-labs-invests-crypto-ai-startup-vana-focused-on-data-ownership-cz-joins-41470faa",
-          "author": "DeepNewz",
-          "description": "YZi Labs, previously known as Binance Labs, has made an investment in the crypto-AI startup Vana, which specializes in data ownership",
-          "link": "https://thedefiant.io/news/nfts-and-web3/yzi-labs-invests-crypto-ai-startup-vana-focused-on-data-ownership-cz-joins-41470faa",
-          "publishedOn": "2025-02-24T17:30:21.000Z",
-          "wordCount": 2664,
-          "title": "YZi Labs Invests in Crypto-AI Startup Vana Focused on Data Ownership, CZ Joins as Advisor",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/251aaf943820717e2d144e84e7e6ad435a054178-1080x1080.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/251aaf943820717e2d144e84e7e6ad435a054178-1080x1080.jpg"
         }
       ]
     },

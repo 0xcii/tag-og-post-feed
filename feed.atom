@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-05T21:15:54.162Z</id>
+    <id>urn:2025-03-05T22:16:01.746Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-05T21:15:54.162Z</updated>
+    <updated>2025-03-05T22:16:01.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Christie's 'Augmented Intelligence' AI Art Auction Closes on March 5, 2025, with 34 Lots Fetching $728,784]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/christie-s-augmented-intelligence-ai-art-auction-closes-on-march-5-2025-34-lots-0fecbeac</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/christie-s-augmented-intelligence-ai-art-auction-closes-on-march-5-2025-34-lots-0fecbeac"/>
+        <updated>2025-03-05T21:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Christie's has concluded its first-ever auction dedicated entirely to AI art, titled 'Augmented Intelligence,' which closed on March 5, 2025]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[South Korea's Financial Supervisory Service Set to Approve $BTC ETFs Soon, Following Japan's Lead]]></title>
         <id>https://thedefiant.io/news/regulation/south-korea-s-financial-supervisory-service-set-to-approve-btc-etfs-soon-japan-s-433718d9</id>
@@ -1001,16 +1011,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/dekabank-launches-crypto-trading-custody-services-institutional-clients-managing-9c52d905"/>
         <updated>2025-02-24T17:48:07.000Z</updated>
         <summary type="html"><![CDATA[DekaBank, one of Germany's largest banks with approximately €377 billion ($395 billion) in assets under management, has officially launched cryptocurrency trading and custody services aimed at institutional clients]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YZi Labs Invests in Crypto-AI Startup Vana Focused on Data Ownership, CZ Joins as Advisor]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/yzi-labs-invests-crypto-ai-startup-vana-focused-on-data-ownership-cz-joins-41470faa</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/yzi-labs-invests-crypto-ai-startup-vana-focused-on-data-ownership-cz-joins-41470faa"/>
-        <updated>2025-02-24T17:30:21.000Z</updated>
-        <summary type="html"><![CDATA[YZi Labs, previously known as Binance Labs, has made an investment in the crypto-AI startup Vana, which specializes in data ownership]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
