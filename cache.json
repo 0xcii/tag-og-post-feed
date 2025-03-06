@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/u-s-sold-195000-bitcoins-366m-now-worth-17b-says-crypto-czar-6aa9695b",
+          "author": "DeepNewz",
+          "description": "\"If the government had held the bitcoin, it would be worth over $17 billion today,\" Sacks noted.",
+          "link": "https://thedefiant.io/news/regulation/u-s-sold-195000-bitcoins-366m-now-worth-17b-says-crypto-czar-6aa9695b",
+          "publishedOn": "2025-03-06T16:12:33.000Z",
+          "wordCount": 2609,
+          "title": "U.S. Sold 195,000 Bitcoins for $366M, Now Worth $17B, Says Crypto Czar",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2ee72905d80c8b80038ae4f0ec867fba66e03f88-1179x485.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2ee72905d80c8b80038ae4f0ec867fba66e03f88-1179x485.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/bitwise-makes-first-institutional-defi-allocation-via-maple-finance",
           "author": "Squiffs",
           "description": "The asset management firm is participating in Maple’s onchain credit fund.",
@@ -120,7 +135,7 @@
           "description": "Bitwise, a crypto ETF issuer, has filed an S-1 registration statement for an Aptos ETF",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bitwise-files-s-1-aptos-apt-etf-token-sees-18-price-surge-b24cbd70",
           "publishedOn": "2025-03-05T23:00:49.000Z",
-          "wordCount": 2710,
+          "wordCount": 2682,
           "title": "Bitwise Files S-1 for Aptos (APT) ETF, Token Sees 18% Price Surge",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ce1651b6afd871751cc3eceab260ffd549629683-1080x1080.jpg",
@@ -135,7 +150,7 @@
           "description": "Robinhood has expanded its cryptocurrency offerings by listing Arbitrum ($ARB), an ETH L2 token for Ethereum, on its trading platform",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-lists-arbitrum-arb-eth-l2-token-to-expand-cryptocurrency-offerings-0b335e59",
           "publishedOn": "2025-03-05T22:30:16.000Z",
-          "wordCount": 2634,
+          "wordCount": 2606,
           "title": "Robinhood Lists Arbitrum ($ARB), an ETH L2 Token, to Expand Cryptocurrency Offerings",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2d3b1f2bc76d98e50c496efb3b44875d4adcd95f-960x1200.png",
@@ -315,7 +330,7 @@
           "description": "SBI VC Trade, a cryptocurrency exchange under the SBI Group, announced that it will launch transactions for the stablecoin USDC on March 12, 2025",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/sbi-vc-trade-to-launch-first-global-dollar-stablecoin-usdc-transactions-japan-on-a464e8cf",
           "publishedOn": "2025-03-04T23:00:07.000Z",
-          "wordCount": 2752,
+          "wordCount": 2724,
           "title": "SBI VC Trade to Launch First Global Dollar Stablecoin USDC Transactions in Japan on March 12, 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2726b90d76c9cdfc138a899d7fb13cb374d9637e-1012x675.jpg",
@@ -390,7 +405,7 @@
           "description": "Tom Lee, Chief Investment Officer of Fundstrat, has reaffirmed his prediction that Bitcoin will surpass $150,000 by the end of 2025",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/fundstrat-s-tom-lee-predicts-bitcoin-to-hit-150k-2025-highlights-83k-price-c4500bc7",
           "publishedOn": "2025-03-04T20:00:26.000Z",
-          "wordCount": 2758,
+          "wordCount": 2730,
           "title": "Fundstrat's Tom Lee Predicts Bitcoin to Hit $150K by 2025, Highlights $83K Price and Market Cycles",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/825eb3e4585b423133d3460e8319a663a96e124e-1200x800.jpg",
@@ -460,7 +475,7 @@
           "description": "BlackRock has stated that if every millionaire in the United States requested one Bitcoin from their financial advisors, there would not be enough Bitcoin available to meet that demand.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-11-5-trillion-firm-warns-bitcoin-shortage-56-million-u-s-millionaires-1c0d1faa",
           "publishedOn": "2025-03-04T16:58:24.000Z",
-          "wordCount": 2747,
+          "wordCount": 2719,
           "title": "BlackRock: $11.5 Trillion Firm Warns of Bitcoin Shortage for 56 Million U.S. Millionaires Amid 21 Million Bitcoin Supply",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c60889d69f261dcdb8cb51c2ce6e412bd6f0804c-1199x570.jpg",
@@ -770,7 +785,7 @@
           "description": "CME Group, the world's largest derivatives marketplace, announced plans to launch Solana (SOL) futures contracts on March 17, 2025",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-announces-launch-solana-futures-pending-regulatory-approval-daa3ead8",
           "publishedOn": "2025-02-28T19:30:15.000Z",
-          "wordCount": 2689,
+          "wordCount": 2661,
           "title": "CME Group Announces Launch of Solana Futures Pending Regulatory Approval",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cd4a3e6fc15756df6da328a5a8002e0c32a66c3e-1200x675.jpg",
@@ -800,7 +815,7 @@
           "description": "BlackRock Inc has included its iShares Bitcoin Trust ETF (IBIT) in its model portfolio for the first time.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-adds-48-billion-ishares-bitcoin-trust-etf-to-model-portfolio-1-2-875872ee",
           "publishedOn": "2025-02-28T19:00:45.000Z",
-          "wordCount": 2695,
+          "wordCount": 2667,
           "title": "BlackRock Adds $48 Billion iShares Bitcoin Trust ETF to Model Portfolio with 1-2% Allocation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8228fe499675a1f6b98361dd7f7a806067e031d4-1200x434.jpg",
@@ -1020,7 +1035,7 @@
           "description": "Standard Chartered Bank, valued at $1 trillion, has forecasted that Bitcoin could reach $500,000 before the end of Donald Trump's presidency",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/standard-chartered-predicts-bitcoin-500000-before-trump-s-presidency-200000-this-71634afc",
           "publishedOn": "2025-02-27T18:30:13.000Z",
-          "wordCount": 2722,
+          "wordCount": 2694,
           "title": "Standard Chartered Predicts Bitcoin at $500,000 Before Trump's Presidency, $200,000 This Year",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca99f6e5d8b35a2812dfde60f932597da7374dee-1200x675.jpg",
@@ -1245,7 +1260,7 @@
           "description": "Bank of America CEO Brian Moynihan has indicated that the bank, the second largest in the United States, is poised to launch a stablecoin pegged to the US dollar, contingent on regulatory approval",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bank-america-ceo-brian-moynihan-signals-launch-usd-pegged-stablecoin-second-us-fbe72fea",
           "publishedOn": "2025-02-26T17:49:35.000Z",
-          "wordCount": 2763,
+          "wordCount": 2735,
           "title": "Bank of America CEO Brian Moynihan Signals Launch of USD-Pegged Stablecoin by Second Largest US Bank Pending Regulatory Approval",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ad066713c721b187d65b0ed1defa2386d2115ceb-1199x710.jpg",
@@ -1275,7 +1290,7 @@
           "description": "Grayscale Investments has filed for a spot Polkadot ETF with Nasdaq, aiming to expand its offerings in the cryptocurrency market",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-files-dot-etf-nasdaq-second-polkadot-etf-application-this-year-7ec584a1",
           "publishedOn": "2025-02-25T22:00:37.000Z",
-          "wordCount": 2682,
+          "wordCount": 2654,
           "title": "Grayscale Files for $DOT ETF with Nasdaq, Second Polkadot ETF Application This Year",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0020a08a8a959b7e7562f9835bafd331f2a1ac0a-900x500.jpg",
@@ -1485,7 +1500,7 @@
           "description": "Rezolve AI (NASDAQ: RZLV) has announced a $1 billion Bitcoin funding plan, with an initial investment of $100 million",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/rezolve-ai-announces-1-billion-bitcoin-funding-plan-initial-100-million-tether-e2a09642",
           "publishedOn": "2025-02-24T23:00:38.000Z",
-          "wordCount": 2658,
+          "wordCount": 2630,
           "title": "Rezolve AI Announces $1 Billion Bitcoin Funding Plan with Initial $100 Million Investment, Partnering with Tether",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fbb1219788af465f8ba07e7ff6ad25dafb75075b-926x919.jpg",
@@ -1508,21 +1523,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3577e16c478504fdf05279773e2fbeca26cbc204-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-files-solana-etf-on-cboe-bzx-including-staking-rewards-amid-9bc35117",
-          "author": "DeepNewz",
-          "description": "Franklin Templeton has filed for a spot Solana exchange-traded fund (ETF)",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-files-solana-etf-on-cboe-bzx-including-staking-rewards-amid-9bc35117",
-          "publishedOn": "2025-02-24T22:00:27.000Z",
-          "wordCount": 2794,
-          "title": "Franklin Templeton Files for Solana ETF on Cboe BZX, Including Staking Rewards Amid SEC Case Dismissal Against Coinbase",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/71efa0c32fd06d1addaa96adf46d0d3ab797b3dc-1024x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/71efa0c32fd06d1addaa96adf46d0d3ab797b3dc-1024x1024.jpg"
         }
       ]
     },
