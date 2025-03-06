@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-06T19:13:18.462Z</id>
+    <id>urn:2025-03-06T20:18:22.929Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-06T19:13:18.462Z</updated>
+    <updated>2025-03-06T20:18:22.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ondo Finance TVL Surpasses $1 Billion Becoming Largest RWA Platform]]></title>
+        <id>https://thedefiant.io/news/defi/ondo-finance-tvl-surpasses-usd1-billion-becoming-largest-rwa-platform</id>
+        <link href="https://thedefiant.io/news/defi/ondo-finance-tvl-surpasses-usd1-billion-becoming-largest-rwa-platform"/>
+        <updated>2025-03-06T19:59:48.000Z</updated>
+        <summary type="html"><![CDATA[The recent growth within the Ondo Finance ecosystem is likely due to the launch of Ondo Nexus.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhutan's $1B Bitcoin Reserves Fund Salaries, Boost Economy with Hydropower Mining]]></title>
+        <id>https://thedefiant.io/news/regulation/bhutan-s-1b-bitcoin-reserves-fund-salaries-boost-economy-hydropower-mining-64aa1c54</id>
+        <link href="https://thedefiant.io/news/regulation/bhutan-s-1b-bitcoin-reserves-fund-salaries-boost-economy-hydropower-mining-64aa1c54"/>
+        <updated>2025-03-06T19:55:25.000Z</updated>
+        <summary type="html"><![CDATA[Bhutan's Prime Minister Tshering Tobgay has disclosed that the country's Bitcoin reserves have been instrumental in financing national expenses, including salaries for public servants, healthcare, and environmental projects]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Drops Ahead of Trump’s White House Crypto Summit]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-drops-ahead-of-trump-s-white-house-crypto-summit</id>
@@ -993,26 +1013,6 @@
         <summary type="html"><![CDATA[Altcoins have been decimated in the past 24 hours, with ETH, SOL and XRP down 10% as the total crypto market cap dipped under $3 trillion.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether's USDT to Enable 'Gas Free' Transactions on TRON Blockchain Next Week, Says Justin Sun]]></title>
-        <id>https://thedefiant.io/news/defi/tether-s-usdt-to-enable-gas-free-transactions-on-tron-blockchain-next-week-says-d62eb4a0</id>
-        <link href="https://thedefiant.io/news/defi/tether-s-usdt-to-enable-gas-free-transactions-on-tron-blockchain-next-week-says-d62eb4a0"/>
-        <updated>2025-02-25T19:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Tether's USDT will soon facilitate fee-free transactions on the TRON blockchain, as announced by Justin Sun, the founder of TRON]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Trump Encourages Investors to 'Buy the Dips' in Cryptocurrencies]]></title>
-        <id>https://thedefiant.io/news/people/eric-trump-encourages-investors-to-buy-the-dips-cryptocurrencies-cb48c5e2</id>
-        <link href="https://thedefiant.io/news/people/eric-trump-encourages-investors-to-buy-the-dips-cryptocurrencies-cb48c5e2"/>
-        <updated>2025-02-25T18:29:19.000Z</updated>
-        <summary type="html"><![CDATA[Eric Trump, son of President Donald Trump, has publicly encouraged investors to 'buy the dips' in a recent social media post]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>
