@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-10T09:15:29.073Z</id>
+    <id>urn:2025-03-10T10:16:13.556Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-10T09:15:29.073Z</updated>
+    <updated>2025-03-10T10:16:13.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Leadership Remains Divided Over Token Inflation Proposal]]></title>
+        <id>https://thedefiant.io/news/blockchains/solana-leadership-remains-divided-over-token-inflation-proposal</id>
+        <link href="https://thedefiant.io/news/blockchains/solana-leadership-remains-divided-over-token-inflation-proposal"/>
+        <updated>2025-03-10T10:10:46.000Z</updated>
+        <summary type="html"><![CDATA[SIMD-0228 proposes to update Solana’s fixed inflation mechanism to a dynamic, market-driven model.]]></summary>
+        <author>
+            <name>Joel Lim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should THORChain Have Processed Bybit Hack Funds? Industry is Split]]></title>
         <id>https://thedefiant.io/news/defi/should-thorchain-have-processed-bybit-hack-funds-industry-is-split</id>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[LTC surged as broader markets retreated, but the rally may not have legs once an exchange-traded fund is approved, argues Woo Network’s Ben Yorke.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwise CIO Predicts End of Memecoin Supercycle]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/bitwise-cio-predicts-end-of-memecoin-supercycle</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/bitwise-cio-predicts-end-of-memecoin-supercycle"/>
-        <updated>2025-02-26T22:25:47.000Z</updated>
-        <summary type="html"><![CDATA[Matt Hougan believes other narratives like institutional Bitcoin adoption, stablecoins, and tokenization could replace memecoins.]]></summary>
-        <author>
-            <name>Joel Lim</name>
         </author>
     </entry>
     <entry>
