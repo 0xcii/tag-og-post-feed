@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-11T18:24:19.984Z</id>
+    <id>urn:2025-03-11T19:14:18.390Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-11T18:24:19.984Z</updated>
+    <updated>2025-03-11T19:14:18.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Bears Take Control As Investors Hedge Against Bitcoin Falling Below $75,000]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-bears-take-control-as-investors-hedge-against-bitcoin-falling-below-usd75-000</id>
+        <link href="https://thedefiant.io/news/markets/crypto-bears-take-control-as-investors-hedge-against-bitcoin-falling-below-usd75-000"/>
+        <updated>2025-03-11T18:59:38.000Z</updated>
+        <summary type="html"><![CDATA[Open interest in the options market shows traders eye $75,000 and $70,000 as key levels.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Rebounds Above $82,000 But Altcoins Lag Behind]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-rebounds-above-usd82-000-but-altcoins-lag-behind</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/bitcoin-had-its-best-quarter-ever-messari-says</id>
         <link href="https://thedefiant.io/news/blockchains/bitcoin-had-its-best-quarter-ever-messari-says"/>
         <updated>2025-03-04T02:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The report shows Bitcoin made significant progress in areas including circulating market cap and DeFi TVL.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin had its best quarter ever in the last three months of 2024, research firm Messari said in a March 3 report.]]></summary>
         <author>
             <name>Joel Lim</name>
         </author>
@@ -1001,16 +1011,6 @@
         <link href="https://thedefiant.io/news/people/elon-musk-calls-meme-coins-gambling-streamer-s-death-highlights-crypto-risks-c5862321"/>
         <updated>2025-02-28T20:41:23.000Z</updated>
         <summary type="html"><![CDATA[Elon Musk, during an appearance on the Joe Rogan Experience podcast, compared meme coins to gambling, describing them as being 'like a casino or something]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC's Mark Uyeda Announces 'Spring Sprint Towards Crypto Clarity' Roundtables on Bitcoin, Starting March 21]]></title>
-        <id>https://thedefiant.io/news/regulation/sec-s-mark-uyeda-announces-spring-sprint-towards-crypto-clarity-roundtables-on-c512015c</id>
-        <link href="https://thedefiant.io/news/regulation/sec-s-mark-uyeda-announces-spring-sprint-towards-crypto-clarity-roundtables-on-c512015c"/>
-        <updated>2025-02-28T20:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The SEC is set to host its inaugural roundtables on Bitcoin and cryptocurrency this March]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
