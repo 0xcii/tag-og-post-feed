@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/vaneck-registers-spot-solana-etf-delaware-boosting-sol-enthusiasm-3-3-million-29ea7f82",
+          "author": "DeepNewz",
+          "description": "VanEck has officially registered a spot Solana ETF in Delaware, a move that has been met with enthusiasm in the cryptocurrency community",
+          "link": "https://thedefiant.io/news/markets/vaneck-registers-spot-solana-etf-delaware-boosting-sol-enthusiasm-3-3-million-29ea7f82",
+          "publishedOn": "2025-03-10T22:00:53.000Z",
+          "wordCount": 2668,
+          "title": "VanEck Registers Spot Solana ETF in Delaware, Boosting $SOL Enthusiasm; 3.3 Million SOL Staked",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/82c0f7963b7d3b97157f2bfcb1ea362622eca82b-900x900.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/82c0f7963b7d3b97157f2bfcb1ea362622eca82b-900x900.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/solana-revenue-crashes-90-from-january-highs",
           "author": "Squiffs",
           "description": "The chain’s revenue has taken a huge hit following the memecoin cycle’s cooldown.",
@@ -1493,21 +1508,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ddd0575fe3a763aee68a2154ce434717662d8a14-1030x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/mkr-soars-50-following-thwarted-governance-attack",
-          "author": "Joel Lim",
-          "description": "Sky (formerly MakerDAO) has partnered with Berachain to push the cross-chain expansion of its USDS stablecoin.",
-          "link": "https://thedefiant.io/news/defi/mkr-soars-50-following-thwarted-governance-attack",
-          "publishedOn": "2025-02-27T21:54:18.000Z",
-          "wordCount": 2669,
-          "title": "MKR Soars 50% Following Thwarted Governance Attack",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/06595a4cb3f2d8304d183227f2984713c222f34d-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/06595a4cb3f2d8304d183227f2984713c222f34d-1555x875.png"
         }
       ]
     },

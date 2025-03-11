@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-11T06:24:04.468Z</id>
+    <id>urn:2025-03-11T07:16:24.315Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-11T06:24:04.468Z</updated>
+    <updated>2025-03-11T07:16:24.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[VanEck Registers Spot Solana ETF in Delaware, Boosting $SOL Enthusiasm; 3.3 Million SOL Staked]]></title>
+        <id>https://thedefiant.io/news/markets/vaneck-registers-spot-solana-etf-delaware-boosting-sol-enthusiasm-3-3-million-29ea7f82</id>
+        <link href="https://thedefiant.io/news/markets/vaneck-registers-spot-solana-etf-delaware-boosting-sol-enthusiasm-3-3-million-29ea7f82"/>
+        <updated>2025-03-10T22:00:53.000Z</updated>
+        <summary type="html"><![CDATA[VanEck has officially registered a spot Solana ETF in Delaware, a move that has been met with enthusiasm in the cryptocurrency community]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Revenue Crashes 90% From January Highs]]></title>
         <id>https://thedefiant.io/news/blockchains/solana-revenue-crashes-90-from-january-highs</id>
@@ -1003,16 +1013,6 @@
         <summary type="html"><![CDATA[Pi Network's PI token has surged significantly following the launch of its Open Network on February 20, 2025]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MKR Soars 50% Following Thwarted Governance Attack]]></title>
-        <id>https://thedefiant.io/news/defi/mkr-soars-50-following-thwarted-governance-attack</id>
-        <link href="https://thedefiant.io/news/defi/mkr-soars-50-following-thwarted-governance-attack"/>
-        <updated>2025-02-27T21:54:18.000Z</updated>
-        <summary type="html"><![CDATA[Sky (formerly MakerDAO) has partnered with Berachain to push the cross-chain expansion of its USDS stablecoin.]]></summary>
-        <author>
-            <name>Joel Lim</name>
         </author>
     </entry>
     <entry>
