@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-11T21:13:05.079Z</id>
+    <id>urn:2025-03-11T22:15:34.233Z</id>
     <title>web3::cave</title>
-    <updated>2025-03-11T21:13:05.079Z</updated>
+    <updated>2025-03-11T22:15:34.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -866,16 +866,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KISS of Death]]></title>
-        <id>https://medium.com/p/916ae30fedc5</id>
-        <link href="https://cryptohayes.medium.com/kiss-of-death-916ae30fedc5?source=rss-2f6e06954878------2"/>
-        <updated>2025-03-03T23:02:41.000Z</updated>
-        <summary type="html"><![CDATA[Many readers forget the principle of KISS when reacting to the policy firehose of US President Donald Trump’s administration. Trump’s…]]></summary>
-        <author>
-            <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Arbitrum Economy Grows with Q4 2024 GDP Projected at $90 Million, Nearing $1 Billion, Onboarding Millions to Bitcoin DeFi]]></title>
         <id>https://thedefiant.io/news/blockchains/arbitrum-economy-grows-q4-2024-gdp-projected-90-million-nearing-1-billion-to-c0f6ccd9</id>
         <link href="https://thedefiant.io/news/blockchains/arbitrum-economy-grows-q4-2024-gdp-projected-90-million-nearing-1-billion-to-c0f6ccd9"/>
@@ -1013,16 +1003,6 @@
         <summary type="html"><![CDATA[The official statement removes the threat of enforcement actions by the Securities and Exchange Commission from an entire category of cryptocurrency.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero Knowledge Proof]]></title>
-        <id>https://medium.com/p/75956024e4af</id>
-        <link href="https://cryptohayes.medium.com/zero-knowledge-proof-75956024e4af?source=rss-2f6e06954878------2"/>
-        <updated>2025-02-13T02:52:17.000Z</updated>
-        <summary type="html"><![CDATA[Before I dig into political memecoins, I need to shill the launch of my hoodie in collaboration with Dream Temple. Dream Temple is a…]]></summary>
-        <author>
-            <name>Arthur Hayes</name>
         </author>
     </entry>
 </feed>
