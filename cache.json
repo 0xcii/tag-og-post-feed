@@ -45,6 +45,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-rebounds-above-usd82-000-but-altcoins-lag-behind",
+          "author": "Jona Jaupi",
+          "description": "Escalating trade tensions and inflation concerns fueled a sell-off triggering $731 million in liquidations.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-rebounds-above-usd82-000-but-altcoins-lag-behind",
+          "publishedOn": "2025-03-11T18:15:49.000Z",
+          "wordCount": 2816,
+          "title": "Bitcoin Rebounds Above $82,000 But Altcoins Lag Behind",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cf751377bdbb37c7eb916f89bb82188c7edb1e78-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cf751377bdbb37c7eb916f89bb82188c7edb1e78-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/axelar-foundation-secures-30-million-axl-token-sales-arrington-capital-global-a252170a",
+          "author": "DeepNewz",
+          "description": "The Axelar Foundation has announced the completion of $30 million in AXL token sales aimed at enhancing its interoperability protocol",
+          "link": "https://thedefiant.io/news/defi/axelar-foundation-secures-30-million-axl-token-sales-arrington-capital-global-a252170a",
+          "publishedOn": "2025-03-11T17:34:04.000Z",
+          "wordCount": 2725,
+          "title": "Axelar Foundation Secures $30 Million in AXL Token Sales with Arrington Capital, Distributed Global, and Electric Capital Participation",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3dff88380d63cf88745c6ea94d3a4c0af4c7e2ba-1024x512.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3dff88380d63cf88745c6ea94d3a4c0af4c7e2ba-1024x512.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/u-s-congressman-nick-begich-introduces-strategic-bitcoin-reserve-bill-to-buy-1-2a4baaf3",
+          "author": "DeepNewz",
+          "description": "U",
+          "link": "https://thedefiant.io/news/regulation/u-s-congressman-nick-begich-introduces-strategic-bitcoin-reserve-bill-to-buy-1-2a4baaf3",
+          "publishedOn": "2025-03-11T17:01:59.000Z",
+          "wordCount": 2593,
+          "title": "U.S. Congressman Nick Begich Introduces Strategic Bitcoin Reserve Bill to Buy 1 Million BTC with Six Co-Sponsors",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1306d61556ba35583832071610bf0917ce6b2900-1200x600.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1306d61556ba35583832071610bf0917ce6b2900-1200x600.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/cboe-proposes-adding-staking-to-ethereum-etfs",
           "author": "Jona Jaupi",
           "description": "The move could set a precedent for other ETFs to follow.",
@@ -110,7 +155,7 @@
           "description": "VanEck has officially registered a spot Solana ETF in Delaware, a move that has been met with enthusiasm in the cryptocurrency community",
           "link": "https://thedefiant.io/news/markets/vaneck-registers-spot-solana-etf-delaware-boosting-sol-enthusiasm-3-3-million-29ea7f82",
           "publishedOn": "2025-03-10T22:00:53.000Z",
-          "wordCount": 2675,
+          "wordCount": 2669,
           "title": "VanEck Registers Spot Solana ETF in Delaware, Boosting $SOL Enthusiasm; 3.3 Million SOL Staked",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/82c0f7963b7d3b97157f2bfcb1ea362622eca82b-900x900.jpg",
@@ -125,7 +170,7 @@
           "description": "The chain’s revenue has taken a huge hit following the memecoin cycle’s cooldown.",
           "link": "https://thedefiant.io/news/blockchains/solana-revenue-crashes-90-from-january-highs",
           "publishedOn": "2025-03-10T21:23:18.000Z",
-          "wordCount": 2860,
+          "wordCount": 2856,
           "title": "Solana Revenue Crashes 90% From January Highs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7e6e389b5ad74c6f42be03a475e3cbb5f0b66ce1-1555x875.png",
@@ -155,7 +200,7 @@
           "description": "An attacker triggered empty blocks, causing Ethereum developers to scramble for a solution.",
           "link": "https://thedefiant.io/news/blockchains/attacker-stymies-ethereum-s-pectra-upgrade-on-sepolia-testnet",
           "publishedOn": "2025-03-10T20:28:42.000Z",
-          "wordCount": 2851,
+          "wordCount": 2847,
           "title": "Attacker Stymies Ethereum’s Pectra Upgrade on Sepolia Testnet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/058c262e03a1903fd733ce0baddeed0bbdb1b25f-1555x875.png",
@@ -230,7 +275,7 @@
           "description": "Liquidations surpass $667 million as macroeconomic uncertainty fuels a sell-off across global markets.",
           "link": "https://thedefiant.io/news/markets/bitcoin-drops-to-usd79-000-as-inflation-worries-mount",
           "publishedOn": "2025-03-10T17:37:11.000Z",
-          "wordCount": 2969,
+          "wordCount": 2963,
           "title": "Bitcoin Drops to $79,000 as Inflation Worries Mount",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/81e5e33b5a889ea67da32fc775be79ffa6c5780f-1555x875.png",
@@ -290,7 +335,7 @@
           "description": "Movement says Move is a more modern and safer smart contracts language.",
           "link": "https://thedefiant.io/news/blockchains/movement-launches-public-mainnet-beta-bringing-move-language-o-ethereum-layer-2s",
           "publishedOn": "2025-03-10T13:59:21.000Z",
-          "wordCount": 3477,
+          "wordCount": 3473,
           "title": "Movement Launches Public Mainnet Beta, Bringing Move Language o Ethereum Layer 2s",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/59528392cb1d0f3a9265ee778a0c2e9894435bed-1555x875.png",
@@ -320,7 +365,7 @@
           "description": "SIMD-0228 proposes to update Solana’s fixed inflation mechanism to a dynamic, market-driven model.",
           "link": "https://thedefiant.io/news/blockchains/solana-leadership-remains-divided-over-token-inflation-proposal",
           "publishedOn": "2025-03-10T10:10:46.000Z",
-          "wordCount": 3022,
+          "wordCount": 3018,
           "title": "Solana Leadership Remains Divided Over Token Inflation Proposal",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3651ff135ab29499ea9fe52b2ed16c1b632f63f9-1555x875.png",
@@ -365,7 +410,7 @@
           "description": "Iron Fish blockchain will continue on its own while the development team moves to the Base blockchain.",
           "link": "https://thedefiant.io/news/blockchains/base-makes-strategic-bet-on-privacy-with-iron-fish-acqui-hire",
           "publishedOn": "2025-03-07T22:52:56.000Z",
-          "wordCount": 2868,
+          "wordCount": 2864,
           "title": "Base Makes Strategic Bet on Privacy With Iron Fish Acqui-Hire",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8fa7c732c3e29fd4a7ce97877e7058a40e56a5c2-1555x875.png",
@@ -425,7 +470,7 @@
           "description": "The buzz around tokenized equities is growing after Alesia Haas of Coinbase expressed the company’s desire to bring its COIN stock onchain.",
           "link": "https://thedefiant.io/news/defi/defi-community-debates-onchain-equities-as-coinbase-mulls-tokenizing-usdcoin",
           "publishedOn": "2025-03-07T20:31:51.000Z",
-          "wordCount": 2930,
+          "wordCount": 2938,
           "title": "DeFi Community Debates Onchain Equities as Coinbase Mulls Tokenizing $COIN",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7ad06387b74d1f46ffad8a6ea7585aa9e9668a73-1555x875.png",
@@ -470,7 +515,7 @@
           "description": "BTC, ETH, and SOL dropped by 1%, while XRP plunged 4%.",
           "link": "https://thedefiant.io/news/markets/cryptocurrency-market-slips-as-inflation-fears-resurface-ahead-of-crypto-summit",
           "publishedOn": "2025-03-07T18:22:33.000Z",
-          "wordCount": 2864,
+          "wordCount": 2858,
           "title": "Cryptocurrency Market Slips as Inflation Fears Resurface Ahead of Crypto Summit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/624744c9ce0a665d0a0aff68e9a3778d2e50c025-1555x875.png",
@@ -560,7 +605,7 @@
           "description": "The U",
           "link": "https://thedefiant.io/news/markets/u-s-government-acquire-additional-stockpile-assets-no-market-purchases-hold-3c2e9f80",
           "publishedOn": "2025-03-07T02:45:12.000Z",
-          "wordCount": 2560,
+          "wordCount": 2554,
           "title": "U.S. Government Will Not Acquire Additional Stockpile Assets, No Market Purchases, Will Hold Bitcoin",
           "imageUrl": null
         },
@@ -660,7 +705,7 @@
           "description": "Market volatility persists as Bitcoin and other major cryptos swing between gains and losses before the event.",
           "link": "https://thedefiant.io/news/markets/bitcoin-drops-ahead-of-trump-s-white-house-crypto-summit",
           "publishedOn": "2025-03-06T19:03:02.000Z",
-          "wordCount": 2886,
+          "wordCount": 2880,
           "title": "Bitcoin Drops Ahead of Trump’s White House Crypto Summit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/965e2fc02fa5fb68627d225313e3a3d8c9879a76-1555x875.png",
@@ -685,7 +730,7 @@
           "description": "The collaboration aims to develop next-generation blockchain applications, driving a surge in SUI token value.",
           "link": "https://thedefiant.io/news/blockchains/sui-partners-with-trump-backed-world-liberty-financial-in-blockchain-expansion",
           "publishedOn": "2025-03-06T18:58:36.000Z",
-          "wordCount": 2979,
+          "wordCount": 2975,
           "title": "Sui Partners with Trump-Backed World Liberty Financial in Blockchain Expansion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/99e8ef428e78c0f0eaadf3c709b09ca680212181-1555x875.png",
@@ -700,7 +745,7 @@
           "description": "Sam Altman's blockchain venture, World Network, has launched a new messaging feature called World Chat",
           "link": "https://thedefiant.io/news/blockchains/sam-altman-s-world-network-launches-world-chat-blockchain-messaging-app-free-2828e185",
           "publishedOn": "2025-03-06T18:30:15.000Z",
-          "wordCount": 2655,
+          "wordCount": 2659,
           "title": "Sam Altman's World Network Launches World Chat, a Blockchain Messaging App with Free Global Payments in Beta",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d67114a5c2902420a69eb4a9640f2a3f7aa4366c-643x477.jpg",
@@ -715,7 +760,7 @@
           "description": "The Cardano Foundation has announced a partnership with Serpro, the largest state-owned IT company in Brazil, to promote the adoption of blockchain technology within the public sector",
           "link": "https://thedefiant.io/news/blockchains/cardano-foundation-partners-world-s-largest-state-owned-company-serpro-to-brazil-f28a7ad3",
           "publishedOn": "2025-03-06T17:54:08.000Z",
-          "wordCount": 2706,
+          "wordCount": 2710,
           "title": "Cardano Foundation Partners with World's Largest State-Owned IT Company Serpro to Enhance Blockchain Adoption in Brazil's Public Sector",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c81c3ad48022fb39ab39dab1b3683318cdefbd97-1200x675.jpg",
@@ -805,7 +850,7 @@
           "description": "Base builders have claimed that the flashblocks update makes it 2x faster than Solana.",
           "link": "https://thedefiant.io/news/blockchains/could-base-flashblocks-update-be-the-end-of-solana",
           "publishedOn": "2025-03-05T23:06:23.000Z",
-          "wordCount": 3243,
+          "wordCount": 3239,
           "title": "Will Base's Flashblocks Update Beat Solana?",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4d40dbb31fa708e4621c1abf8f051c33f04ccc89-1555x875.png",
@@ -850,7 +895,7 @@
           "description": "Active addresses are surging as memecoin presales and token airdrops on Avalanche draw increased attention.",
           "link": "https://thedefiant.io/news/blockchains/avalanche-active-addresses-spike-140",
           "publishedOn": "2025-03-05T22:14:45.000Z",
-          "wordCount": 2795,
+          "wordCount": 2791,
           "title": "Avalanche Active Addresses Spike 140%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7d76664f2c3c59aa7afc9c97b8ae8ab28ae4434c-1555x875.png",
@@ -905,7 +950,7 @@
           "description": "BTC, ETH and SOL gained between 2% and 3%, pushing the total crypto market capitalization back above $3 trillion.",
           "link": "https://thedefiant.io/news/markets/bitcoin-extends-gains-after-trump-softens-tariffs",
           "publishedOn": "2025-03-05T19:55:16.000Z",
-          "wordCount": 2814,
+          "wordCount": 2808,
           "title": "Bitcoin Extends Gains After Trump Softens Tariffs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a110b18b1192e38928c8d1290eee02e382eb146e-1555x875.png",
@@ -1105,7 +1150,7 @@
           "description": "Bitcoin traded as low as $81,400 on Tuesday morning before surging to $88,000.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-bounce-as-trump-s-tariffs-take-effect",
           "publishedOn": "2025-03-04T19:44:09.000Z",
-          "wordCount": 2764,
+          "wordCount": 2758,
           "title": "Crypto Markets Bounce as Trump’s Tariffs Take Effect",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3a1338b84da9193400646d5072c44ae4f02c8c54-1555x875.png",
@@ -1150,7 +1195,7 @@
           "description": "Across Protocol has successfully raised $41 million in a token sale for its ACX token, with investment led by Paradigm",
           "link": "https://thedefiant.io/news/defi/across-protocol-raises-41-million-led-paradigm-bain-capital-crypto-coinbase-acx-a95bcaa4",
           "publishedOn": "2025-03-04T18:00:31.000Z",
-          "wordCount": 2668,
+          "wordCount": 2676,
           "title": "Across Protocol Raises $41 Million Led by Paradigm, Bain Capital Crypto, and Coinbase Ventures for ACX Token to Enhance Ethereum Interoperability",
           "imageUrl": null
         },
@@ -1205,7 +1250,7 @@
           "description": "The report shows Bitcoin made significant progress in areas including circulating market cap and DeFi TVL.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-had-its-best-quarter-ever-messari-says",
           "publishedOn": "2025-03-04T02:10:00.000Z",
-          "wordCount": 2831,
+          "wordCount": 2827,
           "title": "Bitcoin Just Had its Best Quarter Ever, Messari Says",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3a8f268577c862d45f41ab1602c5efd7f7f1bd3d-1555x875.png",
@@ -1220,7 +1265,7 @@
           "description": "The Arbitrum economy is experiencing notable growth, with its quarterly GDP projected to reach approximately $90 million for Q4 2024",
           "link": "https://thedefiant.io/news/blockchains/arbitrum-economy-grows-q4-2024-gdp-projected-90-million-nearing-1-billion-to-c0f6ccd9",
           "publishedOn": "2025-03-03T22:00:42.000Z",
-          "wordCount": 2696,
+          "wordCount": 2698,
           "title": "Arbitrum Economy Grows with Q4 2024 GDP Projected at $90 Million, Nearing $1 Billion, Onboarding Millions to Bitcoin DeFi",
           "imageUrl": null
         },
@@ -1275,7 +1320,7 @@
           "description": "Geoff Kendrick, Head of Digital Assets Research at Standard Chartered, remains optimistic about Bitcoin's future despite recent market fluctuations",
           "link": "https://thedefiant.io/news/markets/standard-chartered-sets-500000-bitcoin-target-2028-amid-trump-s-crypto-reserve-4f064e43",
           "publishedOn": "2025-03-03T19:00:33.000Z",
-          "wordCount": 2761,
+          "wordCount": 2755,
           "title": "Standard Chartered Sets $500,000 Bitcoin Target for 2028 Amid Trump's Crypto Reserve Plan",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4edc2e80a139ba38a5ee720168b01d1e1d1cb914-1200x675.jpg",
@@ -1290,7 +1335,7 @@
           "description": "Aave has launched its lending markets on the Sonic blockchain, marking its first Layer 1 expansion of the year",
           "link": "https://thedefiant.io/news/defi/aave-launches-lending-markets-on-sonic-blockchain-15-million-backing-first-layer-a87b168e",
           "publishedOn": "2025-03-03T18:00:28.000Z",
-          "wordCount": 2645,
+          "wordCount": 2653,
           "title": "Aave Launches Lending Markets on Sonic Blockchain with $15 Million Backing in First Layer 1 Expansion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9a80d8efe342e895ebf3cf0b2a29a1e8c6844e2a-1200x900.jpg",
@@ -1395,7 +1440,7 @@
           "description": "The ‘Silviculture Society’ comprises 15 individuals who will ensure the Foundation maintains its core values.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-forms-new-advisory-council",
           "publishedOn": "2025-02-28T21:35:05.000Z",
-          "wordCount": 2736,
+          "wordCount": 2732,
           "title": "Ethereum Foundation Forms New Advisory Council",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b4907543439ea74d18a7d04c7ec69f8413dfdc88-1555x875.png",
@@ -1463,51 +1508,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/701be51f6c9371c091a723c487c49332e6a32f2e-1200x852.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-announces-launch-solana-futures-pending-regulatory-approval-daa3ead8",
-          "author": "DeepNewz",
-          "description": "CME Group, the world's largest derivatives marketplace, announced plans to launch Solana (SOL) futures contracts on March 17, 2025",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/cme-group-announces-launch-solana-futures-pending-regulatory-approval-daa3ead8",
-          "publishedOn": "2025-02-28T19:30:15.000Z",
-          "wordCount": 2692,
-          "title": "CME Group Announces Launch of Solana Futures Pending Regulatory Approval",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cd4a3e6fc15756df6da328a5a8002e0c32a66c3e-1200x675.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cd4a3e6fc15756df6da328a5a8002e0c32a66c3e-1200x675.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-bounce-after-cme-announces-solana-futures",
-          "author": "yyctrader",
-          "description": "Bitcoin traded as low as $78,200 overnight before recovering to $84,000.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-bounce-after-cme-announces-solana-futures",
-          "publishedOn": "2025-02-28T19:01:52.000Z",
-          "wordCount": 2809,
-          "title": "Crypto Markets Bounce After CME Announces Solana Futures",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/520c42ef383bfa040d9ea3f60c2686c5e72a6f96-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/520c42ef383bfa040d9ea3f60c2686c5e72a6f96-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-adds-48-billion-ishares-bitcoin-trust-etf-to-model-portfolio-1-2-875872ee",
-          "author": "DeepNewz",
-          "description": "BlackRock Inc has included its iShares Bitcoin Trust ETF (IBIT) in its model portfolio for the first time.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-adds-48-billion-ishares-bitcoin-trust-etf-to-model-portfolio-1-2-875872ee",
-          "publishedOn": "2025-02-28T19:00:45.000Z",
-          "wordCount": 2698,
-          "title": "BlackRock Adds $48 Billion iShares Bitcoin Trust ETF to Model Portfolio with 1-2% Allocation",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8228fe499675a1f6b98361dd7f7a806067e031d4-1200x434.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8228fe499675a1f6b98361dd7f7a806067e031d4-1200x434.jpg"
         }
       ]
     },
