@@ -12,6 +12,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/eos-network-rebrands-as-vaulta-strengthening-its-web3-banking-vision",
+          "author": "Jona Jaupi",
+          "description": "The transition includes a token swap and the launch of a Banking Advisory Council to bridge DeFi with TradFi.",
+          "link": "https://thedefiant.io/news/blockchains/eos-network-rebrands-as-vaulta-strengthening-its-web3-banking-vision",
+          "publishedOn": "2025-03-18T20:00:27.000Z",
+          "wordCount": 3122,
+          "title": "EOS Network Rebrands as Vaulta, Strengthening Its Web3 Banking Vision",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8a84147bea7a6dd192c231527b7b8ed4522d3339-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8a84147bea7a6dd192c231527b7b8ed4522d3339-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/zachxbt-identifies-hyperliquid-50x-leverage-whale-cybercriminal-using-stolen-b252a394",
+          "author": "DeepNewz",
+          "description": "On March 18, 2025, on-chain investigator ZachXBT reported that the so-called 'Hyperliquid 50x leverage whale' is not a legitimate trader but a cybercriminal utilizing stolen funds for high-risk trading",
+          "link": "https://thedefiant.io/news/people/zachxbt-identifies-hyperliquid-50x-leverage-whale-cybercriminal-using-stolen-b252a394",
+          "publishedOn": "2025-03-18T19:30:50.000Z",
+          "wordCount": 2734,
+          "title": "ZachXBT Identifies Hyperliquid 50x Leverage Whale as Cybercriminal Using Stolen Funds for High-Risk Trading",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c5a5a52a6ff3c58473fafd227db1324e069f6599-1200x557.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c5a5a52a6ff3c58473fafd227db1324e069f6599-1200x557.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/tron-trx-to-launch-on-solana-sol-network-expanding-liquidity-user-base-justin-51-53f9b25b",
+          "author": "DeepNewz",
+          "description": "Tron (TRX) will soon be launched on the Solana (SOL) network, as announced by Justin Sun, the founder of Tron",
+          "link": "https://thedefiant.io/news/blockchains/tron-trx-to-launch-on-solana-sol-network-expanding-liquidity-user-base-justin-51-53f9b25b",
+          "publishedOn": "2025-03-18T19:00:04.000Z",
+          "wordCount": 2763,
+          "title": "Tron (TRX) to Launch on Solana (SOL) Network, Expanding Liquidity and User Base; Justin Sun Announces $51 Million in Fees",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0620014876febabbb39e91de331c92a9406047d3-1200x572.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0620014876febabbb39e91de331c92a9406047d3-1200x572.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/onchain-sleuth-doubts-crypto-s-ability-to-self-regulate",
           "author": "Squiffs",
           "description": "ZachXBT, who has been tracking and freezing funds related to the ByBit hack, referred to the experience as “eye-opening.”",
@@ -862,7 +907,7 @@
           "description": "Nillion has recently announced the details of its airdrop allocation, which has sparked considerable discussion within the community",
           "link": "https://thedefiant.io/news/blockchains/nillion-s-cmo-announces-airdrop-allocation-prioritizing-genuine-community-sybil-2497f1b4",
           "publishedOn": "2025-03-11T20:30:17.000Z",
-          "wordCount": 2712,
+          "wordCount": 2714,
           "title": "Nillion's CMO Announces Airdrop Allocation Prioritizing Genuine Community Members, Addressing Sybil Attacks and Transparency",
           "imageUrl": null
         },
@@ -1199,7 +1244,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/movement-launches-public-mainnet-beta-bringing-move-language-o-ethereum-layer-2s",
           "author": "Leo Jakobson",
-          "description": "Movement says Move is a more modern and safer smart contracts language.",
+          "description": "The Movement Network Foundation today launched its Movement Public Mainnet Beta, aiming to bring the Move programming language to Ethereum via a Layer 2 scaling solution.",
           "link": "https://thedefiant.io/news/blockchains/movement-launches-public-mainnet-beta-bringing-move-language-o-ethereum-layer-2s",
           "publishedOn": "2025-03-10T13:59:21.000Z",
           "wordCount": 3516,
@@ -1244,7 +1289,7 @@
         {
           "id": "https://thedefiant.io/news/defi/should-thorchain-have-processed-bybit-hack-funds-industry-is-split",
           "author": "Leo Jakobson",
-          "description": "THORChain processed nearly three-quarters of the $1.4 billion Bybit hack, even though it could easily have prevented the stolen ether from passing through. This has spurred a debate about cypherpunk values.",
+          "description": "The decentralized cross-chain liquidity protocol faced fierce criticism for not pausing swaps when it became clear that THORChain was the hackers’ go-to laundering chain.",
           "link": "https://thedefiant.io/news/defi/should-thorchain-have-processed-bybit-hack-funds-industry-is-split",
           "publishedOn": "2025-03-07T23:50:42.000Z",
           "wordCount": 4043,
@@ -1450,46 +1495,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/256fab72e23ccedd05e3bda048418a257aa89965-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/new-york-bill-seeks-to-crack-down-on-crypto-fraud",
-          "author": "Squiffs",
-          "description": "The proposed bill A06515 aims to criminalize rug pulls, private key fraud, and fraudulent failure to disclose information.",
-          "link": "https://thedefiant.io/news/regulation/new-york-bill-seeks-to-crack-down-on-crypto-fraud",
-          "publishedOn": "2025-03-07T11:30:48.000Z",
-          "wordCount": 1581,
-          "title": "New York Bill Seeks to Crack Down on Crypto Fraud",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/16a0d57facf11a71019270aef52aeef15c894e2b-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/16a0d57facf11a71019270aef52aeef15c894e2b-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/u-s-government-acquire-additional-stockpile-assets-no-market-purchases-hold-3c2e9f80",
-          "author": "DeepNewz",
-          "description": "The U",
-          "link": "https://thedefiant.io/news/markets/u-s-government-acquire-additional-stockpile-assets-no-market-purchases-hold-3c2e9f80",
-          "publishedOn": "2025-03-07T02:45:12.000Z",
-          "wordCount": 1401,
-          "title": "U.S. Government Will Not Acquire Additional Stockpile Assets, No Market Purchases, Will Hold Bitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/white-house-crypto-summit-attendees-who-has-the-industry-s-hottest-ticket",
-          "author": "Leo Jakobson",
-          "description": "The White House Crypto Summit will bring as many as 25 industry bigwigs to the White House for a four-hour roundtable on what the crypto industry needs next.",
-          "link": "https://thedefiant.io/news/regulation/white-house-crypto-summit-attendees-who-has-the-industry-s-hottest-ticket",
-          "publishedOn": "2025-03-07T02:39:28.000Z",
-          "wordCount": 2228,
-          "title": "White House Crypto Summit Attendees: Who Has the Industry's Hottest Ticket?",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6d0de6abec9c2fb57a5c1d9df8b11c5b370bfd0e-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6d0de6abec9c2fb57a5c1d9df8b11c5b370bfd0e-1555x875.png"
         }
       ]
     }
