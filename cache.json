@@ -42,21 +42,6 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/457999855d22408fc0f0a6fb7bd2ef7e0e93650c-1555x875.png"
         },
         {
-          "id": "https://thedefiant.io/news/cefi/binance-to-delist-ethereum-eth-effective-march-28-2025-14-30-utc-43d02750",
-          "author": "DeepNewz",
-          "description": "Binance has announced plans to delist Ethereum (ETH) from its platform, effective March 28, 2025, at 14:30 UTC",
-          "link": "https://thedefiant.io/news/cefi/binance-to-delist-ethereum-eth-effective-march-28-2025-14-30-utc-43d02750",
-          "publishedOn": "2025-03-28T16:40:07.000Z",
-          "wordCount": 2691,
-          "title": "Binance to Delist Ethereum (ETH) Effective March 28, 2025, at 14:30 UTC",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/16f7b162627cbfa4777642a00dd0df98f0043cde-1080x1080.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/16f7b162627cbfa4777642a00dd0df98f0043cde-1080x1080.jpg"
-        },
-        {
           "id": "https://thedefiant.io/news/regulation/galaxy-digital-s-michael-novogratz-agrees-to-200m-settlement-over-luna-42d9e15b",
           "author": "DeepNewz",
           "description": "Galaxy Digital, led by Michael Novogratz, has agreed to a $200 million settlement with the New York Attorney General over allegations of manipulating the price of LUNA, the token associated with the collapsed Terra ecosystem",
@@ -102,9 +87,9 @@
           "description": "Michael Saylor, co-founder of MicroStrategy, has made a bold prediction regarding Bitcoin's future market capitalization",
           "link": "https://thedefiant.io/news/markets/michael-saylor-predicts-bitcoin-market-cap-reach-500-trillion-ac2fe031",
           "publishedOn": "2025-03-28T14:35:07.000Z",
-          "wordCount": 2636,
+          "wordCount": 2392,
           "title": "Michael Saylor Predicts Bitcoin Market Cap Could Reach $500 Trillion",
-          "imageUrl": null
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/68eef63ab34b00b97f73703097862d61db51f62c-1600x900.png"
         },
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/grayscale-files-avax-etf-nasdaq-4e3009ce",
@@ -157,7 +142,7 @@
           "description": "Grayscale has officially filed for an Avalanche ETF with Nasdaq, as confirmed by multiple sources",
           "link": "https://thedefiant.io/news/markets/grayscale-files-avalanche-etf-nasdaq-avax-shares-joins-vaneck-e1f9891f",
           "publishedOn": "2025-03-28T12:35:07.000Z",
-          "wordCount": 2702,
+          "wordCount": 2392,
           "title": "Grayscale Files for Avalanche ETF with Nasdaq for $AVAX Shares, Joins VanEck",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/39a6f89b1cdc3794ec6b5cc0c17b74c08ba5f5c2-860x1000.jpg",
@@ -677,7 +662,7 @@
           "description": "The supply of USD Coin (USDC) has reached an all-time high, surpassing a market capitalization of $60 billion",
           "link": "https://thedefiant.io/news/markets/usdc-stablecoin-supply-surpasses-60-billion-market-cap-doubling-30b-march-2024-9a4feba7",
           "publishedOn": "2025-03-26T11:05:01.000Z",
-          "wordCount": 2692,
+          "wordCount": 2688,
           "title": "USDC Stablecoin Supply Surpasses $60 Billion Market Cap, Doubling from $30B in March 2024",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f47b00f9aa105bbc9214dd4b8e4648949e4df623-900x1200.jpg",
@@ -1495,6 +1480,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/efc14120fd0a43c6f6c67d5d5a064c7f5d825b08-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/coinbase-advanced-talks-to-acquire-deribit-4-5-billion-dominating-80-options-a5cc99b3",
+          "author": "DeepNewz",
+          "description": "Coinbase is reportedly in advanced negotiations to acquire Deribit, the largest Bitcoin and Ether options exchange, in a deal valued between $4 billion and $5 billion",
+          "link": "https://thedefiant.io/news/cefi/coinbase-advanced-talks-to-acquire-deribit-4-5-billion-dominating-80-options-a5cc99b3",
+          "publishedOn": "2025-03-24T15:35:15.000Z",
+          "wordCount": 2745,
+          "title": "Coinbase in Advanced Talks to Acquire Deribit for $4-$5 Billion, Dominating 80% of Options Market",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/67942c3591b7a70dc283a78a799a7d1fa2ffb005-954x1200.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/67942c3591b7a70dc283a78a799a7d1fa2ffb005-954x1200.jpg"
         }
       ]
     }
