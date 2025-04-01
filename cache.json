@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/maple-finance-hits-all-time-high-in-active-loans",
+          "author": "Squiffs",
+          "description": "The private credit-focused lending protocol has eclipsed fresh highs in total value locked and active loans as the RWA sector continues to grow.",
+          "link": "https://thedefiant.io/news/defi/maple-finance-hits-all-time-high-in-active-loans",
+          "publishedOn": "2025-04-01T08:08:26.000Z",
+          "wordCount": 2923,
+          "title": "Maple Finance Hits All-Time High in Active Loans",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/120b6d4852175d45bef4adbdac5beebafaca270f-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/120b6d4852175d45bef4adbdac5beebafaca270f-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/people/spacex-launches-first-bitcoin-investor-chinese-born-entrepreneur-into-space-05126a25",
           "author": "DeepNewz",
           "description": "A SpaceX rocket is set to launch a mission that will send a Bitcoin investor into space for the first time",
@@ -122,7 +137,7 @@
           "description": "PumpSwap, a decentralized exchange (DEX) launched by Pumpfun, has quickly established itself as a dominant player in the Solana ecosystem",
           "link": "https://thedefiant.io/news/defi/pumpswap-dex-surges-to-10-billion-volume-10-days-capturing-67-4-solana-market-2-56ac95f9",
           "publishedOn": "2025-03-31T19:35:07.000Z",
-          "wordCount": 2791,
+          "wordCount": 2792,
           "title": "PumpSwap DEX Surges to $10 Billion in Volume in 10 Days, Capturing 67.4% of Solana Market with $2.43B Trading Volume",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7868c4993377b203373b20cbda4ef2910aa15340-1200x937.jpg",
@@ -302,7 +317,7 @@
           "description": "Pumpfun has emerged as the leading decentralized exchange (DEX) on the Solana blockchain, achieving an all-time high trading volume of over $1",
           "link": "https://thedefiant.io/news/defi/pumpfun-becomes-leading-dex-on-solana-1-8b-volume-59-market-share-24-hours-4eabf75a",
           "publishedOn": "2025-03-29T18:05:07.000Z",
-          "wordCount": 2691,
+          "wordCount": 2692,
           "title": "Pumpfun Becomes Leading DEX on Solana with $1.8B Volume, 59% Market Share in 24 Hours",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/115f9a20b13a7907ea938a0726364b0093d70a8e-1200x937.jpg",
@@ -317,7 +332,7 @@
           "description": "The stablecoin market capitalization is up 33% since the election, and stablecoin issuers are DeFi’s top revenue generators.",
           "link": "https://thedefiant.io/news/defi/bitwise-cio-projects-multi-trillion-dollar-stablecoin-aum",
           "publishedOn": "2025-03-29T13:55:56.000Z",
-          "wordCount": 2821,
+          "wordCount": 2823,
           "title": "Bitwise CIO Projects Multi-Trillion Dollar Stablecoin AUM",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee7848f839f3e247fe73347630fce8acbad38c21-1555x875.png",
@@ -422,7 +437,7 @@
           "description": "Chainlink’s SVR allows dApps to reclaim the MEV lost due to oracle interaction.",
           "link": "https://thedefiant.io/news/defi/aave-strikes-back-chainlink-s-svr-helps-reclaim-lost-mev",
           "publishedOn": "2025-03-28T21:23:05.000Z",
-          "wordCount": 2947,
+          "wordCount": 2949,
           "title": "Aave Partners with Chainlink to Recapture Oracle-Related MEV",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1662e2ed334bef53744acd2b3c27770f466c4cc8-1555x875.png",
@@ -437,7 +452,7 @@
           "description": "Hyperliquid controversially delisted the JELLYJELLY token to avoid a $10 million loss, leaving traders that went long with losses.",
           "link": "https://thedefiant.io/news/defi/hyperliquid-to-compensate-jellyjelly-traders-and-strengthen-risk-protocols",
           "publishedOn": "2025-03-28T18:55:45.000Z",
-          "wordCount": 2826,
+          "wordCount": 2828,
           "title": "Hyperliquid to Compensate JELLYJELLY Traders and Strengthen Risk Protocols",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/41cfb36527ed35946b4e7e3a086285827870ef7b-1555x875.png",
@@ -522,7 +537,7 @@
           "description": "As demand for blockchain-based RWAs accelerates, tokenized Treasuries are poised for further growth.",
           "link": "https://thedefiant.io/news/defi/tokenized-treasuries-surge-yet-remain-a-small-fraction-of-stablecoin-market",
           "publishedOn": "2025-03-28T13:38:54.000Z",
-          "wordCount": 3035,
+          "wordCount": 3037,
           "title": "Tokenized Treasuries Surge, Yet Remain a Small Fraction of Stablecoin Market",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a46028ac4a8ac0c501ccbd56de7a054c84498b9a-1555x875.png",
@@ -757,7 +772,7 @@
           "description": "The premature resolution of a market on a Trump/Ukraine minerals deal leaves bettors high and dry, and shows a flaw in Polymarket’s oracle system.",
           "link": "https://thedefiant.io/news/defi/polymarket-s-usd7m-ukraine-mineral-deal-debacle-traced-to-oracle-whale",
           "publishedOn": "2025-03-27T14:22:52.000Z",
-          "wordCount": 2900,
+          "wordCount": 2902,
           "title": "Polymarket’s $7M Ukraine Mineral Deal Debacle Traced to Oracle Whale",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/af04be54a540814bbc8f10e03e437f8b568d432e-1555x875.png",
@@ -892,7 +907,7 @@
           "description": "The platform has generated over $2 billion in total trading volume since launch.",
           "link": "https://thedefiant.io/news/defi/pumpswap-surpasses-raydium-to-become-largest-solana-dex",
           "publishedOn": "2025-03-26T20:56:43.000Z",
-          "wordCount": 2767,
+          "wordCount": 2769,
           "title": "PumpSwap Surpasses Raydium to Become Largest Solana DEX",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6bb6674e0569fc1f41c77e93e0c1e999ef98210f-1555x875.png",
@@ -937,7 +952,7 @@
           "description": "The perpetual exchange’s HLP vault was down $10 million on an absorbed position before the team intervened and closed the position at a profit, casting doubts on its decentralization claims.",
           "link": "https://thedefiant.io/news/defi/hyperliquid-token-tanks-as-another-vault-attack-sparks-controversy",
           "publishedOn": "2025-03-26T19:50:30.000Z",
-          "wordCount": 3454,
+          "wordCount": 3456,
           "title": "Hyperliquid Token Tanks as Another Vault Attack Sparks Controversy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ec7fde2ee03084aa857a61ac83c8beda185f13c5-1555x875.png",
@@ -1297,7 +1312,7 @@
           "description": "World Liberty Financial, a decentralized finance project backed by President Donald Trump, has announced plans to launch a new stablecoin named USD1",
           "link": "https://thedefiant.io/news/defi/trump-backed-world-liberty-financial-to-launch-usd1-stablecoin-on-ethereum-bnb-0c4a1fc6",
           "publishedOn": "2025-03-25T17:05:01.000Z",
-          "wordCount": 2863,
+          "wordCount": 2864,
           "title": "Trump-Backed World Liberty Financial to Launch USD1 Stablecoin on Ethereum and BNB Chain, Challenging USDT and USDC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/58ca73472d7650c66fabcb1b51df3ccf57c6450d-1199x341.jpg",
@@ -1432,7 +1447,7 @@
           "description": "USD1 will be backed by real assets and built for institutions, according to the press release.",
           "link": "https://thedefiant.io/news/defi/world-liberty-financial-to-launch-institutional-ready-stablecoin-usd1",
           "publishedOn": "2025-03-25T14:14:58.000Z",
-          "wordCount": 2780,
+          "wordCount": 2782,
           "title": "World Liberty Financial to Launch Institutional-Ready Stablecoin USD1",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/361d31b2cb681bc70fed568f46b98854fcc9e67e-1555x875.png",
@@ -1485,21 +1500,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4a98dce1692b4240c044925cd3ba6771e22fb0b5-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/with-usd2-billion-in-real-world-assets-zksync-era-is-now-the-second-largest-rwa-chain",
-          "author": "Leo Jakobson",
-          "description": "Tradable, an RWA firm tokenizing private credit, accounts for the lion’s share of that figure.",
-          "link": "https://thedefiant.io/news/blockchains/with-usd2-billion-in-real-world-assets-zksync-era-is-now-the-second-largest-rwa-chain",
-          "publishedOn": "2025-03-25T10:40:42.000Z",
-          "wordCount": 2836,
-          "title": "With $2 Billion in Real-World Assets, ZKsync Era is Now the Second-Largest RWA Chain",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2208ae925865c79335e3ff40160f7208c0132232-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2208ae925865c79335e3ff40160f7208c0132232-1555x875.png"
         }
       ]
     }
