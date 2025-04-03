@@ -12,6 +12,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tokens/hyperlane-sets-usdhyper-airdrop-date-on-april-20",
+          "author": "Squiffs",
+          "description": "The interchain messaging protocol is preparing for its upcoming token generation event.",
+          "link": "https://thedefiant.io/news/tokens/hyperlane-sets-usdhyper-airdrop-date-on-april-20",
+          "publishedOn": "2025-04-03T21:35:23.000Z",
+          "wordCount": 930,
+          "title": "Hyperlane Sets $HYPER Airdrop Date on April 20",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a42b41b8cd505926ef2e08d83176cacec3e028ee-1536x1024.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a42b41b8cd505926ef2e08d83176cacec3e028ee-1536x1024.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-s-buidl-fund-reaches-1-9b-distributes-4-17m-dividends-holds-34-market-a7ef1925",
+          "author": "DeepNewz",
+          "description": "BlackRock's tokenized U",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-s-buidl-fund-reaches-1-9b-distributes-4-17m-dividends-holds-34-market-a7ef1925",
+          "publishedOn": "2025-04-03T21:30:40.000Z",
+          "wordCount": 719,
+          "title": "BlackRock's BUIDL Fund Reaches $1.9B, Distributes $4.17M in Dividends, Holds 34% of Tokenized Treasury Market",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/144770ac1df97f0cd3ee7c379763e68696d213b6-1200x815.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/144770ac1df97f0cd3ee7c379763e68696d213b6-1200x815.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-confirms-block-s-square-plans-to-enable-bitcoin-payments-4-million-6b44a5d6",
           "author": "DeepNewz",
           "description": "Jack Dorsey, the billionaire co-founder of Twitter and CEO of Block, has announced that his company is actively working to enable Bitcoin payments on merchant terminals",
@@ -1470,36 +1500,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d204c79c0e5bef66488d6f5dcf6a1bb0f1b7c3ac-735x679.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/fidelity-acquires-1120-bitcoin-worth-97-1-million-on-march-27-a18b87fb",
-          "author": "DeepNewz",
-          "description": "Fidelity Investments has made a substantial investment in Bitcoin, acquiring approximately 1,120 BTC valued at around $97",
-          "link": "https://thedefiant.io/news/markets/fidelity-acquires-1120-bitcoin-worth-97-1-million-on-march-27-a18b87fb",
-          "publishedOn": "2025-03-28T07:05:07.000Z",
-          "wordCount": 645,
-          "title": "Fidelity Acquires 1,120 Bitcoin Worth $97.1 Million on March 27",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bddacb6a6d6f70a7de5e52165a060923214b7557-1029x1029.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bddacb6a6d6f70a7de5e52165a060923214b7557-1029x1029.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/soneium-partners-with-animoca-brands-to-bring-anime-fans-to-the-sony-backed-layer-2",
-          "author": "Leo Jakobson",
-          "description": "Animoca is using its digital identity infrastructure platform Moca Network to create a decentralized ID and reputation layer focused on engaging anime fans.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/soneium-partners-with-animoca-brands-to-bring-anime-fans-to-the-sony-backed-layer-2",
-          "publishedOn": "2025-03-28T02:09:46.000Z",
-          "wordCount": 1044,
-          "title": "Soneium Partners with Animoca Brands to Bring Anime Fans to the Sony-backed Layer 2",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/145bb49371b3d2257bee6431e97082051ac13a13-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/145bb49371b3d2257bee6431e97082051ac13a13-1555x875.png"
         }
       ]
     }

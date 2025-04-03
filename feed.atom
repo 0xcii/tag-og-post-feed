@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-03T21:16:15.625Z</id>
+    <id>urn:2025-04-03T22:16:05.741Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-03T21:16:15.625Z</updated>
+    <updated>2025-04-03T22:16:05.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hyperlane Sets $HYPER Airdrop Date on April 20]]></title>
+        <id>https://thedefiant.io/news/tokens/hyperlane-sets-usdhyper-airdrop-date-on-april-20</id>
+        <link href="https://thedefiant.io/news/tokens/hyperlane-sets-usdhyper-airdrop-date-on-april-20"/>
+        <updated>2025-04-03T21:35:23.000Z</updated>
+        <summary type="html"><![CDATA[The interchain messaging protocol is preparing for its upcoming token generation event.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlackRock's BUIDL Fund Reaches $1.9B, Distributes $4.17M in Dividends, Holds 34% of Tokenized Treasury Market]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-s-buidl-fund-reaches-1-9b-distributes-4-17m-dividends-holds-34-market-a7ef1925</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/blackrock-s-buidl-fund-reaches-1-9b-distributes-4-17m-dividends-holds-34-market-a7ef1925"/>
+        <updated>2025-04-03T21:30:40.000Z</updated>
+        <summary type="html"><![CDATA[BlackRock's tokenized U]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jack Dorsey Confirms Block's Square Plans to Enable Bitcoin Payments for 4 Million Merchants Processing $200 Billion Annually]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/jack-dorsey-confirms-block-s-square-plans-to-enable-bitcoin-payments-4-million-6b44a5d6</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Galaxy Digital has reached a $200 million settlement with the New York Attorney General's Office regarding its promotion of the LUNA cryptocurrency]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fidelity Acquires 1,120 Bitcoin Worth $97.1 Million on March 27]]></title>
-        <id>https://thedefiant.io/news/markets/fidelity-acquires-1120-bitcoin-worth-97-1-million-on-march-27-a18b87fb</id>
-        <link href="https://thedefiant.io/news/markets/fidelity-acquires-1120-bitcoin-worth-97-1-million-on-march-27-a18b87fb"/>
-        <updated>2025-03-28T07:05:07.000Z</updated>
-        <summary type="html"><![CDATA[Fidelity Investments has made a substantial investment in Bitcoin, acquiring approximately 1,120 BTC valued at around $97]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soneium Partners with Animoca Brands to Bring Anime Fans to the Sony-backed Layer 2]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/soneium-partners-with-animoca-brands-to-bring-anime-fans-to-the-sony-backed-layer-2</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/soneium-partners-with-animoca-brands-to-bring-anime-fans-to-the-sony-backed-layer-2"/>
-        <updated>2025-03-28T02:09:46.000Z</updated>
-        <summary type="html"><![CDATA[Animoca is using its digital identity infrastructure platform Moca Network to create a decentralized ID and reputation layer focused on engaging anime fans.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
         </author>
     </entry>
 </feed>
