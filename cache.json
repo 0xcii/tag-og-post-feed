@@ -42,6 +42,21 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7107ac312911928ef878ceadd3e691aac5418f34-1200x675.jpg"
         },
         {
+          "id": "https://thedefiant.io/news/defi/top-20-rwa-protocol-centrifuge-partners-with-wormhole-to-launch-multichain-tokenization-platform",
+          "author": "Jona Jaupi",
+          "description": "The partnership, which also includes crypto asset manager Anemoy, aims to streamline the issuance and management of tokenized assets across blockchains.",
+          "link": "https://thedefiant.io/news/defi/top-20-rwa-protocol-centrifuge-partners-with-wormhole-to-launch-multichain-tokenization-platform",
+          "publishedOn": "2025-04-09T12:23:33.000Z",
+          "wordCount": 1299,
+          "title": "Top-20 RWA Protocol Centrifuge Partners with Wormhole to Launch Multichain Tokenization Platform",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1c51309128a871dcfe922dbfb30b19939285469d-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1c51309128a871dcfe922dbfb30b19939285469d-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/trump-linked-world-liberty-financial-to-test-airdrop-system-with-stablecoin-giveaway",
           "author": "Leo Jakobson",
           "description": "While this airdrop would give early adopters ‘a small amount’ of USD1 stablecoins, some speculate that it is a precursor to a real WLFI token airdrop.",
@@ -667,7 +682,7 @@
           "description": "EigenLayer is gradually rolling out slashing, giving operators time to prepare before restaking begins in earnest.",
           "link": "https://thedefiant.io/news/defi/eigenlayer-to-enable-mainnet-slashing-on-april-17",
           "publishedOn": "2025-04-04T20:42:30.000Z",
-          "wordCount": 948,
+          "wordCount": 947,
           "title": "EigenLayer to Enable Mainnet Slashing on April 17",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/93422d1baf54349c36eec96d98a0d364a169b1f6-1555x875.png",
@@ -832,7 +847,7 @@
           "description": "Moving from Polygon required migrating 12 million posts and 28 million social connections to Lens Chain.",
           "link": "https://thedefiant.io/news/defi/aave-founders-socialfi-protocol-lens-launches-mainnet",
           "publishedOn": "2025-04-04T14:03:36.000Z",
-          "wordCount": 1046,
+          "wordCount": 1045,
           "title": "Aave Founder's SocialFi Protocol Lens Launches Mainnet with 650K Users",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d66f1fab025ed7589f3d3bcd35553185d4985ec-1555x875.png",
@@ -982,7 +997,7 @@
           "description": "Yesterday’s incident marks the second time sUSD has slipped below its dollar peg this week alone.",
           "link": "https://thedefiant.io/news/defi/synthetix-usd-stablecoin-susd-depegs-twice-this-week",
           "publishedOn": "2025-04-03T19:17:38.000Z",
-          "wordCount": 993,
+          "wordCount": 992,
           "title": "Synthetix’s Stablecoin sUSD Depegs to Below $0.92 Twice This Week",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0633e6689e36299c29064ef2a86070cb9fd6d4ef-1555x875.png",
@@ -1027,7 +1042,7 @@
           "description": "Babylon, a project backed by Paradigm, has announced the tokenomics for its $BABY token, which will have a total supply of 10 billion",
           "link": "https://thedefiant.io/news/defi/paradigm-backed-babylon-sets-tge-plans-6-baby-airdrop-to-boost-btcfi-via-bitcoin-c6524c36",
           "publishedOn": "2025-04-03T14:35:11.000Z",
-          "wordCount": 853,
+          "wordCount": 852,
           "title": "Paradigm-Backed Babylon Sets TGE, Plans 6% $BABY Airdrop to Boost BTCFi via Bitcoin Staking",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4e3fd72bd94d9c96876a3ab271aecd7082d907cd-1200x676.jpg",
@@ -1277,7 +1292,7 @@
           "description": "The Tron founder claims First Digital Trust is “effectively insolvent,” while the company accuses him of orchestrating a “smear campaign.”",
           "link": "https://thedefiant.io/news/defi/fdusd-depegs-after-justin-sun-alleges-insolvency",
           "publishedOn": "2025-04-02T16:59:30.000Z",
-          "wordCount": 915,
+          "wordCount": 914,
           "title": "FDUSD Depegs After Justin Sun Alleges Insolvency",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/97f5c8623941899297578a4fdba5d6aaaeca078e-1555x875.png",
@@ -1322,7 +1337,7 @@
           "description": "With the goal of making DeFi accessible to the masses, Ethereum-first Veda is preparing to move onto Solana.",
           "link": "https://thedefiant.io/news/defi/exclusive-top-vault-protocol-veda-is-expanding-to-solana",
           "publishedOn": "2025-04-02T15:02:02.000Z",
-          "wordCount": 1441,
+          "wordCount": 1440,
           "title": "Exclusive: Top Vault Protocol Veda is Expanding to Solana",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/951dff965ed17ca8f990f1d36f51ef0dc2f4e6a1-1555x875.png",
@@ -1367,7 +1382,7 @@
           "description": "The new tool promises fast, competitive pricing and aims to eliminate slippage when executing token swaps on Solana.",
           "link": "https://thedefiant.io/news/defi/top-defi-protocol-kamino-integrates-oracle-pyth-to-close-defi-cefi-gap-on-solana",
           "publishedOn": "2025-04-02T10:59:23.000Z",
-          "wordCount": 1149,
+          "wordCount": 1148,
           "title": "Top DeFi Protocol Kamino Integrates Oracle Pyth to Close DeFi-CeFi Gap on Solana",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d3a8a0c2adab62a1540d353705d38ce30628750c-1555x875.png",
@@ -1397,7 +1412,7 @@
           "description": "Ending a five-month losing streak, Ethereum hosted more decentralized exchange volume than Solana in March.",
           "link": "https://thedefiant.io/news/defi/ethereum-dex-volume-flips-solana-but-eth-btc-ratio-hovers-at-five-year-low",
           "publishedOn": "2025-04-02T10:03:08.000Z",
-          "wordCount": 889,
+          "wordCount": 888,
           "title": "Ethereum DEX Volume Flips Solana, But ETH-BTC Ratio Hovers at Five-Year Low",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f52c7d671aec0e934c6ce037ba0d2ee410a27be6-1555x875.png",
@@ -1480,21 +1495,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/27e22715df7892743ec4d5a49fb295a723a00ea6-1200x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/gamestop-s-1-48-billion-convertible-notes-to-fund-bitcoin-investment-approved-a0484242",
-          "author": "DeepNewz",
-          "description": "GameStop Corp",
-          "link": "https://thedefiant.io/news/markets/gamestop-s-1-48-billion-convertible-notes-to-fund-bitcoin-investment-approved-a0484242",
-          "publishedOn": "2025-04-01T21:05:07.000Z",
-          "wordCount": 636,
-          "title": "GameStop's $1.48 Billion from Convertible Notes to Fund Bitcoin Investment, Approved by Board",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/43ddbcb6bcb3ad08fc50f8a84c7ea833aa5fc470-1200x675.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/43ddbcb6bcb3ad08fc50f8a84c7ea833aa5fc470-1200x675.jpg"
         }
       ]
     }

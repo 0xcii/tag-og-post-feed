@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-09T12:36:18.364Z</id>
+    <id>urn:2025-04-09T13:28:25.615Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-09T12:36:18.364Z</updated>
+    <updated>2025-04-09T13:28:25.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -23,6 +23,16 @@
         <summary type="html"><![CDATA[Binance is set to launch LDUSDT, a new reward-bearing margin asset designed for its futures trading platform]]></summary>
         <author>
             <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top-20 RWA Protocol Centrifuge Partners with Wormhole to Launch Multichain Tokenization Platform]]></title>
+        <id>https://thedefiant.io/news/defi/top-20-rwa-protocol-centrifuge-partners-with-wormhole-to-launch-multichain-tokenization-platform</id>
+        <link href="https://thedefiant.io/news/defi/top-20-rwa-protocol-centrifuge-partners-with-wormhole-to-launch-multichain-tokenization-platform"/>
+        <updated>2025-04-09T12:23:33.000Z</updated>
+        <summary type="html"><![CDATA[The partnership, which also includes crypto asset manager Anemoy, aims to streamline the issuance and management of tokenized assets across blockchains.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
         </author>
     </entry>
     <entry>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/people/eric-trump-endorses-bitcoin-cites-debanking-predicts-explosive-growth-021cc059"/>
         <updated>2025-04-01T21:05:07.000Z</updated>
         <summary type="html"><![CDATA[Eric Trump, Executive Vice President of the Trump Organization and Chief Strategy Officer of American Bitcoin, has publicly endorsed Bitcoin, describing it as one of the greatest stores of value]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GameStop's $1.48 Billion from Convertible Notes to Fund Bitcoin Investment, Approved by Board]]></title>
-        <id>https://thedefiant.io/news/markets/gamestop-s-1-48-billion-convertible-notes-to-fund-bitcoin-investment-approved-a0484242</id>
-        <link href="https://thedefiant.io/news/markets/gamestop-s-1-48-billion-convertible-notes-to-fund-bitcoin-investment-approved-a0484242"/>
-        <updated>2025-04-01T21:05:07.000Z</updated>
-        <summary type="html"><![CDATA[GameStop Corp]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
