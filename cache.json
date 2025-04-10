@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/research-and-opinion/trade-tensions-could-fuel-bitcoin-adoption-grayscale",
+          "author": "Jona Jaupi",
+          "description": "A new report from the asset manager highlights that Bitcoin has held steady amid recent market volatility.",
+          "link": "https://thedefiant.io/news/research-and-opinion/trade-tensions-could-fuel-bitcoin-adoption-grayscale",
+          "publishedOn": "2025-04-10T19:46:27.000Z",
+          "wordCount": 915,
+          "title": "Trade Tensions Could Fuel Bitcoin Adoption: Grayscale",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9f2b2a2b4f428b11cce8f69e56f84b3dd6f20f91-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9f2b2a2b4f428b11cce8f69e56f84b3dd6f20f91-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/m-0-launches-programmable-stablecoin-infrastructure-on-solana",
           "author": "Squiffs",
           "description": "The protocol will debut with the KAST neobank’s digital dollar in a move to “become the next generation backend for fintech.”",
@@ -1480,21 +1495,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2b1ab1fd8a6cde5c1aaa718f95a234bdd3f414d5-942x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/government-efficiency-can-be-vastly-improved-by-crypto-and-blockchain-coinbase",
-          "author": "Leo Jakobson",
-          "description": "As the Department of Government Efficiency (DOGE) seeks to cut waste and improve systems, the crypto exchange says blockchain technology offers potential solutions.",
-          "link": "https://thedefiant.io/news/research-and-opinion/government-efficiency-can-be-vastly-improved-by-crypto-and-blockchain-coinbase",
-          "publishedOn": "2025-04-03T08:46:18.000Z",
-          "wordCount": 1084,
-          "title": "Government Efficiency Can Be Vastly Improved by Crypto and Blockchain: Coinbase",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/414f0e885b70de3d57bc18817f3db9070bc62eb2-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/414f0e885b70de3d57bc18817f3db9070bc62eb2-1555x875.png"
         }
       ]
     }
