@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/swedish-mp-rickard-nordin-proposes-bitcoin-national-reserves-singapore-candidate-74dae386",
+          "author": "DeepNewz",
+          "description": "Swedish MP Rickard Nordin has proposed the inclusion of Bitcoin in Sweden's national foreign exchange reserves, a move inspired by an executive order from former President Donald Trump on March 7",
+          "link": "https://thedefiant.io/news/regulation/swedish-mp-rickard-nordin-proposes-bitcoin-national-reserves-singapore-candidate-74dae386",
+          "publishedOn": "2025-04-11T18:00:40.000Z",
+          "wordCount": 793,
+          "title": "Swedish MP Rickard Nordin Proposes Bitcoin for National Reserves as Singapore Candidate Tan Urges Strategic Reserve",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7c04e3ca7b2d274ef38f6cb77edef5fc6e500df6-762x595.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7c04e3ca7b2d274ef38f6cb77edef5fc6e500df6-762x595.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-gain-as-u-s-dollar-drops-wholesale-inflation-cools",
           "author": "Jona Jaupi",
           "description": "BTC, ETH and SOL climbed as the Dollar Index dipped under 100 for the first time since July 2023.",
@@ -1480,21 +1495,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/14f43e06339d34bf45787e774513cca5376085a3-1199x665.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/lazarus-group-profits-2-5-million-wbtc-sales-amid-6-billion-crypto-theft-nuclear-1d7e3ed4",
-          "author": "DeepNewz",
-          "description": "North Korean hackers, specifically from the Lazarus Group, have reportedly profited over $2",
-          "link": "https://thedefiant.io/news/hacks/lazarus-group-profits-2-5-million-wbtc-sales-amid-6-billion-crypto-theft-nuclear-1d7e3ed4",
-          "publishedOn": "2025-04-03T21:15:40.000Z",
-          "wordCount": 726,
-          "title": "Lazarus Group Profits $2.5 Million from WBTC Sales Amid $6 Billion Crypto Theft for Nuclear Weapons Program",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/448cefede644ea6e30a8f74ed8935c73025f72f9-1200x805.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/448cefede644ea6e30a8f74ed8935c73025f72f9-1200x805.jpg"
         }
       ]
     }
