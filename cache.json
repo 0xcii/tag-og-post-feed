@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/metaplanet-targets-470-bitcoin-increase-appoints-eric-trump-to-advisory-board-29968a88",
+          "author": "DeepNewz",
+          "description": "Metaplanet, a Japanese public company often referred to as 'Asia's MicroStrategy,' has expanded its Bitcoin investment by purchasing an additional 319 BTC for approximately $26",
+          "link": "https://thedefiant.io/news/markets/metaplanet-targets-470-bitcoin-increase-appoints-eric-trump-to-advisory-board-29968a88",
+          "publishedOn": "2025-04-14T10:30:40.000Z",
+          "wordCount": 763,
+          "title": "Metaplanet Targets 470% Bitcoin Increase, Appoints Eric Trump to Advisory Board",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/65be9eb64bb46a6a80572af9cb15b1e60295552e-1080x1080.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/65be9eb64bb46a6a80572af9cb15b1e60295552e-1080x1080.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/japan-s-metaplanet-acquires-319-bitcoin-targets-10000-btc-amid-tariff-tensions-16eb9ec3",
           "author": "DeepNewz",
           "description": "Japan-based Metaplanet has acquired an additional 319 Bitcoin (BTC) worth approximately ¥3",
@@ -1002,7 +1017,7 @@
           "description": "The price of Hedera's HBAR rose over 30% after a now deleted LinkedIn post announcing a fake partnership with Nvidia and Hedera made the rounds.",
           "link": "https://thedefiant.io/news/markets/fake-nvidia-hedera-partnership-news-sends-hbar-market-cap-up-usd2b",
           "publishedOn": "2025-04-08T19:33:41.000Z",
-          "wordCount": 1106,
+          "wordCount": 1104,
           "title": "Fake Nvidia, Hedera Partnership News Sends HBAR's Market Cap up $2B",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f68b867526de2fd551a1fd47112d94c0294d0e6d-1555x875.png",
@@ -1337,7 +1352,7 @@
           "description": "Bitcoin drops nearly 5% as Trump’s tariff threats rattle investors.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-plunge-amid-global-trade-tensions-usd1-5b-liquidated",
           "publishedOn": "2025-04-07T14:43:16.000Z",
-          "wordCount": 913,
+          "wordCount": 911,
           "title": "Crypto Markets Plunge Amid Global Trade Tensions, $1.5B Liquidated",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d786ab35c219adfb83e124a8632e56e333548169-1792x1024.png",
@@ -1480,21 +1495,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fc41b16adb5ef4dae12aa0dfe76034330e6c1c5c-1200x798.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/sol-btc-ratio-suffers-in-the-wake-of-usd200-million-in-token-unlocks",
-          "author": "Squiffs",
-          "description": "The metric is at its lowest level since 2023, driven by multiple token unlock events and a fading memecoin market.",
-          "link": "https://thedefiant.io/news/markets/sol-btc-ratio-suffers-in-the-wake-of-usd200-million-in-token-unlocks",
-          "publishedOn": "2025-04-04T22:30:27.000Z",
-          "wordCount": 983,
-          "title": "SOL/BTC Ratio Suffers in the Wake of $200 Million in Token Unlocks",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a213902bc82f4d37e2acff1c25acaa0fed6721fb-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a213902bc82f4d37e2acff1c25acaa0fed6721fb-1555x875.png"
         }
       ]
     }
