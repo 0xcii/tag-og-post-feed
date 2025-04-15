@@ -12,6 +12,31 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/pakistan-appoints-binance-founder-changpeng-zhao-strategic-advisor-on-crypto-to-a1f6b02c",
+          "author": "DeepNewz",
+          "description": "Changpeng Zhao, the founder of Binance, has been appointed as a Strategic Advisor on Crypto by the government of Pakistan",
+          "link": "https://thedefiant.io/news/regulation/pakistan-appoints-binance-founder-changpeng-zhao-strategic-advisor-on-crypto-to-a1f6b02c",
+          "publishedOn": "2025-04-15T15:00:40.000Z",
+          "wordCount": 735,
+          "title": "Pakistan Appoints Binance Founder Changpeng Zhao as Strategic Advisor on Crypto to Boost Trading Bid, in Talks with Trump Family",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/zksync-reports-5m-zk-tokens-stolen-via-private-key-compromise-zk-drops-15-0acea66c",
+          "author": "DeepNewz",
+          "description": "ZKsync, a blockchain platform, has reported that its security team identified a compromised admin account which led to the unauthorized control of approximately $5 million worth of ZK tokens due to a private key compromise",
+          "link": "https://thedefiant.io/news/hacks/zksync-reports-5m-zk-tokens-stolen-via-private-key-compromise-zk-drops-15-0acea66c",
+          "publishedOn": "2025-04-15T15:00:40.000Z",
+          "wordCount": 806,
+          "title": "ZKsync Reports $5M ZK Tokens Stolen via Private Key Compromise, $ZK Drops 15%",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ccba42032ed4409eff7c597949b5a6698da3e22b-1198x794.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ccba42032ed4409eff7c597949b5a6698da3e22b-1198x794.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/trump-admin-explores-tariff-revenue-to-fund-u-s-strategic-bitcoin-reserve-192012-24f43b6f",
           "author": "DeepNewz",
           "description": "The Trump administration is exploring the use of tariff revenue to fund the acquisition of Bitcoin for the U",
@@ -132,7 +157,7 @@
           "description": "Bitcoin has demonstrated remarkable performance by outpacing the S&P 500 across all timeframes, including every year for the past 14 years",
           "link": "https://thedefiant.io/news/markets/bitcoin-achieves-7-2-million-percent-return-outperforming-s-p-500-s-306-gold-s-d92ee83f",
           "publishedOn": "2025-04-14T23:00:40.000Z",
-          "wordCount": 718,
+          "wordCount": 730,
           "title": "Bitcoin Achieves 7.2 Million Percent Return, Outperforming S&amp; P 500's 306% and Gold's 116% Over 14 Years",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7d522a38dbf505c182ff5bc2fe80a40438ed7849-1148x908.jpg",
@@ -162,7 +187,7 @@
           "description": "FARTCOIN has outperformed the broader crypto market amid a global decline in financial markets.",
           "link": "https://thedefiant.io/news/markets/five-fartcoin-holders-generate-nearly-usd9-million-in-profits-as-token-rallies",
           "publishedOn": "2025-04-14T19:11:51.000Z",
-          "wordCount": 878,
+          "wordCount": 894,
           "title": "Five Fartcoin Holders Generate Nearly $9 Million in Profits as Token Rallies",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e1ee6fdddb3cacf0e43e2d12df60ff951cd2b3db-1555x875.png",
@@ -192,7 +217,7 @@
           "description": "Bitcoin and Dogecoin are popular cryptocurrencies with different risks and investor appeal.",
           "link": "https://thedefiant.io/education/tokens/dogecoin-vs-bitcoin-key-differences-explained",
           "publishedOn": "2025-04-14T18:30:21.000Z",
-          "wordCount": 1697,
+          "wordCount": 1714,
           "title": "Dogecoin vs Bitcoin: Key Differences Explained",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7b0862f3a0a70a62a7a2221bfe4e9e17d74846cd-1555x875.png",
@@ -252,7 +277,7 @@
           "description": "Global markets started the week in the green after Trump exempted many electronics from tariffs over the weekend.",
           "link": "https://thedefiant.io/news/markets/bitcoin-and-ether-gain-as-broader-market-fizzles-om-craters",
           "publishedOn": "2025-04-14T16:20:03.000Z",
-          "wordCount": 1042,
+          "wordCount": 1050,
           "title": "Bitcoin and Ether Gain as Broader Market Fizzles, OM Craters",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/74a5e1bbce9750a0f110134578426b1bc79bb8ad-1555x875.png",
@@ -297,7 +322,7 @@
           "description": "MicroStrategy, led by Executive Chairman Michael Saylor, has acquired an additional 3,459 bitcoins for approximately $285",
           "link": "https://thedefiant.io/news/markets/microstrategy-acquires-3459-bitcoins-285-8-million-total-holdings-reach-531644-33f71a17",
           "publishedOn": "2025-04-14T14:30:40.000Z",
-          "wordCount": 739,
+          "wordCount": 724,
           "title": "MicroStrategy Acquires 3,459 Bitcoins for $285.8 Million, Total Holdings Reach 531,644 BTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c047b2a09a34166b566ace1a47891785963fb32b-1200x676.jpg",
@@ -312,7 +337,7 @@
           "description": "USD-pegged stablecoins offer the United States a powerful tool for reinforcing economic dominance and national security.",
           "link": "https://thedefiant.io/news/research-and-opinion/usd-stablecoins-as-united-states-national-security-priority",
           "publishedOn": "2025-04-14T14:13:07.000Z",
-          "wordCount": 1954,
+          "wordCount": 1971,
           "title": "Stablecoins Are a Matter of US National Security",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/398ad3bb9cc9fde58973c0e523ecd6efd3ccc7da-1555x875.png",
@@ -357,7 +382,7 @@
           "description": "MicroStrategy, led by CEO Michael Saylor, has acquired an additional 3,459 Bitcoins for approximately $285",
           "link": "https://thedefiant.io/news/markets/microstrategy-acquires-3459-bitcoins-285-8-million-total-holdings-reach-531644-a439f566",
           "publishedOn": "2025-04-14T13:00:40.000Z",
-          "wordCount": 713,
+          "wordCount": 708,
           "title": "MicroStrategy Acquires 3,459 Bitcoins for $285.8 Million, Total Holdings Reach 531,644 BTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dbcc957365cbae595c135b9d8c6dea21c0abccf1-1152x1200.jpg",
@@ -372,7 +397,7 @@
           "description": "MicroStrategy Inc",
           "link": "https://thedefiant.io/news/markets/microstrategy-buys-3459-bitcoins-285-8-million-now-holds-531644-btc-53e28fde",
           "publishedOn": "2025-04-14T12:30:40.000Z",
-          "wordCount": 703,
+          "wordCount": 698,
           "title": "MicroStrategy Buys 3,459 Bitcoins for $285.8 Million, Now Holds 531,644 BTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c0dbdfa161976cceddb7cdc23f8e496113252b61-1200x675.jpg",
@@ -387,7 +412,7 @@
           "description": "Metaplanet, a Japanese public company often referred to as 'Asia's MicroStrategy,' has expanded its Bitcoin investment by purchasing an additional 319 BTC for approximately $26",
           "link": "https://thedefiant.io/news/markets/metaplanet-targets-470-bitcoin-increase-appoints-eric-trump-to-advisory-board-29968a88",
           "publishedOn": "2025-04-14T10:30:40.000Z",
-          "wordCount": 763,
+          "wordCount": 758,
           "title": "Metaplanet Targets 470% Bitcoin Increase, Appoints Eric Trump to Advisory Board",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/65be9eb64bb46a6a80572af9cb15b1e60295552e-1080x1080.jpg",
@@ -402,7 +427,7 @@
           "description": "Japan-based Metaplanet has acquired an additional 319 Bitcoin (BTC) worth approximately ¥3",
           "link": "https://thedefiant.io/news/markets/japan-s-metaplanet-acquires-319-bitcoin-targets-10000-btc-amid-tariff-tensions-16eb9ec3",
           "publishedOn": "2025-04-14T06:30:40.000Z",
-          "wordCount": 725,
+          "wordCount": 720,
           "title": "Japan's Metaplanet Acquires 319 Bitcoin, Targets 10,000 BTC Amid Tariff Tensions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/65be9eb64bb46a6a80572af9cb15b1e60295552e-1080x1080.jpg",
@@ -417,7 +442,7 @@
           "description": "Metaplanet, a Japanese company, has acquired an additional 319 Bitcoin, valued at approximately ¥3",
           "link": "https://thedefiant.io/news/markets/metaplanet-acquires-319-bitcoin-worth-y-3-7-billion-26-3-million-totaling-4525-5d3c69ac",
           "publishedOn": "2025-04-14T05:00:40.000Z",
-          "wordCount": 634,
+          "wordCount": 629,
           "title": "Metaplanet Acquires 319 Bitcoin Worth ¥3.7 Billion ($26.3 Million), Totaling 4,525 BTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/65be9eb64bb46a6a80572af9cb15b1e60295552e-1080x1080.jpg",
@@ -447,7 +472,7 @@
           "description": "Michael Saylor, the executive chairman of MicroStrategy, has hinted at the company's plans to resume Bitcoin purchases after a one-week pause",
           "link": "https://thedefiant.io/news/markets/michael-saylor-signals-microstrategy-s-1-2-billion-bitcoin-purchase-involving-02d15500",
           "publishedOn": "2025-04-13T16:00:40.000Z",
-          "wordCount": 709,
+          "wordCount": 704,
           "title": "Michael Saylor Signals MicroStrategy's $1–$2 Billion Bitcoin Purchase, Involving Thousands of Coins",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b88846c8f63ddd50a617046ce7ccae101b3a15a8-1163x742.jpg",
@@ -462,7 +487,7 @@
           "description": "Michael Saylor, CEO of MicroStrategy, has announced plans to purchase approximately $1 billion worth of Bitcoin",
           "link": "https://thedefiant.io/news/markets/michael-saylor-plans-1-billion-bitcoin-purchase-semler-scientific-ceo-advocates-fec61bc5",
           "publishedOn": "2025-04-13T14:30:40.000Z",
-          "wordCount": 714,
+          "wordCount": 709,
           "title": "Michael Saylor Plans $1 Billion Bitcoin Purchase as Semler Scientific CEO Advocates Buying Bitcoin Now",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1c731a763292286879ccba89b3a662cf85a4f30f-1182x820.jpg",
@@ -582,7 +607,7 @@
           "description": "BlackRock, a major financial institution, has purchased 4,126 Ethereum (ETH) valued at $6",
           "link": "https://thedefiant.io/news/markets/blackrock-buys-4126-ethereum-worth-6-4m-eth-price-surpasses-1600-0227bfd3",
           "publishedOn": "2025-04-12T16:30:40.000Z",
-          "wordCount": 654,
+          "wordCount": 664,
           "title": "BlackRock Buys 4,126 Ethereum Worth $6.4M as ETH Price Surpasses $1,600",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/36126228a117612d185978b303abbaedd47e325f-653x1199.jpg",
@@ -717,7 +742,7 @@
           "description": "BTC, ETH and SOL climbed as the Dollar Index dipped under 100 for the first time since July 2023.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-gain-as-u-s-dollar-drops-wholesale-inflation-cools",
           "publishedOn": "2025-04-11T17:07:38.000Z",
-          "wordCount": 929,
+          "wordCount": 939,
           "title": "Crypto Markets Gain as U.S. Dollar Drops, Wholesale Inflation Cools",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f23ae8916a7054167ba343cc0d73cb82789e5b66-1555x875.png",
@@ -777,7 +802,7 @@
           "description": "The onchain connectivity solution is set to launch its native token through partnerships with various centralized exchanges.",
           "link": "https://thedefiant.io/news/infrastructure/walletconnect-to-launch-token-on-april-15",
           "publishedOn": "2025-04-11T10:36:48.000Z",
-          "wordCount": 753,
+          "wordCount": 773,
           "title": "WalletConnect to Launch Token on April 15",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/afe9db634076e413e1a03627395e6e9d7f5134b7-1555x875.png",
@@ -852,7 +877,7 @@
           "description": "President Trump’s tariffs triggered the largest spike in volatility in over a year, according to the report.",
           "link": "https://thedefiant.io/news/research-and-opinion/bitcoin-lagged-equities-and-gold-in-q1-kaiko",
           "publishedOn": "2025-04-10T20:10:04.000Z",
-          "wordCount": 847,
+          "wordCount": 864,
           "title": "Bitcoin Lagged Equities and Gold in Q1: Kaiko",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/73533a3bad0b92d661fa068db63f880dd5ccb7b8-1555x875.png",
@@ -867,7 +892,7 @@
           "description": "A new report from the asset manager highlights that Bitcoin has held steady amid recent market volatility.",
           "link": "https://thedefiant.io/news/research-and-opinion/trade-tensions-could-fuel-bitcoin-adoption-grayscale",
           "publishedOn": "2025-04-10T19:46:27.000Z",
-          "wordCount": 888,
+          "wordCount": 905,
           "title": "Trade Tensions Could Fuel Bitcoin Adoption: Grayscale",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9f2b2a2b4f428b11cce8f69e56f84b3dd6f20f91-1555x875.png",
@@ -912,7 +937,7 @@
           "description": "Bitcoin is trading around $80K as broader markets record minor gains after softer inflation data.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-consolidate-as-cpi-cools-and-trump-pauses-tariffs",
           "publishedOn": "2025-04-10T17:23:44.000Z",
-          "wordCount": 1027,
+          "wordCount": 1037,
           "title": "Crypto Markets Consolidate as CPI Cools and Trump Pauses Tariffs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cc9bd293ad5ac2561f5920268c4d0bc4fdc8a648-1555x875.png",
@@ -1032,7 +1057,7 @@
           "description": "Since 2020, Bitcoin has repeatedly gained ground whenever the dollar has weakened, and Matt Hougan expects the trend to continue.",
           "link": "https://thedefiant.io/news/research-and-opinion/bitwise-cio-says-trump-s-tariff-plan-could-supercharge-bitcoin",
           "publishedOn": "2025-04-10T09:50:09.000Z",
-          "wordCount": 784,
+          "wordCount": 801,
           "title": "Bitwise CIO Says Trump’s Tariff Plan Could Supercharge Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1ef353eb0aeab55e654c942c51f9506c7a5ba5fc-1555x875.png",
@@ -1047,7 +1072,7 @@
           "description": "Macroeconomic uncertainty and ongoing tariff tensions drove declining volumes across centralized and DeFi exchanges.",
           "link": "https://thedefiant.io/news/research-and-opinion/trading-volumes-plunge-across-crypto-exchanges-in-march",
           "publishedOn": "2025-04-10T09:30:16.000Z",
-          "wordCount": 780,
+          "wordCount": 797,
           "title": "Trading Volumes Plunge Across Crypto Exchanges in March",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6d08410fc46ab22b136ab2f79ad7bbc514c0e989-1555x875.png",
@@ -1122,7 +1147,7 @@
           "description": "Altcoins suffered losses amid shaken investor confidence, while a handful of outliers bucked the trend.",
           "link": "https://thedefiant.io/news/research-and-opinion/crypto-market-struggled-throughout-q1-as-tariffs-and-fear-persisted-but-bitcoin-held-steady",
           "publishedOn": "2025-04-09T20:27:34.000Z",
-          "wordCount": 1127,
+          "wordCount": 1144,
           "title": "Crypto Market Struggled Throughout Q1 as Tariffs and Fear Persisted, But Bitcoin Held Steady",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fc6651e852707db16f99594102d728abc8e23320-1555x875.png",
@@ -1137,7 +1162,7 @@
           "description": "U",
           "link": "https://thedefiant.io/news/markets/u-s-stocks-add-4-trillion-10-minutes-surpassing-total-crypto-market-cap-2-5-c3a020e3",
           "publishedOn": "2025-04-09T18:30:40.000Z",
-          "wordCount": 626,
+          "wordCount": 636,
           "title": "U.S. Stocks Add $4 Trillion in 10 Minutes, Surpassing Total Crypto Market Cap of $2.5 Trillion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/73ae950fa7cb2aa3fcef777b0609e1deeaf2effb-1200x628.jpg",
@@ -1197,7 +1222,7 @@
           "description": "Bitcoin and Ethereum are up 7% and 12%, respectively, while SOL has surged 13%.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-wobble-as-trump-s-trade-war-and-fed-jitters-fuel-volatility",
           "publishedOn": "2025-04-09T16:51:53.000Z",
-          "wordCount": 969,
+          "wordCount": 979,
           "title": "Crypto Markets Soar After Trump Pauses Tariffs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/44a5a4e1ab958bc96d9d21d9fb6f527a43d23b10-1555x875.png",
@@ -1212,7 +1237,7 @@
           "description": "Binance, a leading cryptocurrency exchange, is set to launch LDUSDT, a new reward-bearing margin asset for its futures trading platform",
           "link": "https://thedefiant.io/news/cefi/binance-to-launch-ldusdt-second-reward-bearing-margin-asset-up-to-20x-leverage-64ea6ac7",
           "publishedOn": "2025-04-09T16:30:40.000Z",
-          "wordCount": 746,
+          "wordCount": 742,
           "title": "Binance to Launch LDUSDT, Second Reward-Bearing Margin Asset with Up to 20x Leverage and Real-Time APR",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7107ac312911928ef878ceadd3e691aac5418f34-1200x675.jpg",
@@ -1312,7 +1337,7 @@
           "description": "A wallet potentially linked to Trump's World Liberty Financial has sold 5,471 Ethereum (ETH) for approximately $8",
           "link": "https://thedefiant.io/news/markets/world-liberty-financial-sells-5471-eth-8-01m-1465-amid-125m-loss-on-67498-eth-a7bb59e6",
           "publishedOn": "2025-04-09T03:30:40.000Z",
-          "wordCount": 721,
+          "wordCount": 731,
           "title": "World Liberty Financial Sells 5,471 ETH for $8.01M at $1,465 Amid $125M Loss on 67,498 ETH Purchase",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/340ecea7172099c4335f8a133e86262a10c9ed69-1199x608.jpg",
@@ -1357,7 +1382,7 @@
           "description": "Binance, a leading cryptocurrency exchange, has announced a strategic partnership with Worldpay, a global payment technology provider, to enhance its fiat onramp capabilities",
           "link": "https://thedefiant.io/news/cefi/binance-integrates-apple-pay-google-pay-bitcoin-ethereum-purchases-serving-600-f997cc61",
           "publishedOn": "2025-04-08T21:00:40.000Z",
-          "wordCount": 838,
+          "wordCount": 831,
           "title": "Binance Integrates Apple Pay and Google Pay for Bitcoin and Ethereum Purchases, Serving 600 Million Users",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/661a3019433bdc119183070219af2584b27935c1-1200x675.png",
@@ -1387,7 +1412,7 @@
           "description": "The price of Hedera's HBAR rose over 30% after a now deleted LinkedIn post announcing a fake partnership with Nvidia and Hedera made the rounds.",
           "link": "https://thedefiant.io/news/markets/fake-nvidia-hedera-partnership-news-sends-hbar-market-cap-up-usd2b",
           "publishedOn": "2025-04-08T19:33:41.000Z",
-          "wordCount": 1104,
+          "wordCount": 1120,
           "title": "Fake Nvidia, Hedera Partnership News Sends HBAR's Market Cap up $2B",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f68b867526de2fd551a1fd47112d94c0294d0e6d-1555x875.png",
@@ -1432,7 +1457,7 @@
           "description": "Geopolitical and macroeconomic uncertainty continues to shake up the crypto market following President Donald Trump’s tariff proclamations.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-whipsaw-as-liquidations-mount-and-futures-volumes-surge",
           "publishedOn": "2025-04-08T16:43:54.000Z",
-          "wordCount": 990,
+          "wordCount": 1000,
           "title": "Crypto Markets Whipsaw as Liquidations Mount and Futures Volumes Surge",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6cc9ac46650be434c0cbf6fd3ff21c8c027fc40d-1555x875.png",
@@ -1462,7 +1487,7 @@
           "description": "OKX has announced the upcoming listing of the $WCT token from WalletConnect, with deposits set to open at 10:00 UTC on April 15, 2025",
           "link": "https://thedefiant.io/news/cefi/okx-to-list-walletconnect-s-wct-token-on-april-15-2025-deposits-open-10-00-utc-56da082c",
           "publishedOn": "2025-04-08T16:00:40.000Z",
-          "wordCount": 724,
+          "wordCount": 717,
           "title": "OKX to List WalletConnect's $WCT Token on April 15, 2025; Deposits Open at 10:00 UTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/776e94612a29c5bc4af52e1da028e1b5e0b363f5-650x1200.jpg",
@@ -1470,31 +1495,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/776e94612a29c5bc4af52e1da028e1b5e0b363f5-650x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/binance-partners-worldpay-to-enable-bitcoin-crypto-purchases-via-apple-pay-pay-7-8ffcb4db",
-          "author": "DeepNewz",
-          "description": "Binance has announced a strategic partnership with Worldpay, enabling users to purchase cryptocurrencies using Apple Pay and Google Pay",
-          "link": "https://thedefiant.io/news/cefi/binance-partners-worldpay-to-enable-bitcoin-crypto-purchases-via-apple-pay-pay-7-8ffcb4db",
-          "publishedOn": "2025-04-08T15:30:40.000Z",
-          "wordCount": 758,
-          "title": "Binance Partners with Worldpay to Enable Bitcoin and Crypto Purchases via Apple Pay and Google Pay Starting April 7, 2025",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/661a3019433bdc119183070219af2584b27935c1-1200x675.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/661a3019433bdc119183070219af2584b27935c1-1200x675.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/wazirx-secures-over-93-creditor-approval-234-million-post-hack-restructuring-19-85dd493a",
-          "author": "DeepNewz",
-          "description": "WazirX, the beleaguered cryptocurrency exchange, has received overwhelming support from its creditors for a restructuring plan following a $234 million hack last year",
-          "link": "https://thedefiant.io/news/hacks/wazirx-secures-over-93-creditor-approval-234-million-post-hack-restructuring-19-85dd493a",
-          "publishedOn": "2025-04-08T15:30:40.000Z",
-          "wordCount": 722,
-          "title": "WazirX Secures Over 93% Creditor Approval for $234 Million Post-Hack Restructuring Plan from March 19 to March 28",
-          "imageUrl": null
         }
       ]
     }
