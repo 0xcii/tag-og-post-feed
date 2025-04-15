@@ -12,6 +12,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/solana-processes-355-9-million-transactions-week-generates-more-fees-than-leads-bfe13860",
+          "author": "DeepNewz",
+          "description": "Solana has achieved a remarkable milestone by processing 355",
+          "link": "https://thedefiant.io/news/blockchains/solana-processes-355-9-million-transactions-week-generates-more-fees-than-leads-bfe13860",
+          "publishedOn": "2025-04-15T16:05:17.000Z",
+          "wordCount": 710,
+          "title": "Solana Processes 355.9 Million Transactions in a Week, Generates More Fees than Ethereum and Leads DEX Volume for 4 Days",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ffd784bf12e18ee7bdbc243e099ff1ba55ae5261-910x486.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ffd784bf12e18ee7bdbc243e099ff1ba55ae5261-910x486.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/zksync-suffers-usd5m-loss-after-admin-wallet-exploit",
+          "author": "Jona Jaupi",
+          "description": "The zkSync team reassured users that their funds remain unaffected.",
+          "link": "https://thedefiant.io/news/hacks/zksync-suffers-usd5m-loss-after-admin-wallet-exploit",
+          "publishedOn": "2025-04-15T15:34:27.000Z",
+          "wordCount": 734,
+          "title": "zkSync Suffers $5M Loss After Admin Wallet Exploit",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6887d738f9c60cec795b915806f19bc66e66bb00-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6887d738f9c60cec795b915806f19bc66e66bb00-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/debridge-enables-lightspeed-swaps-across-ethereum-solana-base-polygon-via-wallet-b9894066",
+          "author": "DeepNewz",
+          "description": "deBridge has integrated with Phantom Wallet to enable cross-chain token swaps across Ethereum, Solana, Base, and Polygon",
+          "link": "https://thedefiant.io/news/defi/debridge-enables-lightspeed-swaps-across-ethereum-solana-base-polygon-via-wallet-b9894066",
+          "publishedOn": "2025-04-15T15:30:32.000Z",
+          "wordCount": 648,
+          "title": "deBridge Enables Lightspeed Swaps Across Ethereum, Solana, Base, Polygon via Phantom Wallet",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/53b70686c41cea3e1f6442714096aa613b4f0123-443x413.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/53b70686c41cea3e1f6442714096aa613b4f0123-443x413.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/pakistan-appoints-binance-founder-changpeng-zhao-strategic-advisor-on-crypto-to-a1f6b02c",
           "author": "DeepNewz",
           "description": "Changpeng Zhao, the founder of Binance, has been appointed as a Strategic Advisor on Crypto by the government of Pakistan",
@@ -1450,51 +1495,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/67193bea0584f4b1cab8da87a81a2d35e6e799ef-1199x619.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-whipsaw-as-liquidations-mount-and-futures-volumes-surge",
-          "author": "Jona Jaupi",
-          "description": "Geopolitical and macroeconomic uncertainty continues to shake up the crypto market following President Donald Trump’s tariff proclamations.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-whipsaw-as-liquidations-mount-and-futures-volumes-surge",
-          "publishedOn": "2025-04-08T16:43:54.000Z",
-          "wordCount": 1000,
-          "title": "Crypto Markets Whipsaw as Liquidations Mount and Futures Volumes Surge",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6cc9ac46650be434c0cbf6fd3ff21c8c027fc40d-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6cc9ac46650be434c0cbf6fd3ff21c8c027fc40d-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/solana-launches-zk-powered-confidential-balances-token-extensions-on-mainnet-5fce9eb7",
-          "author": "DeepNewz",
-          "description": "Solana has launched its Confidential Balances Token Extensions on the mainnet, marking the debut of a ZK-powered encrypted token standard designed for institutional compliance",
-          "link": "https://thedefiant.io/news/blockchains/solana-launches-zk-powered-confidential-balances-token-extensions-on-mainnet-5fce9eb7",
-          "publishedOn": "2025-04-08T16:30:40.000Z",
-          "wordCount": 746,
-          "title": "Solana Launches ZK-Powered Confidential Balances Token Extensions on Mainnet for Enhanced Privacy and Compliance",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/67193bea0584f4b1cab8da87a81a2d35e6e799ef-1199x619.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/67193bea0584f4b1cab8da87a81a2d35e6e799ef-1199x619.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/okx-to-list-walletconnect-s-wct-token-on-april-15-2025-deposits-open-10-00-utc-56da082c",
-          "author": "DeepNewz",
-          "description": "OKX has announced the upcoming listing of the $WCT token from WalletConnect, with deposits set to open at 10:00 UTC on April 15, 2025",
-          "link": "https://thedefiant.io/news/cefi/okx-to-list-walletconnect-s-wct-token-on-april-15-2025-deposits-open-10-00-utc-56da082c",
-          "publishedOn": "2025-04-08T16:00:40.000Z",
-          "wordCount": 717,
-          "title": "OKX to List WalletConnect's $WCT Token on April 15, 2025; Deposits Open at 10:00 UTC",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/776e94612a29c5bc4af52e1da028e1b5e0b363f5-650x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/776e94612a29c5bc4af52e1da028e1b5e0b363f5-650x1200.jpg"
         }
       ]
     }
