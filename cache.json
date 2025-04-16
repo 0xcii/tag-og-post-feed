@@ -12,12 +12,72 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/trump-memecoin-developer-pulls-liquidity-ahead-of-massive-unlock",
+          "author": "Squiffs",
+          "description": "The wallet that launched the token removed $4.6 million of USDC liquidity, with $300 million worth of TRUMP set to be unlocked tomorrow.",
+          "link": "https://thedefiant.io/news/markets/trump-memecoin-developer-pulls-liquidity-ahead-of-massive-unlock",
+          "publishedOn": "2025-04-16T20:05:27.000Z",
+          "wordCount": 880,
+          "title": "TRUMP Memecoin Developer Pulls Liquidity Ahead of Massive Unlock",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f510210796dc9dbde1c4223cdf596a684181116a-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f510210796dc9dbde1c4223cdf596a684181116a-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/maple-finance-tvl-surpasses-usd1-billion",
+          "author": "Jona Jaupi",
+          "description": "Maple’s SYRUP token has surged 20% in the past 24 hours.",
+          "link": "https://thedefiant.io/news/defi/maple-finance-tvl-surpasses-usd1-billion",
+          "publishedOn": "2025-04-16T19:35:11.000Z",
+          "wordCount": 922,
+          "title": "Maple Finance TVL Surpasses $1 Billion",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6ce9e669920970896583d7aac9f0ed2627a12fcf-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6ce9e669920970896583d7aac9f0ed2627a12fcf-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-proposes-110-billion-bitbonds-10-bitcoin-to-refinance-14-trillion-u-s-44c0cbc4",
+          "author": "DeepNewz",
+          "description": "VanEck, a $110 billion asset manager, has proposed the introduction of \"BitBonds,\" a hybrid debt instrument designed to help the U",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-proposes-110-billion-bitbonds-10-bitcoin-to-refinance-14-trillion-u-s-44c0cbc4",
+          "publishedOn": "2025-04-16T19:30:33.000Z",
+          "wordCount": 916,
+          "title": "VanEck Proposes $110 Billion BitBonds With 10% Bitcoin to Refinance $14 Trillion U.S. Debt",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/aa9bcec57f4c1a8a447860385d16c613ce82a0a0-1140x656.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aa9bcec57f4c1a8a447860385d16c613ce82a0a0-1140x656.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/auradine-raises-153-million-bitcoin-mining-computers-ai-expansion-series-c-led-5ac69152",
+          "author": "DeepNewz",
+          "description": "Auradine Inc",
+          "link": "https://thedefiant.io/news/blockchains/auradine-raises-153-million-bitcoin-mining-computers-ai-expansion-series-c-led-5ac69152",
+          "publishedOn": "2025-04-16T19:30:33.000Z",
+          "wordCount": 681,
+          "title": "Auradine Raises $153 Million for Bitcoin Mining Computers and AI Expansion in Series C Led by StepStone Group",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/38412f4fd738c76f867100981238937d79c5cbbe-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/38412f4fd738c76f867100981238937d79c5cbbe-1200x675.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/u-s-bitcoin-etfs-see-76-4-million-inflows-on-april-15-2025-amid-878-million-edfdc71d",
           "author": "DeepNewz",
           "description": "After a week of significant outflows, U",
           "link": "https://thedefiant.io/news/markets/u-s-bitcoin-etfs-see-76-4-million-inflows-on-april-15-2025-amid-878-million-edfdc71d",
           "publishedOn": "2025-04-16T17:30:33.000Z",
-          "wordCount": 731,
+          "wordCount": 729,
           "title": "U.S. Bitcoin ETFs See $76.4 Million Inflows on April 15, 2025, Amid $878 Million Outflow Recovery",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7a6ef20974f8c9de5345c0f2d32fe157344f510a-1060x601.jpg",
@@ -47,7 +107,7 @@
           "description": "Bitcoin holds steady while Ethereum and altcoins dip.",
           "link": "https://thedefiant.io/news/markets/crypto-market-extends-losses-as-tariff-tensions-rattle-investors",
           "publishedOn": "2025-04-16T17:24:30.000Z",
-          "wordCount": 957,
+          "wordCount": 955,
           "title": "Crypto Market Extends Losses as Tariff Tensions Rattle Investors",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ef1c11e6d8e8460e53555cf5482e4a5b1067ff8a-1555x875.png",
@@ -62,7 +122,7 @@
           "description": "Bitcoin's market cap dominance has surged to its highest level since February 2021, reaching 64%",
           "link": "https://thedefiant.io/news/markets/bitcoin-dominance-reaches-64-highest-since-february-2021-20c2a4de",
           "publishedOn": "2025-04-16T17:00:33.000Z",
-          "wordCount": 630,
+          "wordCount": 628,
           "title": "Bitcoin Dominance Reaches 64%, Highest Since February 2021",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/250a33e59ca741336fddf21ce07cab88d020b75d-1200x628.jpg",
@@ -77,7 +137,7 @@
           "description": "Securitize has completed its acquisition of MG Stover’s fund administration business, positioning itself as the largest digital asset fund administrator globally",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/securitize-acquires-mg-stover-38b-assets-becomes-largest-digital-asset-fund-715-1518eb04",
           "publishedOn": "2025-04-16T15:30:33.000Z",
-          "wordCount": 718,
+          "wordCount": 719,
           "title": "Securitize Acquires MG Stover for $38B in Assets, Becomes Largest Digital Asset Fund Administrator with 715 Funds",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8415d8e1763120821257a665fbfdb8bf9386c293-1200x675.jpg",
@@ -92,7 +152,7 @@
           "description": "Bitwise Asset Management has officially launched four Bitcoin and cryptocurrency exchange-traded products (ETPs) on the London Stock Exchange, with a total value of $12 billion",
           "link": "https://thedefiant.io/news/markets/bitwise-launches-four-12-billion-bitcoin-crypto-etps-on-london-stock-exchange-to-ee62c9d4",
           "publishedOn": "2025-04-16T15:30:33.000Z",
-          "wordCount": 778,
+          "wordCount": 776,
           "title": "Bitwise Launches Four $12 Billion Bitcoin and Crypto ETPs on London Stock Exchange; BlackRock to Launch $11 Trillion ETF",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6719bc214d64c2083465b1f2733b633607424a91-1199x588.jpg",
@@ -107,7 +167,7 @@
           "description": "Bitcoin's market cap dominance has surged to 63",
           "link": "https://thedefiant.io/news/markets/bitcoin-dominance-hits-64-up-to-63-7-last-seen-february-2021-price-rose-20k-to-84a4f155",
           "publishedOn": "2025-04-16T15:00:33.000Z",
-          "wordCount": 682,
+          "wordCount": 680,
           "title": "Bitcoin Dominance Hits 64%, Up to 63.7%, Last Seen February 2021, Price Rose From $20K to $69K",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/250a33e59ca741336fddf21ce07cab88d020b75d-1200x628.jpg",
@@ -167,7 +227,7 @@
           "description": "Galaxy Digital has made substantial movements in the cryptocurrency market, withdrawing a total of 218,285 SOL, valued at approximately $28 million, from Binance over a 24-hour period",
           "link": "https://thedefiant.io/news/markets/galaxy-digital-withdraws-28m-sol-deposits-60-4m-eth-to-binance-shifting-strategy-81bda11f",
           "publishedOn": "2025-04-16T12:00:33.000Z",
-          "wordCount": 784,
+          "wordCount": 782,
           "title": "Galaxy Digital Withdraws $28M in SOL and Deposits $60.4M in ETH to Binance, Shifting Strategy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cb847a413c38b941e9ee28d3caf9b0bab1cd296f-914x1200.jpg",
@@ -182,7 +242,7 @@
           "description": "Japanese investment firm Metaplanet has acquired an additional 319 Bitcoin for $26",
           "link": "https://thedefiant.io/news/markets/metaplanet-buys-319-bitcoin-26-3m-issues-10m-0-bonds-holdings-reach-4525-btc-165a2b1a",
           "publishedOn": "2025-04-16T11:30:33.000Z",
-          "wordCount": 716,
+          "wordCount": 714,
           "title": "Metaplanet Buys 319 Bitcoin for $26.3M, Issues $10M in 0% Bonds, Holdings Reach 4,525 BTC in April 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/65be9eb64bb46a6a80572af9cb15b1e60295552e-1080x1080.jpg",
@@ -212,7 +272,7 @@
           "description": "China is reportedly selling seized cryptocurrency assets despite an existing trading ban, according to a Reuters report",
           "link": "https://thedefiant.io/news/markets/china-sells-194000-btc-worth-16-billion-seized-crypto-assets-amid-economic-9c8dc7b1",
           "publishedOn": "2025-04-16T08:30:33.000Z",
-          "wordCount": 698,
+          "wordCount": 696,
           "title": "China Sells 194,000 BTC Worth $16 Billion in Seized Crypto Assets Amid Economic Slowdown",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f5bf764790dd2d05a4b1a98ea7d026c103f1bf84-1024x768.jpg",
@@ -302,7 +362,7 @@
           "description": "Semler Scientific has announced plans to raise $500 million to acquire additional Bitcoin",
           "link": "https://thedefiant.io/news/markets/semler-scientific-files-to-raise-500-million-to-acquire-additional-bitcoin-7d46f5de",
           "publishedOn": "2025-04-15T23:30:33.000Z",
-          "wordCount": 662,
+          "wordCount": 660,
           "title": "Semler Scientific Files to Raise $500 Million to Acquire Additional Bitcoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f38ca9cae5ae580c9a117435edca31c96556441b-1200x1024.jpg",
@@ -332,7 +392,7 @@
           "description": "Securitize has completed the acquisition of MG Stover’s fund administration business, positioning itself as the largest digital asset fund administrator globally",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/securitize-acquires-mg-stovers-fund-administration-business-38-billion-becomes-3d8cb22e",
           "publishedOn": "2025-04-15T22:00:33.000Z",
-          "wordCount": 741,
+          "wordCount": 742,
           "title": "Securitize Acquires MG Stover’s Fund Administration Business for $38 Billion, Becomes Largest Digital Asset Fund Administrator",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8415d8e1763120821257a665fbfdb8bf9386c293-1200x675.jpg",
@@ -362,7 +422,7 @@
           "description": "Circle has announced that its stablecoin USDC, along with the Cross-Chain Transfer Protocol (CCTP) V2 and Circle Wallets, will be available on the Monad mainnet starting on April 15, 2025",
           "link": "https://thedefiant.io/news/defi/circle-launches-usdc-cctp-v2-wallets-on-monad-mainnet-enabling-fast-usdc-full-on-360b263d",
           "publishedOn": "2025-04-15T21:35:15.000Z",
-          "wordCount": 817,
+          "wordCount": 805,
           "title": "Circle Launches USDC, CCTP V2, and Wallets on Monad Mainnet, Enabling Fast USDC Transfers and Full-Stack Infra on April 15, 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f742031977ffa0ca333d6ad0080ff629160f58cf-1080x1080.jpg",
@@ -467,7 +527,7 @@
           "description": "BlackRock has reported a substantial increase in its cryptocurrency investments, with its BUIDL fund now valued at over $2",
           "link": "https://thedefiant.io/news/markets/blackrock-s-buidl-fund-exceeds-2-3b-holds-48b-btc-1-9b-eth-acquires-438-btc-36-a77af6d1",
           "publishedOn": "2025-04-15T19:05:15.000Z",
-          "wordCount": 755,
+          "wordCount": 753,
           "title": "BlackRock's BUIDL Fund Exceeds $2.3B; Holds $48B in BTC, $1.9B in ETH, Acquires 438 BTC Worth $36.7M",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b5aeb3e63ea78f967dca5f7a0b08402682be2175-1200x827.jpg",
@@ -482,7 +542,7 @@
           "description": "Brazilian fintech Meliuz has announced the conclusion of studies related to its Bitcoin strategy and plans to hold a general shareholders' meeting to vote on the inclusion of Bitcoin investments in its social objectives",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/brazil-fintech-meliuz-proposes-bitcoin-investments-corporate-strategy-plans-39718a6f",
           "publishedOn": "2025-04-15T19:05:15.000Z",
-          "wordCount": 755,
+          "wordCount": 756,
           "title": "Brazil Fintech Meliuz Proposes Bitcoin Investments in Corporate Strategy, Plans General Shareholders' Meeting",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d91d82d986c604990c786f57f4cbb73df5267630-1200x675.jpg",
@@ -542,7 +602,7 @@
           "description": "Most major cryptocurrencies posted losses amid market jitters tied to Trump’s new tariff plans.",
           "link": "https://thedefiant.io/news/markets/bitcoin-holds-steady-at-usd85-000-while-tariff-concerns-pressure-broader-market",
           "publishedOn": "2025-04-15T17:34:31.000Z",
-          "wordCount": 885,
+          "wordCount": 883,
           "title": "Bitcoin Holds Steady at $85,000 While Tariff Concerns Pressure Broader Market",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0342eccb7872728838dc0c02e2be10f601765d2-1555x875.png",
@@ -572,7 +632,7 @@
           "description": "OpenEden's stablecoin has surpassed a market capitalization of $100 million, marking a notable milestone in the cryptocurrency sector",
           "link": "https://thedefiant.io/news/markets/openeden-s-stablecoin-surpasses-100-million-market-cap-standard-chartered-total-12103594",
           "publishedOn": "2025-04-15T17:05:15.000Z",
-          "wordCount": 769,
+          "wordCount": 767,
           "title": "OpenEden's Stablecoin Surpasses $100 Million Market Cap; Standard Chartered Predicts Total Stablecoin Supply to Hit $2 Trillion by 2028",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b7b25bab81f6197a41ff29c59b4acfb417a97f13-1200x651.jpg",
@@ -632,7 +692,7 @@
           "description": "deBridge has integrated with Phantom Wallet to enable cross-chain token swaps across Ethereum, Solana, Base, and Polygon",
           "link": "https://thedefiant.io/news/defi/debridge-enables-lightspeed-swaps-across-ethereum-solana-base-polygon-via-wallet-b9894066",
           "publishedOn": "2025-04-15T15:30:32.000Z",
-          "wordCount": 650,
+          "wordCount": 638,
           "title": "deBridge Enables Lightspeed Swaps Across Ethereum, Solana, Base, Polygon via Phantom Wallet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/53b70686c41cea3e1f6442714096aa613b4f0123-443x413.png",
@@ -687,7 +747,7 @@
           "description": "Tether Holdings SA has announced a strategic investment in fintech firm Fizen Limited, aimed at enhancing global stablecoin adoption and self-custody solutions",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/tether-invests-fizen-to-enhance-global-stablecoin-adoption-self-custody-bfff69a7",
           "publishedOn": "2025-04-15T13:30:40.000Z",
-          "wordCount": 705,
+          "wordCount": 706,
           "title": "Tether Invests in Fizen to Enhance Global Stablecoin Adoption and Self-Custody Solutions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/12c6bec4282e4d76808d2fcb55e32db4e248d440-1200x675.png",
@@ -787,7 +847,7 @@
           "description": "Bitcoin has demonstrated remarkable performance by outpacing the S&P 500 across all timeframes, including every year for the past 14 years",
           "link": "https://thedefiant.io/news/markets/bitcoin-achieves-7-2-million-percent-return-outperforming-s-p-500-s-306-gold-s-d92ee83f",
           "publishedOn": "2025-04-14T23:00:40.000Z",
-          "wordCount": 736,
+          "wordCount": 734,
           "title": "Bitcoin Achieves 7.2 Million Percent Return, Outperforming S&amp; P 500's 306% and Gold's 116% Over 14 Years",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7d522a38dbf505c182ff5bc2fe80a40438ed7849-1148x908.jpg",
@@ -817,7 +877,7 @@
           "description": "FARTCOIN has outperformed the broader crypto market amid a global decline in financial markets.",
           "link": "https://thedefiant.io/news/markets/five-fartcoin-holders-generate-nearly-usd9-million-in-profits-as-token-rallies",
           "publishedOn": "2025-04-14T19:11:51.000Z",
-          "wordCount": 895,
+          "wordCount": 893,
           "title": "Five Fartcoin Holders Generate Nearly $9 Million in Profits as Token Rallies",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e1ee6fdddb3cacf0e43e2d12df60ff951cd2b3db-1555x875.png",
@@ -832,7 +892,7 @@
           "description": "Canada is set to launch the world's first spot Solana (SOL) exchange-traded funds (ETFs) on April 16, following regulatory approval",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/canada-to-launch-world-s-first-spot-solana-etfs-staking-on-april-16-d29507c1",
           "publishedOn": "2025-04-14T19:00:40.000Z",
-          "wordCount": 703,
+          "wordCount": 704,
           "title": "Canada to Launch World's First Spot Solana ETFs with Staking on April 16",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3595cffb149286417a49d33ce5c99238bffb798f-909x1200.jpg",
@@ -892,7 +952,7 @@
           "description": "Canada is set to launch the world's first spot Solana ETFs this week, following regulatory approval from the Ontario Securities Commission (OSC)",
           "link": "https://thedefiant.io/news/blockchains/canada-to-launch-world-s-first-spot-solana-etfs-on-april-16-osc-approval-staking-69c705cb",
           "publishedOn": "2025-04-14T16:30:40.000Z",
-          "wordCount": 725,
+          "wordCount": 726,
           "title": "Canada to Launch World's First Spot Solana ETFs on April 16 with OSC Approval and Staking via TD",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3595cffb149286417a49d33ce5c99238bffb798f-909x1200.jpg",
@@ -907,7 +967,7 @@
           "description": "Global markets started the week in the green after Trump exempted many electronics from tariffs over the weekend.",
           "link": "https://thedefiant.io/news/markets/bitcoin-and-ether-gain-as-broader-market-fizzles-om-craters",
           "publishedOn": "2025-04-14T16:20:03.000Z",
-          "wordCount": 1056,
+          "wordCount": 1054,
           "title": "Bitcoin and Ether Gain as Broader Market Fizzles, OM Craters",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/74a5e1bbce9750a0f110134578426b1bc79bb8ad-1555x875.png",
@@ -952,7 +1012,7 @@
           "description": "MicroStrategy, led by Executive Chairman Michael Saylor, has acquired an additional 3,459 bitcoins for approximately $285",
           "link": "https://thedefiant.io/news/markets/microstrategy-acquires-3459-bitcoins-285-8-million-total-holdings-reach-531644-33f71a17",
           "publishedOn": "2025-04-14T14:30:40.000Z",
-          "wordCount": 730,
+          "wordCount": 728,
           "title": "MicroStrategy Acquires 3,459 Bitcoins for $285.8 Million, Total Holdings Reach 531,644 BTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c047b2a09a34166b566ace1a47891785963fb32b-1200x676.jpg",
@@ -997,7 +1057,7 @@
           "description": "Kraken, the cryptocurrency exchange, has announced the initial rollout of commission-free trading for over 11,000 U",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/kraken-launches-commission-free-trading-11000-u-s-listed-stocks-etfs-select-u-s-3df5e309",
           "publishedOn": "2025-04-14T13:30:40.000Z",
-          "wordCount": 719,
+          "wordCount": 720,
           "title": "Kraken Launches Commission-Free Trading for 11,000 U.S.-Listed Stocks and ETFs in Select U.S. States via Kraken Securities Division",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/db97347d29b3e9190e48e6720e01bd027d9c68a5-1125x1101.jpg",
@@ -1012,7 +1072,7 @@
           "description": "MicroStrategy, led by CEO Michael Saylor, has acquired an additional 3,459 Bitcoins for approximately $285",
           "link": "https://thedefiant.io/news/markets/microstrategy-acquires-3459-bitcoins-285-8-million-total-holdings-reach-531644-a439f566",
           "publishedOn": "2025-04-14T13:00:40.000Z",
-          "wordCount": 714,
+          "wordCount": 712,
           "title": "MicroStrategy Acquires 3,459 Bitcoins for $285.8 Million, Total Holdings Reach 531,644 BTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dbcc957365cbae595c135b9d8c6dea21c0abccf1-1152x1200.jpg",
@@ -1027,7 +1087,7 @@
           "description": "MicroStrategy Inc",
           "link": "https://thedefiant.io/news/markets/microstrategy-buys-3459-bitcoins-285-8-million-now-holds-531644-btc-53e28fde",
           "publishedOn": "2025-04-14T12:30:40.000Z",
-          "wordCount": 704,
+          "wordCount": 702,
           "title": "MicroStrategy Buys 3,459 Bitcoins for $285.8 Million, Now Holds 531,644 BTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c0dbdfa161976cceddb7cdc23f8e496113252b61-1200x675.jpg",
@@ -1042,7 +1102,7 @@
           "description": "Metaplanet, a Japanese public company often referred to as 'Asia's MicroStrategy,' has expanded its Bitcoin investment by purchasing an additional 319 BTC for approximately $26",
           "link": "https://thedefiant.io/news/markets/metaplanet-targets-470-bitcoin-increase-appoints-eric-trump-to-advisory-board-29968a88",
           "publishedOn": "2025-04-14T10:30:40.000Z",
-          "wordCount": 764,
+          "wordCount": 762,
           "title": "Metaplanet Targets 470% Bitcoin Increase, Appoints Eric Trump to Advisory Board",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/65be9eb64bb46a6a80572af9cb15b1e60295552e-1080x1080.jpg",
@@ -1057,7 +1117,7 @@
           "description": "Japan-based Metaplanet has acquired an additional 319 Bitcoin (BTC) worth approximately ¥3",
           "link": "https://thedefiant.io/news/markets/japan-s-metaplanet-acquires-319-bitcoin-targets-10000-btc-amid-tariff-tensions-16eb9ec3",
           "publishedOn": "2025-04-14T06:30:40.000Z",
-          "wordCount": 726,
+          "wordCount": 724,
           "title": "Japan's Metaplanet Acquires 319 Bitcoin, Targets 10,000 BTC Amid Tariff Tensions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/65be9eb64bb46a6a80572af9cb15b1e60295552e-1080x1080.jpg",
@@ -1072,7 +1132,7 @@
           "description": "Metaplanet, a Japanese company, has acquired an additional 319 Bitcoin, valued at approximately ¥3",
           "link": "https://thedefiant.io/news/markets/metaplanet-acquires-319-bitcoin-worth-y-3-7-billion-26-3-million-totaling-4525-5d3c69ac",
           "publishedOn": "2025-04-14T05:00:40.000Z",
-          "wordCount": 635,
+          "wordCount": 633,
           "title": "Metaplanet Acquires 319 Bitcoin Worth ¥3.7 Billion ($26.3 Million), Totaling 4,525 BTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/65be9eb64bb46a6a80572af9cb15b1e60295552e-1080x1080.jpg",
@@ -1102,7 +1162,7 @@
           "description": "Michael Saylor, the executive chairman of MicroStrategy, has hinted at the company's plans to resume Bitcoin purchases after a one-week pause",
           "link": "https://thedefiant.io/news/markets/michael-saylor-signals-microstrategy-s-1-2-billion-bitcoin-purchase-involving-02d15500",
           "publishedOn": "2025-04-13T16:00:40.000Z",
-          "wordCount": 710,
+          "wordCount": 708,
           "title": "Michael Saylor Signals MicroStrategy's $1–$2 Billion Bitcoin Purchase, Involving Thousands of Coins",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b88846c8f63ddd50a617046ce7ccae101b3a15a8-1163x742.jpg",
@@ -1117,7 +1177,7 @@
           "description": "Michael Saylor, CEO of MicroStrategy, has announced plans to purchase approximately $1 billion worth of Bitcoin",
           "link": "https://thedefiant.io/news/markets/michael-saylor-plans-1-billion-bitcoin-purchase-semler-scientific-ceo-advocates-fec61bc5",
           "publishedOn": "2025-04-13T14:30:40.000Z",
-          "wordCount": 715,
+          "wordCount": 713,
           "title": "Michael Saylor Plans $1 Billion Bitcoin Purchase as Semler Scientific CEO Advocates Buying Bitcoin Now",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1c731a763292286879ccba89b3a662cf85a4f30f-1182x820.jpg",
@@ -1237,7 +1297,7 @@
           "description": "BlackRock, a major financial institution, has purchased 4,126 Ethereum (ETH) valued at $6",
           "link": "https://thedefiant.io/news/markets/blackrock-buys-4126-ethereum-worth-6-4m-eth-price-surpasses-1600-0227bfd3",
           "publishedOn": "2025-04-12T16:30:40.000Z",
-          "wordCount": 670,
+          "wordCount": 668,
           "title": "BlackRock Buys 4,126 Ethereum Worth $6.4M as ETH Price Surpasses $1,600",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/36126228a117612d185978b303abbaedd47e325f-653x1199.jpg",
@@ -1249,7 +1309,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/us-states-push-forward-on-pro-crypto-legislation",
           "author": "Jona Jaupi",
-          "description": "Lawmakers across several U.S. states are ramping up efforts to integrate cryptocurrency into government operations, with new bills and proposals gaining traction this week in North Carolina, New York, and Arizona.",
+          "description": "North Carolina, New York, and Arizona weigh bills aimed at integrating crypto into state government operations.",
           "link": "https://thedefiant.io/news/regulation/us-states-push-forward-on-pro-crypto-legislation",
           "publishedOn": "2025-04-12T14:45:52.000Z",
           "wordCount": 1079,
@@ -1372,7 +1432,7 @@
           "description": "BTC, ETH and SOL climbed as the Dollar Index dipped under 100 for the first time since July 2023.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-gain-as-u-s-dollar-drops-wholesale-inflation-cools",
           "publishedOn": "2025-04-11T17:07:38.000Z",
-          "wordCount": 945,
+          "wordCount": 943,
           "title": "Crypto Markets Gain as U.S. Dollar Drops, Wholesale Inflation Cools",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f23ae8916a7054167ba343cc0d73cb82789e5b66-1555x875.png",
@@ -1440,66 +1500,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/afe9db634076e413e1a03627395e6e9d7f5134b7-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/trader-loses-usd10-million-on-rare-cryptopunk-nft",
-          "author": "Squiffs",
-          "description": "The seller of the Alien Punk took a 500 ETH loss, but the loss was magnified by ETH’s poor price performance.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/trader-loses-usd10-million-on-rare-cryptopunk-nft",
-          "publishedOn": "2025-04-11T10:23:20.000Z",
-          "wordCount": 950,
-          "title": "Trader Loses $10 Million on Rare  CryptoPunk NFT",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/48a5dcce67cf481775c47a0409a26573c65a2cf3-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/48a5dcce67cf481775c47a0409a26573c65a2cf3-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/arizona-passes-bitcoin-mining-rights-bill-hb-2342-senate-vote-17-to-12-awaits-s-de1a1373",
-          "author": "DeepNewz",
-          "description": "Arizona has passed the Bitcoin Mining Rights Bill, officially known as HB 2342, which protects individuals and businesses engaged in Bitcoin mining and node operation from zoning and usage restrictions",
-          "link": "https://thedefiant.io/news/regulation/arizona-passes-bitcoin-mining-rights-bill-hb-2342-senate-vote-17-to-12-awaits-s-de1a1373",
-          "publishedOn": "2025-04-11T09:30:40.000Z",
-          "wordCount": 794,
-          "title": "Arizona Passes Bitcoin Mining Rights Bill HB 2342 with Senate Vote of 17 to 12, Awaits Governor's Signature",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/16f353595086bc01b0500d5a0215010e074590f8-1170x757.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/16f353595086bc01b0500d5a0215010e074590f8-1170x757.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/sec-dismisses-helium-token-lawsuit-prejudice-nova-labs-agrees-to-200k-settlement-d3245cfa",
-          "author": "DeepNewz",
-          "description": "The U",
-          "link": "https://thedefiant.io/news/regulation/sec-dismisses-helium-token-lawsuit-prejudice-nova-labs-agrees-to-200k-settlement-d3245cfa",
-          "publishedOn": "2025-04-11T07:30:40.000Z",
-          "wordCount": 690,
-          "title": "SEC Dismisses Helium Token Lawsuit With Prejudice, Nova Labs Agrees to $200K Settlement",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b8a56b103a4cba82a55898cfe8bdbf96697fef0e-1200x630.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b8a56b103a4cba82a55898cfe8bdbf96697fef0e-1200x630.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/sec-dismisses-lawsuit-against-nova-labs-affirms-hnt-mobile-iot-tokens-securities-97c0bcf9",
-          "author": "DeepNewz",
-          "description": "The U",
-          "link": "https://thedefiant.io/news/regulation/sec-dismisses-lawsuit-against-nova-labs-affirms-hnt-mobile-iot-tokens-securities-97c0bcf9",
-          "publishedOn": "2025-04-10T21:35:40.000Z",
-          "wordCount": 677,
-          "title": "SEC Dismisses Lawsuit Against Nova Labs, Affirms HNT, MOBILE, and IOT Tokens Are Not Securities with Prejudice",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/38d4b978519efe5adec8cc2ee5f6a69609267e35-1200x720.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/38d4b978519efe5adec8cc2ee5f6a69609267e35-1200x720.jpg"
         }
       ]
     }
