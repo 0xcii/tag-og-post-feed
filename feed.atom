@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-16T20:19:52.398Z</id>
+    <id>urn:2025-04-16T21:17:00.403Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-16T20:19:52.398Z</updated>
+    <updated>2025-04-16T21:17:00.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Tops DEX Volume for Fifth Day, Hits $7.06B TVL and 355.9M Transactions]]></title>
+        <id>https://thedefiant.io/news/defi/solana-tops-dex-volume-fifth-day-hits-7-06b-tvl-355-9m-transactions-97a46d05</id>
+        <link href="https://thedefiant.io/news/defi/solana-tops-dex-volume-fifth-day-hits-7-06b-tvl-355-9m-transactions-97a46d05"/>
+        <updated>2025-04-16T20:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Solana has led all blockchains in decentralized exchange (DEX) trading volume for five consecutive days, surpassing Ethereum and other major chains]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TRUMP Memecoin Developer Pulls Liquidity Ahead of Massive Unlock]]></title>
         <id>https://thedefiant.io/news/markets/trump-memecoin-developer-pulls-liquidity-ahead-of-massive-unlock</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Lomond School has made history by becoming the first school in the United Kingdom to accept Bitcoin for payments]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WalletConnect to Launch Token on April 15]]></title>
-        <id>https://thedefiant.io/news/infrastructure/walletconnect-to-launch-token-on-april-15</id>
-        <link href="https://thedefiant.io/news/infrastructure/walletconnect-to-launch-token-on-april-15"/>
-        <updated>2025-04-11T10:36:48.000Z</updated>
-        <summary type="html"><![CDATA[The onchain connectivity solution is set to launch its native token through partnerships with various centralized exchanges.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>

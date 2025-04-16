@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/solana-tops-dex-volume-fifth-day-hits-7-06b-tvl-355-9m-transactions-97a46d05",
+          "author": "DeepNewz",
+          "description": "Solana has led all blockchains in decentralized exchange (DEX) trading volume for five consecutive days, surpassing Ethereum and other major chains",
+          "link": "https://thedefiant.io/news/defi/solana-tops-dex-volume-fifth-day-hits-7-06b-tvl-355-9m-transactions-97a46d05",
+          "publishedOn": "2025-04-16T20:30:33.000Z",
+          "wordCount": 775,
+          "title": "Solana Tops DEX Volume for Fifth Day, Hits $7.06B TVL and 355.9M Transactions",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ffd784bf12e18ee7bdbc243e099ff1ba55ae5261-910x486.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ffd784bf12e18ee7bdbc243e099ff1ba55ae5261-910x486.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/trump-memecoin-developer-pulls-liquidity-ahead-of-massive-unlock",
           "author": "Squiffs",
           "description": "The wallet that launched the token removed $4.6 million of USDC liquidity, with $300 million worth of TRUMP set to be unlocked tomorrow.",
@@ -1485,21 +1500,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/86e349a0f935aad9424e4f9428324d9219ca7626-1080x675.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/walletconnect-to-launch-token-on-april-15",
-          "author": "Squiffs",
-          "description": "The onchain connectivity solution is set to launch its native token through partnerships with various centralized exchanges.",
-          "link": "https://thedefiant.io/news/infrastructure/walletconnect-to-launch-token-on-april-15",
-          "publishedOn": "2025-04-11T10:36:48.000Z",
-          "wordCount": 772,
-          "title": "WalletConnect to Launch Token on April 15",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/afe9db634076e413e1a03627395e6e9d7f5134b7-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/afe9db634076e413e1a03627395e6e9d7f5134b7-1555x875.png"
         }
       ]
     }
