@@ -12,6 +12,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/spar-tests-bitcoin-payments-zug-switzerland-across-13900-stores-48-countries-028c34b9",
+          "author": "DeepNewz",
+          "description": "Spar, a global grocery chain with 13,900 stores across 48 countries, has begun testing Bitcoin and Lightning Network payments in Zug, Switzerland",
+          "link": "https://thedefiant.io/news/blockchains/spar-tests-bitcoin-payments-zug-switzerland-across-13900-stores-48-countries-028c34b9",
+          "publishedOn": "2025-04-18T16:05:08.000Z",
+          "wordCount": 710,
+          "title": "Spar Tests Bitcoin Payments in Zug, Switzerland Across Its 13,900 Stores in 48 Countries",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/afc2e8ac4d84e3ae354c30d213a2b53815f92469-800x1200.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/afc2e8ac4d84e3ae354c30d213a2b53815f92469-800x1200.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/oregon-attorney-general-dan-rayfield-plans-lawsuit-against-coinbase-over-charges-21bdde0c",
+          "author": "DeepNewz",
+          "description": "Oregon Attorney General Dan Rayfield has announced plans to pursue legal action against Coinbase, alleging that the cryptocurrency exchange operated as an unregistered securities exchange and broker-dealer",
+          "link": "https://thedefiant.io/news/regulation/oregon-attorney-general-dan-rayfield-plans-lawsuit-against-coinbase-over-charges-21bdde0c",
+          "publishedOn": "2025-04-18T16:05:08.000Z",
+          "wordCount": 746,
+          "title": "Oregon Attorney General Dan Rayfield Plans Lawsuit Against Coinbase Over Unregistered Securities Exchange Charges",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ce6f58a49040e08ba2bbb886bca90e5a2c2758ca-1200x866.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ce6f58a49040e08ba2bbb886bca90e5a2c2758ca-1200x866.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/vietnam-s-finance-ministry-partners-bybit-ceo-ben-zhou-to-launch-crypto-trading-80f25e66",
+          "author": "DeepNewz",
+          "description": "Vietnam's Ministry of Finance has partnered with cryptocurrency exchange Bybit to launch a pilot program for crypto trading and to develop a regulatory framework for the country's large crypto user base",
+          "link": "https://thedefiant.io/news/regulation/vietnam-s-finance-ministry-partners-bybit-ceo-ben-zhou-to-launch-crypto-trading-80f25e66",
+          "publishedOn": "2025-04-18T15:35:08.000Z",
+          "wordCount": 790,
+          "title": "Vietnam's Finance Ministry Partners With Bybit CEO Ben Zhou to Launch Crypto Trading Pilot in May and Develop Regulatory Framework",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/57dde4f9e42e0743f1846ba38a0b49dc82643a01-1200x1200.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/57dde4f9e42e0743f1846ba38a0b49dc82643a01-1200x1200.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/galaxy-research-solana-inflation-mesa-proposal",
           "author": "Jona Jaupi",
           "description": "The proposal introduces weighted voting to determine Solana's inflation schedule.",
@@ -167,7 +212,7 @@
           "description": "Pollak said in an interview with The Defiant he wants to help create a new category of token differentiated from memecoins, called Content Coins.",
           "link": "https://thedefiant.io/news/people/base-creator-jesse-pollack-denounced-stigma-attached-to-creators-issuing-tokens",
           "publishedOn": "2025-04-17T22:22:41.000Z",
-          "wordCount": 1412,
+          "wordCount": 1407,
           "title": "Base Creator Jesse Pollak Denounced “Stigma” Attached to Creators Issuing Tokens",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b4801fe0e0999f6a0efde2cf05ad4fae5ed6fb3a-1555x875.png",
@@ -212,7 +257,7 @@
           "description": "TAC worked with the Turtle Club to build and provision liquidity vaults on Ethereum that can be used by DApps accessing the TON blockchain.",
           "link": "https://thedefiant.io/news/defi/tac-attracts-usd150m-to-bring-ethereum-based-liquidity-to-telegram-s-ton-blockchain",
           "publishedOn": "2025-04-17T19:54:41.000Z",
-          "wordCount": 1219,
+          "wordCount": 1218,
           "title": "TAC Attracts $150M to Bring Ethereum-based Liquidity to Telegram’s TON Blockchain",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/29d844c18b209ad8b4ad033d39735b5f7da84f81-1555x875.png",
@@ -607,7 +652,7 @@
           "description": "Solana has led all blockchains in decentralized exchange (DEX) trading volume for five consecutive days, surpassing Ethereum and other major chains",
           "link": "https://thedefiant.io/news/defi/solana-tops-dex-volume-fifth-day-hits-7-06b-tvl-355-9m-transactions-97a46d05",
           "publishedOn": "2025-04-16T20:30:33.000Z",
-          "wordCount": 778,
+          "wordCount": 779,
           "title": "Solana Tops DEX Volume for Fifth Day, Hits $7.06B TVL and 355.9M Transactions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ffd784bf12e18ee7bdbc243e099ff1ba55ae5261-910x486.jpg",
@@ -637,7 +682,7 @@
           "description": "Maple’s SYRUP token has surged 20% in the past 24 hours.",
           "link": "https://thedefiant.io/news/defi/maple-finance-tvl-surpasses-usd1-billion",
           "publishedOn": "2025-04-16T19:35:11.000Z",
-          "wordCount": 958,
+          "wordCount": 944,
           "title": "Maple Finance TVL Surpasses $1 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6ce9e669920970896583d7aac9f0ed2627a12fcf-1555x875.png",
@@ -787,7 +832,7 @@
           "description": "DWF Labs, a prominent crypto market maker and Web3 investment firm, has announced its expansion into the United States with the opening of a new office in New York City",
           "link": "https://thedefiant.io/news/defi/dwf-labs-expands-to-u-s-invests-25m-trump-backed-wlfi-usd1-stablecoin-governance-d29aa963",
           "publishedOn": "2025-04-16T14:30:33.000Z",
-          "wordCount": 842,
+          "wordCount": 843,
           "title": "DWF Labs Expands to U.S., Invests $25M in Trump-Backed WLFI for USD1 Stablecoin Governance",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/739c3c6718d6d96108c61ff7845fce28f98bc566-1200x675.jpg",
@@ -1012,7 +1057,7 @@
           "description": "Solana recorded 355",
           "link": "https://thedefiant.io/news/defi/solana-surpasses-all-blockchains-transactions-dex-volume-defi-tvl-4fa8ee50",
           "publishedOn": "2025-04-15T21:35:15.000Z",
-          "wordCount": 692,
+          "wordCount": 693,
           "title": "Solana Surpasses All Blockchains in Transactions, DEX Volume, and DeFi TVL",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b0451cd32b7fa08c53c63c609ad51b5185ae64bf-1200x899.jpg",
@@ -1027,7 +1072,7 @@
           "description": "Circle has announced that its stablecoin USDC, along with the Cross-Chain Transfer Protocol (CCTP) V2 and Circle Wallets, will be available on the Monad mainnet starting on April 15, 2025",
           "link": "https://thedefiant.io/news/defi/circle-launches-usdc-cctp-v2-wallets-on-monad-mainnet-enabling-fast-usdc-full-on-360b263d",
           "publishedOn": "2025-04-15T21:35:15.000Z",
-          "wordCount": 807,
+          "wordCount": 808,
           "title": "Circle Launches USDC, CCTP V2, and Wallets on Monad Mainnet, Enabling Fast USDC Transfers and Full-Stack Infra on April 15, 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f742031977ffa0ca333d6ad0080ff629160f58cf-1080x1080.jpg",
@@ -1072,7 +1117,7 @@
           "description": "PAXG and XAUt trading volumes hit fresh highs last week as spot gold surged above $3,100/oz.",
           "link": "https://thedefiant.io/news/defi/onchain-gold-trading-volume-soars-to-all-time-high",
           "publishedOn": "2025-04-15T19:52:55.000Z",
-          "wordCount": 742,
+          "wordCount": 728,
           "title": "Onchain Gold Trading Volume Soars to All-Time High",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c87aeea424482899c71d42fc43af8df8246beb7d-1555x875.png",
@@ -1087,7 +1132,7 @@
           "description": "The Solana-based decentralized exchange processed 40% more volume than the previous week as the memecoin sector shows nascent signs of recovery.",
           "link": "https://thedefiant.io/news/defi/pumpswap-weekly-trading-volume-hits-all-time-high-of-usd2-3-billion",
           "publishedOn": "2025-04-15T19:32:15.000Z",
-          "wordCount": 784,
+          "wordCount": 770,
           "title": "PumpSwap Weekly Trading Volume Hits All-time High of $2.3 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/605647da5164adaa263f94461263faada59bfdc0-1555x875.png",
@@ -1117,7 +1162,7 @@
           "description": "USDO’s market capitalization is up more than 200% since its launch in March.",
           "link": "https://thedefiant.io/news/defi/openeden-stablecoin-crosses-usd100-million-valuation",
           "publishedOn": "2025-04-15T19:14:18.000Z",
-          "wordCount": 775,
+          "wordCount": 761,
           "title": "OpenEden Stablecoin Crosses $100 Million Valuation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/db8be2f73199196359df2b873b83812c67a2fb37-1555x875.png",
@@ -1297,7 +1342,7 @@
           "description": "deBridge has integrated with Phantom Wallet to enable cross-chain token swaps across Ethereum, Solana, Base, and Polygon",
           "link": "https://thedefiant.io/news/defi/debridge-enables-lightspeed-swaps-across-ethereum-solana-base-polygon-via-wallet-b9894066",
           "publishedOn": "2025-04-15T15:30:32.000Z",
-          "wordCount": 640,
+          "wordCount": 641,
           "title": "deBridge Enables Lightspeed Swaps Across Ethereum, Solana, Base, Polygon via Phantom Wallet",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/53b70686c41cea3e1f6442714096aa613b4f0123-443x413.png",
@@ -1412,7 +1457,7 @@
           "description": "Solana’s outperformance of Ethereum continues to trend as the metric hits a new weekly high of 0.08.",
           "link": "https://thedefiant.io/news/defi/sol-eth-ratio-hits-another-all-time-high",
           "publishedOn": "2025-04-15T09:29:05.000Z",
-          "wordCount": 839,
+          "wordCount": 825,
           "title": "SOL/ETH Ratio Hits Another All-Time High",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/aeea029e13656e02a30005e5ae964208aaaa8e43-1555x875.png",
@@ -1445,51 +1490,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/470568b3829ec298482a03f61329f6a6b42599e4-1024x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-achieves-7-2-million-percent-return-outperforming-s-p-500-s-306-gold-s-d92ee83f",
-          "author": "DeepNewz",
-          "description": "Bitcoin has demonstrated remarkable performance by outpacing the S&P 500 across all timeframes, including every year for the past 14 years",
-          "link": "https://thedefiant.io/news/markets/bitcoin-achieves-7-2-million-percent-return-outperforming-s-p-500-s-306-gold-s-d92ee83f",
-          "publishedOn": "2025-04-14T23:00:40.000Z",
-          "wordCount": 727,
-          "title": "Bitcoin Achieves 7.2 Million Percent Return, Outperforming S&amp; P 500's 306% and Gold's 116% Over 14 Years",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7d522a38dbf505c182ff5bc2fe80a40438ed7849-1148x908.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7d522a38dbf505c182ff5bc2fe80a40438ed7849-1148x908.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/sec-delays-grayscale-s-ethereum-etf-staking-to-june-1-wisdomtree-vaneck-s-kind-3-2dffee92",
-          "author": "DeepNewz",
-          "description": "The U",
-          "link": "https://thedefiant.io/news/regulation/sec-delays-grayscale-s-ethereum-etf-staking-to-june-1-wisdomtree-vaneck-s-kind-3-2dffee92",
-          "publishedOn": "2025-04-14T22:00:40.000Z",
-          "wordCount": 761,
-          "title": "SEC Delays Grayscale's Ethereum ETF Staking to June 1, WisdomTree and VanEck's In-Kind Redemptions to June 3",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/af393971b1216521ffb2f9d0b53e8893060907a1-1200x600.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/af393971b1216521ffb2f9d0b53e8893060907a1-1200x600.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/five-fartcoin-holders-generate-nearly-usd9-million-in-profits-as-token-rallies",
-          "author": "Joel Lim",
-          "description": "FARTCOIN has outperformed the broader crypto market amid a global decline in financial markets.",
-          "link": "https://thedefiant.io/news/markets/five-fartcoin-holders-generate-nearly-usd9-million-in-profits-as-token-rallies",
-          "publishedOn": "2025-04-14T19:11:51.000Z",
-          "wordCount": 895,
-          "title": "Five Fartcoin Holders Generate Nearly $9 Million in Profits as Token Rallies",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e1ee6fdddb3cacf0e43e2d12df60ff951cd2b3db-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e1ee6fdddb3cacf0e43e2d12df60ff951cd2b3db-1555x875.png"
         }
       ]
     }
