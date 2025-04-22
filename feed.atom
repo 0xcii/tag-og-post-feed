@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-22T18:24:47.482Z</id>
+    <id>urn:2025-04-22T19:14:34.099Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-22T18:24:47.482Z</updated>
+    <updated>2025-04-22T19:14:34.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Stablecoin Market Hits Record $12.8 Billion]]></title>
+        <id>https://thedefiant.io/news/blockchains/solana-stablecoin-market-hits-record-usd12-8-billion</id>
+        <link href="https://thedefiant.io/news/blockchains/solana-stablecoin-market-hits-record-usd12-8-billion"/>
+        <updated>2025-04-22T18:40:50.000Z</updated>
+        <summary type="html"><![CDATA[The surge signals rising demand for stablecoins as the Solana DeFi ecosystem expands.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WalletConnect Relaunches on Layer3 With 205,000 WCT Rewards, Supports 61,500+ Apps and 42.7M Users]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/walletconnect-relaunches-on-layer3-205000-wct-rewards-supports-61500-apps-42-7m-faa73f2c</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/defi-broker-rule-repealed-signals-crypto-aligned-congress</id>
         <link href="https://thedefiant.io/news/regulation/defi-broker-rule-repealed-signals-crypto-aligned-congress"/>
         <updated>2025-04-17T17:55:13.000Z</updated>
-        <summary type="html"><![CDATA[President Trump’s decision last week to repeal a controversial tax rule for DeFi, known as the DeFi broker rule, is seen by some as a signal of lawmakers’ alignment with the crypto industry.]]></summary>
+        <summary type="html"><![CDATA[Last week, an IRS rule that threatened to upend DeFi was repealed in what some see as another signal of a major sentiment shift in Washington.]]></summary>
         <author>
             <name>Leo Jakobson</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/north-carolina-bill-hb-92-passes-house-pensions-committee-allowing-bitcoin-amid-adb312d2"/>
         <updated>2025-04-17T05:35:08.000Z</updated>
         <summary type="html"><![CDATA[North Carolina's bill HB 92 has passed the House Pensions and Retirement Committee, authorizing the state treasurer to invest in qualifying digital assets, including Bitcoin]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Dominance Reaches 64% High as Ethereum Falls to 7.18%, Solana TVL Up 172%]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-dominance-reaches-64-high-ethereum-falls-to-7-18-solana-tvl-up-172-d75f4b62</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-dominance-reaches-64-high-ethereum-falls-to-7-18-solana-tvl-up-172-d75f4b62"/>
-        <updated>2025-04-16T23:35:08.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin's market capitalization dominance has reached its highest level since early 2021, with several sources reporting a surge to approximately 63]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
