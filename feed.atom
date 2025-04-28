@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-28T07:43:01.372Z</id>
+    <id>urn:2025-04-28T09:03:41.659Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-28T07:43:01.372Z</updated>
+    <updated>2025-04-28T09:03:41.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WLFI Founders Meet Binance CEO CZ in Abu Dhabi to Discuss Global Crypto Adoption, $25M DWF Labs Investment, and New Partnerships]]></title>
+        <id>https://thedefiant.io/news/cefi/wlfi-founders-meet-binance-ceo-cz-abu-dhabi-to-discuss-global-crypto-adoption-32fd5037</id>
+        <link href="https://thedefiant.io/news/cefi/wlfi-founders-meet-binance-ceo-cz-abu-dhabi-to-discuss-global-crypto-adoption-32fd5037"/>
+        <updated>2025-04-28T08:35:10.000Z</updated>
+        <summary type="html"><![CDATA[The founders of World Liberty Financial (WLFI)—Zach Witkoff, Zak Folkman, and Chase Hero—met with Changpeng Zhao (CZ), the founder of Binance, in Abu Dhabi to discuss strategies for promoting global cryptocurrency adoption, establishing new industry standards, and advancing the future of crypto]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Approves ProShares Trust's XRP ETF for Public Launch on April 30, 2025]]></title>
         <id>https://thedefiant.io/news/regulation/sec-approves-proshares-trust-s-xrp-etf-public-launch-on-april-30-2025-5e98ff5c</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[A day after its debut, almost $19 million RLUSD has been supplied to Aave’s V3 Ethereum Core market]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump-Appointed SEC Chairman Paul Atkins Prioritizes Digital Asset Regulation, Aims to Protect Investors and Secure U.S. as Investment Hub]]></title>
-        <id>https://thedefiant.io/news/regulation/trump-appointed-sec-chairman-paul-atkins-prioritizes-digital-asset-regulation-to-028021e9</id>
-        <link href="https://thedefiant.io/news/regulation/trump-appointed-sec-chairman-paul-atkins-prioritizes-digital-asset-regulation-to-028021e9"/>
-        <updated>2025-04-22T23:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Newly appointed SEC Chairman Paul Atkins, appointed by President Donald Trump, has declared that establishing a firm regulatory foundation for digital assets is a top priority of his chairmanship]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
