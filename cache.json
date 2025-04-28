@@ -12,6 +12,66 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/lombard-finance-partners-eigen-foundation-to-launch-lbtc-first-bitcoin-asset-901d3c7c",
+          "author": "DeepNewz",
+          "description": "Lombard Finance has partnered with the Eigen Foundation to integrate Bitcoin into the EigenLayer restaking ecosystem through the introduction of LBTC, the first Bitcoin asset in this protocol",
+          "link": "https://thedefiant.io/news/defi/lombard-finance-partners-eigen-foundation-to-launch-lbtc-first-bitcoin-asset-901d3c7c",
+          "publishedOn": "2025-04-28T20:05:10.000Z",
+          "wordCount": 722,
+          "title": "Lombard Finance Partners With Eigen Foundation to Launch LBTC, First Bitcoin Asset in EigenLayer Restaking Ecosystem",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9e5e4e8ab640455442f99515f89fe39c4748aa70-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9e5e4e8ab640455442f99515f89fe39c4748aa70-1200x675.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/casper-network-s-cspr-token-spikes-90-ahead-of-major-upgrade",
+          "author": "Leo Jakobson",
+          "description": "The smart contract platform underwent a leadership change that resulted in developer Casper Labs changing its name and moving on from the project.",
+          "link": "https://thedefiant.io/news/blockchains/casper-network-s-cspr-token-spikes-90-ahead-of-major-upgrade",
+          "publishedOn": "2025-04-28T19:51:20.000Z",
+          "wordCount": 838,
+          "title": "Casper Network’s CSPR Token Spikes 90% Ahead of Major Upgrade",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9f489f8faeb0448cd095bed8e055ca0ac38a916c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9f489f8faeb0448cd095bed8e055ca0ac38a916c-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-removes-evm-object-format-fusaka-upgrade-eyes-glamsterdam-b97edac0",
+          "author": "DeepNewz",
+          "description": "Ethereum's core developers have decided to remove the EVM Object Format (EOF) from the upcoming Fusaka network upgrade following a decision made during a developer call on ACDT 34",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-removes-evm-object-format-fusaka-upgrade-eyes-glamsterdam-b97edac0",
+          "publishedOn": "2025-04-28T19:35:10.000Z",
+          "wordCount": 755,
+          "title": "Ethereum Removes EVM Object Format from Fusaka Upgrade, Eyes Glamsterdam",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/58ad258149c9ca95bc0649de0ba809eb7448c4c5-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/58ad258149c9ca95bc0649de0ba809eb7448c4c5-1200x675.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/gbtc-remains-a-cash-cow-for-grayscale",
+          "author": "Leo Jakobson",
+          "description": "Despite charging fees six times higher than its competitors, the Grayscale Bitcoin Trust ETF still has almost $18 billion under management.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/gbtc-remains-a-cash-cow-for-grayscale",
+          "publishedOn": "2025-04-28T19:23:20.000Z",
+          "wordCount": 959,
+          "title": "GBTC Remains a Cash Cow for Grayscale",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3f67573117f492730ce2adeab1f0a3740b6f336b-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3f67573117f492730ce2adeab1f0a3740b6f336b-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/u-s-commerce-secretary-howard-lutnick-u-s-pro-bitcoin-forever-predicts-mining-f146612a",
           "author": "DeepNewz",
           "description": "U",
@@ -1239,7 +1299,7 @@
         {
           "id": "https://thedefiant.io/news/defi/top-5-defi-protocol-etherfi-unveils-defibank",
           "author": "Squiffs",
-          "description": "Popular decentralized Finance (DeFi) protocol EtherFi is launching its own non-custodial banking alternative, what it's calling the world's first \"defibank.\"",
+          "description": "The decentralized banking solution will be available to some U.S. users for the first time, serving as an alternative to traditional banks.",
           "link": "https://thedefiant.io/news/defi/top-5-defi-protocol-etherfi-unveils-defibank",
           "publishedOn": "2025-04-24T14:01:15.000Z",
           "wordCount": 1050,
@@ -1420,66 +1480,6 @@
           "wordCount": 651,
           "title": "Sovereign Wealth Funds and Institutions Boost Bitcoin Investments Since April, Citing Dollar Hedge",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/russia-to-launch-national-bitcoin-crypto-exchange-super-qualified-investors-64eac6dc",
-          "author": "DeepNewz",
-          "description": "Russia's Finance Ministry and Central Bank have announced plans to launch a national Bitcoin and cryptocurrency exchange",
-          "link": "https://thedefiant.io/news/regulation/russia-to-launch-national-bitcoin-crypto-exchange-super-qualified-investors-64eac6dc",
-          "publishedOn": "2025-04-23T20:05:10.000Z",
-          "wordCount": 609,
-          "title": "Russia to Launch National Bitcoin and Crypto Exchange for Super-Qualified Investors",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/26b9fa2e19244a490ec4e340936dfbdb75dfd96f-1024x768.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/26b9fa2e19244a490ec4e340936dfbdb75dfd96f-1024x768.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/ethereum-layer-2-scroll-claims-to-achieve-stage-1-decentralization",
-          "author": "Leo Jakobson",
-          "description": "With its Euclid upgrade, the ZK rollup has reached a degree of decentralization laid out by Ethereum co-founder Vitalik Buterin.",
-          "link": "https://thedefiant.io/news/blockchains/ethereum-layer-2-scroll-claims-to-achieve-stage-1-decentralization",
-          "publishedOn": "2025-04-23T19:59:28.000Z",
-          "wordCount": 967,
-          "title": "Ethereum Layer 2 Scroll Claims to Achieve ‘Stage 1’ Decentralization",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/76958483a30bade6cf974e8164e1c5b3c9cb90db-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/76958483a30bade6cf974e8164e1c5b3c9cb90db-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/crypto-memecoin-etf-filings-sec",
-          "author": "Leo Jakobson",
-          "description": "Bloomberg’s senior ETF analyst forecasts that “a TON of alt/meme coin ETFs are likely going to hit the market this year.”",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/crypto-memecoin-etf-filings-sec",
-          "publishedOn": "2025-04-23T19:09:01.000Z",
-          "wordCount": 1202,
-          "title": "With a Pro-Crypto SEC and 72 Crypto ETF Filings, Bloomberg Analyst Predicts ‘a Wild Year’",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/aae74de8bb91086e9110cd5464f4e810b129e380-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/aae74de8bb91086e9110cd5464f4e810b129e380-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/meebits-nft-project-integrates-with-ai-agent-platform",
-          "author": "Squiffs",
-          "description": "The NFT collection created by Larva Labs and sold to Yuga Labs was acquired in February and is expanding into the AI and IP spaces.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/meebits-nft-project-integrates-with-ai-agent-platform",
-          "publishedOn": "2025-04-23T18:42:08.000Z",
-          "wordCount": 896,
-          "title": "Meebits NFT Project Integrates with AI Agent Platform",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3a1c054e4b8b6c0e063e018c98429973d1f82a35-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3a1c054e4b8b6c0e063e018c98429973d1f82a35-1555x875.png"
         }
       ]
     }

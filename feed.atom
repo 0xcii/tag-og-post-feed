@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-28T19:14:26.668Z</id>
+    <id>urn:2025-04-28T20:18:47.256Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-28T19:14:26.668Z</updated>
+    <updated>2025-04-28T20:18:47.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lombard Finance Partners With Eigen Foundation to Launch LBTC, First Bitcoin Asset in EigenLayer Restaking Ecosystem]]></title>
+        <id>https://thedefiant.io/news/defi/lombard-finance-partners-eigen-foundation-to-launch-lbtc-first-bitcoin-asset-901d3c7c</id>
+        <link href="https://thedefiant.io/news/defi/lombard-finance-partners-eigen-foundation-to-launch-lbtc-first-bitcoin-asset-901d3c7c"/>
+        <updated>2025-04-28T20:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Lombard Finance has partnered with the Eigen Foundation to integrate Bitcoin into the EigenLayer restaking ecosystem through the introduction of LBTC, the first Bitcoin asset in this protocol]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Casper Network’s CSPR Token Spikes 90% Ahead of Major Upgrade]]></title>
+        <id>https://thedefiant.io/news/blockchains/casper-network-s-cspr-token-spikes-90-ahead-of-major-upgrade</id>
+        <link href="https://thedefiant.io/news/blockchains/casper-network-s-cspr-token-spikes-90-ahead-of-major-upgrade"/>
+        <updated>2025-04-28T19:51:20.000Z</updated>
+        <summary type="html"><![CDATA[The smart contract platform underwent a leadership change that resulted in developer Casper Labs changing its name and moving on from the project.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Removes EVM Object Format from Fusaka Upgrade, Eyes Glamsterdam]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-removes-evm-object-format-fusaka-upgrade-eyes-glamsterdam-b97edac0</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-removes-evm-object-format-fusaka-upgrade-eyes-glamsterdam-b97edac0"/>
+        <updated>2025-04-28T19:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum's core developers have decided to remove the EVM Object Format (EOF) from the upcoming Fusaka network upgrade following a decision made during a developer call on ACDT 34]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GBTC Remains a Cash Cow for Grayscale]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/gbtc-remains-a-cash-cow-for-grayscale</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/gbtc-remains-a-cash-cow-for-grayscale"/>
+        <updated>2025-04-28T19:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Despite charging fees six times higher than its competitors, the Grayscale Bitcoin Trust ETF still has almost $18 billion under management.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Commerce Secretary Howard Lutnick: U.S. Will Be Pro-Bitcoin Forever, Predicts Mining Boom]]></title>
         <id>https://thedefiant.io/news/blockchains/u-s-commerce-secretary-howard-lutnick-u-s-pro-bitcoin-forever-predicts-mining-f146612a</id>
@@ -840,7 +880,7 @@
         <id>https://thedefiant.io/news/defi/top-5-defi-protocol-etherfi-unveils-defibank</id>
         <link href="https://thedefiant.io/news/defi/top-5-defi-protocol-etherfi-unveils-defibank"/>
         <updated>2025-04-24T14:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Popular decentralized Finance (DeFi) protocol EtherFi is launching its own non-custodial banking alternative, what it's calling the world's first "defibank."]]></summary>
+        <summary type="html"><![CDATA[The decentralized banking solution will be available to some U.S. users for the first time, serving as an alternative to traditional banks.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -963,46 +1003,6 @@
         <summary type="html"><![CDATA[Coinbase has reported that sovereign wealth funds and institutional investors have been the largest contributors to Bitcoin investments since April]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia to Launch National Bitcoin and Crypto Exchange for Super-Qualified Investors]]></title>
-        <id>https://thedefiant.io/news/regulation/russia-to-launch-national-bitcoin-crypto-exchange-super-qualified-investors-64eac6dc</id>
-        <link href="https://thedefiant.io/news/regulation/russia-to-launch-national-bitcoin-crypto-exchange-super-qualified-investors-64eac6dc"/>
-        <updated>2025-04-23T20:05:10.000Z</updated>
-        <summary type="html"><![CDATA[Russia's Finance Ministry and Central Bank have announced plans to launch a national Bitcoin and cryptocurrency exchange]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Layer 2 Scroll Claims to Achieve ‘Stage 1’ Decentralization]]></title>
-        <id>https://thedefiant.io/news/blockchains/ethereum-layer-2-scroll-claims-to-achieve-stage-1-decentralization</id>
-        <link href="https://thedefiant.io/news/blockchains/ethereum-layer-2-scroll-claims-to-achieve-stage-1-decentralization"/>
-        <updated>2025-04-23T19:59:28.000Z</updated>
-        <summary type="html"><![CDATA[With its Euclid upgrade, the ZK rollup has reached a degree of decentralization laid out by Ethereum co-founder Vitalik Buterin.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With a Pro-Crypto SEC and 72 Crypto ETF Filings, Bloomberg Analyst Predicts ‘a Wild Year’]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/crypto-memecoin-etf-filings-sec</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/crypto-memecoin-etf-filings-sec"/>
-        <updated>2025-04-23T19:09:01.000Z</updated>
-        <summary type="html"><![CDATA[Bloomberg’s senior ETF analyst forecasts that “a TON of alt/meme coin ETFs are likely going to hit the market this year.”]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meebits NFT Project Integrates with AI Agent Platform]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/meebits-nft-project-integrates-with-ai-agent-platform</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/meebits-nft-project-integrates-with-ai-agent-platform"/>
-        <updated>2025-04-23T18:42:08.000Z</updated>
-        <summary type="html"><![CDATA[The NFT collection created by Larva Labs and sold to Yuga Labs was acquired in February and is expanding into the AI and IP spaces.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
