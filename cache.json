@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/sec-crypto-task-force-to-host-12-roundtable-grayscale-seeks-staking-approval-8-af533950",
+          "author": "DeepNewz",
+          "description": "The U",
+          "link": "https://thedefiant.io/news/regulation/sec-crypto-task-force-to-host-12-roundtable-grayscale-seeks-staking-approval-8-af533950",
+          "publishedOn": "2025-04-28T12:35:10.000Z",
+          "wordCount": 686,
+          "title": "SEC Crypto Task Force to Host May 12 Roundtable as Grayscale Seeks Staking Approval for Ethereum ETFs Managing $8.1B",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7a3fa5e4e43aa0a348680cc5cdccb942873aa716-1200x1058.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7a3fa5e4e43aa0a348680cc5cdccb942873aa716-1200x1058.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/ohio-proposes-allowing-residents-to-pay-taxes-state-services-bitcoin-468920d1",
           "author": "DeepNewz",
           "description": "Ohio has proposed a new initiative that would allow residents to pay for state services and taxes using Bitcoin",
@@ -1470,21 +1485,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/53b0a4947640f78a68fa5c95f6ac2a05c9c657f4-1200x867.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-shorts-worth-280-million-liquidated-6x-leverage-amid-potential-short-f72e5138",
-          "author": "DeepNewz",
-          "description": "Over the past 24 hours, Bitcoin short positions valued at approximately $280 million have been liquidated, indicating a strong upward movement in the cryptocurrency's price",
-          "link": "https://thedefiant.io/news/markets/bitcoin-shorts-worth-280-million-liquidated-6x-leverage-amid-potential-short-f72e5138",
-          "publishedOn": "2025-04-23T07:05:08.000Z",
-          "wordCount": 703,
-          "title": "Bitcoin Shorts Worth $280 Million Liquidated With 6x Leverage Amid Potential Short Squeeze",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/62e1aa5dfac54bdf1284e78052b8863a83e2f5b6-1024x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/62e1aa5dfac54bdf1284e78052b8863a83e2f5b6-1024x1024.jpg"
         }
       ]
     }
