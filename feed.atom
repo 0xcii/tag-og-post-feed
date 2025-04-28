@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-28T12:38:27.869Z</id>
+    <id>urn:2025-04-28T13:38:28.115Z</id>
     <title>web3::cave</title>
-    <updated>2025-04-28T12:38:27.869Z</updated>
+    <updated>2025-04-28T13:38:28.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kamino Finance Integrates Chainlink Data Streams with $2B TVL for Low-Latency Solana DeFi Market Data]]></title>
+        <id>https://thedefiant.io/news/defi/kamino-finance-integrates-chainlink-data-streams-2b-tvl-low-latency-solana-defi-3ee0a85e</id>
+        <link href="https://thedefiant.io/news/defi/kamino-finance-integrates-chainlink-data-streams-2b-tvl-low-latency-solana-defi-3ee0a85e"/>
+        <updated>2025-04-28T13:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Kamino Finance, the largest decentralized finance (DeFi) lending protocol on the Solana blockchain with over $2 billion in total value locked (TVL), has integrated Chainlink Data Streams to enhance its market data capabilities]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicroStrategy Acquires 15,355 BTC for $1.42B, Total Holdings Reach 553,555 BTC]]></title>
+        <id>https://thedefiant.io/news/markets/microstrategy-acquires-15355-btc-1-42b-total-holdings-reach-553555-btc-a69a4aa4</id>
+        <link href="https://thedefiant.io/news/markets/microstrategy-acquires-15355-btc-1-42b-total-holdings-reach-553555-btc-a69a4aa4"/>
+        <updated>2025-04-28T13:05:10.000Z</updated>
+        <summary type="html"><![CDATA[MicroStrategy Inc]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase to Launch Bitcoin Yield Fund on May 1, Targeting 4%-8% Yield for Non-U.S. Investors]]></title>
+        <id>https://thedefiant.io/news/cefi/coinbase-to-launch-bitcoin-yield-fund-on-1-targeting-4-8-yield-non-u-s-investors-a600a428</id>
+        <link href="https://thedefiant.io/news/cefi/coinbase-to-launch-bitcoin-yield-fund-on-1-targeting-4-8-yield-non-u-s-investors-a600a428"/>
+        <updated>2025-04-28T13:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase Asset Management is set to launch the Coinbase Bitcoin Yield Fund on May 1, targeting an expected annual net yield of 4%-8% for non-U]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Crypto Task Force to Host May 12 Roundtable as Grayscale Seeks Staking Approval for Ethereum ETFs Managing $8.1B]]></title>
         <id>https://thedefiant.io/news/regulation/sec-crypto-task-force-to-host-12-roundtable-grayscale-seeks-staking-approval-8-af533950</id>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/crypto-memecoin-etf-filings-sec</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/crypto-memecoin-etf-filings-sec"/>
         <updated>2025-04-23T19:09:01.000Z</updated>
-        <summary type="html"><![CDATA[Bloomberg’s senior ETF analyst forecasts that “a TON of alt/meme coin ETFs are likely going to hit the market this year.”]]></summary>
+        <summary type="html"><![CDATA[There are now 72 cryptocurrency-based exchange traded funds (ETF) awaiting approval by the United States Securities and Exchange Commission, per SEC filings shared by Bloomberg senior ETF analyst Eric Balchunas in a report compiled by ETF Research Analyst James Seyffart.]]></summary>
         <author>
             <name>Leo Jakobson</name>
         </author>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/satoshi-nakamoto-s-bitcoin-holdings-hit-100-billion-marking-14th-anniversary-e3a49396"/>
         <updated>2025-04-23T12:05:08.000Z</updated>
         <summary type="html"><![CDATA[Satoshi Nakamoto's Bitcoin holdings have surpassed $100 billion, according to reports from Arkham and Bitcoin Magazine]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Surpasses Alphabet With $1.86 Trillion Valuation to Rank Fifth Among Global Assets]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-surpasses-alphabet-1-86-trillion-valuation-to-rank-fifth-among-global-645cd8b8</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-surpasses-alphabet-1-86-trillion-valuation-to-rank-fifth-among-global-645cd8b8"/>
-        <updated>2025-04-23T10:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin’s market capitalisation climbed to about $1]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cantor Fitzgerald's Brandon Lutnick Nears $3 Billion Bitcoin Venture with SoftBank, Tether, and Bitfinex via 21 Capital]]></title>
-        <id>https://thedefiant.io/news/cefi/cantor-fitzgerald-s-brandon-lutnick-nears-3-billion-bitcoin-venture-softbank-via-07c15adc</id>
-        <link href="https://thedefiant.io/news/cefi/cantor-fitzgerald-s-brandon-lutnick-nears-3-billion-bitcoin-venture-softbank-via-07c15adc"/>
-        <updated>2025-04-23T08:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Cantor Fitzgerald, led by Brandon Lutnick, is nearing a $3 billion cryptocurrency venture with SoftBank, Tether, and Bitfinex, according to the Financial Times]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Surpasses Amazon, Silver, and Alphabet, Hits $96,000 to Become Fifth Largest Asset by Market Cap]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-surpasses-amazon-silver-alphabet-hits-96000-to-fifth-largest-asset-cap-367aa9df</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-surpasses-amazon-silver-alphabet-hits-96000-to-fifth-largest-asset-cap-367aa9df"/>
-        <updated>2025-04-23T08:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin has surpassed several major assets in market capitalization, reaching the position of the fifth largest asset globally]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
