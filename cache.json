@@ -12,9 +12,24 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/tether-mints-2b-usdt-posts-1b-q1-profit-near-120b-treasury-hoard-a64fbe7f",
+          "author": "DeepNewz",
+          "description": "Tether Holdings Ltd",
+          "link": "https://thedefiant.io/news/cefi/tether-mints-2b-usdt-posts-1b-q1-profit-near-120b-treasury-hoard-a64fbe7f",
+          "publishedOn": "2025-05-01T16:35:11.000Z",
+          "wordCount": 690,
+          "title": "Tether Mints $2B USDT, Posts $1B Q1 Profit and Near-$120B Treasury Hoard",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d578bad8fdd839c1c351e0e2e756cb914bec243a-1200x831.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d578bad8fdd839c1c351e0e2e756cb914bec243a-1200x831.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/the-fed-anti-crypto-guidance",
           "author": "Leo Jakobson",
-          "description": "Crypto industry figures have called out the U.S. Federal Reserve for paying “lip serve” to breaking up Operation Choke Point 2.0.",
+          "description": "Crypto industry figures have called out the U.S. Federal Reserve for paying “lip service” to breaking up Operation Choke Point 2.0.",
           "link": "https://thedefiant.io/news/regulation/the-fed-anti-crypto-guidance",
           "publishedOn": "2025-05-01T16:20:20.000Z",
           "wordCount": 1594,
@@ -317,7 +332,7 @@
           "description": "Coinbase has announced the addition of Worldcoin (WLD) to its listing roadmap, signaling upcoming support for the cryptocurrency on its platform",
           "link": "https://thedefiant.io/news/cefi/coinbase-adds-worldcoin-wld-to-listing-roadmap-supports-trading-on-optimism-4067592a",
           "publishedOn": "2025-04-30T19:05:11.000Z",
-          "wordCount": 705,
+          "wordCount": 719,
           "title": "Coinbase Adds Worldcoin (WLD) to Listing Roadmap, Supports Trading on Optimism Network and Coinbase Exchange",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d05f770da04cd720c36b3fa720e09e803faf4da-1080x1080.jpg",
@@ -882,7 +897,7 @@
           "description": "21Shares, a digital asset management firm, has filed an application with Nasdaq to launch a Dogecoin (DOGE) exchange-traded fund (ETF)",
           "link": "https://thedefiant.io/news/cefi/21shares-files-dogecoin-etf-doge-nasdaq-c7bc7c13",
           "publishedOn": "2025-04-29T13:35:11.000Z",
-          "wordCount": 637,
+          "wordCount": 651,
           "title": "21Shares Files for Dogecoin ETF ($DOGE) With Nasdaq",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7737f2c14138198236767060f231833761400591-839x609.jpg",
@@ -1207,7 +1222,7 @@
           "description": "Coinbase, a leading cryptocurrency exchange, is set to launch the Coinbase Bitcoin Yield Fund on May 1",
           "link": "https://thedefiant.io/news/cefi/coinbase-to-launch-bitcoin-yield-fund-on-1-offering-4-8-yield-to-non-u-s-27106518",
           "publishedOn": "2025-04-28T15:05:10.000Z",
-          "wordCount": 681,
+          "wordCount": 695,
           "title": "Coinbase to Launch Bitcoin Yield Fund on May 1 Offering 4-8% Yield to Non-U.S. Investors",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ac1597f9d9ab5d8e2ca13cadd77aa19cdf56afef-1199x819.jpg",
@@ -1312,7 +1327,7 @@
           "description": "Coinbase Asset Management is set to launch the Coinbase Bitcoin Yield Fund on May 1, targeting an expected annual net yield of 4%-8% for non-U",
           "link": "https://thedefiant.io/news/cefi/coinbase-to-launch-bitcoin-yield-fund-on-1-targeting-4-8-yield-non-u-s-investors-a600a428",
           "publishedOn": "2025-04-28T13:05:10.000Z",
-          "wordCount": 691,
+          "wordCount": 705,
           "title": "Coinbase to Launch Bitcoin Yield Fund on May 1, Targeting 4%-8% Yield for Non-U.S. Investors",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ac1597f9d9ab5d8e2ca13cadd77aa19cdf56afef-1199x819.jpg",
@@ -1387,7 +1402,7 @@
           "description": "The founders of World Liberty Financial (WLFI)—Zach Witkoff, Zak Folkman, and Chase Hero—met with Changpeng Zhao (CZ), the founder of Binance, in Abu Dhabi to discuss strategies for promoting global cryptocurrency adoption, establishing new industry standards, and advancing the future of crypto",
           "link": "https://thedefiant.io/news/cefi/wlfi-founders-meet-binance-ceo-cz-abu-dhabi-to-discuss-global-crypto-adoption-32fd5037",
           "publishedOn": "2025-04-28T08:35:10.000Z",
-          "wordCount": 813,
+          "wordCount": 827,
           "title": "WLFI Founders Meet Binance CEO CZ in Abu Dhabi to Discuss Global Crypto Adoption, $25M DWF Labs Investment, and New Partnerships",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e493335467681729d9932238c657fcf3a4f27a55-1176x712.jpg",
@@ -1485,21 +1500,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6f12321f144cd654572f6de2d8e630e1c7e92730-1053x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/trump-backed-world-liberty-financial-partners-pakistan-crypto-council-to-boost-bded3ba1",
-          "author": "DeepNewz",
-          "description": "World Liberty Financial (WLF), a project associated with the Trump family, has signed a letter of intent with the Pakistan Crypto Council (PCC) to promote blockchain innovation, stablecoin adoption, and decentralized finance (DeFi) development in Pakistan",
-          "link": "https://thedefiant.io/news/blockchains/trump-backed-world-liberty-financial-partners-pakistan-crypto-council-to-boost-bded3ba1",
-          "publishedOn": "2025-04-26T19:05:10.000Z",
-          "wordCount": 784,
-          "title": "Trump-Backed World Liberty Financial Partners With Pakistan Crypto Council to Boost Blockchain, Stablecoin Adoption, and DeFi",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d6aab8f0ca1afcdfd81efa0dec9327c24761ce16-1200x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d6aab8f0ca1afcdfd81efa0dec9327c24761ce16-1200x1200.jpg"
         }
       ]
     }
