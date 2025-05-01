@@ -12,6 +12,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/spot-crypto-etf-odds-of-approval",
+          "author": "Leo Jakobson",
+          "description": "Bloomberg analysts put the likelihood of a DOGE ETF this year at 80%.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/spot-crypto-etf-odds-of-approval",
+          "publishedOn": "2025-05-01T20:16:50.000Z",
+          "wordCount": 902,
+          "title": "Dogecoin ETF More Likely Than Avalanche, Cardano and Polkadot, Says Analyst",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4e2a1e96b215f9697faec292511983d18e14e919-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4e2a1e96b215f9697faec292511983d18e14e919-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/sonic-s-token-top-performer",
+          "author": "Squiffs",
+          "description": "Sonic's S token is up 17% over the last 24 hours, following a Binance Wallet integration and ahead of the chain’s three day event.",
+          "link": "https://thedefiant.io/news/markets/sonic-s-token-top-performer",
+          "publishedOn": "2025-05-01T19:33:46.000Z",
+          "wordCount": 817,
+          "title": "Sonic Rallies Ahead of Sonic Summit",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/002903d983f427e00c741debfdd5829c50e67539-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/002903d983f427e00c741debfdd5829c50e67539-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/new-statue-bitcoin-creator-satoshi-nakamoto-unveiled-fornelli-italy-municipality-faff1606",
           "author": "DeepNewz",
           "description": "A new statue honoring Satoshi Nakamoto, the creator of Bitcoin, has been unveiled in the town of Fornelli, Italy",
@@ -152,7 +182,7 @@
           "description": "Charles Schwab Corp",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/charles-schwab-ceo-rick-wurster-to-launch-bitcoin-ethereum-spot-trading-12-651659a8",
           "publishedOn": "2025-05-01T14:05:11.000Z",
-          "wordCount": 621,
+          "wordCount": 637,
           "title": "Charles Schwab CEO Rick Wurster to Launch Bitcoin and Ethereum Spot Trading Within 12 Months",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fac0072b794a61695a63e35a0ce5a83c3f06c7a4-1200x675.jpg",
@@ -1062,7 +1092,7 @@
           "description": "Mastercard has announced the launch of a global stablecoin payment system.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/mastercard-launches-global-stablecoin-system-enabling-payments-150m-merchants-46ab76af",
           "publishedOn": "2025-04-28T21:30:09.000Z",
-          "wordCount": 749,
+          "wordCount": 770,
           "title": "Mastercard Launches Global Stablecoin System, Enabling Payments at 150M Merchants via OKX Card and USDC Settlement",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8a09ba76e44d2d6497418a0da41668e2a180de53-1200x638.jpg",
@@ -1267,7 +1297,7 @@
           "description": "OKX has launched OKX Pay, a new self-custody crypto payment application designed to bridge the gap between cryptocurrency and everyday payments",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/okx-launches-self-custody-okx-pay-zero-fees-partners-mastercard-679d7633",
           "publishedOn": "2025-04-28T17:05:10.000Z",
-          "wordCount": 771,
+          "wordCount": 792,
           "title": "OKX Launches Self-Custody OKX Pay with Zero Fees, Partners with Mastercard",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/53a9ab39e160456556a49792c26b15097a4ef9d6-553x1200.jpg",
@@ -1470,36 +1500,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/57f915de1c8189a0e9211f925f3f5c38d956f80a-1152x635.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/wlfi-founders-meet-binance-ceo-cz-abu-dhabi-to-discuss-global-crypto-adoption-32fd5037",
-          "author": "DeepNewz",
-          "description": "The founders of World Liberty Financial (WLFI)—Zach Witkoff, Zak Folkman, and Chase Hero—met with Changpeng Zhao (CZ), the founder of Binance, in Abu Dhabi to discuss strategies for promoting global cryptocurrency adoption, establishing new industry standards, and advancing the future of crypto",
-          "link": "https://thedefiant.io/news/cefi/wlfi-founders-meet-binance-ceo-cz-abu-dhabi-to-discuss-global-crypto-adoption-32fd5037",
-          "publishedOn": "2025-04-28T08:35:10.000Z",
-          "wordCount": 827,
-          "title": "WLFI Founders Meet Binance CEO CZ in Abu Dhabi to Discuss Global Crypto Adoption, $25M DWF Labs Investment, and New Partnerships",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e493335467681729d9932238c657fcf3a4f27a55-1176x712.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e493335467681729d9932238c657fcf3a4f27a55-1176x712.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/sec-approves-proshares-trust-s-xrp-etf-public-launch-on-april-30-2025-5e98ff5c",
-          "author": "DeepNewz",
-          "description": "The U",
-          "link": "https://thedefiant.io/news/regulation/sec-approves-proshares-trust-s-xrp-etf-public-launch-on-april-30-2025-5e98ff5c",
-          "publishedOn": "2025-04-27T14:05:10.000Z",
-          "wordCount": 603,
-          "title": "SEC Approves ProShares Trust's XRP ETF for Public Launch on April 30, 2025",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ef573a9a336ea678cf9dfa678265111c1e819aa3-1200x675.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ef573a9a336ea678cf9dfa678265111c1e819aa3-1200x675.jpg"
         }
       ]
     }
