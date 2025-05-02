@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-02T17:15:58.744Z</id>
+    <id>urn:2025-05-02T18:24:34.300Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-02T17:15:58.744Z</updated>
+    <updated>2025-05-02T18:24:34.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Leaders Forecast Bitcoin Surge, SWIFT Disruption at Token2049 Dubai]]></title>
+        <id>https://thedefiant.io/news/people/token2049-dubai-predictions-roundup</id>
+        <link href="https://thedefiant.io/news/people/token2049-dubai-predictions-roundup"/>
+        <updated>2025-05-02T18:20:02.000Z</updated>
+        <summary type="html"><![CDATA[From a $1 million Bitcoin to AI-driven finance, top crypto industry figures at Token2049 in Dubai laid out bold predictions.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ivy League's Brown University Becomes 3rd US College to Invest $4.9M in Bitcoin ETF, Allocating 2%]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/ivy-league-s-brown-university-becomes-3rd-us-college-to-invest-4-9m-bitcoin-etf-98c50f09</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/ivy-league-s-brown-university-becomes-3rd-us-college-to-invest-4-9m-bitcoin-etf-98c50f09"/>
+        <updated>2025-05-02T18:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Brown University, an Ivy League institution, has disclosed a new investment in the IBIT Bitcoin ETF, acquiring 105,000 shares valued at $4]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Senator Lummis's Bitcoin Act, Backed by Trump, Aims to Buy 1 Million Bitcoins for Strategic Reserve]]></title>
         <id>https://thedefiant.io/news/regulation/senator-lummis-s-bitcoin-act-backed-trump-aims-to-buy-1-million-bitcoins-reserve-f89e2348</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[VIRTUAL, Monero (XMR) and Flare (FLR) are today’s top gainers.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Launches Self-Custody OKX Pay with Zero Fees, Partners with Mastercard]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/okx-launches-self-custody-okx-pay-zero-fees-partners-mastercard-679d7633</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/okx-launches-self-custody-okx-pay-zero-fees-partners-mastercard-679d7633"/>
-        <updated>2025-04-28T17:05:10.000Z</updated>
-        <summary type="html"><![CDATA[OKX has launched OKX Pay, a new self-custody crypto payment application designed to bridge the gap between cryptocurrency and everyday payments]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Class Action Lawsuit Calls Nike’s Shutdown of RTFKT NFT Studio a ‘Soft Rug Pull’]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/class-action-lawsuit-calls-nike-s-shutdown-of-rtfkt-nft-studio-a-soft-rug-pull</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/class-action-lawsuit-calls-nike-s-shutdown-of-rtfkt-nft-studio-a-soft-rug-pull"/>
-        <updated>2025-04-28T16:52:49.000Z</updated>
-        <summary type="html"><![CDATA[Most NFTs are not immutable, censorship-proof or permanent, as the media files themselves are not stored on blockchains.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
         </author>
     </entry>
 </feed>

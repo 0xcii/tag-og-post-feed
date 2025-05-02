@@ -12,6 +12,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/people/token2049-dubai-predictions-roundup",
+          "author": "Jona Jaupi",
+          "description": "From a $1 million Bitcoin to AI-driven finance, top crypto industry figures at Token2049 in Dubai laid out bold predictions.",
+          "link": "https://thedefiant.io/news/people/token2049-dubai-predictions-roundup",
+          "publishedOn": "2025-05-02T18:20:02.000Z",
+          "wordCount": 1076,
+          "title": "Crypto Leaders Forecast Bitcoin Surge, SWIFT Disruption at Token2049 Dubai",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/491e17ec901ca5600e1e84387c4807cbf0bce85b-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/491e17ec901ca5600e1e84387c4807cbf0bce85b-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/ivy-league-s-brown-university-becomes-3rd-us-college-to-invest-4-9m-bitcoin-etf-98c50f09",
+          "author": "DeepNewz",
+          "description": "Brown University, an Ivy League institution, has disclosed a new investment in the IBIT Bitcoin ETF, acquiring 105,000 shares valued at $4",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/ivy-league-s-brown-university-becomes-3rd-us-college-to-invest-4-9m-bitcoin-etf-98c50f09",
+          "publishedOn": "2025-05-02T18:05:11.000Z",
+          "wordCount": 743,
+          "title": "Ivy League's Brown University Becomes 3rd US College to Invest $4.9M in Bitcoin ETF, Allocating 2%",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/43462db9434b358370f1f641ea6d323f38742122-936x464.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/43462db9434b358370f1f641ea6d323f38742122-936x464.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/senator-lummis-s-bitcoin-act-backed-trump-aims-to-buy-1-million-bitcoins-reserve-f89e2348",
           "author": "DeepNewz",
           "description": "U",
@@ -177,7 +207,7 @@
           "description": "Michael Saylor, through his company Strategy, is planning to raise $84 billion to purchase more Bitcoin",
           "link": "https://thedefiant.io/news/people/michael-saylor-s-strategy-to-raise-84-billion-bitcoin-split-between-42b-equity-fecabfba",
           "publishedOn": "2025-05-01T21:05:11.000Z",
-          "wordCount": 663,
+          "wordCount": 662,
           "title": "Michael Saylor's Strategy to Raise $84 Billion for Bitcoin, Split Between $42B Equity and $42B Fixed Income",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2389b0d710b0a37d3be73993fb8e89ba0969a02c-1152x975.jpg",
@@ -1465,36 +1495,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4f02bbbdf491ca6a68eacf21cc613590f3447390-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/okx-launches-self-custody-okx-pay-zero-fees-partners-mastercard-679d7633",
-          "author": "DeepNewz",
-          "description": "OKX has launched OKX Pay, a new self-custody crypto payment application designed to bridge the gap between cryptocurrency and everyday payments",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/okx-launches-self-custody-okx-pay-zero-fees-partners-mastercard-679d7633",
-          "publishedOn": "2025-04-28T17:05:10.000Z",
-          "wordCount": 795,
-          "title": "OKX Launches Self-Custody OKX Pay with Zero Fees, Partners with Mastercard",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/53a9ab39e160456556a49792c26b15097a4ef9d6-553x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/53a9ab39e160456556a49792c26b15097a4ef9d6-553x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/class-action-lawsuit-calls-nike-s-shutdown-of-rtfkt-nft-studio-a-soft-rug-pull",
-          "author": "Leo Jakobson",
-          "description": "Most NFTs are not immutable, censorship-proof or permanent, as the media files themselves are not stored on blockchains.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/class-action-lawsuit-calls-nike-s-shutdown-of-rtfkt-nft-studio-a-soft-rug-pull",
-          "publishedOn": "2025-04-28T16:52:49.000Z",
-          "wordCount": 1530,
-          "title": "Class Action Lawsuit Calls Nike’s Shutdown of RTFKT NFT Studio a ‘Soft Rug Pull’",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2b891b192cce00cec3109de10d1b650f45c2a7eb-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2b891b192cce00cec3109de10d1b650f45c2a7eb-1555x875.png"
         }
       ]
     }
