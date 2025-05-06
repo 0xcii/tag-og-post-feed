@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-06T11:15:12.969Z</id>
+    <id>urn:2025-05-06T12:38:29.030Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-06T11:15:12.969Z</updated>
+    <updated>2025-05-06T12:38:29.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -83,16 +83,6 @@
         <summary type="html"><![CDATA[The developer, who previously went by Gabagool.eth, worked for the Base-backed AI launchpad under the pseudonym ProxyStudio.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arizona Governor Katie Hobbs Vetoes Strategic Bitcoin Reserve Bill SB1025; Senator Wendy Rogers Plans to Refile]]></title>
-        <id>https://thedefiant.io/news/regulation/arizona-governor-katie-hobbs-vetoes-strategic-bitcoin-reserve-bill-sb1025-wendy-36b31fae</id>
-        <link href="https://thedefiant.io/news/regulation/arizona-governor-katie-hobbs-vetoes-strategic-bitcoin-reserve-bill-sb1025-wendy-36b31fae"/>
-        <updated>2025-05-05T19:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Arizona Governor Katie Hobbs vetoed 23 out of 57 bills during the current legislative session, including the Strategic Bitcoin Reserve Bill (SB1025), which would have allowed the state to hold Bitcoin as part of its official reserves]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>
@@ -1003,6 +993,16 @@
         <summary type="html"><![CDATA[Tokens such as AI16z and VIRTUAL are up more than 90% over the last week.]]></summary>
         <author>
             <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solayer Token Rallies 15% Amid Surging Volume]]></title>
+        <id>https://thedefiant.io/news/defi/solayer-token-rallies-15-amid-surging-volume</id>
+        <link href="https://thedefiant.io/news/defi/solayer-token-rallies-15-amid-surging-volume"/>
+        <updated>2025-04-29T20:55:06.000Z</updated>
+        <summary type="html"><![CDATA[LAYER has more than doubled in the past month as bullish sentiment and rising interest in blockchain scalability drive gains.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>

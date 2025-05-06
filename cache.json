@@ -132,21 +132,6 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6093ed67ad9f4a5b1b1b0d9d46ef8fbac21e6e14-1555x875.png"
         },
         {
-          "id": "https://thedefiant.io/news/regulation/arizona-governor-katie-hobbs-vetoes-strategic-bitcoin-reserve-bill-sb1025-wendy-36b31fae",
-          "author": "DeepNewz",
-          "description": "Arizona Governor Katie Hobbs vetoed 23 out of 57 bills during the current legislative session, including the Strategic Bitcoin Reserve Bill (SB1025), which would have allowed the state to hold Bitcoin as part of its official reserves",
-          "link": "https://thedefiant.io/news/regulation/arizona-governor-katie-hobbs-vetoes-strategic-bitcoin-reserve-bill-sb1025-wendy-36b31fae",
-          "publishedOn": "2025-05-05T19:35:00.000Z",
-          "wordCount": 748,
-          "title": "Arizona Governor Katie Hobbs Vetoes Strategic Bitcoin Reserve Bill SB1025; Senator Wendy Rogers Plans to Refile",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/168dc77d75b2fef7d8e75b35e71e089fd94698f7-1199x461.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/168dc77d75b2fef7d8e75b35e71e089fd94698f7-1199x461.jpg"
-        },
-        {
           "id": "https://thedefiant.io/news/blockchains/vitalik-buterin-wants-to-make-ethereum-as-beautifully-simple-as-bitcoin",
           "author": "Leo Jakobson",
           "description": "A proposed 5-year plan would replace the Ethereum Virtual Machine with a far simpler RISC-V architecture.",
@@ -1500,6 +1485,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6c481b0f6f86c3fc04fb225f11a6481dcf7564d6-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/solayer-token-rallies-15-amid-surging-volume",
+          "author": "Jona Jaupi",
+          "description": "LAYER has more than doubled in the past month as bullish sentiment and rising interest in blockchain scalability drive gains.",
+          "link": "https://thedefiant.io/news/defi/solayer-token-rallies-15-amid-surging-volume",
+          "publishedOn": "2025-04-29T20:55:06.000Z",
+          "wordCount": 828,
+          "title": "Solayer Token Rallies 15% Amid Surging Volume",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9ea5082136cf9d5eab3cc86c50b75ba5db229d06-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9ea5082136cf9d5eab3cc86c50b75ba5db229d06-1555x875.png"
         }
       ]
     }
