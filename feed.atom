@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-06T16:21:13.265Z</id>
+    <id>urn:2025-05-06T17:16:12.133Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-06T16:21:13.265Z</updated>
+    <updated>2025-05-06T17:16:12.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Market Faces Pressure for Second Day as Investors Await Fed Rate Decision]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-market-faces-pressure-for-second-day-as-investors-await-fed-rate-decision</id>
+        <link href="https://thedefiant.io/news/markets/crypto-market-faces-pressure-for-second-day-as-investors-await-fed-rate-decision"/>
+        <updated>2025-05-06T16:54:34.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin holds steady, Ethereum dips, and altcoins see mixed action ahead of Wednesday’s FOMC statement.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Treasury Secretary Bessent Calls CBDC a 'Sign of Weakness', Supports Bitcoin as Store of Value]]></title>
+        <id>https://thedefiant.io/news/regulation/u-s-treasury-secretary-bessent-calls-cbdc-sign-weakness-supports-bitcoin-store-d2b0a3a2</id>
+        <link href="https://thedefiant.io/news/regulation/u-s-treasury-secretary-bessent-calls-cbdc-sign-weakness-supports-bitcoin-store-d2b0a3a2"/>
+        <updated>2025-05-06T16:35:17.000Z</updated>
+        <summary type="html"><![CDATA[U]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Standard Chartered Predicts Binance Coin (BNB) Could Reach $2,775 by 2028]]></title>
         <id>https://thedefiant.io/news/markets/standard-chartered-predicts-binance-coin-bnb-reach-2775-2028-da128afa</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/sec-ends-investigation-into-paypal-s-pyusd-stablecoin-enforcement-notified-aad701ed"/>
         <updated>2025-04-30T08:35:11.000Z</updated>
         <summary type="html"><![CDATA[The U]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale Urges SEC to Approve Ethereum Staking for ETFs Managing $8.1B; VanEck CEO Hopes for Solana ETF Approval]]></title>
-        <id>https://thedefiant.io/news/regulation/grayscale-urges-sec-to-approve-ethereum-staking-etfs-managing-8-1b-vaneck-ceo-a8f72e39</id>
-        <link href="https://thedefiant.io/news/regulation/grayscale-urges-sec-to-approve-ethereum-staking-etfs-managing-8-1b-vaneck-ceo-a8f72e39"/>
-        <updated>2025-04-30T08:05:11.000Z</updated>
-        <summary type="html"><![CDATA[Grayscale has urged the U]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libre Launches $500 Million Telegram Debt Tokenization Fund on TON With Accredited Investor Access]]></title>
-        <id>https://thedefiant.io/news/defi/libre-launches-500-million-telegram-debt-tokenization-fund-on-ton-accredited-b78170eb</id>
-        <link href="https://thedefiant.io/news/defi/libre-launches-500-million-telegram-debt-tokenization-fund-on-ton-accredited-b78170eb"/>
-        <updated>2025-04-30T07:35:11.000Z</updated>
-        <summary type="html"><![CDATA[Libre, a real-world asset tokenization firm, is launching a $500 million Telegram Bond Fund (TBF) on the TON blockchain network]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
