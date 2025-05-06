@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/standard-chartered-predicts-binance-coin-bnb-reach-2775-2028-da128afa",
+          "author": "DeepNewz",
+          "description": "Standard Chartered Bank has forecasted that the cryptocurrency Binance Coin (BNB) could reach a price of $2,775 by the end of 2028",
+          "link": "https://thedefiant.io/news/markets/standard-chartered-predicts-binance-coin-bnb-reach-2775-2028-da128afa",
+          "publishedOn": "2025-05-06T15:35:17.000Z",
+          "wordCount": 579,
+          "title": "Standard Chartered Predicts Binance Coin (BNB) Could Reach $2,775 by 2028",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a70b17e9ee448f7f09f5a5f6f19fde78c7c1817c-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a70b17e9ee448f7f09f5a5f6f19fde78c7c1817c-1200x675.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/sol-strategies-acquires-122524-solana-tokens-148-96-deploying-20m-tranche-500m-cb47556b",
           "author": "DeepNewz",
           "description": "DeFi Development Corp, formerly known as Janover Inc",
@@ -1485,21 +1500,6 @@
           "wordCount": 582,
           "title": "Libre Launches $500 Million Telegram Debt Tokenization Fund on TON With Accredited Investor Access",
           "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/u-s-senate-to-vote-on-genius-act-stablecoin-legislation-reserve-requirements-26-3762d183",
-          "author": "DeepNewz",
-          "description": "The U",
-          "link": "https://thedefiant.io/news/regulation/u-s-senate-to-vote-on-genius-act-stablecoin-legislation-reserve-requirements-26-3762d183",
-          "publishedOn": "2025-04-29T22:35:11.000Z",
-          "wordCount": 587,
-          "title": "U.S. Senate to Vote on GENIUS Act Stablecoin Legislation with Reserve Requirements by May 26, 2025",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/275c521f3429ee28cc820b23eb81a8293a969902-962x768.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/275c521f3429ee28cc820b23eb81a8293a969902-962x768.jpg"
         }
       ]
     }
