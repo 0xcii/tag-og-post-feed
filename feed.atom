@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T19:15:03.197Z</id>
+    <id>urn:2025-05-07T20:20:09.388Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-07T19:15:03.197Z</updated>
+    <updated>2025-05-07T20:20:09.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Core to Remove 80-Byte OP_RETURN Limit in Upgrade Citing Peter Todd, Bitcoin Runes, and Ordinals]]></title>
+        <id>https://thedefiant.io/news/blockchains/bitcoin-core-to-remove-80-byte-op-return-limit-upgrade-citing-peter-todd-bitcoin-b6138024</id>
+        <link href="https://thedefiant.io/news/blockchains/bitcoin-core-to-remove-80-byte-op-return-limit-upgrade-citing-peter-todd-bitcoin-b6138024"/>
+        <updated>2025-05-07T20:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin Core developers have announced plans to remove the 80-byte limit on the OP_RETURN field in Bitcoin transactions in the upcoming network upgrade]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Market Holds Steady as Fed Keeps Rates Unchanged]]></title>
         <id>https://thedefiant.io/news/markets/crypto-market-holds-steady-as-fed-keeps-rates-unchanged</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The initiative marks a strategic pivot for the centralized exchange as a full-scale web3 ecosystem builder.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MorphoLabs Launches Lending Mini App on Worldcoin with $5 Million WLD Rewards and Ledger Wallet Integration]]></title>
-        <id>https://thedefiant.io/news/defi/morpholabs-launches-lending-mini-app-on-worldcoin-5-million-wld-rewards-ledger-a5057707</id>
-        <link href="https://thedefiant.io/news/defi/morpholabs-launches-lending-mini-app-on-worldcoin-5-million-wld-rewards-ledger-a5057707"/>
-        <updated>2025-05-01T10:05:11.000Z</updated>
-        <summary type="html"><![CDATA[MorphoLabs has launched a new Mini App on the Worldcoin platform, enabling over 25 million users to access crypto-backed lending, borrowing, and rewards directly through the World App]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
