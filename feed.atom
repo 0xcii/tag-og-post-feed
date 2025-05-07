@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T20:20:09.388Z</id>
+    <id>urn:2025-05-07T21:15:27.464Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-07T20:20:09.388Z</updated>
+    <updated>2025-05-07T21:15:27.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vivek Ramaswamy’s Strive Asset Management Merges with Asset Entities, ASST Stock Up 400% on $1 Billion Bitcoin Buy Plan]]></title>
+        <id>https://thedefiant.io/news/markets/vivek-ramaswamys-strive-asset-management-merges-asset-entities-asst-stock-up-400-097dfff5</id>
+        <link href="https://thedefiant.io/news/markets/vivek-ramaswamys-strive-asset-management-merges-asset-entities-asst-stock-up-400-097dfff5"/>
+        <updated>2025-05-07T20:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Vivek Ramaswamy's Strive Asset Management is set to go public through a merger with Asset Entities (NASDAQ: ASST), forming the first publicly traded asset management Bitcoin treasury company]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stablecoin Supply on Sui Network Hits All-Time High Near $1 Billion]]></title>
+        <id>https://thedefiant.io/news/blockchains/stablecoin-supply-on-sui-network-hits-all-time-high-near-usd1-billion</id>
+        <link href="https://thedefiant.io/news/blockchains/stablecoin-supply-on-sui-network-hits-all-time-high-near-usd1-billion"/>
+        <updated>2025-05-07T20:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Sui’s DeFi ecosystem is surging, with stablecoins at an all-time high and overall TVL just 20% off its January highs.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Core to Remove 80-Byte OP_RETURN Limit in Upgrade Citing Peter Todd, Bitcoin Runes, and Ordinals]]></title>
         <id>https://thedefiant.io/news/blockchains/bitcoin-core-to-remove-80-byte-op-return-limit-upgrade-citing-peter-todd-bitcoin-b6138024</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The total cryptocurrency market capitalization has surpassed the $3 trillion mark again, according to CoinMarketCap data]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maple Finance Launches $500K Incentives Program]]></title>
-        <id>https://thedefiant.io/news/defi/maple-finance-launches-usd500k-incentives-program</id>
-        <link href="https://thedefiant.io/news/defi/maple-finance-launches-usd500k-incentives-program"/>
-        <updated>2025-05-01T12:03:54.000Z</updated>
-        <summary type="html"><![CDATA[The top DeFi lending protocol’s program will reward SyrupUSDC depositors, and will take place over the month of May.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEXC Launches $300M Ecosystem Fund to Accelerate Web3 Innovation]]></title>
-        <id>https://thedefiant.io/news/cefi/mexc-launches-usd300m-ecosystem-fund-to-accelerate-web3-innovation</id>
-        <link href="https://thedefiant.io/news/cefi/mexc-launches-usd300m-ecosystem-fund-to-accelerate-web3-innovation"/>
-        <updated>2025-05-01T11:37:25.000Z</updated>
-        <summary type="html"><![CDATA[The initiative marks a strategic pivot for the centralized exchange as a full-scale web3 ecosystem builder.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
