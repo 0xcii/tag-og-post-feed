@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-09T19:14:13.362Z</id>
+    <id>urn:2025-05-09T20:19:47.542Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-09T19:14:13.362Z</updated>
+    <updated>2025-05-09T20:19:47.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pump.fun DEX PumpSwap TVL Breaks $100M Driven By Memecoin Comeback]]></title>
+        <id>https://thedefiant.io/news/defi/pump-fun-dex-pumpswap-tvl-breaks-usd100m-memecoin-comeback</id>
+        <link href="https://thedefiant.io/news/defi/pump-fun-dex-pumpswap-tvl-breaks-usd100m-memecoin-comeback"/>
+        <updated>2025-05-09T19:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Memecoin launchpad pump.fun’s DEX hit an all-time high TVL over $100 million as top memecoins soar.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlackRock $10 Trillion Asset Manager Meets SEC Crypto Task Force on Staking, Tokenization, Options, and Crypto ETF Approval]]></title>
         <id>https://thedefiant.io/news/regulation/blackrock-10-trillion-asset-manager-meets-sec-crypto-task-force-on-staking-etf-ff7c14c1</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/stablecoin-market-cap-hits-243-billion-720b-monthly-volume-usdt-usdc-lead-growth-120919ad"/>
         <updated>2025-05-04T17:35:20.000Z</updated>
         <summary type="html"><![CDATA[The stablecoin market has reached new heights, with the total market capitalization hitting a record $243 billion as of early May 2025]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock Buys $20 Million Ethereum, Holds 92% of $2.92 Billion BUIDL Fund Assets, Other Chains Included]]></title>
-        <id>https://thedefiant.io/news/blockchains/blackrock-buys-20-million-ethereum-holds-92-2-92-billion-buidl-fund-assets-other-4c625f62</id>
-        <link href="https://thedefiant.io/news/blockchains/blackrock-buys-20-million-ethereum-holds-92-2-92-billion-buidl-fund-assets-other-4c625f62"/>
-        <updated>2025-05-04T17:35:20.000Z</updated>
-        <summary type="html"><![CDATA[BlackRock has recently purchased an additional $20 million worth of Ethereum, reinforcing its substantial investment in the cryptocurrency]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>

@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/pump-fun-dex-pumpswap-tvl-breaks-usd100m-memecoin-comeback",
+          "author": "Leo Jakobson",
+          "description": "Memecoin launchpad pump.fun’s DEX hit an all-time high TVL over $100 million as top memecoins soar.",
+          "link": "https://thedefiant.io/news/defi/pump-fun-dex-pumpswap-tvl-breaks-usd100m-memecoin-comeback",
+          "publishedOn": "2025-05-09T19:41:36.000Z",
+          "wordCount": 1006,
+          "title": "Pump.fun DEX PumpSwap TVL Breaks $100M Driven By Memecoin Comeback",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c18a17a7ae1864cffa0c49b2c44a37177ac0309c-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c18a17a7ae1864cffa0c49b2c44a37177ac0309c-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/blackrock-10-trillion-asset-manager-meets-sec-crypto-task-force-on-staking-etf-ff7c14c1",
           "author": "DeepNewz",
           "description": "BlackRock, the world's largest asset manager with approximately $10 trillion in assets under management, met with the U",
@@ -452,7 +467,7 @@
           "description": "The bipartisan GENIUS Act, a Senate bill aimed at regulating stablecoins, has faced intense negotiations and uncertainty ahead of a scheduled vote",
           "link": "https://thedefiant.io/news/regulation/senate-fails-key-procedural-vote-on-genius-act-stablecoin-bill-48-49-despite-365309b7",
           "publishedOn": "2025-05-08T19:05:17.000Z",
-          "wordCount": 778,
+          "wordCount": 790,
           "title": "Senate Fails Key Procedural Vote on GENIUS Act Stablecoin Bill, 48-49, Despite Support from Thune, Gallego, Warner",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/62145cbeecd7f86c2b5ed419f3fe643649c2a235-1200x675.jpg",
@@ -1212,7 +1227,7 @@
           "description": "The High Court of Kenya has ruled that Worldcoin's collection of biometric data from Kenyan citizens in 2023 was illegal and violated the country's data protection laws",
           "link": "https://thedefiant.io/news/regulation/kenyan-high-court-orders-worldcoin-to-delete-biometric-data-7-days-under-data-879f2977",
           "publishedOn": "2025-05-06T10:35:17.000Z",
-          "wordCount": 695,
+          "wordCount": 707,
           "title": "Kenyan High Court Orders Worldcoin to Delete Biometric Data Within 7 Days Under Data Commissioner Supervision",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4b6dee3f2704f1e0ef32ba3e95d9972c69b61fbb-1200x1200.jpg",
@@ -1475,21 +1490,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d49b44aad848d3a7a190d5ab0dbf326a0549673e-1200x675.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/blackrock-buys-20-million-ethereum-holds-92-2-92-billion-buidl-fund-assets-other-4c625f62",
-          "author": "DeepNewz",
-          "description": "BlackRock has recently purchased an additional $20 million worth of Ethereum, reinforcing its substantial investment in the cryptocurrency",
-          "link": "https://thedefiant.io/news/blockchains/blackrock-buys-20-million-ethereum-holds-92-2-92-billion-buidl-fund-assets-other-4c625f62",
-          "publishedOn": "2025-05-04T17:35:20.000Z",
-          "wordCount": 666,
-          "title": "BlackRock Buys $20 Million Ethereum, Holds 92% of $2.92 Billion BUIDL Fund Assets, Other Chains Included",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8933bd60cbb0869bf05bd198c81bbd91c5b7d6e9-1199x800.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8933bd60cbb0869bf05bd198c81bbd91c5b7d6e9-1199x800.jpg"
         }
       ]
     }
