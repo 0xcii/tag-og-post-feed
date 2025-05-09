@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-09T20:19:47.542Z</id>
+    <id>urn:2025-05-09T21:16:10.479Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-09T20:19:47.542Z</updated>
+    <updated>2025-05-09T21:16:10.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CryptoPunks Reclaim $100,000 and XCOPY Edition Sells for $1.2 Million]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/cryptopunks-reclaim-usd100-000-and-xcopy-edition-sells-for-usd1-2-million</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/cryptopunks-reclaim-usd100-000-and-xcopy-edition-sells-for-usd1-2-million"/>
+        <updated>2025-05-09T20:45:18.000Z</updated>
+        <summary type="html"><![CDATA[The premier Ethereum NFT collection’s floor price is back into six figures as Punks and XCOPY NFTs continue to outperform the rest of the market.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Established Memecoins Soar as Traders Grow Frustrated with PumpFun Games]]></title>
+        <id>https://thedefiant.io/news/markets/established-memecoins-soar-as-traders-grow-frustrated-with-pumpfun-games</id>
+        <link href="https://thedefiant.io/news/markets/established-memecoins-soar-as-traders-grow-frustrated-with-pumpfun-games"/>
+        <updated>2025-05-09T20:04:46.000Z</updated>
+        <summary type="html"><![CDATA[MOODENG and PNUT have surged 220% and 82%, respectively, signaling that liquidity may be rotating to established memecoins that trade on centralized exchanges.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pump.fun DEX PumpSwap TVL Breaks $100M Driven By Memecoin Comeback]]></title>
         <id>https://thedefiant.io/news/defi/pump-fun-dex-pumpswap-tvl-breaks-usd100m-memecoin-comeback</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/senator-lummis-bitcoin-act-trump-support-proposes-1-million-bitcoin-purchase-to-88be5eb5"/>
         <updated>2025-05-04T19:35:00.000Z</updated>
         <summary type="html"><![CDATA[U]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoins in Gaming Infra ‘Long Overdue’: M0 Cofounder]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/playtron-m0-sui-stablecoin-game-dollar</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/playtron-m0-sui-stablecoin-game-dollar"/>
-        <updated>2025-05-04T17:51:50.000Z</updated>
-        <summary type="html"><![CDATA[Gaming OS Playtron has partnered with M0 to launch a cross-platform stablecoin on the Sui blockchain.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoin Market Cap Hits $243 Billion with $720B Monthly Volume; USDT, USDC Lead Growth; Treasury Forecasts $2T by 2028]]></title>
-        <id>https://thedefiant.io/news/markets/stablecoin-market-cap-hits-243-billion-720b-monthly-volume-usdt-usdc-lead-growth-120919ad</id>
-        <link href="https://thedefiant.io/news/markets/stablecoin-market-cap-hits-243-billion-720b-monthly-volume-usdt-usdc-lead-growth-120919ad"/>
-        <updated>2025-05-04T17:35:20.000Z</updated>
-        <summary type="html"><![CDATA[The stablecoin market has reached new heights, with the total market capitalization hitting a record $243 billion as of early May 2025]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
