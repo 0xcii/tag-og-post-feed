@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-12T12:38:15.859Z</id>
+    <id>urn:2025-05-12T13:30:40.488Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-12T12:38:15.859Z</updated>
+    <updated>2025-05-12T13:30:40.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MicroStrategy Adds 13,390 Bitcoin for $1.34 Billion, Bringing Holdings to 568,840 BTC]]></title>
+        <id>https://thedefiant.io/news/blockchains/microstrategy-adds-13390-bitcoin-1-34-billion-bringing-holdings-to-568840-btc-5f281aba</id>
+        <link href="https://thedefiant.io/news/blockchains/microstrategy-adds-13390-bitcoin-1-34-billion-bringing-holdings-to-568840-btc-5f281aba"/>
+        <updated>2025-05-12T13:00:27.000Z</updated>
+        <summary type="html"><![CDATA[MicroStrategy disclosed that its Bitcoin accumulation arm, Strategy, bought 13,390 bitcoins between 5 and 11 May for about $1]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Goldman Sachs Raises BlackRock Bitcoin Trust Stake to $1.4B Amid JPMorgan, MicroStrategy, Beat Holdings Crypto Moves]]></title>
         <id>https://thedefiant.io/news/markets/goldman-sachs-raises-blackrock-bitcoin-trust-stake-to-1-4b-amid-jpmorgan-beat-e71b517a</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/robert-leshner-s-superstate-launches-on-chain-stocks</id>
         <link href="https://thedefiant.io/news/defi/robert-leshner-s-superstate-launches-on-chain-stocks"/>
         <updated>2025-05-08T14:53:32.000Z</updated>
-        <summary type="html"><![CDATA[The equities platform called Opening Bell will debut with public shares of SOL Strategies.]]></summary>
+        <summary type="html"><![CDATA[Superstate, the digital asset management company known for its on-chain U.S. Treasuries, is now launching on-chain equities.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The move by New Hampshire comes just days after Florida and Arizona shelved similar bills.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Trump Confirms Donald Trump Owns Bitcoin, Metaplanet CEO Meeting; Predicts Exponential Crypto Growth, Banks at Risk]]></title>
-        <id>https://thedefiant.io/news/people/eric-trump-confirms-donald-trump-owns-bitcoin-metaplanet-ceo-meeting-predicts-8afcd04d</id>
-        <link href="https://thedefiant.io/news/people/eric-trump-confirms-donald-trump-owns-bitcoin-metaplanet-ceo-meeting-predicts-8afcd04d"/>
-        <updated>2025-05-07T12:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Eric Trump has publicly confirmed that former President Donald Trump owns a substantial amount of Bitcoin]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
