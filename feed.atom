@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-12T16:23:39.254Z</id>
+    <id>urn:2025-05-12T17:15:46.799Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-12T16:23:39.254Z</updated>
+    <updated>2025-05-12T17:15:46.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Goldman Sachs Increases BlackRock's Bitcoin ETF Stake by 28% to $1.4B Amid Record $62.9B Inflows]]></title>
+        <id>https://thedefiant.io/news/markets/goldman-sachs-increases-blackrock-s-bitcoin-etf-stake-28-to-1-4b-amid-record-62-c27c489b</id>
+        <link href="https://thedefiant.io/news/markets/goldman-sachs-increases-blackrock-s-bitcoin-etf-stake-28-to-1-4b-amid-record-62-c27c489b"/>
+        <updated>2025-05-12T16:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Goldman Sachs has significantly increased its stake in BlackRock's iShares Bitcoin Trust (IBIT) ETF, boosting its holdings by 28% to 30]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[After GENIUS Stablecoin Bill Stalls, What’s Next for Crypto Regulation in the US?]]></title>
         <id>https://thedefiant.io/news/regulation/whats-next-for-united-states-crypto-regulations</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/crypto-market-holds-steady-as-fed-keeps-rates-unchanged"/>
         <updated>2025-05-07T18:48:08.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin nears $97,000, while altcoins like KAITO and Alpaca Finance lead gains.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Is the Only Top Crypto in Profit Mid-Term: Glassnode]]></title>
-        <id>https://thedefiant.io/news/markets/xrp-is-the-only-top-crypto-in-profit-mid-term-glassnode</id>
-        <link href="https://thedefiant.io/news/markets/xrp-is-the-only-top-crypto-in-profit-mid-term-glassnode"/>
-        <updated>2025-05-07T18:07:19.000Z</updated>
-        <summary type="html"><![CDATA[New data show Bitcoin, Ethereum and Solana holders in red, while XRP bucks the trend.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>

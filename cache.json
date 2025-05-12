@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/goldman-sachs-increases-blackrock-s-bitcoin-etf-stake-28-to-1-4b-amid-record-62-c27c489b",
+          "author": "DeepNewz",
+          "description": "Goldman Sachs has significantly increased its stake in BlackRock's iShares Bitcoin Trust (IBIT) ETF, boosting its holdings by 28% to 30",
+          "link": "https://thedefiant.io/news/markets/goldman-sachs-increases-blackrock-s-bitcoin-etf-stake-28-to-1-4b-amid-record-62-c27c489b",
+          "publishedOn": "2025-05-12T16:35:20.000Z",
+          "wordCount": 779,
+          "title": "Goldman Sachs Increases BlackRock's Bitcoin ETF Stake by 28% to $1.4B Amid Record $62.9B Inflows",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2b68389cb374a5f165c4ec764a80e5093d3fca90-1200x573.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2b68389cb374a5f165c4ec764a80e5093d3fca90-1200x573.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/whats-next-for-united-states-crypto-regulations",
           "author": "Leo Jakobson",
           "description": "Bitwise CIO Matt Hougan told The Defiant that a market structure bill will be “very challenging” if the Senate can’t get a stablecoin bill passed.",
@@ -347,7 +362,7 @@
           "description": "Lido Finance has announced a suspected private key leak involving its oracle node operated by Chorus One",
           "link": "https://thedefiant.io/news/defi/lido-finance-initiates-emergency-vote-after-chorus-one-oracle-node-leak-1-4-eth-9b2159fe",
           "publishedOn": "2025-05-11T16:05:27.000Z",
-          "wordCount": 675,
+          "wordCount": 714,
           "title": "Lido Finance Initiates Emergency Vote After Chorus One Oracle Node Leak, 1.4 ETH Stolen from $23 Billion Protocol",
           "imageUrl": null
         },
@@ -1002,7 +1017,7 @@
           "description": "BlackRock, the world's largest asset manager, has made substantial Bitcoin acquisitions totaling approximately $4",
           "link": "https://thedefiant.io/news/markets/blackrock-acquires-47746-btc-worth-4-5-billion-bitcoin-surges-past-100k-u-s-e9eb74d3",
           "publishedOn": "2025-05-09T08:00:27.000Z",
-          "wordCount": 633,
+          "wordCount": 646,
           "title": "BlackRock Acquires 47,746 BTC Worth $4.5 Billion as Bitcoin Surges Past $100K, Exceeding U.S. and China Holdings",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/88b26643562c179e9167b2829abe15ed1ca1b801-648x648.jpg",
@@ -1267,7 +1282,7 @@
           "description": "Bitcoin surges 5%, while ETH and SOL rally 14% and 10%, respectively.",
           "link": "https://thedefiant.io/news/markets/bitcoin-tops-usd101-000-amid-fed-pause-and-tariff-relief",
           "publishedOn": "2025-05-08T17:02:00.000Z",
-          "wordCount": 939,
+          "wordCount": 952,
           "title": "Bitcoin Tops $101,000 Amid Fed Pause and Tariff Relief",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3d5c51cd1b2feb0f714020247f4e6029bab035ab-1555x875.png",
@@ -1372,7 +1387,7 @@
           "description": "David Bailey, a former crypto policy advisor to former President Donald Trump and CEO of Bitcoin Magazine, is raising $300 million to launch a publicly traded bitcoin investment firm",
           "link": "https://thedefiant.io/news/markets/david-bailey-trump-crypto-advisor-plans-300-million-publicly-traded-bitcoin-firm-1a5229ee",
           "publishedOn": "2025-05-08T06:35:17.000Z",
-          "wordCount": 677,
+          "wordCount": 690,
           "title": "David Bailey, Trump Crypto Advisor, Plans $300 Million Publicly Traded Bitcoin Investment Firm Following MicroStrategy",
           "imageUrl": null
         },
@@ -1475,21 +1490,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fbd7af2da38357a4f3dd6455eb88427664a9d8d9-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/xrp-is-the-only-top-crypto-in-profit-mid-term-glassnode",
-          "author": "Jona Jaupi",
-          "description": "New data show Bitcoin, Ethereum and Solana holders in red, while XRP bucks the trend.",
-          "link": "https://thedefiant.io/news/markets/xrp-is-the-only-top-crypto-in-profit-mid-term-glassnode",
-          "publishedOn": "2025-05-07T18:07:19.000Z",
-          "wordCount": 845,
-          "title": "XRP Is the Only Top Crypto in Profit Mid-Term: Glassnode",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7c099578635be97bf76f20b44c00576088397909-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7c099578635be97bf76f20b44c00576088397909-1555x875.png"
         }
       ]
     }
