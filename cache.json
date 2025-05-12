@@ -12,6 +12,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/microstrategy-nasdaq-mstr-acquires-13390-btc-boosting-holdings-to-568840-btc-1-7b7fe05e",
+          "author": "DeepNewz",
+          "description": "MicroStrategy, now known as Strategy and listed on NASDAQ as MSTR, has continued its aggressive acquisition of Bitcoin, purchasing an additional 13,390 BTC between May 5 and May 11 for approximately $1",
+          "link": "https://thedefiant.io/news/markets/microstrategy-nasdaq-mstr-acquires-13390-btc-boosting-holdings-to-568840-btc-1-7b7fe05e",
+          "publishedOn": "2025-05-12T18:05:20.000Z",
+          "wordCount": 817,
+          "title": "MicroStrategy (NASDAQ: MSTR) Acquires 13,390 BTC, Boosting Holdings to 568,840 BTC with $1.34 Billion Purchase",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/409d199cd76b80ff47cdfacee4f63045758171a7-1200x676.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/409d199cd76b80ff47cdfacee4f63045758171a7-1200x676.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/coinbase-rejects-80-bitcoin-treasury-approach-holds-1-3b-crypto-dell-declines-b4791566",
+          "author": "DeepNewz",
+          "description": "Coinbase considered adopting a Bitcoin-heavy treasury strategy similar to that of MicroStrategy, which involved allocating up to 80% of its balance sheet to Bitcoin",
+          "link": "https://thedefiant.io/news/cefi/coinbase-rejects-80-bitcoin-treasury-approach-holds-1-3b-crypto-dell-declines-b4791566",
+          "publishedOn": "2025-05-12T18:05:20.000Z",
+          "wordCount": 788,
+          "title": "Coinbase Rejects 80% Bitcoin Treasury Approach; Holds $1.3B in Crypto as Dell Declines Bitcoin Proposal",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/703041c48d68caee61860471990780b0067692f1-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/703041c48d68caee61860471990780b0067692f1-1200x675.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/goldman-sachs-increases-blackrock-s-bitcoin-etf-stake-28-to-1-4b-amid-record-62-c27c489b",
           "author": "DeepNewz",
           "description": "Goldman Sachs has significantly increased its stake in BlackRock's iShares Bitcoin Trust (IBIT) ETF, boosting its holdings by 28% to 30",
@@ -107,7 +137,7 @@
           "description": "BlackRock has filed regulatory documents to enable in-kind redemptions for its Ethereum Trust",
           "link": "https://thedefiant.io/news/cefi/blackrock-files-to-enable-kind-redemptions-ethereum-trust-allowing-direct-eth-ac041047",
           "publishedOn": "2025-05-12T14:05:27.000Z",
-          "wordCount": 582,
+          "wordCount": 595,
           "title": "BlackRock Files to Enable In-Kind Redemptions for Ethereum Trust Allowing Direct ETH Buybacks",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5d5a4be4f970f56d6c35efceb1b57a271df8c4a8-680x680.png",
@@ -359,11 +389,11 @@
         {
           "id": "https://thedefiant.io/news/defi/lido-finance-initiates-emergency-vote-after-chorus-one-oracle-node-leak-1-4-eth-9b2159fe",
           "author": "DeepNewz",
-          "description": "Lido Finance has announced a suspected private key leak involving its oracle node operated by Chorus One",
+          "description": "Lido Finance has announced a suspected private key leak involving an oracle node operated by Chorus One.",
           "link": "https://thedefiant.io/news/defi/lido-finance-initiates-emergency-vote-after-chorus-one-oracle-node-leak-1-4-eth-9b2159fe",
           "publishedOn": "2025-05-11T16:05:27.000Z",
           "wordCount": 714,
-          "title": "Lido Finance Initiates Emergency Vote After Chorus One Oracle Node Leak, 1.4 ETH Stolen from $23 Billion Protocol",
+          "title": "Lido Finance Initiates Emergency Vote After Chorus One Oracle Node Leak, 1.4 ETH Stolen From Hot Wallet",
           "imageUrl": null
         },
         {
@@ -522,7 +552,7 @@
           "description": "Coinbase Global Inc",
           "link": "https://thedefiant.io/news/cefi/coinbase-opts-153m-crypto-investment-over-microstrategy-s-high-risk-bitcoin-c30ce59c",
           "publishedOn": "2025-05-10T17:35:27.000Z",
-          "wordCount": 607,
+          "wordCount": 620,
           "title": "Coinbase Opts for $153M Crypto Investment Over MicroStrategy's High-Risk Bitcoin Strategy",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9170a23e1004a0e60b903334f72740ace6bee654-960x1200.jpg",
@@ -1460,36 +1490,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/79c7f4b28de460609da9f06addef1960542d2233-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/bitcoin-core-to-remove-80-byte-op-return-limit-upgrade-citing-peter-todd-bitcoin-b6138024",
-          "author": "DeepNewz",
-          "description": "Bitcoin Core developers have announced plans to remove the 80-byte limit on the OP_RETURN field in Bitcoin transactions in the upcoming network upgrade",
-          "link": "https://thedefiant.io/news/blockchains/bitcoin-core-to-remove-80-byte-op-return-limit-upgrade-citing-peter-todd-bitcoin-b6138024",
-          "publishedOn": "2025-05-07T20:05:17.000Z",
-          "wordCount": 761,
-          "title": "Bitcoin Core to Remove 80-Byte OP_RETURN Limit in Upgrade Citing Peter Todd, Bitcoin Runes, and Ordinals",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9985d8095012488bf6556fc84558a683e4eb5525-1200x883.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9985d8095012488bf6556fc84558a683e4eb5525-1200x883.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-market-holds-steady-as-fed-keeps-rates-unchanged",
-          "author": "Jona Jaupi",
-          "description": "Bitcoin nears $97,000, while altcoins like KAITO and Alpaca Finance lead gains.",
-          "link": "https://thedefiant.io/news/markets/crypto-market-holds-steady-as-fed-keeps-rates-unchanged",
-          "publishedOn": "2025-05-07T18:48:08.000Z",
-          "wordCount": 853,
-          "title": "Crypto Market Holds Steady as Fed Keeps Rates Unchanged",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fbd7af2da38357a4f3dd6455eb88427664a9d8d9-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fbd7af2da38357a4f3dd6455eb88427664a9d8d9-1555x875.png"
         }
       ]
     }

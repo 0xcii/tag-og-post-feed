@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-12T17:15:46.799Z</id>
+    <id>urn:2025-05-12T18:25:50.637Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-12T17:15:46.800Z</updated>
+    <updated>2025-05-12T18:25:50.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MicroStrategy (NASDAQ: MSTR) Acquires 13,390 BTC, Boosting Holdings to 568,840 BTC with $1.34 Billion Purchase]]></title>
+        <id>https://thedefiant.io/news/markets/microstrategy-nasdaq-mstr-acquires-13390-btc-boosting-holdings-to-568840-btc-1-7b7fe05e</id>
+        <link href="https://thedefiant.io/news/markets/microstrategy-nasdaq-mstr-acquires-13390-btc-boosting-holdings-to-568840-btc-1-7b7fe05e"/>
+        <updated>2025-05-12T18:05:20.000Z</updated>
+        <summary type="html"><![CDATA[MicroStrategy, now known as Strategy and listed on NASDAQ as MSTR, has continued its aggressive acquisition of Bitcoin, purchasing an additional 13,390 BTC between May 5 and May 11 for approximately $1]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Rejects 80% Bitcoin Treasury Approach; Holds $1.3B in Crypto as Dell Declines Bitcoin Proposal]]></title>
+        <id>https://thedefiant.io/news/cefi/coinbase-rejects-80-bitcoin-treasury-approach-holds-1-3b-crypto-dell-declines-b4791566</id>
+        <link href="https://thedefiant.io/news/cefi/coinbase-rejects-80-bitcoin-treasury-approach-holds-1-3b-crypto-dell-declines-b4791566"/>
+        <updated>2025-05-12T18:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase considered adopting a Bitcoin-heavy treasury strategy similar to that of MicroStrategy, which involved allocating up to 80% of its balance sheet to Bitcoin]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Goldman Sachs Increases BlackRock's Bitcoin ETF Stake by 28% to $1.4B Amid Record $62.9B Inflows]]></title>
         <id>https://thedefiant.io/news/markets/goldman-sachs-increases-blackrock-s-bitcoin-etf-stake-28-to-1-4b-amid-record-62-c27c489b</id>
@@ -236,11 +256,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lido Finance Initiates Emergency Vote After Chorus One Oracle Node Leak, 1.4 ETH Stolen from $23 Billion Protocol]]></title>
+        <title type="html"><![CDATA[Lido Finance Initiates Emergency Vote After Chorus One Oracle Node Leak, 1.4 ETH Stolen From Hot Wallet]]></title>
         <id>https://thedefiant.io/news/defi/lido-finance-initiates-emergency-vote-after-chorus-one-oracle-node-leak-1-4-eth-9b2159fe</id>
         <link href="https://thedefiant.io/news/defi/lido-finance-initiates-emergency-vote-after-chorus-one-oracle-node-leak-1-4-eth-9b2159fe"/>
         <updated>2025-05-11T16:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Lido Finance has announced a suspected private key leak involving its oracle node operated by Chorus One]]></summary>
+        <summary type="html"><![CDATA[Lido Finance has announced a suspected private key leak involving an oracle node operated by Chorus One.]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Sui’s DeFi ecosystem is surging, with stablecoins at an all-time high and overall TVL just 20% off its January highs.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Core to Remove 80-Byte OP_RETURN Limit in Upgrade Citing Peter Todd, Bitcoin Runes, and Ordinals]]></title>
-        <id>https://thedefiant.io/news/blockchains/bitcoin-core-to-remove-80-byte-op-return-limit-upgrade-citing-peter-todd-bitcoin-b6138024</id>
-        <link href="https://thedefiant.io/news/blockchains/bitcoin-core-to-remove-80-byte-op-return-limit-upgrade-citing-peter-todd-bitcoin-b6138024"/>
-        <updated>2025-05-07T20:05:17.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin Core developers have announced plans to remove the 80-byte limit on the OP_RETURN field in Bitcoin transactions in the upcoming network upgrade]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Holds Steady as Fed Keeps Rates Unchanged]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-market-holds-steady-as-fed-keeps-rates-unchanged</id>
-        <link href="https://thedefiant.io/news/markets/crypto-market-holds-steady-as-fed-keeps-rates-unchanged"/>
-        <updated>2025-05-07T18:48:08.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin nears $97,000, while altcoins like KAITO and Alpaca Finance lead gains.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
