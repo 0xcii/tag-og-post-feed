@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-12T15:21:26.149Z</id>
+    <id>urn:2025-05-12T16:23:39.254Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-12T15:21:26.149Z</updated>
+    <updated>2025-05-12T16:23:39.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[After GENIUS Stablecoin Bill Stalls, What’s Next for Crypto Regulation in the US?]]></title>
+        <id>https://thedefiant.io/news/regulation/whats-next-for-united-states-crypto-regulations</id>
+        <link href="https://thedefiant.io/news/regulation/whats-next-for-united-states-crypto-regulations"/>
+        <updated>2025-05-12T16:21:40.000Z</updated>
+        <summary type="html"><![CDATA[Bitwise CIO Matt Hougan told The Defiant that a market structure bill will be “very challenging” if the Senate can’t get a stablecoin bill passed.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy Digital Transfers $3.08 Million in TRUMP Tokens to Binance Amid $2 Billion UAE Investment Using Trump Stablecoin]]></title>
+        <id>https://thedefiant.io/news/blockchains/galaxy-digital-transfers-3-08-million-trump-tokens-to-binance-amid-2-billion-uae-5661f03e</id>
+        <link href="https://thedefiant.io/news/blockchains/galaxy-digital-transfers-3-08-million-trump-tokens-to-binance-amid-2-billion-uae-5661f03e"/>
+        <updated>2025-05-12T15:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Galaxy Digital transferred 220,550 TRUMP tokens, valued at approximately $3]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump Family-Backed American Bitcoin to Go Public on Nasdaq as ABTC, Retaining 98% Ownership]]></title>
         <id>https://thedefiant.io/news/blockchains/trump-family-backed-american-bitcoin-to-go-public-on-nasdaq-abtc-retaining-98-c44ddcdf</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[New data show Bitcoin, Ethereum and Solana holders in red, while XRP bucks the trend.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock’s Bitcoin ETF Hits Nearly $7 Billion Inflows in 2025 With 16-Day Streak, 620,000 BTC Holdings Amid Fed Bond Purchases]]></title>
-        <id>https://thedefiant.io/news/markets/blackrocks-bitcoin-etf-hits-nearly-7-billion-inflows-2025-16-day-streak-620000-a4c2c70e</id>
-        <link href="https://thedefiant.io/news/markets/blackrocks-bitcoin-etf-hits-nearly-7-billion-inflows-2025-16-day-streak-620000-a4c2c70e"/>
-        <updated>2025-05-07T17:35:17.000Z</updated>
-        <summary type="html"><![CDATA[BlackRock's iShares Bitcoin Trust (IBIT) has continued to dominate the Bitcoin ETF market with a consistent inflow streak, reaching 16 consecutive days of net inflows totaling nearly $7 billion in 2025]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Korea Front-Runner Lee Jae-Myung Vows to Approve Spot Bitcoin ETFs, Cut Exchange Fees as Both Parties Back Crypto]]></title>
-        <id>https://thedefiant.io/news/regulation/south-korea-front-runner-lee-jae-myung-vows-to-approve-spot-bitcoin-etfs-cut-6058003d</id>
-        <link href="https://thedefiant.io/news/regulation/south-korea-front-runner-lee-jae-myung-vows-to-approve-spot-bitcoin-etfs-cut-6058003d"/>
-        <updated>2025-05-07T16:35:17.000Z</updated>
-        <summary type="html"><![CDATA[South Korea's presidential front-runner Lee Jae-myung has pledged to approve spot Bitcoin exchange-traded funds (ETFs) if elected in the upcoming election]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
