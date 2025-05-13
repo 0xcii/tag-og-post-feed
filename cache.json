@@ -12,6 +12,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/la-vape-cabal-member-announces-departure-from-degods-nft-project",
+          "author": "Squiffs",
+          "description": "Frank founded DeGods in 2021 and disappeared from social media for several months at the start of the year.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/la-vape-cabal-member-announces-departure-from-degods-nft-project",
+          "publishedOn": "2025-05-13T14:13:25.000Z",
+          "wordCount": 986,
+          "title": "LA Vape Cabal Member Announces Departure From DeGods NFT Project",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/14c991f15789c3a4550f55fc32f8f9dc4c3abb78-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/14c991f15789c3a4550f55fc32f8f9dc4c3abb78-1555x875.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-launches-vbill-tokenized-u-s-treasury-fund-on-multiple-blockchains-24-7-9a842c39",
+          "author": "DeepNewz",
+          "description": "VanEck, a $120 billion asset manager, has launched its first tokenized U",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/vaneck-launches-vbill-tokenized-u-s-treasury-fund-on-multiple-blockchains-24-7-9a842c39",
+          "publishedOn": "2025-05-13T14:05:20.000Z",
+          "wordCount": 695,
+          "title": "VanEck Launches $VBILL, a Tokenized U.S. Treasury Fund, on Multiple Blockchains with 24/7 Liquidity",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2205cd2c6c3a6788dfc97f76f2dfa0cc44303651-872x781.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2205cd2c6c3a6788dfc97f76f2dfa0cc44303651-872x781.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/metaplanet-issues-y-2-25b-zero-interest-bonds-to-buy-bitcoin-targets-10000-btc-05294b2f",
           "author": "DeepNewz",
           "description": "Metaplanet, a Tokyo-based company, has issued ¥2",
@@ -122,7 +152,7 @@
           "description": "Meta Platforms Inc",
           "link": "https://thedefiant.io/news/nfts-and-web3/meta-plans-ethereum-based-stablecoin-integration-usdc-usdt-3-5-billion-users-3c66eb9c",
           "publishedOn": "2025-05-13T07:05:20.000Z",
-          "wordCount": 660,
+          "wordCount": 625,
           "title": "Meta Plans Ethereum-Based Stablecoin Integration With USDC, USDT for 3.5 Billion Users, Backed by BlackRock Tokenization",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3b14c3a3cbff206bdacaab334abb6588be3f95d2-1082x648.jpg",
@@ -1262,7 +1292,7 @@
           "description": "The premier Ethereum NFT collection’s floor price is back into six figures as Punks and XCOPY NFTs continue to outperform the rest of the market.",
           "link": "https://thedefiant.io/news/nfts-and-web3/cryptopunks-reclaim-usd100-000-and-xcopy-edition-sells-for-usd1-2-million",
           "publishedOn": "2025-05-09T20:45:18.000Z",
-          "wordCount": 946,
+          "wordCount": 911,
           "title": "CryptoPunks Reclaim $100,000 and XCOPY Edition Sells for $1.2 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5a9eb19ce052a41842e7511dba213320ef3dd701-1555x875.png",
@@ -1382,7 +1412,7 @@
           "description": "Virtuals Protocol continues to roll out updates to its AI agent token launch platform.",
           "link": "https://thedefiant.io/news/nfts-and-web3/ai-agent-token-virtual-rallies-to-multi-month-high",
           "publishedOn": "2025-05-09T17:45:18.000Z",
-          "wordCount": 1085,
+          "wordCount": 1050,
           "title": "AI Agent Token VIRTUAL Rallies to Multi-Month High",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0fff502a7391b3871b8da9351640fd359bf6bcb7-1555x875.png",
@@ -1442,7 +1472,7 @@
           "description": "The project's new ecosystem token is fueling renewed interest in Doodles NFTs.",
           "link": "https://thedefiant.io/news/nfts-and-web3/nft-project-doodles-launches-dood-token-on-solana-sales-surge-over-100",
           "publishedOn": "2025-05-09T14:54:19.000Z",
-          "wordCount": 1014,
+          "wordCount": 979,
           "title": "NFT Project Doodles Launches DOOD Token on Solana, Sales Surge Over 100%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/babc8edf5e2ad168556baebb0ebf5ddbae9500f2-1555x875.png",
@@ -1465,36 +1495,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b63e16d9ce8f3bb3d1cea21e31f3ad01c3a59aae-1200x831.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/solana-reclaims-170-surpasses-binance-coin-market-cap-8m-dapps-revenue-03f08772",
-          "author": "DeepNewz",
-          "description": "Solana (SOL) has experienced a notable surge, reclaiming the $170 price level and surpassing Binance Coin (BNB) in market capitalization for the first time in months",
-          "link": "https://thedefiant.io/news/markets/solana-reclaims-170-surpasses-binance-coin-market-cap-8m-dapps-revenue-03f08772",
-          "publishedOn": "2025-05-09T12:30:27.000Z",
-          "wordCount": 617,
-          "title": "Solana Reclaims $170, Surpasses Binance Coin in Market Cap with $8M dApps Revenue",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/39275bb5606647ca7614cecc4d4e837736e62faf-1179x648.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/39275bb5606647ca7614cecc4d4e837736e62faf-1179x648.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/metaplanet-buys-555-bitcoin-raises-25-million-via-zero-coupon-bonds-to-reach-btc-42b16d0b",
-          "author": "DeepNewz",
-          "description": "Metaplanet, a publicly traded investment firm based in Tokyo, has acquired an additional 555 Bitcoin valued at approximately $53",
-          "link": "https://thedefiant.io/news/blockchains/metaplanet-buys-555-bitcoin-raises-25-million-via-zero-coupon-bonds-to-reach-btc-42b16d0b",
-          "publishedOn": "2025-05-09T12:00:27.000Z",
-          "wordCount": 726,
-          "title": "Metaplanet Buys 555 Bitcoin, Raises $25 Million via Zero-Coupon Bonds to Reach 5,555 BTC—Largest Holder Outside North America",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f1196b29661a87207cbdfc904d72d1ec70acfb87-1200x666.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f1196b29661a87207cbdfc904d72d1ec70acfb87-1200x666.jpg"
         }
       ]
     }
