@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/top-3-defi-protocol-ether-fi-s-token-doubles-after-boosting-buybacks",
+          "author": "Leo Jakobson",
+          "description": "The decentralized liquid staking protocol’s founder cites the ‘fundamentals season’ narrative taking off as one reason for its success.",
+          "link": "https://thedefiant.io/news/defi/top-3-defi-protocol-ether-fi-s-token-doubles-after-boosting-buybacks",
+          "publishedOn": "2025-05-14T21:25:19.000Z",
+          "wordCount": 1065,
+          "title": "Top 3 DeFi Protocol Ether.fi’s Token Doubles After Boosting Buybacks",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e718b69f920392366651ad4273c86442264546e9-1555x875.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e718b69f920392366651ad4273c86442264546e9-1555x875.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/brazil-considers-first-yuan-denominated-sovereign-bonds-no-final-decision-38d6d1ff",
           "author": "DeepNewz",
           "description": "Brazilian government officials are considering issuing the country's first sovereign bonds denominated in Chinese yuan, commonly referred to as Panda Bonds",
@@ -1470,21 +1485,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8bdb6d03733da8ba9d153ead7020043bf8eee18-1555x875.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/blackrock-s-bitcoin-etf-attracts-5-billion-over-20-days-goldman-sachs-increases-7603933d",
-          "author": "DeepNewz",
-          "description": "BlackRock's iShares Bitcoin Trust (IBIT) has achieved a record-breaking streak of net inflows over the past 20 trading days, attracting over $5 billion in new funds, the longest such streak for any spot bitcoin ETF this year",
-          "link": "https://thedefiant.io/news/markets/blackrock-s-bitcoin-etf-attracts-5-billion-over-20-days-goldman-sachs-increases-7603933d",
-          "publishedOn": "2025-05-12T20:35:20.000Z",
-          "wordCount": 944,
-          "title": "BlackRock's Bitcoin ETF Attracts $5 Billion Over 20 Days, Goldman Sachs Increases Stake as Bitcoin Hits $104,368",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0a3f3ff46f79cdf78638de5c2d8c3275c05580db-1200x794.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0a3f3ff46f79cdf78638de5c2d8c3275c05580db-1200x794.jpg"
         }
       ]
     }
