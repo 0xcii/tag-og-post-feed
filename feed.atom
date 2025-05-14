@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-14T20:17:00.085Z</id>
+    <id>urn:2025-05-14T21:14:49.066Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-14T20:17:00.085Z</updated>
+    <updated>2025-05-14T21:14:49.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Brazil Considers First Yuan-Denominated Sovereign Bonds; No Final Decision, Proposes Stablecoin Transfer Restrictions]]></title>
+        <id>https://thedefiant.io/news/regulation/brazil-considers-first-yuan-denominated-sovereign-bonds-no-final-decision-38d6d1ff</id>
+        <link href="https://thedefiant.io/news/regulation/brazil-considers-first-yuan-denominated-sovereign-bonds-no-final-decision-38d6d1ff"/>
+        <updated>2025-05-14T21:05:21.000Z</updated>
+        <summary type="html"><![CDATA[Brazilian government officials are considering issuing the country's first sovereign bonds denominated in Chinese yuan, commonly referred to as Panda Bonds]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Dominates DeFi dApp Revenue]]></title>
+        <id>https://thedefiant.io/news/blockchains/solana-dominates-defi-dapp-revenue</id>
+        <link href="https://thedefiant.io/news/blockchains/solana-dominates-defi-dapp-revenue"/>
+        <updated>2025-05-14T21:05:16.000Z</updated>
+        <summary type="html"><![CDATA[Solana accounts for more than 50% of total dApp revenue after an explosive 2024.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Over 100,000 Bitcoin Withdrawn From Exchanges Including $312M From Binance; 2.4 Million Bitcoin Left Amid Supply Shock]]></title>
         <id>https://thedefiant.io/news/markets/over-100000-bitcoin-withdrawn-exchanges-including-312m-binance-2-4-million-left-bd09464c</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[BlackRock's iShares Bitcoin Trust (IBIT) has achieved a record-breaking streak of net inflows over the past 20 trading days, attracting over $5 billion in new funds, the longest such streak for any spot bitcoin ETF this year]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Chair Atkins Vows Rational Crypto Framework, Abandons Enforcement-First Approach]]></title>
-        <id>https://thedefiant.io/news/regulation/sec-chair-atkins-vows-rational-crypto-framework-abandons-enforcement-first-a0cc55b1</id>
-        <link href="https://thedefiant.io/news/regulation/sec-chair-atkins-vows-rational-crypto-framework-abandons-enforcement-first-a0cc55b1"/>
-        <updated>2025-05-12T19:35:20.000Z</updated>
-        <summary type="html"><![CDATA[U]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Tops $40 Billion in Net Deposits, Morpho Surpasses $1 Billion on Base]]></title>
-        <id>https://thedefiant.io/news/defi/aave-tops-usd40-billion-in-net-deposits-morpho-surpasses-usd1-billion-on-base</id>
-        <link href="https://thedefiant.io/news/defi/aave-tops-usd40-billion-in-net-deposits-morpho-surpasses-usd1-billion-on-base"/>
-        <updated>2025-05-12T19:19:09.000Z</updated>
-        <summary type="html"><![CDATA[With ETH surging over 30% in the past week, major lending protocols are recording TVL highs as DeFi activity gains momentum.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
