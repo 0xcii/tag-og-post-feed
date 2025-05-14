@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/metaplanet-buys-1241-btc-surpasses-el-salvador-6796-btc-semler-scientific-holds-62b78ea4",
+          "author": "DeepNewz",
+          "description": "Tokyo-listed Metaplanet has surpassed El Salvador in total Bitcoin holdings following its recent purchase of 1,241 BTC, valued at approximately $126",
+          "link": "https://thedefiant.io/news/markets/metaplanet-buys-1241-btc-surpasses-el-salvador-6796-btc-semler-scientific-holds-62b78ea4",
+          "publishedOn": "2025-05-14T09:35:21.000Z",
+          "wordCount": 726,
+          "title": "Metaplanet Buys 1,241 BTC, Surpasses El Salvador With 6,796 BTC; Semler Scientific Holds 3,808 BTC",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/360428489147e37baf5e34ddf3e7b134b2e540de-1200x672.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/360428489147e37baf5e34ddf3e7b134b2e540de-1200x672.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/falconx-partners-standard-chartered-to-serve-institutional-crypto-investors-fiat-09cad9eb",
           "author": "DeepNewz",
           "description": "FalconX, a cryptocurrency platform, has partnered with Standard Chartered to enhance services for institutional crypto investors",
@@ -152,7 +167,7 @@
           "description": "Tether, the stablecoin issuer, has purchased 4,812",
           "link": "https://thedefiant.io/news/blockchains/tether-buys-4812-22-btc-458m-to-fund-twenty-one-s-spac-merger-cantor-equity-db97b623",
           "publishedOn": "2025-05-14T00:35:21.000Z",
-          "wordCount": 634,
+          "wordCount": 327,
           "title": "Tether Buys 4,812.22 BTC for $458M to Fund Twenty One's SPAC Merger with Cantor Equity Partners",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5d53f52770932990808252dd77c04f9d44f206e7-1200x675.jpg",
@@ -182,7 +197,7 @@
           "description": "Michael Saylor's company, Strategy (formerly MicroStrategy), has positioned itself as a leading entity in the digital asset space by claiming to be \"setting the standard in the digital era\" and drawing comparisons to Berkshire Hathaway",
           "link": "https://thedefiant.io/news/blockchains/michael-saylor-s-strategy-formerly-microstrategy-owns-568840-bitcoins-berkshire-95516a03",
           "publishedOn": "2025-05-13T23:30:21.000Z",
-          "wordCount": 682,
+          "wordCount": 711,
           "title": "Michael Saylor's Strategy, Formerly MicroStrategy, Owns 568,840 Bitcoins as 'Berkshire Hathaway of Digital Era'",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/74f97f2102a0a4a45757cf8dca2feb71bf681bc9-1024x512.jpg",
@@ -227,7 +242,7 @@
           "description": "Steak 'n Shake, the American restaurant chain, has updated its main website to prominently feature Bitcoin and announced plans to accept Bitcoin as a payment method at all its locations starting May 16, 2025",
           "link": "https://thedefiant.io/news/blockchains/steak-n-shake-features-bitcoin-on-website-accepts-payments-all-locations-16-cf5e27f1",
           "publishedOn": "2025-05-13T22:05:21.000Z",
-          "wordCount": 689,
+          "wordCount": 718,
           "title": "Steak 'n Shake Features Bitcoin on Website, Accepts Payments at All Locations Starting May 16",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b73f71831876cd0d43f397fdd147a4be941b9f51-950x1200.jpg",
@@ -477,7 +492,7 @@
           "description": "A Bitcoin wallet that had been dormant since April 2014 recently moved 300 BTC, valued at approximately $31",
           "link": "https://thedefiant.io/news/blockchains/dormant-bitcoin-wallet-april-2014-moves-300-btc-worth-31-1m-to-bech32-address-5142ea79",
           "publishedOn": "2025-05-13T15:35:21.000Z",
-          "wordCount": 664,
+          "wordCount": 675,
           "title": "Dormant Bitcoin Wallet From April 2014 Moves 300 BTC Worth $31.1M to Bech32 Address, Originally Valued at $134K",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0fdae7e6a9fe0bfd27c3d79bf9a3c82e0ac70e57-1200x936.jpg",
@@ -507,7 +522,7 @@
           "description": "NEAR Protocol has announced a major performance upgrade on its mainnet, achieving 600 millisecond block times and finality in 1",
           "link": "https://thedefiant.io/news/blockchains/near-protocol-launches-600ms-blocks-1-2-second-finality-unlocking-defi-use-cases-490247d4",
           "publishedOn": "2025-05-13T15:35:21.000Z",
-          "wordCount": 631,
+          "wordCount": 642,
           "title": "NEAR Protocol Launches 600ms Blocks, 1.2-Second Finality Unlocking DeFi Use Cases",
           "imageUrl": null
         },
@@ -517,7 +532,7 @@
           "description": "Meta Platforms Inc",
           "link": "https://thedefiant.io/news/blockchains/meta-explores-usdc-usdt-integration-on-ethereum-content-creators-3b79049c",
           "publishedOn": "2025-05-13T15:05:20.000Z",
-          "wordCount": 643,
+          "wordCount": 654,
           "title": "Meta Explores USDC and USDT Integration on Ethereum for Content Creators",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3b14c3a3cbff206bdacaab334abb6588be3f95d2-1082x648.jpg",
@@ -532,7 +547,7 @@
           "description": "Bitcoin's total supply is capped at 21 million coins, a fixed limit that distinguishes it from traditional fiat currencies",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-s-supply-capped-21-million-coins-amid-fed-printing-465-million-daily-b237747f",
           "publishedOn": "2025-05-13T15:05:20.000Z",
-          "wordCount": 638,
+          "wordCount": 649,
           "title": "Bitcoin's Supply Capped at 21 Million Coins Amid Fed Printing $465 Million Daily and Gold Inflation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6c436b34e9c990ee66c817415cd6b8e8756f8285-1200x1200.jpg",
@@ -547,7 +562,7 @@
           "description": "Brave, the privacy-focused web browser, has announced the integration of Cardano's blockchain into its multi-chain wallet, enabling its 86 million users to access ADA and Cardano tokens seamlessly",
           "link": "https://thedefiant.io/news/blockchains/brave-browser-integrates-cardano-blockchain-ada-access-86-million-users-input-hk-cc55a119",
           "publishedOn": "2025-05-13T15:05:20.000Z",
-          "wordCount": 697,
+          "wordCount": 708,
           "title": "Brave Browser Integrates Cardano Blockchain, ADA Access for 86 Million Users in Partnership with Input Output HK",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/828c45bf2cacb321f14b747ff19ca28f2105834e-1200x675.jpg",
@@ -637,7 +652,7 @@
           "description": "StarkWare Ltd announced that its StarkEx scaling solution for Ethereum has processed over 1 billion transactions since its launch five years ago",
           "link": "https://thedefiant.io/news/blockchains/starkwares-starkex-surpasses-1-billion-ethereum-transactions-1000-tps-1-trillion-a0a7edbc",
           "publishedOn": "2025-05-13T11:35:20.000Z",
-          "wordCount": 698,
+          "wordCount": 709,
           "title": "StarkWare’s StarkEx Surpasses 1 Billion Ethereum Transactions with 1,000 TPS, $1 Trillion Secured; FocusTree Onboards 220k Users",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9a062d917729e4add705269794bc6d42a208415e-1200x672.jpg",
@@ -772,7 +787,7 @@
           "description": "The Blockchain Group, a French technology company and the European Union's first Bitcoin treasury company, has announced plans to raise €12",
           "link": "https://thedefiant.io/news/blockchains/eu-s-first-bitcoin-treasury-company-the-blockchain-group-plans-eur12-1-million-058baca8",
           "publishedOn": "2025-05-13T02:35:20.000Z",
-          "wordCount": 630,
+          "wordCount": 641,
           "title": "EU's First Bitcoin Treasury Company The Blockchain Group Plans €12.1 Million Bond to Expand Bitcoin Holdings",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5fd40f3dd4fa08e1aa02d00381eba14f31161931-870x590.png",
@@ -862,7 +877,7 @@
           "description": "Circle, the issuer of the USD Coin (USDC) stablecoin, minted an additional $250 million USDC on the Solana blockchain, according to multiple sources on May 12, 2025",
           "link": "https://thedefiant.io/news/blockchains/circle-mints-250-million-usdc-stablecoin-on-solana-blockchain-via-usdc-treasury-d66699e4",
           "publishedOn": "2025-05-12T23:05:20.000Z",
-          "wordCount": 681,
+          "wordCount": 692,
           "title": "Circle Mints $250 Million USDC Stablecoin on Solana Blockchain via USDC Treasury on May 12, 2025",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/289c6b1f804de3c37238f251263c74b33c147e31-1200x813.jpg",
@@ -1032,7 +1047,7 @@
           "description": "Tether's USDT stablecoin supply has reached a new all-time high, surpassing $150 billion in total market capitalization",
           "link": "https://thedefiant.io/news/blockchains/tether-usdt-supply-hits-150-billion-tron-surpasses-ethereum-73-7b-stablecoin-1-3589092a",
           "publishedOn": "2025-05-12T19:05:20.000Z",
-          "wordCount": 621,
+          "wordCount": 650,
           "title": "Tether USDT Supply Hits $150 Billion; Tron Surpasses Ethereum with $73.7B, Stablecoin Volume at $1.82T",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9cbdd8eb4cbcd2fcb0e373aea895f89a0466683c-1200x791.jpg",
@@ -1107,7 +1122,7 @@
           "description": "Galaxy Digital transferred 220,550 TRUMP tokens, valued at approximately $3",
           "link": "https://thedefiant.io/news/blockchains/galaxy-digital-transfers-3-08-million-trump-tokens-to-binance-amid-2-billion-uae-5661f03e",
           "publishedOn": "2025-05-12T15:30:27.000Z",
-          "wordCount": 591,
+          "wordCount": 620,
           "title": "Galaxy Digital Transfers $3.08 Million in TRUMP Tokens to Binance Amid $2 Billion UAE Investment Using Trump Stablecoin",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/300424ad219b0f824f9d3c72bb22c6cde8deb554-1200x741.jpg",
@@ -1122,7 +1137,7 @@
           "description": "American Bitcoin, a Bitcoin mining company backed by the Trump family, is set to go public through a merger with Gryphon Digital Mining",
           "link": "https://thedefiant.io/news/blockchains/trump-family-backed-american-bitcoin-to-go-public-on-nasdaq-abtc-retaining-98-c44ddcdf",
           "publishedOn": "2025-05-12T15:05:27.000Z",
-          "wordCount": 746,
+          "wordCount": 757,
           "title": "Trump Family-Backed American Bitcoin to Go Public on Nasdaq as ABTC, Retaining 98% Ownership",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cefe08c2aab0dfc06968263281a73b5f63d671ab-1200x911.jpg",
@@ -1182,7 +1197,7 @@
           "description": "MicroStrategy disclosed that its Bitcoin accumulation arm, Strategy, bought 13,390 bitcoins between 5 and 11 May for about $1",
           "link": "https://thedefiant.io/news/blockchains/microstrategy-adds-13390-bitcoin-1-34-billion-bringing-holdings-to-568840-btc-5f281aba",
           "publishedOn": "2025-05-12T13:00:27.000Z",
-          "wordCount": 649,
+          "wordCount": 660,
           "title": "MicroStrategy Adds 13,390 Bitcoin for $1.34 Billion, Bringing Holdings to 568,840 BTC",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8d26012290661f4f3b01bb0f9747ede060a00bd9-929x1200.jpg",
@@ -1227,7 +1242,7 @@
           "description": "David Bailey, an advisor to President Trump, has announced the merger of his bitcoin-native holding company Nakamoto with KindlyMD (NASDAQ: KDLY) to establish a public market Bitcoin treasury company",
           "link": "https://thedefiant.io/news/blockchains/nakamoto-kindlymd-reverse-merger-raises-710m-bitcoin-treasury-kdly-up-450-btc-0445e09d",
           "publishedOn": "2025-05-12T12:00:27.000Z",
-          "wordCount": 724,
+          "wordCount": 735,
           "title": "Nakamoto, KindlyMD in Reverse Merger; Raises $710M for Bitcoin Treasury, KDLY Up 450%, $BTC and $ABTC Tickers Announced",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4d1d72086bba00cca797d7214b04f464dc39a321-1200x668.jpg",
@@ -1470,21 +1485,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/09718317e795b47286d6e3e15efb2bd0c4df1a81-806x736.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/unichain-dominates-uniswap-v4-after-rollup-boost-launch",
-          "author": "Squiffs",
-          "description": "Unichain was launched as an attempt to solve issues with the Ethereum mainnet and liquidity fragmentation across L2s, Uniswap’s product lead said in an interview.",
-          "link": "https://thedefiant.io/news/defi/unichain-dominates-uniswap-v4-after-rollup-boost-launch",
-          "publishedOn": "2025-05-10T22:25:34.000Z",
-          "wordCount": 1202,
-          "title": "Unichain Dominates Uniswap V4 Activity After Launching Rollup-Boost Feature",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/39435f8b72c8a632fcb1e397674086f962e2d133-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/39435f8b72c8a632fcb1e397674086f962e2d133-1555x875.png"
         }
       ]
     }
