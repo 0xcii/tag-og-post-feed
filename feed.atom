@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-20T13:31:27.544Z</id>
+    <id>urn:2025-05-20T14:18:34.615Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-20T13:31:27.544Z</updated>
+    <updated>2025-05-20T14:18:34.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Buterin Proposes New Type of Node for Ethereum]]></title>
+        <id>https://thedefiant.io/news/blockchains/vitalik-buterin-changes-to-ethereum-scaling-roadmap</id>
+        <link href="https://thedefiant.io/news/blockchains/vitalik-buterin-changes-to-ethereum-scaling-roadmap"/>
+        <updated>2025-05-20T13:58:10.000Z</updated>
+        <summary type="html"><![CDATA[The changes to the scaling roadmap would introduce “partially stateless nodes” to make running a personal node easier.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Surpasses $2.1 Trillion Market Cap, Price Above $105,000, Doubling Berkshire Hathaway and Reaching $906 Billion Realized Cap]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-surpasses-2-1-trillion-market-cap-price-above-105000-doubling-berkshire-a20a7a4f</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[FTX Recovery Trust, the entity overseeing the bankruptcy estate of the collapsed crypto exchange FTX Trading Ltd]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Dips as Fed Remarks Spark Volatility]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-market-dips-as-fed-remarks-spark-volatility</id>
-        <link href="https://thedefiant.io/news/markets/crypto-market-dips-as-fed-remarks-spark-volatility"/>
-        <updated>2025-05-15T17:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin consolidates above $103,000 while Ethereum, Solana, and XRP retreat.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
