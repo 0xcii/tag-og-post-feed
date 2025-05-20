@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-20T18:26:41.244Z</id>
+    <id>urn:2025-05-20T19:14:18.962Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-20T18:26:41.244Z</updated>
+    <updated>2025-05-20T19:14:18.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binance Moves to Dismiss FTX's $1.76B Clawback Suit, Citing Hong Kong Law and Sam Bankman-Fried's 25-Year Sentence]]></title>
+        <id>https://thedefiant.io/news/cefi/binance-moves-to-dismiss-ftx-s-1-76b-clawback-suit-citing-hong-kong-law-sam-s-25-224a011e</id>
+        <link href="https://thedefiant.io/news/cefi/binance-moves-to-dismiss-ftx-s-1-76b-clawback-suit-citing-hong-kong-law-sam-s-25-224a011e"/>
+        <updated>2025-05-20T19:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Binance has filed a motion in a Delaware bankruptcy court to dismiss a $1]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave Now Commands a Fifth of Total DeFi TVL]]></title>
+        <id>https://thedefiant.io/news/defi/aave-now-commands-a-fifth-of-total-defi-tvl</id>
+        <link href="https://thedefiant.io/news/defi/aave-now-commands-a-fifth-of-total-defi-tvl"/>
+        <updated>2025-05-20T18:58:29.000Z</updated>
+        <summary type="html"><![CDATA[The lending giant has surpassed $40 billion in TVL, outpacing the broader DeFi market.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardano Founder ‘Deeply Hurt’ by Theft Claims, Announces Audit]]></title>
+        <id>https://thedefiant.io/news/blockchains/cardano-hoskinson-allegations-audit</id>
+        <link href="https://thedefiant.io/news/blockchains/cardano-hoskinson-allegations-audit"/>
+        <updated>2025-05-20T18:39:45.000Z</updated>
+        <summary type="html"><![CDATA[Allegations that Charles Hoskinson misappropriated over 300 million ADA are at the center of a row in the Cardano community.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zeus Network Integrates Chainlink CCIP and Proof of Reserves for Solana-Native Bitcoin Cross-Chain Transfers Including Base]]></title>
+        <id>https://thedefiant.io/news/blockchains/zeus-network-integrates-chainlink-ccip-proof-reserves-solana-native-bitcoin-base-2933be1c</id>
+        <link href="https://thedefiant.io/news/blockchains/zeus-network-integrates-chainlink-ccip-proof-reserves-solana-native-bitcoin-base-2933be1c"/>
+        <updated>2025-05-20T18:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Zeus Network, a permissionless multichain layer that connects Bitcoin and other leading blockchains to the Solana ecosystem, has integrated Chainlink's Cross-Chain Interoperability Protocol (CCIP) and Proof of Reserves]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Backed by Eric Schmidt, Keeta Network Token Surges 600% in Two Weeks]]></title>
         <id>https://thedefiant.io/news/blockchains/backed-by-eric-schmidt-keeta-network-token-surges-600-in-two-weeks</id>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/blackrocks-3-billion-tokenized-treasury-fund-sbuidl-integrates-euler-on-using-a027b803"/>
         <updated>2025-05-15T23:05:12.000Z</updated>
         <summary type="html"><![CDATA[BlackRock has launched the first direct decentralized finance (DeFi) integration of its nearly $3 billion tokenized Treasury fund, sBUIDL, with Euler Finance on the Avalanche blockchain network]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brazilian Company Méliuz Buys $28.4 Million Bitcoin With Shareholders' Overwhelming Approval, Becomes First Bitcoin Treasury Company]]></title>
-        <id>https://thedefiant.io/news/markets/brazilian-company-meliuz-buys-28-4-million-bitcoin-shareholders-overwhelming-61d6ea58</id>
-        <link href="https://thedefiant.io/news/markets/brazilian-company-meliuz-buys-28-4-million-bitcoin-shareholders-overwhelming-61d6ea58"/>
-        <updated>2025-05-15T23:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Brazilian publicly listed company Méliuz has become the first Bitcoin treasury company in Brazil after acquiring $28]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoonPay Partners with Mastercard on USDT Stablecoin Card]]></title>
-        <id>https://thedefiant.io/news/defi/moonpay-partners-with-mastercard-on-usdt-stablecoin-card</id>
-        <link href="https://thedefiant.io/news/defi/moonpay-partners-with-mastercard-on-usdt-stablecoin-card"/>
-        <updated>2025-05-15T22:57:30.000Z</updated>
-        <summary type="html"><![CDATA[Crypto fintech MoonPay announced a virtual Mastercard that will let users make purchases with USDT, something Tether’s CEO calls ‘the best idea after sliced bread.’]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia's Central Bank Recognizes Bitcoin's 11.2% April Surge, Saudi Arabia Invests in MicroStrategy]]></title>
-        <id>https://thedefiant.io/news/markets/russia-s-central-bank-recognizes-bitcoin-s-11-2-april-surge-saudi-arabia-invests-a1b9e488</id>
-        <link href="https://thedefiant.io/news/markets/russia-s-central-bank-recognizes-bitcoin-s-11-2-april-surge-saudi-arabia-invests-a1b9e488"/>
-        <updated>2025-05-15T22:05:21.000Z</updated>
-        <summary type="html"><![CDATA[The Central Bank of Russia has recognized Bitcoin as the highest-performing asset in the country's financial markets for April 2025, with an 11]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mubadala Invests $408.5 Million in Bitcoin Via BlackRock's $IBIT ETF]]></title>
-        <id>https://thedefiant.io/news/markets/mubadala-invests-408-5-million-bitcoin-via-blackrock-s-ibit-etf-faa1223d</id>
-        <link href="https://thedefiant.io/news/markets/mubadala-invests-408-5-million-bitcoin-via-blackrock-s-ibit-etf-faa1223d"/>
-        <updated>2025-05-15T21:35:21.000Z</updated>
-        <summary type="html"><![CDATA[The Abu Dhabi sovereign wealth fund, Mubadala, has disclosed a significant investment in Bitcoin through BlackRock's spot Bitcoin ETF, holding 8,726,972 shares valued at approximately $408]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
