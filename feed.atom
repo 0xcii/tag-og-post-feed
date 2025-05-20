@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-20T22:17:13.433Z</id>
+    <id>urn:2025-05-20T23:16:55.301Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-20T22:17:13.433Z</updated>
+    <updated>2025-05-20T23:16:55.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Texas Passes SB21, Becomes Third State to Seek Governor's Approval for Bitcoin Investment]]></title>
+        <id>https://thedefiant.io/news/regulation/texas-passes-sb21-becomes-third-state-to-seek-governor-s-approval-bitcoin-b22f7c32</id>
+        <link href="https://thedefiant.io/news/regulation/texas-passes-sb21-becomes-third-state-to-seek-governor-s-approval-bitcoin-b22f7c32"/>
+        <updated>2025-05-20T22:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Texas, the 8th largest economy in the world, has passed the Texas Strategic Bitcoin Reserve and Investment Act, known as SB21, allowing the state to invest in Bitcoin]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bancor Sues Uniswap Over Patent Infringement on Automated Market Maker Technology Used Since 2018]]></title>
         <id>https://thedefiant.io/news/defi/bancor-sues-uniswap-over-patent-infringement-on-automated-market-maker-used-2018-6e295be5</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The growth of decentralized finance AI, or DeFAI, means the future of DeFi will no longer be human-coordinated, according to Binance Research.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukraine MP Yaroslav Zheleznyak Nears Bill to Create 40,000 BTC National Reserve With Binance Support]]></title>
-        <id>https://thedefiant.io/news/regulation/ukraine-mp-yaroslav-zheleznyak-nears-bill-to-create-40000-btc-national-reserve-0cf32ec5</id>
-        <link href="https://thedefiant.io/news/regulation/ukraine-mp-yaroslav-zheleznyak-nears-bill-to-create-40000-btc-national-reserve-0cf32ec5"/>
-        <updated>2025-05-16T08:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine's parliament is in the final stages of drafting legislation to establish a national strategic Bitcoin reserve in partnership with Binance]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
