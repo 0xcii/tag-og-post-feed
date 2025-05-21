@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/nasdaq-listed-btcs-buys-3450-eth-2441-boosts-holdings-to-12500-eth-raises-57-8m-b555ea96",
+          "author": "DeepNewz",
+          "description": "BTCS Inc",
+          "link": "https://thedefiant.io/news/blockchains/nasdaq-listed-btcs-buys-3450-eth-2441-boosts-holdings-to-12500-eth-raises-57-8m-b555ea96",
+          "publishedOn": "2025-05-21T09:00:47.000Z",
+          "wordCount": 4437,
+          "title": "Nasdaq-Listed BTCS Buys 3,450 ETH at $2,441, Boosts Holdings to 12,500 ETH, Raises $57.8M for More",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/450c81b78cea7d3c30ca55cfe9bf48a302f943e2-900x506.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/450c81b78cea7d3c30ca55cfe9bf48a302f943e2-900x506.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/blackrock-fidelity-buy-over-590-million-bitcoin-ethereum-blackrock-hits-new-273ba084",
           "author": "DeepNewz",
           "description": "BlackRock, the world's largest asset manager, has made substantial purchases of cryptocurrencies, acquiring over $590 million worth of Bitcoin and Ethereum in recent days",
@@ -92,7 +107,7 @@
           "description": "Bancor has filed a lawsuit against Uniswap, alleging that the decentralized exchange infringed on its patents related to smart contract-based decentralized exchange (DEX) technology",
           "link": "https://thedefiant.io/news/defi/bancor-sues-uniswap-over-patent-infringement-on-automated-market-maker-used-2018-6e295be5",
           "publishedOn": "2025-05-20T22:00:47.000Z",
-          "wordCount": 4564,
+          "wordCount": 4558,
           "title": "Bancor Sues Uniswap Over Patent Infringement on Automated Market Maker Technology Used Since 2018",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8d3add732e531fb2cf2c2c6cb0fa815fa493e99c-1024x1024.jpg",
@@ -137,7 +152,7 @@
           "description": "The lawsuit claims Uniswap has used Bancor’s patented automated market maker technology without permission since 2018.",
           "link": "https://thedefiant.io/news/defi/bancor-sues-uniswap-for-allegedly-stealing-core-defi-technology",
           "publishedOn": "2025-05-20T20:56:27.000Z",
-          "wordCount": 4984,
+          "wordCount": 4978,
           "title": "Bancor Sues Uniswap for Allegedly Stealing Core DeFi Technology",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bcd74c5e8526ae20abade6b6f7c26686302a9595-1555x875.png",
@@ -197,7 +212,7 @@
           "description": "The lending giant has surpassed $24 billion in TVL, outpacing the broader DeFi market.",
           "link": "https://thedefiant.io/news/defi/aave-now-commands-a-fifth-of-total-defi-tvl",
           "publishedOn": "2025-05-20T18:58:29.000Z",
-          "wordCount": 4859,
+          "wordCount": 4853,
           "title": "Aave Now Commands a Fifth of Total DeFi TVL",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/282128bb3167e6a4ca99478976c4c55d9ccd7202-1555x875.png",
@@ -587,7 +602,7 @@
           "description": "The Sky Protocol has officially transitioned to using SKY as its sole governance token, replacing MKR",
           "link": "https://thedefiant.io/news/defi/sky-protocol-migrates-26-mkr-to-sky-governance-token-launches-usds-staking-0dc89333",
           "publishedOn": "2025-05-19T20:05:17.000Z",
-          "wordCount": 4633,
+          "wordCount": 4627,
           "title": "Sky Protocol Migrates 26% MKR to SKY Governance Token, Launches USDS Staking Rewards, Penalty From September",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/105e3c38c866af66cf645506aa712ef964584ce0-1200x555.png",
@@ -737,7 +752,7 @@
           "description": "Chainlink's Cross-Chain Interoperability Protocol (CCIP) has gone live on the Solana mainnet, enabling developers on the Solana blockchain to access Chainlink's Data Feeds, Data Streams, and the CCIP standard for cross-chain messaging",
           "link": "https://thedefiant.io/news/defi/chainlink-ccip-launches-on-solana-mainnet-unlocking-18-billion-assets-boosting-0bacc12a",
           "publishedOn": "2025-05-19T14:05:17.000Z",
-          "wordCount": 4676,
+          "wordCount": 4670,
           "title": "Chainlink CCIP Launches on Solana Mainnet Unlocking $18 Billion in Assets and Boosting DeFi with Data Feeds and Streams",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e8fa402aca1f33ead173c6e4c9596f3e36ad4829-1200x1200.jpg",
@@ -1022,7 +1037,7 @@
           "description": "BlackRock has launched its $3 billion tokenized treasury fund, BUIDL, into the decentralized finance (DeFi) ecosystem for the first time",
           "link": "https://thedefiant.io/news/defi/blackrocks-3-billion-tokenized-fund-buidl-sbuidl-token-launch-on-avalanche-defi-91342684",
           "publishedOn": "2025-05-18T13:05:17.000Z",
-          "wordCount": 4677,
+          "wordCount": 4671,
           "title": "BlackRock’s $3 Billion Tokenized Fund BUIDL and sBUIDL Token Launch on Avalanche DeFi Ahead of London Summit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/401fdcc11cb1a9488b545ceb05b574537d1388c6-1200x675.jpg",
@@ -1112,7 +1127,7 @@
           "description": "The WLFI governance proposal to airdrop USD 1 to eligible token holders has been officially approved",
           "link": "https://thedefiant.io/news/defi/trump-backed-wlfi-approves-usd-1-airdrop-37-million-holders-over-40-votes-5-2faab9ab",
           "publishedOn": "2025-05-17T16:35:17.000Z",
-          "wordCount": 4525,
+          "wordCount": 4519,
           "title": "Trump-Backed WLFI Approves USD 1 Airdrop for 37 Million Holders, Over 40% Votes From 5 Wallets",
           "imageUrl": null
         },
@@ -1122,7 +1137,7 @@
           "description": "TVL across Ethereum restaking protocols has dropped 37% from its December 2024 peak.",
           "link": "https://thedefiant.io/news/defi/ethereum-liquid-restaking-sector-slumps-as-incentives-dry-up",
           "publishedOn": "2025-05-17T12:59:00.000Z",
-          "wordCount": 5414,
+          "wordCount": 5408,
           "title": "Ethereum Liquid Restaking Sector Slumps as Incentives Dry Up",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d8209ddbec6cc33c208af1e9e69cb355c52d8033-1555x875.png",
@@ -1402,7 +1417,7 @@
           "description": "The Solana-based memecoin launchpad began to share revenue generated by its PumpSwap DEX with coin creators on May 12.",
           "link": "https://thedefiant.io/news/defi/pumpfun-founder-teases-community-takeover-feature-for-revenue-sharing",
           "publishedOn": "2025-05-16T15:51:34.000Z",
-          "wordCount": 4809,
+          "wordCount": 4803,
           "title": "PumpFun Founder Teases Community Takeover Feature for Revenue Sharing",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca57ac73918b1afb7e10bfc6dcc511e9c18f1272-1555x875.png",
@@ -1475,21 +1490,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/46ed8f19199830fc7b0a4c78ae1f14b47cd6de74-1200x652.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/over-25000-wallets-upgrade-to-eip-7702-eth-jumps-20-dubai-partners-government-a2ab2a27",
-          "author": "DeepNewz",
-          "description": "Following the recent launch of the Ethereum Improvement Proposal 7702 (EIP-7702) known as the Pectra upgrade, there has been a marked increase in smart wallet adoption across multiple blockchain networks",
-          "link": "https://thedefiant.io/news/blockchains/over-25000-wallets-upgrade-to-eip-7702-eth-jumps-20-dubai-partners-government-a2ab2a27",
-          "publishedOn": "2025-05-16T12:00:43.000Z",
-          "wordCount": 4758,
-          "title": "Over 25,000 Wallets Upgrade to EIP-7702 as ETH Jumps 20% and Dubai Partners for Government Crypto Payments",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5fc1456dba381b7960b3a0a13cef8309bcbf214e-939x593.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5fc1456dba381b7960b3a0a13cef8309bcbf214e-939x593.png"
         }
       ]
     }
