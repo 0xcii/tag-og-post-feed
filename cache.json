@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/germany-sold-49858-bitcoin-2-89-billion-june-july-2024-missing-over-2-3-billion-8dd1711e",
+          "author": "DeepNewz",
+          "description": "The German government sold 49,858 Bitcoin (BTC) between June and July 2024 for approximately $2",
+          "link": "https://thedefiant.io/news/markets/germany-sold-49858-bitcoin-2-89-billion-june-july-2024-missing-over-2-3-billion-8dd1711e",
+          "publishedOn": "2025-05-21T06:00:47.000Z",
+          "wordCount": 4638,
+          "title": "Germany Sold 49,858 Bitcoin for $2.89 Billion in June-July 2024, Missing Over $2.3 Billion as BTC Value Hits $5.3 Billion",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/67660bb46b2004af11505273fc7726ccc195a785-1200x1200.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/67660bb46b2004af11505273fc7726ccc195a785-1200x1200.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/french-firm-the-blockchain-group-raises-eur8-6-million-46-discount-to-boost-886cbdd7",
           "author": "DeepNewz",
           "description": "The Blockchain Group, a French company, has raised €8",
@@ -1475,21 +1490,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a542e034e59c66c6bed4b93090a2762be3c3c1a1-1200x631.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/trump-backed-world-liberty-financial-acquires-3-64m-eos-tokens-3m-on-bnb-chain-6b4f82e6",
-          "author": "DeepNewz",
-          "description": "World Liberty Financial, a project backed by Donald Trump, has recently purchased 3",
-          "link": "https://thedefiant.io/news/markets/trump-backed-world-liberty-financial-acquires-3-64m-eos-tokens-3m-on-bnb-chain-6b4f82e6",
-          "publishedOn": "2025-05-16T11:00:43.000Z",
-          "wordCount": 4546,
-          "title": "Trump-Backed World Liberty Financial Acquires 3.64M EOS Tokens for $3M on BNB Chain via PancakeSwap",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7664cb09fc2606c23ecaada93a0435d4e9508ebb-1034x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7664cb09fc2606c23ecaada93a0435d4e9508ebb-1034x1200.jpg"
         }
       ]
     }
