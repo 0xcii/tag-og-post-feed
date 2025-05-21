@@ -12,12 +12,27 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/blackrock-fidelity-buy-over-590-million-bitcoin-ethereum-blackrock-hits-new-273ba084",
+          "author": "DeepNewz",
+          "description": "BlackRock, the world's largest asset manager, has made substantial purchases of cryptocurrencies, acquiring over $590 million worth of Bitcoin and Ethereum in recent days",
+          "link": "https://thedefiant.io/news/markets/blackrock-fidelity-buy-over-590-million-bitcoin-ethereum-blackrock-hits-new-273ba084",
+          "publishedOn": "2025-05-21T08:00:47.000Z",
+          "wordCount": 4685,
+          "title": "BlackRock and Fidelity Buy Over $590 Million in Bitcoin and Ethereum, BlackRock Hits New Bitcoin Holding Record",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0f921d142a9887c9b991140cad6f55ddae7e0d88-1200x675.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0f921d142a9887c9b991140cad6f55ddae7e0d88-1200x675.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/germany-sold-49858-bitcoin-2-89-billion-june-july-2024-missing-over-2-3-billion-8dd1711e",
           "author": "DeepNewz",
           "description": "The German government sold 49,858 Bitcoin (BTC) between June and July 2024 for approximately $2",
           "link": "https://thedefiant.io/news/markets/germany-sold-49858-bitcoin-2-89-billion-june-july-2024-missing-over-2-3-billion-8dd1711e",
           "publishedOn": "2025-05-21T06:00:47.000Z",
-          "wordCount": 4638,
+          "wordCount": 4632,
           "title": "Germany Sold 49,858 Bitcoin for $2.89 Billion in June-July 2024, Missing Over $2.3 Billion as BTC Value Hits $5.3 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/67660bb46b2004af11505273fc7726ccc195a785-1200x1200.jpg",
@@ -32,7 +47,7 @@
           "description": "The Blockchain Group, a French company, has raised €8",
           "link": "https://thedefiant.io/news/blockchains/french-firm-the-blockchain-group-raises-eur8-6-million-46-discount-to-boost-886cbdd7",
           "publishedOn": "2025-05-21T01:00:47.000Z",
-          "wordCount": 4451,
+          "wordCount": 4445,
           "title": "French Firm The Blockchain Group Raises €8.6 Million at 46% Discount to Boost Bitcoin Accumulation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a644fd5e72109762a070f9a6b17709cf42a85860-1199x994.jpg",
@@ -92,7 +107,7 @@
           "description": "El Salvador's President Nayib Bukele has disclosed the country's Bitcoin holdings, revealing an unrealized profit of approximately $357 million",
           "link": "https://thedefiant.io/news/markets/el-salvadors-bitcoin-portfolio-surpasses-644-million-357-million-profit-up-124-5a43634a",
           "publishedOn": "2025-05-20T21:30:47.000Z",
-          "wordCount": 4652,
+          "wordCount": 4646,
           "title": "El Salvador’s Bitcoin Portfolio Surpasses $644 Million With $357 Million Profit, Up 124% on $287 Million Investment",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/52a10c68431fb3a501be9fd0bf73c4d003702652-675x1200.jpg",
@@ -107,7 +122,7 @@
           "description": "Michael Saylor, a prominent figure in the cryptocurrency space, has released a video explaining why he considers Bitcoin to be the best asset to own",
           "link": "https://thedefiant.io/news/blockchains/michael-saylor-says-bitcoin-best-asset-greatest-digital-transformation-the-21st-b1f6e828",
           "publishedOn": "2025-05-20T21:00:47.000Z",
-          "wordCount": 4565,
+          "wordCount": 4559,
           "title": "Michael Saylor Says Bitcoin Is Best Asset and Greatest Digital Transformation of the 21st Century",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8d8a4d92a0fa2ed72c77cf73e13944c63d3dac12-1024x683.jpg",
@@ -152,7 +167,7 @@
           "description": "A recent survey conducted by The Nakamoto Project indicates that 80% of Americans support the conversion of part of the U",
           "link": "https://thedefiant.io/news/blockchains/80-americans-support-10-conversion-u-s-gold-reserves-to-bitcoin-driven-younger-f309b44d",
           "publishedOn": "2025-05-20T20:30:47.000Z",
-          "wordCount": 4829,
+          "wordCount": 4823,
           "title": "80% of Americans Support 10% Conversion of U.S. Gold Reserves to Bitcoin, Driven by Younger Demographics",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4d26e1621c070617ecef9b12fd903deffac77411-1200x1082.jpg",
@@ -197,7 +212,7 @@
           "description": "Allegations that Charles Hoskinson misappropriated over 300 million ADA are at the center of a row in the Cardano community.",
           "link": "https://thedefiant.io/news/blockchains/cardano-hoskinson-allegations-audit",
           "publishedOn": "2025-05-20T18:39:45.000Z",
-          "wordCount": 5219,
+          "wordCount": 5213,
           "title": "Cardano Founder ‘Deeply Hurt’ by Theft Claims, Announces Audit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8985f85feba41d333722db78764c88240cb7571a-1555x875.png",
@@ -212,7 +227,7 @@
           "description": "Zeus Network, a permissionless multichain layer that connects Bitcoin and other leading blockchains to the Solana ecosystem, has integrated Chainlink's Cross-Chain Interoperability Protocol (CCIP) and Proof of Reserves",
           "link": "https://thedefiant.io/news/blockchains/zeus-network-integrates-chainlink-ccip-proof-reserves-solana-native-bitcoin-base-2933be1c",
           "publishedOn": "2025-05-20T18:30:47.000Z",
-          "wordCount": 4618,
+          "wordCount": 4612,
           "title": "Zeus Network Integrates Chainlink CCIP and Proof of Reserves for Solana-Native Bitcoin Cross-Chain Transfers Including Base",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/f2d7a29a5ffff5658e47ecb8779bdd9b6c4123c2-1200x1200.jpg",
@@ -227,7 +242,7 @@
           "description": "The performant Layer 1 blockchain aims to bridge traditional finance (TradFi) and digital assets by enabling instant, compliant, and low-cost cross-border payments and asset transfers.",
           "link": "https://thedefiant.io/news/blockchains/backed-by-eric-schmidt-keeta-network-token-surges-600-in-two-weeks",
           "publishedOn": "2025-05-20T18:19:43.000Z",
-          "wordCount": 4823,
+          "wordCount": 4817,
           "title": "Backed by Eric Schmidt, Keeta Network Token Surges 600% in Two Weeks",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/cf35b61464fcaf32a1945eaf29fcade84857c41d-1555x875.png",
@@ -242,7 +257,7 @@
           "description": "Bitcoin hovers near $106,000 as Ethereum dips; leveraged liquidations hit $219 million.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-waver-amid-renewed-us-china-trade-tensions",
           "publishedOn": "2025-05-20T18:02:06.000Z",
-          "wordCount": 4834,
+          "wordCount": 4828,
           "title": "Crypto Markets Waver Amid Renewed US-China Trade Tensions",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/300fec9db53df52c751639ebfce45132b33e48c3-1555x875.png",
@@ -272,7 +287,7 @@
           "description": "The United States has emerged as the leading global power in Bitcoin ownership and influence",
           "link": "https://thedefiant.io/news/blockchains/u-s-controls-40-global-bitcoin-holdings-more-americans-own-bitcoin-than-gold-d13da34a",
           "publishedOn": "2025-05-20T18:00:47.000Z",
-          "wordCount": 4574,
+          "wordCount": 4568,
           "title": "U.S. Controls 40% of Global Bitcoin Holdings; More Americans Own Bitcoin Than Gold",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d2f7497b7ef3e5153ff614178aa691af2c4559ff-680x609.png",
@@ -317,7 +332,7 @@
           "description": "Standard Chartered Bank has forecasted that Bitcoin could reach $500,000 by the end of 2028, citing recent U",
           "link": "https://thedefiant.io/news/markets/standard-chartered-predicts-bitcoin-to-hit-500000-2028-citing-increased-holdings-b50df802",
           "publishedOn": "2025-05-20T15:00:47.000Z",
-          "wordCount": 4816,
+          "wordCount": 4810,
           "title": "Standard Chartered Predicts Bitcoin to Hit $500,000 by 2028, Citing Increased Government Holdings in Strategy Before Trump Leaves Office",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/92b4fac1183d8e58e6951d477d56d463cfb85ae1-1200x675.jpg",
@@ -332,7 +347,7 @@
           "description": "The changes to the scaling roadmap would introduce “partially stateless nodes” to make running a personal node easier.",
           "link": "https://thedefiant.io/news/blockchains/vitalik-buterin-changes-to-ethereum-scaling-roadmap",
           "publishedOn": "2025-05-20T13:58:10.000Z",
-          "wordCount": 5228,
+          "wordCount": 5222,
           "title": "Vitalik Buterin Proposes New Type of Node for Ethereum",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9685013f7c49e4f5dcb9b99dc59a0a1ef580b30b-1555x875.png",
@@ -347,7 +362,7 @@
           "description": "Bitcoin's market capitalization has surpassed $2",
           "link": "https://thedefiant.io/news/markets/bitcoin-surpasses-2-1-trillion-market-cap-price-above-105000-doubling-berkshire-a20a7a4f",
           "publishedOn": "2025-05-20T13:30:47.000Z",
-          "wordCount": 4551,
+          "wordCount": 4545,
           "title": "Bitcoin Surpasses $2.1 Trillion Market Cap, Price Above $105,000, Doubling Berkshire Hathaway and Reaching $906 Billion Realized Cap",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/17ed8d10e929665676f2ff7479094567720ab4cb-742x1200.jpg",
@@ -377,7 +392,7 @@
           "description": "Bitcoin and Ethereum investment products have seen significant inflows, with digital asset funds recording $785 million last week, marking the fifth consecutive week of positive inflows",
           "link": "https://thedefiant.io/news/markets/bitcoin-ethereum-investment-products-surge-785m-inflows-blackrock-leads-bitcoin-b5b9fa29",
           "publishedOn": "2025-05-20T13:30:47.000Z",
-          "wordCount": 4979,
+          "wordCount": 4973,
           "title": "Bitcoin and Ethereum Investment Products Surge with $785M Inflows, BlackRock Leads as Bitcoin Tops $100,000",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1ef3e0d5d307cd5e9b9e21d73b7725dc7211e76b-1200x800.jpg",
@@ -422,7 +437,7 @@
           "description": "Global digital asset investment products have experienced a fifth consecutive week of inflows, totaling $785 million last week and bringing year-to-date inflows to $7",
           "link": "https://thedefiant.io/news/markets/blackrocks-bitcoin-etf-holds-65-billion-hits-3-billion-daily-volume-amid-7-5-050a4253",
           "publishedOn": "2025-05-20T05:30:47.000Z",
-          "wordCount": 4838,
+          "wordCount": 4832,
           "title": "BlackRock’s Bitcoin ETF Holds $65 Billion, Hits $3 Billion Daily Volume Amid $7.5 Billion Crypto Fund Inflows",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b06483d464037448f1070da55caf31a15e6c20e4-1200x673.jpg",
@@ -452,7 +467,7 @@
           "description": "BlackRock's spot Bitcoin ETF achieved nearly $3 billion in trading volume on a single day, indicating a surge in investor interest and institutional demand for Bitcoin exposure",
           "link": "https://thedefiant.io/news/markets/blackrock-s-ibit-etf-hits-3b-daily-volume-holds-65b-631962-btc-global-aum-131-91d74f33",
           "publishedOn": "2025-05-20T03:30:47.000Z",
-          "wordCount": 4818,
+          "wordCount": 4812,
           "title": "BlackRock's $IBIT ETF Hits $3B Daily Volume, Holds $65B in 631,962 BTC as Global AUM Reaches $131.08B",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/551d4ab065ab438b79be4a8aa5e5657a241411ca-1200x700.jpg",
@@ -497,7 +512,7 @@
           "description": "JP Morgan has forecasted that Bitcoin will outperform gold in 2025, anticipating more upside for the cryptocurrency in the second half of the year",
           "link": "https://thedefiant.io/news/markets/jp-morgan-predicts-bitcoin-outperform-gold-2025-on-u-s-states-buying-bitcoin-6cbc872e",
           "publishedOn": "2025-05-19T21:30:47.000Z",
-          "wordCount": 4590,
+          "wordCount": 4584,
           "title": "JP Morgan Predicts Bitcoin Will Outperform Gold in 2025 on U.S. States Buying Bitcoin for Strategic Reserves",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/196be67c579a9b02662d34649f6a486640db8db0-960x1200.jpg",
@@ -512,7 +527,7 @@
           "description": "MetaMask co-founder and CEO Dan Finlay confirmed that MetaMask will launch native support for Solana (SOL) in May 2025",
           "link": "https://thedefiant.io/news/blockchains/metamask-ceo-dan-finlay-confirms-native-solana-support-2025-to-store-sol-tokens-b90fe833",
           "publishedOn": "2025-05-19T21:30:47.000Z",
-          "wordCount": 4642,
+          "wordCount": 4636,
           "title": "MetaMask CEO Dan Finlay Confirms Native Solana Support in May 2025 to Store SOL Tokens and Access Solana dApps",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/584a062e67442783ffbc288d60feeb3d919e93a4-1200x1200.png",
@@ -587,7 +602,7 @@
           "description": "Tether, the issuer of the stablecoin USDT, has surpassed Germany in U",
           "link": "https://thedefiant.io/news/markets/tether-surpasses-germany-u-s-treasury-holdings-leads-244b-stablecoin-market-757b-e8c56eac",
           "publishedOn": "2025-05-19T19:35:17.000Z",
-          "wordCount": 4721,
+          "wordCount": 4715,
           "title": "Tether Surpasses Germany in U.S. Treasury Holdings, Leads $244B Stablecoin Market with $757B USDT on TRON",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d166c3cfbed8900f34fcc7b330c40302bdb0dae7-1200x786.jpg",
@@ -602,7 +617,7 @@
           "description": "Solana has generated $40",
           "link": "https://thedefiant.io/news/blockchains/solana-captures-51-market-share-40-3m-weekly-revenue-surpassing-ethereum-tron-bf052ce0",
           "publishedOn": "2025-05-19T18:35:17.000Z",
-          "wordCount": 4453,
+          "wordCount": 4447,
           "title": "Solana Captures 51% Market Share With $40.3M Weekly Revenue, Surpassing Ethereum and Tron Combined",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/71aa7524fe65bae0a72dd27fdd07f9cfb51c8e71-1179x648.jpg",
@@ -632,7 +647,7 @@
           "description": "The Solana blockchain network is set to undergo its largest protocol upgrade to date with the introduction of the Alpenglow consensus protocol, developed by the research team at Anza_xyz",
           "link": "https://thedefiant.io/news/blockchains/solanas-anza-xyz-unveils-alpenglow-protocol-100x-latency-improvement-poh-removed-1b0eb1bb",
           "publishedOn": "2025-05-19T18:05:17.000Z",
-          "wordCount": 4733,
+          "wordCount": 4727,
           "title": "Solana’s Anza_xyz Unveils Alpenglow Protocol With 100x Latency Improvement, PoH Removed, Testing by Year-End",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/db831ea697e38835115882207457de9e9bbebb6a-1200x900.jpg",
@@ -662,7 +677,7 @@
           "description": "Bitcoin, Ethereum, and Solana post losses amid $633M in liquidations.",
           "link": "https://thedefiant.io/news/markets/crypto-market-slides-as-volatility-grips-both-tradfi-and-defi-sectors",
           "publishedOn": "2025-05-19T16:59:00.000Z",
-          "wordCount": 5177,
+          "wordCount": 5171,
           "title": "Crypto Market Slides as Volatility Grips Both TradFi and DeFi Sectors",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6063438a6280914025b9d0931020c60b95fd39b8-1555x875.png",
@@ -707,7 +722,7 @@
           "description": "U",
           "link": "https://thedefiant.io/news/markets/us-spot-bitcoin-etfs-add-26700-btc-blackrock-s-ibit-holds-631962-btc-worth-65b-9c8ea955",
           "publishedOn": "2025-05-19T14:05:17.000Z",
-          "wordCount": 4742,
+          "wordCount": 4736,
           "title": "US Spot Bitcoin ETFs Add 26,700 BTC in May, BlackRock's IBIT Holds 631,962 BTC Worth $65B",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d5e34bf2842fe76ecaeff80266a1b71bbeade585-1200x794.jpg",
@@ -767,7 +782,7 @@
           "description": "Tether, the issuer of the USDT stablecoin, has increased its holdings of U",
           "link": "https://thedefiant.io/news/blockchains/tether-holds-120-billion-u-s-treasuries-tron-leads-75-billion-usdt-circulation-ffa4c9ce",
           "publishedOn": "2025-05-19T13:05:17.000Z",
-          "wordCount": 4541,
+          "wordCount": 4535,
           "title": "Tether Holds $120 Billion in U.S. Treasuries, TRON Leads with $75 Billion USDT Circulation",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d166c3cfbed8900f34fcc7b330c40302bdb0dae7-1200x786.jpg",
@@ -782,7 +797,7 @@
           "description": "MicroStrategy Inc",
           "link": "https://thedefiant.io/news/markets/microstrategy-led-michael-saylor-buys-7390-bitcoins-764-9-million-3516b91f",
           "publishedOn": "2025-05-19T12:35:17.000Z",
-          "wordCount": 4419,
+          "wordCount": 4413,
           "title": "MicroStrategy, Led by Michael Saylor, Buys 7,390 Bitcoins for $764.9 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8195015b81115adfc727f9c9f39c251dbcd28818-1200x1130.jpg",
@@ -812,7 +827,7 @@
           "description": "Vinanz, a publicly traded company based in the United Kingdom, has purchased 16",
           "link": "https://thedefiant.io/news/markets/uk-publicly-traded-vinanz-buys-16-9-bitcoin-1-75-million-treasury-347379b7",
           "publishedOn": "2025-05-19T11:35:17.000Z",
-          "wordCount": 4420,
+          "wordCount": 4414,
           "title": "UK Publicly Traded Vinanz Buys 16.9 Bitcoin for $1.75 Million for Treasury",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fcb67f63a7948dddb53ac5013f4da31ecd704680-1080x1080.jpg",
@@ -827,7 +842,7 @@
           "description": "Vitalik Buterin, co-founder of Ethereum, has proposed enhancements to the Ethereum Layer 1 (L1) scaling roadmap aimed at improving network performance without compromising the usability of personal nodes",
           "link": "https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-ethereum-l1-scaling-eip-4444-partially-stateless-nodes-5fe72c2b",
           "publishedOn": "2025-05-19T10:05:17.000Z",
-          "wordCount": 4663,
+          "wordCount": 4657,
           "title": "Vitalik Buterin Proposes Ethereum L1 Scaling With EIP-4444, Partially Stateless Nodes, 10–100x Gas Limit Increase",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9937650ad3d5423391fe3babc8977664a2c9e87b-1075x1200.jpg",
@@ -842,7 +857,7 @@
           "description": "Bitcoin has surpassed Alphabet Inc",
           "link": "https://thedefiant.io/news/markets/bitcoin-surpasses-google-over-2-trillion-market-cap-becomes-sixth-largest-asset-77ec71e0",
           "publishedOn": "2025-05-19T09:35:17.000Z",
-          "wordCount": 4426,
+          "wordCount": 4420,
           "title": "Bitcoin Surpasses Google With Over $2 Trillion Market Cap, Becomes Sixth Largest Asset Globally",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/35e3bb5e03fa6c7d783bb45c0aeef3527e4f1b80-1125x713.jpg",
@@ -872,7 +887,7 @@
           "description": "Ripple has expanded its presence in the United Arab Emirates by onboarding Zand Bank and Mamo as its first blockchain payments clients in the region",
           "link": "https://thedefiant.io/news/blockchains/ripple-expands-uae-presence-zand-bank-mamo-after-dfsa-approval-blockchain-82279c07",
           "publishedOn": "2025-05-19T07:35:17.000Z",
-          "wordCount": 4608,
+          "wordCount": 4602,
           "title": "Ripple Expands UAE Presence With Zand Bank and Mamo After DFSA Approval for Blockchain Payments",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7a32703929781812c6964273e8fcbb62af0b4e27-1024x512.jpg",
@@ -902,7 +917,7 @@
           "description": "El Salvador has increased its national Bitcoin holdings to over 6,180 BTC through daily accumulation, as part of its long-term crypto strategy",
           "link": "https://thedefiant.io/news/markets/el-salvador-s-bitcoin-holdings-surge-to-6180-btc-yielding-357m-profit-under-aecaf2da",
           "publishedOn": "2025-05-19T05:35:17.000Z",
-          "wordCount": 4580,
+          "wordCount": 4574,
           "title": "El Salvador's Bitcoin Holdings Surge to 6,180 BTC, Yielding $357M Profit Under President Bukele",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a51eebffcd4bef6ce3c3db049a33452aa9fb3aa3-1200x675.jpg",
@@ -917,7 +932,7 @@
           "description": "The mayor of Panama City has indicated plans to create a Bitcoin reserve following a meeting with officials from El Salvador, including Bitcoin advocates such as Max Keiser and Stacy Herbert",
           "link": "https://thedefiant.io/news/blockchains/panama-city-mayor-considers-bitcoin-reserve-after-meeting-el-salvador-officials-055e5e06",
           "publishedOn": "2025-05-19T04:35:17.000Z",
-          "wordCount": 4761,
+          "wordCount": 4755,
           "title": "Panama City Mayor Considers Bitcoin Reserve After Meeting El Salvador Officials; Bukele Reports $357 Million Profit on $287 Million Bitcoin Investment",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a51eebffcd4bef6ce3c3db049a33452aa9fb3aa3-1200x675.jpg",
@@ -932,7 +947,7 @@
           "description": "Bitcoin has surged to its highest weekly close ever, reaching above $106,500, surpassing its previous record set in January",
           "link": "https://thedefiant.io/news/markets/bitcoin-hits-record-weekly-close-above-106500-amid-etf-inflows-inflation-64538a57",
           "publishedOn": "2025-05-19T04:35:17.000Z",
-          "wordCount": 4622,
+          "wordCount": 4616,
           "title": "Bitcoin Hits Record Weekly Close Above $106,500 Amid ETF Inflows and Inflation Concerns",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d74fac28a0939cf96480fd2a044543c235c9213d-1200x1142.jpg",
@@ -947,7 +962,7 @@
           "description": "Japanese company Metaplanet has acquired an additional 1,004 Bitcoin, valued at approximately $104 million",
           "link": "https://thedefiant.io/news/markets/japan-s-metaplanet-buys-104-million-more-bitcoin-holdings-now-7800-btc-worth-812-35c4dacf",
           "publishedOn": "2025-05-19T04:35:17.000Z",
-          "wordCount": 4421,
+          "wordCount": 4415,
           "title": "Japan's Metaplanet Buys $104 Million More Bitcoin, Holdings Now 7,800 BTC Worth $812 Million",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/262ae17b4e77e99ba15dee048538412d4bde6255-1080x1080.jpg",
@@ -962,7 +977,7 @@
           "description": "Bitcoin (BTC) has reached a new milestone by closing its highest weekly candle ever, marking an all-time high weekly close at $106,500",
           "link": "https://thedefiant.io/news/markets/bitcoin-posts-highest-weekly-close-ever-106500-b155e4b2",
           "publishedOn": "2025-05-19T00:35:17.000Z",
-          "wordCount": 4471,
+          "wordCount": 4465,
           "title": "Bitcoin Posts Highest Weekly Close Ever at $106,500",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d74fac28a0939cf96480fd2a044543c235c9213d-1200x1142.jpg",
@@ -977,7 +992,7 @@
           "description": "Basel Medical Group Ltd, a Singapore-based healthcare company listed on NASDAQ under the ticker BMGL, has announced plans to acquire $1 billion worth of Bitcoin through a share-swap deal with institutional and crypto investors",
           "link": "https://thedefiant.io/news/blockchains/singapore-based-basel-medical-group-plans-1-billion-bitcoin-acquisition-via-swap-cd5417b6",
           "publishedOn": "2025-05-18T21:05:17.000Z",
-          "wordCount": 4760,
+          "wordCount": 4754,
           "title": "Singapore-Based Basel Medical Group Plans $1 Billion Bitcoin Acquisition via Share-Swap Amid 15% Share Price Drop",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3bdc84fcfce691f56cc14de074cd85d1f1fd62d4-1200x675.jpg",
@@ -992,7 +1007,7 @@
           "description": "Bitcoin's market capitalization has surpassed $2",
           "link": "https://thedefiant.io/news/markets/bitcoin-market-cap-surpasses-2-1-trillion-solana-exceeds-90-billion-59ce1716",
           "publishedOn": "2025-05-18T18:05:17.000Z",
-          "wordCount": 4373,
+          "wordCount": 4367,
           "title": "Bitcoin Market Cap Surpasses $2.1 Trillion as Solana Exceeds $90 Billion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a72b4ef73c6caed37b93867624b8a3316895d8b5-833x1200.jpg",
@@ -1022,7 +1037,7 @@
           "description": "MetaMask, the popular cryptocurrency wallet, will launch native support for Solana (SOL) in May 2025",
           "link": "https://thedefiant.io/news/blockchains/metamask-ceo-confirms-native-solana-support-launching-2025-enabling-access-to-c7de6b09",
           "publishedOn": "2025-05-18T13:05:17.000Z",
-          "wordCount": 4557,
+          "wordCount": 4551,
           "title": "MetaMask CEO Confirms Native Solana Support Launching May 2025, Enabling Access to SOL Assets and dApp Interaction",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9857cdcc7343e4e84b92ae53ceeaa98e9fff01dd-680x680.png",
@@ -1037,7 +1052,7 @@
           "description": "Michael Saylor, a prominent Bitcoin advocate and investor, has announced plans to purchase additional Bitcoin imminently",
           "link": "https://thedefiant.io/news/markets/michael-saylor-plans-1-billion-bitcoin-purchase-anticipates-all-time-highs-150becbb",
           "publishedOn": "2025-05-18T13:05:17.000Z",
-          "wordCount": 4472,
+          "wordCount": 4466,
           "title": "Michael Saylor Plans $1 Billion Bitcoin Purchase, Anticipates All-Time Highs",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4412dda4c2889d23a77eb9aae8d01caadb6fe472-1170x1081.jpg",
@@ -1052,7 +1067,7 @@
           "description": "Alchemy, a prominent blockchain development platform, has acquired DexterLab, a Solana infrastructure provider known for its expertise in archival data and data streams on the Solana blockchain",
           "link": "https://thedefiant.io/news/blockchains/alchemy-acquires-dexterlab-to-expand-enterprise-grade-solana-support-archival-e5db3ae9",
           "publishedOn": "2025-05-18T01:05:17.000Z",
-          "wordCount": 4557,
+          "wordCount": 4551,
           "title": "Alchemy Acquires DexterLab to Expand Enterprise-Grade Solana Support with Archival Data and Streams",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/67f68bbfacf16bdf21fb9c8ad0dd0d6e05999bd2-1200x1200.png",
@@ -1082,7 +1097,7 @@
           "description": "BlackRock Inc",
           "link": "https://thedefiant.io/news/markets/blackrock-fidelity-ramp-up-crypto-investments-bitcoin-etfs-see-41-489-billion-25d27bea",
           "publishedOn": "2025-05-17T21:05:17.000Z",
-          "wordCount": 4766,
+          "wordCount": 4760,
           "title": "BlackRock and Fidelity Ramp Up Crypto Investments, Bitcoin ETFs See $41.489 Billion Inflow",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/2d631bbadedf1abf00ab2bb099056411fdc1f029-680x665.jpg",
@@ -1137,7 +1152,7 @@
           "description": "Al Abraaj Restaurants Group, a publicly listed company in Bahrain, has become the first public company in the Middle East to adopt a strategic Bitcoin treasury",
           "link": "https://thedefiant.io/news/blockchains/bahrains-al-abraaj-restaurants-group-becomes-first-middle-east-public-company-to-59b369cc",
           "publishedOn": "2025-05-17T12:35:17.000Z",
-          "wordCount": 4585,
+          "wordCount": 4579,
           "title": "Bahrain’s Al Abraaj Restaurants Group Becomes First Middle East Public Company to Adopt Strategic Bitcoin Treasury",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1950ac27fe0f5c693fe3aa2ba6180f4b10ec7bef-1024x1024.jpg",
@@ -1267,7 +1282,7 @@
           "description": "Fidelity Digital Assets, the cryptocurrency division of the $5 trillion asset manager Fidelity Investments, has indicated that Bitcoin's price could reach a new all-time high before the current market cycle concludes",
           "link": "https://thedefiant.io/news/markets/fidelity-digital-assets-5-trillion-manager-says-bitcoin-hit-new-all-time-high-0722a819",
           "publishedOn": "2025-05-16T18:00:40.000Z",
-          "wordCount": 4608,
+          "wordCount": 4602,
           "title": "Fidelity Digital Assets, $5 Trillion Manager, Says Bitcoin Could Hit New All-Time High in Acceleration Phase",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b26e239441134d6be20da3fdae70ea6e69762d0a-900x530.jpg",
@@ -1282,7 +1297,7 @@
           "description": "Avenir Group, a Hong Kong-based investment firm, has increased its holdings in BlackRock's iShares Bitcoin Trust (IBIT) to 14",
           "link": "https://thedefiant.io/news/markets/hong-kongs-avenir-group-boosts-blackrock-bitcoin-etf-holdings-to-14-7-million-f5e214f5",
           "publishedOn": "2025-05-16T17:00:40.000Z",
-          "wordCount": 4683,
+          "wordCount": 4677,
           "title": "Hong Kong’s Avenir Group Boosts BlackRock Bitcoin ETF Holdings to 14.7 Million Shares Worth $691 Million, Asia’s Largest Holder",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6e6d811a228481611df313a504bfbf06259c5459-1200x675.jpg",
@@ -1342,7 +1357,7 @@
           "description": "BTC and ETH post modest gains, while other large-caps remain flat on the day.",
           "link": "https://thedefiant.io/news/markets/crypto-market-stalls-despite-positive-inflation-data",
           "publishedOn": "2025-05-16T16:10:40.000Z",
-          "wordCount": 5121,
+          "wordCount": 5115,
           "title": "Crypto Market Stalls Despite Positive Inflation Data",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a728f47b389597a5aeb829d00cb4b16cbb1efd60-1792x1024.png",
@@ -1372,7 +1387,7 @@
           "description": "Basel Medical Group Ltd (ticker: BMGL), a publicly traded company specializing in orthopedic, trauma, and sports medicine services, announced plans to acquire $1 billion worth of Bitcoin (BTC)",
           "link": "https://thedefiant.io/news/blockchains/basel-medical-group-plans-1-billion-bitcoin-acquisition-to-diversify-treasury-cf885cb2",
           "publishedOn": "2025-05-16T16:00:40.000Z",
-          "wordCount": 4599,
+          "wordCount": 4593,
           "title": "Basel Medical Group Plans $1 Billion Bitcoin Acquisition to Diversify Treasury and Support Asia Expansion",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/3874d29c2bb87f31061e96621ee92f8a10dd2aea-1200x590.jpg",
@@ -1427,7 +1442,7 @@
           "description": "Abraxas Capital has substantially increased its Ethereum holdings, now owning over 278,000 ETH valued at approximately $655 million",
           "link": "https://thedefiant.io/news/markets/abraxas-capital-holds-278000-eth-worth-655m-withdraws-binance-cuts-bitcoin-150m-f2293400",
           "publishedOn": "2025-05-16T14:00:43.000Z",
-          "wordCount": 4564,
+          "wordCount": 4558,
           "title": "Abraxas Capital Holds 278,000 ETH Worth $655M, Withdraws From Binance, Cuts Bitcoin Exposure by $150M",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/10cba8d37d25656d288206d676b98608a41aa44a-1200x623.jpg",
@@ -1452,7 +1467,7 @@
           "description": "Méliuz, a Brazilian public company, has purchased $28",
           "link": "https://thedefiant.io/news/markets/meliuz-acquires-274-52-btc-28-4-million-becomes-first-bitcoin-treasury-company-50e015d3",
           "publishedOn": "2025-05-16T12:30:43.000Z",
-          "wordCount": 4572,
+          "wordCount": 4566,
           "title": "Méliuz Acquires 274.52 BTC for $28.4 Million, Becomes First Bitcoin Treasury Company in Brazil and Latin America",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/46ed8f19199830fc7b0a4c78ae1f14b47cd6de74-1200x652.jpg",
@@ -1467,7 +1482,7 @@
           "description": "Following the recent launch of the Ethereum Improvement Proposal 7702 (EIP-7702) known as the Pectra upgrade, there has been a marked increase in smart wallet adoption across multiple blockchain networks",
           "link": "https://thedefiant.io/news/blockchains/over-25000-wallets-upgrade-to-eip-7702-eth-jumps-20-dubai-partners-government-a2ab2a27",
           "publishedOn": "2025-05-16T12:00:43.000Z",
-          "wordCount": 4764,
+          "wordCount": 4758,
           "title": "Over 25,000 Wallets Upgrade to EIP-7702 as ETH Jumps 20% and Dubai Partners for Government Crypto Payments",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5fc1456dba381b7960b3a0a13cef8309bcbf214e-939x593.png",
@@ -1475,21 +1490,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5fc1456dba381b7960b3a0a13cef8309bcbf214e-939x593.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/tether-mints-2-billion-usdt-on-tron-surpassing-ethereum-reaching-15b-2025-169fe182",
-          "author": "DeepNewz",
-          "description": "Tether, the issuer of the world's largest stablecoin USDT, has minted $2 billion worth of the cryptocurrency within a few hours, with each minting amounting to $1 billion",
-          "link": "https://thedefiant.io/news/blockchains/tether-mints-2-billion-usdt-on-tron-surpassing-ethereum-reaching-15b-2025-169fe182",
-          "publishedOn": "2025-05-16T12:00:43.000Z",
-          "wordCount": 4830,
-          "title": "Tether Mints $2 Billion USDT on Tron, Surpassing Ethereum and Reaching $15B in 2025 Issuance",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a542e034e59c66c6bed4b93090a2762be3c3c1a1-1200x631.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a542e034e59c66c6bed4b93090a2762be3c3c1a1-1200x631.jpg"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-21T07:17:50.737Z</id>
+    <id>urn:2025-05-21T08:24:57.782Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-21T07:17:50.737Z</updated>
+    <updated>2025-05-21T08:24:57.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BlackRock and Fidelity Buy Over $590 Million in Bitcoin and Ethereum, BlackRock Hits New Bitcoin Holding Record]]></title>
+        <id>https://thedefiant.io/news/markets/blackrock-fidelity-buy-over-590-million-bitcoin-ethereum-blackrock-hits-new-273ba084</id>
+        <link href="https://thedefiant.io/news/markets/blackrock-fidelity-buy-over-590-million-bitcoin-ethereum-blackrock-hits-new-273ba084"/>
+        <updated>2025-05-21T08:00:47.000Z</updated>
+        <summary type="html"><![CDATA[BlackRock, the world's largest asset manager, has made substantial purchases of cryptocurrencies, acquiring over $590 million worth of Bitcoin and Ethereum in recent days]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Germany Sold 49,858 Bitcoin for $2.89 Billion in June-July 2024, Missing Over $2.3 Billion as BTC Value Hits $5.3 Billion]]></title>
         <id>https://thedefiant.io/news/markets/germany-sold-49858-bitcoin-2-89-billion-june-july-2024-missing-over-2-3-billion-8dd1711e</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/over-25000-wallets-upgrade-to-eip-7702-eth-jumps-20-dubai-partners-government-a2ab2a27"/>
         <updated>2025-05-16T12:00:43.000Z</updated>
         <summary type="html"><![CDATA[Following the recent launch of the Ethereum Improvement Proposal 7702 (EIP-7702) known as the Pectra upgrade, there has been a marked increase in smart wallet adoption across multiple blockchain networks]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether Mints $2 Billion USDT on Tron, Surpassing Ethereum and Reaching $15B in 2025 Issuance]]></title>
-        <id>https://thedefiant.io/news/blockchains/tether-mints-2-billion-usdt-on-tron-surpassing-ethereum-reaching-15b-2025-169fe182</id>
-        <link href="https://thedefiant.io/news/blockchains/tether-mints-2-billion-usdt-on-tron-surpassing-ethereum-reaching-15b-2025-169fe182"/>
-        <updated>2025-05-16T12:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Tether, the issuer of the world's largest stablecoin USDT, has minted $2 billion worth of the cryptocurrency within a few hours, with each minting amounting to $1 billion]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
