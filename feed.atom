@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-22T18:26:08.574Z</id>
+    <id>urn:2025-05-22T19:14:49.783Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-22T18:26:08.574Z</updated>
+    <updated>2025-05-22T19:14:49.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken to Offer 24/7 Trading of Tokenized Apple, Tesla, Nvidia Stocks and ETFs on Solana to Non-U.S. Customers]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/kraken-to-offer-24-7-trading-tokenized-apple-tesla-nvidia-stocks-etfs-on-solana-b8f24e7e</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/kraken-to-offer-24-7-trading-tokenized-apple-tesla-nvidia-stocks-etfs-on-solana-b8f24e7e"/>
+        <updated>2025-05-22T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Kraken, a U]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Shrimp Addresses Holding Less Than 1 BTC Drop to 260K from 590K Peak]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-shrimp-addresses-holding-less-than-1-btc-drop-to-260k-590k-peak-c753e8fc</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-shrimp-addresses-holding-less-than-1-btc-drop-to-260k-590k-peak-c753e8fc"/>
+        <updated>2025-05-22T18:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The number of Bitcoin wallets holding less than one BTC, often referred to as "shrimp" addresses, has declined sharply to approximately 260,000 as of May 2025]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Hits Another Record High Above $111,000]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-hits-another-record-high-above-usd111-000</id>
@@ -23,26 +43,6 @@
         <summary type="html"><![CDATA[Coinbase’s customer data breach, which the DOJ is investigating, has sparked criticism of the exchange giant.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Tops $111,000 to New Record Amid U.S. Regulatory Optimism on Pizza Day Anniversary]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-tops-111000-to-new-record-amid-u-s-regulatory-optimism-on-pizza-day-70fca82f</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-tops-111000-to-new-record-amid-u-s-regulatory-optimism-on-pizza-day-70fca82f"/>
-        <updated>2025-05-22T17:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin surged to a record high on 22 May, touching roughly $111,888 and trading above $110,000 for the first time]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cetus Protocol on Sui Network Hit by $260M Oracle Manipulation Exploit, $160M Frozen with Foundation Support]]></title>
-        <id>https://thedefiant.io/news/hacks/cetus-protocol-on-sui-network-hit-260m-oracle-manipulation-exploit-160m-frozen-e77019d3</id>
-        <link href="https://thedefiant.io/news/hacks/cetus-protocol-on-sui-network-hit-260m-oracle-manipulation-exploit-160m-frozen-e77019d3"/>
-        <updated>2025-05-22T17:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Cetus Protocol, a decentralized exchange on the Sui Network, has been hit by a significant security breach, resulting in the theft of over $260 million]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>
@@ -73,16 +73,6 @@
         <summary type="html"><![CDATA[The new 'xStocks' product will enable 24/7 trading of major U.S. equities on Solana.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFA Launches EVM-Compatible FIFA Blockchain on Avalanche, Migrating from Algorand and Polygon]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/fifa-launches-evm-compatible-fifa-blockchain-on-avalanche-migrating-algorand-059c6487</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/fifa-launches-evm-compatible-fifa-blockchain-on-avalanche-migrating-algorand-059c6487"/>
-        <updated>2025-05-22T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[FIFA has announced a strategic partnership with Avalanche to develop its own dedicated layer-1 blockchain, named the FIFA Blockchain]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>
@@ -1001,6 +991,16 @@
         <link href="https://thedefiant.io/news/regulation/microstrategy-michael-saylor-sued-over-misleading-bitcoin-strategy-5-9b-loss-btc-2641f284"/>
         <updated>2025-05-19T14:05:17.000Z</updated>
         <summary type="html"><![CDATA[MicroStrategy Inc]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DigiAsia Plans $100 Million Raise, Allocates 50% Profits to Bitcoin as UBS Reports Asia's Richest Abandon US Dollar]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/digiasia-plans-100-million-raise-allocates-50-profits-to-bitcoin-ubs-reports-s-b60c8c8c</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/digiasia-plans-100-million-raise-allocates-50-profits-to-bitcoin-ubs-reports-s-b60c8c8c"/>
+        <updated>2025-05-19T14:05:17.000Z</updated>
+        <summary type="html"><![CDATA[UBS Group AG has reported a trend among Asia's wealthiest investors moving away from the US dollar in favor of Bitcoin and gold, signaling a bullish outlook on tangible stores of value in the region]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
