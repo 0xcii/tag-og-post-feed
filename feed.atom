@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-22T01:26:31.737Z</id>
+    <id>urn:2025-05-22T03:10:56.951Z</id>
     <title>web3::cave</title>
-    <updated>2025-05-22T01:26:31.737Z</updated>
+    <updated>2025-05-22T03:10:56.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MicroStrategy, Led by Michael Saylor, Faces Class Action Over Multibillion-Dollar Bitcoin Investment Loss]]></title>
+        <id>https://thedefiant.io/news/regulation/microstrategy-led-michael-saylor-faces-class-action-over-multibillion-dollar-689bb8a5</id>
+        <link href="https://thedefiant.io/news/regulation/microstrategy-led-michael-saylor-faces-class-action-over-multibillion-dollar-689bb8a5"/>
+        <updated>2025-05-22T03:00:49.000Z</updated>
+        <summary type="html"><![CDATA[MicroStrategy Inc]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El Salvador's Bitcoin Holdings Surpass $350 Million in Unrealized Profits with 124% Gain as BTC Hits $110,000]]></title>
+        <id>https://thedefiant.io/news/markets/el-salvador-s-bitcoin-holdings-surpass-350-million-unrealized-profits-124-gain-a835146f</id>
+        <link href="https://thedefiant.io/news/markets/el-salvador-s-bitcoin-holdings-surpass-350-million-unrealized-profits-124-gain-a835146f"/>
+        <updated>2025-05-22T03:00:49.000Z</updated>
+        <summary type="html"><![CDATA[El Salvador's Bitcoin holdings have reached an unrealized profit exceeding $350 million, reflecting a 124% gain on their investment as Bitcoin's price climbs to $110,000]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Hits $109,439 Ahead of 15th Anniversary of Laszlo Hanyecz's 10,000 BTC Pizza Purchase]]></title>
+        <id>https://thedefiant.io/news/blockchains/bitcoin-hits-109439-ahead-15th-anniversary-laszlo-hanyecz-s-10000-btc-pizza-d47a5215</id>
+        <link href="https://thedefiant.io/news/blockchains/bitcoin-hits-109439-ahead-15th-anniversary-laszlo-hanyecz-s-10000-btc-pizza-d47a5215"/>
+        <updated>2025-05-22T01:30:49.000Z</updated>
+        <summary type="html"><![CDATA[On May 22, 2010, programmer Laszlo Hanyecz made the first real-world Bitcoin transaction by purchasing two pizzas for 10,000 BTC, which was worth approximately $41 at the time]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Senator Cynthia Lummis Backs Genius Act to Upgrade U.S. Gold Reserves to Bitcoin, Leading Digital Asset Policy]]></title>
         <id>https://thedefiant.io/news/regulation/senator-cynthia-lummis-backs-genius-act-to-upgrade-u-s-gold-reserves-to-bitcoin-de9fcae8</id>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/trump-backed-wlfi-approves-usd-1-airdrop-37-million-holders-over-40-votes-5-2faab9ab"/>
         <updated>2025-05-17T16:35:17.000Z</updated>
         <summary type="html"><![CDATA[The WLFI governance proposal to airdrop USD 1 to eligible token holders has been officially approved]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Liquid Restaking Sector Slumps as Incentives Dry Up]]></title>
-        <id>https://thedefiant.io/news/defi/ethereum-liquid-restaking-sector-slumps-as-incentives-dry-up</id>
-        <link href="https://thedefiant.io/news/defi/ethereum-liquid-restaking-sector-slumps-as-incentives-dry-up"/>
-        <updated>2025-05-17T12:59:00.000Z</updated>
-        <summary type="html"><![CDATA[TVL across Ethereum restaking protocols has dropped 37% from its December 2024 peak.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pakistan Crypto Council CEO Bilal bin Saqib Signs Trump Family-Backed Crypto Deal Involving Army Chief Asim Munir Before Pahalgam Attack]]></title>
-        <id>https://thedefiant.io/news/regulation/pakistan-crypto-council-ceo-bilal-bin-saqib-signs-trump-family-backed-crypto-b4a2a7b7</id>
-        <link href="https://thedefiant.io/news/regulation/pakistan-crypto-council-ceo-bilal-bin-saqib-signs-trump-family-backed-crypto-b4a2a7b7"/>
-        <updated>2025-05-17T12:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Pakistan has entered into a cryptocurrency deal with World Liberty Financial (WLF1), a crypto venture backed by the family of former U]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bahrain’s Al Abraaj Restaurants Group Becomes First Middle East Public Company to Adopt Strategic Bitcoin Treasury]]></title>
-        <id>https://thedefiant.io/news/blockchains/bahrains-al-abraaj-restaurants-group-becomes-first-middle-east-public-company-to-59b369cc</id>
-        <link href="https://thedefiant.io/news/blockchains/bahrains-al-abraaj-restaurants-group-becomes-first-middle-east-public-company-to-59b369cc"/>
-        <updated>2025-05-17T12:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Al Abraaj Restaurants Group, a publicly listed company in Bahrain, has become the first public company in the Middle East to adopt a strategic Bitcoin treasury]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
