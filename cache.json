@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/cetus-protocol-relaunches-restores-over-50-tvl-after-usd220-million-exploit",
+          "author": "DeepNewz",
+          "description": "Cetus Protocol, a decentralized exchange (DEX) on the Sui blockchain, suffered a $220 million exploit on May 22, 2025, involving a fake token that drained liquidity",
+          "link": "https://thedefiant.io/news/defi/cetus-protocol-relaunches-restores-over-50-tvl-after-usd220-million-exploit",
+          "publishedOn": "2025-06-09T15:24:05.000Z",
+          "wordCount": 4721,
+          "title": "Cetus Protocol Relaunches, Restores Over 50% TVL After $220 Million Exploit",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/e43d06ea-0d72-4465-bc15-4c9036333cd4.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/e43d06ea-0d72-4465-bc15-4c9036333cd4.jpeg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/stablecoin-blockchain-plasma-fills-usd500-million-ico-instantly",
           "author": "Squiffs",
           "description": "The hyped ICO for the Tether-backed 'stablechain' lived up to expectations, selling out in minutes.",
@@ -1495,21 +1510,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://cdn.thedefiant.io/b59fe442f3e6bafe46eb172e61e340700e7f08cd-1000x1000.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ethereum-foundation-moves-deeper-into-defi-with-usd2-million-gho-loan",
-          "author": "Leo Jakobson",
-          "description": "The EF has caught flak for funding its day-to-day operations by selling ETH. With a $2 million loan on Aave, it may be turning to DeFi borrowing to replace those sales.",
-          "link": "https://thedefiant.io/news/defi/ethereum-foundation-moves-deeper-into-defi-with-usd2-million-gho-loan",
-          "publishedOn": "2025-05-29T19:13:22.000Z",
-          "wordCount": 5188,
-          "title": "Ethereum Foundation Moves Deeper Into DeFi with $2 Million GHO Loan",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/7c3b8c6c0344e7026e679101fae7046553b2fd52-1555x875.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/7c3b8c6c0344e7026e679101fae7046553b2fd52-1555x875.png"
         }
       ]
     }
