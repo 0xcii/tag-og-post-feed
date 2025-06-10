@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/societe-generale-launches-usd-coinvertible-stablecoin-bny-mellon-trading-july-a60b43a9",
+          "author": "DeepNewz",
+          "description": "Societe Generale, through its crypto subsidiary Societe Generale-Forge (SG-FORGE), has announced the launch of a new U.S. dollar-pegged stablecoin.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/societe-generale-launches-usd-coinvertible-stablecoin-bny-mellon-trading-july-a60b43a9",
+          "publishedOn": "2025-06-10T10:30:34.000Z",
+          "wordCount": 4738,
+          "title": "Societe Generale Launches USD CoinVertible Stablecoin With BNY Mellon, Trading in July",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ddb1dcef-53de-4cca-89e1-0f771a2a79db.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ddb1dcef-53de-4cca-89e1-0f771a2a79db.jpeg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-high-with-nearly-usd90-billion-locked",
           "author": "Jona Jaupi",
           "description": "Nearly 28% of the total ETH supply is now staked.",
@@ -1495,21 +1510,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://cdn.thedefiant.io/80cde2e32de118f566082ad1fa24007badedc237-1200x1195.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/nigel-farage-proposes-strategic-bitcoin-reserve-tax-cut-to-make-uk-crypto-hub-75c3710e",
-          "author": "DeepNewz",
-          "description": "Reform UK leader Nigel Farage has announced a comprehensive plan to transform the UK into a \"crypto powerhouse\" at the Bitcoin 2025 conference in Las Vegas.",
-          "link": "https://thedefiant.io/news/regulation/nigel-farage-proposes-strategic-bitcoin-reserve-tax-cut-to-make-uk-crypto-hub-75c3710e",
-          "publishedOn": "2025-05-30T13:05:03.000Z",
-          "wordCount": 4907,
-          "title": "Reform UK MP Nigel Farage Proposes Strategic Bitcoin Reserve and Tax Cut to Make UK a Crypto Hub",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/14f2f9357ca38cf4142c96103c793a35a5cc36e3-1200x1026.jpg",
-            "length": "1000000",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/14f2f9357ca38cf4142c96103c793a35a5cc36e3-1200x1026.jpg"
         }
       ]
     }
