@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/cross-chain-usage-climbs-to-five-month-high-as-dexs-enhance-bridge-integrations",
+          "author": "Jona Jaupi",
+          "description": "The surge is driven by stablecoins, DEX adoption, and efforts to simplify cross-chain asset transfers.",
+          "link": "https://thedefiant.io/news/defi/cross-chain-usage-climbs-to-five-month-high-as-dexs-enhance-bridge-integrations",
+          "publishedOn": "2025-06-11T10:47:26.000Z",
+          "wordCount": 5199,
+          "title": "Cross-Chain Usage Climbs to Five-Month High as DEXs Enhance Bridge Integrations",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/b6be2db7-ee34-4236-aa30-ec667e161363.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/b6be2db7-ee34-4236-aa30-ec667e161363.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/berachain-tvl-plummets-70-as-network-activity-dwindles",
           "author": "Squiffs",
           "description": "The DeFi-focused Layer 1 started out hot, but is struggling to retain users.",
@@ -1495,21 +1510,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://cdn.thedefiant.io/b046ff047267241e86a2de20227b160f2d2d583d-1200x1200.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/texas-legislature-passes-strategic-bitcoin-reserve-bill-sb-21-110-25-vote-abbott-557dc5ee",
-          "author": "DeepNewz",
-          "description": "The Texas legislature has passed the Strategic Bitcoin Reserve bill (SB 21), with the House approving it in a 110-25 vote and the Senate completing its final revision",
-          "link": "https://thedefiant.io/news/regulation/texas-legislature-passes-strategic-bitcoin-reserve-bill-sb-21-110-25-vote-abbott-557dc5ee",
-          "publishedOn": "2025-05-31T10:35:07.000Z",
-          "wordCount": 4630,
-          "title": "Texas Legislature Passes Strategic Bitcoin Reserve Bill SB 21 With 110-25 Vote, Awaiting Governor Abbott's Signature",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/4c896b02f2490a2c187ebc2f60c2fd2593f9b6c1-1200x675.jpg",
-            "length": "1000000",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/4c896b02f2490a2c187ebc2f60c2fd2593f9b6c1-1200x675.jpg"
         }
       ]
     }
