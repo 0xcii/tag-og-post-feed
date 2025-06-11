@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/virtual-rallies-ahead-of-first-ethereum-based-ai-agent-launch",
+          "author": "Leo Jakobson",
+          "description": "The I.R.I.S. AI agent token sale is oversubscribed by 1500% with roughly 16 hours remaining.",
+          "link": "https://thedefiant.io/news/defi/virtual-rallies-ahead-of-first-ethereum-based-ai-agent-launch",
+          "publishedOn": "2025-06-11T19:36:57.000Z",
+          "wordCount": 5124,
+          "title": "VIRTUAL Rallies Ahead of First Ethereum-Based AI Agent Launch",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/11ae1b7e-4bd2-451c-bd2d-ef00e78a1275.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/11ae1b7e-4bd2-451c-bd2d-ef00e78a1275.png"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/centralized-entities-now-hold-over-30-of-bitcoin-s-supply-gemini",
           "author": "Jona Jaupi",
           "description": "BlackRock tops the list as institutions reshape Bitcoin’s role in global finance amid rising adoption.",
@@ -32,7 +47,7 @@
           "description": "BTC neared $110,000 while ETH surged above $2,800.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-climb-amid-cooling-u-s-inflation",
           "publishedOn": "2025-06-11T18:34:01.000Z",
-          "wordCount": 4891,
+          "wordCount": 4873,
           "title": "Crypto Markets Climb Amid Cooling U.S. Inflation",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/36704e81-53b5-411e-9cc6-62c843624a36.png",
@@ -452,7 +467,7 @@
           "description": "Cetus Protocol, a decentralized exchange (DEX) on the Sui blockchain, suffered a $220 million exploit on May 22, 2025, involving a fake token that drained liquidity",
           "link": "https://thedefiant.io/news/defi/cetus-protocol-relaunches-restores-over-50-tvl-after-usd220-million-exploit",
           "publishedOn": "2025-06-09T15:24:05.000Z",
-          "wordCount": 4728,
+          "wordCount": 4726,
           "title": "Cetus Protocol Relaunches, Restores Over 50% TVL After $220 Million Exploit",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/e43d06ea-0d72-4465-bc15-4c9036333cd4.jpeg",
@@ -1495,21 +1510,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://cdn.thedefiant.io/b1123a4afff900579c5e7ce61d32eb4577042282-1080x1080.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/world-vision-korea-sells-0-55-eth-on-upbit-first-institutional-crypto-trade-june-da83dd0b",
-          "author": "DeepNewz",
-          "description": "South Korea witnessed its first institutional cryptocurrency sale since the government lifted its ban on institutional crypto trading on June 1",
-          "link": "https://thedefiant.io/news/regulation/world-vision-korea-sells-0-55-eth-on-upbit-first-institutional-crypto-trade-june-da83dd0b",
-          "publishedOn": "2025-06-02T07:35:07.000Z",
-          "wordCount": 4590,
-          "title": "World Vision Korea Sells 0.55 ETH on Upbit, First Institutional Crypto Trade Since South Korea’s June 1 Ban Lift",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/a501933109a72295748780ae9254af730ec00ca4-1200x1200.jpg",
-            "length": "1000000",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/a501933109a72295748780ae9254af730ec00ca4-1200x1200.jpg"
         }
       ]
     }
