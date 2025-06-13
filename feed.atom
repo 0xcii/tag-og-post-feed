@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-13T04:26:21.178Z</id>
+    <id>urn:2025-06-13T05:18:11.344Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-13T04:26:21.178Z</updated>
+    <updated>2025-06-13T05:18:11.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Maple Finance Partners with Lido to Offer Stablecoin Loans Against stETH]]></title>
+        <id>https://thedefiant.io/news/defi/maple-finance-partners-with-lido-to-offer-stablecoin-loans-against-steth</id>
+        <link href="https://thedefiant.io/news/defi/maple-finance-partners-with-lido-to-offer-stablecoin-loans-against-steth"/>
+        <updated>2025-06-13T04:57:59.000Z</updated>
+        <summary type="html"><![CDATA[The new offering enables institutions to borrow stablecoins without selling their staked ETH.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AURA Memecoin Mints Millionaires After Inexplicable 21,000% Rise]]></title>
         <id>https://thedefiant.io/news/markets/aura-memecoin-mints-millionaires-after-inexplicable-21-000-rise</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/people/trump-to-launch-crypto-wallet-trading-app-trump-coin-bitcoin-wallet-reuters-bb4118ef"/>
         <updated>2025-06-03T17:00:41.000Z</updated>
         <summary type="html"><![CDATA[The team behind President Donald Trump's official memecoin is planning to launch a branded cryptocurrency wallet and trading application, according to multiple sources]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether CEO Paolo Ardoino Says Company Will Be Biggest Bitcoin Miner, Invests in OrionX to Boost Latin America Digital Assets]]></title>
-        <id>https://thedefiant.io/news/blockchains/tether-ceo-paolo-ardoino-says-company-biggest-bitcoin-miner-invests-orionx-to-fe0b2341</id>
-        <link href="https://thedefiant.io/news/blockchains/tether-ceo-paolo-ardoino-says-company-biggest-bitcoin-miner-invests-orionx-to-fe0b2341"/>
-        <updated>2025-06-03T14:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Tether, a leading stablecoin issuer, announced a strategic investment in OrionX aimed at advancing digital asset adoption across Latin America]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>

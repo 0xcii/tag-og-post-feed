@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/maple-finance-partners-with-lido-to-offer-stablecoin-loans-against-steth",
+          "author": "Jona Jaupi",
+          "description": "The new offering enables institutions to borrow stablecoins without selling their staked ETH.",
+          "link": "https://thedefiant.io/news/defi/maple-finance-partners-with-lido-to-offer-stablecoin-loans-against-steth",
+          "publishedOn": "2025-06-13T04:57:59.000Z",
+          "wordCount": 5002,
+          "title": "Maple Finance Partners with Lido to Offer Stablecoin Loans Against stETH",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/maple-1-3--f1d96a8c-b343-445e-9442-a466aa9e13bc.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/maple-1-3--f1d96a8c-b343-445e-9442-a466aa9e13bc.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/aura-memecoin-mints-millionaires-after-inexplicable-21-000-rise",
           "author": "Squiffs",
           "description": "The memecoin, which was popular during the 2024 Solana memecoin season, suddenly exploded on June 10.",
@@ -1495,21 +1510,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/da58abbd-2904-4bd3-9bf8-a2e14e79caa7.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/tether-ceo-paolo-ardoino-says-company-biggest-bitcoin-miner-invests-orionx-to-fe0b2341",
-          "author": "DeepNewz",
-          "description": "Tether, a leading stablecoin issuer, announced a strategic investment in OrionX aimed at advancing digital asset adoption across Latin America",
-          "link": "https://thedefiant.io/news/blockchains/tether-ceo-paolo-ardoino-says-company-biggest-bitcoin-miner-invests-orionx-to-fe0b2341",
-          "publishedOn": "2025-06-03T14:58:17.000Z",
-          "wordCount": 4608,
-          "title": "Tether CEO Paolo Ardoino Says Company Will Be Biggest Bitcoin Miner, Invests in OrionX to Boost Latin America Digital Assets",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/8fe4eda3-19cd-4f56-8da5-9e035e2eab6c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/8fe4eda3-19cd-4f56-8da5-9e035e2eab6c.png"
         }
       ]
     }
