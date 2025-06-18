@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-18T19:14:51.641Z</id>
+    <id>urn:2025-06-18T20:21:58.788Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-18T19:14:51.641Z</updated>
+    <updated>2025-06-18T20:21:58.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GENIUS Act Gains Senate Approval, But Key Regulatory Questions Remain]]></title>
+        <id>https://thedefiant.io/news/regulation/genius-act-gains-senate-approval-but-key-regulatory-questions-remain</id>
+        <link href="https://thedefiant.io/news/regulation/genius-act-gains-senate-approval-but-key-regulatory-questions-remain"/>
+        <updated>2025-06-18T20:03:35.000Z</updated>
+        <summary type="html"><![CDATA[While House Democrats don’t have the same power to block stablecoin legislation that their Senate counterparts did, the process will likely be slow.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EigenLayer Reveals EigenCloud and $70 Million Investment from A16z]]></title>
         <id>https://thedefiant.io/news/defi/eigenlayer-reveals-eigencloud-and-usd70-million-investment-from-a16z</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[A crypto industry SRO like the SEC’s FINRA could police member organizations with real teeth.]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple, X, Airbnb, and Google in Early Talks for Stablecoin Integration: Report]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/apple-x-airbnb-google-early-talks-stablecoin-integration-88bbd20f</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/apple-x-airbnb-google-early-talks-stablecoin-integration-88bbd20f"/>
-        <updated>2025-06-06T17:08:08.000Z</updated>
-        <summary type="html"><![CDATA[Major technology companies including Apple, X, Airbnb, and Google are reportedly in early discussions with cryptocurrency firms about integrating stablecoins into their platforms, according to Fortune]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>

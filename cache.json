@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/genius-act-gains-senate-approval-but-key-regulatory-questions-remain",
+          "author": "Leo Jakobson",
+          "description": "While House Democrats don’t have the same power to block stablecoin legislation that their Senate counterparts did, the process will likely be slow.",
+          "link": "https://thedefiant.io/news/regulation/genius-act-gains-senate-approval-but-key-regulatory-questions-remain",
+          "publishedOn": "2025-06-18T20:03:35.000Z",
+          "wordCount": 5404,
+          "title": "GENIUS Act Gains Senate Approval, But Key Regulatory Questions Remain",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/congress-1-ccc42ca5-ca84-4daf-8f73-4c5757442998.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/congress-1-ccc42ca5-ca84-4daf-8f73-4c5757442998.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/eigenlayer-reveals-eigencloud-and-usd70-million-investment-from-a16z",
           "author": "Squiffs",
           "description": "The Ethereum restaking protocol is expanding its development footprint with EigenCloud, designed to provide trust and verifiability to applications both on-chain and off-chain.",
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/ad64f924-8c58-443c-a7cd-d6b591ce5b2f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/apple-x-airbnb-google-early-talks-stablecoin-integration-88bbd20f",
-          "author": "DeepNewz",
-          "description": "Major technology companies including Apple, X, Airbnb, and Google are reportedly in early discussions with cryptocurrency firms about integrating stablecoins into their platforms, according to Fortune",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/apple-x-airbnb-google-early-talks-stablecoin-integration-88bbd20f",
-          "publishedOn": "2025-06-06T17:08:08.000Z",
-          "wordCount": 4612,
-          "title": "Apple, X, Airbnb, and Google in Early Talks for Stablecoin Integration: Report",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/66e53b56-dac6-4b89-8d93-fa6b9bded0ee.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/66e53b56-dac6-4b89-8d93-fa6b9bded0ee.png"
         }
       ]
     }
