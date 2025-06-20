@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/zora-introduces-new-token-system-for-social-content-and-creators",
+          "author": "Jona Jaupi",
+          "description": "The $POST and $CREATOR tokens allow creators to mint and trade individual posts.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/zora-introduces-new-token-system-for-social-content-and-creators",
+          "publishedOn": "2025-06-20T18:55:24.000Z",
+          "wordCount": 4867,
+          "title": "Zora Introduces New Token System for Social Content and Creators",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/zora-coins-1-bb084252-f86a-4da5-ae5f-36ae66c12ced.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/zora-coins-1-bb084252-f86a-4da5-ae5f-36ae66c12ced.png"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/giving-government-the-data-it-needs-not-a-byte-more",
           "author": "Katherine Kirkpatrick Bos",
           "description": "A Zero Knowledge Stance",
@@ -212,7 +227,7 @@
           "description": "Toronto-based Sol Strategies Inc. has submitted a Form 40-F registration statement to the U.S. Securities and Exchange Commission",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/sol-strategies-seeks-nasdaq-listing-72-million-solana-bet-b1827133",
           "publishedOn": "2025-06-19T12:05:14.000Z",
-          "wordCount": 4788,
+          "wordCount": 4796,
           "title": "Sol Strategies Seeks Nasdaq Listing With $72 Million Solana Bet",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/a0ddd516-f10f-4745-a57b-0e9606562f3d.jpeg",
@@ -362,7 +377,7 @@
           "description": "Klarna, the Swedish buy-now-pay-later and payments provider valued at about $15 billion, said it plans to let customers pay with Bitcoin and other cryptocurrencies",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/klarna-plans-to-accept-bitcoin-other-cryptocurrencies-customer-payments-ab593df4",
           "publishedOn": "2025-06-18T17:35:18.000Z",
-          "wordCount": 4546,
+          "wordCount": 4554,
           "title": "Klarna Plans to Accept Bitcoin and Other Cryptocurrencies for Customer Payments",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/c12fab24-6475-4f63-ab73-315a43fcf778.jpeg",
@@ -587,7 +602,7 @@
           "description": "The U.S. Senate has set a final passage vote for 4:30 p.m. Eastern on Tuesday, June 17",
           "link": "https://thedefiant.io/news/regulation/senate-sets-june-17-vote-on-bipartisan-genius-stablecoin-act-c6b045b6",
           "publishedOn": "2025-06-17T12:00:41.000Z",
-          "wordCount": 4694,
+          "wordCount": 4702,
           "title": "Senate Sets June 17 Vote on Bipartisan GENIUS Stablecoin Act",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/6780abe5-9737-4a34-8047-fb1b569a6364.jpeg",
@@ -1495,21 +1510,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/8dd11149-3820-4b26-867d-d8ce29c6e54a.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/sec-considers-innovation-exemption-for-defi-projects",
-          "author": "Leo Jakobson",
-          "description": "Industry response to the Securities and Exchange Commission’s DeFi Roundtable has been overwhelmingly positive.",
-          "link": "https://thedefiant.io/news/regulation/sec-considers-innovation-exemption-for-defi-projects",
-          "publishedOn": "2025-06-10T18:24:32.000Z",
-          "wordCount": 5566,
-          "title": "SEC Considers ‘Innovation Exemption’ for DeFi Projects",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/42f8866b-6fe0-419e-801c-4e187f907759.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/42f8866b-6fe0-419e-801c-4e187f907759.png"
         }
       ]
     }
