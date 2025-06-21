@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-21T11:15:38.516Z</id>
+    <id>urn:2025-06-21T12:35:03.140Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-21T11:15:38.516Z</updated>
+    <updated>2025-06-21T12:35:03.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OKX Launches 1:1 Bitcoin-Backed xBTC on Solana With $250K+ Rewards From Kamino Finance and Orca]]></title>
+        <id>https://thedefiant.io/news/defi/okx-launches-1-1-bitcoin-backed-xbtc-on-solana-250k-rewards-kamino-finance-orca-c924aeb9</id>
+        <link href="https://thedefiant.io/news/defi/okx-launches-1-1-bitcoin-backed-xbtc-on-solana-250k-rewards-kamino-finance-orca-c924aeb9"/>
+        <updated>2025-06-21T12:55:33.000Z</updated>
+        <summary type="html"><![CDATA[OKX has launched xBTC, a Bitcoin-backed asset, on the Solana blockchain, providing native Bitcoin liquidity to Solana's decentralized finance (DeFi) ecosystem]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Dip as Geopolitical Tensions and Fed Uncertainty Weigh on Risk Appetite]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-dip-as-geopolitical-tensions-and-fed-uncertainty-weigh-on-risk-appetite</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-dip-as-geopolitical-tensions-and-fed-uncertainty-weigh-on-risk-appetite"/>
+        <updated>2025-06-21T12:25:19.000Z</updated>
+        <summary type="html"><![CDATA[BTC, ETH and SOL fall as investors eye Middle East conflict and wait for clarity on U.S. monetary policy.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit Weighs Sam Altman’s Iris-Scanning World ID for User Checks]]></title>
+        <id>https://thedefiant.io/news/defi/reddit-weighs-sam-altmans-iris-scanning-world-id-user-checks-93bad597</id>
+        <link href="https://thedefiant.io/news/defi/reddit-weighs-sam-altmans-iris-scanning-world-id-user-checks-93bad597"/>
+        <updated>2025-06-21T11:54:12.000Z</updated>
+        <summary type="html"><![CDATA[Reddit is in discussions to adopt World ID, the biometric verification system that uses an iris-scanning “Orb” device, Semafor reported, citing people familiar with the talks]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matt Furie NFTs Crater 97% After Mint Exploit]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/matt-furie-nfts-crater-97-after-mint-exploit</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/matt-furie-nfts-crater-97-after-mint-exploit"/>
+        <updated>2025-06-21T11:49:20.000Z</updated>
+        <summary type="html"><![CDATA[The Replicandy collection plummeted after thousands of new NFTs were suddenly minted and dumped.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Onchain Gold Trading Volume Hits Record High]]></title>
         <id>https://thedefiant.io/news/defi/onchain-gold-trading-volume-hits-record-high</id>
@@ -840,7 +880,7 @@
         <id>https://thedefiant.io/news/regulation/clarity-and-genius-acts-advance-in-house-and-senate</id>
         <link href="https://thedefiant.io/news/regulation/clarity-and-genius-acts-advance-in-house-and-senate"/>
         <updated>2025-06-12T14:52:51.000Z</updated>
-        <summary type="html"><![CDATA[Both Houses of Congress have voted to move key pieces of crypto legislation forward this week.]]></summary>
+        <summary type="html"><![CDATA[The Senate’s stablecoin legislation, the GENIUS Act, as well as the House’s crypto market structure bill, the CLARITY Act, have both advanced toward a full vote.]]></summary>
         <author>
             <name>Leo Jakobson</name>
         </author>
@@ -963,46 +1003,6 @@
         <summary type="html"><![CDATA[The DeFi-focused Layer 1 started out hot, but is struggling to retain users.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAIA Rallies 40% Ahead of Korean Won Stablecoin Launch]]></title>
-        <id>https://thedefiant.io/news/blockchains/kaia-rallies-40-ahead-of-korean-won-stablecoin-launch</id>
-        <link href="https://thedefiant.io/news/blockchains/kaia-rallies-40-ahead-of-korean-won-stablecoin-launch"/>
-        <updated>2025-06-11T09:45:47.000Z</updated>
-        <summary type="html"><![CDATA[The Asia-focused Layer 1 blockchain recently integrated Tether’s USDT.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peter Thiel-Backed Crypto Exchange Bullish Confidentially Files for US IPO]]></title>
-        <id>https://thedefiant.io/news/cefi/peter-thiel-backed-crypto-exchange-bullish-confidentially-files-u-s-ipo-4af17fdc</id>
-        <link href="https://thedefiant.io/news/cefi/peter-thiel-backed-crypto-exchange-bullish-confidentially-files-u-s-ipo-4af17fdc"/>
-        <updated>2025-06-11T04:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency exchange Bullish, backed by billionaire investor Peter Thiel, has confidentially filed paperwork with the U.S. SEC, FT reports.]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal’s PYUSD Stablecoin Surpasses $1 Billion Market Capitalization]]></title>
-        <id>https://thedefiant.io/news/defi/paypal-s-pyusd-stablecoin-surpasses-usd1-billion-market-capitalization</id>
-        <link href="https://thedefiant.io/news/defi/paypal-s-pyusd-stablecoin-surpasses-usd1-billion-market-capitalization"/>
-        <updated>2025-06-10T20:35:41.000Z</updated>
-        <summary type="html"><![CDATA[The fintech giant’s native stablecoin is the 10th-largest in DeFi.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resolv Stablecoin Protocol’s Token Debuts at $300 Million Valuation]]></title>
-        <id>https://thedefiant.io/news/defi/resolv-stablecoin-protocol-s-token-debuts-at-usd300-million-valuation</id>
-        <link href="https://thedefiant.io/news/defi/resolv-stablecoin-protocol-s-token-debuts-at-usd300-million-valuation"/>
-        <updated>2025-06-10T20:16:31.000Z</updated>
-        <summary type="html"><![CDATA[RESOLV is up 25% since launching earlier today.]]></summary>
-        <author>
-            <name>Leo Jakobson</name>
         </author>
     </entry>
 </feed>
