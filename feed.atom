@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-23T17:17:10.768Z</id>
+    <id>urn:2025-06-23T18:27:26.823Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-23T17:17:10.768Z</updated>
+    <updated>2025-06-23T18:27:26.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Rebounds After Weekend Drop Triggered by U.S. Strikes on Iran]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-rebounds-after-weekend-drop-triggered-by-u-s-strikes-on-iran</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-rebounds-after-weekend-drop-triggered-by-u-s-strikes-on-iran"/>
+        <updated>2025-06-23T17:34:41.000Z</updated>
+        <summary type="html"><![CDATA[BTC is hovering around $100,000, while ETH is trading at $2,250.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Payments Giant Fiserv to Roll Out ‘Bank-Friendly’ Stablecoin on Solana]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/payments-giant-fiserv-to-roll-out-bank-friendly-stablecoin-on-solana</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/coinbase-to-integrate-base-dexs-on-its-main-app</id>
         <link href="https://thedefiant.io/news/defi/coinbase-to-integrate-base-dexs-on-its-main-app"/>
         <updated>2025-06-12T21:25:51.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase also announced perpetual futures contracts and 4% cash back on BTC with a Coinbase credit card.]]></summary>
+        <summary type="html"><![CDATA[Coinbase, the largest U.S.-based centralized crypto exchange (CEX), announced a flurry of announcements today, including perpetual swaps, a BTC rewards credit card, and access to assets trading on Ethereum Layer 2 Base, directly on the Coinbase app.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/research-and-opinion/centralized-entities-now-hold-over-30-of-bitcoin-s-supply-gemini"/>
         <updated>2025-06-11T19:03:52.000Z</updated>
         <summary type="html"><![CDATA[BlackRock tops the list as institutions reshape Bitcoin’s role in global finance amid rising adoption.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Climb Amid Cooling U.S. Inflation]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-climb-amid-cooling-u-s-inflation</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-climb-amid-cooling-u-s-inflation"/>
-        <updated>2025-06-11T18:34:01.000Z</updated>
-        <summary type="html"><![CDATA[BTC neared $110,000 while ETH surged above $2,800.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
