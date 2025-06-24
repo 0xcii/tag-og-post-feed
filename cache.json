@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/nano-labs-reveals-plans-to-build-usd1-billion-bnb-treasury-in-major-web3-push",
+          "author": "Jona Jaupi",
+          "description": "Nano Labs’ stock briefly surged 60% following the announcement.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/nano-labs-reveals-plans-to-build-usd1-billion-bnb-treasury-in-major-web3-push",
+          "publishedOn": "2025-06-24T20:13:58.000Z",
+          "wordCount": 5203,
+          "title": "Nano Labs Reveals Plans to Build $1 Billion BNB Treasury in Major Web3 Push",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/bnb-treas-1-0f9d14f5-78f9-438a-a4e2-526156ac9fc2.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/bnb-treas-1-0f9d14f5-78f9-438a-a4e2-526156ac9fc2.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/polymarket-nears-usd200-million-raise-led-by-peter-thiel-s-founders-fund",
           "author": "Squiffs",
           "description": "The funding round reportedly values the largest onchain prediction market at more than $1 billion.",
@@ -257,7 +272,7 @@
           "description": "Banking and payments titan Fiserv is entering the stablecoin race with its own token designed for regulated rails.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/payments-giant-fiserv-to-roll-out-bank-friendly-stablecoin-on-solana",
           "publishedOn": "2025-06-23T13:31:37.000Z",
-          "wordCount": 5120,
+          "wordCount": 5135,
           "title": "Payments Giant Fiserv to Roll Out ‘Bank-Friendly’ Stablecoin on Solana",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-3--9a3c5511-a49a-44d1-80f0-bdab7123de34.png",
@@ -542,7 +557,7 @@
           "description": "Visa Inc. is broadening its stablecoin programme from initial pilots in the United States and Asia-Pacific to Central and Eastern Europe, the Middle East and Africa, underscoring the card network’s view that digital tokens will play a growing role in global money movement.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/visa-expands-stablecoin-push-to-emea-yellow-card-partnership-66abdfd3",
           "publishedOn": "2025-06-19T20:00:44.000Z",
-          "wordCount": 4805,
+          "wordCount": 4826,
           "title": "Visa Expands Stablecoin Push to EMEA With Yellow Card Partnership",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/577b95e2-99c6-43ee-b651-53f032b2b0cc.jpeg",
@@ -632,7 +647,7 @@
           "description": "Backed by Ripple, the XRPQ fund has launched with 0% management fees.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/3iq-launches-one-of-north-america-s-first-xrp-etfs-on-toronto-stock-exchange",
           "publishedOn": "2025-06-19T18:13:05.000Z",
-          "wordCount": 5289,
+          "wordCount": 5304,
           "title": "3iQ Launches One of North America’s First XRP ETFs on Toronto Stock Exchange",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/xrp-etf-can-1-f5819dee-9727-4b4c-8d4d-43f58bd69d17.png",
@@ -677,7 +692,7 @@
           "description": "Toronto-based Sol Strategies Inc. has submitted a Form 40-F registration statement to the U.S. Securities and Exchange Commission",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/sol-strategies-seeks-nasdaq-listing-72-million-solana-bet-b1827133",
           "publishedOn": "2025-06-19T12:05:14.000Z",
-          "wordCount": 4798,
+          "wordCount": 4819,
           "title": "Sol Strategies Seeks Nasdaq Listing With $72 Million Solana Bet",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/a0ddd516-f10f-4745-a57b-0e9606562f3d.jpeg",
@@ -812,7 +827,7 @@
           "description": "The financial firm is making HYPE its primary reserve asset as part of a broader move into DeFi.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/lion-group-secures-usd600-million-to-launch-hype-treasury",
           "publishedOn": "2025-06-18T17:39:36.000Z",
-          "wordCount": 5158,
+          "wordCount": 5173,
           "title": "Lion Group ‘Secures $600 Million’ to Launch HYPE Treasury",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/hype-treasury-1-51dfd6ae-a8c7-4b17-9a43-9d6c2ba773fb.png",
@@ -827,7 +842,7 @@
           "description": "Klarna, the Swedish buy-now-pay-later and payments provider valued at about $15 billion, said it plans to let customers pay with Bitcoin and other cryptocurrencies",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/klarna-plans-to-accept-bitcoin-other-cryptocurrencies-customer-payments-ab593df4",
           "publishedOn": "2025-06-18T17:35:18.000Z",
-          "wordCount": 4556,
+          "wordCount": 4577,
           "title": "Klarna Plans to Accept Bitcoin and Other Cryptocurrencies for Customer Payments",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/c12fab24-6475-4f63-ab73-315a43fcf778.jpeg",
@@ -1112,7 +1127,7 @@
           "description": "The banking giant filed a trademark application for services that include trading, exchanging, and issuing digital assets, such as payment tokens and ‘blockchain-enabled currency.’",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-files-jpmd-trademark-for-digital-asset-services",
           "publishedOn": "2025-06-16T20:35:42.000Z",
-          "wordCount": 4939,
+          "wordCount": 4954,
           "title": "JPMorgan Files JPMD Trademark for Digital Asset Services",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/jpm-1-62a95fb5-da68-48e8-a702-c62cdd46f46d.png",
@@ -1187,7 +1202,7 @@
           "description": "Digital-asset platform Tron plans to go public after U",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/tron-to-go-public-via-nasdaq-reverse-merger-after-u-s-pauses-probe-ft-says-f8636f23",
           "publishedOn": "2025-06-16T12:58:13.000Z",
-          "wordCount": 4584,
+          "wordCount": 4605,
           "title": "Tron to Go Public via Nasdaq Reverse Merger After U.S. Pauses Probe, FT Says",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/1c6d1ab0-6394-48c2-9060-3843028d1120.jpeg",
@@ -1232,7 +1247,7 @@
           "description": "Corporations continue to buy altcoins such as FET, HYPE, and XRP, despite SBET plummeting.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/sharplink-slides-as-corporations-crank-up-crypto-risk",
           "publishedOn": "2025-06-16T05:35:34.000Z",
-          "wordCount": 5277,
+          "wordCount": 5292,
           "title": "SharpLink Slides as Corporations Crank Up Crypto Risk",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/corps-ape-crypto-1-d925bde4-3f53-45dc-9a71-eed0444b7559.png",
@@ -1352,7 +1367,7 @@
           "description": "Walmart Inc. and Amazon.com Inc. are evaluating the creation of their own U.S.-dollar-pegged stablecoins.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/walmart-amazon-weigh-launching-stablecoins-to-cut-payment-fees-5172e538",
           "publishedOn": "2025-06-13T10:00:34.000Z",
-          "wordCount": 4592,
+          "wordCount": 4613,
           "title": "Walmart, Amazon Weigh Launching Stablecoins to Cut Payment Fees: WSJ",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/3b44381d-99ca-4f29-9b91-a04450e195ab.jpeg",
@@ -1472,7 +1487,7 @@
           "description": "DeFi Development Corp. (DFDV), a company managing Solana's corporate treasury, has secured a $5 billion equity line of credit to accelerate its accumulation of Solana (SOL) tokens.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/defi-development-corp-secures-5-billion-equity-line-to-boost-solana-accumulation-21d08938",
           "publishedOn": "2025-06-13T02:00:34.000Z",
-          "wordCount": 4683,
+          "wordCount": 4704,
           "title": "DeFi Development Corp. Secures $5 Billion Equity Line to Boost Solana Accumulation, Stock Rises 22% to $32",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/3378b346-0c4a-4590-90ba-7e29a34d18f2.jpeg",
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/coinbase-70f57f9c-c639-47ca-9504-b2f935c0a402.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/japanese-video-game-developer-gumi-buys-y-1-billion-worth-bitcoin-96dc32cd",
-          "author": "DeepNewz",
-          "description": "Japanese video game developer Gumi has purchased ¥1 billion worth of Bitcoin, marking a notable investment by a major Japanese company in the cryptocurrency",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/japanese-video-game-developer-gumi-buys-y-1-billion-worth-bitcoin-96dc32cd",
-          "publishedOn": "2025-06-12T21:20:18.000Z",
-          "wordCount": 4505,
-          "title": "Japanese Video Game Developer Gumi Buys ¥1 Billion Worth of Bitcoin",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/b83e1ebf-b632-425b-a8d2-80c2d7b6c020.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/b83e1ebf-b632-425b-a8d2-80c2d7b6c020.jpeg"
         }
       ]
     }

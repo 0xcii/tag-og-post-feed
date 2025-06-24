@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-24T19:15:06.237Z</id>
+    <id>urn:2025-06-24T20:21:22.455Z</id>
     <title>web3::cave</title>
-    <updated>2025-06-24T19:15:06.237Z</updated>
+    <updated>2025-06-24T20:21:22.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nano Labs Reveals Plans to Build $1 Billion BNB Treasury in Major Web3 Push]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/nano-labs-reveals-plans-to-build-usd1-billion-bnb-treasury-in-major-web3-push</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/nano-labs-reveals-plans-to-build-usd1-billion-bnb-treasury-in-major-web3-push"/>
+        <updated>2025-06-24T20:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Nano Labs’ stock briefly surged 60% following the announcement.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Nears $200 Million Raise Led by Peter Thiel’s Founders Fund]]></title>
         <id>https://thedefiant.io/news/defi/polymarket-nears-usd200-million-raise-led-by-peter-thiel-s-founders-fund</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Coinbase also announced perpetual futures contracts and 4% cash back on BTC with a Coinbase credit card.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese Video Game Developer Gumi Buys ¥1 Billion Worth of Bitcoin]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/japanese-video-game-developer-gumi-buys-y-1-billion-worth-bitcoin-96dc32cd</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/japanese-video-game-developer-gumi-buys-y-1-billion-worth-bitcoin-96dc32cd"/>
-        <updated>2025-06-12T21:20:18.000Z</updated>
-        <summary type="html"><![CDATA[Japanese video game developer Gumi has purchased ¥1 billion worth of Bitcoin, marking a notable investment by a major Japanese company in the cryptocurrency]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
