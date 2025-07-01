@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-01T19:14:50.895Z</id>
+    <id>urn:2025-07-01T20:20:30.825Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-01T19:14:50.895Z</updated>
+    <updated>2025-07-01T20:20:30.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Circle Launches USDC Chain Abstraction Tool for Devs]]></title>
+        <id>https://thedefiant.io/news/infrastructure/circle-launches-usdc-chain-abstraction-tool-for-devs</id>
+        <link href="https://thedefiant.io/news/infrastructure/circle-launches-usdc-chain-abstraction-tool-for-devs"/>
+        <updated>2025-07-01T19:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Circle Gateway unifies USDC held across different chains into a single balance with cross-chain liquidity.]]></summary>
+        <author>
+            <name>Leo Jakobson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitget Teams With Mastercard to Launch Zero-Fee Crypto Card in UK and EU]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/bitget-teams-mastercard-to-launch-zero-fee-crypto-card-uk-eu-f0bd92e1</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/bitget-teams-mastercard-to-launch-zero-fee-crypto-card-uk-eu-f0bd92e1"/>
+        <updated>2025-07-01T19:05:01.000Z</updated>
+        <summary type="html"><![CDATA[Bitget Wallet unveiled a partnership with Mastercard and payments infrastructure provider Immersve to launch the Bitget Wallet Card, a crypto-linked payment product that went live on 1 July]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Approves Grayscale Multi-Asset Spot Crypto ETF]]></title>
         <id>https://thedefiant.io/news/regulation/sec-approves-grayscale-multi-asset-spot-crypto-etf-381102d5</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The token price has trended alongside the platform’s revenue, which has declined significantly from its peak.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zora Introduces New Token System for Social Content and Creators]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/zora-introduces-new-token-system-for-social-content-and-creators</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/zora-introduces-new-token-system-for-social-content-and-creators"/>
-        <updated>2025-06-20T18:55:24.000Z</updated>
-        <summary type="html"><![CDATA[The $POST and $CREATOR tokens allow creators to mint and trade individual posts.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giving Government the Data It Needs — Not a Byte More]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/giving-government-the-data-it-needs-not-a-byte-more</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/giving-government-the-data-it-needs-not-a-byte-more"/>
-        <updated>2025-06-20T17:44:51.000Z</updated>
-        <summary type="html"><![CDATA[A Zero Knowledge Stance]]></summary>
-        <author>
-            <name>Katherine Kirkpatrick Bos</name>
         </author>
     </entry>
 </feed>
