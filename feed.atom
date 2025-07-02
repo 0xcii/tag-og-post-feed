@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-02T18:27:10.686Z</id>
+    <id>urn:2025-07-02T19:15:10.278Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-02T18:27:10.686Z</updated>
+    <updated>2025-07-02T19:15:10.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Tops $109,000 After Senate Passes Trump’s ‘Big Beautiful Bill’]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-tops-usd109-000-after-senate-passes-trump-s-big-beautiful-bill</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-tops-usd109-000-after-senate-passes-trump-s-big-beautiful-bill"/>
+        <updated>2025-07-02T18:37:56.000Z</updated>
+        <summary type="html"><![CDATA[ETH jumps 6% to $2,560, while Solana and XRP gain over 3%]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Art Blocks’ PostParams Enable a New Medium for Generative Art]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/art-blocks-postparams-enable-a-new-medium-for-generative-art</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The stablecoin issuer has outpaced USDC’s $60 billion market cap after CRCL shares jumped 13% on the day.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Believe Launchpad Pauses Some On-Chain Payouts, Asks Creators to Switch to PayPal]]></title>
-        <id>https://thedefiant.io/news/defi/believe-launchpad-pauses-some-on-chain-payouts-asks-creators-to-switch-to-paypal</id>
-        <link href="https://thedefiant.io/news/defi/believe-launchpad-pauses-some-on-chain-payouts-asks-creators-to-switch-to-paypal"/>
-        <updated>2025-06-23T19:12:19.000Z</updated>
-        <summary type="html"><![CDATA[The founder of the Solana-based token launchpad confirmed that ‘around 50 coins’ are affected.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
