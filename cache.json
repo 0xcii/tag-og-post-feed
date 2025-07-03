@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/polymarket-caught-in-crossfire-over-zelenskyy-suit-bet",
+          "author": "Denis Omelchenko",
+          "description": "A simple bet on whether the Ukrainian President would wear a suit has turned into a messy showdown on the leading prediction market.",
+          "link": "https://thedefiant.io/news/defi/polymarket-caught-in-crossfire-over-zelenskyy-suit-bet",
+          "publishedOn": "2025-07-03T20:03:24.000Z",
+          "wordCount": 5123,
+          "title": "Polymarket Caught in Crossfire Over Zelenskyy Suit Bet",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/suit-bet-1-png-72ac0816-03e1-4029-ac8c-9c0a576d80f4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/suit-bet-1-png-72ac0816-03e1-4029-ac8c-9c0a576d80f4.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/impossible-cloud-network-launches-mainnet-and-token-raises-usd34m-at-usd470m-valuation",
           "author": "Jona Jaupi",
           "description": "The decentralized cloud platform now supports over 1,000 enterprises as $ICNT goes live on Binance, Kraken, and Bybit.",
@@ -1107,7 +1122,7 @@
           "description": "World Liberty Financial, a decentralized-finance platform launched by former U.S. President Donald Trump, has secured a $100 million investment from Aqua1 Fund,",
           "link": "https://thedefiant.io/news/defi/trump-backed-defi-startup-gets-100-million-uaes-aqua1-fund-dcb2b36d",
           "publishedOn": "2025-06-26T16:05:01.000Z",
-          "wordCount": 4583,
+          "wordCount": 4581,
           "title": "Trump-Backed DeFi Startup Gets $100 Million From UAE’s Aqua1 Fund",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/641f6060-59ef-40e1-90db-16cf1b72836d.jpeg",
@@ -1490,21 +1505,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/247fe16a-4ad0-407b-94bb-51813da0137e.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-surges-above-usd106-000-on-dovish-fed-signals-despite-lingering-geopolitical-tensions",
-          "author": "Jona Jaupi",
-          "description": "Fed chair Powell’s remarks and cease-fire hopes lift BTC, ETH, and altcoins.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-surges-above-usd106-000-on-dovish-fed-signals-despite-lingering-geopolitical-tensions",
-          "publishedOn": "2025-06-24T17:41:34.000Z",
-          "wordCount": 5082,
-          "title": "Bitcoin Surges Above $106,000 on Dovish Fed Signals Despite Lingering Geopolitical Tensions",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/btc-soars-1-0d25a6cc-3fee-4a6a-8394-888b75281bde.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/btc-soars-1-0d25a6cc-3fee-4a6a-8394-888b75281bde.png"
         }
       ]
     }
