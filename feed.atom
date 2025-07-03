@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-03T20:19:57.604Z</id>
+    <id>urn:2025-07-03T21:17:22.440Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-03T20:19:57.604Z</updated>
+    <updated>2025-07-03T21:17:22.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[HYPE Rallies Ahead of CoreWriter Launch]]></title>
+        <id>https://thedefiant.io/news/defi/hype-rallies-ahead-of-corewriter-launch</id>
+        <link href="https://thedefiant.io/news/defi/hype-rallies-ahead-of-corewriter-launch"/>
+        <updated>2025-07-03T20:31:35.000Z</updated>
+        <summary type="html"><![CDATA[The CoreWriter contract will enable HyperEVM DeFi applications to directly interact with Hyperliquid’s perpetuals exchange, Hypercore.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Caught in Crossfire Over Zelenskyy Suit Bet]]></title>
         <id>https://thedefiant.io/news/defi/polymarket-caught-in-crossfire-over-zelenskyy-suit-bet</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The funding round reportedly values the largest onchain prediction market at more than $1 billion.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Issues $250 Million in New USDC on Solana]]></title>
-        <id>https://thedefiant.io/news/blockchains/circle-issues-250-million-new-usdc-on-solana-2f68454d</id>
-        <link href="https://thedefiant.io/news/blockchains/circle-issues-250-million-new-usdc-on-solana-2f68454d"/>
-        <updated>2025-06-24T19:05:03.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain data show that Circle, the issuer of the USD Coin stablecoin, created roughly 250 million USDC (about $249.9 million) in a single transaction on the Solana network on 24 June.]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
