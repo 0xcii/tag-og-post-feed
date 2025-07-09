@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/polymarket-controversy-heats-up-after-the-zelenskyy-suit-market-resolves",
+          "author": "Squiffs",
+          "description": "Some users are going as far as to call it “the biggest scam in Polymarket history”, while UMA goes on record to say there is “no evidence” of foulplay.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/polymarket-controversy-heats-up-after-the-zelenskyy-suit-market-resolves",
+          "publishedOn": "2025-07-09T20:37:17.000Z",
+          "wordCount": 5718,
+          "title": "Polymarket Controversy Heats Up After the Zelenskyy Suit Market Resolves",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/polymarket-controversy-png-42601bef-cd36-46d7-88f9-a43b934a6b3b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/polymarket-controversy-png-42601bef-cd36-46d7-88f9-a43b934a6b3b.png"
+        },
+        {
           "id": "https://thedefiant.io/podcasts-and-videos/podcast/inside-kadena-s-usd50m-leap-grant-program-next-gen-scalability-and-insights-from-ceo-stuart",
           "author": "Virginia Valenzuela",
           "description": "Explore the unfolding landscape of crypto and blockchain innovation in our in-depth interview with Stuart Popejoy, CEO of Kadena and former head of JP Morgan’s Center for Blockchain Excellence. Guided by the following chapters, this conversation illuminates the journey from the earliest days of institutional blockchain to Kadena’s latest breakthroughs.",
@@ -1229,7 +1244,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/circle-launches-usdc-chain-abstraction-tool-for-devs",
           "author": "Leo Jakobson",
-          "description": "Circle Gateway unifies USDC held across different chains into a single balance with cross-chain liquidity.",
+          "description": "Circle has unveiled a new tool for developers that will let holders of its USDC stablecoin access a unified balance across supported blockchains.",
           "link": "https://thedefiant.io/news/infrastructure/circle-launches-usdc-chain-abstraction-tool-for-devs",
           "publishedOn": "2025-07-01T19:41:40.000Z",
           "wordCount": 5368,
@@ -1480,21 +1495,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/person-v2-20--1cca614d-ae87-46f5-a5f9-99252821b95d.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/solana-staking-etf-to-launch-wednesday",
-          "author": "Squiffs",
-          "description": "The approval may pave the way for the staking of other ETF assets, such as ETH and BTC.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/solana-staking-etf-to-launch-wednesday",
-          "publishedOn": "2025-06-30T16:32:29.000Z",
-          "wordCount": 4895,
-          "title": "Solana Staking ETF to Launch Wednesday",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/jpm-1-1--20a04bb0-8bd7-48a4-8aad-bc0facdd474c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/jpm-1-1--20a04bb0-8bd7-48a4-8aad-bc0facdd474c.png"
         }
       ]
     }
