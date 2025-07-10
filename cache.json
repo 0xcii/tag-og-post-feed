@@ -12,6 +12,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aave-outperforms-defi-in-q2",
+          "author": "Jona Jaupi",
+          "description": "The protocol now holds 48% of all DeFi lending TVL and nearly a quarter of DeFi TVL overall.",
+          "link": "https://thedefiant.io/news/defi/aave-outperforms-defi-in-q2",
+          "publishedOn": "2025-07-10T20:16:35.000Z",
+          "wordCount": 5589,
+          "title": "Aave Outperforms DeFi Sector with 52% TVL Surge in Q2",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2-56-png-f8009bf4-c18a-4442-94ef-445c528c65f3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2-56-png-f8009bf4-c18a-4442-94ef-445c528c65f3.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/avalanche-all-time-high-activity-driven-by-gaming-and-dexs",
+          "author": "Squiffs",
+          "description": "The L1 network has processed more than double its total 2024 transaction count in the first half of 2025.",
+          "link": "https://thedefiant.io/news/blockchains/avalanche-all-time-high-activity-driven-by-gaming-and-dexs",
+          "publishedOn": "2025-07-10T19:29:25.000Z",
+          "wordCount": 5261,
+          "title": "Avalanche Surpasses All-Time High Activity, Driven by Gaming and DEXs",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2-55-png-9c9e37e6-e220-4aa7-8c12-9a0e02d081c7.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2-55-png-9c9e37e6-e220-4aa7-8c12-9a0e02d081c7.png"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/bitcoin-treasury-companies-keyrock-report",
           "author": "Jona Jaupi",
           "description": "Corporate BTC treasuries now control nearly 4% of the BTC supply, per a new report from Keyrock.",
@@ -1249,7 +1279,7 @@
         {
           "id": "https://thedefiant.io/news/defi/plume-taps-trump-linked-wlfi-stablecoin-usd1-to-power-rwa-ecosystem",
           "author": "Jona Jaupi",
-          "description": "Plume Network has partnered with World Liberty Financial (WLFI) to make USD1 the official reserve asset for its native stablecoin, pUSD. Plume is a blockchain designed to bring real-world assets (RWAs) on-chain – it currently boasts a total value locked (TVL) of $231 million.",
+          "description": "The partnership with World Liberty Financial aims to accelerate USD1’s multichain expansion.",
           "link": "https://thedefiant.io/news/defi/plume-taps-trump-linked-wlfi-stablecoin-usd1-to-power-rwa-ecosystem",
           "publishedOn": "2025-07-02T13:36:11.000Z",
           "wordCount": 5412,
@@ -1470,36 +1500,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/resolv-1-1-png-73df6907-8ecb-4877-8803-6f8d693ab835.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/circle-applies-for-us-trust-bank-license",
-          "author": "Squiffs",
-          "description": "If approved, Circle would be permitted to act as its own custodian and also hold digital assets on behalf of institutional partners.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/circle-applies-for-us-trust-bank-license",
-          "publishedOn": "2025-07-01T03:04:13.000Z",
-          "wordCount": 5033,
-          "title": "Circle Applies for US Trust Bank License",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/jpm-1-1-png-85807e53-2cae-461f-b0d5-0bf433bfbd27.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/jpm-1-1-png-85807e53-2cae-461f-b0d5-0bf433bfbd27.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/defi-focused-layer-2-katana-launches-mainnet-with-usd200-million-in-pre-deposits",
-          "author": "Jona Jaupi",
-          "description": "The new blockchain aims to address some of DeFi’s most persistent problems: low liquidity, unreliable yields, and capital constantly flowing out of the system.",
-          "link": "https://thedefiant.io/news/blockchains/defi-focused-layer-2-katana-launches-mainnet-with-usd200-million-in-pre-deposits",
-          "publishedOn": "2025-06-30T21:00:09.000Z",
-          "wordCount": 5432,
-          "title": "DeFi-focused Layer 2 Katana Launches Mainnet With $200 Million in Pre-Deposits",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/launch-1-png-fffa1dd2-50d1-444c-9d16-d57bd5b80b02.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/launch-1-png-fffa1dd2-50d1-444c-9d16-d57bd5b80b02.png"
         }
       ]
     }
