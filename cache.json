@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-breaks-usd118k-all-time-high-as-crypto-rally-accelerates",
+          "author": "Jona Jaupi",
+          "description": "ETH pushed past $3K earlier today for the first time since February.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-breaks-usd118k-all-time-high-as-crypto-rally-accelerates",
+          "publishedOn": "2025-07-11T15:50:09.000Z",
+          "wordCount": 5862,
+          "title": "Bitcoin Breaks Fresh $118K All-Time High as Crypto Rally Accelerates",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2-60-png-3715dadf-9e92-4019-bd33-e3c308a8512b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2-60-png-3715dadf-9e92-4019-bd33-e3c308a8512b.png"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/coinbase-partners-with-perplexity-ai",
           "author": "Squiffs",
           "description": "The deal marks what appears to be the centralized exchange's first major data integration with a large-scale LLM.",
@@ -62,7 +77,7 @@
           "description": "Ethereum’s ether token climbed above $3,000 in early trading on 11 July, the first time it has crossed the level since February",
           "link": "https://thedefiant.io/news/markets/ethereum-tops-3000-on-etf-buying-after-15-three-day-rally-c06fb88c",
           "publishedOn": "2025-07-11T08:00:35.000Z",
-          "wordCount": 4808,
+          "wordCount": 4784,
           "title": "Ethereum Tops $3,000 on ETF Buying After 15% Three-Day Rally",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/f0bb4f26-d48f-4437-ab30-67357a41d1d9.jpeg",
@@ -1490,21 +1505,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/8c9b9d6d-6980-4bf9-aaed-8e7cf1cd1f17.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/circle-launches-usdc-chain-abstraction-tool-for-devs",
-          "author": "Leo Jakobson",
-          "description": "Circle Gateway unifies USDC held across different chains into a single balance with cross-chain liquidity.",
-          "link": "https://thedefiant.io/news/infrastructure/circle-launches-usdc-chain-abstraction-tool-for-devs",
-          "publishedOn": "2025-07-01T19:41:40.000Z",
-          "wordCount": 5414,
-          "title": "Circle Launches USDC Chain Abstraction Tool for Devs",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2-25-png-48d01fdc-d2cf-4d78-8970-8028fa2d9a82.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2-25-png-48d01fdc-d2cf-4d78-8970-8028fa2d9a82.png"
         }
       ]
     }
