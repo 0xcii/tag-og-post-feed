@@ -12,6 +12,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/traders-predict-incoming-supply-crunch-as-ether-rallies-to-usd3-000",
+          "author": "Denis Omelchenko",
+          "description": "Ethereum is gaining momentum as institutional investors ramp up exposure through ETFs, while approximately 30% of the total ETH supply is now staked.",
+          "link": "https://thedefiant.io/news/markets/traders-predict-incoming-supply-crunch-as-ether-rallies-to-usd3-000",
+          "publishedOn": "2025-07-15T06:15:32.000Z",
+          "wordCount": 5192,
+          "title": "Traders Predict Incoming ‘Supply Crunch’ as Ether Rallies to $3,000",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/eth-crunch-1-png-28c35bb1-c3d3-4341-9951-1760246e318a.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/eth-crunch-1-png-28c35bb1-c3d3-4341-9951-1760246e318a.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/research-and-opinion/u-s-turns-to-stablecoins-to-bolster-dollar-s-global-dominance-sygnum",
+          "author": "Jona Jaupi",
+          "description": "As the U.S. dollar suffers its worst H1 since 1973, Washington views dollar-backed stablecoins as a tool to counter de-dollarization.",
+          "link": "https://thedefiant.io/news/research-and-opinion/u-s-turns-to-stablecoins-to-bolster-dollar-s-global-dominance-sygnum",
+          "publishedOn": "2025-07-15T05:54:13.000Z",
+          "wordCount": 5252,
+          "title": "U.S. Turns to Stablecoins to Bolster Dollar’s Global Dominance: Sygnum",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/usd-stables-1-png-43ca300d-2011-4f37-9156-7c654262c5bb.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/usd-stables-1-png-43ca300d-2011-4f37-9156-7c654262c5bb.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/ripple-rlusd-stablecoin-passes-usd515-million-flips-trueusd",
           "author": "Leo Jakobson",
           "description": "Last week, the firm announced BNY Mellon will be the custodian of RLUSD’s reserves.",
@@ -167,7 +197,7 @@
           "description": "Crypto project Pump",
           "link": "https://thedefiant.io/news/markets/pump-fun-raises-500-million-minutes-pump-token-sale-fc226b29",
           "publishedOn": "2025-07-12T17:00:35.000Z",
-          "wordCount": 4643,
+          "wordCount": 4635,
           "title": "Pump.fun Raises $500 Million in Minutes in PUMP Token Sale",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/1200178d-8853-445b-8397-0e29ad795fc2.jpeg",
@@ -242,7 +272,7 @@
           "description": "The four-day event on humanity’s permissionless future was invite-only, without even a stint for a few of the ‘next billion users’",
           "link": "https://thedefiant.io/news/research-and-opinion/the-revolution-is-coming-no-entry-without-a-ticket",
           "publishedOn": "2025-07-11T17:12:09.000Z",
-          "wordCount": 6699,
+          "wordCount": 6697,
           "title": "The Revolution is Coming — No Entry Without a Ticket",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/object-v2---2025-07-11t130535-844-png-73c1cd19-cdb1-4bd2-a3f5-28b8383b57f5.png",
@@ -272,7 +302,7 @@
           "description": "A year ago, The Defiant started publishing AI-generated stories provided by DeepNewz.",
           "link": "https://thedefiant.io/news/research-and-opinion/the-defiant-deepnewz-collaboration-how-ai-can-help-journalism",
           "publishedOn": "2025-07-11T16:06:05.000Z",
-          "wordCount": 5955,
+          "wordCount": 5936,
           "title": "The Defiant + DeepNewz Collaboration: How AI Can Help Journalism",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/partnersship-png-33b1493e-66e6-4028-89dd-8a2abf5bfc6f.png",
@@ -632,7 +662,7 @@
           "description": "Ripple’s U.S. dollar-pegged stablecoin, RLUSD, has surpassed a market capitalization of roughly $500 million",
           "link": "https://thedefiant.io/news/markets/ripple-stablecoin-rlusd-tops-500-million-valuation-seven-months-7b98e3be",
           "publishedOn": "2025-07-09T14:05:23.000Z",
-          "wordCount": 4602,
+          "wordCount": 4594,
           "title": "Ripple Stablecoin RLUSD Tops $500 Million Valuation in Seven Months",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/4d0a0802-2bb0-429e-961d-03e2e1e35398.jpeg",
@@ -662,7 +692,7 @@
           "description": "Japanese public company Remixpoint has raised approximately ¥31.5 billion (around $215 million) through a financing round aimed at expanding its Bitcoin holdings.",
           "link": "https://thedefiant.io/news/markets/japan-remixpoint-raises-y-31-5-billion-215-million-to-acquire-up-to-3000-54a55b8b",
           "publishedOn": "2025-07-09T13:05:23.000Z",
-          "wordCount": 4614,
+          "wordCount": 4606,
           "title": "Japan's Remixpoint Raises ¥31.5 Billion ($215 Million) to Acquire up to 3,000 Bitcoin",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/22315813-91cd-4293-b2e3-fcbb35939f14.png",
@@ -1082,7 +1112,7 @@
           "description": "New research from Flipside reveals that fewer than 5% of wallets typically handle the majority of on-chain transfer volume.",
           "link": "https://thedefiant.io/news/research-and-opinion/less-than-5-of-wallets-generate-most-on-chain-value-report",
           "publishedOn": "2025-07-04T19:11:58.000Z",
-          "wordCount": 5288,
+          "wordCount": 5269,
           "title": "Less Than 5% of Wallets Generate Most On-Chain Value: Report",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/power-users-1-png-9702f516-8b0a-4de5-80a3-b8864b1a8562.png",
@@ -1172,7 +1202,7 @@
           "description": "ETH slides 3.8% to $2,513, while Solana and XRP lose 3%",
           "link": "https://thedefiant.io/news/markets/bitcoin-struggles-to-break-usd110-000-as-dormant-whales-move-billions-in-btc",
           "publishedOn": "2025-07-04T16:21:36.000Z",
-          "wordCount": 5061,
+          "wordCount": 5053,
           "title": "Bitcoin Struggles to Break $110,000 as Dormant Whales Move Billions in BTC",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/btc-whales-1-png-4f836506-9a1b-4447-88ad-f507877a894c.png",
@@ -1367,7 +1397,7 @@
           "description": "Bitcoin tags $110,000 as investor sentiment improves following positive jobs data.",
           "link": "https://thedefiant.io/news/markets/crypto-market-rises-as-u-s-labor-market-remains-resilient",
           "publishedOn": "2025-07-03T17:53:18.000Z",
-          "wordCount": 5500,
+          "wordCount": 5492,
           "title": "Crypto Market Rises as US Labor Market Remains Resilient",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/btc-110-1-png-d8e940d1-e11f-4b5e-b003-5f3a31bdd1c3.png",
@@ -1480,36 +1510,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/d05aa879-ff64-476b-91ac-e12d86369bb0.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/sec-stays-approval-grayscale-multi-asset-crypto-etf-5518b5c5",
-          "author": "DeepNewz",
-          "description": "The U.S. Securities and Exchange Commission has stayed a July 1 decision made by a delegated authority",
-          "link": "https://thedefiant.io/news/regulation/sec-stays-approval-grayscale-multi-asset-crypto-etf-5518b5c5",
-          "publishedOn": "2025-07-02T23:35:02.000Z",
-          "wordCount": 4717,
-          "title": "SEC Stays Approval of Grayscale Multi-Asset Crypto ETF",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/83bf6e26-9e7d-4834-8c09-edecd5f9c16f.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/83bf6e26-9e7d-4834-8c09-edecd5f9c16f.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/belgiums-kbc-bank-300-billion-assets-to-launch-bitcoin-ether-trading-on-bolero-086b574a",
-          "author": "DeepNewz",
-          "description": "Belgium’s KBC Bank, the country’s second-largest banking institution with approximately 4 million users and $300 billion in assets, plans to enable retail clients to trade Bitcoin (BTC) and Ether (ETH) through its Bolero investment platform",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/belgiums-kbc-bank-300-billion-assets-to-launch-bitcoin-ether-trading-on-bolero-086b574a",
-          "publishedOn": "2025-07-02T22:05:01.000Z",
-          "wordCount": 4793,
-          "title": "Belgium’s KBC Bank With $300 Billion Assets to Launch Bitcoin and Ether Trading on Bolero Platform Pending Autumn 2025 Approval",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/cebe51ae-c85b-4d7a-a491-623cb59a8964.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/cebe51ae-c85b-4d7a-a491-623cb59a8964.jpeg"
         }
       ]
     }
