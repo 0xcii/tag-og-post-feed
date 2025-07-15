@@ -12,6 +12,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/defi-platform-arcadia-hit-3-5-million-exploit-on-base-b9c14dec",
+          "author": "DeepNewz",
+          "description": "Decentralized-finance platform Arcadia, which operates on Coinbase-backed Layer-2 network Base, suffered an exploit on 15 July that drained an estimated $3.5 million from its liquidity pools",
+          "link": "https://thedefiant.io/news/hacks/defi-platform-arcadia-hit-3-5-million-exploit-on-base-b9c14dec",
+          "publishedOn": "2025-07-15T13:00:35.000Z",
+          "wordCount": 4647,
+          "title": "DeFi Platform Arcadia Hit by $3.5 Million Exploit on Base",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/17ed2747-c094-46c8-b67c-22cf781c82aa.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/17ed2747-c094-46c8-b67c-22cf781c82aa.jpeg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/nyse-arca-clears-proshares-2x-leveraged-xrp-etf-d19ca522",
+          "author": "DeepNewz",
+          "description": "NYSE Arca approved two new leveraged cryptocurrency funds from ProShares, authorizing the ProShares Ultra XRP ETF under the ticker UXRP and the ProShares Ultra SOL ETF",
+          "link": "https://thedefiant.io/news/markets/nyse-arca-clears-proshares-2x-leveraged-xrp-etf-d19ca522",
+          "publishedOn": "2025-07-15T12:35:35.000Z",
+          "wordCount": 4632,
+          "title": "NYSE Arca Clears ProShares 2x Leveraged XRP ETF",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/6503770e-1fdd-4973-8a65-932493cd7b84.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/6503770e-1fdd-4973-8a65-932493cd7b84.jpeg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/bitcoin-mempool-emptiness-sparks-network-security-concerns",
           "author": "Denis Omelchenko",
           "description": "With transaction demand drying up and fee income plunging, experts warn Bitcoin faces a sustainability crisis despite its price hitting all-time highs.",
@@ -55,6 +85,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/altcoin-treasuries-1-png-1e08c25e-ee58-421a-a757-102dfff45c23.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/standard-chartered-opens-bitcoin-ether-spot-trading-institutions-30e84f48",
+          "author": "DeepNewz",
+          "description": "Standard Chartered has begun offering deliverable spot trading in Bitcoin and Ether to institutional clients through its UK subsidiary, becoming the first global systemically important bank to provide regulated, on-balance-sheet access to the two largest cryptocurrencies",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/standard-chartered-opens-bitcoin-ether-spot-trading-institutions-30e84f48",
+          "publishedOn": "2025-07-15T09:00:35.000Z",
+          "wordCount": 4755,
+          "title": "Standard Chartered Opens Bitcoin and Ether Spot Trading for Institutions",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/9b880807-fec9-4c52-b73e-7523f0e14180.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/9b880807-fec9-4c52-b73e-7523f0e14180.jpeg"
         },
         {
           "id": "https://thedefiant.io/news/blockchains/ethereum-prepares-zkevm-upgrade-to-cut-validator-hardware-requirements",
@@ -132,6 +177,21 @@
           "imageUrl": "https://cdn.thedefiant.io/usd-stables-1-png-43ca300d-2011-4f37-9156-7c654262c5bb.png"
         },
         {
+          "id": "https://thedefiant.io/news/regulation/fed-fdic-occ-clarify-banks-hold-crypto-under-strict-rules-d3f4616e",
+          "author": "DeepNewz",
+          "description": "The Federal Reserve, the Federal Deposit Insurance Corporation and the Office of the Comptroller of the Currency issued joint guidance on 14 July reaffirming that U.S. banks may offer custody services for Bitcoin and other crypto assets.",
+          "link": "https://thedefiant.io/news/regulation/fed-fdic-occ-clarify-banks-hold-crypto-under-strict-rules-d3f4616e",
+          "publishedOn": "2025-07-14T21:30:35.000Z",
+          "wordCount": 4719,
+          "title": "Fed, FDIC and OCC Clarify Banks May Hold Crypto Under Strict Rules",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/f914e5f7-5d61-4832-a0ec-1307bd425d10.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/f914e5f7-5d61-4832-a0ec-1307bd425d10.jpeg"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/ripple-rlusd-stablecoin-passes-usd515-million-flips-trueusd",
           "author": "Leo Jakobson",
           "description": "Last week, the firm announced BNY Mellon will be the custodian of RLUSD’s reserves.",
@@ -175,6 +235,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/person-v2-63-png-7559d0cb-0bfc-4bca-bb27-a207596f5f96.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/aave-surpasses-50-billion-net-deposits-51-billion-tvl-holding-17-9-defi-market-551ddbe2",
+          "author": "DeepNewz",
+          "description": "Aave, a decentralized lending protocol, has surpassed $50 billion in net deposits, marking a milestone in the decentralized finance (DeFi) sector",
+          "link": "https://thedefiant.io/news/defi/aave-surpasses-50-billion-net-deposits-51-billion-tvl-holding-17-9-defi-market-551ddbe2",
+          "publishedOn": "2025-07-14T16:00:35.000Z",
+          "wordCount": 4767,
+          "title": "Aave Surpasses $50 Billion Net Deposits and $51 Billion TVL, Holding 17.9% DeFi Market Share and Top 50 US Bank Ranking",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/1b2bbd2f-7819-4612-932e-16888f690490.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/1b2bbd2f-7819-4612-932e-16888f690490.png"
         },
         {
           "id": "https://thedefiant.io/news/regulation/grayscale-files-confidential-ipo-plan-sec-ce6ed816",
@@ -797,7 +872,7 @@
           "description": "Ripple on Wednesday named Bank of New York Mellon as the primary custodian for the U.S. dollar reserves backing Ripple USD (RLUSD)",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ripple-picks-bny-mellon-to-custody-reserves-rlusd-stablecoin-2e9689c7",
           "publishedOn": "2025-07-09T13:05:23.000Z",
-          "wordCount": 4826,
+          "wordCount": 4820,
           "title": "Ripple Picks BNY Mellon to Custody Reserves for RLUSD Stablecoin",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/179e7e27-c2f8-459b-85dc-e1161d22148e.png",
@@ -1184,7 +1259,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/ripple-applies-for-us-banking-license-heating-up-domestic-stablecoin-race",
           "author": "Leo Jakobson",
-          "description": "A growing number of crypto firms have applied for banking licenses or are thinking of doing so as TradFi and crypto continue to mingle.",
+          "description": "Days after USDC stablecoin issuer Circle revealed that it had applied for a national trust bank charter, Ripple Labs has followed suit with a similar move.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ripple-applies-for-us-banking-license-heating-up-domestic-stablecoin-race",
           "publishedOn": "2025-07-04T20:36:22.000Z",
           "wordCount": 6225,
@@ -1259,7 +1334,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/telegram-linked-crypto-wallet-developer-raises-usd28-5m-as-ton-s-first-unicorn",
           "author": "Denis Omelchenko",
-          "description": "The Open Platform, a startup building crypto tools for Telegram, said in a press release shared with The Defiant that it has raised $28.5 million in new funding at a $1 billion valuation. The company, also known as TOP, claims to be the first unicorn in the ecosystem built on The Open Network (TON), which Telegram tapped as its exclusive blockchain partner in January.",
+          "description": "The Open Platform just joined the billion-dollar club with its latest raise.",
           "link": "https://thedefiant.io/news/nfts-and-web3/telegram-linked-crypto-wallet-developer-raises-usd28-5m-as-ton-s-first-unicorn",
           "publishedOn": "2025-07-04T17:22:26.000Z",
           "wordCount": 6160,
@@ -1322,7 +1397,7 @@
           "description": "Ondo Finance said it has agreed to acquire Oasis Pro, a U.S. brokerage platform that holds Securities and Exchange Commission registrations for broker-dealer, alternative trading system and transfer-agent services.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ondo-finance-buys-sec-regulated-oasis-pro-to-broaden-tokenized-stocks-2ae32a54",
           "publishedOn": "2025-07-04T15:05:01.000Z",
-          "wordCount": 4776,
+          "wordCount": 4772,
           "title": "Ondo Finance Buys SEC-Regulated Oasis Pro to Broaden Tokenized Stocks",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/9b4b410c-8ca0-42e0-af81-9e4ecd3be1ff.jpeg",
@@ -1435,81 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/suit-bet-1-png-72ac0816-03e1-4029-ac8c-9c0a576d80f4.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/impossible-cloud-network-launches-mainnet-and-token-raises-usd34m-at-usd470m-valuation",
-          "author": "Jona Jaupi",
-          "description": "The decentralized cloud platform now supports over 1,000 enterprises as $ICNT goes live on Binance, Kraken, and Bybit.",
-          "link": "https://thedefiant.io/news/blockchains/impossible-cloud-network-launches-mainnet-and-token-raises-usd34m-at-usd470m-valuation",
-          "publishedOn": "2025-07-03T19:06:01.000Z",
-          "wordCount": 5250,
-          "title": "Impossible Cloud Network Launches Mainnet and Token, Raises $34M at $470M Valuation",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/icn-1-png-842f18c4-8eae-4bfe-8cee-a70e0f3e59e5.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/icn-1-png-842f18c4-8eae-4bfe-8cee-a70e0f3e59e5.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/moodeng-spikes-on-pygmy-hippo-s-birthday-upbit-listing",
-          "author": "Leo Jakobson",
-          "description": "The Thai zoo’s viral baby hippo will celebrate its first birthday with a three-day extravaganza, just as South Korean exchange Upbit lists its eponymous token.",
-          "link": "https://thedefiant.io/news/markets/moodeng-spikes-on-pygmy-hippo-s-birthday-upbit-listing",
-          "publishedOn": "2025-07-03T18:53:34.000Z",
-          "wordCount": 4870,
-          "title": "MOODENG Spikes on Pygmy Hippo’s Birthday, Upbit Listing",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/moodeng-1-2-png-b91be2d2-94ae-4668-8055-56a8a3920381.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/moodeng-1-2-png-b91be2d2-94ae-4668-8055-56a8a3920381.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/whiterock-founder-linked-to-usd30-million-zkasino-scam-arrested-in-uae",
-          "author": "Squiffs",
-          "description": "Ildar Ilham, known as Prometheus on X, was arrested in the United Arab Emirates (UAE) today.",
-          "link": "https://thedefiant.io/news/regulation/whiterock-founder-linked-to-usd30-million-zkasino-scam-arrested-in-uae",
-          "publishedOn": "2025-07-03T18:34:28.000Z",
-          "wordCount": 5019,
-          "title": "WhiteRock Founder Linked to $30 Million Zkasino Scam Arrested in UAE",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/arrest-1-png-63bf6d5f-ada5-428d-abe8-414e4b7a24b2.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/arrest-1-png-63bf6d5f-ada5-428d-abe8-414e4b7a24b2.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-market-rises-as-u-s-labor-market-remains-resilient",
-          "author": "Jona Jaupi",
-          "description": "Bitcoin tags $110,000 as investor sentiment improves following positive jobs data.",
-          "link": "https://thedefiant.io/news/markets/crypto-market-rises-as-u-s-labor-market-remains-resilient",
-          "publishedOn": "2025-07-03T17:53:18.000Z",
-          "wordCount": 5489,
-          "title": "Crypto Market Rises as US Labor Market Remains Resilient",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/btc-110-1-png-d8e940d1-e11f-4b5e-b003-5f3a31bdd1c3.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/btc-110-1-png-d8e940d1-e11f-4b5e-b003-5f3a31bdd1c3.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/useless-coin-surges-leading-the-solana-memecoin-scene",
-          "author": "Squiffs",
-          "description": "The token is up 90% this week as the Solana memecoin trenches slowly crawl back to life.",
-          "link": "https://thedefiant.io/news/markets/useless-coin-surges-leading-the-solana-memecoin-scene",
-          "publishedOn": "2025-07-03T17:48:26.000Z",
-          "wordCount": 5120,
-          "title": "Useless Coin Surges, Leading the Solana Memecoin Scene",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2-32-png-cc7d622a-bd33-44a5-8060-00959f882b43.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2-32-png-cc7d622a-bd33-44a5-8060-00959f882b43.png"
         }
       ]
     }
