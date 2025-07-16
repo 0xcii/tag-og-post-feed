@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-16T08:27:30.971Z</id>
+    <id>urn:2025-07-16T09:25:21.950Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-16T08:27:30.971Z</updated>
+    <updated>2025-07-16T09:25:21.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Brokerage Giant Warns Tether ‘Will Inevitably Be Eroded’ by Compliant Stablecoins]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/chinese-brokerage-giant-warns-tether-will-inevitably-be-eroded-by-compliant-stablecoins</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/chinese-brokerage-giant-warns-tether-will-inevitably-be-eroded-by-compliant-stablecoins"/>
+        <updated>2025-07-16T08:30:42.000Z</updated>
+        <summary type="html"><![CDATA[New stablecoin rules in the EU and U.S. are making it harder for Tether to stay competitive in mainstream finance, according to a report by a major Chinese financial firm.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cross-Chain Crypto Crime Hits $21.8 Billion as Scams, Sanctions Evasion Surge: Elliptic]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/cross-chain-crypto-crime-hits-usd21-8-billion-as-scams-sanctions-evasion-surge-elliptic</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/crypto-market-dips-after-trump-brics-tariff-threat</id>
         <link href="https://thedefiant.io/news/markets/crypto-market-dips-after-trump-brics-tariff-threat"/>
         <updated>2025-07-07T16:49:22.000Z</updated>
-        <summary type="html"><![CDATA[The total cryptocurrency market cap dropped 3.5% to $3.4 trillion on Monday, starting the week in red as United States President Donald Trump renewed geopolitical tensions ahead of his Wednesday tariff deadline.]]></summary>
+        <summary type="html"><![CDATA[Most large-cap crypto assets are down slightly, with the exception of XRP.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Bitwise's CIO says it's still too early to call predictions for BTC all-time highs and ETF flows for this year.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram-Linked Crypto Wallet Developer Raises $28.5M as TON’s First Unicorn]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/telegram-linked-crypto-wallet-developer-raises-usd28-5m-as-ton-s-first-unicorn</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/telegram-linked-crypto-wallet-developer-raises-usd28-5m-as-ton-s-first-unicorn"/>
-        <updated>2025-07-04T17:22:26.000Z</updated>
-        <summary type="html"><![CDATA[The Open Platform just joined the billion-dollar club with its latest raise.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
