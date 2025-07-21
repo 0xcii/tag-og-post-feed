@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-21T11:17:47.104Z</id>
+    <id>urn:2025-07-21T12:42:12.163Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-21T11:17:47.104Z</updated>
+    <updated>2025-07-21T12:42:12.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Ether Machine Secures $1.5 Billion in Commitments to Go Public via SPAC Merger]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/the-ether-machine-secures-usd1-5-billion-in-commitments-to-go-public-via-spac-merger</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/the-ether-machine-secures-usd1-5-billion-in-commitments-to-go-public-via-spac-merger"/>
+        <updated>2025-07-21T12:27:50.000Z</updated>
+        <summary type="html"><![CDATA[A new Ethereum-focused public vehicle is planning a Nasdaq debut with more than $1.5 billion in backing and a strategy built around ETH yield.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liquid Collective TVL Surges Above $1.3 Billion After Solana Expansion]]></title>
         <id>https://thedefiant.io/news/defi/liquid-collective-tvl-surges-above-usd1-3-billion-after-solana-expansion</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[ETH, XRP, and SOL all see modest gains today, as total market cap dips.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pumpfun Confirms Token Launch, Tokenomics, and ICO Details]]></title>
-        <id>https://thedefiant.io/news/tokens/pumpfun-confirms-pump-token-launch-tokenomics-ico-details</id>
-        <link href="https://thedefiant.io/news/tokens/pumpfun-confirms-pump-token-launch-tokenomics-ico-details"/>
-        <updated>2025-07-09T14:58:14.000Z</updated>
-        <summary type="html"><![CDATA[After over a month of anticipation, memecoin launchpad pumpfun announced the official details of its upcoming ICO for PUMP.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>

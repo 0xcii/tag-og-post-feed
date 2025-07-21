@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/the-ether-machine-secures-usd1-5-billion-in-commitments-to-go-public-via-spac-merger",
+          "author": "Denis Omelchenko",
+          "description": "A new Ethereum-focused public vehicle is planning a Nasdaq debut with more than $1.5 billion in backing and a strategy built around ETH yield.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/the-ether-machine-secures-usd1-5-billion-in-commitments-to-go-public-via-spac-merger",
+          "publishedOn": "2025-07-21T12:27:50.000Z",
+          "wordCount": 5376,
+          "title": "The Ether Machine Secures $1.5 Billion in Commitments to Go Public via SPAC Merger",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ether-machine-1-png-099ac995-2c9c-4d69-b3c0-7e760509d19b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ether-machine-1-png-099ac995-2c9c-4d69-b3c0-7e760509d19b.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/liquid-collective-tvl-surges-above-usd1-3-billion-after-solana-expansion",
           "author": "Squiffs",
           "description": "The institution-focused liquid staking protocol’s total value locked (TVL) has increased by more than 500% since April.",
@@ -272,7 +287,7 @@
           "description": "If approved by the SEC, the rule change would allow institutions to earn yield on BlackRock's ETHA.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-spot-ethereum-etf-looks-to-add-staking",
           "publishedOn": "2025-07-17T17:55:11.000Z",
-          "wordCount": 5333,
+          "wordCount": 5369,
           "title": "Nasdaq Files to Add Staking to BlackRock’s ETH ETF",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-3-png-601fee75-dd5b-422f-bd05-e7f4f4497a3e.png",
@@ -287,7 +302,7 @@
           "description": "Ethereum ETFs saw their highest daily inflows yet, led by BlackRock’s fund.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-spot-etfs-see-record-inflows",
           "publishedOn": "2025-07-17T17:19:50.000Z",
-          "wordCount": 5264,
+          "wordCount": 5300,
           "title": "ETH ETFs See Record Inflows, Over 100x Daily Ethereum Network Issuance",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-2-png-45399720-a58e-4f4f-9639-ceb10f929770.png",
@@ -302,7 +317,7 @@
           "description": "DeFi Development Corp. teams with Kraken, Pantera, and others to create local SOL funds under new “Treasury Accelerator” program.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/defi-development-corp-announces-global-franchise-strategy",
           "publishedOn": "2025-07-17T16:04:42.000Z",
-          "wordCount": 5611,
+          "wordCount": 5647,
           "title": "Top SOL Treasury Firm DFDV Announces Global Franchise Strategy",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-1-png-23e26ce6-c84d-4e45-a54a-b512e250c4b9.png",
@@ -407,7 +422,7 @@
           "description": "The bank joins other major financial institutions embracing stablecoins and crypto services as regulations ease and market demand grows.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/citigroup-explores-launching-citi-stablecoin",
           "publishedOn": "2025-07-16T18:27:12.000Z",
-          "wordCount": 5364,
+          "wordCount": 5400,
           "title": "Citigroup Explores Launching ‘Citi Stablecoin’ Amid Rising Crypto Interest",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-76-png-d840a121-2549-40f9-b10d-033451b8896a.png",
@@ -482,7 +497,7 @@
           "description": "Citigroup is evaluating the issuance of its own dollar-backed stablecoin, Chief Executive Officer Jane Fraser told analysts on the bank’s second-quarter 2025 earnings call",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/citigroup-explores-issuing-stablecoin-plans-4-billion-buyback-4f022859",
           "publishedOn": "2025-07-16T11:00:35.000Z",
-          "wordCount": 4677,
+          "wordCount": 4714,
           "title": "Citigroup Explores Issuing Stablecoin, Plans $4 Billion Buyback",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/ecd502cc-63d2-4ac2-96e1-512e9a7e7e97.jpeg",
@@ -767,7 +782,7 @@
           "description": "The crypto treasury game is quickly evolving as companies like Sonnet accumulate altcoins for their reserves, signaling a shift to more diverse crypto strategies.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/public-firms-move-beyond-bitcoin-as-biotech-firm-picks-hyperliquid-for-treasury-strategy",
           "publishedOn": "2025-07-15T09:27:39.000Z",
-          "wordCount": 5228,
+          "wordCount": 5264,
           "title": "Public Firms Move Beyond Bitcoin as Biotech Firm Picks Hyperliquid for Treasury Strategy",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/altcoin-treasuries-1-png-1e08c25e-ee58-421a-a757-102dfff45c23.png",
@@ -782,7 +797,7 @@
           "description": "Standard Chartered has begun offering deliverable spot trading in Bitcoin and Ether to institutional clients through its UK subsidiary, becoming the first global systemically important bank to provide regulated, on-balance-sheet access to the two largest cryptocurrencies",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/standard-chartered-opens-bitcoin-ether-spot-trading-institutions-30e84f48",
           "publishedOn": "2025-07-15T09:00:35.000Z",
-          "wordCount": 4768,
+          "wordCount": 4802,
           "title": "Standard Chartered Opens Bitcoin and Ether Spot Trading for Institutions",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/9b880807-fec9-4c52-b73e-7523f0e14180.jpeg",
@@ -887,7 +902,7 @@
           "description": "Last week, the firm announced BNY Mellon will be the custodian of RLUSD’s reserves.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ripple-rlusd-stablecoin-passes-usd515-million-flips-trueusd",
           "publishedOn": "2025-07-14T18:08:37.000Z",
-          "wordCount": 5407,
+          "wordCount": 5443,
           "title": "Ripple’s RLUSD Market Cap Passes $515M, Flips TrueUSD",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-65-png-7351adf6-8749-4e4f-ae38-93015c5aeeb2.png",
@@ -962,7 +977,7 @@
           "description": "Sonnet BioTherapeutics, a Nasdaq-listed clinical-stage biotechnology company, said it will merge with Rorschach I LLC in an all-stock deal that values the combined business at about $888 million",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/nasdaqs-sonnet-to-merge-rorschach-form-888-million-crypto-treasury-firm-2a394ad2",
           "publishedOn": "2025-07-14T13:21:58.000Z",
-          "wordCount": 4771,
+          "wordCount": 4808,
           "title": "Nasdaq’s Sonnet to Merge With Rorschach, Form $888 Million Crypto Treasury Firm",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/007607b0-b7c9-4e4c-afc3-c7edf7b8e7f0.jpeg",
@@ -1490,21 +1505,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/person-v2-49-png-984dcff1-3262-4a8d-8f5d-077b9890c31c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/pumpfun-confirms-pump-token-launch-tokenomics-ico-details",
-          "author": "Squiffs",
-          "description": "After over a month of anticipation, memecoin launchpad pumpfun announced the official details of its upcoming ICO for PUMP.",
-          "link": "https://thedefiant.io/news/tokens/pumpfun-confirms-pump-token-launch-tokenomics-ico-details",
-          "publishedOn": "2025-07-09T14:58:14.000Z",
-          "wordCount": 5194,
-          "title": "Pumpfun Confirms Token Launch, Tokenomics, and ICO Details",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2-47-png-b1b661d9-ef89-41fe-b09a-9a05099fff83.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2-47-png-b1b661d9-ef89-41fe-b09a-9a05099fff83.png"
         }
       ]
     }
