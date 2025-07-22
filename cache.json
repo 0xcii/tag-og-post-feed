@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-wobble-as-fed-chair-powell-faces-pressure",
+          "author": "Jona Jaupi",
+          "description": "Bitcoin holds steady over $118,000, while Ethereum retreats slightly.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-wobble-as-fed-chair-powell-faces-pressure",
+          "publishedOn": "2025-07-22T17:10:02.000Z",
+          "wordCount": 5894,
+          "title": "Crypto Markets Wobble as Fed Chair Powell Faces Pressure",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2-14-png-0291a290-62ea-405c-b584-50db5f89df52.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2-14-png-0291a290-62ea-405c-b584-50db5f89df52.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/solana-flips-bnb-on-back-of-multi-million-dollar-bet-and-defi-surge",
           "author": "Denis Omelchenko",
           "description": "Solana became the fifth-largest cryptocurrency again, after it was overtaken by BNB in February.",
@@ -32,8 +47,8 @@
           "description": "Telegram users in the U.S. can now transfer crypto as easily as sending a message.",
           "link": "https://thedefiant.io/news/defi/ton-wallet-launches-in-u-s-bringing-telegram-integrated-crypto-to-millions-of-users",
           "publishedOn": "2025-07-22T14:00:17.000Z",
-          "wordCount": 5332,
-          "title": "TON Wallet Launches in U.S., Bringing Telegram-Integrated Crypto to Millions of Users",
+          "wordCount": 5396,
+          "title": "TON Wallet Launches in US, Bringing Telegram-Integrated Crypto to Millions of Users",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/img-wk2ku8mx6csbighkl7plfatw-png-2ea68254-3c35-4da7-b05f-7c0a8525b86a.png",
             "length": "1000000",
@@ -1244,7 +1259,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-hits-new-all-time-high-above-usd122-800-as-crypto-markets-gain-momentum",
           "author": "Jona Jaupi",
-          "description": "Spot Bitcoin ETFs record over $1 billion in inflows amid growing integration of crypto and traditional assets.",
+          "description": "Bitcoin (BTC) set another all-time high on Monday, July 14, climbing past multiple price milestones to break above $122,800 early this morning, as major digital assets continued their climb.",
           "link": "https://thedefiant.io/news/markets/bitcoin-hits-new-all-time-high-above-usd122-800-as-crypto-markets-gain-momentum",
           "publishedOn": "2025-07-14T16:26:25.000Z",
           "wordCount": 5974,
@@ -1490,21 +1505,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/person-v2-61-png-d0d61f0a-869c-42fa-aa0d-a9576556185d.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/the-defiant-deepnewz-collaboration-how-ai-can-help-journalism",
-          "author": "Camila Russo",
-          "description": "A year ago, The Defiant started publishing AI-generated stories provided by DeepNewz.",
-          "link": "https://thedefiant.io/news/research-and-opinion/the-defiant-deepnewz-collaboration-how-ai-can-help-journalism",
-          "publishedOn": "2025-07-11T16:06:05.000Z",
-          "wordCount": 6011,
-          "title": "The Defiant + DeepNewz Collaboration: How AI Can Help Journalism",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/partnersship-png-33b1493e-66e6-4028-89dd-8a2abf5bfc6f.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/partnersship-png-33b1493e-66e6-4028-89dd-8a2abf5bfc6f.png"
         }
       ]
     }

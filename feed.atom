@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-22T16:26:03.892Z</id>
+    <id>urn:2025-07-22T17:19:32.880Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-22T16:26:03.892Z</updated>
+    <updated>2025-07-22T17:19:32.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Wobble as Fed Chair Powell Faces Pressure]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-wobble-as-fed-chair-powell-faces-pressure</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-wobble-as-fed-chair-powell-faces-pressure"/>
+        <updated>2025-07-22T17:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin holds steady over $118,000, while Ethereum retreats slightly.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOL Flips BNB on Back of Multi-Million Dollar Treasury Bet and DeFi Surge]]></title>
         <id>https://thedefiant.io/news/markets/solana-flips-bnb-on-back-of-multi-million-dollar-bet-and-defi-surge</id>
@@ -16,7 +26,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TON Wallet Launches in U.S., Bringing Telegram-Integrated Crypto to Millions of Users]]></title>
+        <title type="html"><![CDATA[TON Wallet Launches in US, Bringing Telegram-Integrated Crypto to Millions of Users]]></title>
         <id>https://thedefiant.io/news/defi/ton-wallet-launches-in-u-s-bringing-telegram-integrated-crypto-to-millions-of-users</id>
         <link href="https://thedefiant.io/news/defi/ton-wallet-launches-in-u-s-bringing-telegram-integrated-crypto-to-millions-of-users"/>
         <updated>2025-07-22T14:00:17.000Z</updated>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-hits-new-all-time-high-above-usd122-800-as-crypto-markets-gain-momentum</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-hits-new-all-time-high-above-usd122-800-as-crypto-markets-gain-momentum"/>
         <updated>2025-07-14T16:26:25.000Z</updated>
-        <summary type="html"><![CDATA[Spot Bitcoin ETFs record over $1 billion in inflows amid growing integration of crypto and traditional assets.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin (BTC) set another all-time high on Monday, July 14, climbing past multiple price milestones to break above $122,800 early this morning, as major digital assets continued their climb.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[XRP, DOGE, ADA and XLM are seeing double digits gains today]]></summary>
         <author>
             <name>Leo Jakobson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Defiant + DeepNewz Collaboration: How AI Can Help Journalism]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/the-defiant-deepnewz-collaboration-how-ai-can-help-journalism</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/the-defiant-deepnewz-collaboration-how-ai-can-help-journalism"/>
-        <updated>2025-07-11T16:06:05.000Z</updated>
-        <summary type="html"><![CDATA[A year ago, The Defiant started publishing AI-generated stories provided by DeepNewz.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
