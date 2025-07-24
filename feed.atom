@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-24T08:27:50.641Z</id>
+    <id>urn:2025-07-24T09:24:30.012Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-24T08:27:50.641Z</updated>
+    <updated>2025-07-24T09:24:30.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DoJ’s Tornado Cash Case Wobbles After Jury Hears Questionable Evidence]]></title>
+        <id>https://thedefiant.io/news/regulation/doj-s-tornado-cash-case-wobbles-after-jury-hears-questionable-evidence</id>
+        <link href="https://thedefiant.io/news/regulation/doj-s-tornado-cash-case-wobbles-after-jury-hears-questionable-evidence"/>
+        <updated>2025-07-24T09:02:58.000Z</updated>
+        <summary type="html"><![CDATA[The DoJ’s case against Roman Storm may be nearing its end, but scrutiny over shaky evidence, contested tracing methods, and potential prosecutorial overreach is only intensifying.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Physical Bitcoin Bar Redeemed for $10 Million After 13 Years]]></title>
         <id>https://thedefiant.io/news/markets/physical-bitcoin-bar-redeemed-for-usd10-million-after-13-years</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/tac-mainnet-launch-to-bring-defi-back-to-telegram</id>
         <link href="https://thedefiant.io/news/defi/tac-mainnet-launch-to-bring-defi-back-to-telegram"/>
         <updated>2025-07-15T17:36:45.000Z</updated>
-        <summary type="html"><![CDATA[TAC has officially launched its mainnet on Tuesday, July 15, enabling Ethereum-compatible decentralized finance applications to operate within Telegram’s user ecosystem.]]></summary>
+        <summary type="html"><![CDATA[Telegram users can now access Ethereum dApps directly through the messenger, following the mainnet launch of TAC.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[As the U.S. dollar suffers its worst H1 since 1973, Washington views dollar-backed stablecoins as a tool to counter de-dollarization.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fed, FDIC and OCC Clarify Banks May Hold Crypto Under Strict Rules]]></title>
-        <id>https://thedefiant.io/news/regulation/fed-fdic-occ-clarify-banks-hold-crypto-under-strict-rules-d3f4616e</id>
-        <link href="https://thedefiant.io/news/regulation/fed-fdic-occ-clarify-banks-hold-crypto-under-strict-rules-d3f4616e"/>
-        <updated>2025-07-14T21:30:35.000Z</updated>
-        <summary type="html"><![CDATA[The Federal Reserve, the Federal Deposit Insurance Corporation and the Office of the Comptroller of the Currency issued joint guidance on 14 July reaffirming that U.S. banks may offer custody services for Bitcoin and other crypto assets.]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
