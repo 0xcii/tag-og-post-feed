@@ -12,6 +12,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/physical-bitcoin-bar-redeemed-for-usd10-million-after-13-years",
+          "author": "Squiffs",
+          "description": "An often-overlooked part of the cryptocurrency market recorded a huge redemption in May, drawing attention back to physical Bitcoin bars.",
+          "link": "https://thedefiant.io/news/markets/physical-bitcoin-bar-redeemed-for-usd10-million-after-13-years",
+          "publishedOn": "2025-07-24T08:15:52.000Z",
+          "wordCount": 5302,
+          "title": "Physical Bitcoin Bar Redeemed for $10 Million After 13 Years",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/physical-btc-1-png-90505e21-a6f6-49e9-bdf6-4e85c88e3dab.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/physical-btc-1-png-90505e21-a6f6-49e9-bdf6-4e85c88e3dab.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/research-and-opinion/crypto-payments-gain-ground-in-gaming-travel-and-daily-purchases-bitget",
+          "author": "Jona Jaupi",
+          "description": "A survey of 4,599 users reveals rising demand for practical, everyday crypto spending.",
+          "link": "https://thedefiant.io/news/research-and-opinion/crypto-payments-gain-ground-in-gaming-travel-and-daily-purchases-bitget",
+          "publishedOn": "2025-07-24T07:46:38.000Z",
+          "wordCount": 5316,
+          "title": "Crypto Payments Gain Ground in Gaming, Travel, and Daily Purchases: Bitget",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/crypto-spending-1-png-01fd90b9-2d83-414f-bdb9-f9f1490bf336.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/crypto-spending-1-png-01fd90b9-2d83-414f-bdb9-f9f1490bf336.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/spark-rallies-more-than-400-as-tvl-explodes-to-usd8-billion",
+          "author": "Squiffs",
+          "description": "The DeFi capital allocator’s TVL is up 250% since April, and the protocol’s SPK token is now following suit.",
+          "link": "https://thedefiant.io/news/defi/spark-rallies-more-than-400-as-tvl-explodes-to-usd8-billion",
+          "publishedOn": "2025-07-24T07:31:45.000Z",
+          "wordCount": 4945,
+          "title": "Spark Rallies More than 400% as TVL Explodes to $8 Billion",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/spark-1-png-7ddd806e-89a6-48c3-9783-6a3a4f9efd3e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/spark-1-png-7ddd806e-89a6-48c3-9783-6a3a4f9efd3e.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/solana-staking-protocol-jito-plans-to-allocate-100-of-protocol-fees-to-dao",
           "author": "Denis Omelchenko",
           "description": "The core team behind Jito Network plans to distribute 100% of protocol fee revenue to the DAO treasury, relinquishing its share under a new proposal.",
@@ -32,7 +77,7 @@
           "description": "Cryptocurrency prices fell amid rising global trade tensions. Still, ETH ETFs continue to drive strong inflows.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-slide-amid-trump-trade-shocks",
           "publishedOn": "2025-07-23T19:14:55.000Z",
-          "wordCount": 5827,
+          "wordCount": 5782,
           "title": "Crypto Markets Slide Amid Trump Trade Shocks",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/object-v2---2025-07-23t152836-591-png-97df3393-3c73-4f99-b0ae-0a519a217469.png",
@@ -257,7 +302,7 @@
           "description": "Bitcoin holds steady over $118,000, while Ethereum retreats slightly.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-wobble-as-fed-chair-powell-faces-pressure",
           "publishedOn": "2025-07-22T17:10:02.000Z",
-          "wordCount": 5876,
+          "wordCount": 5831,
           "title": "Crypto Markets Wobble as Fed Chair Powell Faces Pressure",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-14-png-0291a290-62ea-405c-b584-50db5f89df52.png",
@@ -272,7 +317,7 @@
           "description": "Solana became the fifth-largest cryptocurrency again, after it was overtaken by BNB in February.",
           "link": "https://thedefiant.io/news/markets/solana-flips-bnb-on-back-of-multi-million-dollar-bet-and-defi-surge",
           "publishedOn": "2025-07-22T15:43:20.000Z",
-          "wordCount": 5160,
+          "wordCount": 5115,
           "title": "SOL Flips BNB on Back of Multi-Million Dollar Treasury Bet and DeFi Surge",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-13-png-173ad21b-8221-4751-aa4d-05862019a5f4.png",
@@ -362,7 +407,7 @@
           "description": "Solana (SOL) has surpassed Binance Coin (BNB) in market capitalization, claiming the fifth spot among cryptocurrencies",
           "link": "https://thedefiant.io/news/markets/solana-surpasses-binance-coin-107b-market-cap-price-above-200-leading-daily-90b478b8",
           "publishedOn": "2025-07-22T08:30:35.000Z",
-          "wordCount": 4742,
+          "wordCount": 4701,
           "title": "Solana Surpasses Binance Coin With $107B Market Cap, Price Above $200, Leading Daily Gainer and Transactions",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/7f96d36d-d25f-46b0-a44c-b9431b5435a5.jpeg",
@@ -422,7 +467,7 @@
           "description": "Major crypto assets are mostly flat today, with the exception of SOL and DOGE, amid concerns over tariffs and UK BTC sale.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-mixed-bitcoin-holds-steady-market-update-july-21",
           "publishedOn": "2025-07-21T18:30:37.000Z",
-          "wordCount": 5965,
+          "wordCount": 5920,
           "title": "Crypto Markets Mixed, BTC Holds Steady amid Major Trade and Regulatory News",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-12-png-ed22028c-a4b5-4c27-b10d-bdc8d1aec4db.png",
@@ -497,7 +542,7 @@
           "description": "Ethereum Classic users face long delays on Coinbase as the exchange holds firm on an 11-hour confirmation wait despite improved network security.",
           "link": "https://thedefiant.io/news/markets/etc-soars-50-in-a-month-as-community-presses-coinbase-to-reduce-transaction-wait-times",
           "publishedOn": "2025-07-21T13:06:33.000Z",
-          "wordCount": 5208,
+          "wordCount": 5163,
           "title": "ETC Soars 50% in a Month as Community Presses Coinbase to Reduce Transaction Wait Times",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/etc-1-png-d1b0ebc1-1f2b-4376-b9c5-eb46f68732c3.png",
@@ -512,7 +557,7 @@
           "description": "MicroStrategy Inc. disclosed that it acquired 6,220 Bitcoin between 14 and 20 July for roughly $739.8 million",
           "link": "https://thedefiant.io/news/markets/microstrategy-buys-6220-bitcoin-holdings-top-607000-tokens-eacd723d",
           "publishedOn": "2025-07-21T13:00:35.000Z",
-          "wordCount": 4680,
+          "wordCount": 4639,
           "title": "MicroStrategy Buys 6,220 Bitcoin, Holdings Top 607,000 Tokens",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/30831932-d57d-4c85-b8c8-2de463bcee3e.jpeg",
@@ -602,7 +647,7 @@
           "description": "Block Inc., the payments and financial-services company founded by Jack Dorsey, has been approved for inclusion in the S&P 500",
           "link": "https://thedefiant.io/news/markets/block-joins-s-p-500-adding-8584-bitcoin-to-the-index-1a1e57b8",
           "publishedOn": "2025-07-19T09:30:35.000Z",
-          "wordCount": 4728,
+          "wordCount": 4683,
           "title": "Block Joins S&amp; P 500, Adding 8,584 Bitcoin to the Index",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/caec63fa-4d07-4443-bdb2-6a9771e56322.jpeg",
@@ -662,7 +707,7 @@
           "description": "U.S.-linked crypto assets are rallying after the House signaled regulatory clarity for the crypto industry, and President Trump signed the stablecoin bill into law.",
           "link": "https://thedefiant.io/news/markets/made-in-usa-crypto-assets-surge-after-house-passes-crypto-bills",
           "publishedOn": "2025-07-18T20:58:49.000Z",
-          "wordCount": 6057,
+          "wordCount": 6012,
           "title": "‘Made in USA’ Crypto Coins Surge as Trump Signs Stablecoin GENIUS Act",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-7-png-5d9c8b9e-416c-4975-b475-19fce0696e90.png",
@@ -692,7 +737,7 @@
           "description": "The stock ripped past its previous all-time high from 2021, but has retraced since.",
           "link": "https://thedefiant.io/news/markets/coinbase-all-time-high-crypto-bills-base-app",
           "publishedOn": "2025-07-18T19:54:56.000Z",
-          "wordCount": 5322,
+          "wordCount": 5277,
           "title": "COIN Rallies to New All-Time High After Crypto Bills Pass, Base App Reveal",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-6-png-d019164e-154c-48b1-8880-57389260bb9c.png",
@@ -707,7 +752,7 @@
           "description": "GENIUS, CLARITY, and Anti-CBDC Acts drive fresh gains in XRP, ETH, and DOGE while driving ETF inflows past $1 billion.",
           "link": "https://thedefiant.io/news/markets/crypto-market-cap-hits-usd4-trillion-milestone-as-us-house-passes-landmark-bills",
           "publishedOn": "2025-07-18T17:11:34.000Z",
-          "wordCount": 6083,
+          "wordCount": 6038,
           "title": "Crypto Market Cap Hits $4 Trillion Milestone as US House Passes Landmark Bills",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-5-png-6c3b27de-87a7-4e1f-a35e-52643b85aa36.png",
@@ -767,7 +812,7 @@
           "description": "Market strategist Tom Lee told CNBC he expects Ethereum’s blockchain to become the backbone of bank-issued stablecoins, predicting lenders will acquire Ether not for speculation but as core infrastructure to secure and settle their digital liabilities",
           "link": "https://thedefiant.io/news/markets/tom-lee-predicts-bank-ethereum-buying-sbet-plans-5-billion-purchase-574b54b2",
           "publishedOn": "2025-07-18T03:30:35.000Z",
-          "wordCount": 4917,
+          "wordCount": 4872,
           "title": "Tom Lee Predicts Bank Ethereum Buying as SBET Plans $5 Billion Purchase",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/190d986b-78fc-47d0-96ce-1bbf746a01d4.jpeg",
@@ -782,7 +827,7 @@
           "description": "Ether climbed more than 5% in late-day trading Thursday, reaching $3,606",
           "link": "https://thedefiant.io/news/markets/ethereum-jumps-above-3600-market-value-tops-430-billion-3f1101b9",
           "publishedOn": "2025-07-18T03:30:35.000Z",
-          "wordCount": 4734,
+          "wordCount": 4689,
           "title": "Ethereum Jumps Above $3,600, Market Value Tops $430 Billion",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/779d702b-5aca-4842-aa7e-1fe198a7d367.jpeg",
@@ -812,7 +857,7 @@
           "description": "Two whales who bought into the ICO have sold more than $100 million worth of PUMP so far.",
           "link": "https://thedefiant.io/news/markets/pump-struggles-despite-usd20-million-buyback",
           "publishedOn": "2025-07-17T21:22:07.000Z",
-          "wordCount": 5134,
+          "wordCount": 5089,
           "title": "PUMP Struggles Despite $20 Million Buyback",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/object-v3-11-png-a7ebee05-c7cf-4fc4-b7a5-44607da6f644.png",
@@ -842,7 +887,7 @@
           "description": "Ethereum ETFs see record inflows as House pushes crypto bills, but investor confidence continues to waver.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-mixed-amid-trump-tariff-threats-and-crypto-week-drama",
           "publishedOn": "2025-07-17T19:28:48.000Z",
-          "wordCount": 5563,
+          "wordCount": 5518,
           "title": "Crypto Markets Mixed amid Trump’s Tariff Threats and Crypto Week Drama",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-4-png-833faa63-08fc-471f-8083-ae7050125a71.png",
@@ -947,7 +992,7 @@
           "description": "Ethereum-linked spot exchange-traded funds attracted roughly US$717 million in net subscriptions on 16 July, the largest single-day haul since the products launched",
           "link": "https://thedefiant.io/news/markets/ethereum-spot-etfs-set-record-nearly-720-million-inflows-ea5bb181",
           "publishedOn": "2025-07-17T04:00:35.000Z",
-          "wordCount": 4812,
+          "wordCount": 4771,
           "title": "Ethereum Spot ETFs Set Record With Nearly $720 Million Inflows",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/54c24eba-3f18-42ce-ae53-e189b87844d8.jpeg",
@@ -977,7 +1022,7 @@
           "description": "Bitcoin and Ethereum post gains after softer PPI data while ETFs see steady inflows.",
           "link": "https://thedefiant.io/news/markets/crypto-market-rally-on-ppi-data-july-16",
           "publishedOn": "2025-07-16T19:23:13.000Z",
-          "wordCount": 5568,
+          "wordCount": 5523,
           "title": "Crypto Markets Rally as Traders Digest PPI Data",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-77-png-c801c610-d253-4b5b-93e9-f4c3851241e9.png",
@@ -1007,7 +1052,7 @@
           "description": "World Liberty Financial, an investment vehicle linked to U.S. President Donald Trump, purchased 1,531 Ether for roughly $5 million on Wednesday, per on-chain data",
           "link": "https://thedefiant.io/news/markets/trump-linked-wlfi-adds-us-5-million-ether-lifted-holdings-to-66000-coins-d0b82ff0",
           "publishedOn": "2025-07-16T18:05:35.000Z",
-          "wordCount": 4680,
+          "wordCount": 4639,
           "title": "Trump-Linked WLFI Adds $5 Million in Ether, Lifted Holdings to 66,000+ Coins",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/0a3a557c-4051-4394-b26e-1d6217bbaa74.jpeg",
@@ -1052,7 +1097,7 @@
           "description": "Most Brazilian crypto users still struggle to use stablecoins for everyday payments, a new survey from Oobit reveals.",
           "link": "https://thedefiant.io/news/research-and-opinion/brazil-stablecoin-usage-survey-oobit",
           "publishedOn": "2025-07-16T13:29:53.000Z",
-          "wordCount": 5371,
+          "wordCount": 5383,
           "title": "Brazilian Crypto Users Want to Pay with Stablecoins, Survey Shows",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-71-png-d48f6de4-1ccc-46f4-985a-4f0cc343e9f5.png",
@@ -1082,7 +1127,7 @@
           "description": "Peter Thiel’s Founders Fund disclosed a 9.1% passive stake in BitMine Immersion Technologies, according to a Schedule 13G filed with the U.S. Securities and Exchange Commission on 15 July.",
           "link": "https://thedefiant.io/news/markets/thiels-founders-fund-takes-9-1-stake-ethereum-treasury-firm-bitmine-267ff782",
           "publishedOn": "2025-07-16T10:30:35.000Z",
-          "wordCount": 4829,
+          "wordCount": 4784,
           "title": "Thiel’s Founders Fund Takes 9.1% Stake in Ethereum Treasury Firm BitMine",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/9dbe1119-a8a0-448a-a591-a82b9c902c63.jpeg",
@@ -1214,7 +1259,7 @@
         {
           "id": "https://thedefiant.io/news/defi/tac-mainnet-launch-to-bring-defi-back-to-telegram",
           "author": "Denis Omelchenko",
-          "description": "Telegram users can now access Ethereum dApps directly through the messenger, following the mainnet launch of TAC.",
+          "description": "TAC has officially launched its mainnet on Tuesday, July 15, enabling Ethereum-compatible decentralized finance applications to operate within Telegram’s user ecosystem.",
           "link": "https://thedefiant.io/news/defi/tac-mainnet-launch-to-bring-defi-back-to-telegram",
           "publishedOn": "2025-07-15T17:36:45.000Z",
           "wordCount": 5183,
@@ -1277,7 +1322,7 @@
           "description": "BTC dips after week-long rally, as inflation and trade tensions weigh on investor sentiment.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-slide-as-traders-weigh-inflation-data-trump-trade-moves",
           "publishedOn": "2025-07-15T16:24:03.000Z",
-          "wordCount": 5615,
+          "wordCount": 5570,
           "title": "Crypto Markets Slide as Traders Weigh Inflation Data, Trump Trade Moves",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-66-png-2c7623c9-9161-4e44-8c83-514bd1f0a099.png",
@@ -1307,7 +1352,7 @@
           "description": "NYSE Arca approved two new leveraged cryptocurrency funds from ProShares, authorizing the ProShares Ultra XRP ETF under the ticker UXRP and the ProShares Ultra SOL ETF",
           "link": "https://thedefiant.io/news/markets/nyse-arca-clears-proshares-2x-leveraged-xrp-etf-d19ca522",
           "publishedOn": "2025-07-15T12:35:35.000Z",
-          "wordCount": 4684,
+          "wordCount": 4639,
           "title": "NYSE Arca Clears ProShares 2x Leveraged XRP ETF",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/6503770e-1fdd-4973-8a65-932493cd7b84.jpeg",
@@ -1397,7 +1442,7 @@
           "description": "Venture capital could shift from dual equity-token deals to simpler token-only models as fundraising tightens, per Pantera Capital’s Mason Nystrom.",
           "link": "https://thedefiant.io/news/research-and-opinion/pantera-investor-says-vcs-could-soon-ditch-equity-for-tokens",
           "publishedOn": "2025-07-15T06:49:17.000Z",
-          "wordCount": 5388,
+          "wordCount": 5400,
           "title": "Pantera Investor Says VCs Could Soon Ditch Equity for Tokens",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/vc-tokens-1-png-1306dc5f-1283-4578-8325-1cf4338b8cc5.png",
@@ -1427,7 +1472,7 @@
           "description": "Ethereum is gaining momentum as institutional investors ramp up exposure through ETFs, while approximately 30% of the total ETH supply is now staked.",
           "link": "https://thedefiant.io/news/markets/traders-predict-incoming-supply-crunch-as-ether-rallies-to-usd3-000",
           "publishedOn": "2025-07-15T06:15:32.000Z",
-          "wordCount": 5241,
+          "wordCount": 5196,
           "title": "Traders Predict Incoming ‘Supply Crunch’ as Ether Rallies to $3,000",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/eth-crunch-1-png-28c35bb1-c3d3-4341-9951-1760246e318a.png",
@@ -1465,51 +1510,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/f914e5f7-5d61-4832-a0ec-1307bd425d10.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/ripple-rlusd-stablecoin-passes-usd515-million-flips-trueusd",
-          "author": "Leo Jakobson",
-          "description": "Last week, the firm announced BNY Mellon will be the custodian of RLUSD’s reserves.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/ripple-rlusd-stablecoin-passes-usd515-million-flips-trueusd",
-          "publishedOn": "2025-07-14T18:08:37.000Z",
-          "wordCount": 5462,
-          "title": "Ripple’s RLUSD Market Cap Passes $515M, Flips TrueUSD",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2-65-png-7351adf6-8749-4e4f-ae38-93015c5aeeb2.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2-65-png-7351adf6-8749-4e4f-ae38-93015c5aeeb2.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/pump-token-launches-dominates-solana-mindshare",
-          "author": "Squiffs",
-          "description": "The memecoin launchpad token opened up at a $5.6 billion fully diluted valuation.",
-          "link": "https://thedefiant.io/news/tokens/pump-token-launches-dominates-solana-mindshare",
-          "publishedOn": "2025-07-14T17:31:52.000Z",
-          "wordCount": 5306,
-          "title": "PUMP Token Launches, Dominates Solana Mindshare",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2-64-png-ef356495-97b1-435d-a9a9-d5afe6b623dc.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2-64-png-ef356495-97b1-435d-a9a9-d5afe6b623dc.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-hits-new-all-time-high-above-usd122-800-as-crypto-markets-gain-momentum",
-          "author": "Jona Jaupi",
-          "description": "Spot Bitcoin ETFs record over $1 billion in inflows amid growing integration of crypto and traditional assets.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-hits-new-all-time-high-above-usd122-800-as-crypto-markets-gain-momentum",
-          "publishedOn": "2025-07-14T16:26:25.000Z",
-          "wordCount": 5956,
-          "title": "Bitcoin Hits New All-Time High Above $122,800 as Crypto Markets Gain Momentum",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2-63-png-7559d0cb-0bfc-4bca-bb27-a207596f5f96.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2-63-png-7559d0cb-0bfc-4bca-bb27-a207596f5f96.png"
         }
       ]
     }
