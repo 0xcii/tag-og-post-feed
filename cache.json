@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/centrifuge-migrates-to-ethereum-with-cross-chain-evm-native-protocol",
+          "author": "Jona Jaupi",
+          "description": "Teaming up with interoperability protocol Wormhole, Centrifuge is launching V3 across six EVM chains.",
+          "link": "https://thedefiant.io/news/blockchains/centrifuge-migrates-to-ethereum-with-cross-chain-evm-native-protocol",
+          "publishedOn": "2025-07-24T14:06:24.000Z",
+          "wordCount": 5440,
+          "title": "Centrifuge Migrates to Ethereum with Cross-Chain EVM-Native Protocol",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2-19-png-b24807c9-ac6d-49cf-beb4-6f86056ad79c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2-19-png-b24807c9-ac6d-49cf-beb4-6f86056ad79c.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/could-coinbase-perpetuals-spell-doom-for-hyperliquid",
           "author": "Squiffs",
           "description": "The largest centralized exchange in the United States is poised to challenge the decentralized perpetual futures leader, Hyperliquid.",
@@ -122,7 +137,7 @@
           "description": "SparkDEX’s upcoming SPRK token launch and the recent XRP rally may be driving a breakout for Flare, with FLR price and TVL both showing strong gains",
           "link": "https://thedefiant.io/news/markets/flr-price-hits-6-month-high-amid-sparkdex-token-launch-buzz",
           "publishedOn": "2025-07-23T17:51:39.000Z",
-          "wordCount": 5714,
+          "wordCount": 5669,
           "title": "FLR Price Hits 6-Month High amid SparkDEX Token Launch Buzz",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-18-png-c7c9f25b-d02f-4e03-91f5-fb63fc4cc360.png",
@@ -137,7 +152,7 @@
           "description": "The initiative uses “mirror tokens” of MMF shares on Goldman’s private blockchain platform",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-bny-to-launch-tokenized-money-market-fund",
           "publishedOn": "2025-07-23T15:57:51.000Z",
-          "wordCount": 5668,
+          "wordCount": 5623,
           "title": "Goldman Sachs, BNY to Launch Tokenized Money Market Fund",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-17-png-1d0fdee3-ce63-4574-bf26-423732433287.png",
@@ -152,7 +167,7 @@
           "description": "Goldman Sachs Group Inc. and Bank of New York Mellon Corp. are preparing to let institutional clients buy and hold money-market fund shares that are recorded on a private blockchain",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-bny-mellon-launch-tokenized-money-market-funds-48f2ec4c",
           "publishedOn": "2025-07-23T12:35:28.000Z",
-          "wordCount": 4739,
+          "wordCount": 4696,
           "title": "Goldman Sachs, BNY Mellon Launch Tokenized Money-Market Funds",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/08b6b473-dfa7-4b4d-9f06-4769917cf67d.jpeg",
@@ -227,7 +242,7 @@
           "description": "Tokenized equities issued on the Solana blockchain have generated more than $300 million in trading volume just 22 days after the service went live, according to data compiled by analytics firm SolanaFloor",
           "link": "https://thedefiant.io/news/blockchains/solana-tokenized-stocks-top-300-million-22-days-e1c50803",
           "publishedOn": "2025-07-23T01:00:28.000Z",
-          "wordCount": 4710,
+          "wordCount": 4629,
           "title": "Solana Tokenized Stocks Top $300 Million in 22 Days",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/94963d87-13df-41de-9285-fdb71ae79730.jpeg",
@@ -242,7 +257,7 @@
           "description": "Block Inc",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/blocks-square-opens-bitcoin-payments-to-4-million-merchants-e84a56ea",
           "publishedOn": "2025-07-22T22:30:28.000Z",
-          "wordCount": 4569,
+          "wordCount": 4526,
           "title": "Block’s Square Opens Bitcoin Payments to 4 Million Merchants",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/8ac41dc3-633e-4079-9573-b3dc86739a6d.jpeg",
@@ -287,7 +302,7 @@
           "description": "The outstanding value of dollar-pegged stablecoins circulating on the Ethereum blockchain has surpassed $140 billion, according to data compiled by Token Terminal and other market trackers on 22 July",
           "link": "https://thedefiant.io/news/blockchains/ethereum-stablecoin-float-tops-140-billion-doubling-18-months-42926dbc",
           "publishedOn": "2025-07-22T19:05:28.000Z",
-          "wordCount": 4816,
+          "wordCount": 4735,
           "title": "Ethereum Stablecoin Float Tops $140 Billion, Doubling in 18 Months",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/e453bae1-4b42-45eb-bcb2-7a6dfc64fe75.jpeg",
@@ -302,7 +317,7 @@
           "description": "The bank will offer clients access to digital assets via Coinbase, as well as select banking services to the exchange.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/pnc-bank-announces-strategic-partnership-with-coinbase",
           "publishedOn": "2025-07-22T17:41:43.000Z",
-          "wordCount": 5127,
+          "wordCount": 5082,
           "title": "PNC Bank Announces Strategic Partnership with Coinbase",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-15-png-c697626a-0759-4a7c-8b66-9ea0403723a0.png",
@@ -317,7 +332,7 @@
           "description": "Trump Media & Technology Group said Monday it has accumulated roughly $2 billion in Bitcoin and bitcoin-related securities for its corporate treasury, giving the cryptocurrency a 66 percent share of the company’s roughly $3 billion in liquid assets",
           "link": "https://thedefiant.io/news/blockchains/trump-media-amasses-2-billion-bitcoin-hoard-after-sec-cleared-fundraise-6f354404",
           "publishedOn": "2025-07-22T17:35:28.000Z",
-          "wordCount": 5009,
+          "wordCount": 4928,
           "title": "Trump Media Amasses $2 Billion Bitcoin Hoard After SEC-Cleared Fundraise",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/19daa753-8e5f-4221-805c-f5cb35128767.png",
@@ -407,7 +422,7 @@
           "description": "MEXC has launched zero-fee stock futures tracking nine popular U.S. stocks, joining crypto platforms bridging traditional equities with digital trading.",
           "link": "https://thedefiant.io/news/cefi/mexc-embraces-stock-trading-frenzy-with-zero-fee-futures",
           "publishedOn": "2025-07-22T11:47:23.000Z",
-          "wordCount": 4971,
+          "wordCount": 4908,
           "title": "MEXC Embraces Stock Trading Frenzy With Zero-Fee Futures",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/mexc-stocks-1-png-45f64032-4fc4-432c-9506-73122dae6156.png",
@@ -422,7 +437,7 @@
           "description": "Elon Musk’s SpaceX shifted 1,308 bitcoin—worth about $153 million at current prices—out of a long-dormant company wallet on 22 July, blockchain data compiled by Arkham Intelligence show",
           "link": "https://thedefiant.io/news/blockchains/spacex-shifts-153-million-bitcoin-first-move-since-2022-eb540bab",
           "publishedOn": "2025-07-22T09:00:35.000Z",
-          "wordCount": 4774,
+          "wordCount": 4693,
           "title": "SpaceX Shifts $153 Million in Bitcoin in First Move Since 2022",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/8d82644a-a3ef-4efc-81a4-e726605dc8d7.jpeg",
@@ -437,7 +452,7 @@
           "description": "Solana (SOL) has surpassed Binance Coin (BNB) in market capitalization, claiming the fifth spot among cryptocurrencies",
           "link": "https://thedefiant.io/news/markets/solana-surpasses-binance-coin-107b-market-cap-price-above-200-leading-daily-90b478b8",
           "publishedOn": "2025-07-22T08:30:35.000Z",
-          "wordCount": 4701,
+          "wordCount": 4693,
           "title": "Solana Surpasses Binance Coin With $107B Market Cap, Price Above $200, Leading Daily Gainer and Transactions",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/7f96d36d-d25f-46b0-a44c-b9431b5435a5.jpeg",
@@ -452,7 +467,7 @@
           "description": "JPMorgan Chase is examining whether to offer loans secured directly by clients’ cryptocurrency holdings, the Financial Times reported, citing people familiar with the discussions",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-explores-bitcoin-backed-loans-major-policy-shift-ec6e11df",
           "publishedOn": "2025-07-22T08:30:35.000Z",
-          "wordCount": 4898,
+          "wordCount": 4855,
           "title": "JPMorgan Explores Bitcoin-Backed Loans in Major Policy Shift: Report",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/697beb8d-1440-47cb-ab90-c0ae024a64b8.jpeg",
@@ -542,7 +557,7 @@
           "description": "StableCoinX's ENA treasury aims to capture growth in digital dollars.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ethena-treasury-firm-stablecoinx-raises-usd360-million",
           "publishedOn": "2025-07-21T15:37:55.000Z",
-          "wordCount": 5569,
+          "wordCount": 5524,
           "title": "New Ethena Treasury Company Raises $360 Million, Plans Nasdaq Listing",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-8-png-98c67ee9-a240-4248-aaaf-9cd7ddbda7fb.png",
@@ -587,7 +602,7 @@
           "description": "MicroStrategy Inc. disclosed that it acquired 6,220 Bitcoin between 14 and 20 July for roughly $739.8 million",
           "link": "https://thedefiant.io/news/markets/microstrategy-buys-6220-bitcoin-holdings-top-607000-tokens-eacd723d",
           "publishedOn": "2025-07-21T13:00:35.000Z",
-          "wordCount": 4639,
+          "wordCount": 4631,
           "title": "MicroStrategy Buys 6,220 Bitcoin, Holdings Top 607,000 Tokens",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/30831932-d57d-4c85-b8c8-2de463bcee3e.jpeg",
@@ -617,7 +632,7 @@
           "description": "A new Ethereum-focused public vehicle is planning a Nasdaq debut with more than $1.5 billion in backing and a strategy built around ETH yield.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/the-ether-machine-secures-usd1-5-billion-in-commitments-to-go-public-via-spac-merger",
           "publishedOn": "2025-07-21T12:27:50.000Z",
-          "wordCount": 5395,
+          "wordCount": 5350,
           "title": "The Ether Machine Secures $1.5 Billion in Commitments to Go Public via SPAC Merger",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/ether-machine-1-png-099ac995-2c9c-4d69-b3c0-7e760509d19b.png",
@@ -722,7 +737,7 @@
           "description": "Bullish, a cryptocurrency exchange backed by billionaire investor Peter Thiel, has filed paperwork with the U.S. Securities and Exchange Commission for an initial public offering",
           "link": "https://thedefiant.io/news/cefi/peter-thiel-backed-exchange-bullish-files-nyse-ipo-b1c9d6f6",
           "publishedOn": "2025-07-18T23:30:35.000Z",
-          "wordCount": 4899,
+          "wordCount": 4836,
           "title": "Peter Thiel-Backed Exchange Bullish Files for NYSE IPO",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/24c3887f-6e59-4859-a103-6c0764c44a1a.jpeg",
@@ -797,7 +812,7 @@
           "description": "The Cosmos Hub’s smart contract rollout has hit a dead end, forcing ecosystem builders to rethink their strategies.",
           "link": "https://thedefiant.io/news/blockchains/cosmos-scraps-plans-for-hub-smart-contracts-amid-builder-exodus",
           "publishedOn": "2025-07-18T09:45:01.000Z",
-          "wordCount": 5858,
+          "wordCount": 5795,
           "title": "Cosmos Scraps Plans for Hub Smart Contracts amid Builder Exodus",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/cosmos-crisis-1-png-718eca1e-ed70-41c8-8eea-e01be3741a81.png",
@@ -812,7 +827,7 @@
           "description": "After speeding up block times and cracking down on malicious MEV, BNB Chain is poised to build a new blockchain with near-instant transactions and built-in privacy.",
           "link": "https://thedefiant.io/news/blockchains/bnb-chain-teases-new-blockchain-with-privacy-features-to-compete-with-crypto-exchanges",
           "publishedOn": "2025-07-18T09:22:14.000Z",
-          "wordCount": 5428,
+          "wordCount": 5365,
           "title": "BNB Chain Teases New Blockchain with Privacy Features to Compete With Crypto Exchanges",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/bnb-speed-1-png-2c747faf-7581-4996-979c-f18a50503af7.png",
@@ -827,7 +842,7 @@
           "description": "Users who staked stablecoins on Plasma were assigned XPL token allocations based on the value of their stake.",
           "link": "https://thedefiant.io/news/blockchains/stablecoin-blockchain-plasma-kicks-off-usd50-million-token-sale",
           "publishedOn": "2025-07-18T05:45:41.000Z",
-          "wordCount": 4987,
+          "wordCount": 4924,
           "title": "Stablecoin Blockchain Plasma Kicks Off $50 Million Token Sale",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/plasma-sale-1-png-af80b305-2d8d-4fa7-9410-aa261bf6a8ea.png",
@@ -872,7 +887,7 @@
           "description": "Bitcoin mining companies are increasingly shifting their focus and resources toward Ethereum amid concerns over Bitcoin's diminishing block rewards and the sustainability of its mining incentives",
           "link": "https://thedefiant.io/news/blockchains/btc-digital-raises-6-million-fifth-bitcoin-miner-converts-btc-reserves-to-amid-0fcec4e6",
           "publishedOn": "2025-07-18T01:30:35.000Z",
-          "wordCount": 4853,
+          "wordCount": 4772,
           "title": "BTC Digital Raises $6 Million as Fifth Bitcoin Miner Converts BTC Reserves to Ethereum Amid Reward Decline",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/4fdfb6d2-cb2c-43a2-8878-a2c0fc0f3e60.jpeg",
@@ -932,7 +947,7 @@
           "description": "If approved by the SEC, the rule change would allow institutions to earn yield on BlackRock's ETHA.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/blackrock-spot-ethereum-etf-looks-to-add-staking",
           "publishedOn": "2025-07-17T17:55:11.000Z",
-          "wordCount": 5388,
+          "wordCount": 5343,
           "title": "Nasdaq Files to Add Staking to BlackRock’s ETH ETF",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-3-png-601fee75-dd5b-422f-bd05-e7f4f4497a3e.png",
@@ -947,7 +962,7 @@
           "description": "Ethereum ETFs saw their highest daily inflows yet, led by BlackRock’s fund.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-spot-etfs-see-record-inflows",
           "publishedOn": "2025-07-17T17:19:50.000Z",
-          "wordCount": 5319,
+          "wordCount": 5274,
           "title": "ETH ETFs See Record Inflows, Over 100x Daily Ethereum Network Issuance",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-2-png-45399720-a58e-4f4f-9639-ceb10f929770.png",
@@ -962,7 +977,7 @@
           "description": "DeFi Development Corp. teams with Kraken, Pantera, and others to create local SOL funds under new “Treasury Accelerator” program.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/defi-development-corp-announces-global-franchise-strategy",
           "publishedOn": "2025-07-17T16:04:42.000Z",
-          "wordCount": 5666,
+          "wordCount": 5621,
           "title": "Top SOL Treasury Firm DFDV Announces Global Franchise Strategy",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-1-png-23e26ce6-c84d-4e45-a54a-b512e250c4b9.png",
@@ -977,7 +992,7 @@
           "description": "The top U.S. CEX is merging wallet, trading, payments and messaging into one on‑chain app.",
           "link": "https://thedefiant.io/news/cefi/coinbase-rebrands-base-to-super-app-adds-flashblocks",
           "publishedOn": "2025-07-17T14:21:45.000Z",
-          "wordCount": 5463,
+          "wordCount": 5400,
           "title": "Coinbase Races into Super App Space with Base App and Speedy Transactions",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-png-a735fe92-01ee-45fd-bb13-5350c07b1366.png",
@@ -992,7 +1007,7 @@
           "description": "Tether Treasury created two separate tranches of one billion USDT on the Ethereum blockchain within 24 hours, blockchain monitoring data show",
           "link": "https://thedefiant.io/news/blockchains/tether-mints-2-billion-usdt-back-to-back-ethereum-transactions-8dfbbf67",
           "publishedOn": "2025-07-17T13:00:35.000Z",
-          "wordCount": 4793,
+          "wordCount": 4712,
           "title": "Tether Mints $2 Billion USDT in Back-to-Back Ethereum Transactions",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/7d6f1058-a267-4c09-aee1-5ea84519264c.jpeg",
@@ -1022,7 +1037,7 @@
           "description": "Ethereum-linked spot exchange-traded funds attracted roughly US$717 million in net subscriptions on 16 July, the largest single-day haul since the products launched",
           "link": "https://thedefiant.io/news/markets/ethereum-spot-etfs-set-record-nearly-720-million-inflows-ea5bb181",
           "publishedOn": "2025-07-17T04:00:35.000Z",
-          "wordCount": 4771,
+          "wordCount": 4763,
           "title": "Ethereum Spot ETFs Set Record With Nearly $720 Million Inflows",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/54c24eba-3f18-42ce-ae53-e189b87844d8.jpeg",
@@ -1067,7 +1082,7 @@
           "description": "The bank joins other major financial institutions embracing stablecoins and crypto services as regulations ease and market demand grows.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/citigroup-explores-launching-citi-stablecoin",
           "publishedOn": "2025-07-16T18:27:12.000Z",
-          "wordCount": 5419,
+          "wordCount": 5374,
           "title": "Citigroup Explores Launching ‘Citi Stablecoin’ Amid Rising Crypto Interest",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-76-png-d840a121-2549-40f9-b10d-033451b8896a.png",
@@ -1082,7 +1097,7 @@
           "description": "World Liberty Financial, an investment vehicle linked to U.S. President Donald Trump, purchased 1,531 Ether for roughly $5 million on Wednesday, per on-chain data",
           "link": "https://thedefiant.io/news/markets/trump-linked-wlfi-adds-us-5-million-ether-lifted-holdings-to-66000-coins-d0b82ff0",
           "publishedOn": "2025-07-16T18:05:35.000Z",
-          "wordCount": 4639,
+          "wordCount": 4631,
           "title": "Trump-Linked WLFI Adds $5 Million in Ether, Lifted Holdings to 66,000+ Coins",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/0a3a557c-4051-4394-b26e-1d6217bbaa74.jpeg",
@@ -1142,7 +1157,7 @@
           "description": "Citigroup is evaluating the issuance of its own dollar-backed stablecoin, Chief Executive Officer Jane Fraser told analysts on the bank’s second-quarter 2025 earnings call",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/citigroup-explores-issuing-stablecoin-plans-4-billion-buyback-4f022859",
           "publishedOn": "2025-07-16T11:00:35.000Z",
-          "wordCount": 4713,
+          "wordCount": 4670,
           "title": "Citigroup Explores Issuing Stablecoin, Plans $4 Billion Buyback",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/ecd502cc-63d2-4ac2-96e1-512e9a7e7e97.jpeg",
@@ -1172,7 +1187,7 @@
           "description": "PayPal has added the Arbitrum network to the list of blockchains supporting its U.S.-dollar-backed stablecoin, PayPal USD (PYUSD) in its updated terms and conditions.",
           "link": "https://thedefiant.io/news/blockchains/paypal-plans-to-extend-pyusd-stablecoin-to-ethereum-layer-2-arbitrum-be5c3bd3",
           "publishedOn": "2025-07-16T10:30:35.000Z",
-          "wordCount": 4830,
+          "wordCount": 4749,
           "title": "PayPal Plans to Add Ethereum Layer 2 Arbitrum Support for PYUSD Stablecoin",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/d11408ba-d6c2-41a5-abeb-1207477bd5b6.jpeg",
@@ -1247,7 +1262,7 @@
           "description": "Cantor Fitzgerald is in advanced talks on a roughly $4 billion special-purpose acquisition company deal with Adam Back, a cryptography expert widely credited as one of Bitcoin’s earliest pioneers, according to the Financial Times",
           "link": "https://thedefiant.io/news/cefi/cantor-fitzgerald-nears-4-billion-spac-tie-up-bitcoin-pioneer-320ed43f",
           "publishedOn": "2025-07-15T21:00:35.000Z",
-          "wordCount": 4869,
+          "wordCount": 4806,
           "title": "Cantor Fitzgerald Nears $4 Billion SPAC Tie-Up With Bitcoin Pioneer",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/7d136086-6322-420e-99c5-2802e488d5c4.jpeg",
@@ -1259,7 +1274,7 @@
         {
           "id": "https://thedefiant.io/news/defi/hyperliquid-pump-spot-volumes-flip-top-centralized-exchanges",
           "author": "Squiffs",
-          "description": "Decentralized exchange Hyperliquid has inserted itself amongst the centralized exchanges, commanding the second-largest spot volumes for PUMP trading across all exchanges.",
+          "description": "The protocol processed the second most spot volume for PUMP trading, surpassing centralized exchange giants like Bybit and MEXC.",
           "link": "https://thedefiant.io/news/defi/hyperliquid-pump-spot-volumes-flip-top-centralized-exchanges",
           "publishedOn": "2025-07-15T19:57:11.000Z",
           "wordCount": 5289,
@@ -1322,7 +1337,7 @@
           "description": "Blockchain platform Ondo Finance said its full suite of more than 100 tokenized U.S. equities, exchange-traded funds and other funds will soon be available on BNB Chain",
           "link": "https://thedefiant.io/news/blockchains/bnb-chain-to-host-ondo-finances-tokenized-u-s-stocks-suite-f06b1dd0",
           "publishedOn": "2025-07-15T16:35:35.000Z",
-          "wordCount": 4897,
+          "wordCount": 4816,
           "title": "BNB Chain to Host Ondo Finance’s Tokenized US Stocks Suite",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/2a622a25-0efb-4625-89f9-57ef0d4f0dd2.jpeg",
@@ -1397,7 +1412,7 @@
           "description": "With transaction demand drying up and fee income plunging, experts warn Bitcoin faces a sustainability crisis despite its price hitting all-time highs.",
           "link": "https://thedefiant.io/news/blockchains/bitcoin-mempool-emptiness-sparks-network-security-concerns",
           "publishedOn": "2025-07-15T11:07:53.000Z",
-          "wordCount": 5575,
+          "wordCount": 5512,
           "title": "Bitcoin Mempool Emptiness Sparks Network Security Concerns",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/btc-mempool-1-png-b6d6ab84-0fc9-4594-9a6c-2cdc01f112cb.png",
@@ -1427,7 +1442,7 @@
           "description": "The crypto treasury game is quickly evolving as companies like Sonnet accumulate altcoins for their reserves, signaling a shift to more diverse crypto strategies.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/public-firms-move-beyond-bitcoin-as-biotech-firm-picks-hyperliquid-for-treasury-strategy",
           "publishedOn": "2025-07-15T09:27:39.000Z",
-          "wordCount": 5283,
+          "wordCount": 5238,
           "title": "Public Firms Move Beyond Bitcoin as Biotech Firm Picks Hyperliquid for Treasury Strategy",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/altcoin-treasuries-1-png-1e08c25e-ee58-421a-a757-102dfff45c23.png",
@@ -1442,7 +1457,7 @@
           "description": "Standard Chartered has begun offering deliverable spot trading in Bitcoin and Ether to institutional clients through its UK subsidiary, becoming the first global systemically important bank to provide regulated, on-balance-sheet access to the two largest cryptocurrencies",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/standard-chartered-opens-bitcoin-ether-spot-trading-institutions-30e84f48",
           "publishedOn": "2025-07-15T09:00:35.000Z",
-          "wordCount": 4801,
+          "wordCount": 4758,
           "title": "Standard Chartered Opens Bitcoin and Ether Spot Trading for Institutions",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/9b880807-fec9-4c52-b73e-7523f0e14180.jpeg",
@@ -1457,7 +1472,7 @@
           "description": "The upgrade aims to enable home-based stakers to take part in securing the network using less powerful hardware.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-prepares-zkevm-upgrade-to-cut-validator-hardware-requirements",
           "publishedOn": "2025-07-15T08:52:17.000Z",
-          "wordCount": 6060,
+          "wordCount": 5997,
           "title": "Ethereum Prepares zkEVM Upgrade to Cut Validator Hardware Requirements",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/eth-zkevm-1-png-b1cafad5-0f8e-43b8-ba97-e75273700ba5.png",
@@ -1487,7 +1502,7 @@
           "description": "A forgotten flaw in a trusted smart contract standard let a hacker crash Kinto’s token by 90% and steal millions shortly after the vulnerability was unintentionally made public.",
           "link": "https://thedefiant.io/news/blockchains/kinto-token-tanks-90-as-backdoor-disclosure-lets-attacker-mint-110-000-tokens-and-drain",
           "publishedOn": "2025-07-15T06:34:21.000Z",
-          "wordCount": 5969,
+          "wordCount": 5906,
           "title": "Kinto Token Tanks 90% as Backdoor Disclosure Lets Attacker Mint 110,000 Tokens and Drain Liquidity Pools",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/kinto-hack-1-png-6b737d21-1358-4a5f-af6e-5ed40e1dabb7.png",
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/kinto-hack-1-png-6b737d21-1358-4a5f-af6e-5ed40e1dabb7.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/traders-predict-incoming-supply-crunch-as-ether-rallies-to-usd3-000",
-          "author": "Denis Omelchenko",
-          "description": "Ethereum is gaining momentum as institutional investors ramp up exposure through ETFs, while approximately 30% of the total ETH supply is now staked.",
-          "link": "https://thedefiant.io/news/markets/traders-predict-incoming-supply-crunch-as-ether-rallies-to-usd3-000",
-          "publishedOn": "2025-07-15T06:15:32.000Z",
-          "wordCount": 5196,
-          "title": "Traders Predict Incoming ‘Supply Crunch’ as Ether Rallies to $3,000",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/eth-crunch-1-png-28c35bb1-c3d3-4341-9951-1760246e318a.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/eth-crunch-1-png-28c35bb1-c3d3-4341-9951-1760246e318a.png"
         }
       ]
     }
