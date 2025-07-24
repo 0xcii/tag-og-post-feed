@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-24T06:31:07.715Z</id>
+    <id>urn:2025-07-24T07:22:12.347Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-24T06:31:07.715Z</updated>
+    <updated>2025-07-24T07:22:12.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Staking Protocol Jito Plans to Allocate 100% of Protocol Fees to DAO]]></title>
+        <id>https://thedefiant.io/news/defi/solana-staking-protocol-jito-plans-to-allocate-100-of-protocol-fees-to-dao</id>
+        <link href="https://thedefiant.io/news/defi/solana-staking-protocol-jito-plans-to-allocate-100-of-protocol-fees-to-dao"/>
+        <updated>2025-07-24T07:12:45.000Z</updated>
+        <summary type="html"><![CDATA[The core team behind Jito Network plans to distribute 100% of protocol fee revenue to the DAO treasury, relinquishing its share under a new proposal.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Slide Amid Trump Trade Shocks]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-slide-amid-trump-trade-shocks</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-slide-as-traders-weigh-inflation-data-trump-trade-moves</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-slide-as-traders-weigh-inflation-data-trump-trade-moves"/>
         <updated>2025-07-15T16:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency markets fell Tuesday, July 15, as investors weighed fresh U.S. core Consumer Price Index (CPI) inflation data, while also digesting new trade measures from President Donald Trump.]]></summary>
+        <summary type="html"><![CDATA[BTC dips after week-long rally, as inflation and trade tensions weigh on investor sentiment.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Spot Bitcoin ETFs record over $1 billion in inflows amid growing integration of crypto and traditional assets.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Surpasses $50 Billion Net Deposits and $51 Billion TVL, Holding 17.9% DeFi Market Share and Top 50 US Bank Ranking]]></title>
-        <id>https://thedefiant.io/news/defi/aave-surpasses-50-billion-net-deposits-51-billion-tvl-holding-17-9-defi-market-551ddbe2</id>
-        <link href="https://thedefiant.io/news/defi/aave-surpasses-50-billion-net-deposits-51-billion-tvl-holding-17-9-defi-market-551ddbe2"/>
-        <updated>2025-07-14T16:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Aave, a decentralized lending protocol, has surpassed $50 billion in net deposits, marking a milestone in the decentralized finance (DeFi) sector]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
