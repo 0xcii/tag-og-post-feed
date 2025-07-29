@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-29T16:25:12.138Z</id>
+    <id>urn:2025-07-29T17:21:27.261Z</id>
     <title>web3::cave</title>
-    <updated>2025-07-29T16:25:12.138Z</updated>
+    <updated>2025-07-29T17:21:27.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,26 @@
         <summary type="html"><![CDATA[Despite slowing ETF momentum, ETH derivatives data from Glassnode show capital is rotating from Bitcoin into Ethereum.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eToro Expands 24/5 Trading and Plans Tokenized U.S. Stocks on Ethereum]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/etoro-expands-24-5-trading-plans-tokenized-u-s-stocks-on-ethereum-0452b059</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/etoro-expands-24-5-trading-plans-tokenized-u-s-stocks-on-ethereum-0452b059"/>
+        <updated>2025-07-29T16:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Online brokerage eToro said it is broadening its 24-hours-a-day, five-days-a-week service to cover about 100 U.S. stocks and exchange-traded funds]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Standard Chartered Projects Treasuries Could Amass 10% of Ethereum Supply]]></title>
+        <id>https://thedefiant.io/news/blockchains/standard-chartered-projects-treasuries-amass-10-ethereum-supply-dc8e32c3</id>
+        <link href="https://thedefiant.io/news/blockchains/standard-chartered-projects-treasuries-amass-10-ethereum-supply-dc8e32c3"/>
+        <updated>2025-07-29T15:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Standard Chartered Bank said corporate entities that store Ether on their balance sheets could eventually control one-tenth of the cryptocurrency’s total supply, a ten-fold jump from today’s levels]]></summary>
+        <author>
+            <name>DeepNewz</name>
         </author>
     </entry>
     <entry>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/defi/polymarket-strikes-usd112-million-deal-to-return-to-the-united-states</id>
         <link href="https://thedefiant.io/news/defi/polymarket-strikes-usd112-million-deal-to-return-to-the-united-states"/>
         <updated>2025-07-21T17:12:52.000Z</updated>
-        <summary type="html"><![CDATA[Crypto-powered prediction market Polymarket is set to make its long-awaited return to the United States, following a $112 million acquisition of derivatives exchange, QCX.]]></summary>
+        <summary type="html"><![CDATA[The prediction market acquired CFTC-compliant exchange, QCX, which will allow it to reenter the U.S. market.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/peter-thiel-backed-exchange-bullish-files-nyse-ipo-b1c9d6f6"/>
         <updated>2025-07-18T23:30:35.000Z</updated>
         <summary type="html"><![CDATA[Bullish, a cryptocurrency exchange backed by billionaire investor Peter Thiel, has filed paperwork with the U.S. Securities and Exchange Commission for an initial public offering]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Made in USA’ Crypto Coins Surge as Trump Signs Stablecoin GENIUS Act]]></title>
-        <id>https://thedefiant.io/news/markets/made-in-usa-crypto-assets-surge-after-house-passes-crypto-bills</id>
-        <link href="https://thedefiant.io/news/markets/made-in-usa-crypto-assets-surge-after-house-passes-crypto-bills"/>
-        <updated>2025-07-18T20:58:49.000Z</updated>
-        <summary type="html"><![CDATA[U.S.-linked crypto assets are rallying after the House signaled regulatory clarity for the crypto industry, and President Trump signed the stablecoin bill into law.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Signs GENIUS Act, Launching First US Stablecoin Rules]]></title>
-        <id>https://thedefiant.io/news/regulation/trump-signs-genius-act-launching-first-u-s-stablecoin-rules-f2a107c1</id>
-        <link href="https://thedefiant.io/news/regulation/trump-signs-genius-act-launching-first-u-s-stablecoin-rules-f2a107c1"/>
-        <updated>2025-07-18T20:30:35.000Z</updated>
-        <summary type="html"><![CDATA[President Donald Trump on Friday signed the GENIUS Act, the United States’ first federal law dedicated to regulating dollar-pegged cryptocurrencies known as stablecoins]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>

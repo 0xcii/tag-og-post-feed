@@ -27,6 +27,36 @@
           "imageUrl": "https://cdn.thedefiant.io/person-v2-28-png-b709240f-e4af-4020-aa8d-69a29fb15699.png"
         },
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/etoro-expands-24-5-trading-plans-tokenized-u-s-stocks-on-ethereum-0452b059",
+          "author": "DeepNewz",
+          "description": "Online brokerage eToro said it is broadening its 24-hours-a-day, five-days-a-week service to cover about 100 U.S. stocks and exchange-traded funds",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/etoro-expands-24-5-trading-plans-tokenized-u-s-stocks-on-ethereum-0452b059",
+          "publishedOn": "2025-07-29T16:05:28.000Z",
+          "wordCount": 4732,
+          "title": "eToro Expands 24/5 Trading and Plans Tokenized U.S. Stocks on Ethereum",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/af9d812c-ba70-43c2-9fa2-fc68c42a267c.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/af9d812c-ba70-43c2-9fa2-fc68c42a267c.jpeg"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/standard-chartered-projects-treasuries-amass-10-ethereum-supply-dc8e32c3",
+          "author": "DeepNewz",
+          "description": "Standard Chartered Bank said corporate entities that store Ether on their balance sheets could eventually control one-tenth of the cryptocurrency’s total supply, a ten-fold jump from today’s levels",
+          "link": "https://thedefiant.io/news/blockchains/standard-chartered-projects-treasuries-amass-10-ethereum-supply-dc8e32c3",
+          "publishedOn": "2025-07-29T15:05:28.000Z",
+          "wordCount": 4876,
+          "title": "Standard Chartered Projects Treasuries Could Amass 10% of Ethereum Supply",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/5ee8760e-44ef-40cd-b914-16de3ad8d6f6.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/5ee8760e-44ef-40cd-b914-16de3ad8d6f6.jpeg"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/internetx-taps-d3-to-turn-web2-domains-into-tradable-tokens",
           "author": "Denis Omelchenko",
           "description": "A European domain registrar is moving millions of domains onto the blockchain, making them tradable RWAs on platforms like OpenSea and Magic Eden.",
@@ -1259,7 +1289,7 @@
         {
           "id": "https://thedefiant.io/news/defi/polymarket-strikes-usd112-million-deal-to-return-to-the-united-states",
           "author": "Squiffs",
-          "description": "Crypto-powered prediction market Polymarket is set to make its long-awaited return to the United States, following a $112 million acquisition of derivatives exchange, QCX.",
+          "description": "The prediction market acquired CFTC-compliant exchange, QCX, which will allow it to reenter the U.S. market.",
           "link": "https://thedefiant.io/news/defi/polymarket-strikes-usd112-million-deal-to-return-to-the-united-states",
           "publishedOn": "2025-07-21T17:12:52.000Z",
           "wordCount": 5439,
@@ -1480,36 +1510,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/24c3887f-6e59-4859-a103-6c0764c44a1a.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/made-in-usa-crypto-assets-surge-after-house-passes-crypto-bills",
-          "author": "Jona Jaupi",
-          "description": "U.S.-linked crypto assets are rallying after the House signaled regulatory clarity for the crypto industry, and President Trump signed the stablecoin bill into law.",
-          "link": "https://thedefiant.io/news/markets/made-in-usa-crypto-assets-surge-after-house-passes-crypto-bills",
-          "publishedOn": "2025-07-18T20:58:49.000Z",
-          "wordCount": 6057,
-          "title": "‘Made in USA’ Crypto Coins Surge as Trump Signs Stablecoin GENIUS Act",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2-7-png-5d9c8b9e-416c-4975-b475-19fce0696e90.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2-7-png-5d9c8b9e-416c-4975-b475-19fce0696e90.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/trump-signs-genius-act-launching-first-u-s-stablecoin-rules-f2a107c1",
-          "author": "DeepNewz",
-          "description": "President Donald Trump on Friday signed the GENIUS Act, the United States’ first federal law dedicated to regulating dollar-pegged cryptocurrencies known as stablecoins",
-          "link": "https://thedefiant.io/news/regulation/trump-signs-genius-act-launching-first-u-s-stablecoin-rules-f2a107c1",
-          "publishedOn": "2025-07-18T20:30:35.000Z",
-          "wordCount": 4957,
-          "title": "Trump Signs GENIUS Act, Launching First US Stablecoin Rules",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/0783bc32-cb9d-4cdd-a580-4c23f7fc9758.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/0783bc32-cb9d-4cdd-a580-4c23f7fc9758.jpeg"
         }
       ]
     }
