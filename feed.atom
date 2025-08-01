@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-01T09:25:36.363Z</id>
+    <id>urn:2025-08-01T10:22:08.622Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-01T09:25:36.363Z</updated>
+    <updated>2025-08-01T10:22:08.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Visa Adds Support for PYUSD and USDG, Expands Settlement to Stellar and Avalanche]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/visa-adds-support-for-pyusd-and-usdg-expands-settlement-to-stellar-and-avalanche</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/visa-adds-support-for-pyusd-and-usdg-expands-settlement-to-stellar-and-avalanche"/>
+        <updated>2025-08-01T09:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Visa is expanding its settlement network to cover more stablecoins and networks, though usage by merchants still appears to be limited.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Court Overturns Fraud Conviction of OpenSea’s Nate Chastain]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/court-overturns-insider-trading-conviction-of-opensea-s-nate-chastain</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/21shares-files-sec-spot-ondo-crypto-etf-2d6462d8"/>
         <updated>2025-07-22T22:30:28.000Z</updated>
         <summary type="html"><![CDATA[Crypto asset manager 21Shares has submitted a Form S-1 registration statement to the U]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Explores Proprietary Stablecoin and Revenue Deal With Circle]]></title>
-        <id>https://thedefiant.io/news/defi/polymarket-explores-proprietary-stablecoin-revenue-deal-circle-59a2d21a</id>
-        <link href="https://thedefiant.io/news/defi/polymarket-explores-proprietary-stablecoin-revenue-deal-circle-59a2d21a"/>
-        <updated>2025-07-22T22:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Prediction-market operator Polymarket is exploring the creation of a proprietary stablecoin, according to a CoinDesk report published on 22 July]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>

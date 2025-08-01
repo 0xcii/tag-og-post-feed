@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/visa-adds-support-for-pyusd-and-usdg-expands-settlement-to-stellar-and-avalanche",
+          "author": "Denis Omelchenko",
+          "description": "Visa is expanding its settlement network to cover more stablecoins and networks, though usage by merchants still appears to be limited.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/visa-adds-support-for-pyusd-and-usdg-expands-settlement-to-stellar-and-avalanche",
+          "publishedOn": "2025-08-01T09:40:42.000Z",
+          "wordCount": 5323,
+          "title": "Visa Adds Support for PYUSD and USDG, Expands Settlement to Stellar and Avalanche",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/visa-1-png-79b3138a-6735-453f-9f42-28607d597d71.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/visa-1-png-79b3138a-6735-453f-9f42-28607d597d71.png"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/court-overturns-insider-trading-conviction-of-opensea-s-nate-chastain",
           "author": "Squiffs",
           "description": "Chastain’s conviction for the “first-ever digital asset insider trading scheme” has been overturned, with the legacy NFT marketplace’s former Head of Product walking free.",
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/aa705a2e-5741-429a-a390-584f0e8d2c8c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/polymarket-explores-proprietary-stablecoin-revenue-deal-circle-59a2d21a",
-          "author": "DeepNewz",
-          "description": "Prediction-market operator Polymarket is exploring the creation of a proprietary stablecoin, according to a CoinDesk report published on 22 July",
-          "link": "https://thedefiant.io/news/defi/polymarket-explores-proprietary-stablecoin-revenue-deal-circle-59a2d21a",
-          "publishedOn": "2025-07-22T22:00:28.000Z",
-          "wordCount": 4697,
-          "title": "Polymarket Explores Proprietary Stablecoin and Revenue Deal With Circle",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/09a90d33-7e1b-4092-9ecf-fe925c3581b9.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/09a90d33-7e1b-4092-9ecf-fe925c3581b9.jpeg"
         }
       ]
     }
