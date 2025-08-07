@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-07T21:17:39.429Z</id>
+    <id>urn:2025-08-07T22:20:07.330Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-07T21:17:39.429Z</updated>
+    <updated>2025-08-07T22:20:07.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tornado Cash Verdict Threatens to Hold Back DeFi Where it Matters Most]]></title>
+        <id>https://thedefiant.io/news/regulation/tornado-cash-verdict-threatens-to-hold-back-defi-where-it-matters-most</id>
+        <link href="https://thedefiant.io/news/regulation/tornado-cash-verdict-threatens-to-hold-back-defi-where-it-matters-most"/>
+        <updated>2025-08-07T22:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Tornado Cash co-founder conviction will weigh on privacy solutions for public blockchains.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ripple Expands Its Stablecoin Payments Infra with $200M Rail Acquisition]]></title>
         <id>https://thedefiant.io/news/infrastructure/ripple-acquires-stablecoin-platform-rail-for-usd200m</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/hyperliquid-to-refund-users-affected-by-platform-outage</id>
         <link href="https://thedefiant.io/news/defi/hyperliquid-to-refund-users-affected-by-platform-outage"/>
         <updated>2025-07-30T18:31:33.000Z</updated>
-        <summary type="html"><![CDATA[The DEX experienced unexpected downtime yesterday, which resulted in some users being locked into existing positions and suffering losses.]]></summary>
+        <summary type="html"><![CDATA[After crypto derivatives decentralized exchange (DEX) Hyperliquid went down briefly yesterday, the team has announced that it will refund affected users. The outage led to order delays and left some traders unable to alter existing or limit positions, leading to unavoidable losses for some.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-navigate-resistance-zones-with-etf-flows-in-flux</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-navigate-resistance-zones-with-etf-flows-in-flux"/>
         <updated>2025-07-30T17:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency markets showed mixed signals as investor caution grew ahead of major policy events expected today, including a Federal Reserve rate decision and a White House crypto report. Large-cap crypto assets are mostly flat over the past 24 hours, while total crypto market cap slid to approximately $3.92 trillion, down 4.1% on the day. Exchange-wide trading volume declined to approximately $138 billion in the past 24 hours.]]></summary>
+        <summary type="html"><![CDATA[Investor sentiment seems cautious ahead of key policy events, with Bitcoin’s next move likely to shift markets, according to Glassnode.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Despite slowing ETF momentum, ETH derivatives data from Glassnode show capital is rotating from Bitcoin into Ethereum.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eToro Expands 24/5 Trading and Plans Tokenized U.S. Stocks on Ethereum]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/etoro-expands-24-5-trading-plans-tokenized-u-s-stocks-on-ethereum-0452b059</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/etoro-expands-24-5-trading-plans-tokenized-u-s-stocks-on-ethereum-0452b059"/>
-        <updated>2025-07-29T16:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Online brokerage eToro said it is broadening its 24-hours-a-day, five-days-a-week service to cover about 100 U.S. stocks and exchange-traded funds]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
