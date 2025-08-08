@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-08T15:21:18.400Z</id>
+    <id>urn:2025-08-08T16:23:33.975Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-08T15:21:18.400Z</updated>
+    <updated>2025-08-08T16:23:33.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum’s Buterin Presses for Faster L2 Withdrawals to Curb Bridge Reliance]]></title>
+        <id>https://thedefiant.io/news/infrastructure/ethereum-buterin-presses-for-faster-l2-withdrawals-to-curb-bridge-reliance</id>
+        <link href="https://thedefiant.io/news/infrastructure/ethereum-buterin-presses-for-faster-l2-withdrawals-to-curb-bridge-reliance"/>
+        <updated>2025-08-08T16:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Vitalik Buterin pushes for faster withdrawals, highlighting the challenge of improving speed while many users still rely on cross-chain bridges.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave’s Net Deposits Exceed $60B, up 55% in July]]></title>
         <id>https://thedefiant.io/news/defi/aave-net-deposits-exceed-usd60b-up-55-in-july</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/white-house-crypto-report-recommends-expanding-cftc-role-in-crypto-regulation</id>
         <link href="https://thedefiant.io/news/regulation/white-house-crypto-report-recommends-expanding-cftc-role-in-crypto-regulation"/>
         <updated>2025-07-31T19:07:01.000Z</updated>
-        <summary type="html"><![CDATA[The Trump administration’s new digital asset policy report, released Thursday, July 30, calls for the Commodity Futures Trading Commission (CFTC) to have an expanded role in order to oversee crypto markets alongside other regulators, echoing proposals in the market structure bill making its way through Congress.]]></summary>
+        <summary type="html"><![CDATA[The call to extend the CFTC’s authority to be able to regulate non-security crypto assets echoes the CLARITY Act.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The company plans to utilize its TAO treasury to earn yield and build infrastructure for Bittensor.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPMorgan Partners With Coinbase to Let Chase Customers Fund Crypto Accounts]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-partners-coinbase-to-let-chase-customers-fund-crypto-accounts-4d04def1</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/jpmorgan-partners-coinbase-to-let-chase-customers-fund-crypto-accounts-4d04def1"/>
-        <updated>2025-07-30T13:00:28.000Z</updated>
-        <summary type="html"><![CDATA[JPMorgan Chase & Co]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
