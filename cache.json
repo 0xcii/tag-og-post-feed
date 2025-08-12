@@ -12,12 +12,57 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/circle-unveils-arc-layer-1-network-stablecoins-b95bcb77",
+          "author": "DeepNewz",
+          "description": "Payments firm Circle plans to introduce ARC, a proprietary Layer-1 blockchain designed specifically for issuing and transacting stablecoins",
+          "link": "https://thedefiant.io/news/blockchains/circle-unveils-arc-layer-1-network-stablecoins-b95bcb77",
+          "publishedOn": "2025-08-12T11:05:02.000Z",
+          "wordCount": 4595,
+          "title": "Circle Unveils ARC Layer 1 Network for Stablecoins",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/7fbbbbb2-8dce-429f-8f7e-a096ed42f32d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/7fbbbbb2-8dce-429f-8f7e-a096ed42f32d.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/sharplink-gaming-raises-400-million-to-lift-ethereum-treasury-above-3-billion-65dde8f7",
+          "author": "DeepNewz",
+          "description": "SharpLink Gaming said it has entered a $400 million registered direct offering with five global institutional investors",
+          "link": "https://thedefiant.io/news/blockchains/sharplink-gaming-raises-400-million-to-lift-ethereum-treasury-above-3-billion-65dde8f7",
+          "publishedOn": "2025-08-12T08:35:02.000Z",
+          "wordCount": 4866,
+          "title": "SharpLink Gaming Raises $400 Million to Lift Ethereum Treasury Above $3 Billion",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/96d29aca-ec0d-44de-aa8f-98889b60005e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/96d29aca-ec0d-44de-aa8f-98889b60005e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/ethereum-etfs-draw-record-1-billion-one-day-88ee19cb",
+          "author": "DeepNewz",
+          "description": "US spot Ethereum exchange-traded funds attracted more than $1 billion of net new money on Monday, their largest single-day haul since launching earlier this year, according to flow trackers such as Farside and WatcherGuru",
+          "link": "https://thedefiant.io/news/markets/ethereum-etfs-draw-record-1-billion-one-day-88ee19cb",
+          "publishedOn": "2025-08-12T07:35:02.000Z",
+          "wordCount": 4849,
+          "title": "Ethereum ETFs Draw Record $1 Billion in One Day",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/3d7fb3ac-b3f5-4589-9b19-ded79e5ba678.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/3d7fb3ac-b3f5-4589-9b19-ded79e5ba678.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/etherex-on-linea-crosses-usd120-million-tvl-mark-through-3-3-mechanism",
           "author": "Squiffs",
           "description": "The decentralized exchange (DEX) on Linea surpassed $100 million after its recent token launch.",
           "link": "https://thedefiant.io/news/defi/etherex-on-linea-crosses-usd120-million-tvl-mark-through-3-3-mechanism",
           "publishedOn": "2025-08-12T00:16:09.000Z",
-          "wordCount": 5241,
+          "wordCount": 5235,
           "title": "Etherex on Linea Crosses $120 Million TVL Mark Through (3,3) Mechanism",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/linea-dex-tvl-png-898da138-0a15-49a7-89d4-aa5c831e3070.png",
@@ -227,7 +272,7 @@
           "description": "LayerZero Foundation has put forward a $110 million proposal to acquire the Stargate cross-chain bridge and all outstanding STG tokens, seeking to fold the asset into its own interoperability network",
           "link": "https://thedefiant.io/news/defi/layerzero-proposes-110-million-buyout-stargate-bridge-token-b131b30e",
           "publishedOn": "2025-08-11T13:05:02.000Z",
-          "wordCount": 4760,
+          "wordCount": 4754,
           "title": "LayerZero Proposes $110 Million Buyout of Stargate Bridge and Token",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/964d8543-242d-4f8d-865a-01f7fff26aff.png",
@@ -287,7 +332,7 @@
           "description": "The yield tokenization platform is soaring alongside the rest of DeFi after integrating Kinetiq HYPE.",
           "link": "https://thedefiant.io/news/defi/pendle-rallies-on-the-back-of-khype-market-success",
           "publishedOn": "2025-08-08T21:01:03.000Z",
-          "wordCount": 5039,
+          "wordCount": 5033,
           "title": "Pendle Rallies on the Back of KHYPE Market Success",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/object-v1-33-png-6b55d4d4-c559-4ab5-b621-664ceb2497c2.png",
@@ -392,7 +437,7 @@
           "description": "Aave’s July growth was driven by Ethereum’s rally, as well as increased activity on Base.",
           "link": "https://thedefiant.io/news/defi/aave-net-deposits-exceed-usd60b-up-55-in-july",
           "publishedOn": "2025-08-08T15:11:26.000Z",
-          "wordCount": 5500,
+          "wordCount": 5494,
           "title": "Aave’s Net Deposits Exceed $60B, up 55% in July",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-46-png-eb208230-1ec4-4f2e-a5c3-eaf7313af3de.png",
@@ -527,7 +572,7 @@
           "description": "The multisig-based Hyperliquid Vault (HLP) wrapper bridged user funds to Avalanche DeFi protocol Blackhole.",
           "link": "https://thedefiant.io/news/defi/hyperliquid-vault-manager-under-fire-for-moving-usd29-million-of-user-funds-to-other-blockchains",
           "publishedOn": "2025-08-07T22:28:38.000Z",
-          "wordCount": 5735,
+          "wordCount": 5729,
           "title": "Hyperliquid Vault Manager Under Fire for Moving $29 Million of User Funds to Other Blockchains",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/object-v2---2025-08-07t182805-921-png-5eabcbd4-4012-41eb-a16d-1d836b5eff33.png",
@@ -617,7 +662,7 @@
           "description": "The wallet-draining scam has renewed debate around stablecoin issuers' responsibility, decentralization, and custody options for crypto users.",
           "link": "https://thedefiant.io/news/defi/crypto-user-loses-3m-usdt-in-phishing-attack-sparking-debate-over-tether-responsibility",
           "publishedOn": "2025-08-07T15:58:38.000Z",
-          "wordCount": 6030,
+          "wordCount": 6024,
           "title": "Crypto User Loses 3M USDT in Phishing Attack, Sparking Debate Over Tether’s Responsibilities",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/person-v2-42-png-bbc5d0e3-d393-458a-ac18-277f263ebdb2.png",
@@ -642,7 +687,7 @@
           "description": "Animoca Brands and Provenance Blockchain Labs are launching a vault marketplace to capitalize on what they project could become a $20 trillion RWA market by 2030.",
           "link": "https://thedefiant.io/news/defi/animoca-backs-nuva-marketplace-to-tap-growing-real-world-asset-sector",
           "publishedOn": "2025-08-07T15:00:04.000Z",
-          "wordCount": 5264,
+          "wordCount": 5258,
           "title": "Animoca Backs NUVA Marketplace to Tap Growing Real World Asset Sector",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/nuva-1-png-025cf9d8-0332-4db9-8dfc-92a4ed316bfd.png",
@@ -687,7 +732,7 @@
           "description": "Keyring’s new system enables users to prove their identities and safely use DeFi without revealing personal information publicly.",
           "link": "https://thedefiant.io/news/defi/keyring-brings-zero-knowledge-id-layer-to-defi-vaults-on-avalanche",
           "publishedOn": "2025-08-07T13:00:32.000Z",
-          "wordCount": 5317,
+          "wordCount": 5311,
           "title": "Keyring Brings Zero-Knowledge ID Layer to DeFi Vaults on Avalanche",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/keyring-1-png-849842e3-64e8-4536-b5f5-297be46bc4ad.png",
@@ -717,7 +762,7 @@
           "description": "Decentralized exchange PancakeSwap has rolled out a new “Stock Perpetuals” category that lets users trade on-chain futures linked to Apple, Amazon and Tesla shares with up to 25-times leverage",
           "link": "https://thedefiant.io/news/defi/pancakeswap-adds-on-chain-apple-amazon-tesla-futures-amid-2b-tokenized-stock-698281bb",
           "publishedOn": "2025-08-07T09:08:10.000Z",
-          "wordCount": 4884,
+          "wordCount": 4878,
           "title": "PancakeSwap Adds On-Chain Apple, Amazon, Tesla Futures Amid $2B Tokenized Stock Surge",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/8eee01e1-a908-489e-ac32-39b5504587e8.jpeg",
@@ -837,7 +882,7 @@
           "description": "Right as it looked like PumpFun coins were down for the count, a new ecosystem leader has inexplicably emerged.",
           "link": "https://thedefiant.io/news/defi/troll-memecoin-explodes-800-dominating-solana-mindshare",
           "publishedOn": "2025-08-06T20:18:12.000Z",
-          "wordCount": 5256,
+          "wordCount": 5250,
           "title": "TROLL Memecoin Explodes 800%, Dominating Solana Mindshare",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/troll-rally-png-26e3cc27-d56f-4b6e-91dd-ce71935cc3e3.png",
@@ -942,7 +987,7 @@
           "description": "Ethena Labs’ dollar-pegged token USDe has vaulted to the number-three spot in the stablecoin rankings after its circulating supply swelled roughly 75% in the past three weeks",
           "link": "https://thedefiant.io/news/defi/ethenas-usde-vaults-to-no-3-stablecoin-9-3-billion-supply-888f0206",
           "publishedOn": "2025-08-06T09:33:06.000Z",
-          "wordCount": 5020,
+          "wordCount": 5014,
           "title": "Ethena’s USDe Vaults to No. 3 Stablecoin With $9.3 Billion Supply",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/fb80414e-9e9f-42fa-a223-d83a407a8b95.jpeg",
@@ -972,7 +1017,7 @@
           "description": "Circle’s plan to mint native USDC on Hyperliquid threatens Arbitrum’s dominance, with a Messari analyst warning of a possible liquidity exodus.",
           "link": "https://thedefiant.io/news/defi/circle-s-native-usdc-launch-on-hyperliquid-threatens-arbitrum-messari",
           "publishedOn": "2025-08-06T08:36:47.000Z",
-          "wordCount": 5270,
+          "wordCount": 5264,
           "title": "Circle’s Native USDC Launch on Hyperliquid Threatens Arbitrum: Messari",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/usdchype-1-png-9cdbfbbd-f6f6-44cb-9eff-211984c2a869.png",
@@ -1017,7 +1062,7 @@
           "description": "The Solana-based token launchpad has struggled to meet the market’s expectations since its token generation event.",
           "link": "https://thedefiant.io/news/defi/pumpfun-revenue-plunges-96-to-lowest-level-since-march-2024",
           "publishedOn": "2025-08-06T07:03:44.000Z",
-          "wordCount": 4967,
+          "wordCount": 4961,
           "title": "PumpFun Revenue Plunges 96% to Lowest Level Since March 2024",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pumprev-1-png-094b7836-6233-4d78-b5e1-972dc33d9456.png",
@@ -1032,7 +1077,7 @@
           "description": "A governance proposal circulating in MetaMask’s community forums on 5 August outlines plans for a dollar-pegged stablecoin dubbed “MetaMask USD\"",
           "link": "https://thedefiant.io/news/defi/metamask-plans-metamask-usd-stablecoin-stripe-a225606f",
           "publishedOn": "2025-08-06T04:30:36.000Z",
-          "wordCount": 4708,
+          "wordCount": 4702,
           "title": "MetaMask Plans ‘MetaMask USD’ Stablecoin With Stripe",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/3c8dabc0-81e5-49fd-b248-213a094fb7fc.jpeg",
@@ -1227,7 +1272,7 @@
           "description": "Hyperliquid leads the pack with 79% of total decentralized perpetuals trading volume.",
           "link": "https://thedefiant.io/news/defi/decentralized-perpetuals-volume-hits-all-time-high-of-usd399-billion-in-july",
           "publishedOn": "2025-08-05T07:33:51.000Z",
-          "wordCount": 4870,
+          "wordCount": 4864,
           "title": "Decentralized Perpetuals Volume Hits All-Time High of $399 Billion in July",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/dexperps-1-png-1bb589cc-b6cc-4f0a-b8de-465e4ab2363d.png",
@@ -1407,7 +1452,7 @@
           "description": "Ethereum-based DeFi protocols might want to think twice before rolling out on every Layer 2, as data shows most fees still accrue on the mainnet.",
           "link": "https://thedefiant.io/news/defi/ethereum-still-accounts-for-90-of-fees-as-layer-2s-struggle-to-deliver-revenue",
           "publishedOn": "2025-08-04T10:18:36.000Z",
-          "wordCount": 5548,
+          "wordCount": 5542,
           "title": "Ethereum Still Accounts for 90% of Fees as Layer 2s Struggle to Deliver Revenue",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/etheco-1-png-d83228ee-c079-4607-a5c8-5393cc557fba.png",
@@ -1437,7 +1482,7 @@
           "description": "The synthetic dollar’s supply is up 75% over the past month, driven by increased demand for yield and overall excitement surrounding Ethena.",
           "link": "https://thedefiant.io/news/defi/ethena-s-usde-stablecoin-surges-to-all-time-high-market-capitalization-of-usd9-3-billion",
           "publishedOn": "2025-08-04T07:29:08.000Z",
-          "wordCount": 5025,
+          "wordCount": 5019,
           "title": "Ethena’s USDe Stablecoin Surges to All-Time High Market Capitalization of $9.3 Billion",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/usde-1-png-ee6cae05-613e-49ec-8dda-a54673eba5ae.png",
@@ -1460,51 +1505,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/e2feaeb7-4b47-4a79-b3be-d3f83251e005.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/metaplanet-adds-463-bitcoin-54-million-treasury-boost-d848fce3",
-          "author": "DeepNewz",
-          "description": "Japan-based Metaplanet expanded its cryptocurrency reserves on 4 Aug",
-          "link": "https://thedefiant.io/news/markets/metaplanet-adds-463-bitcoin-54-million-treasury-boost-d848fce3",
-          "publishedOn": "2025-08-04T05:30:29.000Z",
-          "wordCount": 4544,
-          "title": "Metaplanet Adds 463 Bitcoin in $54 Million Treasury Boost",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/850d3205-74a9-468e-8d1f-ea2902554daf.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/850d3205-74a9-468e-8d1f-ea2902554daf.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/sharplink-gaming-boosts-ether-holdings-108-million-purchase-2c81c796",
-          "author": "DeepNewz",
-          "description": "SharpLink Gaming has expanded its cryptocurrency holdings, adding 15,822 Ether valued at about $54 million to its corporate treasury on 2–3 August.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/sharplink-gaming-boosts-ether-holdings-108-million-purchase-2c81c796",
-          "publishedOn": "2025-08-04T04:37:23.000Z",
-          "wordCount": 4701,
-          "title": "SharpLink Gaming Boosts Ether Holdings With $108 Million Purchase",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/46162dbb-d054-43d8-8542-e05de0b6f5ac.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/46162dbb-d054-43d8-8542-e05de0b6f5ac.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/tornado-cash-trial-now-in-jury-s-hands-as-legal-battle-over-crypto-privacy-tool-nears-end",
-          "author": "Jona Jaupi",
-          "description": "After two weeks of heated testimony and debate, the case against Roman Storm now rests with a jury.",
-          "link": "https://thedefiant.io/news/regulation/tornado-cash-trial-now-in-jury-s-hands-as-legal-battle-over-crypto-privacy-tool-nears-end",
-          "publishedOn": "2025-08-01T22:17:59.000Z",
-          "wordCount": 5994,
-          "title": "Tornado Cash Trial Now in Jury’s Hands as Legal Battle Over Crypto Privacy Tool Nears End",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/object-v2---2025-08-01t181604-177-png-bdcac188-ecd8-4cb0-a787-0625961a7bed.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/object-v2---2025-08-01t181604-177-png-bdcac188-ecd8-4cb0-a787-0625961a7bed.png"
         }
       ]
     }
