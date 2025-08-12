@@ -12,6 +12,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-mostly-flat-while-eth-trades-near-2021-levels",
+          "author": "Denis Omelchenko",
+          "description": "Ethereum is leading top cryptocurrencies today, after ETH ETFs see highest daily inflows ever.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-mostly-flat-while-eth-trades-near-2021-levels",
+          "publishedOn": "2025-08-12T16:56:43.000Z",
+          "wordCount": 5629,
+          "title": "Crypto Markets Mostly Flat, While ETH Surges Toward 2021 Highs",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2-57-png-1bd0bf51-55b8-4f1d-ba3d-a64e329693bb.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2-57-png-1bd0bf51-55b8-4f1d-ba3d-a64e329693bb.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/terraforms-kwon-pleads-guilty-40-b-terrausd-fraud-case-5a4d8b1a",
+          "author": "DeepNewz",
+          "description": "Terraform Labs co-founder Do Kwon pleaded guilty on Tuesday in Manhattan federal court to one count each of conspiracy to defraud and wire fraud stemming from the 2022 collapse of the algorithmic stablecoin TerraUSD and its companion token Luna, an event that erased about $40 billion in value from cryptocurrency markets",
+          "link": "https://thedefiant.io/news/regulation/terraforms-kwon-pleads-guilty-40-b-terrausd-fraud-case-5a4d8b1a",
+          "publishedOn": "2025-08-12T16:05:02.000Z",
+          "wordCount": 5007,
+          "title": "Terraform’s Do Kwon Pleads Guilty in $40B TerraUSD Fraud Case",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/6ae6d352-9f45-40f8-8aab-24e075a2ee31.jpeg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/6ae6d352-9f45-40f8-8aab-24e075a2ee31.jpeg"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/s-and-p-sees-no-quick-fix-for-sky-protocol-s-weak-capital-and-centralization",
           "author": "Denis Omelchenko",
           "description": "S&P Global handed Sky Protocol a “B-” rating, saying the rating won’t improve within 12 months unless major fixes happen.",
@@ -1475,36 +1505,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/etheco-1-png-d83228ee-c079-4607-a5c8-5393cc557fba.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/strategy-s-saylor-sidesteps-on-chain-proof-of-bitcoin-reserves-says-audits-are-enough",
-          "author": "Denis Omelchenko",
-          "description": "Strategy’s Michael Saylor pushed back against calls from analysts to reveal wallet addresses, warning that publicizing Bitcoin moves could roil the market.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/strategy-s-saylor-sidesteps-on-chain-proof-of-bitcoin-reserves-says-audits-are-enough",
-          "publishedOn": "2025-08-04T07:55:22.000Z",
-          "wordCount": 5348,
-          "title": "Strategy’s Saylor Sidesteps On-Chain Proof of Bitcoin Reserves, Says Audits Are Enough",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/strategypor-1-png-98e9aba9-fe77-45c1-a951-f92c62c1fc3e.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/strategypor-1-png-98e9aba9-fe77-45c1-a951-f92c62c1fc3e.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ethena-s-usde-stablecoin-surges-to-all-time-high-market-capitalization-of-usd9-3-billion",
-          "author": "Squiffs",
-          "description": "The synthetic dollar’s supply is up 75% over the past month, driven by increased demand for yield and overall excitement surrounding Ethena.",
-          "link": "https://thedefiant.io/news/defi/ethena-s-usde-stablecoin-surges-to-all-time-high-market-capitalization-of-usd9-3-billion",
-          "publishedOn": "2025-08-04T07:29:08.000Z",
-          "wordCount": 5019,
-          "title": "Ethena’s USDe Stablecoin Surges to All-Time High Market Capitalization of $9.3 Billion",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/usde-1-png-ee6cae05-613e-49ec-8dda-a54673eba5ae.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/usde-1-png-ee6cae05-613e-49ec-8dda-a54673eba5ae.png"
         }
       ]
     }
