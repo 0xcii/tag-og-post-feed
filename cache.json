@@ -12,9 +12,24 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/alt5-sigma-shares-dropped-after-wlfi-treasury-announcement",
+          "author": "Denis Omelchenko",
+          "description": "World Liberty Financial, co-founded by two of President Trump’s sons, now has a treasury company, even before WLFI tokens can be traded on the open market.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/alt5-sigma-shares-dropped-after-wlfi-treasury-announcement",
+          "publishedOn": "2025-08-13T16:13:18.000Z",
+          "wordCount": 5617,
+          "title": "ALT5 Shares Dropped 26% After Firm Revealed Plans to Create $1.5B WLFI Treasury",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2-62-png-6193aae8-bb7d-4732-ab88-4323c9216473.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2-62-png-6193aae8-bb7d-4732-ab88-4323c9216473.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/heritage-distilling-to-create-first-ip-treasury-with-usd220m-pipe-deal",
           "author": "Jona Jaupi",
-          "description": "Less than two weeks after Graycale unveiled its Story Trust, the first public IP treasury strategy is emerging, with support from the Story Foundation and top VCs.",
+          "description": "Less than two weeks after Grayscale unveiled its Story Trust, the first public IP treasury strategy is emerging, with support from the Story Foundation and top VCs.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/heritage-distilling-to-create-first-ip-treasury-with-usd220m-pipe-deal",
           "publishedOn": "2025-08-13T13:26:39.000Z",
           "wordCount": 5441,
@@ -1254,7 +1269,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/galaxy-digital-to-tokenize-glxy-stock-via-superstate",
           "author": "Squiffs",
-          "description": "Crypto financial services firm Galaxy Digital unveiled plans to tokenize its stock, GLXY, via Robert Leshner’s Superstate, according to a filing published today, Aug. 5. Galaxy published the prospectus supplement alongside several U.S. Securities and Exchange Commission (SEC) filings, including the firm’s Q2 financial report, on its website today.",
+          "description": "The news broke via an SEC filing earlier today, published alongside Galaxy’s Q2 earnings report.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/galaxy-digital-to-tokenize-glxy-stock-via-superstate",
           "publishedOn": "2025-08-05T19:13:17.000Z",
           "wordCount": 5317,
@@ -1490,21 +1505,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/a8ac61f7-a868-4d9c-a124-5ddcd01d5277.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/thiel-backed-bullish-seeks-4-2-billion-valuation-nyse-ipo-66de92f0",
-          "author": "DeepNewz",
-          "description": "Digital-asset exchange Bullish filed for a U",
-          "link": "https://thedefiant.io/news/cefi/thiel-backed-bullish-seeks-4-2-billion-valuation-nyse-ipo-66de92f0",
-          "publishedOn": "2025-08-04T20:00:36.000Z",
-          "wordCount": 4732,
-          "title": "Thiel-Backed Bullish Seeks $4.2 Billion Valuation in NYSE IPO",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/57debdf1-9d82-4dbc-af82-fdc64947469c.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/57debdf1-9d82-4dbc-af82-fdc64947469c.jpeg"
         }
       ]
     }
