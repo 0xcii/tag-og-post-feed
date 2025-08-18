@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-18T18:29:00.911Z</id>
+    <id>urn:2025-08-18T19:16:22.890Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-18T18:29:00.911Z</updated>
+    <updated>2025-08-18T19:16:22.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Sponsorships in Football Hits $565 Million as Clubs Embrace Digital Finance]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/crypto-sponsorships-in-football-hits-usd565-million-as-clubs-embrace-digital-finance</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/crypto-sponsorships-in-football-hits-usd565-million-as-clubs-embrace-digital-finance"/>
+        <updated>2025-08-18T18:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Fan tokens, NFTs, and blockchain payments are transforming player transfers and fan engagement, according to a new report.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swarm Launches ‘DeFi-Compatible’ Tokenized Stocks on Hedera]]></title>
         <id>https://thedefiant.io/news/defi/swarm-launches-defi-compatible-tokenized-stocks-on-hedera</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/eth-briefly-breaks-usd4k-for-the-first-time-since-december</id>
         <link href="https://thedefiant.io/news/markets/eth-briefly-breaks-usd4k-for-the-first-time-since-december"/>
         <updated>2025-08-08T17:17:45.000Z</updated>
-        <summary type="html"><![CDATA[Large-cap crypto assets see modest gains as ETF inflows surge and SEC ends long-running Ripple lawsuit.]]></summary>
+        <summary type="html"><![CDATA[Crypto markets rose on Friday, Aug. 8, after President Donald Trump, as expected, signed an executive order allowing cryptocurrencies in 401(k) retirement plans, and the U.S. Securities and Exchange Commission (SEC) dropped its appeals in the Ripple Labs case.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/infrastructure/ethereum-buterin-presses-for-faster-l2-withdrawals-to-curb-bridge-reliance</id>
         <link href="https://thedefiant.io/news/infrastructure/ethereum-buterin-presses-for-faster-l2-withdrawals-to-curb-bridge-reliance"/>
         <updated>2025-08-08T16:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum’s scaling roadmap is entering a faster phase, and the network’s co-founder, Vitalik Buterin, wants the clock to tick in seconds, not days.]]></summary>
+        <summary type="html"><![CDATA[Vitalik Buterin pushes for faster withdrawals, highlighting the challenge of improving speed while many users still rely on cross-chain bridges.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/crypto-markets-climb-as-trump-expected-to-sign-401-k-executive-order-today"/>
         <updated>2025-08-07T16:55:53.000Z</updated>
         <summary type="html"><![CDATA[Investors reacted positively on Thursday following news that Trump wants to expand retirement portfolio options to include crypto.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto User Loses 3M USDT in Phishing Attack, Sparking Debate Over Tether’s Responsibilities]]></title>
-        <id>https://thedefiant.io/news/defi/crypto-user-loses-3m-usdt-in-phishing-attack-sparking-debate-over-tether-responsibility</id>
-        <link href="https://thedefiant.io/news/defi/crypto-user-loses-3m-usdt-in-phishing-attack-sparking-debate-over-tether-responsibility"/>
-        <updated>2025-08-07T15:58:38.000Z</updated>
-        <summary type="html"><![CDATA[The wallet-draining scam has renewed debate around stablecoin issuers' responsibility, decentralization, and custody options for crypto users.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>

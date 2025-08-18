@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/research-and-opinion/crypto-sponsorships-in-football-hits-usd565-million-as-clubs-embrace-digital-finance",
+          "author": "Jona Jaupi",
+          "description": "Fan tokens, NFTs, and blockchain payments are transforming player transfers and fan engagement, according to a new report.",
+          "link": "https://thedefiant.io/news/research-and-opinion/crypto-sponsorships-in-football-hits-usd565-million-as-clubs-embrace-digital-finance",
+          "publishedOn": "2025-08-18T18:32:26.000Z",
+          "wordCount": 5390,
+          "title": "Crypto Sponsorships in Football Hits $565 Million as Clubs Embrace Digital Finance",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/football-1-png-6f4d37a5-a3a5-4fd4-90fc-6aa8601b83a3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/football-1-png-6f4d37a5-a3a5-4fd4-90fc-6aa8601b83a3.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/swarm-launches-defi-compatible-tokenized-stocks-on-hedera",
           "author": "Jona Jaupi",
           "description": "The collaboration offers on-chain access to equities like Apple and Tesla with real-time market settlement.",
@@ -1244,7 +1259,7 @@
         {
           "id": "https://thedefiant.io/news/markets/eth-briefly-breaks-usd4k-for-the-first-time-since-december",
           "author": "Jona Jaupi",
-          "description": "Large-cap crypto assets see modest gains as ETF inflows surge and SEC ends long-running Ripple lawsuit.",
+          "description": "Crypto markets rose on Friday, Aug. 8, after President Donald Trump, as expected, signed an executive order allowing cryptocurrencies in 401(k) retirement plans, and the U.S. Securities and Exchange Commission (SEC) dropped its appeals in the Ripple Labs case.",
           "link": "https://thedefiant.io/news/markets/eth-briefly-breaks-usd4k-for-the-first-time-since-december",
           "publishedOn": "2025-08-08T17:17:45.000Z",
           "wordCount": 5840,
@@ -1259,7 +1274,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/ethereum-buterin-presses-for-faster-l2-withdrawals-to-curb-bridge-reliance",
           "author": "Denis Omelchenko",
-          "description": "Ethereum’s scaling roadmap is entering a faster phase, and the network’s co-founder, Vitalik Buterin, wants the clock to tick in seconds, not days.",
+          "description": "Vitalik Buterin pushes for faster withdrawals, highlighting the challenge of improving speed while many users still rely on cross-chain bridges.",
           "link": "https://thedefiant.io/news/infrastructure/ethereum-buterin-presses-for-faster-l2-withdrawals-to-curb-bridge-reliance",
           "publishedOn": "2025-08-08T16:05:27.000Z",
           "wordCount": 5659,
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/person-v2-43-png-7fdedec5-2e67-4cb3-827a-98fe2c629818.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/crypto-user-loses-3m-usdt-in-phishing-attack-sparking-debate-over-tether-responsibility",
-          "author": "Jona Jaupi",
-          "description": "The wallet-draining scam has renewed debate around stablecoin issuers' responsibility, decentralization, and custody options for crypto users.",
-          "link": "https://thedefiant.io/news/defi/crypto-user-loses-3m-usdt-in-phishing-attack-sparking-debate-over-tether-responsibility",
-          "publishedOn": "2025-08-07T15:58:38.000Z",
-          "wordCount": 6030,
-          "title": "Crypto User Loses 3M USDT in Phishing Attack, Sparking Debate Over Tether’s Responsibilities",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2-42-png-bbc5d0e3-d393-458a-ac18-277f263ebdb2.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2-42-png-bbc5d0e3-d393-458a-ac18-277f263ebdb2.png"
         }
       ]
     }
