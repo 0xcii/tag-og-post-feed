@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/nasdaq-delists-windtree-therapeutics-over-price-rule-after-bnb-pivot-14b9a52c",
+          "author": "DeepNewz",
+          "description": "Nasdaq said it will suspend and delist Windtree Therapeutics Inc",
+          "link": "https://thedefiant.io/news/markets/nasdaq-delists-windtree-therapeutics-over-price-rule-after-bnb-pivot-14b9a52c",
+          "publishedOn": "2025-08-21T08:35:51.000Z",
+          "wordCount": 4751,
+          "title": "Nasdaq Delists Windtree Therapeutics Over Price Rule After BNB Pivot",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ed3bbb42-dd24-45a8-944e-b5041c925f62.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ed3bbb42-dd24-45a8-944e-b5041c925f62.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-whale-holding-14837-btc-sells-121m-btc-opens-301m-eth-longs-across-4-10x-7e7e79e1",
           "author": "DeepNewz",
           "description": "A prominent Bitcoin holder, described as a Bitcoin OG with a portfolio of 14,837 BTC valued at approximately $1",
@@ -1244,7 +1259,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/ethereum-stakers-rush-to-exit-on-ethereum-price-pump",
           "author": "Squiffs",
-          "description": "ETH has added over $150 billion to its market capitalization in the first two weeks of August, and ETH whales appear to be rushing to unstake their ETH following yesterday’s attempt to break $4,800.",
+          "description": "The ETH validator queue’s exit line jumped over the last 48 hours.",
           "link": "https://thedefiant.io/news/blockchains/ethereum-stakers-rush-to-exit-on-ethereum-price-pump",
           "publishedOn": "2025-08-14T17:59:05.000Z",
           "wordCount": 5069,
@@ -1480,21 +1495,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/person-v2-63-png-9fe35ce8-1e44-443c-bf3b-9feb29659d1b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/alt5-sigma-shares-dropped-after-wlfi-treasury-announcement",
-          "author": "Denis Omelchenko",
-          "description": "World Liberty Financial, co-founded by two of President Trump’s sons, now has a treasury company, even before WLFI tokens can be traded on the open market.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/alt5-sigma-shares-dropped-after-wlfi-treasury-announcement",
-          "publishedOn": "2025-08-13T16:13:18.000Z",
-          "wordCount": 5602,
-          "title": "ALT5 Shares Dropped 26% After Firm Revealed Plans to Create $1.5B WLFI Treasury",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2-62-png-6193aae8-bb7d-4732-ab88-4323c9216473.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2-62-png-6193aae8-bb7d-4732-ab88-4323c9216473.png"
         }
       ]
     }
