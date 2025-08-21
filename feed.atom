@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-21T06:37:23.433Z</id>
+    <id>urn:2025-08-21T07:20:25.753Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-21T06:37:23.433Z</updated>
+    <updated>2025-08-21T07:20:25.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GENIUS Act Fuels $18B in Stablecoin Supply in Just One Month]]></title>
+        <id>https://thedefiant.io/news/regulation/genius-act-fuels-stablecoin-supply-growth-in-just-one-month</id>
+        <link href="https://thedefiant.io/news/regulation/genius-act-fuels-stablecoin-supply-growth-in-just-one-month"/>
+        <updated>2025-08-21T07:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Global stablecoin supply is surging since the approval of GENIUS — led, perhaps surprisingly, by yield-bearing tokens.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DBS Bank Issues Tokenized Structured Notes on Ethereum]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/dbs-bank-issues-tokenized-structured-notes-on-ethereum-68972839</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/dbs-bank-issues-tokenized-structured-notes-on-ethereum-68972839"/>
+        <updated>2025-08-21T07:00:51.000Z</updated>
+        <summary type="html"><![CDATA[DBS Group Holdings Ltd]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Government Wallet Adds $332,000 Ether From Coinbase After DeFi Hack Seizure]]></title>
+        <id>https://thedefiant.io/news/hacks/u-s-government-wallet-adds-332000-ether-coinbase-after-defi-hack-seizure-5784c1df</id>
+        <link href="https://thedefiant.io/news/hacks/u-s-government-wallet-adds-332000-ether-coinbase-after-defi-hack-seizure-5784c1df"/>
+        <updated>2025-08-21T02:30:52.000Z</updated>
+        <summary type="html"><![CDATA[An on-chain wallet identified by blockchain analysts as controlled by the U]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winklevoss Twins Donate $21 Million in Bitcoin to Pro-Trump Crypto PAC]]></title>
+        <id>https://thedefiant.io/news/regulation/winklevoss-twins-donate-21-million-bitcoin-to-pro-trump-crypto-pac-59f0cf19</id>
+        <link href="https://thedefiant.io/news/regulation/winklevoss-twins-donate-21-million-bitcoin-to-pro-trump-crypto-pac-59f0cf19"/>
+        <updated>2025-08-21T00:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Gemini co-founders Tyler and Cameron Winklevoss said they have transferred 188]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase CEO Armstrong Says Bitcoin Could Hit $1 Million by 2030]]></title>
         <id>https://thedefiant.io/news/markets/coinbase-ceo-armstrong-says-bitcoin-hit-1-million-2030-62d4be57</id>
@@ -800,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/monero-faces-network-reorg-community-split-over-qubic-role</id>
         <link href="https://thedefiant.io/news/blockchains/monero-faces-network-reorg-community-split-over-qubic-role"/>
         <updated>2025-08-14T17:22:30.000Z</updated>
-        <summary type="html"><![CDATA[QUBIC is down 7% as the project's self-proclaimed "experiment" sparks backlash in the Monero community after it led to a short-lived network reorganization.]]></summary>
+        <summary type="html"><![CDATA[Monero’s (XMR) network faced unusual activity this week after blockchain project Qubic revealed a brief takeover of its mining power. The move has sparked debate over what actually happened and what it means for the privacy coin.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,7 +880,7 @@
         <id>https://thedefiant.io/news/infrastructure/stablecoin-report-keyrock</id>
         <link href="https://thedefiant.io/news/infrastructure/stablecoin-report-keyrock"/>
         <updated>2025-08-14T12:16:58.000Z</updated>
-        <summary type="html"><![CDATA[Stablecoins are set to become a larger player in global finance, capturing a projected 12% of cross-border payment flows and reaching $1 trillion in annual payment volume by 2030, according to a new report by investment firm Keyrock shared with The Defiant.]]></summary>
+        <summary type="html"><![CDATA[A new report from Keyrock shows stablecoins could take 12% of cross-border payment flows, offering faster, cheaper alternatives to traditional banks.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/crypto-exchange-bullish-raises-1-1-billion-upsized-nyse-ipo-7d7a9834"/>
         <updated>2025-08-13T12:35:02.000Z</updated>
         <summary type="html"><![CDATA[Crypto exchange Bullish raised $1.1 billion in its US initial public offering after selling 30 million shares at $37 each, well above the already-increased range of $32 to $33.]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX to Burn 65 Million OKB and Cap Supply at 21 Million, Spurring Price Rally]]></title>
-        <id>https://thedefiant.io/news/cefi/okx-to-burn-65-million-okb-cap-supply-21-million-spurring-price-rally-4f56ab35</id>
-        <link href="https://thedefiant.io/news/cefi/okx-to-burn-65-million-okb-cap-supply-21-million-spurring-price-rally-4f56ab35"/>
-        <updated>2025-08-13T08:05:02.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency exchange OKX unveiled a sweeping overhaul of its native token on 13 August, saying it will permanently destroy 65,256,712 OKB]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Relaunches Stablecoin Fund to Boost DeFi Liquidity]]></title>
-        <id>https://thedefiant.io/news/defi/coinbase-relaunches-stablecoin-fund-to-boost-defi-liquidity-279dcbff</id>
-        <link href="https://thedefiant.io/news/defi/coinbase-relaunches-stablecoin-fund-to-boost-defi-liquidity-279dcbff"/>
-        <updated>2025-08-13T07:05:02.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Global Inc. on 12 Aug. relaunched its Stablecoin Bootstrap Fund, reviving a program first started in 2019 to nurture on-chain dollar liquidity.]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Researcher Released in Turkey, Donates $500K to Roman Storm’s Legal Defense]]></title>
-        <id>https://thedefiant.io/news/people/fedes-intern-released-in-turkey-donates-usd500k-to-roman-storm-defense</id>
-        <link href="https://thedefiant.io/news/people/fedes-intern-released-in-turkey-donates-usd500k-to-roman-storm-defense"/>
-        <updated>2025-08-12T18:58:16.000Z</updated>
-        <summary type="html"><![CDATA[A blockchain privacy researcher known as Fede’s intern said he was detained in Turkey, where he is being accused of “helping others misuse Ethereum.”]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MARA Holdings to Acquire 64% Stake in EDF’s Exaion for $168 Million in AI and HPC Deal Closing Late 2025]]></title>
-        <id>https://thedefiant.io/news/blockchains/marathon-digital-holdings-to-acquire-64-stake-edfs-exaion-168-million-ai-hpc-ce49fba1</id>
-        <link href="https://thedefiant.io/news/blockchains/marathon-digital-holdings-to-acquire-64-stake-edfs-exaion-168-million-ai-hpc-ce49fba1"/>
-        <updated>2025-08-12T18:35:02.000Z</updated>
-        <summary type="html"><![CDATA[Marathon Digital Holdings (MARA), the largest Bitcoin mining company, is in advanced negotiations to acquire a 64% majority stake in Exaion, a high-performance computing (HPC) and artificial intelligence (AI) infrastructure company]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
