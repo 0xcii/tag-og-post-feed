@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-21T07:20:25.753Z</id>
+    <id>urn:2025-08-21T08:24:29.262Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-21T07:20:25.753Z</updated>
+    <updated>2025-08-21T08:24:29.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[GENIUS Act Fuels $18B in Stablecoin Supply in Just One Month]]></title>
+        <title type="html"><![CDATA[Bitcoin Whale Holding 14,837 BTC Sells $121M BTC, Opens $301M ETH Longs Across 4 Wallets at $4,300-$4,333 with 10x and 3x Leverage]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-whale-holding-14837-btc-sells-121m-btc-opens-301m-eth-longs-across-4-10x-7e7e79e1</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-whale-holding-14837-btc-sells-121m-btc-opens-301m-eth-longs-across-4-10x-7e7e79e1"/>
+        <updated>2025-08-21T08:00:51.000Z</updated>
+        <summary type="html"><![CDATA[A prominent Bitcoin holder, described as a Bitcoin OG with a portfolio of 14,837 BTC valued at approximately $1]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hong Kong’s Ming Shing to Buy $483 Million in Bitcoin via Notes]]></title>
+        <id>https://thedefiant.io/news/markets/hong-kongs-ming-shing-to-buy-483-million-bitcoin-via-notes-fbbfc660</id>
+        <link href="https://thedefiant.io/news/markets/hong-kongs-ming-shing-to-buy-483-million-bitcoin-via-notes-fbbfc660"/>
+        <updated>2025-08-21T07:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Hong Kong-listed Ming Shing Group Holdings Limited said it has signed a binding agreement to acquire 4,250 Bitcoin for about US$482]]></summary>
+        <author>
+            <name>DeepNewz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GENIUS Act Fuels $18B in Stablecoin Supply Growth in Just One Month]]></title>
         <id>https://thedefiant.io/news/regulation/genius-act-fuels-stablecoin-supply-growth-in-just-one-month</id>
         <link href="https://thedefiant.io/news/regulation/genius-act-fuels-stablecoin-supply-growth-in-just-one-month"/>
         <updated>2025-08-21T07:18:17.000Z</updated>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/ethereum-stakers-rush-to-exit-on-ethereum-price-pump</id>
         <link href="https://thedefiant.io/news/blockchains/ethereum-stakers-rush-to-exit-on-ethereum-price-pump"/>
         <updated>2025-08-14T17:59:05.000Z</updated>
-        <summary type="html"><![CDATA[The ETH validator queue’s exit line jumped over the last 48 hours.]]></summary>
+        <summary type="html"><![CDATA[ETH has added over $150 billion to its market capitalization in the first two weeks of August, and ETH whales appear to be rushing to unstake their ETH following yesterday’s attempt to break $4,800.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/blockchains/monero-faces-network-reorg-community-split-over-qubic-role</id>
         <link href="https://thedefiant.io/news/blockchains/monero-faces-network-reorg-community-split-over-qubic-role"/>
         <updated>2025-08-14T17:22:30.000Z</updated>
-        <summary type="html"><![CDATA[Monero’s (XMR) network faced unusual activity this week after blockchain project Qubic revealed a brief takeover of its mining power. The move has sparked debate over what actually happened and what it means for the privacy coin.]]></summary>
+        <summary type="html"><![CDATA[QUBIC is down 7% as the project's self-proclaimed "experiment" sparks backlash in the Monero community after it led to a short-lived network reorganization.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[World Liberty Financial, co-founded by two of President Trump’s sons, now has a treasury company, even before WLFI tokens can be traded on the open market.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heritage Distillery to Create First IP Treasury with $220M PIPE Deal]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/heritage-distilling-to-create-first-ip-treasury-with-usd220m-pipe-deal</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/heritage-distilling-to-create-first-ip-treasury-with-usd220m-pipe-deal"/>
-        <updated>2025-08-13T13:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Less than two weeks after Grayscale unveiled its Story Trust, the first public IP treasury strategy is emerging, with support from the Story Foundation and top VCs.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Exchange Bullish Raises $1.1 Billion in Upsized NYSE IPO]]></title>
-        <id>https://thedefiant.io/news/cefi/crypto-exchange-bullish-raises-1-1-billion-upsized-nyse-ipo-7d7a9834</id>
-        <link href="https://thedefiant.io/news/cefi/crypto-exchange-bullish-raises-1-1-billion-upsized-nyse-ipo-7d7a9834"/>
-        <updated>2025-08-13T12:35:02.000Z</updated>
-        <summary type="html"><![CDATA[Crypto exchange Bullish raised $1.1 billion in its US initial public offering after selling 30 million shares at $37 each, well above the already-increased range of $32 to $33.]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
