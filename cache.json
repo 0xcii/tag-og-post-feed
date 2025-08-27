@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/research-and-opinion/stablecoins-just-got-real-the-future-of-programmable-money-in-the-genius-era",
+          "author": "Anurag Arjun",
+          "description": "As global markets shift, countries that delay a stablecoin strategy risk becoming passengers on someone else’s rails.",
+          "link": "https://thedefiant.io/news/research-and-opinion/stablecoins-just-got-real-the-future-of-programmable-money-in-the-genius-era",
+          "publishedOn": "2025-08-27T19:20:51.000Z",
+          "wordCount": 6403,
+          "title": "Stablecoins Just Got Real: The Future of Programmable Money in the GENIUS Era",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/stableadoption-1-png-d4c43dbc-1572-4894-be70-7743bc30a65c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/stableadoption-1-png-d4c43dbc-1572-4894-be70-7743bc30a65c.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/hype-hits-new-all-time-high-as-hyperliquid-dominates-defi-revenue",
           "author": "Squiffs",
           "description": "The decentralized perpetuals exchange accounted for 35% of all blockchain revenue in July, and is on track for an even bigger August.",
@@ -437,7 +452,7 @@
           "description": "As crypto and DeFi continue to shed their outsider status, with regulatory clarity improving and integration with traditional systems deepening, the stage is being set for broader adoption of digital assets and innovations in how we think about ownership and identity.",
           "link": "https://thedefiant.io/news/research-and-opinion/crypto-and-defi-in-2026-adoption-innovation-and-the-road-ahead",
           "publishedOn": "2025-08-26T17:56:18.000Z",
-          "wordCount": 6237,
+          "wordCount": 6245,
           "title": "Crypto and DeFi in 2026: Adoption, Innovation, and the Road Ahead",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/2026-1-png-ab678799-07ab-434f-8293-4b0db9dc42b5.png",
@@ -452,7 +467,7 @@
           "description": "Although Bitcoin and altcoins plunged amid nearly $1 billion in liquidations, ETH and BTC ETFs posted inflows.",
           "link": "https://thedefiant.io/news/markets/bitcoin-drops-below-usd110-000-while-etfs-accumulate",
           "publishedOn": "2025-08-26T17:25:41.000Z",
-          "wordCount": 5314,
+          "wordCount": 5322,
           "title": "Bitcoin Drops Below $110,000 While ETFs Accumulate",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/mktdown-1-png-c48909c4-92b8-442b-822e-744370e89915.png",
@@ -527,7 +542,7 @@
           "description": "Blockchain start-up Hemi, co-founded by early Bitcoin developer Jeff Garzik, has raised $15 million ahead of the launch of its native token",
           "link": "https://thedefiant.io/news/blockchains/hemi-raises-15-million-bitcoin-ethereum-layer-2-network-4cb0054f",
           "publishedOn": "2025-08-26T15:30:46.000Z",
-          "wordCount": 4726,
+          "wordCount": 4734,
           "title": "Hemi Raises $15 Million for Bitcoin–Ethereum Layer-2 Network",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/2f8a454e-7876-4113-b134-a238eb048e49.jpeg",
@@ -682,7 +697,7 @@
           "description": "French semiconductor designer Sequans Communications plans to raise about $200 million and allocate the proceeds to buying additional Bitcoin for its corporate treasury, according to multiple statements by the company shared on social media late Monday",
           "link": "https://thedefiant.io/news/blockchains/frances-sequans-plans-200-million-raise-to-expand-bitcoin-holdings-e02bb9b7",
           "publishedOn": "2025-08-26T01:00:45.000Z",
-          "wordCount": 4818,
+          "wordCount": 4826,
           "title": "France’s Sequans Plans $200 Million Raise to Expand Bitcoin Holdings",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/f9d0f196-e013-41c3-a44a-2e01f2ea5081.jpeg",
@@ -727,7 +742,7 @@
           "description": "Nearly $900 million in leveraged cryptocurrency positions were wiped out in the 24-hour period ending late 25 August, according to data compiled by analytics platform Coinglass",
           "link": "https://thedefiant.io/news/markets/crypto-liquidations-approach-900-million-ethereum-tests-5000-ceiling-9cb05a55",
           "publishedOn": "2025-08-25T22:30:46.000Z",
-          "wordCount": 4976,
+          "wordCount": 4984,
           "title": "Crypto Liquidations Approach $900 Million as Ethereum Tests $5,000 Ceiling",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/c95bb766-3df7-42dd-b3e7-08154dfd90f5.jpeg",
@@ -1012,7 +1027,7 @@
           "description": "MicroStrategy, the business-intelligence firm now marketing itself simply as Strategy, said it bought 3,081 Bitcoin between Aug",
           "link": "https://thedefiant.io/news/markets/microstrategy-adds-3081-bitcoin-hoard-tops-632000-coins-47b57e16",
           "publishedOn": "2025-08-25T12:30:47.000Z",
-          "wordCount": 4778,
+          "wordCount": 4786,
           "title": "MicroStrategy Adds 3,081 Bitcoin, Hoard Tops 632,000 Coins",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/e2d4aea2-d940-4b0b-97f4-a917ace57ac2.jpeg",
@@ -1485,21 +1500,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/morpho-1-1-png-148ddee9-ee83-47b0-b0b4-409f7559b5a7.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/eric-trump-says-mystery-nation-bought-22-billion-bitcoin-predicts-1-million-6291889d",
-          "author": "DeepNewz",
-          "description": "Speaking at the SALT Wyoming Blockchain Symposium, American Bitcoin co-founder Eric Trump said he now spends \"more than 50%\" of his time on crypto and is convinced the token’s price will \"hit one million bucks,\" reiterating a long-term bullish outlook for the asset class",
-          "link": "https://thedefiant.io/news/markets/eric-trump-says-mystery-nation-bought-22-billion-bitcoin-predicts-1-million-6291889d",
-          "publishedOn": "2025-08-22T18:35:47.000Z",
-          "wordCount": 4896,
-          "title": "Eric Trump Says Mystery Nation Bought $22 Billion in Bitcoin, Predicts $1 Million Price",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/19729dbf-133b-4f31-b577-f6184763d2dc.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/19729dbf-133b-4f31-b577-f6184763d2dc.jpeg"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-27T19:14:59.680Z</id>
+    <id>urn:2025-08-27T20:19:26.245Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-27T19:14:59.680Z</updated>
+    <updated>2025-08-27T20:19:26.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stablecoins Just Got Real: The Future of Programmable Money in the GENIUS Era]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/stablecoins-just-got-real-the-future-of-programmable-money-in-the-genius-era</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/stablecoins-just-got-real-the-future-of-programmable-money-in-the-genius-era"/>
+        <updated>2025-08-27T19:20:51.000Z</updated>
+        <summary type="html"><![CDATA[As global markets shift, countries that delay a stablecoin strategy risk becoming passengers on someone else’s rails.]]></summary>
+        <author>
+            <name>Anurag Arjun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HYPE Hits New All-Time High as Hyperliquid Dominates DeFi Revenue]]></title>
         <id>https://thedefiant.io/news/defi/hype-hits-new-all-time-high-as-hyperliquid-dominates-defi-revenue</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[MORPHO has rallied nearly 50% in the past 30 days to a six-month high as the DeFi lending protocol continues to attract new inflows.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Trump Says Mystery Nation Bought $22 Billion in Bitcoin, Predicts $1 Million Price]]></title>
-        <id>https://thedefiant.io/news/markets/eric-trump-says-mystery-nation-bought-22-billion-bitcoin-predicts-1-million-6291889d</id>
-        <link href="https://thedefiant.io/news/markets/eric-trump-says-mystery-nation-bought-22-billion-bitcoin-predicts-1-million-6291889d"/>
-        <updated>2025-08-22T18:35:47.000Z</updated>
-        <summary type="html"><![CDATA[Speaking at the SALT Wyoming Blockchain Symposium, American Bitcoin co-founder Eric Trump said he now spends "more than 50%" of his time on crypto and is convinced the token’s price will "hit one million bucks," reiterating a long-term bullish outlook for the asset class]]></summary>
-        <author>
-            <name>DeepNewz</name>
         </author>
     </entry>
 </feed>
