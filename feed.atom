@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-27T12:37:26.135Z</id>
+    <id>urn:2025-08-27T13:27:05.416Z</id>
     <title>web3::cave</title>
-    <updated>2025-08-27T12:37:26.135Z</updated>
+    <updated>2025-08-27T13:27:05.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave Labs Launches Horizon, Enabling Institutions to Borrow Stablecoins Against RWAs]]></title>
+        <id>https://thedefiant.io/news/defi/aave-labs-launches-horizon-enabling-institutions-to-borrow-stablecoins-against-rwas</id>
+        <link href="https://thedefiant.io/news/defi/aave-labs-launches-horizon-enabling-institutions-to-borrow-stablecoins-against-rwas"/>
+        <updated>2025-08-27T13:00:09.000Z</updated>
+        <summary type="html"><![CDATA[With Horizon, Aave offers institutional investors a compliant way to deploy their idle liquidity into DeFi.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REX and Osprey Seek SEC Nod for First BNB Staking ETF]]></title>
         <id>https://thedefiant.io/news/regulation/rex-osprey-seek-sec-nod-first-bnb-staking-etf-d62b4057</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/eu-weighs-ethereum-or-solana-fast-tracks-digital-euro-69ec9a71"/>
         <updated>2025-08-22T14:00:45.000Z</updated>
         <summary type="html"><![CDATA[European Union officials have accelerated work on a digital version of the single currency after the United States enacted its ‘Genius Act’, a federal law that sets ground rules for dollar-backed stablecoins]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UAE’s RAKBANK Opens Crypto Trading With Binance Coin]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/uaes-rakbank-opens-crypto-trading-binance-coin-1a13e155</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/uaes-rakbank-opens-crypto-trading-binance-coin-1a13e155"/>
-        <updated>2025-08-22T12:30:52.000Z</updated>
-        <summary type="html"><![CDATA[RAKBANK, one of the United Arab Emirates’ largest lenders, has launched in-app cryptocurrency trading, making Binance Coin (BNB) and seven other digital assets available to retail customers]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
