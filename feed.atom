@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-02T18:23:18.406Z</id>
+    <id>urn:2025-09-02T19:13:11.864Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-02T18:23:18.406Z</updated>
+    <updated>2025-09-02T19:13:11.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Framework Ventures-Backed Stablecoin Protocol USDAI Hits $110M in TVL]]></title>
+        <id>https://thedefiant.io/news/defi/framework-ventures-backed-stablecoin-usdai-hits-usd110m-in-tvl</id>
+        <link href="https://thedefiant.io/news/defi/framework-ventures-backed-stablecoin-usdai-hits-usd110m-in-tvl"/>
+        <updated>2025-09-02T18:43:35.000Z</updated>
+        <summary type="html"><![CDATA[The stablecoin lending protocol's TVL has nearly doubled since YZi Labs’ strategic investment last week.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elon Musk’s Lawyer to Lead First Dogecoin Treasury Company]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/elon-musk-s-lawyer-to-lead-first-dogecoin-treasury-company</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/canary-funds-seeks-sec-approval-trump-coin-etf-60ee485c"/>
         <updated>2025-08-26T14:30:48.000Z</updated>
         <summary type="html"><![CDATA[Canary Funds has submitted an S-1 registration statement to the U]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[deBridge Links TRON to Its Cross-Chain Protocol to Boost Stablecoin Flows]]></title>
-        <id>https://thedefiant.io/news/defi/debridge-links-tron-to-cross-chain-protocol-to-boost-stablecoin-flows-c459d951</id>
-        <link href="https://thedefiant.io/news/defi/debridge-links-tron-to-cross-chain-protocol-to-boost-stablecoin-flows-c459d951"/>
-        <updated>2025-08-26T14:00:45.000Z</updated>
-        <summary type="html"><![CDATA[deBridge, a developer of cross-chain infrastructure, said on 26 Aug 2025 that its liquidity transport protocol is now fully compatible with the TRON blockchain, bringing the number of networks supported by the platform to 26]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
