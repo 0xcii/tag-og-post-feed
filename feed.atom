@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-02T17:14:40.969Z</id>
+    <id>urn:2025-09-02T18:23:18.406Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-02T17:14:40.969Z</updated>
+    <updated>2025-09-02T18:23:18.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk’s Lawyer to Lead First Dogecoin Treasury Company]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/elon-musk-s-lawyer-to-lead-first-dogecoin-treasury-company</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/elon-musk-s-lawyer-to-lead-first-dogecoin-treasury-company"/>
+        <updated>2025-09-02T18:17:47.000Z</updated>
+        <summary type="html"><![CDATA[CleanCore shares are down 50% today, while DOGE is flat.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Rise Amid Trump Tariff Ruling and Fed Rate Cut Hopes]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-rise-amid-trump-tariff-ruling-and-fed-rate-cut-hopes</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-rise-amid-trump-tariff-ruling-and-fed-rate-cut-hopes"/>
+        <updated>2025-09-02T17:10:48.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin, XRP, and Solana climb as investors weigh trade policy uncertainty and growing odds of an interest rate cut in September.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kraken, Backed Expand Tokenized US Stocks to Ethereum via xStocks]]></title>
         <id>https://thedefiant.io/news/cefi/kraken-launches-tokenized-us-stocks-on-ethereum-via-xstocks</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/debridge-links-tron-to-cross-chain-protocol-to-boost-stablecoin-flows-c459d951"/>
         <updated>2025-08-26T14:00:45.000Z</updated>
         <summary type="html"><![CDATA[deBridge, a developer of cross-chain infrastructure, said on 26 Aug 2025 that its liquidity transport protocol is now fully compatible with the TRON blockchain, bringing the number of networks supported by the platform to 26]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SharpLink Gaming Lifts Ethereum Holdings to Nearly 800,000 Coins]]></title>
-        <id>https://thedefiant.io/news/markets/sharplink-gaming-lifts-ethereum-holdings-to-nearly-800000-coins-17527ac2</id>
-        <link href="https://thedefiant.io/news/markets/sharplink-gaming-lifts-ethereum-holdings-to-nearly-800000-coins-17527ac2"/>
-        <updated>2025-08-26T13:00:45.000Z</updated>
-        <summary type="html"><![CDATA[SharpLink Gaming increased its Ethereum position to about 797,704 coins after buying roughly 56,533 ETH last week for around $250 million, according to a company update dated Aug]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwise Seeks SEC Nod for Spot Chainlink ETF]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/bitwise-seeks-sec-nod-spot-chainlink-etf-bfe51149</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/bitwise-seeks-sec-nod-spot-chainlink-etf-bfe51149"/>
-        <updated>2025-08-26T10:45:13.000Z</updated>
-        <summary type="html"><![CDATA[Bitwise Asset Management has submitted an S-1 registration statement seeking approval for a spot exchange-traded fund that would hold Chainlink’s LINK token.]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
