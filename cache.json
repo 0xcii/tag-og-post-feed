@@ -12,6 +12,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/defi-tvl-surges-41-in-q3-to-three-year-high",
+          "author": "Jona Jaupi",
+          "description": "Ethereum and Solana lead the charge as the broader DeFi ecosystem records strong growth.",
+          "link": "https://thedefiant.io/news/defi/defi-tvl-surges-41-in-q3-to-three-year-high",
+          "publishedOn": "2025-09-04T01:58:48.000Z",
+          "wordCount": 5278,
+          "title": "DeFi TVL Surges 41% in Q3 to Three-Year High",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/defitvl-1-png-7110f772-9d8f-48f3-b463-37e2f2b2f608.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/defitvl-1-png-7110f772-9d8f-48f3-b463-37e2f2b2f608.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/cards-token-soars-as-traders-flock-to-tokenized-pokemon-card-platform",
+          "author": "Squiffs",
+          "description": "The token has rallied more than 1000% in two days as users swarmed the platform’s Pokémon card gacha machine.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/cards-token-soars-as-traders-flock-to-tokenized-pokemon-card-platform",
+          "publishedOn": "2025-09-04T01:46:15.000Z",
+          "wordCount": 4974,
+          "title": "CARDS Token Soars as Traders Flock to Tokenized Pokémon Card Platform",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/crypt-1-png-ccc1d6ac-719a-48a6-884b-6a6f0531361a.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/crypt-1-png-ccc1d6ac-719a-48a6-884b-6a6f0531361a.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/eric-trump-s-american-bitcoin-pumps-and-dumps-on-nasdaq-launch",
           "author": "Squiffs",
           "description": "Trading of the stock was halted twice in the opening hour, and the share price is down almost 50% from its early morning high.",
@@ -1465,36 +1495,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/36bfb33b-0b82-4d36-86ce-4c20dc17fcdb.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/commerce-department-moves-to-publish-gdp-data-on-blockchain-ec769585",
-          "author": "DeepNewz",
-          "description": "U",
-          "link": "https://thedefiant.io/news/blockchains/commerce-department-moves-to-publish-gdp-data-on-blockchain-ec769585",
-          "publishedOn": "2025-08-26T19:00:38.000Z",
-          "wordCount": 4591,
-          "title": "Commerce Department Moves to Publish GDP Data on Blockchain",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/05e77385-9e85-4c31-9517-3b89b819d3cc.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/05e77385-9e85-4c31-9517-3b89b819d3cc.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/glassnode-sees-near-record-profits-bitcoin-veterans-flags-late-cycle-a2922471",
-          "author": "DeepNewz",
-          "description": "Blockchain analytics firm Glassnode said long-term Bitcoin holders have already realized more profit in the current market cycle than in every cycle except 2016-17",
-          "link": "https://thedefiant.io/news/markets/glassnode-sees-near-record-profits-bitcoin-veterans-flags-late-cycle-a2922471",
-          "publishedOn": "2025-08-26T18:00:38.000Z",
-          "wordCount": 4682,
-          "title": "Glassnode Sees Near-Record Profits for Bitcoin Veterans, Flags Late Cycle",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/4837eea8-7833-4176-8242-9df8fed99af7.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/4837eea8-7833-4176-8242-9df8fed99af7.jpeg"
         }
       ]
     }
