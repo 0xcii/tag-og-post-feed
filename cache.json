@@ -12,6 +12,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/spot-eth-trades-hit-record-usd519-billion-in-august-but-bots-dominate-ethereum-dex-activity",
+          "author": "Denis Omelchenko",
+          "description": "Trading volume on Ethereum’s decentralized exchanges rose 45% to $74 billion in August.",
+          "link": "https://thedefiant.io/news/blockchains/spot-eth-trades-hit-record-usd519-billion-in-august-but-bots-dominate-ethereum-dex-activity",
+          "publishedOn": "2025-09-04T18:02:02.000Z",
+          "wordCount": 5062,
+          "title": "Spot ETH Trades Hit Record $519 Billion in August but Bots Dominate Ethereum DEX Activity",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ethvol-1-1-png-21b24c8b-0e73-4469-84e2-a2e11a8d6254.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ethvol-1-1-png-21b24c8b-0e73-4469-84e2-a2e11a8d6254.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-slip-as-trump-appeals-tariff-takedown",
+          "author": "Jona Jaupi",
+          "description": "Bitcoin and Ethereum drop as $256M in liquidations hit markets, while spot Bitcoin ETFs record inflows.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-slip-as-trump-appeals-tariff-takedown",
+          "publishedOn": "2025-09-04T17:16:44.000Z",
+          "wordCount": 5460,
+          "title": "Crypto Markets Slip as Trump Appeals Tariff Takedown",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/uncertainty-1-png-eeafafc2-b582-4f15-b972-ff6485f5a657.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/uncertainty-1-png-eeafafc2-b582-4f15-b972-ff6485f5a657.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/stripe-and-paradigm-unveil-permissionless-layer-1-blockchain-tempo",
           "author": "Squiffs",
           "description": "The payments network features design input from a star-studded lineup including Anthropic, Visa, OpenAI, and Deutsche Bank.",
@@ -557,7 +587,7 @@
           "description": "Cryptocurrency exchange Binance briefly halted all futures trading on 29 August after detecting a technical issue on its Unified Margin platform, which consolidates collateral across derivatives positions",
           "link": "https://thedefiant.io/news/cefi/binance-restores-futures-trading-after-brief-unified-margin-outage-e8dc4d9c",
           "publishedOn": "2025-08-29T07:30:38.000Z",
-          "wordCount": 4637,
+          "wordCount": 4636,
           "title": "Binance Restores Futures Trading After Brief Unified Margin Outage",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/084ee96e-735c-466a-9490-e60db5c84dc5.jpeg",
@@ -812,7 +842,7 @@
           "description": "JPMorgan Chase & Co",
           "link": "https://thedefiant.io/news/markets/jpmorgan-says-bitcoin-undervalued-versus-gold-volatility-hits-record-low-01a7c4da",
           "publishedOn": "2025-08-28T16:30:40.000Z",
-          "wordCount": 4589,
+          "wordCount": 4588,
           "title": "JPMorgan Says Bitcoin Undervalued Versus Gold as Volatility Hits Record Low",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/69bd0e0c-590c-47eb-84a9-39426aca0c81.jpeg",
@@ -1465,36 +1495,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/2b0a8391-4365-4509-8aff-cca410d96ca8.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/crypto-com-bets-big-on-trump-just-months-after-settling-with-sec",
-          "author": "Denis Omelchenko",
-          "description": "The centralized exchange, once under fire for mishandling millions in crypto, is joining forces with Trump Media to roll out CRO-based rewards on Truth Social.",
-          "link": "https://thedefiant.io/news/cefi/crypto-com-bets-big-on-trump-just-months-after-settling-with-sec",
-          "publishedOn": "2025-08-27T00:34:37.000Z",
-          "wordCount": 5171,
-          "title": "Crypto.com Bets Big on Trump Just Months After Settling With SEC",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/crotruth-1-png-ffa3b017-88fc-42ba-b54b-f827332b035c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/crotruth-1-png-ffa3b017-88fc-42ba-b54b-f827332b035c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/blast-tvl-plunges-another-30-as-users-abandon-the-network",
-          "author": "Squiffs",
-          "description": "The total value locked in DeFi on the Ethereum Layer 2 blockchain is down 30% this month and 97% from its all-time high.",
-          "link": "https://thedefiant.io/news/blockchains/blast-tvl-plunges-another-30-as-users-abandon-the-network",
-          "publishedOn": "2025-08-26T22:00:44.000Z",
-          "wordCount": 5078,
-          "title": "Blast TVL Plunges Another 30% as Users Abandon the Network",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/blast-1-png-7c42cb25-b44b-4713-a504-1c7b88799119.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/blast-1-png-7c42cb25-b44b-4713-a504-1c7b88799119.png"
         }
       ]
     }
