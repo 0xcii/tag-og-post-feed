@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-10T16:21:41.942Z</id>
+    <id>urn:2025-09-10T17:14:48.942Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-10T16:21:41.942Z</updated>
+    <updated>2025-09-10T17:14:48.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Massive Software Supply-Chain Hack Targeting Crypto Ends with Pennies Stolen]]></title>
+        <id>https://thedefiant.io/news/hacks/npm-supply-chain-attack-on-crypto</id>
+        <link href="https://thedefiant.io/news/hacks/npm-supply-chain-attack-on-crypto"/>
+        <updated>2025-09-10T17:11:13.000Z</updated>
+        <summary type="html"><![CDATA[One web developer’s compromised npm account triggered a large-scale supply chain attack, but the hacker only got a few cents in crypto, analysts say.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Market Stays Above $4T as PPI and Job Revisions Fuel Rate Cut Speculation]]></title>
         <id>https://thedefiant.io/news/markets/crypto-market-update-sept-10-ppi-data</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Asset-manager Strive Funds plans to acquire more than $700 million worth of Bitcoin once it completes its initial public offering, Chief Executive Officer Matt Cole said on Thursday]]></summary>
         <author>
             <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pantera-backed Multipli Raises $5 Million, Plans Token Launch by End of 2025]]></title>
-        <id>https://thedefiant.io/news/defi/pantera-backed-multipli-raises-usd5-million-plans-token-launch-by-end-of-2025</id>
-        <link href="https://thedefiant.io/news/defi/pantera-backed-multipli-raises-usd5-million-plans-token-launch-by-end-of-2025"/>
-        <updated>2025-08-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With $5 million in new funding, Multipli plans to scale institutional-grade strategies that unlock yield on BTC and XRP.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
