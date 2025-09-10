@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-10T14:16:42.395Z</id>
+    <id>urn:2025-09-10T15:18:11.733Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-10T14:16:42.395Z</updated>
+    <updated>2025-09-10T15:18:11.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Market Stays Above $4T as PPI and Job Revisions Fuel Rate Cut Speculation]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-market-update-sept-10-ppi-data</id>
+        <link href="https://thedefiant.io/news/markets/crypto-market-update-sept-10-ppi-data"/>
+        <updated>2025-09-10T14:32:39.000Z</updated>
+        <summary type="html"><![CDATA[BTC pushed above $114,000, while ETH is trading near $4,400.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nasdaq’s Tokenized Equities Filing Highlights Settlement and Infrastructure Challenges]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/nasdaq-s-tokenized-equities-filing-highlights-settlement-and-infrastructure-challenges</id>
@@ -63,6 +73,16 @@
         <summary type="html"><![CDATA[Just two months after the exploit, Kinto’s K token dropped sharply on the news, wiping out the remaining value it had recovered.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana’s Rise as a Treasury Powerhouse: DeFi Development Corp’s Bold Strategy]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/solana-s-rise-as-a-treasury-powerhouse-defi-development-corp-s-bold-strategy</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/solana-s-rise-as-a-treasury-powerhouse-defi-development-corp-s-bold-strategy"/>
+        <updated>2025-09-09T15:08:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of The Defiant Podcast, we sit down with Joseph Onorati, CEO of DeFi Development Corp, the second-largest Solana treasury company. Joseph shares the journey of transforming DeFi Development Corp into a Solana-focused treasury powerhouse, their innovative yield strategies, and why Solana's volatility and native yield make it a compelling treasury asset. We also dive into the broader case for crypto treasury companies, the risks and rewards of staking strategies, and the future of Solana in the blockchain ecosystem.]]></summary>
+        <author>
+            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/pantera-backed-multipli-raises-usd5-million-plans-token-launch-by-end-of-2025"/>
         <updated>2025-08-28T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[With $5 million in new funding, Multipli plans to scale institutional-grade strategies that unlock yield on BTC and XRP.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoin Market Cap Surpasses $280 Billion, Solana’s Stablecoin Hits $12 Billion 15-Week High]]></title>
-        <id>https://thedefiant.io/news/markets/stablecoin-market-cap-surpasses-280-billion-solanas-stablecoin-hits-12-billion-fe9fc3d8</id>
-        <link href="https://thedefiant.io/news/markets/stablecoin-market-cap-surpasses-280-billion-solanas-stablecoin-hits-12-billion-fe9fc3d8"/>
-        <updated>2025-08-28T11:00:38.000Z</updated>
-        <summary type="html"><![CDATA[The total market capitalization of stablecoins has reached a new all-time high of $280 billion, according to data from DefiLlama]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony’s Soneium Debuts Scoring System to Record Onchain Participation]]></title>
-        <id>https://thedefiant.io/news/blockchains/sony-s-soneium-debuts-scoring-system-to-record-onchain-participation</id>
-        <link href="https://thedefiant.io/news/blockchains/sony-s-soneium-debuts-scoring-system-to-record-onchain-participation"/>
-        <updated>2025-08-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Users can earn badges by swapping, staking, and minting NFTs on Soneium.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
