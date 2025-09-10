@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-10T20:18:54.828Z</id>
+    <id>urn:2025-09-10T21:14:55.816Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-10T20:18:54.828Z</updated>
+    <updated>2025-09-10T21:14:55.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Dragonfly Investor Suggests Hyperliquid Stablecoin Competition is Rigged]]></title>
+        <title type="html"><![CDATA[PUMP Soars to Highest Price Since Opening Week]]></title>
+        <id>https://thedefiant.io/news/defi/pump-soars-to-highest-price-since-opening-week</id>
+        <link href="https://thedefiant.io/news/defi/pump-soars-to-highest-price-since-opening-week"/>
+        <updated>2025-09-10T21:02:43.000Z</updated>
+        <summary type="html"><![CDATA[The Solana-based memecoin launchpad’s token is up another 20% today, and 43% on the week to a $5.6 billion valuation.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dragonfly Partner Suggests Hyperliquid Stablecoin Competition is Rigged]]></title>
         <id>https://thedefiant.io/news/defi/dragonfly-suggests-hyperliquid-stablecoin-competition-is-rigged</id>
         <link href="https://thedefiant.io/news/defi/dragonfly-suggests-hyperliquid-stablecoin-competition-is-rigged"/>
         <updated>2025-09-10T18:46:01.000Z</updated>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/tether-mints-1-billion-usdt-transfers-to-bitfinex-plans-167-billion-usdt-launch-4cbe885c"/>
         <updated>2025-08-28T13:00:45.000Z</updated>
         <summary type="html"><![CDATA[Tether Treasury minted $1 billion worth of USDT stablecoins on August 27, 2025]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether to Launch USDT Natively on Bitcoin via RGB]]></title>
-        <id>https://thedefiant.io/news/blockchains/tether-to-launch-usdt-natively-on-bitcoin-via-rgb-88ed084b</id>
-        <link href="https://thedefiant.io/news/blockchains/tether-to-launch-usdt-natively-on-bitcoin-via-rgb-88ed084b"/>
-        <updated>2025-08-28T13:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Tether, the issuer of the world’s largest dollar-pegged stablecoin, said on 28 August it will launch USD₮ (USDT) directly on Bitcoin using the RGB protocol, making the token the first major stablecoin to exist natively on the network]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>
