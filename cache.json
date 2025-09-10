@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/ronin-taps-optimism-op-stack-for-ethereum-layer-2",
+          "author": "Denis Omelchenko",
+          "description": "Ronin is tapping Optimism’s tools to build its own chain, joining crypto heavyweights who also relied on the OP Stack to launch their L2 networks.",
+          "link": "https://thedefiant.io/news/infrastructure/ronin-taps-optimism-op-stack-for-ethereum-layer-2",
+          "publishedOn": "2025-09-10T17:40:27.000Z",
+          "wordCount": 5507,
+          "title": "Optimism Scores Another Big Deal as Ronin Joins Its L2 Stack",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2---2025-09-10t183938-600-png-cbdf3267-8448-40dc-b22f-4ac56ef8a4e2.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2---2025-09-10t183938-600-png-cbdf3267-8448-40dc-b22f-4ac56ef8a4e2.png"
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/npm-supply-chain-attack-on-crypto",
           "author": "Denis Omelchenko",
           "description": "One web developer’s compromised npm account triggered a large-scale supply chain attack, but the hacker only got a few cents in crypto, analysts say.",
@@ -1480,21 +1495,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/f7e0056f-5d8b-45b7-9198-95644d1da520.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/strive-funds-targets-700-million-bitcoin-buy-after-ipo-1fd07d6c",
-          "author": "DeepNewz",
-          "description": "Asset-manager Strive Funds plans to acquire more than $700 million worth of Bitcoin once it completes its initial public offering, Chief Executive Officer Matt Cole said on Thursday",
-          "link": "https://thedefiant.io/news/markets/strive-funds-targets-700-million-bitcoin-buy-after-ipo-1fd07d6c",
-          "publishedOn": "2025-08-28T12:00:39.000Z",
-          "wordCount": 4667,
-          "title": "Strive Funds Targets $700 Million Bitcoin Buy After IPO",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/5ac7837b-d7d1-435d-a861-14c1ff8258df.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/5ac7837b-d7d1-435d-a861-14c1ff8258df.jpeg"
         }
       ]
     }
