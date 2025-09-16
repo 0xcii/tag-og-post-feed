@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-16T16:22:27.122Z</id>
+    <id>urn:2025-09-16T17:15:24.067Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-16T16:22:27.122Z</updated>
+    <updated>2025-09-16T17:15:24.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Maple’s $200 Million Plasma Vault Gets Filled Instantly]]></title>
+        <id>https://thedefiant.io/news/defi/maple-s-usd200-million-plasma-vault-gets-filled-instantly</id>
+        <link href="https://thedefiant.io/news/defi/maple-s-usd200-million-plasma-vault-gets-filled-instantly"/>
+        <updated>2025-09-16T16:45:45.000Z</updated>
+        <summary type="html"><![CDATA[The onchain asset manager’s Plasma pre-deposit vault for syrupUSDT hit capacity in under a minute.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Majors Trade Sideways amid Geopolitical Tension]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-mostly-flat-sept-16</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/avalon-labs-launches-on-bitcoin-layer-2-rootstock</id>
         <link href="https://thedefiant.io/news/defi/avalon-labs-launches-on-bitcoin-layer-2-rootstock"/>
         <updated>2025-09-02T11:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Rootstock looks to continue its growth with the addition of Avalon’s lending infrastructure.]]></summary>
+        <summary type="html"><![CDATA[Bitcoin lending market Avalon Labs is now live on Rootstock, the fourth largest Bitcoin sidechain by total value locked (TVL), according to a press release viewed by The Defiant.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/bitcoin-august-all-time-high-above-usd124k-could-be-cycle-top-coingecko</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-august-all-time-high-above-usd124k-could-be-cycle-top-coingecko"/>
         <updated>2025-09-01T16:50:14.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin (BTC) may have peaked earlier than expected this cycle if history is any guide, according to new research by CoinGecko.]]></summary>
+        <summary type="html"><![CDATA[With its latest all-time high in August, Bitcoin is breaking the usual post-halving pattern and may have peaked early, analysts at CoinGecko say.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/binance-restores-futures-trading-after-brief-unified-margin-outage-e8dc4d9c"/>
         <updated>2025-08-29T07:30:38.000Z</updated>
         <summary type="html"><![CDATA[Cryptocurrency exchange Binance briefly halted all futures trading on 29 August after detecting a technical issue on its Unified Margin platform, which consolidates collateral across derivatives positions]]></summary>
-        <author>
-            <name>DeepNewz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Restores Futures Trading After Brief Technical Halt]]></title>
-        <id>https://thedefiant.io/news/cefi/binance-restores-futures-trading-after-brief-technical-halt-c1771d37</id>
-        <link href="https://thedefiant.io/news/cefi/binance-restores-futures-trading-after-brief-technical-halt-c1771d37"/>
-        <updated>2025-08-29T07:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrency exchange Binance temporarily halted trading on its USD-margined (UM) futures platform on 29 Aug 2025 after detecting a technical issue]]></summary>
         <author>
             <name>DeepNewz</name>
         </author>

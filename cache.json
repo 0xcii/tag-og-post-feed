@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/maple-s-usd200-million-plasma-vault-gets-filled-instantly",
+          "author": "Jona Jaupi",
+          "description": "The onchain asset manager’s Plasma pre-deposit vault for syrupUSDT hit capacity in under a minute.",
+          "link": "https://thedefiant.io/news/defi/maple-s-usd200-million-plasma-vault-gets-filled-instantly",
+          "publishedOn": "2025-09-16T16:45:45.000Z",
+          "wordCount": 5116,
+          "title": "Maple’s $200 Million Plasma Vault Gets Filled Instantly",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/mapleplasma-1-png-0545f720-b266-4046-95a9-f31c86363792.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/mapleplasma-1-png-0545f720-b266-4046-95a9-f31c86363792.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-mostly-flat-sept-16",
           "author": "Jona Jaupi",
           "description": "Bitcoin, Ethereum and other large-caps are mostly flat today as geopolitical risks and Fed anticipation weigh on markets.",
@@ -1239,7 +1254,7 @@
         {
           "id": "https://thedefiant.io/news/defi/avalon-labs-launches-on-bitcoin-layer-2-rootstock",
           "author": "Squiffs",
-          "description": "Rootstock looks to continue its growth with the addition of Avalon’s lending infrastructure.",
+          "description": "Bitcoin lending market Avalon Labs is now live on Rootstock, the fourth largest Bitcoin sidechain by total value locked (TVL), according to a press release viewed by The Defiant.",
           "link": "https://thedefiant.io/news/defi/avalon-labs-launches-on-bitcoin-layer-2-rootstock",
           "publishedOn": "2025-09-02T11:30:17.000Z",
           "wordCount": 5179,
@@ -1254,7 +1269,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-august-all-time-high-above-usd124k-could-be-cycle-top-coingecko",
           "author": "Denis Omelchenko",
-          "description": "Bitcoin (BTC) may have peaked earlier than expected this cycle if history is any guide, according to new research by CoinGecko.",
+          "description": "With its latest all-time high in August, Bitcoin is breaking the usual post-halving pattern and may have peaked early, analysts at CoinGecko say.",
           "link": "https://thedefiant.io/news/markets/bitcoin-august-all-time-high-above-usd124k-could-be-cycle-top-coingecko",
           "publishedOn": "2025-09-01T16:50:14.000Z",
           "wordCount": 5648,
@@ -1480,21 +1495,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/084ee96e-735c-466a-9490-e60db5c84dc5.jpeg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/binance-restores-futures-trading-after-brief-technical-halt-c1771d37",
-          "author": "DeepNewz",
-          "description": "Cryptocurrency exchange Binance temporarily halted trading on its USD-margined (UM) futures platform on 29 Aug 2025 after detecting a technical issue",
-          "link": "https://thedefiant.io/news/cefi/binance-restores-futures-trading-after-brief-technical-halt-c1771d37",
-          "publishedOn": "2025-08-29T07:00:39.000Z",
-          "wordCount": 4568,
-          "title": "Binance Restores Futures Trading After Brief Technical Halt",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/743215f2-bc3f-4e81-bbdf-57463fc00010.jpeg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/743215f2-bc3f-4e81-bbdf-57463fc00010.jpeg"
         }
       ]
     }
