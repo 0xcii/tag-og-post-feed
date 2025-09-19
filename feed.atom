@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-19T17:14:36.197Z</id>
+    <id>urn:2025-09-19T18:24:54.044Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-19T17:14:36.197Z</updated>
+    <updated>2025-09-19T18:24:54.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Over 80% of Crypto Community Predicts New BTC All-Time High This Year: CoinGecko]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-price-prediction-2025-coingecko-survey</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-price-prediction-2025-coingecko-survey"/>
+        <updated>2025-09-19T18:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Most survey respondents expect a new ATH by year end, but estimate lower prices for Bitcoin than Wall Street’s forecasts.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetaMask Could Soon Offer Hyperliquid Perps Trading with USDC Deposits]]></title>
         <id>https://thedefiant.io/news/defi/metamask-could-soon-offer-hyperliquid-perps-trading-with-usdc-deposits</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The move brings 24/7 trading of equities and ETFs to DeFi’s largest blockchain.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump-Linked WLFI Token Tanks 18% in First 24 Hours of Trading]]></title>
-        <id>https://thedefiant.io/news/markets/trump-linked-wlfi-price-tanks-18-in-first-24-hours-of-trading</id>
-        <link href="https://thedefiant.io/news/markets/trump-linked-wlfi-price-tanks-18-in-first-24-hours-of-trading"/>
-        <updated>2025-09-02T14:25:38.000Z</updated>
-        <summary type="html"><![CDATA[The World Liberty Financial token nosedived after being listed for spot trading yesterday, with early holders reporting problems accessing their funds.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>

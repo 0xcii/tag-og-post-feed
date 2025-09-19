@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-price-prediction-2025-coingecko-survey",
+          "author": "Denis Omelchenko",
+          "description": "Most survey respondents expect a new ATH by year end, but estimate lower prices for Bitcoin than Wall Street’s forecasts.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-price-prediction-2025-coingecko-survey",
+          "publishedOn": "2025-09-19T18:19:53.000Z",
+          "wordCount": 5775,
+          "title": "Over 80% of Crypto Community Predicts New BTC All-Time High This Year: CoinGecko",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2---2025-09-19t184311-792-png-954cb963-4bac-41c7-bee2-c21134d87227.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2---2025-09-19t184311-792-png-954cb963-4bac-41c7-bee2-c21134d87227.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/metamask-could-soon-offer-hyperliquid-perps-trading-with-usdc-deposits",
           "author": "Denis Omelchenko",
           "description": "MetaMask is testing an in-wallet feature for Hyperliquid perpetuals, allowing stablecoin deposits and real-time fee tracking.",
@@ -1490,21 +1505,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/person-v2-93-png-2e0f602e-d2fb-4e06-bdde-4a973ffd89a7.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/trump-linked-wlfi-price-tanks-18-in-first-24-hours-of-trading",
-          "author": "Denis Omelchenko",
-          "description": "The World Liberty Financial token nosedived after being listed for spot trading yesterday, with early holders reporting problems accessing their funds.",
-          "link": "https://thedefiant.io/news/markets/trump-linked-wlfi-price-tanks-18-in-first-24-hours-of-trading",
-          "publishedOn": "2025-09-02T14:25:38.000Z",
-          "wordCount": 5266,
-          "title": "Trump-Linked WLFI Token Tanks 18% in First 24 Hours of Trading",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2-92-png-c5d8b805-4dde-47fe-9886-8345696e0364.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2-92-png-c5d8b805-4dde-47fe-9886-8345696e0364.png"
         }
       ]
     }
