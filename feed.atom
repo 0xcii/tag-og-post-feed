@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-23T19:13:54.630Z</id>
+    <id>urn:2025-09-23T20:19:06.543Z</id>
     <title>web3::cave</title>
-    <updated>2025-09-23T19:13:54.630Z</updated>
+    <updated>2025-09-23T20:19:06.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USDe Deposits on Binance Hit $734 Million as Ethena TVL Tops $16 Billion]]></title>
+        <id>https://thedefiant.io/news/defi/usde-deposits-on-binance-hit-usd734-million-as-ethena-tvl-tops-usd16-billion</id>
+        <link href="https://thedefiant.io/news/defi/usde-deposits-on-binance-hit-usd734-million-as-ethena-tvl-tops-usd16-billion"/>
+        <updated>2025-09-23T20:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Ethena’s stablecoins continue to attract liquidity while the ENA token lags behind.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Base Activity Hits All-Time High on Airdrop Speculation]]></title>
         <id>https://thedefiant.io/news/blockchains/base-activity-hits-all-time-high-on-airdrop-speculation</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The payments network features design input from a star-studded lineup including Anthropic, Visa, OpenAI, and Deutsche Bank.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap Brings SOL and HYPE to Its L2 Unichain via Wormhole]]></title>
-        <id>https://thedefiant.io/news/infrastructure/uniswap-brings-solana-and-hyperevm-tokens-to-unichain-via-wormhole</id>
-        <link href="https://thedefiant.io/news/infrastructure/uniswap-brings-solana-and-hyperevm-tokens-to-unichain-via-wormhole"/>
-        <updated>2025-09-04T16:42:04.000Z</updated>
-        <summary type="html"><![CDATA[Through a new tie-up with Wormhole, Unichain is adding SOL and HYPE as it looks to reverse slumping liquidity and user activity.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
