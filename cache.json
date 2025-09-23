@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/hype-drops-below-usd50-as-unlock-fears-intensify",
+          "author": "Squiffs",
+          "description": "BitMEX co-founder Arthur Hayes has soured on the Hyperliquid token, selling his holdings soon after calling for a 126x rally.",
+          "link": "https://thedefiant.io/news/defi/hype-drops-below-usd50-as-unlock-fears-intensify",
+          "publishedOn": "2025-09-23T12:32:59.000Z",
+          "wordCount": 5203,
+          "title": "HYPE Drops Below $50 as Unlock Fears Intensify",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hypefud-1-png-3a12f4d5-b8ad-4ee3-8c3a-b0b7425b4a7c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hypefud-1-png-3a12f4d5-b8ad-4ee3-8c3a-b0b7425b4a7c.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/crypto-treasury-activity-surges-as-datcos-expand-holdings",
           "author": "Jona Jaupi",
           "description": "Strive adds thousands of Bitcoin, while BitMine Immersion surpasses 2% of the ETH supply.",
@@ -1259,7 +1274,7 @@
         {
           "id": "https://thedefiant.io/news/research-and-opinion/swift-exec-says-banks-will-absorb-the-best-of-public-chains",
           "author": "Denis Omelchenko",
-          "description": "Traditional financial institutions are unlikely to fully outsource settlement to external blockchains or distributed ledgers, according to SWIFT chief innovation officer Tom Zschach.",
+          "description": "Public, crypto-native chains won't replace TradFi, SWIFT’s chief innovation officer argues, while the crypto world debates who really controls neutrality in finance.",
           "link": "https://thedefiant.io/news/research-and-opinion/swift-exec-says-banks-will-absorb-the-best-of-public-chains",
           "publishedOn": "2025-09-05T16:57:24.000Z",
           "wordCount": 5683,
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/stark-1-png-7bdd78fc-25cc-4d2c-ac4e-797da5a349a7.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-gain-on-regulatory-clarity-and-fed-optimism",
-          "author": "Jona Jaupi",
-          "description": "Bitcoin, Ethereum, and major altcoins rise following the SEC and CFTC sharing a statement on spot crypto trading.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-gain-on-regulatory-clarity-and-fed-optimism",
-          "publishedOn": "2025-09-03T17:18:47.000Z",
-          "wordCount": 5492,
-          "title": "Crypto Markets Gain on Regulatory Clarity and Fed Optimism",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/mktsup-1-png-81c271fc-76ef-4cfa-beed-e26bd21978ec.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/mktsup-1-png-81c271fc-76ef-4cfa-beed-e26bd21978ec.png"
         }
       ]
     }
