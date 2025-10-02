@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/avalanche-treasury-co-plans-usd675-million-merger-with-mountain-lake-acquisition",
+          "author": "Jona Jaupi",
+          "description": "The deal includes $460 million in assets and a discounted purchase of AVAX tokens from the Avalanche Foundation.",
+          "link": "https://thedefiant.io/news/blockchains/avalanche-treasury-co-plans-usd675-million-merger-with-mountain-lake-acquisition",
+          "publishedOn": "2025-10-02T20:58:48.000Z",
+          "wordCount": 5203,
+          "title": "Avalanche Treasury Co. Plans $675 Million Merger With Mountain Lake Acquisition",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/avac-1-png-654e8097-6a07-48dd-ab54-0c83345e9926.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/avac-1-png-654e8097-6a07-48dd-ab54-0c83345e9926.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/sofi-stablecoin-crypto-plans",
           "author": "Denis Omelchenko",
           "description": "The publicly held, multi-billion dollar neobank recently revealed the scope of its crypto comeback, including plans for a stablecoin and tokenized loans.",
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/megalombard-1-png-e911f5db-dabb-4d03-8be6-2cb07ecad74a.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/ethereum-validator-exit-queue-spikes-150-as-kiln-unstakes-all-its-eth",
-          "author": "Denis Omelchenko",
-          "description": "Following the staked SOL exploit on SwissBorg involving Kiln’s API, the staking provider said it’s exiting all of its ETH validators “out of an abundance of caution”",
-          "link": "https://thedefiant.io/news/hacks/ethereum-validator-exit-queue-spikes-150-as-kiln-unstakes-all-its-eth",
-          "publishedOn": "2025-09-11T17:47:51.000Z",
-          "wordCount": 5677,
-          "title": "Ethereum Validator Exit Queue Spikes 150% as Kiln Unstakes All Its ETH",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2---2025-09-11t184131-155-png-05cc56ab-a74e-4ecd-b6a5-b0ae06f02837.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2---2025-09-11t184131-155-png-05cc56ab-a74e-4ecd-b6a5-b0ae06f02837.png"
         }
       ]
     }
