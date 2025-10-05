@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-05T13:20:06.748Z</id>
+    <id>urn:2025-10-05T14:13:55.305Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-05T13:20:06.748Z</updated>
+    <updated>2025-10-05T14:13:55.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -936,6 +936,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Don’t Overcomplicate It]]></title>
+        <id>https://thedefiant.io/education/premium-tutorials/don-t-overcomplicate-it</id>
+        <link href="https://thedefiant.io/education/premium-tutorials/don-t-overcomplicate-it"/>
+        <updated>2025-09-14T14:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Trends to Watch (Hyperliquid, pumpfun)]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Polymarket Taps Chainlink to Settle Price Bets]]></title>
         <id>https://thedefiant.io/news/defi/polymarket-taps-chainlink-to-settle-price-bets</id>
         <link href="https://thedefiant.io/news/defi/polymarket-taps-chainlink-to-settle-price-bets"/>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Stablecoins are no longer just a buzzword—they’re transforming the way the world moves money. In this episode of The Defiant Podcast, we sit down with Reeve Collins, co-founder of Tether, co-founder of WeFi, and chairman at STBL, to explore the groundbreaking evolution of stablecoins.]]></summary>
         <author>
             <name>Virginia Valenzuela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avalanche TVL Doubles Since April to $2.1 Billion]]></title>
-        <id>https://thedefiant.io/news/blockchains/avalanche-tvl-doubles-since-april-to-usd2-1-billion</id>
-        <link href="https://thedefiant.io/news/blockchains/avalanche-tvl-doubles-since-april-to-usd2-1-billion"/>
-        <updated>2025-09-11T20:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Institutional inflows, gaming adoption and network upgrades fuel Avalanche’s DeFi rebound.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>

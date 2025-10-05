@@ -1407,6 +1407,21 @@
           "imageUrl": "https://cdn.thedefiant.io/lbtc-1-png-931993e2-d5d2-4ac8-b522-3c98a0908b18.png"
         },
         {
+          "id": "https://thedefiant.io/education/premium-tutorials/don-t-overcomplicate-it",
+          "author": "Squiffs",
+          "description": "Trends to Watch (Hyperliquid, pumpfun)",
+          "link": "https://thedefiant.io/education/premium-tutorials/don-t-overcomplicate-it",
+          "publishedOn": "2025-09-14T14:09:00.000Z",
+          "wordCount": 4872,
+          "title": "Don’t Overcomplicate It",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/defiant-alpha-2-dispatch-from-the-trenches-png-e8c0fc25-2516-4113-b326-936176a82447.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/defiant-alpha-2-dispatch-from-the-trenches-png-e8c0fc25-2516-4113-b326-936176a82447.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/polymarket-taps-chainlink-to-settle-price-bets",
           "author": "Squiffs",
           "description": "Reportedly raising funding at a $3 billion valuation, Polymarket is working with Chainlink following its previous governance and oracle dilemmas.",
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/youtube-thumbnails-1-vinny-s-sumptuous-show-png-af07e201-a1b4-43ac-8039-3500e486a5dd.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/avalanche-tvl-doubles-since-april-to-usd2-1-billion",
-          "author": "Jona Jaupi",
-          "description": "Institutional inflows, gaming adoption and network upgrades fuel Avalanche’s DeFi rebound.",
-          "link": "https://thedefiant.io/news/blockchains/avalanche-tvl-doubles-since-april-to-usd2-1-billion",
-          "publishedOn": "2025-09-11T20:30:46.000Z",
-          "wordCount": 5394,
-          "title": "Avalanche TVL Doubles Since April to $2.1 Billion",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/avax-1-1-png-0d133025-eb07-457d-8cd7-3ec0506812ad.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/avax-1-1-png-0d133025-eb07-457d-8cd7-3ec0506812ad.png"
         }
       ]
     }
