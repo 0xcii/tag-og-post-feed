@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-07T15:19:43.693Z</id>
+    <id>urn:2025-10-07T16:22:09.146Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-07T15:19:43.693Z</updated>
+    <updated>2025-10-07T16:22:09.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[S&amp; P Global to Launch New Index That Combines Cryptocurrencies and Crypto Stocks]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/s-and-p-global-launches-new-crypto-industry-index</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/s-and-p-global-launches-new-crypto-industry-index"/>
+        <updated>2025-10-07T15:48:19.000Z</updated>
+        <summary type="html"><![CDATA[The index will track both digital assets and publicly traded crypto-linked companies.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mantle Price Hits New High amid UR App Launch]]></title>
         <id>https://thedefiant.io/news/defi/mnt-price-hits-new-high-as-ur-app-launches</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/native-markets-wins-usdh-stablecoin-race-on-hyperliquid"/>
         <updated>2025-09-16T00:35:18.000Z</updated>
         <summary type="html"><![CDATA[Validators backed a fast, ecosystem-first proposal over established issuers, raising questions about risk, governance, and trust.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Slides Despite $500 Million Treasury Boost as Crypto Markets Stay Volatile]]></title>
-        <id>https://thedefiant.io/news/markets/solana-slides-despite-usd500-million-treasury-boost-as-crypto-markets-stay-volatile</id>
-        <link href="https://thedefiant.io/news/markets/solana-slides-despite-usd500-million-treasury-boost-as-crypto-markets-stay-volatile"/>
-        <updated>2025-09-15T18:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Major digital assets struggled Monday ahead of the Federal Reserve’s policy meeting, even as Solana ecosystem activity climbed.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
