@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/crypto-markets-drop-lower-with-traders-in-wait-and-see-mode",
+          "author": "Denis Omelchenko",
+          "description": "Crypto markets edged lower on Thursday as investors seemed to take a wait-and-see approach on macro updates.",
+          "link": "https://thedefiant.io/news/markets/crypto-markets-drop-lower-with-traders-in-wait-and-see-mode",
+          "publishedOn": "2025-10-09T18:14:26.000Z",
+          "wordCount": 5469,
+          "title": "Crypto Markets Drop Lower with Traders in Wait-and-See Mode",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/person-v2---2025-10-09t140801-055-png-27e0de4e-ec23-4524-9e17-6c22ee49ec79.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/person-v2---2025-10-09t140801-055-png-27e0de4e-ec23-4524-9e17-6c22ee49ec79.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/zora-surges-40-on-robinhood-listing",
           "author": "Squiffs",
           "description": "The creator-focused platform rallied sharply after a surprise listing on one of the top retail trading brokerage apps.",
@@ -1259,7 +1274,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/stellar-s-flagship-meridian-conference-highlights-focus-on-rwas-stablecoins-and-emerging-markets",
           "author": "Gino Matos",
-          "description": "Stellar, an OG Layer 1 founded in 2014, just wrapped up its flagship annual conference, where the focus was on growing its decentralized finance (DeFi) and real-world assets (RWA) ecosystems.",
+          "description": "The Meridian conference by Stellar was held in Rio de Janeiro Sept. 17-18.",
           "link": "https://thedefiant.io/news/blockchains/stellar-s-flagship-meridian-conference-highlights-focus-on-rwas-stablecoins-and-emerging-markets",
           "publishedOn": "2025-09-19T21:19:35.000Z",
           "wordCount": 6273,
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/cz-1-png-594d51e1-873a-487f-9348-ca5b5dc6838b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/tokenized-assets-shift-from-wrappers-to-building-blocks-in-defi",
-          "author": "Jona Jaupi",
-          "description": "RWAs are rapidly moving on-chain, unlocking new opportunities for investors and DeFi protocols, according to a new report from Dune and RWAxyz.",
-          "link": "https://thedefiant.io/news/research-and-opinion/tokenized-assets-shift-from-wrappers-to-building-blocks-in-defi",
-          "publishedOn": "2025-09-17T21:38:11.000Z",
-          "wordCount": 5214,
-          "title": "Tokenized Assets Shift From Wrappers to Building Blocks in DeFi",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/rwa-1-png-efdc897d-b37c-4c7b-918a-79a827f76675.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/rwa-1-png-efdc897d-b37c-4c7b-918a-79a827f76675.png"
         }
       ]
     }

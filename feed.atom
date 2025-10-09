@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-09T17:16:07.403Z</id>
+    <id>urn:2025-10-09T18:26:21.316Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-09T17:16:07.403Z</updated>
+    <updated>2025-10-09T18:26:21.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Drop Lower with Traders in Wait-and-See Mode]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-drop-lower-with-traders-in-wait-and-see-mode</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-drop-lower-with-traders-in-wait-and-see-mode"/>
+        <updated>2025-10-09T18:14:26.000Z</updated>
+        <summary type="html"><![CDATA[Crypto markets edged lower on Thursday as investors seemed to take a wait-and-see approach on macro updates.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZORA Surges 40% on Robinhood Listing]]></title>
         <id>https://thedefiant.io/news/blockchains/zora-surges-40-on-robinhood-listing</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/blockchains/stellar-s-flagship-meridian-conference-highlights-focus-on-rwas-stablecoins-and-emerging-markets</id>
         <link href="https://thedefiant.io/news/blockchains/stellar-s-flagship-meridian-conference-highlights-focus-on-rwas-stablecoins-and-emerging-markets"/>
         <updated>2025-09-19T21:19:35.000Z</updated>
-        <summary type="html"><![CDATA[Stellar, an OG Layer 1 founded in 2014, just wrapped up its flagship annual conference, where the focus was on growing its decentralized finance (DeFi) and real-world assets (RWA) ecosystems.]]></summary>
+        <summary type="html"><![CDATA[The Meridian conference by Stellar was held in Rio de Janeiro Sept. 17-18.]]></summary>
         <author>
             <name>Gino Matos</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The US crackdown on the world’s largest crypto exchange may be coming to a close, and founder Changpeng Zhao (CZ) hints at a return to Binance.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenized Assets Shift From Wrappers to Building Blocks in DeFi]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/tokenized-assets-shift-from-wrappers-to-building-blocks-in-defi</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/tokenized-assets-shift-from-wrappers-to-building-blocks-in-defi"/>
-        <updated>2025-09-17T21:38:11.000Z</updated>
-        <summary type="html"><![CDATA[RWAs are rapidly moving on-chain, unlocking new opportunities for investors and DeFi protocols, according to a new report from Dune and RWAxyz.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
