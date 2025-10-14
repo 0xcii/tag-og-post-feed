@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-14T20:19:31.189Z</id>
+    <id>urn:2025-10-14T21:15:35.088Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-14T20:19:31.189Z</updated>
+    <updated>2025-10-14T21:15:35.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OhBaby Games NFT Mint Offers GameFi Bulls a Glimmer of Hope]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/ohbaby-games-nft-mint-offers-gamefi-bulls-a-glimmer-of-hope</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/ohbaby-games-nft-mint-offers-gamefi-bulls-a-glimmer-of-hope"/>
+        <updated>2025-10-14T21:03:53.000Z</updated>
+        <summary type="html"><![CDATA[The gaming studio unveiled its flagship NFT on Oct. 8, which rallied 500% above its mint price on opening day.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Continues to Offer Superior Returns and Diversification: Franklin Templeton]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/crypto-continues-to-offer-superior-returns-and-diversification-franklin-templeton</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/layerzero-price-rallies-on-zro-token-buyback</id>
         <link href="https://thedefiant.io/news/markets/layerzero-price-rallies-on-zro-token-buyback"/>
         <updated>2025-09-24T17:40:25.000Z</updated>
-        <summary type="html"><![CDATA[The LayerZero Foundation has repurchased 50 million ZRO, equal to 5% of the token’s total supply.]]></summary>
+        <summary type="html"><![CDATA[The native token of cross-chain protocol LayerZero, ZRO, jumped over 22% after the project announced a token buyback program.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Our chart of the week is ASTER.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposure Down, Risk Up]]></title>
-        <id>https://thedefiant.io/education/premium-tutorials/exposure-down-risk-up</id>
-        <link href="https://thedefiant.io/education/premium-tutorials/exposure-down-risk-up"/>
-        <updated>2025-09-22T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Trends to Watch (BNB Chain)]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>

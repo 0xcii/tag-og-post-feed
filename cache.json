@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/nfts-and-web3/ohbaby-games-nft-mint-offers-gamefi-bulls-a-glimmer-of-hope",
+          "author": "Squiffs",
+          "description": "The gaming studio unveiled its flagship NFT on Oct. 8, which rallied 500% above its mint price on opening day.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/ohbaby-games-nft-mint-offers-gamefi-bulls-a-glimmer-of-hope",
+          "publishedOn": "2025-10-14T21:03:53.000Z",
+          "wordCount": 5526,
+          "title": "OhBaby Games NFT Mint Offers GameFi Bulls a Glimmer of Hope",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/obb-1-1-png-e1e842cc-0e26-4f24-bf74-0ac7d5b8bae9.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/obb-1-1-png-e1e842cc-0e26-4f24-bf74-0ac7d5b8bae9.png"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/crypto-continues-to-offer-superior-returns-and-diversification-franklin-templeton",
           "author": "Jona Jaupi",
           "description": "Digital assets often outperform traditional markets, driven by institutional adoption and tokenized products.",
@@ -1244,7 +1259,7 @@
         {
           "id": "https://thedefiant.io/news/markets/layerzero-price-rallies-on-zro-token-buyback",
           "author": "Denis Omelchenko",
-          "description": "The LayerZero Foundation has repurchased 50 million ZRO, equal to 5% of the token’s total supply.",
+          "description": "The native token of cross-chain protocol LayerZero, ZRO, jumped over 22% after the project announced a token buyback program.",
           "link": "https://thedefiant.io/news/markets/layerzero-price-rallies-on-zro-token-buyback",
           "publishedOn": "2025-09-24T17:40:25.000Z",
           "wordCount": 5021,
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/defiant-alpha-1-market-analysis-png-dbd2b9d5-c1fa-47cb-aab2-170e4563b3ab.png"
-        },
-        {
-          "id": "https://thedefiant.io/education/premium-tutorials/exposure-down-risk-up",
-          "author": "Squiffs",
-          "description": "Trends to Watch (BNB Chain)",
-          "link": "https://thedefiant.io/education/premium-tutorials/exposure-down-risk-up",
-          "publishedOn": "2025-09-22T14:15:00.000Z",
-          "wordCount": 4808,
-          "title": "Exposure Down, Risk Up",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/defiant-alpha-2-dispatch-from-the-trenches-png-35f5e33a-c5c9-4b96-a5f4-cd8009667fee.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/defiant-alpha-2-dispatch-from-the-trenches-png-35f5e33a-c5c9-4b96-a5f4-cd8009667fee.png"
         }
       ]
     }
