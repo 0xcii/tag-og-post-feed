@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-14T21:15:35.088Z</id>
+    <id>urn:2025-10-14T22:17:07.122Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-14T21:15:35.088Z</updated>
+    <updated>2025-10-14T22:17:07.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Yei Finance Token Soars 250% on Launch Day]]></title>
+        <id>https://thedefiant.io/news/defi/yei-finance-token-soars-250-on-launch-day</id>
+        <link href="https://thedefiant.io/news/defi/yei-finance-token-soars-250-on-launch-day"/>
+        <updated>2025-10-14T21:19:08.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi hub and liquidity layer on the Sei blockchain is off to a strong start.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OhBaby Games NFT Mint Offers GameFi Bulls a Glimmer of Hope]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/ohbaby-games-nft-mint-offers-gamefi-bulls-a-glimmer-of-hope</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/layerzero-price-rallies-on-zro-token-buyback</id>
         <link href="https://thedefiant.io/news/markets/layerzero-price-rallies-on-zro-token-buyback"/>
         <updated>2025-09-24T17:40:25.000Z</updated>
-        <summary type="html"><![CDATA[The native token of cross-chain protocol LayerZero, ZRO, jumped over 22% after the project announced a token buyback program.]]></summary>
+        <summary type="html"><![CDATA[The LayerZero Foundation has repurchased 50 million ZRO, equal to 5% of the token’s total supply.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[HOLLAR is a USD-pegged, over-collateralized stablecoin backed by DOT, ETH, and BTC.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markets - Bitcoin Plunges Under $112K amid $1.7B in Liquidations]]></title>
-        <id>https://thedefiant.io/education/premium-tutorials/markets-bitcoin-plunges-under-usd112k-amid-usd1-7b-in-liquidations</id>
-        <link href="https://thedefiant.io/education/premium-tutorials/markets-bitcoin-plunges-under-usd112k-amid-usd1-7b-in-liquidations"/>
-        <updated>2025-09-22T14:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Our chart of the week is ASTER.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
