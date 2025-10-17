@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-17T01:21:48.158Z</id>
+    <id>urn:2025-10-17T03:00:25.696Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-17T01:21:48.158Z</updated>
+    <updated>2025-10-17T03:00:25.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Stablecoins Power $670 Billion in Onchain Loans: Visa]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/stablecoins-power-usd670-billion-in-onchain-loans-visa</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/stablecoins-power-usd670-billion-in-onchain-loans-visa"/>
+        <updated>2025-10-17T01:19:36.000Z</updated>
+        <summary type="html"><![CDATA[With new U.S. stablecoin rules in place, Visa says banks are starting to explore blockchain-based lending markets.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lighter Distributes Points to Users Affected by Platform Outage]]></title>
         <id>https://thedefiant.io/news/defi/lighter-distributes-points-to-users-affected-by-platform-outage</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/aster-token-hits-all-time-high-amid-layer-1-plans"/>
         <updated>2025-09-24T16:56:57.000Z</updated>
         <summary type="html"><![CDATA[With $1.78 billion locked on the platform, Aster processed more than double the trading volume of Hyperliquid on Sept. 24.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Stays Cautious as Powell Warns Tariffs Could Fuel Inflation]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-market-stays-cautious-as-powell-warns-tariffs-could-fuel-inflation</id>
-        <link href="https://thedefiant.io/news/markets/crypto-market-stays-cautious-as-powell-warns-tariffs-could-fuel-inflation"/>
-        <updated>2025-09-24T16:36:56.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is holding steady around $113,000, while Ethereum trades around $4,200.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
