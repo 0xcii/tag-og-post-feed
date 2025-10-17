@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/lighter-distributes-points-to-users-affected-by-platform-outage",
+          "author": "Squiffs",
+          "description": "Perpetual derivatives DEXs across DeFi were overwhelmed by intense volatility on Friday, leading to multiple platform outages.",
+          "link": "https://thedefiant.io/news/defi/lighter-distributes-points-to-users-affected-by-platform-outage",
+          "publishedOn": "2025-10-17T00:52:52.000Z",
+          "wordCount": 5058,
+          "title": "Lighter Distributes Points to Users Affected by Platform Outage",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/lighter-1-2-png-7cd3814a-ad4c-4b11-839a-10beb0688e62.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/lighter-1-2-png-7cd3814a-ad4c-4b11-839a-10beb0688e62.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/hyperliquid-based-ventuals-attracts-usd38-million-within-30-minute",
           "author": "Squiffs",
           "description": "The liquid staking vault reached its 500,000 HYPE initial deposit threshold in minutes.",
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/cautious-1-png-29af2b45-0279-4aff-8b37-9c584460ba6f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-expands-benji-to-bnb-chain",
-          "author": "Jona Jaupi",
-          "description": "The expansion to the fifth-largest blockchain aims to reach more institutional and retail investors.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-expands-benji-to-bnb-chain",
-          "publishedOn": "2025-09-24T13:01:56.000Z",
-          "wordCount": 5198,
-          "title": "Franklin Templeton Expands Benji Tokenization Platform to BNB Chain",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2---2025-09-24t135505-946-png-bbec5f38-db1a-40b5-96c1-d1e05fcdbf9f.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2---2025-09-24t135505-946-png-bbec5f38-db1a-40b5-96c1-d1e05fcdbf9f.png"
         }
       ]
     }
