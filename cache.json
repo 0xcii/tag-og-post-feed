@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/former-ftx-us-president-brett-harrison-to-launch-perpetuals-exchange",
+          "author": "Squiffs",
+          "description": "Harrison’s Architect exchange will primarily focus on TradFi assets.",
+          "link": "https://thedefiant.io/news/cefi/former-ftx-us-president-brett-harrison-to-launch-perpetuals-exchange",
+          "publishedOn": "2025-10-30T01:17:10.000Z",
+          "wordCount": 4805,
+          "title": "Former FTX US President Brett Harrison to Launch Perpetuals Exchange",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/architect-1-png-569032c6-509d-4184-a59f-0ef78248317e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/architect-1-png-569032c6-509d-4184-a59f-0ef78248317e.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/bittensor-rallies-ahead-of-first-tao-halving",
           "author": "Squiffs",
           "description": "The decentralized AI network is preparing for its first halving event on December 10.",
@@ -1244,7 +1259,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-markets-stall-as-traders-bet-shutdown-will-extend-into-november",
           "author": "Denis Omelchenko",
-          "description": "Crypto markets hold out around $4.2 trillion as traders increasingly bet the U.S. government shutdown could last into next month.",
+          "description": "Crypto markets are trading flat today, Oct. 10, and most large-caps are posting moderate losses on the week. Total market capitalization is holding out around $4.24 trillion, up less than half a percent on the day, as traders increasingly bet that the United States government shutdown will last into next month.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-stall-as-traders-bet-shutdown-will-extend-into-november",
           "publishedOn": "2025-10-10T14:59:01.000Z",
           "wordCount": 5744,
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/icepoly-1-png-de7e7226-1713-409b-ab08-96ec9116833d.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/tokenized-funds-market-cap-could-hit-usd1-9-trillion-by-2030-galaxy",
-          "author": "Denis Omelchenko",
-          "description": "Galaxy Digital predicts that tokenized assets could grow by more than 5,600% in five years, driven by strong institutional interest.",
-          "link": "https://thedefiant.io/news/research-and-opinion/tokenized-funds-market-cap-could-hit-usd1-9-trillion-by-2030-galaxy",
-          "publishedOn": "2025-10-07T17:34:22.000Z",
-          "wordCount": 5256,
-          "title": "Tokenized Funds Market Cap Could Hit $1.9 Trillion by 2030: Galaxy",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/galaxy-1-png-03976418-42f3-45fb-b62f-561c3408ee10.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/galaxy-1-png-03976418-42f3-45fb-b62f-561c3408ee10.png"
         }
       ]
     }
