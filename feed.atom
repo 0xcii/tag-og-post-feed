@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-30T01:27:30.760Z</id>
+    <id>urn:2025-10-30T03:10:14.923Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-30T01:27:30.760Z</updated>
+    <updated>2025-10-30T03:10:14.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hedera Rallies on Canary Capital ETF Launch]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/hedera-rallies-on-canary-capital-etf-launch</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/hedera-rallies-on-canary-capital-etf-launch"/>
+        <updated>2025-10-30T02:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Canary Capital launched ETFs for both HBAR and LTC, but HBAR rallied while LTC plunged.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Former FTX US President Brett Harrison to Launch Perpetuals Exchange]]></title>
         <id>https://thedefiant.io/news/cefi/former-ftx-us-president-brett-harrison-to-launch-perpetuals-exchange</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-stall-as-traders-bet-shutdown-will-extend-into-november</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-stall-as-traders-bet-shutdown-will-extend-into-november"/>
         <updated>2025-10-10T14:59:01.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets are trading flat today, Oct. 10, and most large-caps are posting moderate losses on the week. Total market capitalization is holding out around $4.24 trillion, up less than half a percent on the day, as traders increasingly bet that the United States government shutdown will last into next month.]]></summary>
+        <summary type="html"><![CDATA[Crypto markets hold out around $4.2 trillion as traders increasingly bet the U.S. government shutdown could last into next month.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Polymarket and Kalshi continue to battle for supremacy with new partnerships and investment announcements.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICE Invests $2 Billion in Polymarket To Expand Into Prediction Markets]]></title>
-        <id>https://thedefiant.io/news/defi/ice-invests-usd2-billion-in-polymarket</id>
-        <link href="https://thedefiant.io/news/defi/ice-invests-usd2-billion-in-polymarket"/>
-        <updated>2025-10-07T17:42:23.000Z</updated>
-        <summary type="html"><![CDATA[The partnership makes Intercontinental Exchange a global distributor of Polymarket data.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
