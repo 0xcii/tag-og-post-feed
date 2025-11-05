@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/ripple-partners-with-mastercard-webbank-and-gemini-to-test-stablecoin-card-settlements",
+          "author": "Jona Jaupi",
+          "description": "The collaboration will explore using Ripple’s RLUSD stablecoin on the XRP Ledger to process Gemini Credit Card transactions.",
+          "link": "https://thedefiant.io/news/defi/ripple-partners-with-mastercard-webbank-and-gemini-to-test-stablecoin-card-settlements",
+          "publishedOn": "2025-11-05T18:13:04.000Z",
+          "wordCount": 5344,
+          "title": "Ripple Partners with Mastercard, WebBank, and Gemini to Test Stablecoin Card Settlements",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/dinero-1-png-1e8f5c09-abb0-4ce2-8dc3-1d2d9593a6fc.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/dinero-1-png-1e8f5c09-abb0-4ce2-8dc3-1d2d9593a6fc.png"
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/dwf-labs-exploited-for-usd44m-in-2022-hack-report",
           "author": "Jona Jaupi",
           "description": "The alleged breach was reported this week by a blockchain investigator, but remains unconfirmed by DWF Labs.",
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/templeton-1-png-6e6196a4-b1c5-4708-9fde-9e847baeeddb.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/umbra-trades-5x-above-ico-price-after-oversubscribed-raise",
-          "author": "Squiffs",
-          "description": "The ICO raised 200x its $750,000 minimum, and more than 50x its hard cap.",
-          "link": "https://thedefiant.io/news/tokens/umbra-trades-5x-above-ico-price-after-oversubscribed-raise",
-          "publishedOn": "2025-10-14T17:59:54.000Z",
-          "wordCount": 5314,
-          "title": "UMBRA Trades 5X Above ICO Price After Oversubscribed Raise",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/048c2d0512064f5fcfd0bb573695a71b72cba10ab697734972e118382010-b8ca0ccf-1f8b-4b89-b565-8b6e3eedab66.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/048c2d0512064f5fcfd0bb573695a71b72cba10ab697734972e118382010-b8ca0ccf-1f8b-4b89-b565-8b6e3eedab66.png"
         }
       ]
     }
