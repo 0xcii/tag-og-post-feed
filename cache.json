@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/seven-ethereum-protocol-teams-form-alliance-to-engage-on-crypto-policy",
+          "author": "Jona Jaupi",
+          "description": "The Ethereum Protocol Advocacy Alliance (EPAA) will coordinate on global policy issues regarding blockchain networks.",
+          "link": "https://thedefiant.io/news/regulation/seven-ethereum-protocol-teams-form-alliance-to-engage-on-crypto-policy",
+          "publishedOn": "2025-11-05T18:56:52.000Z",
+          "wordCount": 5112,
+          "title": "Seven Ethereum Protocol Teams Form Alliance to Engage on Crypto Policy",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/privacy-1-4-png-21cad65c-5091-4614-8fc5-8f5726523d0c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/privacy-1-4-png-21cad65c-5091-4614-8fc5-8f5726523d0c.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/ripple-partners-with-mastercard-webbank-and-gemini-to-test-stablecoin-card-settlements",
           "author": "Jona Jaupi",
           "description": "The collaboration will explore using Ripple’s RLUSD stablecoin on the XRP Ledger to process Gemini Credit Card transactions.",
@@ -1244,7 +1259,7 @@
         {
           "id": "https://thedefiant.io/news/tokens/launchcoin-price-drops-as-developers-switch-to-believe-token",
           "author": "Denis Omelchenko",
-          "description": "The team behind LAUNCHCOIN announced it is switching to a new token design and ticker, implying that the current asset is outdated.",
+          "description": "The price of Launch Coin on Believe (LAUNCHCOIN) sank more than 30% on Thursday, Oct. 16, after developers said they were scrapping its original model, calling it too outdated to keep up with the growing demands of the Believe ecosystem.",
           "link": "https://thedefiant.io/news/tokens/launchcoin-price-drops-as-developers-switch-to-believe-token",
           "publishedOn": "2025-10-17T13:07:36.000Z",
           "wordCount": 5216,
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/obb-1-1-png-e1e842cc-0e26-4f24-bf74-0ac7d5b8bae9.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/crypto-continues-to-offer-superior-returns-and-diversification-franklin-templeton",
-          "author": "Jona Jaupi",
-          "description": "Digital assets often outperform traditional markets, driven by institutional adoption and tokenized products.",
-          "link": "https://thedefiant.io/news/research-and-opinion/crypto-continues-to-offer-superior-returns-and-diversification-franklin-templeton",
-          "publishedOn": "2025-10-14T19:38:49.000Z",
-          "wordCount": 5198,
-          "title": "Crypto Continues to Offer Superior Returns and Diversification: Franklin Templeton",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/templeton-1-png-6e6196a4-b1c5-4708-9fde-9e847baeeddb.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/templeton-1-png-6e6196a4-b1c5-4708-9fde-9e847baeeddb.png"
         }
       ]
     }
