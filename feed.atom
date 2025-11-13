@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-13T17:18:41.518Z</id>
+    <id>urn:2025-11-13T18:27:26.832Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-13T17:18:41.518Z</updated>
+    <updated>2025-11-13T18:27:26.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[XRP Surges as First U.S. Spot ETF Debuts on Nasdaq]]></title>
+        <id>https://thedefiant.io/news/blockchains/xrp-surges-as-first-u-s-spot-etf-debuts-on-nasdaq</id>
+        <link href="https://thedefiant.io/news/blockchains/xrp-surges-as-first-u-s-spot-etf-debuts-on-nasdaq"/>
+        <updated>2025-11-13T18:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Canary Capital’s XRPC ETF marks a major milestone for Ripple.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken’s xStocks Hit $10B in Total Trading Volume]]></title>
+        <id>https://thedefiant.io/news/cefi/kraken-backed-xstocks-hit-usd10b-cumulative-trading-volume</id>
+        <link href="https://thedefiant.io/news/cefi/kraken-backed-xstocks-hit-usd10b-cumulative-trading-volume"/>
+        <updated>2025-11-13T18:03:49.000Z</updated>
+        <summary type="html"><![CDATA[The tokenized stock platform supports Ethereum and other networks, but the majority of capital is concentrated on Solana.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZEC Jumps as Winklevoss‑Backed Cypherpunk Reveals $100M Zcash Treasury]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/winklevoss-reveals-cypherpunk-zcash-dat</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/peter-schiff-wants-to-put-gold-on-blockchain</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/peter-schiff-wants-to-put-gold-on-blockchain"/>
         <updated>2025-10-24T13:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Peter Schiff, well known in the crypto industry as a Bitcoin critic and gold advocate, announced that he’s exploring a new way to make bullion digital — via blockchain. Schiff revealed his plans for a tokenized gold platform during an interview on CounterParty TV posted yesterday, Oct. 23.]]></summary>
+        <summary type="html"><![CDATA[The long-time gold maxi says he will "probably launch” a token representing physical gold as part of a platform to make gold easy to transfer and spend.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/hyperliquid-based-kinetiq-unveils-kntq-governance-token"/>
         <updated>2025-10-22T16:18:30.000Z</updated>
         <summary type="html"><![CDATA[KNTQ will allow holders to participate in decisions shaping the Kinetiq liquid staking protocol.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENA Jumps 4% as First Ethena-Native DEX Ethereal Launches Mainnet Alpha]]></title>
-        <id>https://thedefiant.io/news/defi/ethena-community-approved-dex-ethereal-launches-mainnet-alpha</id>
-        <link href="https://thedefiant.io/news/defi/ethena-community-approved-dex-ethereal-launches-mainnet-alpha"/>
-        <updated>2025-10-22T14:48:25.000Z</updated>
-        <summary type="html"><![CDATA[The Ethena community-approved spot and perp DEX launched its mainnet with early access for USDe-based trading.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nearly Half of US Retail Crypto Holders Haven’t Earned Yield: MoreMarkets]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/nearly-half-of-u-s-retail-crypto-holders-haven-t-earned-yield-moremarkets</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/nearly-half-of-u-s-retail-crypto-holders-haven-t-earned-yield-moremarkets"/>
-        <updated>2025-10-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MoreMarkets’ 2025 Crypto Yield Retail Consumer Report shows retail investors favor centralized exchanges and prioritize safety over high returns.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
