@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-opens-week-below-usd95k-as-market-sentiment-turns-to-extreme-fear",
+          "author": "Denis Omelchenko",
+          "description": "Crypto market capitalization has declined to June levels, as fears about the market’s regression continue to grow.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-opens-week-below-usd95k-as-market-sentiment-turns-to-extreme-fear",
+          "publishedOn": "2025-11-17T15:19:44.000Z",
+          "wordCount": 5689,
+          "title": "Bitcoin Starts the Week Below $95K as Market Sentiment Turns to Extreme Fear",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/64ca03092bbbb2d51726c23fa75279b781d9419db0fab0e1f1e6b0460db4-c47a980a-45ca-4243-8544-eee604e6191b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/64ca03092bbbb2d51726c23fa75279b781d9419db0fab0e1f1e6b0460db4-c47a980a-45ca-4243-8544-eee604e6191b.png"
+        },
+        {
           "id": "https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer",
           "author": "Denis Omelchenko",
           "description": "The Consensys-owned firm is betting on Ethereum stakers to keep its infrastructure running, after an AWS outage last month knocked the company offline.",
@@ -1244,7 +1259,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/truth-social-cryptocom-announce-prediction-market",
           "author": "Jona Jaupi",
-          "description": "Truth Predict will let users trade on elections, sports, and other events.",
+          "description": "Crypto.com’s Cronos (CRO) token jumped 6% to $0.15 on Tuesday after social media firm Truth Social, which is linked to U.S. President Donald Trump, announced it will soon allow users to make predictions and trade contracts on real-world events through a new partnership with the centralized exchange.",
           "link": "https://thedefiant.io/news/cefi/truth-social-cryptocom-announce-prediction-market",
           "publishedOn": "2025-10-28T14:57:03.000Z",
           "wordCount": 5273,
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/btcbounce-1-2-png-89bd142b-e9e3-480a-86a2-a5f798c5db51.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-attempts-to-reclaim-usd110-000-as-us-stocks-rebound",
-          "author": "Denis Omelchenko",
-          "description": "Bitcoin and Ether rose 1.5% on Thursday as the S&P 500 and Nasdaq approached their all-time highs.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-attempts-to-reclaim-usd110-000-as-us-stocks-rebound",
-          "publishedOn": "2025-10-23T17:18:45.000Z",
-          "wordCount": 5308,
-          "title": "Bitcoin Attempts to Reclaim $110,000 as US Stocks Rebound",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/btcbounce-1-1-png-8811362f-de8b-4b85-9e98-711427a9b40e.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/btcbounce-1-1-png-8811362f-de8b-4b85-9e98-711427a9b40e.png"
         }
       ]
     }
