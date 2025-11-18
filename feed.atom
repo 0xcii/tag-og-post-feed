@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-18T20:22:15.002Z</id>
+    <id>urn:2025-11-18T22:18:39.464Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-18T20:22:15.002Z</updated>
+    <updated>2025-11-18T22:18:39.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Paxos Labs and LayerZero Launch USDG0 to Expand Global Dollar Across DeFi]]></title>
+        <id>https://thedefiant.io/news/defi/paxos-labs-and-layerzero-launch-usdg0-to-expand-global-dollar-across-defi</id>
+        <link href="https://thedefiant.io/news/defi/paxos-labs-and-layerzero-launch-usdg0-to-expand-global-dollar-across-defi"/>
+        <updated>2025-11-18T20:24:26.000Z</updated>
+        <summary type="html"><![CDATA[The bridged stablecoin will initially roll out on Hyperliquid, followed by Plume and Aptos.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Senators Call for Probe into World Liberty Financial]]></title>
         <id>https://thedefiant.io/news/regulation/us-senators-call-for-probe-into-world-liberty-financial</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The surge is led by a single protocol, Tydro, launched by Ink itself.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 is the Year ‘Crypto Went Mainstream’: a16z]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/2025-is-the-year-crypto-went-mainstream-a16z</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/2025-is-the-year-crypto-went-mainstream-a16z"/>
-        <updated>2025-10-24T21:01:29.000Z</updated>
-        <summary type="html"><![CDATA[A new report from the venture firm shows that crypto adoption has surged among consumers, institutions, and stablecoins in 2025.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
