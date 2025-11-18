@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-18T19:16:12.599Z</id>
+    <id>urn:2025-11-18T20:22:15.002Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-18T19:16:12.599Z</updated>
+    <updated>2025-11-18T20:22:15.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US Senators Call for Probe into World Liberty Financial]]></title>
+        <id>https://thedefiant.io/news/regulation/us-senators-call-for-probe-into-world-liberty-financial</id>
+        <link href="https://thedefiant.io/news/regulation/us-senators-call-for-probe-into-world-liberty-financial"/>
+        <updated>2025-11-18T19:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Senators Elizabeth Warren and Jack Reed allege the Trump family’s DeFi protocol is tied to malicious actors from North Korea and Russia.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[0xbow Raises $3.5 Million to Expand Privacy Pools]]></title>
         <id>https://thedefiant.io/news/defi/0xbow-raises-usd3-5-million-to-expand-privacy-pools</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[A new report from the venture firm shows that crypto adoption has surged among consumers, institutions, and stablecoins in 2025.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pumpfun Acquires Memecoin Trading Terminal Padre]]></title>
-        <id>https://thedefiant.io/news/defi/pumpfun-acquires-memecoin-trading-terminal-padre</id>
-        <link href="https://thedefiant.io/news/defi/pumpfun-acquires-memecoin-trading-terminal-padre"/>
-        <updated>2025-10-24T19:59:11.000Z</updated>
-        <summary type="html"><![CDATA[Pumpfun continues to expand its presence in the memecoin trading stack and now challenges trading bots in what some investors are calling Pumpfun's “Phase 2.”]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>

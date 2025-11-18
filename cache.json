@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/us-senators-call-for-probe-into-world-liberty-financial",
+          "author": "Squiffs",
+          "description": "Senators Elizabeth Warren and Jack Reed allege the Trump family’s DeFi protocol is tied to malicious actors from North Korea and Russia.",
+          "link": "https://thedefiant.io/news/regulation/us-senators-call-for-probe-into-world-liberty-financial",
+          "publishedOn": "2025-11-18T19:58:29.000Z",
+          "wordCount": 4920,
+          "title": "US Senators Call for Probe into World Liberty Financial",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/privacy-1-7-png-1bf740a4-e154-40ef-b33d-44e98e5fea48.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/privacy-1-7-png-1bf740a4-e154-40ef-b33d-44e98e5fea48.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/0xbow-raises-usd3-5-million-to-expand-privacy-pools",
           "author": "Jona Jaupi",
           "description": "The funding comes after a recent Ethereum integration and $6 million in transactions.",
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/a16z-1-png-e6cb750c-ea8d-436f-8f27-48d4b7231c8f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/pumpfun-acquires-memecoin-trading-terminal-padre",
-          "author": "Squiffs",
-          "description": "Pumpfun continues to expand its presence in the memecoin trading stack and now challenges trading bots in what some investors are calling Pumpfun's “Phase 2.”",
-          "link": "https://thedefiant.io/news/defi/pumpfun-acquires-memecoin-trading-terminal-padre",
-          "publishedOn": "2025-10-24T19:59:11.000Z",
-          "wordCount": 4858,
-          "title": "Pumpfun Acquires Memecoin Trading Terminal Padre",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/padre-1-png-3cfc403e-4bd1-44a6-8daa-38dcf6777cfa.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/padre-1-png-3cfc403e-4bd1-44a6-8daa-38dcf6777cfa.png"
         }
       ]
     }
