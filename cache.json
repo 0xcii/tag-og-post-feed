@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing",
+          "author": "Squiffs",
+          "description": "The Bitcoin DeFi token is up 25% from its launch price.",
+          "link": "https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing",
+          "publishedOn": "2025-11-21T22:21:12.000Z",
+          "wordCount": 4725,
+          "title": "Build on Bitcoin Token Rallies on Coinbase Listing",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/bob-1-1-png-2db05847-ee4f-4c9a-8c61-9f66b578aefe.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/bob-1-1-png-2db05847-ee4f-4c9a-8c61-9f66b578aefe.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms",
           "author": "Jona Jaupi",
           "description": "The largest Bitcoin treasury firm could see $2.8 billion in passive fund outflows if removed from major indices.",
@@ -1259,7 +1274,7 @@
         {
           "id": "https://thedefiant.io/news/tokens/zksync-zk-token-new-tokenomics-proposal",
           "author": "Squiffs",
-          "description": "ZKsync, the Ethereum Layer 2 leveraging zero-knowledge proofs, has revealed a proposal for updated tokenomics for its native token ZK, which would shift it from a pure governance token to a utility token.",
+          "description": "The move would see ZKsync implement a buyback and burn mechanism for ZK tokens",
           "link": "https://thedefiant.io/news/tokens/zksync-zk-token-new-tokenomics-proposal",
           "publishedOn": "2025-11-04T16:02:53.000Z",
           "wordCount": 5042,
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/7dfde426232e0f8a9c1b0f72a025ff466932b958406b703cd07582150cc2-b6a08957-1e08-4603-a7f9-6e550c80ab9d.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/on-chain-revenue-hits-usd20-billion-in-2025-as-defi-drives-growth",
-          "author": "Jona Jaupi",
-          "description": "A new report from 1kx found DeFi platforms fueled a 41% surge in on-chain fees to $9.7 billion in the first half of 2025.",
-          "link": "https://thedefiant.io/news/research-and-opinion/on-chain-revenue-hits-usd20-billion-in-2025-as-defi-drives-growth",
-          "publishedOn": "2025-10-30T13:00:00.000Z",
-          "wordCount": 5192,
-          "title": "On-Chain Revenue Hits $20 Billion in 2025 as DeFi Drives Growth",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/img-6fpdnajesvhqjvkmkzg6fggh-png-c74fea05-a4a4-4a81-bd75-83aaaf830f05.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/img-6fpdnajesvhqjvkmkzg6fggh-png-c74fea05-a4a4-4a81-bd75-83aaaf830f05.png"
         }
       ]
     }

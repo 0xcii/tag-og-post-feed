@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-21T22:18:37.576Z</id>
+    <id>urn:2025-11-21T23:17:21.416Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-21T22:18:37.576Z</updated>
+    <updated>2025-11-21T23:17:21.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Build on Bitcoin Token Rallies on Coinbase Listing]]></title>
+        <id>https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing</id>
+        <link href="https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing"/>
+        <updated>2025-11-21T22:21:12.000Z</updated>
+        <summary type="html"><![CDATA[The Bitcoin DeFi token is up 25% from its launch price.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Michael Saylor Defends Strategy as MSCI Index Risk Looms]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/tokens/zksync-zk-token-new-tokenomics-proposal</id>
         <link href="https://thedefiant.io/news/tokens/zksync-zk-token-new-tokenomics-proposal"/>
         <updated>2025-11-04T16:02:53.000Z</updated>
-        <summary type="html"><![CDATA[ZKsync, the Ethereum Layer 2 leveraging zero-knowledge proofs, has revealed a proposal for updated tokenomics for its native token ZK, which would shift it from a pure governance token to a utility token.]]></summary>
+        <summary type="html"><![CDATA[The move would see ZKsync implement a buyback and burn mechanism for ZK tokens]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Web3 social media protocol Farcaster is integrating the Base-based AI token launchpad.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-Chain Revenue Hits $20 Billion in 2025 as DeFi Drives Growth]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/on-chain-revenue-hits-usd20-billion-in-2025-as-defi-drives-growth</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/on-chain-revenue-hits-usd20-billion-in-2025-as-defi-drives-growth"/>
-        <updated>2025-10-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A new report from 1kx found DeFi platforms fueled a 41% surge in on-chain fees to $9.7 billion in the first half of 2025.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
