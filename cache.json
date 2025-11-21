@@ -12,6 +12,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms",
+          "author": "Jona Jaupi",
+          "description": "The largest Bitcoin treasury firm could see $2.8 billion in passive fund outflows if removed from major indices.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms",
+          "publishedOn": "2025-11-21T21:51:00.000Z",
+          "wordCount": 5224,
+          "title": "Michael Saylor Defends Strategy as MSCI Index Risk Looms",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/mega-1-3-png-8aa2b3a8-7e3c-4f5a-925f-8ba2dd2f9602.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/mega-1-3-png-8aa2b3a8-7e3c-4f5a-925f-8ba2dd2f9602.png"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/nft-lending-tvl-nears-all-time-lows",
           "author": "Denis Omelchenko",
           "description": "Outstanding debt has fallen by around 45% to $80 million from $150 million in March 2024.",
@@ -1244,7 +1259,7 @@
         {
           "id": "https://thedefiant.io/news/tokens/zksync-zk-token-new-tokenomics-proposal",
           "author": "Squiffs",
-          "description": "The move would see ZKsync implement a buyback and burn mechanism for ZK tokens",
+          "description": "ZKsync, the Ethereum Layer 2 leveraging zero-knowledge proofs, has revealed a proposal for updated tokenomics for its native token ZK, which would shift it from a pure governance token to a utility token.",
           "link": "https://thedefiant.io/news/tokens/zksync-zk-token-new-tokenomics-proposal",
           "publishedOn": "2025-11-04T16:02:53.000Z",
           "wordCount": 5042,
@@ -1495,21 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/img-6fpdnajesvhqjvkmkzg6fggh-png-c74fea05-a4a4-4a81-bd75-83aaaf830f05.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/megaeth-ico-crosses-usd1-billion-in-commitments",
-          "author": "Squiffs",
-          "description": "The public token sale conducted via Sonar is oversubscribed by 20x, with just over nine hours until it closes.",
-          "link": "https://thedefiant.io/news/blockchains/megaeth-ico-crosses-usd1-billion-in-commitments",
-          "publishedOn": "2025-10-30T03:08:39.000Z",
-          "wordCount": 5012,
-          "title": "MegaETH ICO Crosses $1 Billion in Commitments",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/fees-1-png-e6538988-66be-454e-9db1-c52e30740374.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/fees-1-png-e6538988-66be-454e-9db1-c52e30740374.png"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-21T21:16:43.076Z</id>
+    <id>urn:2025-11-21T22:18:37.576Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-21T21:16:43.076Z</updated>
+    <updated>2025-11-21T22:18:37.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Michael Saylor Defends Strategy as MSCI Index Risk Looms]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/michael-saylor-defends-strategy-as-msci-index-risk-looms"/>
+        <updated>2025-11-21T21:51:00.000Z</updated>
+        <summary type="html"><![CDATA[The largest Bitcoin treasury firm could see $2.8 billion in passive fund outflows if removed from major indices.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT Lending TVL Nears All-Time Lows]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/nft-lending-tvl-nears-all-time-lows</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/tokens/zksync-zk-token-new-tokenomics-proposal</id>
         <link href="https://thedefiant.io/news/tokens/zksync-zk-token-new-tokenomics-proposal"/>
         <updated>2025-11-04T16:02:53.000Z</updated>
-        <summary type="html"><![CDATA[The move would see ZKsync implement a buyback and burn mechanism for ZK tokens]]></summary>
+        <summary type="html"><![CDATA[ZKsync, the Ethereum Layer 2 leveraging zero-knowledge proofs, has revealed a proposal for updated tokenomics for its native token ZK, which would shift it from a pure governance token to a utility token.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[A new report from 1kx found DeFi platforms fueled a 41% surge in on-chain fees to $9.7 billion in the first half of 2025.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MegaETH ICO Crosses $1 Billion in Commitments]]></title>
-        <id>https://thedefiant.io/news/blockchains/megaeth-ico-crosses-usd1-billion-in-commitments</id>
-        <link href="https://thedefiant.io/news/blockchains/megaeth-ico-crosses-usd1-billion-in-commitments"/>
-        <updated>2025-10-30T03:08:39.000Z</updated>
-        <summary type="html"><![CDATA[The public token sale conducted via Sonar is oversubscribed by 20x, with just over nine hours until it closes.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
