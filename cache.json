@@ -12,6 +12,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/rain-prediction-market-digital-asset-treasury",
+          "author": "Jona Jaupi",
+          "description": "Enlivex will use a private placement to accumulate the native token of decentralized prediction market protocol Rain.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/rain-prediction-market-digital-asset-treasury",
+          "publishedOn": "2025-11-24T17:13:19.000Z",
+          "wordCount": 5315,
+          "title": "RAIN Surges 120% After Biotech Firm Unveils $212M DAT Plans",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/c0f240dcbf2e5c738eea2ff246d54aa9f414610446bad5305af8aa7277fc-4799eecb-2eb1-46c8-a723-90a17ff8f456.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/c0f240dcbf2e5c738eea2ff246d54aa9f414610446bad5305af8aa7277fc-4799eecb-2eb1-46c8-a723-90a17ff8f456.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/monad-launches-mainnet-mon-tge-listing",
+          "author": "Denis Omelchenko",
+          "description": "MON briefly surged 14% higher than its ICO price after listing across major CEXs, before retracing.",
+          "link": "https://thedefiant.io/news/tokens/monad-launches-mainnet-mon-tge-listing",
+          "publishedOn": "2025-11-24T16:39:57.000Z",
+          "wordCount": 5294,
+          "title": "Monad Launches Mainnet, MON Trades Near ICO Price",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/e8fe2328b70224b84e79077b266b1d56ef8fa091066d0af7aeca8cf1470c-cdc53ac5-36a7-4e55-99d4-7e09bb05738e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/e8fe2328b70224b84e79077b266b1d56ef8fa091066d0af7aeca8cf1470c-cdc53ac5-36a7-4e55-99d4-7e09bb05738e.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown",
           "author": "Squiffs",
           "description": "Increased crypto adoption is attracting greater attention and scrutiny from tax authorities.",
@@ -1259,7 +1289,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/one-year-since-apechain-launch",
           "author": "Denis Omelchenko",
-          "description": "ApeChain, the Yuga Labs-backed Layer 3 network built for the ApeCoin ecosystem, celebrated its first anniversary last month. After a brief rise in on-chain value and activity, ApeChain has been mostly in decline since its launch, while its native token APE has also struggled to regain its NFT-era highs.",
+          "description": "Just over a year after its launch, ApeChain’s TVL has dropped over 80%, and only three of its nearly 30 protocols generate any revenue.",
           "link": "https://thedefiant.io/news/blockchains/one-year-since-apechain-launch",
           "publishedOn": "2025-11-04T18:23:13.000Z",
           "wordCount": 7169,
@@ -1480,36 +1510,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/nftstorm-1-png-5834c10b-49ca-41c2-9233-2070905f024b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-slips-under-usd107-000-after-powell-casts-doubt-on-further-rate-cuts",
-          "author": "yyctrader",
-          "description": "Leveraged liquidations top $1.2 billion as ETH, SOL and major altcoins plummet.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-slips-under-usd107-000-after-powell-casts-doubt-on-further-rate-cuts",
-          "publishedOn": "2025-10-30T18:38:03.000Z",
-          "wordCount": 4980,
-          "title": "Bitcoin Slips Under $107,000 After Powell Casts Doubt on Further Rate Cuts",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/fees-1-1-png-2d98038c-f62f-4dcb-9ffd-85aadeba5b77.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/fees-1-1-png-2d98038c-f62f-4dcb-9ffd-85aadeba5b77.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote",
-          "author": "Denis Omelchenko",
-          "description": "Nearly 60 million fewer NEAR tokens will be minted this year if a validator supermajority adopts the upgrade, while an earlier community vote failed to pass.",
-          "link": "https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote",
-          "publishedOn": "2025-10-30T16:56:30.000Z",
-          "wordCount": 5594,
-          "title": "NEAR Cuts Inflation Rate by Half Despite Failed Community Vote",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/person-v2---2025-10-30t164512-526-png-007a3155-df2b-469e-b364-fdcbdc509ce1.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/person-v2---2025-10-30t164512-526-png-007a3155-df2b-469e-b364-fdcbdc509ce1.png"
         }
       ]
     }
