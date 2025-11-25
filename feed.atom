@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-25T17:19:07.077Z</id>
+    <id>urn:2025-11-25T18:29:48.958Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-25T17:19:07.077Z</updated>
+    <updated>2025-11-25T18:29:48.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Klarna Debuts Stablecoin as it Expands Into On-Chain Payments]]></title>
+        <id>https://thedefiant.io/news/defi/klarna-debuts-stablecoin-as-it-expands-into-on-chain-payments</id>
+        <link href="https://thedefiant.io/news/defi/klarna-debuts-stablecoin-as-it-expands-into-on-chain-payments"/>
+        <updated>2025-11-25T18:14:20.000Z</updated>
+        <summary type="html"><![CDATA[Klarna taps Stripe and Paradigm’s Tempo network as stablecoin adoption accelerates.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum DATs Heavily Underwater as ETH Price Drops Below $3,000]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000"/>
+        <updated>2025-11-25T17:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Public digital asset treasury firms hold millions of dollars in ETH, but many bought at prices much higher than today's.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SKALE Launches on Base in New Initiative for Onchain Agents]]></title>
         <id>https://thedefiant.io/news/blockchains/skale-launches-on-base-in-new-initiative-for-onchain-agents</id>
@@ -820,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/how-stream-finance-s-collapse-exposed-defi-s-looping-yield-bubble</id>
         <link href="https://thedefiant.io/news/defi/how-stream-finance-s-collapse-exposed-defi-s-looping-yield-bubble"/>
         <updated>2025-11-06T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[Stream Finance blew up just weeks after some DeFi insiders spotted its sketchy, trust-me-bro strategies.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -840,6 +859,7 @@
         <id>https://thedefiant.io/news/defi/controversial-hyperliquid-hip-5-proposal-leaves-community-split</id>
         <link href="https://thedefiant.io/news/defi/controversial-hyperliquid-hip-5-proposal-leaves-community-split"/>
         <updated>2025-11-05T23:51:57.000Z</updated>
+        <summary type="html"><![CDATA[If passed, HIP-5 would establish a second Hyperliquid assistance fund to bootstrap and support ecosystem tokens beyond HYPE.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -980,26 +1000,6 @@
         <link href="https://thedefiant.io/news/markets/crypto-markets-start-november-in-the-red"/>
         <updated>2025-11-03T14:48:03.000Z</updated>
         <summary type="html"><![CDATA[Total market cap is down 3%, while most large-cap cryptocurrencies are solidly in the red today.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T3 FCU Has Frozen Over $300 Million in Illicit Funds]]></title>
-        <id>https://thedefiant.io/news/defi/t3-fcu-has-frozen-over-usd300-million-in-illicit-funds</id>
-        <link href="https://thedefiant.io/news/defi/t3-fcu-has-frozen-over-usd300-million-in-illicit-funds"/>
-        <updated>2025-11-01T13:56:58.000Z</updated>
-        <summary type="html"><![CDATA[The financial crime unit created by Tether, Tron, and TRM Labs has frozen over $300 million since its September 2024 launch.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maple’s SYRUP Stakers Vote to End Staking Rewards, Launch DAO Treasury]]></title>
-        <id>https://thedefiant.io/news/defi/stsyrup-holders-vote-to-end-staking-rewards-launch-syrup-strategic-fund</id>
-        <link href="https://thedefiant.io/news/defi/stsyrup-holders-vote-to-end-staking-rewards-launch-syrup-strategic-fund"/>
-        <updated>2025-10-31T17:13:36.000Z</updated>
-        <summary type="html"><![CDATA[Maple Finance says it wants to use protocol revenue for “long-term sustainability” instead of staking rewards.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
