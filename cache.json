@@ -1,6 +1,39 @@
 {
   "sources": [
     {
+      "title": "Stories by Arthur Hayes on Medium",
+      "feedUrl": "https://medium.com/feed/@cryptohayes",
+      "siteUrl": "https://medium.com/@cryptohayes?source=rss-2f6e06954878------2",
+      "articles": [
+        {
+          "id": "https://medium.com/p/dda68b117ab7",
+          "author": "Arthur Hayes",
+          "description": "",
+          "link": "https://cryptohayes.medium.com/snow-forecast-dda68b117ab7?source=rss-2f6e06954878------2",
+          "publishedOn": "2025-11-17T15:32:07.000Z",
+          "wordCount": null,
+          "title": "Snow Forecast",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9eb355974421",
+          "author": "Arthur Hayes",
+          "description": "",
+          "link": "https://cryptohayes.medium.com/hallelujah-9eb355974421?source=rss-2f6e06954878------2",
+          "publishedOn": "2025-11-03T23:01:57.000Z",
+          "wordCount": null,
+          "title": "Hallelujah",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Stories by Bagel on Medium",
+      "feedUrl": "https://medium.com/feed/@traderbagel",
+      "siteUrl": "https://medium.com/@traderbagel?source=rss-9af65712cb1b------2",
+      "articles": []
+    },
+    {
       "title": "Future",
       "feedUrl": "https://future.a16z.com/feed",
       "siteUrl": "https://future.com/",
@@ -1512,6 +1545,12 @@
           "imageUrl": "https://cdn.thedefiant.io/aavebuybacks-1-png-1869a4d8-c366-4a19-b6ee-4fbb80bee93b.png"
         }
       ]
+    },
+    {
+      "title": "Stories by Andre Cronje on Medium",
+      "feedUrl": "https://andrecronje.medium.com/feed",
+      "siteUrl": "https://medium.com/@andrecronje?source=rss-34f4446c6ba1------2",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

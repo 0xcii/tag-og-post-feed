@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-25T22:18:41.708Z</id>
+    <id>urn:2025-11-25T23:17:37.345Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-25T22:18:41.708Z</updated>
+    <updated>2025-11-25T23:17:37.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -433,6 +433,15 @@
         <summary type="html"><![CDATA[The protocol’s front end is expected to be released to the public in Q1 2026.]]></summary>
         <author>
             <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snow Forecast]]></title>
+        <id>https://medium.com/p/dda68b117ab7</id>
+        <link href="https://cryptohayes.medium.com/snow-forecast-dda68b117ab7?source=rss-2f6e06954878------2"/>
+        <updated>2025-11-17T15:32:07.000Z</updated>
+        <author>
+            <name>Arthur Hayes</name>
         </author>
     </entry>
     <entry>
@@ -1002,6 +1011,15 @@
         <summary type="html"><![CDATA[The largest DeFi lending protocol will continue to use revenue to repurchase AAVE tokens.]]></summary>
         <author>
             <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hallelujah]]></title>
+        <id>https://medium.com/p/9eb355974421</id>
+        <link href="https://cryptohayes.medium.com/hallelujah-9eb355974421?source=rss-2f6e06954878------2"/>
+        <updated>2025-11-03T23:01:57.000Z</updated>
+        <author>
+            <name>Arthur Hayes</name>
         </author>
     </entry>
 </feed>
