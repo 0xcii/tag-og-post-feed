@@ -55,6 +55,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m",
+          "author": "Denis Omelchenko",
+          "description": "Fidelity’s tokenized U.S. Treasury fund has grown 15% in the past month.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m",
+          "publishedOn": "2025-11-28T19:13:38.000Z",
+          "wordCount": null,
+          "title": "Fidelity’s Tokenized Fund on Ethereum Crosses $250M",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/f5c883ace44713a366336c782ffb874d684f649d9f8f602b22685f697e54-4d02030d-c8da-494e-96d1-29b3c8431e69.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/f5c883ace44713a366336c782ffb874d684f649d9f8f602b22685f697e54-4d02030d-c8da-494e-96d1-29b3c8431e69.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/q3-crypto-venture-capital-report-galaxy",
+          "author": "Denis Omelchenko",
+          "description": "The golden era of pre-seed crypto investing may be over, as most venture capital is now pouring into later-stage companies.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/q3-crypto-venture-capital-report-galaxy",
+          "publishedOn": "2025-11-28T18:39:49.000Z",
+          "wordCount": null,
+          "title": "Seven Deals Made up 50% of Q3 Crypto VC Activity: Galaxy",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/6d76ae3ad03425bceb49b836c1a37fa2ae9c37c88e0fb23223f2964d2dbb-3507ebc7-ff60-4411-bf35-115ba4997420.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/6d76ae3ad03425bceb49b836c1a37fa2ae9c37c88e0fb23223f2964d2dbb-3507ebc7-ff60-4411-bf35-115ba4997420.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign",
           "author": "Denis Omelchenko",
           "description": "The team promised to return funds to depositors after what it called “sloppy” execution of the pre-deposit bridge for its native stablecoin.",
@@ -1272,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/news/defi/uni-soars-as-uniswap-labs-and-foundation-propose-fee-switch-activation",
           "author": "Squiffs",
-          "description": "Uniswap’s elusive fee switch may finally be getting flipped on as the Uniswap Foundation reveals a ‘UNIfication’ plan.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/uni-soars-as-uniswap-labs-and-foundation-propose-fee-switch-activation",
           "publishedOn": "2025-11-10T21:02:59.000Z",
           "wordCount": null,
@@ -1302,7 +1332,7 @@
         {
           "id": "https://thedefiant.io/news/defi/xpl-rallies-after-plasma-reveals-collaboration-with-daylight-energy",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "Daylight’s GRID stablecoin and sGRID yield-bearing token connect decentralized finance with energy revenues.",
           "link": "https://thedefiant.io/news/defi/xpl-rallies-after-plasma-reveals-collaboration-with-daylight-energy",
           "publishedOn": "2025-11-10T20:04:57.000Z",
           "wordCount": null,
@@ -1523,36 +1553,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/megaico-1-1-png-eda4efe0-f062-4e8d-a95d-a1bf360a5f1e.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/how-stream-finance-s-collapse-exposed-defi-s-looping-yield-bubble",
-          "author": "Denis Omelchenko",
-          "description": "Stream Finance blew up just weeks after some DeFi insiders spotted its sketchy, trust-me-bro strategies.",
-          "link": "https://thedefiant.io/news/defi/how-stream-finance-s-collapse-exposed-defi-s-looping-yield-bubble",
-          "publishedOn": "2025-11-06T16:51:37.000Z",
-          "wordCount": null,
-          "title": "How Stream Finance’s Collapse Exposed DeFi’s Looping Yield Bubble",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/f97e5fee1631c8c650cea7b0cd6080091d09360183e25cc7781bd75624dc-0c0dbfc4-23bb-4d1c-868f-ddf2cf8c14e5.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/f97e5fee1631c8c650cea7b0cd6080091d09360183e25cc7781bd75624dc-0c0dbfc4-23bb-4d1c-868f-ddf2cf8c14e5.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-holds-out-above-usd102000-as-markets-trade-flat",
-          "author": "Denis Omelchenko",
-          "description": "Crypto markets are mostly flat today with a total market cap around $3.48 trillion while Bitcoin chops between $102K and $103K.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-holds-out-above-usd102000-as-markets-trade-flat",
-          "publishedOn": "2025-11-06T15:26:05.000Z",
-          "wordCount": null,
-          "title": "BTC Holds Out Above $102,000 as Markets Trade Flat",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/07f4386c7f0f5f6a9ead18dcac0dc46bff132814f276d03a7394bc0e712b-d399a02a-6b91-4501-9b74-51b5cd1d3d63.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/07f4386c7f0f5f6a9ead18dcac0dc46bff132814f276d03a7394bc0e712b-d399a02a-6b91-4501-9b74-51b5cd1d3d63.png"
         }
       ]
     },

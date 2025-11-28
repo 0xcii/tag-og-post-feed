@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-28T18:27:07.954Z</id>
+    <id>urn:2025-11-28T19:14:31.835Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-28T18:27:07.954Z</updated>
+    <updated>2025-11-28T19:14:31.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fidelity’s Tokenized Fund on Ethereum Crosses $250M]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m"/>
+        <updated>2025-11-28T19:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Fidelity’s tokenized U.S. Treasury fund has grown 15% in the past month.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven Deals Made up 50% of Q3 Crypto VC Activity: Galaxy]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/q3-crypto-venture-capital-report-galaxy</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/q3-crypto-venture-capital-report-galaxy"/>
+        <updated>2025-11-28T18:39:49.000Z</updated>
+        <summary type="html"><![CDATA[The golden era of pre-seed crypto investing may be over, as most venture capital is now pouring into later-stage companies.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MegaETH to Refund USDm Pre-Deposits After Multisig Chaos]]></title>
         <id>https://thedefiant.io/news/defi/megaeth-refunds-usdm-predeposit-bridge-campaign</id>
@@ -838,7 +858,6 @@
         <id>https://thedefiant.io/news/defi/uni-soars-as-uniswap-labs-and-foundation-propose-fee-switch-activation</id>
         <link href="https://thedefiant.io/news/defi/uni-soars-as-uniswap-labs-and-foundation-propose-fee-switch-activation"/>
         <updated>2025-11-10T21:02:59.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap’s elusive fee switch may finally be getting flipped on as the Uniswap Foundation reveals a ‘UNIfication’ plan.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -858,6 +877,7 @@
         <id>https://thedefiant.io/news/defi/xpl-rallies-after-plasma-reveals-collaboration-with-daylight-energy</id>
         <link href="https://thedefiant.io/news/defi/xpl-rallies-after-plasma-reveals-collaboration-with-daylight-energy"/>
         <updated>2025-11-10T20:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Daylight’s GRID stablecoin and sGRID yield-bearing token connect decentralized finance with energy revenues.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -1000,26 +1020,6 @@
         <summary type="html"><![CDATA[Some investors are left questioning their allocations, or lack thereof, to the highly oversubscribed MEGA ICO.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Stream Finance’s Collapse Exposed DeFi’s Looping Yield Bubble]]></title>
-        <id>https://thedefiant.io/news/defi/how-stream-finance-s-collapse-exposed-defi-s-looping-yield-bubble</id>
-        <link href="https://thedefiant.io/news/defi/how-stream-finance-s-collapse-exposed-defi-s-looping-yield-bubble"/>
-        <updated>2025-11-06T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[Stream Finance blew up just weeks after some DeFi insiders spotted its sketchy, trust-me-bro strategies.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC Holds Out Above $102,000 as Markets Trade Flat]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-holds-out-above-usd102000-as-markets-trade-flat</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-holds-out-above-usd102000-as-markets-trade-flat"/>
-        <updated>2025-11-06T15:26:05.000Z</updated>
-        <summary type="html"><![CDATA[Crypto markets are mostly flat today with a total market cap around $3.48 trillion while Bitcoin chops between $102K and $103K.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
     <entry>
