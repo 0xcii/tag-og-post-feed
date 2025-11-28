@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-28T19:14:31.835Z</id>
+    <id>urn:2025-11-28T20:20:25.355Z</id>
     <title>web3::cave</title>
-    <updated>2025-11-28T19:14:31.835Z</updated>
+    <updated>2025-11-28T20:20:25.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism CEO Teases New Enterprise Strategy]]></title>
+        <id>https://thedefiant.io/news/blockchains/optimism-ceo-teases-new-enterprise-strategy</id>
+        <link href="https://thedefiant.io/news/blockchains/optimism-ceo-teases-new-enterprise-strategy"/>
+        <updated>2025-11-28T20:01:53.000Z</updated>
+        <summary type="html"><![CDATA[After spending much of its resources supporting Ethereum Layer 2 networks like Base and Ink, Optimism’s CEO says the network is now rethinking its approach.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fidelity’s Tokenized Fund on Ethereum Crosses $250M]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m"/>
         <updated>2025-11-28T19:13:38.000Z</updated>
         <summary type="html"><![CDATA[Fidelity’s tokenized U.S. Treasury fund has grown 15% in the past month.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid-based Kinetiq’s KNTQ Token Trades at $130 Million Valuation]]></title>
+        <id>https://thedefiant.io/news/defi/hyperliquid-based-kinetiq-s-kntq-token-trades-at-usd130-million-valuation</id>
+        <link href="https://thedefiant.io/news/defi/hyperliquid-based-kinetiq-s-kntq-token-trades-at-usd130-million-valuation"/>
+        <updated>2025-11-28T19:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Hyperliquid’s largest DeFi protocol by TVL has introduced its governance token.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -838,7 +858,6 @@
         <id>https://thedefiant.io/news/research-and-opinion/institutional-sentiment-is-turning-bearish-on-crypto-sygnum</id>
         <link href="https://thedefiant.io/news/research-and-opinion/institutional-sentiment-is-turning-bearish-on-crypto-sygnum"/>
         <updated>2025-11-11T07:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite the cautious outlook, most investors still plan to maintain or increase crypto holdings.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -858,6 +877,7 @@
         <id>https://thedefiant.io/news/defi/uni-soars-as-uniswap-labs-and-foundation-propose-fee-switch-activation</id>
         <link href="https://thedefiant.io/news/defi/uni-soars-as-uniswap-labs-and-foundation-propose-fee-switch-activation"/>
         <updated>2025-11-10T21:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap’s elusive fee switch may finally be getting flipped on as the Uniswap Foundation reveals a ‘UNIfication’ plan.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -998,26 +1018,6 @@
         <link href="https://thedefiant.io/news/nfts-and-web3/art-basel-unveils-zero-10-digital-art-platform"/>
         <updated>2025-11-06T21:35:41.000Z</updated>
         <summary type="html"><![CDATA[The platform is supported by Opensea and will debut in Miami before heading overseas next year.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave’s Horizon RWA Market Nears $540 Million, Adds VanEck Treasury Fund]]></title>
-        <id>https://thedefiant.io/news/defi/aave-s-horizon-rwa-market-nears-usd540-million-adds-vaneck-treasury-fund</id>
-        <link href="https://thedefiant.io/news/defi/aave-s-horizon-rwa-market-nears-usd540-million-adds-vaneck-treasury-fund"/>
-        <updated>2025-11-06T19:43:33.000Z</updated>
-        <summary type="html"><![CDATA[The move comes as institutional interest in tokenized assets continues to grow.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MegaETH ICO Allocations Leave Community Split]]></title>
-        <id>https://thedefiant.io/news/blockchains/megaeth-ico-allocations-leave-community-split</id>
-        <link href="https://thedefiant.io/news/blockchains/megaeth-ico-allocations-leave-community-split"/>
-        <updated>2025-11-06T18:29:22.000Z</updated>
-        <summary type="html"><![CDATA[Some investors are left questioning their allocations, or lack thereof, to the highly oversubscribed MEGA ICO.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
