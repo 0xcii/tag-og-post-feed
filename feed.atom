@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-03T10:22:55.562Z</id>
+    <id>urn:2025-12-03T11:18:01.865Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-03T10:22:55.562Z</updated>
+    <updated>2025-12-03T11:18:01.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1020,15 +1020,6 @@
         <summary type="html"><![CDATA[The sale structure and tokenomics are raising some eyebrows, as onlookers slam Monad for claiming to be “community-focused.”]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hallelujah]]></title>
-        <id>https://medium.com/p/9eb355974421</id>
-        <link href="https://cryptohayes.medium.com/hallelujah-9eb355974421?source=rss-2f6e06954878------2"/>
-        <updated>2025-11-03T23:01:57.000Z</updated>
-        <author>
-            <name>Arthur Hayes</name>
         </author>
     </entry>
 </feed>
