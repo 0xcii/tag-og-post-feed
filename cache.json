@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/blackrock-s-buidl-fund-now-eligible-as-collateral-on-m0",
+          "author": "Jona Jaupi",
+          "description": "The integration gives stablecoin issuers more options and strengthens on-chain liquidity.",
+          "link": "https://thedefiant.io/news/defi/blackrock-s-buidl-fund-now-eligible-as-collateral-on-m0",
+          "publishedOn": "2025-12-04T18:19:43.000Z",
+          "wordCount": null,
+          "title": "BlackRock’s BUIDL Fund Now Eligible as Collateral on M0",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/vanguard-1-2-png-d132beb2-d0d9-4ce8-b6fd-60ef520757ee.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/vanguard-1-2-png-d132beb2-d0d9-4ce8-b6fd-60ef520757ee.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/western-union-reveals-stable-card",
           "author": "Denis Omelchenko",
           "description": "Part of WU’s broader stablecoin strategy, the product is anticipated to have a “much stickier benefit” in countries with high inflation.",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-opens-week-below-usd95k-as-market-sentiment-turns-to-extreme-fear",
           "author": "Denis Omelchenko",
-          "description": "Crypto market capitalization has declined to June levels, as fears about the market’s regression continue to grow.",
+          "description": "",
           "link": "https://thedefiant.io/news/markets/bitcoin-opens-week-below-usd95k-as-market-sentiment-turns-to-extreme-fear",
           "publishedOn": "2025-11-17T15:19:44.000Z",
           "wordCount": null,
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "The Consensys-owned firm is betting on Ethereum stakers to keep its infrastructure running, after an AWS outage last month knocked the company offline.",
           "link": "https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer",
           "publishedOn": "2025-11-17T13:59:53.000Z",
           "wordCount": null,
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/flare-1-png-6c0b39cb-e207-466e-893d-8d76f621883b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/sky-surges-14-as-savings-tvl-passes-usd4-billion",
-          "author": "Squiffs",
-          "description": "The Sky Savings Rate is attracting significant capital, with deposits growing by more than 60% over the last 30 days.",
-          "link": "https://thedefiant.io/news/defi/sky-surges-14-as-savings-tvl-passes-usd4-billion",
-          "publishedOn": "2025-11-12T20:59:27.000Z",
-          "wordCount": null,
-          "title": "SKY Surges 14% as Savings TVL Passes $4 Billion",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/skysavings-1-png-642911d8-e6b5-4269-b608-efd5f7411236.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/skysavings-1-png-642911d8-e6b5-4269-b608-efd5f7411236.png"
         }
       ]
     },

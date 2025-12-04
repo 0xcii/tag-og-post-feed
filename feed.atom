@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-04T18:31:39.743Z</id>
+    <id>urn:2025-12-04T19:17:37.009Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-04T18:31:39.743Z</updated>
+    <updated>2025-12-04T19:17:37.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BlackRock’s BUIDL Fund Now Eligible as Collateral on M0]]></title>
+        <id>https://thedefiant.io/news/defi/blackrock-s-buidl-fund-now-eligible-as-collateral-on-m0</id>
+        <link href="https://thedefiant.io/news/defi/blackrock-s-buidl-fund-now-eligible-as-collateral-on-m0"/>
+        <updated>2025-12-04T18:19:43.000Z</updated>
+        <summary type="html"><![CDATA[The integration gives stablecoin issuers more options and strengthens on-chain liquidity.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Western Union Reveals ‘Stable Card’ amid On-Chain Push]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/western-union-reveals-stable-card</id>
@@ -848,7 +858,6 @@
         <id>https://thedefiant.io/news/markets/bitcoin-opens-week-below-usd95k-as-market-sentiment-turns-to-extreme-fear</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-opens-week-below-usd95k-as-market-sentiment-turns-to-extreme-fear"/>
         <updated>2025-11-17T15:19:44.000Z</updated>
-        <summary type="html"><![CDATA[Crypto market capitalization has declined to June levels, as fears about the market’s regression continue to grow.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -858,6 +867,7 @@
         <id>https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer</id>
         <link href="https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer"/>
         <updated>2025-11-17T13:59:53.000Z</updated>
+        <summary type="html"><![CDATA[The Consensys-owned firm is betting on Ethereum stakers to keep its infrastructure running, after an AWS outage last month knocked the company offline.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -1010,16 +1020,6 @@
         <summary type="html"><![CDATA[Flare’s TVL climbs again as Firelight prepares to unlock DeFi access for XRP holders.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKY Surges 14% as Savings TVL Passes $4 Billion]]></title>
-        <id>https://thedefiant.io/news/defi/sky-surges-14-as-savings-tvl-passes-usd4-billion</id>
-        <link href="https://thedefiant.io/news/defi/sky-surges-14-as-savings-tvl-passes-usd4-billion"/>
-        <updated>2025-11-12T20:59:27.000Z</updated>
-        <summary type="html"><![CDATA[The Sky Savings Rate is attracting significant capital, with deposits growing by more than 60% over the last 30 days.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
