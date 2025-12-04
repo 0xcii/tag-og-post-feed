@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-04T17:21:18.878Z</id>
+    <id>urn:2025-12-04T18:31:39.743Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-04T17:21:18.878Z</updated>
+    <updated>2025-12-04T18:31:39.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Western Union Reveals ‘Stable Card’ amid On-Chain Push]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/western-union-reveals-stable-card</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/western-union-reveals-stable-card"/>
+        <updated>2025-12-04T18:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Part of WU’s broader stablecoin strategy, the product is anticipated to have a “much stickier benefit” in countries with high inflation.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetaMask Launches Polymarket Integration]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/metamask-launches-prediction-markets-with-polymarket</id>
@@ -848,7 +858,6 @@
         <id>https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer</id>
         <link href="https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer"/>
         <updated>2025-11-17T13:59:53.000Z</updated>
-        <summary type="html"><![CDATA[The Consensys-owned firm is betting on Ethereum stakers to keep its infrastructure running, after an AWS outage last month knocked the company offline.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -858,6 +867,7 @@
         <id>https://thedefiant.io/podcasts-and-videos/podcast/is-dyor-dead-building-a-safer-web3-with-alex-katz</id>
         <link href="https://thedefiant.io/podcasts-and-videos/podcast/is-dyor-dead-building-a-safer-web3-with-alex-katz"/>
         <updated>2025-11-14T22:26:00.000Z</updated>
+        <summary type="html"><![CDATA[In a world of fast-advancing technology, we are told to trust in our own research. But as the crypto space matures, scams and exploits remain a constant presence. When your assets are gone, they are gone forever, with a near-zero chance of recovery. The old mantra of "Do Your Own Research" falls short against sophisticated threats like address poisoning, advanced malware, and convincing AI deepfakes. How, then, do we build a safer Web3 without sacrificing the decentralized ideals at its core?]]></summary>
         <author>
             <name>Virginia Valenzuela</name>
         </author>
@@ -1010,16 +1020,6 @@
         <summary type="html"><![CDATA[The Sky Savings Rate is attracting significant capital, with deposits growing by more than 60% over the last 30 days.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dromos Labs Merges Aerodrome and Velodrome into New DEX Aero]]></title>
-        <id>https://thedefiant.io/news/defi/dromos-labs-merges-aerodrome-and-velodrome-into-new-dex-aero</id>
-        <link href="https://thedefiant.io/news/defi/dromos-labs-merges-aerodrome-and-velodrome-into-new-dex-aero"/>
-        <updated>2025-11-12T19:49:26.000Z</updated>
-        <summary type="html"><![CDATA[The platform will expand to Ethereum mainnet and Circle’s Arc and is set to go live in Q2 2026.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
