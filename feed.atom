@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-08T20:22:43.996Z</id>
+    <id>urn:2025-12-08T21:16:36.313Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-08T20:22:43.996Z</updated>
+    <updated>2025-12-08T21:16:36.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Farcaster Abandons Social Network Strategy to Focus on Wallet]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/farcaster-abandons-social-network-strategy-to-focus-on-wallet</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/farcaster-abandons-social-network-strategy-to-focus-on-wallet"/>
+        <updated>2025-12-08T20:55:02.000Z</updated>
+        <summary type="html"><![CDATA[The blockchain-based social protocol is returning to the fundamental crypto elements it initially sought to leave behind.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Launches Direct USDC Transfers]]></title>
+        <id>https://thedefiant.io/news/blockchains/hyperliquid-launches-direct-usdc-transfers</id>
+        <link href="https://thedefiant.io/news/blockchains/hyperliquid-launches-direct-usdc-transfers"/>
+        <updated>2025-12-08T20:40:14.000Z</updated>
+        <summary type="html"><![CDATA[The update unifies USDC across HyperCore and HyperEVM, setting up a transition away from the Arbitrum-based bridge.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ONDO Jumps as SEC Ends Biden-Era Probe]]></title>
         <id>https://thedefiant.io/news/defi/ondo-jumps-as-sec-ends-biden-era-probe</id>
@@ -829,7 +849,6 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-down-btc-usd90k</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-down-btc-usd90k"/>
         <updated>2025-11-19T15:56:36.000Z</updated>
-        <summary type="html"><![CDATA[Crypto market capitalization is down to $3.18 trillion, while selling pressure is elevated among short-term holders.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -849,6 +868,7 @@
         <id>https://thedefiant.io/news/defi/paxos-labs-and-layerzero-launch-usdg0-to-expand-global-dollar-across-defi</id>
         <link href="https://thedefiant.io/news/defi/paxos-labs-and-layerzero-launch-usdg0-to-expand-global-dollar-across-defi"/>
         <updated>2025-11-18T20:24:26.000Z</updated>
+        <summary type="html"><![CDATA[The bridged stablecoin will initially roll out on Hyperliquid, followed by Plume and Aptos.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -998,26 +1018,6 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-drops-to-usd94-000-following-second-largest-daily-etf-outflows"/>
         <updated>2025-11-14T21:19:12.000Z</updated>
         <summary type="html"><![CDATA[Over $1 billion in leveraged positions were also wiped out in the past 24 hours.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alibaba Reveals Plans for Tokenized Fiat Payments with JPMorgan]]></title>
-        <id>https://thedefiant.io/news/infrastructure/alibaba-plans-tokenized-fiat-payment-system-with-jpmorgan</id>
-        <link href="https://thedefiant.io/news/infrastructure/alibaba-plans-tokenized-fiat-payment-system-with-jpmorgan"/>
-        <updated>2025-11-14T19:48:17.000Z</updated>
-        <summary type="html"><![CDATA[The company also announced a new AI smart contract feature to facilitate global B2B trade.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock’s BUIDL Fund Expands to BNB Chain]]></title>
-        <id>https://thedefiant.io/news/defi/blackrock-s-buidl-fund-expands-to-bnb-chain</id>
-        <link href="https://thedefiant.io/news/defi/blackrock-s-buidl-fund-expands-to-bnb-chain"/>
-        <updated>2025-11-14T18:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Traders can also now use the tokenized U.S. dollar fund as collateral on Binance.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
