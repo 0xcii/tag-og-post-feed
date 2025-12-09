@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/arkham-zcash-activity-tracking",
+          "author": "Denis Omelchenko",
+          "description": "ZEC is rallying after critics say Arkham used misleading language about its ability to track transactions on the network.",
+          "link": "https://thedefiant.io/news/blockchains/arkham-zcash-activity-tracking",
+          "publishedOn": "2025-12-09T18:18:56.000Z",
+          "wordCount": null,
+          "title": "Arkham’s 'Misleading' Zcash Tracking Claims Spark Outrage",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ac24a4671d39d02e73919f59580491100f357a4d8ea47f5faeecf8b3b1d9-33b22bd9-76e3-4355-9ba2-b92f86166d46.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ac24a4671d39d02e73919f59580491100f357a4d8ea47f5faeecf8b3b1d9-33b22bd9-76e3-4355-9ba2-b92f86166d46.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-market-rallies-ahead-of-fed-meeting",
+          "author": "Jona Jaupi",
+          "description": "Bitcoin and Ethereum surged amid anticipation that the US central bank will cut rates tomorrow.",
+          "link": "https://thedefiant.io/news/markets/crypto-market-rallies-ahead-of-fed-meeting",
+          "publishedOn": "2025-12-09T18:14:03.000Z",
+          "wordCount": null,
+          "title": "Crypto Market Rallies Ahead of Fed Meeting",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/0599633190b7c0ec55a7b425f9c9735f5af3922eb868f7d2c20489ad8c73-ae2efa19-4a7c-4452-a6b1-d90e3da56a36.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/0599633190b7c0ec55a7b425f9c9735f5af3922eb868f7d2c20489ad8c73-ae2efa19-4a7c-4452-a6b1-d90e3da56a36.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/swapper-finance-launches-defi-direct-deposits-via-mastercard",
           "author": "Denis Omelchenko",
           "description": "The new feature lets users fund DeFi protocols directly with bank cards.",
@@ -1262,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/s-and-p-global-ratings-gives-tusd-lowest-score",
           "author": "Denis Omelchenko",
-          "description": "The credit rating agency says information about the stablecoin's composition is scarce, and governance doesn’t have clear guidance.",
+          "description": "",
           "link": "https://thedefiant.io/news/cefi/s-and-p-global-ratings-gives-tusd-lowest-score",
           "publishedOn": "2025-11-20T14:42:49.000Z",
           "wordCount": null,
@@ -1292,7 +1322,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The new upgrade aims to slash all-in fees by at least 90% for HIP-3 markets.",
           "link": "https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets",
           "publishedOn": "2025-11-19T17:55:39.000Z",
           "wordCount": null,
@@ -1513,36 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/64ca03092bbbb2d51726c23fa75279b781d9419db0fab0e1f1e6b0460db4-c47a980a-45ca-4243-8544-eee604e6191b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer",
-          "author": "Denis Omelchenko",
-          "description": "The Consensys-owned firm is betting on Ethereum stakers to keep its infrastructure running, after an AWS outage last month knocked the company offline.",
-          "link": "https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer",
-          "publishedOn": "2025-11-17T13:59:53.000Z",
-          "wordCount": null,
-          "title": "Infura Expands Decentralized Infra Network to EigenLayer Following AWS Outage",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/69638cd241040e7ba4431e17ff3bf65f39b2126ac3578ce14748622da5be-913347de-d4f5-4777-8869-6eeff0143a79.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/69638cd241040e7ba4431e17ff3bf65f39b2126ac3578ce14748622da5be-913347de-d4f5-4777-8869-6eeff0143a79.png"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/podcast/is-dyor-dead-building-a-safer-web3-with-alex-katz",
-          "author": "Virginia Valenzuela",
-          "description": "In a world of fast-advancing technology, we are told to trust in our own research. But as the crypto space matures, scams and exploits remain a constant presence. When your assets are gone, they are gone forever, with a near-zero chance of recovery. The old mantra of \"Do Your Own Research\" falls short against sophisticated threats like address poisoning, advanced malware, and convincing AI deepfakes. How, then, do we build a safer Web3 without sacrificing the decentralized ideals at its core?",
-          "link": "https://thedefiant.io/podcasts-and-videos/podcast/is-dyor-dead-building-a-safer-web3-with-alex-katz",
-          "publishedOn": "2025-11-14T22:26:00.000Z",
-          "wordCount": null,
-          "title": "​​Is DYOR Dead? Building a Safer Web3 with Alex Katz",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/image-png-196ca6f0-0992-434c-b872-c11becdf3209.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/image-png-196ca6f0-0992-434c-b872-c11becdf3209.png"
         }
       ]
     }

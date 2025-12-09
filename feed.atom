@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-09T17:19:50.056Z</id>
+    <id>urn:2025-12-09T18:26:36.919Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-09T17:19:50.056Z</updated>
+    <updated>2025-12-09T18:26:36.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arkham’s 'Misleading' Zcash Tracking Claims Spark Outrage]]></title>
+        <id>https://thedefiant.io/news/blockchains/arkham-zcash-activity-tracking</id>
+        <link href="https://thedefiant.io/news/blockchains/arkham-zcash-activity-tracking"/>
+        <updated>2025-12-09T18:18:56.000Z</updated>
+        <summary type="html"><![CDATA[ZEC is rallying after critics say Arkham used misleading language about its ability to track transactions on the network.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Market Rallies Ahead of Fed Meeting]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-market-rallies-ahead-of-fed-meeting</id>
+        <link href="https://thedefiant.io/news/markets/crypto-market-rallies-ahead-of-fed-meeting"/>
+        <updated>2025-12-09T18:14:03.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ethereum surged amid anticipation that the US central bank will cut rates tomorrow.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swapper Finance Launches Card Deposits to DeFi via Mastercard]]></title>
         <id>https://thedefiant.io/news/defi/swapper-finance-launches-defi-direct-deposits-via-mastercard</id>
@@ -829,7 +849,6 @@
         <id>https://thedefiant.io/news/cefi/s-and-p-global-ratings-gives-tusd-lowest-score</id>
         <link href="https://thedefiant.io/news/cefi/s-and-p-global-ratings-gives-tusd-lowest-score"/>
         <updated>2025-11-20T14:42:49.000Z</updated>
-        <summary type="html"><![CDATA[The credit rating agency says information about the stablecoin's composition is scarce, and governance doesn’t have clear guidance.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -849,6 +868,7 @@
         <id>https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets</id>
         <link href="https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets"/>
         <updated>2025-11-19T17:55:39.000Z</updated>
+        <summary type="html"><![CDATA[The new upgrade aims to slash all-in fees by at least 90% for HIP-3 markets.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -1000,26 +1020,6 @@
         <summary type="html"><![CDATA[Crypto market capitalization has declined to June levels, as fears about the market’s regression continue to grow.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infura Expands Decentralized Infra Network to EigenLayer Following AWS Outage]]></title>
-        <id>https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer</id>
-        <link href="https://thedefiant.io/news/infrastructure/consensys-infura-expands-din-to-eigenlayer"/>
-        <updated>2025-11-17T13:59:53.000Z</updated>
-        <summary type="html"><![CDATA[The Consensys-owned firm is betting on Ethereum stakers to keep its infrastructure running, after an AWS outage last month knocked the company offline.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​​Is DYOR Dead? Building a Safer Web3 with Alex Katz]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/is-dyor-dead-building-a-safer-web3-with-alex-katz</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/is-dyor-dead-building-a-safer-web3-with-alex-katz"/>
-        <updated>2025-11-14T22:26:00.000Z</updated>
-        <summary type="html"><![CDATA[In a world of fast-advancing technology, we are told to trust in our own research. But as the crypto space matures, scams and exploits remain a constant presence. When your assets are gone, they are gone forever, with a near-zero chance of recovery. The old mantra of "Do Your Own Research" falls short against sophisticated threats like address poisoning, advanced malware, and convincing AI deepfakes. How, then, do we build a safer Web3 without sacrificing the decentralized ideals at its core?]]></summary>
-        <author>
-            <name>Virginia Valenzuela</name>
         </author>
     </entry>
 </feed>
