@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-10T14:21:47.989Z</id>
+    <id>urn:2025-12-10T15:24:03.961Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-10T14:21:47.989Z</updated>
+    <updated>2025-12-10T15:24:03.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Superstate Debuts Direct On-Chain Stock Issuance Platform for Public US Firms]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/superstate-launches-direct-stock-issuance-on-blockchain</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/superstate-launches-direct-stock-issuance-on-blockchain"/>
+        <updated>2025-12-10T15:18:56.000Z</updated>
+        <summary type="html"><![CDATA[The program lets firms issue new shares directly on Ethereum and Solana.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animoca Teams Up with Solv to Boost Corporate Bitcoin Adoption in Japan]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/animoca-solv-protocol-bitcoin-treasury-management-japan</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/animoca-solv-protocol-bitcoin-treasury-management-japan"/>
+        <updated>2025-12-10T14:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Both companies will guide on treasury and regulatory practices.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Payments-Focused Tempo Blockchain Launches Public Testnet]]></title>
         <id>https://thedefiant.io/news/blockchains/payments-focused-tempo-blockchain-launches-public-testnet</id>
@@ -829,7 +849,6 @@
         <id>https://thedefiant.io/news/regulation/bitcoin-for-america-act-would-allow-tax-payments-in-btc</id>
         <link href="https://thedefiant.io/news/regulation/bitcoin-for-america-act-would-allow-tax-payments-in-btc"/>
         <updated>2025-11-20T19:15:56.000Z</updated>
-        <summary type="html"><![CDATA[The bill was introduced by Rep. Warren Davidson (R‑Ohio).]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -849,6 +868,7 @@
         <id>https://thedefiant.io/news/defi/securitize-to-launch-institutional-assets-on-plume-s-nest-protocol</id>
         <link href="https://thedefiant.io/news/defi/securitize-to-launch-institutional-assets-on-plume-s-nest-protocol"/>
         <updated>2025-11-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The deployment aims to connect tokenized funds with Plume’s RWA investors.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -991,26 +1011,6 @@
         <summary type="html"><![CDATA[The new money market fund aims to improve oversight and smooth operations for stablecoin issuers.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PayPal Stablecoin Supply Jumps 22%]]></title>
-        <id>https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22</id>
-        <link href="https://thedefiant.io/news/defi/paypal-stablecoin-supply-jumps-22"/>
-        <updated>2025-11-17T21:47:44.000Z</updated>
-        <summary type="html"><![CDATA[The fintech giant’s native stablecoin, PYUSD, added more than $600 million to its circulating supply over the last week.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1inch Launches Developer Access to Aqua Liquidity Protocol]]></title>
-        <id>https://thedefiant.io/news/defi/1inch-launches-developer-access-to-aqua-liquidity-protocol</id>
-        <link href="https://thedefiant.io/news/defi/1inch-launches-developer-access-to-aqua-liquidity-protocol"/>
-        <updated>2025-11-17T18:08:09.000Z</updated>
-        <summary type="html"><![CDATA[The protocol’s front end is expected to be released to the public in Q1 2026.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
