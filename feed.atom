@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-11T19:18:43.819Z</id>
+    <id>urn:2025-12-11T20:23:06.825Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-11T19:18:43.819Z</updated>
+    <updated>2025-12-11T20:23:06.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JellyJelly Rockets 120% on App Store Release]]></title>
+        <id>https://thedefiant.io/news/defi/jellyjelly-rockets-120-on-app-store-release</id>
+        <link href="https://thedefiant.io/news/defi/jellyjelly-rockets-120-on-app-store-release"/>
+        <updated>2025-12-11T20:16:42.000Z</updated>
+        <summary type="html"><![CDATA[The video chat app built by Venmo co-founder Iqram Magdon-Ismail launched its token earlier this year.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Drop Amid Rising US Jobless Claims]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-drop-amid-rising-us-jobless-claims</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-drop-amid-rising-us-jobless-claims"/>
+        <updated>2025-12-11T19:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin, Ethereum, and other major digital assets dip as U.S. labor data and Oracle earnings disappoint.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Galaxy Digital Issues Commercial Paper on Solana via JPMorgan]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/galaxy-digital-issues-commercial-paper-on-solana-via-jpmorgan</id>
@@ -829,7 +849,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/rain-prediction-market-digital-asset-treasury</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/rain-prediction-market-digital-asset-treasury"/>
         <updated>2025-11-24T17:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Enlivex will use a private placement to accumulate the native token of decentralized prediction market protocol Rain.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -849,6 +868,7 @@
         <id>https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown</id>
         <link href="https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown"/>
         <updated>2025-11-22T14:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Increased crypto adoption is attracting greater attention and scrutiny from tax authorities.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -991,26 +1011,6 @@
         <summary type="html"><![CDATA[The credit rating agency says information about the stablecoin's composition is scarce, and governance doesn’t have clear guidance.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock Registers Staked Ethereum Trust]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-registers-staked-ethereum-trust</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/blackrock-registers-staked-ethereum-trust"/>
-        <updated>2025-11-19T22:00:49.000Z</updated>
-        <summary type="html"><![CDATA[The world’s largest asset manager is making preparations for a staked ETH ETF.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid to Roll Out ‘Growth Mode’ to Supercharge New Markets]]></title>
-        <id>https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets</id>
-        <link href="https://thedefiant.io/news/blockchains/hyperliquid-to-roll-out-growth-mode-to-supercharge-new-markets"/>
-        <updated>2025-11-19T17:55:39.000Z</updated>
-        <summary type="html"><![CDATA[The new upgrade aims to slash all-in fees by at least 90% for HIP-3 markets.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
     <entry>
