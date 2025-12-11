@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/galaxy-digital-issues-commercial-paper-on-solana-via-jpmorgan",
+          "author": "Jona Jaupi",
+          "description": "J.P. Morgan arranged the tokenized debt, which was purchased by Coinbase and Franklin Templeton.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/galaxy-digital-issues-commercial-paper-on-solana-via-jpmorgan",
+          "publishedOn": "2025-12-11T18:31:32.000Z",
+          "wordCount": null,
+          "title": "Galaxy Digital Issues Commercial Paper on Solana via JPMorgan",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/jpm-1-2-png-1517d04e-0bd6-4a0d-8c9c-d61b8aeb05e7.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/jpm-1-2-png-1517d04e-0bd6-4a0d-8c9c-d61b8aeb05e7.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/arbitrum-dao-votes-on-usd1-5-million-program-to-reward-active-delegates",
           "author": "Denis Omelchenko",
           "description": "Arbitrum delegates could earn rewards for voting, but only if they have at least 200,000 ARB of voting power.",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown",
           "author": "Squiffs",
-          "description": "Increased crypto adoption is attracting greater attention and scrutiny from tax authorities.",
+          "description": "",
           "link": "https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown",
           "publishedOn": "2025-11-22T14:41:04.000Z",
           "wordCount": null,
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing",
           "author": "Squiffs",
-          "description": "",
+          "description": "The Bitcoin DeFi token is up 25% from its launch price.",
           "link": "https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing",
           "publishedOn": "2025-11-21T22:21:12.000Z",
           "wordCount": null,
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/xreserve-1-1-png-a669e19c-7e48-423e-a24f-e821f084b7d0.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/kraken-confidential-ipo-filing-usd800m-raise",
-          "author": "Denis Omelchenko",
-          "description": "The move comes after Kraken’s valuation reached $20 billion following an $800 million funding round.",
-          "link": "https://thedefiant.io/news/cefi/kraken-confidential-ipo-filing-usd800m-raise",
-          "publishedOn": "2025-11-19T16:38:38.000Z",
-          "wordCount": null,
-          "title": "Kraken Reveals Confidential IPO Filing After Fresh $800M Raise",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/c4c1131864acbf29e11a60842cd2ea6d0b0c6da19ac33dcf64e114584b98-f440e711-1d19-4002-9974-572b44ae55cc.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/c4c1131864acbf29e11a60842cd2ea6d0b0c6da19ac33dcf64e114584b98-f440e711-1d19-4002-9974-572b44ae55cc.png"
         }
       ]
     }

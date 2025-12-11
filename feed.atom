@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-11T18:29:28.093Z</id>
+    <id>urn:2025-12-11T19:18:43.819Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-11T18:29:28.093Z</updated>
+    <updated>2025-12-11T19:18:43.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Galaxy Digital Issues Commercial Paper on Solana via JPMorgan]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/galaxy-digital-issues-commercial-paper-on-solana-via-jpmorgan</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/galaxy-digital-issues-commercial-paper-on-solana-via-jpmorgan"/>
+        <updated>2025-12-11T18:31:32.000Z</updated>
+        <summary type="html"><![CDATA[J.P. Morgan arranged the tokenized debt, which was purchased by Coinbase and Franklin Templeton.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum DAO Votes on $1.5 Million Program to Reward Active Delegates]]></title>
         <id>https://thedefiant.io/news/blockchains/arbitrum-dao-votes-on-usd1-5-million-program-to-reward-active-delegates</id>
@@ -839,7 +849,6 @@
         <id>https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown</id>
         <link href="https://thedefiant.io/news/regulation/united-states-korea-and-brazil-eye-crypto-tax-crackdown"/>
         <updated>2025-11-22T14:41:04.000Z</updated>
-        <summary type="html"><![CDATA[Increased crypto adoption is attracting greater attention and scrutiny from tax authorities.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -849,6 +858,7 @@
         <id>https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing</id>
         <link href="https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing"/>
         <updated>2025-11-21T22:21:12.000Z</updated>
+        <summary type="html"><![CDATA[The Bitcoin DeFi token is up 25% from its launch price.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -1001,16 +1011,6 @@
         <summary type="html"><![CDATA[The new upgrade aims to slash all-in fees by at least 90% for HIP-3 markets.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Reveals Confidential IPO Filing After Fresh $800M Raise]]></title>
-        <id>https://thedefiant.io/news/cefi/kraken-confidential-ipo-filing-usd800m-raise</id>
-        <link href="https://thedefiant.io/news/cefi/kraken-confidential-ipo-filing-usd800m-raise"/>
-        <updated>2025-11-19T16:38:38.000Z</updated>
-        <summary type="html"><![CDATA[The move comes after Kraken’s valuation reached $20 billion following an $800 million funding round.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
     <entry>
