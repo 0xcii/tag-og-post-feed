@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-11T17:24:26.102Z</id>
+    <id>urn:2025-12-11T18:29:28.093Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-11T17:24:26.102Z</updated>
+    <updated>2025-12-11T18:29:28.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum DAO Votes on $1.5 Million Program to Reward Active Delegates]]></title>
+        <id>https://thedefiant.io/news/blockchains/arbitrum-dao-votes-on-usd1-5-million-program-to-reward-active-delegates</id>
+        <link href="https://thedefiant.io/news/blockchains/arbitrum-dao-votes-on-usd1-5-million-program-to-reward-active-delegates"/>
+        <updated>2025-12-11T18:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum delegates could earn rewards for voting, but only if they have at least 200,000 ARB of voting power.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Says It’s ‘Expanding to Solana’ with Native DEX Trading]]></title>
+        <id>https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading</id>
+        <link href="https://thedefiant.io/news/defi/coinbase-adds-native-solana-dex-trading"/>
+        <updated>2025-12-11T17:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase will let its users trade Solana-based assets via its built-in DEX, without the tokens being officially listed on the CEX.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3 Ticketing Platform KYD Labs Launches TIX for Live Events Financing]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/solana-ticketing-platform-kyd-labs-launches-tix</id>
@@ -829,7 +849,6 @@
         <id>https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing</id>
         <link href="https://thedefiant.io/news/blockchains/build-on-bitcoin-token-rallies-on-coinbase-listing"/>
         <updated>2025-11-21T22:21:12.000Z</updated>
-        <summary type="html"><![CDATA[The Bitcoin DeFi token is up 25% from its launch price.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -849,6 +868,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/nft-lending-tvl-nears-all-time-lows</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/nft-lending-tvl-nears-all-time-lows"/>
         <updated>2025-11-21T18:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Outstanding debt has fallen by around 45% to $80 million from $150 million in March 2024.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -991,26 +1011,6 @@
         <summary type="html"><![CDATA[The move comes after Kraken’s valuation reached $20 billion following an $800 million funding round.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Holds $90K Level as Crypto Market Slumps]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-down-btc-usd90k</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-down-btc-usd90k"/>
-        <updated>2025-11-19T15:56:36.000Z</updated>
-        <summary type="html"><![CDATA[Crypto market capitalization is down to $3.18 trillion, while selling pressure is elevated among short-term holders.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Debuts xReserve to Expand USDC Access Across Chains]]></title>
-        <id>https://thedefiant.io/news/infrastructure/circle-debuts-xreserve-to-expand-usdc-access-across-chains</id>
-        <link href="https://thedefiant.io/news/infrastructure/circle-debuts-xreserve-to-expand-usdc-access-across-chains"/>
-        <updated>2025-11-18T22:28:53.000Z</updated>
-        <summary type="html"><![CDATA[The new system aims to reduce fragmentation, boost liquidity, and improve cross-chain stablecoin interoperability.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
     <entry>
