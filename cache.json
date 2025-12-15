@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/sushiswap-approves-sushi-emissions-boost-in-vote-controlled-by-single-wallet",
+          "author": "Denis Omelchenko",
+          "description": "SushiSwap approved a plan to sharply increase SUSHI token emissions, with the decision driven almost entirely by a single voting wallet.",
+          "link": "https://thedefiant.io/news/defi/sushiswap-approves-sushi-emissions-boost-in-vote-controlled-by-single-wallet",
+          "publishedOn": "2025-12-15T17:14:59.000Z",
+          "wordCount": null,
+          "title": "SushiSwap Approves SUSHI Emissions Boost in Vote Controlled by Single Wallet",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/sushi-1-1-png-d6e0536c-5c95-445e-840f-af1c9eee972d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/sushi-1-1-png-d6e0536c-5c95-445e-840f-af1c9eee972d.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-enables-stablecoin-deposits",
           "author": "Squiffs",
           "description": "Retail traders can now fund their IBKR accounts with stablecoin transfers.",
@@ -1277,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/defi/klarna-debuts-stablecoin-as-it-expands-into-on-chain-payments",
           "author": "Jona Jaupi",
-          "description": "Klarna taps Stripe and Paradigm’s Tempo network as stablecoin adoption accelerates.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/klarna-debuts-stablecoin-as-it-expands-into-on-chain-payments",
           "publishedOn": "2025-11-25T18:14:20.000Z",
           "wordCount": null,
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Public digital asset treasury firms hold millions of dollars in ETH, but many bought at prices much higher than today's.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000",
           "publishedOn": "2025-11-25T17:22:12.000Z",
           "wordCount": null,
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/mega-1-1-png-a1874776-287e-4ea2-bd8f-981421dbae2f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/dinari-integrates-layerzero-to-offer-cross-chain-access-to-tokenized-u-s-equities",
-          "author": "Jona Jaupi",
-          "description": "The rollout spans four blockchains and 200 tokenized stocks.",
-          "link": "https://thedefiant.io/news/defi/dinari-integrates-layerzero-to-offer-cross-chain-access-to-tokenized-u-s-equities",
-          "publishedOn": "2025-11-20T21:24:55.000Z",
-          "wordCount": null,
-          "title": "Dinari Integrates LayerZero to Offer Cross-Chain Access to Tokenized U.S. Equities",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/dinari-1-1-png-f12d8382-7f00-41b1-8339-8d2ba9e98f4c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/dinari-1-1-png-f12d8382-7f00-41b1-8339-8d2ba9e98f4c.png"
         }
       ]
     }

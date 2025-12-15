@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-15T16:30:04.582Z</id>
+    <id>urn:2025-12-15T17:23:54.490Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-15T16:30:04.582Z</updated>
+    <updated>2025-12-15T17:23:54.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SushiSwap Approves SUSHI Emissions Boost in Vote Controlled by Single Wallet]]></title>
+        <id>https://thedefiant.io/news/defi/sushiswap-approves-sushi-emissions-boost-in-vote-controlled-by-single-wallet</id>
+        <link href="https://thedefiant.io/news/defi/sushiswap-approves-sushi-emissions-boost-in-vote-controlled-by-single-wallet"/>
+        <updated>2025-12-15T17:14:59.000Z</updated>
+        <summary type="html"><![CDATA[SushiSwap approved a plan to sharply increase SUSHI token emissions, with the decision driven almost entirely by a single voting wallet.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interactive Brokers Enables Stablecoin Deposits]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-enables-stablecoin-deposits</id>
@@ -839,7 +849,6 @@
         <id>https://thedefiant.io/news/defi/klarna-debuts-stablecoin-as-it-expands-into-on-chain-payments</id>
         <link href="https://thedefiant.io/news/defi/klarna-debuts-stablecoin-as-it-expands-into-on-chain-payments"/>
         <updated>2025-11-25T18:14:20.000Z</updated>
-        <summary type="html"><![CDATA[Klarna taps Stripe and Paradigm’s Tempo network as stablecoin adoption accelerates.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -849,6 +858,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/ethereum-dats-underwater-eth-price-drops-below-usd3000"/>
         <updated>2025-11-25T17:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Public digital asset treasury firms hold millions of dollars in ETH, but many bought at prices much higher than today's.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -1001,16 +1011,6 @@
         <summary type="html"><![CDATA[The limited-access deposit bridge will open on November 25.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dinari Integrates LayerZero to Offer Cross-Chain Access to Tokenized U.S. Equities]]></title>
-        <id>https://thedefiant.io/news/defi/dinari-integrates-layerzero-to-offer-cross-chain-access-to-tokenized-u-s-equities</id>
-        <link href="https://thedefiant.io/news/defi/dinari-integrates-layerzero-to-offer-cross-chain-access-to-tokenized-u-s-equities"/>
-        <updated>2025-11-20T21:24:55.000Z</updated>
-        <summary type="html"><![CDATA[The rollout spans four blockchains and 200 tokenized stocks.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
     <entry>
