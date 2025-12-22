@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud",
+          "author": "Jona Jaupi",
+          "description": "The new tool distributes requests across multiple providers to reduce outages and delays on public blockchains.",
+          "link": "https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud",
+          "publishedOn": "2025-12-22T15:11:44.000Z",
+          "wordCount": null,
+          "title": "Magma Devs Launches RPC Smart Router on Google Cloud",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/19e14ef7c88280e230de1088f208e3b0a5b9cc31d59a8a785b4d5adafaa0-661ffca2-415b-41b8-8672-27b7045ca140.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/19e14ef7c88280e230de1088f208e3b0a5b9cc31d59a8a785b4d5adafaa0-661ffca2-415b-41b8-8672-27b7045ca140.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/coinbase-ceo-debates-base-app-s-strategic-focus",
+          "author": "Denis Omelchenko",
+          "description": "Brian Armstrong responds to community feedback about the Base App, which now blends finance and social features.",
+          "link": "https://thedefiant.io/news/cefi/coinbase-ceo-debates-base-app-s-strategic-focus",
+          "publishedOn": "2025-12-22T14:47:21.000Z",
+          "wordCount": null,
+          "title": "Coinbase CEO Debates Base App’s Strategic Focus",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/baseapp-1-png-9b404a78-d7ae-4232-814e-74ff0e047128.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/baseapp-1-png-9b404a78-d7ae-4232-814e-74ff0e047128.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/curve-dao-rejects-usd6-2-million-swiss-stake-funding-proposal",
           "author": "Denis Omelchenko",
           "description": "Tokenholders denied a proposal to allocate 17.4 million CRV tokens to Curve’s core development firm.",
@@ -1262,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live",
           "author": "Jona Jaupi",
-          "description": "The Grayscale Chainlink Trust ETF (GLNK) gives equity investors another way to access LINK.",
+          "description": "",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live",
           "publishedOn": "2025-12-02T18:05:52.000Z",
           "wordCount": null,
@@ -1292,7 +1322,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-markets-recover-december-2-2025",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "ETH, SOL, and BNB post gains, while analysts say the market “appears less worried” now.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-recover-december-2-2025",
           "publishedOn": "2025-12-02T15:33:33.000Z",
           "wordCount": null,
@@ -1513,36 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/db0d81d3506c789b78b53e5ac841492bf9941ca002a0a2fe60bb9ae265f3-ffdda658-e87c-4064-97b8-00929788b426.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202",
-          "author": "Jona Jaupi",
-          "description": "Real-world asset tokenization is driving institutional adoption, with private credit, tokenized equities, and Treasuries leading the way.",
-          "link": "https://thedefiant.io/news/research-and-opinion/redstone-predicts-tokenized-assets-could-hit-usd60-billion-in-202",
-          "publishedOn": "2025-11-27T19:05:34.000Z",
-          "wordCount": null,
-          "title": "RedStone Predicts Tokenized Assets Could Hit $60 Billion in 202",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/debanking-1-4-png-37e64ebe-7025-4bbc-9f39-745d2f570ca3.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/debanking-1-4-png-37e64ebe-7025-4bbc-9f39-745d2f570ca3.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-hovers-above-usd91-000-with-us-markets-closed-for-thanksgiving",
-          "author": "yyctrader",
-          "description": "Altcoins trade mixed as the total crypto market capitalization stands at $3.2 trillion.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-hovers-above-usd91-000-with-us-markets-closed-for-thanksgiving",
-          "publishedOn": "2025-11-27T18:49:51.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Hovers Above $91,000 With US Markets Closed for Thanksgiving",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/debanking-1-3-png-4f321ad8-ebb7-4bb5-8779-9bcccdcd8bd2.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/debanking-1-3-png-4f321ad8-ebb7-4bb5-8779-9bcccdcd8bd2.png"
         }
       ]
     }
