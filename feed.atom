@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-23T10:22:59.099Z</id>
+    <id>urn:2025-12-23T11:18:07.927Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-23T10:22:59.099Z</updated>
+    <updated>2025-12-23T11:18:07.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Slides Back Below $88,000 as ‘Santa Rally’ Gets Derailed]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-slides-back-below-usd88-000-as-santa-rally-gets-derailed</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-slides-back-below-usd88-000-as-santa-rally-gets-derailed"/>
+        <updated>2025-12-23T10:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Most Top 10 cryptocurrencies are in the red, with Bitcoin and Ethereum posting the largest losses.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave Founder Calls Contentious Token Alignment Proposal ‘Bad for Aave’]]></title>
         <id>https://thedefiant.io/news/defi/aave-founder-calls-contentious-token-alignment-proposal-bad-for-aave</id>
@@ -839,7 +849,6 @@
         <id>https://thedefiant.io/news/markets/crypto-market-update-bitcoin-reclaims-usd93-000</id>
         <link href="https://thedefiant.io/news/markets/crypto-market-update-bitcoin-reclaims-usd93-000"/>
         <updated>2025-12-03T15:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Nearly all top-20 tokens by market cap are in the green as the market continues its recovery.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -849,6 +858,7 @@
         <id>https://thedefiant.io/news/defi/kamino-blocks-jupiter-lend-refinance</id>
         <link href="https://thedefiant.io/news/defi/kamino-blocks-jupiter-lend-refinance"/>
         <updated>2025-12-03T14:59:59.000Z</updated>
+        <summary type="html"><![CDATA[The second-largest protocol in the Solana ecosystem has manually blacklisted an address tied to a competing lending platform.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -1001,16 +1011,6 @@
         <summary type="html"><![CDATA[Altcoins trade mixed as the total crypto market capitalization dips 0.5% to $3.19 trillion.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism CEO Teases New Enterprise Strategy]]></title>
-        <id>https://thedefiant.io/news/blockchains/optimism-ceo-teases-new-enterprise-strategy</id>
-        <link href="https://thedefiant.io/news/blockchains/optimism-ceo-teases-new-enterprise-strategy"/>
-        <updated>2025-11-28T20:01:53.000Z</updated>
-        <summary type="html"><![CDATA[After spending much of its resources supporting Ethereum Layer 2 networks like Base and Ink, Optimism’s CEO says the network is now rethinking its approach.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
     <entry>
