@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-23T09:24:39.182Z</id>
+    <id>urn:2025-12-23T10:22:59.099Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-23T09:24:39.182Z</updated>
+    <updated>2025-12-23T10:22:59.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave Founder Calls Contentious Token Alignment Proposal ‘Bad for Aave’]]></title>
+        <id>https://thedefiant.io/news/defi/aave-founder-calls-contentious-token-alignment-proposal-bad-for-aave</id>
+        <link href="https://thedefiant.io/news/defi/aave-founder-calls-contentious-token-alignment-proposal-bad-for-aave"/>
+        <updated>2025-12-23T10:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Stani Kulechov claims that moving forward with the proposal would negatively impact Aave Protocol, the DAO, and token holders.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Token Launches With Low FDVs Vastly Outperformed Hyped Debuts in 2025: Memento Research]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/token-launches-with-low-fdvs-vastly-outperformed-hyped-debuts-in-2025-memento-research</id>
@@ -839,7 +849,6 @@
         <id>https://thedefiant.io/news/defi/kamino-blocks-jupiter-lend-refinance</id>
         <link href="https://thedefiant.io/news/defi/kamino-blocks-jupiter-lend-refinance"/>
         <updated>2025-12-03T14:59:59.000Z</updated>
-        <summary type="html"><![CDATA[The second-largest protocol in the Solana ecosystem has manually blacklisted an address tied to a competing lending platform.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -849,6 +858,7 @@
         <id>https://thedefiant.io/news/markets/hype-jumps-8-after-usd888-million-dat-gets-approved</id>
         <link href="https://thedefiant.io/news/markets/hype-jumps-8-after-usd888-million-dat-gets-approved"/>
         <updated>2025-12-02T22:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Sonnet BioTherapeutics will merge with Rorschach LLC to launch the first major HYPE treasury company.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -999,16 +1009,6 @@
         <link href="https://thedefiant.io/news/blockchains/optimism-ceo-teases-new-enterprise-strategy"/>
         <updated>2025-11-28T20:01:53.000Z</updated>
         <summary type="html"><![CDATA[After spending much of its resources supporting Ethereum Layer 2 networks like Base and Ink, Optimism’s CEO says the network is now rethinking its approach.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fidelity’s Tokenized Fund on Ethereum Crosses $250M]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m"/>
-        <updated>2025-11-28T19:13:38.000Z</updated>
-        <summary type="html"><![CDATA[Fidelity’s tokenized U.S. Treasury fund has grown 15% in the past month.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
