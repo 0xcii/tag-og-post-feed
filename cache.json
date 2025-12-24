@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/pump-plummets-as-legal-dispute-escalates",
+          "author": "Squiffs",
+          "description": "Burwick Law has filed a misconduct notice against pumpfun, alleging intimidation and retaliation against the defendants.",
+          "link": "https://thedefiant.io/news/defi/pump-plummets-as-legal-dispute-escalates",
+          "publishedOn": "2025-12-24T08:23:15.000Z",
+          "wordCount": null,
+          "title": "PUMP Plummets as Legal Dispute Escalates",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pump-1-png-bee74b69-1961-4c9a-b728-98d308d00abf.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pump-1-png-bee74b69-1961-4c9a-b728-98d308d00abf.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/hyperliquid-launches-portfolio-margin-and-blp-pre-alpha",
+          "author": "Squiffs",
+          "description": "The feature adds a more flexible approach to margin management, as well as earning and borrowing features to Hypercore.",
+          "link": "https://thedefiant.io/news/defi/hyperliquid-launches-portfolio-margin-and-blp-pre-alpha",
+          "publishedOn": "2025-12-24T08:06:47.000Z",
+          "wordCount": null,
+          "title": "Hyperliquid Launches Portfolio Margin and BLP Pre-Alpha",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/9321bd327a3c6a0f1569dda8cb63fbe37715789631f3bf6a026241789135-66bf6805-fddf-4858-9210-2b582a3e7110.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/9321bd327a3c6a0f1569dda8cb63fbe37715789631f3bf6a026241789135-66bf6805-fddf-4858-9210-2b582a3e7110.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-slides-back-below-usd88-000-as-santa-rally-gets-derailed",
           "author": "Denis Omelchenko",
           "description": "Most Top 10 cryptocurrencies are in the red, with Bitcoin and Ethereum posting the largest losses.",
@@ -1010,7 +1040,7 @@
           "description": "The update unifies USDC across HyperCore and HyperEVM, setting up a transition away from the Arbitrum-based bridge.",
           "link": "https://thedefiant.io/news/blockchains/hyperliquid-launches-direct-usdc-transfers",
           "publishedOn": "2025-12-08T20:40:14.000Z",
-          "wordCount": 4699,
+          "wordCount": 4705,
           "title": "Hyperliquid Launches Direct USDC Transfers",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/hypeusdc-1-png-36421d84-09cc-420e-9076-c7132f2e7aef.png",
@@ -1262,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/defi/ostium-labs-reveals-usd20-million-raise-co-led-by-jump-crypto",
           "author": "Squiffs",
-          "description": "The platform has become one of DeFi’s go-to destinations for tokenized stocks, commodities, and FX.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/ostium-labs-reveals-usd20-million-raise-co-led-by-jump-crypto",
           "publishedOn": "2025-12-03T22:13:38.000Z",
           "wordCount": null,
@@ -1292,7 +1322,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-market-update-bitcoin-reclaims-usd93-000",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Nearly all top-20 tokens by market cap are in the green as the market continues its recovery.",
           "link": "https://thedefiant.io/news/markets/crypto-market-update-bitcoin-reclaims-usd93-000",
           "publishedOn": "2025-12-03T15:40:42.000Z",
           "wordCount": null,
@@ -1513,36 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/mktcrash-1-png-001b23f2-fa38-4819-a45e-95b13eb1ee77.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/yearn-finance-suffers-usd9-million-exploit",
-          "author": "Denis Omelchenko",
-          "description": "The yETH exploit is the third hack of a Yearn Finance product since 2021.",
-          "link": "https://thedefiant.io/news/defi/yearn-finance-suffers-usd9-million-exploit",
-          "publishedOn": "2025-12-01T17:14:36.000Z",
-          "wordCount": null,
-          "title": "Yearn Finance Suffers $9 Million Exploit",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/yearn-1-png-f6ee6bf5-917e-452f-bf95-13905cc005df.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/yearn-1-png-f6ee6bf5-917e-452f-bf95-13905cc005df.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-consolidates-at-usd91-000-as-stocks-and-gold-rally",
-          "author": "yyctrader",
-          "description": "Altcoins trade mixed as the total crypto market capitalization dips 0.5% to $3.19 trillion.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-consolidates-at-usd91-000-as-stocks-and-gold-rally",
-          "publishedOn": "2025-11-28T21:09:42.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Consolidates at $91,000 as Stocks and Gold Rally",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/mktsflat-1-png-54ddac7d-b189-451e-8017-a337ba9e9166.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/mktsflat-1-png-54ddac7d-b189-451e-8017-a337ba9e9166.png"
         }
       ]
     }
