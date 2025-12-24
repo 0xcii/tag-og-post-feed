@@ -45,6 +45,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/shift4-launches-multi-chain-stablecoin-support-for-merchants",
+          "author": "Denis Omelchenko",
+          "description": "The U.S. payments giant, serving hundreds of thousands of businesses, now offers 24/7 settlement in four stablecoins.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/shift4-launches-multi-chain-stablecoin-support-for-merchants",
+          "publishedOn": "2025-12-24T09:16:10.000Z",
+          "wordCount": null,
+          "title": "Shift4 Launches Multi-Chain Stablecoin Support for Merchants",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/c7d96f239e9fce2b033e1ce19599f8c7423a16fa03683d12a9d6e8852cf9-44622eb2-6750-427d-af27-e21033485a3e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/c7d96f239e9fce2b033e1ce19599f8c7423a16fa03683d12a9d6e8852cf9-44622eb2-6750-427d-af27-e21033485a3e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/prediction-markets-expand-from-defi-niche-to-global-news-sources",
+          "author": "Squiffs",
+          "description": "Polymarket has been thrust into the mainstream limelight in 2025, making it one of the year’s breakout products.",
+          "link": "https://thedefiant.io/news/defi/prediction-markets-expand-from-defi-niche-to-global-news-sources",
+          "publishedOn": "2025-12-24T09:10:56.000Z",
+          "wordCount": null,
+          "title": "Prediction Markets Expand from DeFi Niche to Global News Sources",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/predictionmkts-1-png-35d89d7e-8c18-42dd-b6f8-94850b556c0e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/predictionmkts-1-png-35d89d7e-8c18-42dd-b6f8-94850b556c0e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-slips-below-usd87-000-in-choppy-holiday-trading",
+          "author": "Denis Omelchenko",
+          "description": "Top altcoins remain under pressure amid muted ETF flows and thin liquidity.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-slips-below-usd87-000-in-choppy-holiday-trading",
+          "publishedOn": "2025-12-24T08:38:49.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Slips Below $87,000 in Choppy Holiday Trading",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/e10d8e7e02ddf1bb48114f34a9f2d21c277f56c32fcae3615ac89383fc71-7c149400-4e0f-41f2-8c0d-ce96b96b7eda.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/e10d8e7e02ddf1bb48114f34a9f2d21c277f56c32fcae3615ac89383fc71-7c149400-4e0f-41f2-8c0d-ce96b96b7eda.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/pump-plummets-as-legal-dispute-escalates",
           "author": "Squiffs",
           "description": "Burwick Law has filed a misconduct notice against pumpfun, alleging intimidation and retaliation against the defendants.",
@@ -1247,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-markets-hold-gains-as-bitcoin-trades-above-usd92k",
           "author": "Denis Omelchenko",
-          "description": "Most large-cap assets are slightly up today as traders digest jobs data and look ahead to next week’s Fed decision.",
+          "description": "",
           "link": "https://thedefiant.io/news/markets/crypto-markets-hold-gains-as-bitcoin-trades-above-usd92k",
           "publishedOn": "2025-12-04T15:35:03.000Z",
           "wordCount": null,
@@ -1292,7 +1337,7 @@
         {
           "id": "https://thedefiant.io/news/defi/ostium-labs-reveals-usd20-million-raise-co-led-by-jump-crypto",
           "author": "Squiffs",
-          "description": "",
+          "description": "The platform has become one of DeFi’s go-to destinations for tokenized stocks, commodities, and FX.",
           "link": "https://thedefiant.io/news/defi/ostium-labs-reveals-usd20-million-raise-co-led-by-jump-crypto",
           "publishedOn": "2025-12-03T22:13:38.000Z",
           "wordCount": null,
@@ -1498,51 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/gold-1-2-png-eec72f9c-26cf-48a1-8ed3-2f28b2e89f0b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/strategy-sets-up-usd1-44-billion-dividend-reserve",
-          "author": "Jona Jaupi",
-          "description": "The largest publicly traded Bitcoin holder says the reserve will cover dividends amid debate over its approach.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/strategy-sets-up-usd1-44-billion-dividend-reserve",
-          "publishedOn": "2025-12-01T21:26:16.000Z",
-          "wordCount": null,
-          "title": "Strategy Sets Up $1.44 Billion Dividend Reserve",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/strategy-1-1-png-8089a017-7b10-4f7a-8212-01928e4614ca.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/strategy-1-1-png-8089a017-7b10-4f7a-8212-01928e4614ca.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef",
-          "author": "Jona Jaupi",
-          "description": "The SUSHI token is down 12% on the day.",
-          "link": "https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef",
-          "publishedOn": "2025-12-01T20:07:13.000Z",
-          "wordCount": null,
-          "title": "SushiSwap’s Jared Grey Steps Down as Head Chef",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/sushi-1-png-cefd1854-5977-4828-839e-e692ba94627c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/sushi-1-png-cefd1854-5977-4828-839e-e692ba94627c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment",
-          "author": "Denis Omelchenko",
-          "description": "ETH, SOL, and BNB plunged 10%, dragging the broader crypto market down more than 7%.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment",
-          "publishedOn": "2025-12-01T18:17:44.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Craters to $84,000 as Asia Signals Risk-Off Sentiment",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/mktcrash-1-png-001b23f2-fa38-4819-a45e-95b13eb1ee77.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/mktcrash-1-png-001b23f2-fa38-4819-a45e-95b13eb1ee77.png"
         }
       ]
     }

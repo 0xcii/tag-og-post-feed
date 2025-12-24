@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-24T08:28:31.686Z</id>
+    <id>urn:2025-12-24T09:23:48.744Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-24T08:28:31.686Z</updated>
+    <updated>2025-12-24T09:23:48.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Shift4 Launches Multi-Chain Stablecoin Support for Merchants]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/shift4-launches-multi-chain-stablecoin-support-for-merchants</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/shift4-launches-multi-chain-stablecoin-support-for-merchants"/>
+        <updated>2025-12-24T09:16:10.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. payments giant, serving hundreds of thousands of businesses, now offers 24/7 settlement in four stablecoins.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prediction Markets Expand from DeFi Niche to Global News Sources]]></title>
+        <id>https://thedefiant.io/news/defi/prediction-markets-expand-from-defi-niche-to-global-news-sources</id>
+        <link href="https://thedefiant.io/news/defi/prediction-markets-expand-from-defi-niche-to-global-news-sources"/>
+        <updated>2025-12-24T09:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Polymarket has been thrust into the mainstream limelight in 2025, making it one of the year’s breakout products.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Slips Below $87,000 in Choppy Holiday Trading]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-slips-below-usd87-000-in-choppy-holiday-trading</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-slips-below-usd87-000-in-choppy-holiday-trading"/>
+        <updated>2025-12-24T08:38:49.000Z</updated>
+        <summary type="html"><![CDATA[Top altcoins remain under pressure amid muted ETF flows and thin liquidity.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PUMP Plummets as Legal Dispute Escalates]]></title>
         <id>https://thedefiant.io/news/defi/pump-plummets-as-legal-dispute-escalates</id>
@@ -819,7 +849,6 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-hold-gains-as-bitcoin-trades-above-usd92k</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-hold-gains-as-bitcoin-trades-above-usd92k"/>
         <updated>2025-12-04T15:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Most large-cap assets are slightly up today as traders digest jobs data and look ahead to next week’s Fed decision.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -849,6 +878,7 @@
         <id>https://thedefiant.io/news/defi/ostium-labs-reveals-usd20-million-raise-co-led-by-jump-crypto</id>
         <link href="https://thedefiant.io/news/defi/ostium-labs-reveals-usd20-million-raise-co-led-by-jump-crypto"/>
         <updated>2025-12-03T22:13:38.000Z</updated>
+        <summary type="html"><![CDATA[The platform has become one of DeFi’s go-to destinations for tokenized stocks, commodities, and FX.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -981,36 +1011,6 @@
         <summary type="html"><![CDATA[Amid falling DeFi activity and a dip in Bitcoin’s price, tokenized commodities offer on-chain investors a safer alternative.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy Sets Up $1.44 Billion Dividend Reserve]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/strategy-sets-up-usd1-44-billion-dividend-reserve</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/strategy-sets-up-usd1-44-billion-dividend-reserve"/>
-        <updated>2025-12-01T21:26:16.000Z</updated>
-        <summary type="html"><![CDATA[The largest publicly traded Bitcoin holder says the reserve will cover dividends amid debate over its approach.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SushiSwap’s Jared Grey Steps Down as Head Chef]]></title>
-        <id>https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef</id>
-        <link href="https://thedefiant.io/news/defi/sushiswap-s-jared-grey-steps-down-as-head-chef"/>
-        <updated>2025-12-01T20:07:13.000Z</updated>
-        <summary type="html"><![CDATA[The SUSHI token is down 12% on the day.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Craters to $84,000 as Asia Signals Risk-Off Sentiment]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-craters-to-usd84-000-as-asia-signals-risk-off-sentiment"/>
-        <updated>2025-12-01T18:17:44.000Z</updated>
-        <summary type="html"><![CDATA[ETH, SOL, and BNB plunged 10%, dragging the broader crypto market down more than 7%.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
     <entry>
