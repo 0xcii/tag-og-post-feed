@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-25T17:17:17.152Z</id>
+    <id>urn:2025-12-25T18:28:44.659Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-25T17:17:17.152Z</updated>
+    <updated>2025-12-25T18:28:44.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RWAs Became Wall Street’s Gateway to Crypto in 2025]]></title>
+        <id>https://thedefiant.io/news/defi/rwas-became-wall-street-s-gateway-to-crypto-in-2025</id>
+        <link href="https://thedefiant.io/news/defi/rwas-became-wall-street-s-gateway-to-crypto-in-2025"/>
+        <updated>2025-12-25T18:13:15.000Z</updated>
+        <summary type="html"><![CDATA[In just a year, tokenized real-world assets have gone from an idea to billions in on-chain liquidity, shaking up traditional finance.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stablecoins Became Crypto’s First Mainstream Use Case in 2025]]></title>
+        <id>https://thedefiant.io/news/defi/stablecoins-became-crypto-s-first-mainstream-use-case-in-2025</id>
+        <link href="https://thedefiant.io/news/defi/stablecoins-became-crypto-s-first-mainstream-use-case-in-2025"/>
+        <updated>2025-12-25T17:57:58.000Z</updated>
+        <summary type="html"><![CDATA[From payrolls to real estate, stablecoins were among the few crypto sectors that kept growing throughout the year.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Biggest Names in Crypto Predict New Bitcoin Highs and a Tokenization Boom in 2026]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-2026-predictions-include-new-bitcoin-highs-and-a-tokenization-boom</id>
+        <link href="https://thedefiant.io/news/markets/crypto-2026-predictions-include-new-bitcoin-highs-and-a-tokenization-boom"/>
+        <updated>2025-12-25T17:42:21.000Z</updated>
+        <summary type="html"><![CDATA[Institutional forecasts for 2026 point to steadier markets, real-world tokenization, growing stablecoin adoption, and AI-driven on-chain systems.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shift4 Launches Multi-Chain Stablecoin Support for Merchants]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/shift4-launches-multi-chain-stablecoin-support-for-merchants</id>
@@ -819,7 +849,6 @@
         <id>https://thedefiant.io/news/defi/blackrock-s-buidl-fund-now-eligible-as-collateral-on-m0</id>
         <link href="https://thedefiant.io/news/defi/blackrock-s-buidl-fund-now-eligible-as-collateral-on-m0"/>
         <updated>2025-12-04T18:19:43.000Z</updated>
-        <summary type="html"><![CDATA[The integration gives stablecoin issuers more options and strengthens on-chain liquidity.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -849,6 +878,7 @@
         <id>https://thedefiant.io/news/markets/crypto-markets-hold-gains-as-bitcoin-trades-above-usd92k</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-hold-gains-as-bitcoin-trades-above-usd92k"/>
         <updated>2025-12-04T15:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Most large-cap assets are slightly up today as traders digest jobs data and look ahead to next week’s Fed decision.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -981,36 +1011,6 @@
         <summary type="html"><![CDATA[Prediction markets are heating up as Polymarket briefly climbed to the No. 1 spot in the App Store’s sports category.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monad Briefly Dips Below ICO Price]]></title>
-        <id>https://thedefiant.io/news/blockchains/monad-briefly-dips-below-ico-price</id>
-        <link href="https://thedefiant.io/news/blockchains/monad-briefly-dips-below-ico-price"/>
-        <updated>2025-12-02T03:15:36.000Z</updated>
-        <summary type="html"><![CDATA[The Layer 1 blockchain’s DeFi ecosystem is off to a slow start, with just $150 million in TVL.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe’s Crypto Crusade Rages On]]></title>
-        <id>https://thedefiant.io/news/regulation/europe-s-crypto-crusade-rages-on</id>
-        <link href="https://thedefiant.io/news/regulation/europe-s-crypto-crusade-rages-on"/>
-        <updated>2025-12-02T00:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Europol shuts down another crypto mixer, while Coinbase reports a new all-time high in law enforcement information requests.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenized Gold Gains Ground as Crypto Markets Wobble]]></title>
-        <id>https://thedefiant.io/news/defi/tokenized-gold-gains-ground-as-crypto-markets-wobble</id>
-        <link href="https://thedefiant.io/news/defi/tokenized-gold-gains-ground-as-crypto-markets-wobble"/>
-        <updated>2025-12-02T00:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Amid falling DeFi activity and a dip in Bitcoin’s price, tokenized commodities offer on-chain investors a safer alternative.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
     <entry>

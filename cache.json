@@ -45,6 +45,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/rwas-became-wall-street-s-gateway-to-crypto-in-2025",
+          "author": "Denis Omelchenko",
+          "description": "In just a year, tokenized real-world assets have gone from an idea to billions in on-chain liquidity, shaking up traditional finance.",
+          "link": "https://thedefiant.io/news/defi/rwas-became-wall-street-s-gateway-to-crypto-in-2025",
+          "publishedOn": "2025-12-25T18:13:15.000Z",
+          "wordCount": null,
+          "title": "RWAs Became Wall Street’s Gateway to Crypto in 2025",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/db7fa317b21dbb2aae191954fec0b846943f7d86a58f255379a28e740da5-37f799e6-f547-45b9-9c20-f044925d4ab7.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/db7fa317b21dbb2aae191954fec0b846943f7d86a58f255379a28e740da5-37f799e6-f547-45b9-9c20-f044925d4ab7.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/stablecoins-became-crypto-s-first-mainstream-use-case-in-2025",
+          "author": "Denis Omelchenko",
+          "description": "From payrolls to real estate, stablecoins were among the few crypto sectors that kept growing throughout the year.",
+          "link": "https://thedefiant.io/news/defi/stablecoins-became-crypto-s-first-mainstream-use-case-in-2025",
+          "publishedOn": "2025-12-25T17:57:58.000Z",
+          "wordCount": null,
+          "title": "Stablecoins Became Crypto’s First Mainstream Use Case in 2025",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/afaf165f41deb2da93af0ce40731fbcb9e9480d2e96e2877be139d11a8dc-dd09de8b-dd51-4d8f-8ed4-c06d9c7a159e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/afaf165f41deb2da93af0ce40731fbcb9e9480d2e96e2877be139d11a8dc-dd09de8b-dd51-4d8f-8ed4-c06d9c7a159e.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/crypto-2026-predictions-include-new-bitcoin-highs-and-a-tokenization-boom",
+          "author": "Jona Jaupi",
+          "description": "Institutional forecasts for 2026 point to steadier markets, real-world tokenization, growing stablecoin adoption, and AI-driven on-chain systems.",
+          "link": "https://thedefiant.io/news/markets/crypto-2026-predictions-include-new-bitcoin-highs-and-a-tokenization-boom",
+          "publishedOn": "2025-12-25T17:42:21.000Z",
+          "wordCount": null,
+          "title": "The Biggest Names in Crypto Predict New Bitcoin Highs and a Tokenization Boom in 2026",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/6381998115116e8eaf8f458e82e2ea5d462e6754103ee4b36b2c2752be5a-6b1054df-cd20-49f7-956b-7bfdba5844e2.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/6381998115116e8eaf8f458e82e2ea5d462e6754103ee4b36b2c2752be5a-6b1054df-cd20-49f7-956b-7bfdba5844e2.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/shift4-launches-multi-chain-stablecoin-support-for-merchants",
           "author": "Denis Omelchenko",
           "description": "The U.S. payments giant, serving hundreds of thousands of businesses, now offers 24/7 settlement in four stablecoins.",
@@ -1247,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/defi/blackrock-s-buidl-fund-now-eligible-as-collateral-on-m0",
           "author": "Jona Jaupi",
-          "description": "The integration gives stablecoin issuers more options and strengthens on-chain liquidity.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/blackrock-s-buidl-fund-now-eligible-as-collateral-on-m0",
           "publishedOn": "2025-12-04T18:19:43.000Z",
           "wordCount": null,
@@ -1292,7 +1337,7 @@
         {
           "id": "https://thedefiant.io/news/markets/crypto-markets-hold-gains-as-bitcoin-trades-above-usd92k",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Most large-cap assets are slightly up today as traders digest jobs data and look ahead to next week’s Fed decision.",
           "link": "https://thedefiant.io/news/markets/crypto-markets-hold-gains-as-bitcoin-trades-above-usd92k",
           "publishedOn": "2025-12-04T15:35:03.000Z",
           "wordCount": null,
@@ -1498,51 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/e36c7d2784fdc0ea3cb98981fc07bf6328c921196801d83ad7d7ee390874-f1010e1f-a10a-483c-82f1-50960a77eb39.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/monad-briefly-dips-below-ico-price",
-          "author": "Squiffs",
-          "description": "The Layer 1 blockchain’s DeFi ecosystem is off to a slow start, with just $150 million in TVL.",
-          "link": "https://thedefiant.io/news/blockchains/monad-briefly-dips-below-ico-price",
-          "publishedOn": "2025-12-02T03:15:36.000Z",
-          "wordCount": null,
-          "title": "Monad Briefly Dips Below ICO Price",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/mon-1-png-ead380cc-3621-485f-ab50-60c87d090c39.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/mon-1-png-ead380cc-3621-485f-ab50-60c87d090c39.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/europe-s-crypto-crusade-rages-on",
-          "author": "Squiffs",
-          "description": "Europol shuts down another crypto mixer, while Coinbase reports a new all-time high in law enforcement information requests.",
-          "link": "https://thedefiant.io/news/regulation/europe-s-crypto-crusade-rages-on",
-          "publishedOn": "2025-12-02T00:40:42.000Z",
-          "wordCount": null,
-          "title": "Europe’s Crypto Crusade Rages On",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/eu-1-png-dcd27e55-9884-4ba9-b2cc-f2d2468edc61.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/eu-1-png-dcd27e55-9884-4ba9-b2cc-f2d2468edc61.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/tokenized-gold-gains-ground-as-crypto-markets-wobble",
-          "author": "Jona Jaupi",
-          "description": "Amid falling DeFi activity and a dip in Bitcoin’s price, tokenized commodities offer on-chain investors a safer alternative.",
-          "link": "https://thedefiant.io/news/defi/tokenized-gold-gains-ground-as-crypto-markets-wobble",
-          "publishedOn": "2025-12-02T00:18:33.000Z",
-          "wordCount": null,
-          "title": "Tokenized Gold Gains Ground as Crypto Markets Wobble",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/gold-1-2-png-eec72f9c-26cf-48a1-8ed3-2f28b2e89f0b.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/gold-1-2-png-eec72f9c-26cf-48a1-8ed3-2f28b2e89f0b.png"
         }
       ]
     }
