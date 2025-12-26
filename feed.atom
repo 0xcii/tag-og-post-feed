@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-26T19:15:43.631Z</id>
+    <id>urn:2025-12-26T20:21:02.496Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-26T19:15:43.631Z</updated>
+    <updated>2025-12-26T20:21:02.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lighter Publishes Operations Code Ahead of TGE]]></title>
+        <id>https://thedefiant.io/news/defi/lighter-publishes-operations-code-ahead-of-tge</id>
+        <link href="https://thedefiant.io/news/defi/lighter-publishes-operations-code-ahead-of-tge"/>
+        <updated>2025-12-26T20:20:12.000Z</updated>
+        <summary type="html"><![CDATA[The leading perp DEX by trading volume is gearing up for its highly anticipated token airdrop.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Passes 'UNIfication' Fee Switch Proposal]]></title>
+        <id>https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal</id>
+        <link href="https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal"/>
+        <updated>2025-12-26T19:50:41.000Z</updated>
+        <summary type="html"><![CDATA[The multi-year saga has finally reached a resolution, with Uniswap’s mechanism to share fee revenue with UNI holders set to go live.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trust Wallet Confirms $7M Stolen in Browser Extension Hack]]></title>
         <id>https://thedefiant.io/news/hacks/trust-wallet-confirms-usd7m-stolen-in-browser-extension-hack</id>
@@ -829,7 +849,6 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-leveraged-sui-etf-on-nasdaq</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-leveraged-sui-etf-on-nasdaq"/>
         <updated>2025-12-05T01:18:20.000Z</updated>
-        <summary type="html"><![CDATA[The new fund, TXXS, gives traders 2x daily exposure to SUI.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -849,6 +868,7 @@
         <id>https://thedefiant.io/news/defi/lighter-to-introduce-spot-trading</id>
         <link href="https://thedefiant.io/news/defi/lighter-to-introduce-spot-trading"/>
         <updated>2025-12-04T21:16:31.000Z</updated>
+        <summary type="html"><![CDATA[The perpetuals exchange is expanding beyond derivatives and into spot asset trading, beginning with ETH.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -991,26 +1011,6 @@
         <summary type="html"><![CDATA[The centralized exchange is set to step further into the real-world asset space.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink’s LINK Jumps 13% as Grayscale ETF Goes Live]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/chainlink-s-link-jumps-13-as-grayscale-etf-goes-live"/>
-        <updated>2025-12-02T18:05:52.000Z</updated>
-        <summary type="html"><![CDATA[The Grayscale Chainlink Trust ETF (GLNK) gives equity investors another way to access LINK.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple’s RLUSD Stablecoin Tops $1B on Ethereum]]></title>
-        <id>https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum</id>
-        <link href="https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum"/>
-        <updated>2025-12-02T17:37:16.000Z</updated>
-        <summary type="html"><![CDATA[Less than a year after launching, Ripple’s RLUSD has crossed $1 billion in circulating supply, with most of its supply now on Ethereum.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
     <entry>
