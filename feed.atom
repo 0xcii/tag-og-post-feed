@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-26T20:21:02.496Z</id>
+    <id>urn:2025-12-26T21:17:43.595Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-26T20:21:02.496Z</updated>
+    <updated>2025-12-26T21:17:43.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi’s Weekly Volume Hits $2.3B, Nearly Double Polymarket’s]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/kalshi-weekly-volume-hits-new-record</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/kalshi-weekly-volume-hits-new-record"/>
+        <updated>2025-12-26T21:06:23.000Z</updated>
+        <summary type="html"><![CDATA[The prediction market’s volumes accelerated over the past seven days to overtake its main rival.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lighter Publishes Operations Code Ahead of TGE]]></title>
         <id>https://thedefiant.io/news/defi/lighter-publishes-operations-code-ahead-of-tge</id>
@@ -20,7 +30,7 @@
         <id>https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal</id>
         <link href="https://thedefiant.io/news/defi/uniswap-passes-unification-fee-switch-proposal"/>
         <updated>2025-12-26T19:50:41.000Z</updated>
-        <summary type="html"><![CDATA[The multi-year saga has finally reached a resolution, with Uniswap’s mechanism to share fee revenue with UNI holders set to go live.]]></summary>
+        <summary type="html"><![CDATA[The multi-year saga has finally reached a resolution, with Uniswap switching on protocol fees, which will be used to burn UNI.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -839,7 +849,6 @@
         <id>https://thedefiant.io/news/tokens/maple-reveals-2m-syrup-token-buyback</id>
         <link href="https://thedefiant.io/news/tokens/maple-reveals-2m-syrup-token-buyback"/>
         <updated>2025-12-05T17:37:06.000Z</updated>
-        <summary type="html"><![CDATA[Maple’s move comes as token buybacks across crypto have grown fivefold over the past year.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -849,6 +858,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-leveraged-sui-etf-on-nasdaq</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-leveraged-sui-etf-on-nasdaq"/>
         <updated>2025-12-05T01:18:20.000Z</updated>
+        <summary type="html"><![CDATA[The new fund, TXXS, gives traders 2x daily exposure to SUI.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -1001,16 +1011,6 @@
         <summary type="html"><![CDATA[The shutdown comes after months of delays on Converge’s mainnet, leaving Terminal Finance without the ecosystem it was built for.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Acquires Backed Finance]]></title>
-        <id>https://thedefiant.io/news/cefi/kraken-acquires-backed-finance</id>
-        <link href="https://thedefiant.io/news/cefi/kraken-acquires-backed-finance"/>
-        <updated>2025-12-02T21:02:03.000Z</updated>
-        <summary type="html"><![CDATA[The centralized exchange is set to step further into the real-world asset space.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
