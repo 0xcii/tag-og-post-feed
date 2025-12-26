@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-26T15:20:07.090Z</id>
+    <id>urn:2025-12-26T16:23:37.509Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-26T15:20:07.090Z</updated>
+    <updated>2025-12-26T16:23:37.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trust Wallet Confirms $7M Stolen in Browser Extension Hack]]></title>
+        <id>https://thedefiant.io/news/hacks/trust-wallet-confirms-usd7m-stolen-in-browser-extension-hack</id>
+        <link href="https://thedefiant.io/news/hacks/trust-wallet-confirms-usd7m-stolen-in-browser-extension-hack"/>
+        <updated>2025-12-26T16:14:19.000Z</updated>
+        <summary type="html"><![CDATA[The crypto wallet said it will compensate users for lost funds after a malicious version was linked to wallets being drained within hours.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Slump as Holiday Trading Stays Quiet]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-slump-as-holiday-trading-stays-quiet</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-slump-as-holiday-trading-stays-quiet"/>
+        <updated>2025-12-26T15:28:20.000Z</updated>
+        <summary type="html"><![CDATA[BTC fails to hold $89,000, while ETH continues to trade below $3,000.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RWAs Became Wall Street’s Gateway to Crypto in 2025]]></title>
         <id>https://thedefiant.io/news/defi/rwas-became-wall-street-s-gateway-to-crypto-in-2025</id>
@@ -829,7 +849,6 @@
         <id>https://thedefiant.io/news/defi/lighter-to-introduce-spot-trading</id>
         <link href="https://thedefiant.io/news/defi/lighter-to-introduce-spot-trading"/>
         <updated>2025-12-04T21:16:31.000Z</updated>
-        <summary type="html"><![CDATA[The perpetuals exchange is expanding beyond derivatives and into spot asset trading, beginning with ETH.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -849,6 +868,7 @@
         <id>https://thedefiant.io/news/defi/blackrock-s-buidl-fund-now-eligible-as-collateral-on-m0</id>
         <link href="https://thedefiant.io/news/defi/blackrock-s-buidl-fund-now-eligible-as-collateral-on-m0"/>
         <updated>2025-12-04T18:19:43.000Z</updated>
+        <summary type="html"><![CDATA[The integration gives stablecoin issuers more options and strengthens on-chain liquidity.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -989,26 +1009,6 @@
         <link href="https://thedefiant.io/news/cefi/ripple-rlusd-stablecoin-tops-one-billion-usd-ethereum"/>
         <updated>2025-12-02T17:37:16.000Z</updated>
         <summary type="html"><![CDATA[Less than a year after launching, Ripple’s RLUSD has crossed $1 billion in circulating supply, with most of its supply now on Ethereum.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Edge Higher as Bitcoin Breaks Back Over $90,000]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-recover-december-2-2025</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-recover-december-2-2025"/>
-        <updated>2025-12-02T15:33:33.000Z</updated>
-        <summary type="html"><![CDATA[ETH, SOL, and BNB post gains, while analysts say the market “appears less worried” now.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalshi, Polymarket Set New Volume Records in November]]></title>
-        <id>https://thedefiant.io/news/markets/kalshi-polymarket-record-spot-volumes-november</id>
-        <link href="https://thedefiant.io/news/markets/kalshi-polymarket-record-spot-volumes-november"/>
-        <updated>2025-12-02T14:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Prediction markets are heating up as Polymarket briefly climbed to the No. 1 spot in the App Store’s sports category.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
