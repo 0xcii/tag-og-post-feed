@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-27T10:19:28.264Z</id>
+    <id>urn:2025-12-27T11:15:37.142Z</id>
     <title>web3::cave</title>
-    <updated>2025-12-27T10:19:28.264Z</updated>
+    <updated>2025-12-27T11:15:37.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1011,15 +1011,6 @@
         <summary type="html"><![CDATA[The shutdown comes after months of delays on Converge’s mainnet, leaving Terminal Finance without the ecosystem it was built for.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adapt or Die]]></title>
-        <id>https://medium.com/p/6d14649bdd90</id>
-        <link href="https://cryptohayes.medium.com/adapt-or-die-6d14649bdd90?source=rss-2f6e06954878------2"/>
-        <updated>2025-11-27T23:02:12.000Z</updated>
-        <author>
-            <name>Arthur Hayes</name>
         </author>
     </entry>
 </feed>
