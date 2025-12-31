@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/zcash-emerges-as-top-performing-large-cap-crypto-of-the-year",
+          "author": "Jona Jaupi",
+          "description": "The privacy-focused token has far outperformed Bitcoin and Ethereum as interest in confidential on-chain transactions surged.",
+          "link": "https://thedefiant.io/news/markets/zcash-emerges-as-top-performing-large-cap-crypto-of-the-year",
+          "publishedOn": "2025-12-31T16:51:44.000Z",
+          "wordCount": null,
+          "title": "Zcash Emerges as Top-Performing Large-Cap Crypto of the Year",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/zcash-rally-png-98ee5391-858c-4898-b590-3ec7da6682cc.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/zcash-rally-png-98ee5391-858c-4898-b590-3ec7da6682cc.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-market-update-december-30-2025",
           "author": "Jona Jaupi",
           "description": "Trading volumes stayed subdued while BTC, ETH and other large-caps rose slightly.",
@@ -1267,7 +1282,7 @@
         {
           "id": "https://thedefiant.io/news/defi/swapper-finance-launches-defi-direct-deposits-via-mastercard",
           "author": "Denis Omelchenko",
-          "description": "The new feature lets users fund DeFi protocols directly with bank cards.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/swapper-finance-launches-defi-direct-deposits-via-mastercard",
           "publishedOn": "2025-12-09T17:00:00.000Z",
           "wordCount": null,
@@ -1282,7 +1297,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/bitfinex-stablechain-mainnet-token-launch",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Early supporters report they’re stuck unable to withdraw funds while STABLE loses value.",
           "link": "https://thedefiant.io/news/blockchains/bitfinex-stablechain-mainnet-token-launch",
           "publishedOn": "2025-12-09T15:41:51.000Z",
           "wordCount": null,
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/f07998fe498b324cc536a3f4be9e86e1e9893488c418071fa538cc0d695e-2dc1d74a-eb34-4508-ab52-0735e5251b6d.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-hold-gains-as-bitcoin-trades-above-usd92k",
-          "author": "Denis Omelchenko",
-          "description": "Most large-cap assets are slightly up today as traders digest jobs data and look ahead to next week’s Fed decision.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-hold-gains-as-bitcoin-trades-above-usd92k",
-          "publishedOn": "2025-12-04T15:35:03.000Z",
-          "wordCount": null,
-          "title": "Crypto Markets Hold Gains as Bitcoin Trades Above $92K",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/46874e80301134bf4d8a4c962cc802fd1747f043432fb9af699171aa1116-13e0d2d2-db13-4e16-ad0a-879459ddfeb3.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/46874e80301134bf4d8a4c962cc802fd1747f043432fb9af699171aa1116-13e0d2d2-db13-4e16-ad0a-879459ddfeb3.png"
         }
       ]
     }
