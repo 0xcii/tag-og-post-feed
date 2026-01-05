@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-05T22:20:03.143Z</id>
+    <id>urn:2026-01-05T23:19:34.607Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-05T22:20:03.143Z</updated>
+    <updated>2026-01-05T23:19:34.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Suavemente]]></title>
+        <id>https://medium.com/p/8df792347347</id>
+        <link href="https://cryptohayes.medium.com/suavemente-8df792347347?source=rss-2f6e06954878------2"/>
+        <updated>2026-01-05T23:02:29.000Z</updated>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Render Soars 30% as AI-Focused Tokens Rally]]></title>
         <id>https://thedefiant.io/news/markets/render-soars-30-as-ai-focused-tokens-rally</id>
