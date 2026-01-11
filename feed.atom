@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-11T07:19:55.179Z</id>
+    <id>urn:2026-01-11T08:26:20.656Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-11T07:19:55.179Z</updated>
+    <updated>2026-01-11T08:26:20.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -953,26 +953,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[SushiSwap approved a plan to sharply increase SUSHI token emissions, with the decision driven almost entirely by a single voting wallet.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interactive Brokers Enables Stablecoin Deposits]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-enables-stablecoin-deposits</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/interactive-brokers-enables-stablecoin-deposits"/>
-        <updated>2025-12-12T20:25:17.000Z</updated>
-        <summary type="html"><![CDATA[Retail traders can now fund their IBKR accounts with stablecoin transfers.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Post Minor Losses Amid Tech Sell-Off]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-post-minor-losses-amid-tech-sell-off</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-post-minor-losses-amid-tech-sell-off"/>
-        <updated>2025-12-12T19:21:08.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin hovered around $90,000 while Ethereum declined by 3.5% on the day.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
