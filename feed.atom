@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-15T16:34:36.398Z</id>
+    <id>urn:2026-01-15T17:30:47.268Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-15T16:34:36.398Z</updated>
+    <updated>2026-01-15T17:30:47.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Inside Stripe’s Crypto Strategy with Privy CEO: Wallets as Global Financial Accounts and the End of Decentralization Dogmas]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/henri-stern-privy-ceo-interview</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/henri-stern-privy-ceo-interview"/>
+        <updated>2026-01-15T17:25:47.000Z</updated>
+        <summary type="html"><![CDATA[Stern says Privy underpins Stripe’s stablecoin stack — and argues crypto needs better trade-offs, not absolutism.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starknet Partners with NEAR to Bring STRK to Solana]]></title>
         <id>https://thedefiant.io/news/defi/strk-goes-live-on-solana-via-near</id>
@@ -125,7 +135,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yield Suffers $3.7M Loss Due to ‘Unintended’ Stablecoin Swap]]></title>
+        <title type="html"><![CDATA[YO Suffers $3.7M Loss Due to ‘Unintended’ Stablecoin Swap]]></title>
         <id>https://thedefiant.io/news/defi/yield-suffers-usd3-7m-loss-due-to-unintended-stablecoin-swap</id>
         <link href="https://thedefiant.io/news/defi/yield-suffers-usd3-7m-loss-due-to-unintended-stablecoin-swap"/>
         <updated>2026-01-13T21:39:13.000Z</updated>
@@ -851,7 +861,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/podcasts-and-videos/podcast/uniswap-is-about-to-turn-on-the-switch-with-hayden-adams</id>
         <link href="https://thedefiant.io/podcasts-and-videos/podcast/uniswap-is-about-to-turn-on-the-switch-with-hayden-adams"/>
         <updated>2025-12-22T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of The Defiant Podcast, Uniswap founder Hayden Adams joins us right as the UNIfication (Unification) proposal has moved to a final governance vote—a sweeping plan from Uniswap Labs + the Uniswap Foundation that would activate protocol fees, introduce a programmatic UNI burn, and realign how value accrues across the Uniswap ecosystem.]]></summary>
         <author>
             <name>Camila Russo</name>
         </author>
@@ -861,6 +870,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud</id>
         <link href="https://thedefiant.io/news/infrastructure/magma-devs-launches-rpc-smart-router-on-google-cloud"/>
         <updated>2025-12-22T15:11:44.000Z</updated>
+        <summary type="html"><![CDATA[The new tool distributes requests across multiple providers to reduce outages and delays on public blockchains.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -1022,16 +1032,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The new research highlights tokenized RWA sector inefficiencies and calls for cross-chain interoperability.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid Proposes Burning 13% of Circulating Supply]]></title>
-        <id>https://thedefiant.io/news/tokens/hyperliquid-proposes-burning-13-percent-of-circulating-token-supply</id>
-        <link href="https://thedefiant.io/news/tokens/hyperliquid-proposes-burning-13-percent-of-circulating-token-supply"/>
-        <updated>2025-12-17T22:01:31.000Z</updated>
-        <summary type="html"><![CDATA[The Hyper Foundation is looking to lock tokens in the Hyperliquid Assistance Fund, permanently removing nearly $1 billion in HYPE from the circulating and total supply.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
