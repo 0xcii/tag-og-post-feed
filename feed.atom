@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-17T23:18:22.154Z</id>
+    <id>urn:2026-01-18T01:50:52.449Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-17T23:18:22.154Z</updated>
+    <updated>2026-01-18T01:50:52.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1023,15 +1023,6 @@ Finally, we zoom out: how should wallets warn users, what does â€œwalkaway testâ
         <summary type="html"><![CDATA[The CEX removed maker and taker fees across spot, derivatives, and tokenized securities as competition intensifies among crypto exchanges.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love Language]]></title>
-        <id>https://medium.com/p/2b38c6786fa0</id>
-        <link href="https://cryptohayes.medium.com/love-language-2b38c6786fa0?source=rss-2f6e06954878------2"/>
-        <updated>2025-12-19T13:02:51.000Z</updated>
-        <author>
-            <name>Arthur Hayes</name>
         </author>
     </entry>
 </feed>
