@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-18T07:19:05.658Z</id>
+    <id>urn:2026-01-18T08:26:23.422Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-18T07:19:05.658Z</updated>
+    <updated>2026-01-18T08:26:23.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1013,16 +1013,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <summary type="html"><![CDATA[The market capitalization of tokenized stocks is approaching $1 billion, from just $32 million at the beginning of the year.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEO Surges as Bitfinex’s Fee Cut Highlights Exchange Competition]]></title>
-        <id>https://thedefiant.io/news/cefi/leo-surges-after-bitfinex-fee-cut</id>
-        <link href="https://thedefiant.io/news/cefi/leo-surges-after-bitfinex-fee-cut"/>
-        <updated>2025-12-19T20:15:46.000Z</updated>
-        <summary type="html"><![CDATA[The CEX removed maker and taker fees across spot, derivatives, and tokenized securities as competition intensifies among crypto exchanges.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
 </feed>
