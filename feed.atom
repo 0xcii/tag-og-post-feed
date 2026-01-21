@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-21T13:44:51.640Z</id>
+    <id>urn:2026-01-21T14:29:56.864Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-21T13:44:51.640Z</updated>
+    <updated>2026-01-21T14:29:56.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bermuda Taps Circle, Coinbase to Build ‘Fully Onchain’ Economy]]></title>
+        <id>https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy</id>
+        <link href="https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy"/>
+        <updated>2026-01-21T14:23:12.000Z</updated>
+        <summary type="html"><![CDATA[Bermuda is gearing up to digitize its entire economy on Base, citing lower transaction costs and more access to global finance as motivating factors.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto VCs Split as Hype Around DePIN Fades]]></title>
+        <id>https://thedefiant.io/news/infrastructure/crypto-vcs-debate-depin</id>
+        <link href="https://thedefiant.io/news/infrastructure/crypto-vcs-debate-depin"/>
+        <updated>2026-01-21T13:53:38.000Z</updated>
+        <summary type="html"><![CDATA[The decentralized physical infrastructure sector faces a reality check as investors debate if it can deliver beyond the hype.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Slide as BTC Falls Below $90K, ETH Drops 7%]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-slide-as-btc-falls-below-usd90k-eth-drops-7</id>
@@ -841,7 +861,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/hacks/flow-back-online-after-exploit-token-drop</id>
         <link href="https://thedefiant.io/news/hacks/flow-back-online-after-exploit-token-drop"/>
         <updated>2025-12-29T19:47:18.000Z</updated>
-        <summary type="html"><![CDATA[The Layer 1 blockchain created by the team behind NFT Top Shot and CryptoKitties was exploited this weekend.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -861,6 +880,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/nfts-and-web3/kalshi-weekly-volume-hits-new-record</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/kalshi-weekly-volume-hits-new-record"/>
         <updated>2025-12-26T21:06:23.000Z</updated>
+        <summary type="html"><![CDATA[The prediction market’s volumes accelerated over the past seven days to overtake its main rival.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -1001,26 +1021,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <link href="https://thedefiant.io/news/defi/aave-founder-calls-contentious-token-alignment-proposal-bad-for-aave"/>
         <updated>2025-12-23T10:06:43.000Z</updated>
         <summary type="html"><![CDATA[Stani Kulechov claims that moving forward with the proposal would negatively impact Aave Protocol, the DAO, and token holders.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Token Launches With Low FDVs Vastly Outperformed Hyped Debuts in 2025: Memento Research]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/token-launches-with-low-fdvs-vastly-outperformed-hyped-debuts-in-2025-memento-research</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/token-launches-with-low-fdvs-vastly-outperformed-hyped-debuts-in-2025-memento-research"/>
-        <updated>2025-12-23T09:04:30.000Z</updated>
-        <summary type="html"><![CDATA[Most tokens launched in 2025 are now trading well below their initial valuations, with projects that started at smaller FDVs outperforming billion-dollar debuts.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Volumes Surge on Layer 2 Speculation]]></title>
-        <id>https://thedefiant.io/news/defi/polymarket-volumes-surge-on-layer-2-speculation</id>
-        <link href="https://thedefiant.io/news/defi/polymarket-volumes-surge-on-layer-2-speculation"/>
-        <updated>2025-12-23T08:01:29.000Z</updated>
-        <summary type="html"><![CDATA[The leading decentralized prediction market clocked its busiest weekend since the 2024 US presidential election.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
