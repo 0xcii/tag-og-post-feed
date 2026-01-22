@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-22T20:27:01.883Z</id>
+    <id>urn:2026-01-22T21:22:28.754Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-22T20:27:01.883Z</updated>
+    <updated>2026-01-22T21:22:28.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RIVER Soars 40% After Justin Sun Backs DeFi Project]]></title>
+        <id>https://thedefiant.io/news/defi/river-soars-40-after-justin-sun-backs-defi-project</id>
+        <link href="https://thedefiant.io/news/defi/river-soars-40-after-justin-sun-backs-defi-project"/>
+        <updated>2026-01-22T21:08:17.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi token jumped after River announced an expansion of its stablecoin infrastructure.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Struggles to Hold $90,000 Despite Stocks and Gold Rallying]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-struggles-to-hold-usd90-000-despite-stocks-and-gold-rallying</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-struggles-to-hold-usd90-000-despite-stocks-and-gold-rallying"/>
+        <updated>2026-01-22T20:24:07.000Z</updated>
+        <summary type="html"><![CDATA[Altcoins posted mild losses as total crypto market capitalization dipped 1% to $3.11 trillion.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Base Overtakes Ethereum, BNB Chain in DEX Volumes for the First Time]]></title>
         <id>https://thedefiant.io/news/defi/base-dex-volume-growth</id>
@@ -841,7 +861,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/markets/memecoins-lead-crypto-rally-pepe-doge-shib</id>
         <link href="https://thedefiant.io/news/markets/memecoins-lead-crypto-rally-pepe-doge-shib"/>
         <updated>2026-01-02T18:01:11.000Z</updated>
-        <summary type="html"><![CDATA[PEPE was the top gainer among large-caps today, while DOGE and SHIB also outperformed.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -861,6 +880,7 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <id>https://thedefiant.io/news/tokens/trump-media-announces-new-token-launch-in-2026</id>
         <link href="https://thedefiant.io/news/tokens/trump-media-announces-new-token-launch-in-2026"/>
         <updated>2025-12-31T20:56:50.000Z</updated>
+        <summary type="html"><![CDATA[With crypto-native’s ready to put 2025 in the rearview mirror, President Donald Trump is set to drop another token in 2026.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -1001,26 +1021,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <link href="https://thedefiant.io/news/markets/crypto-markets-slump-as-holiday-trading-stays-quiet"/>
         <updated>2025-12-26T15:28:20.000Z</updated>
         <summary type="html"><![CDATA[BTC fails to hold $89,000, while ETH continues to trade below $3,000.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RWAs Became Wall Street’s Gateway to Crypto in 2025]]></title>
-        <id>https://thedefiant.io/news/defi/rwas-became-wall-street-s-gateway-to-crypto-in-2025</id>
-        <link href="https://thedefiant.io/news/defi/rwas-became-wall-street-s-gateway-to-crypto-in-2025"/>
-        <updated>2025-12-25T18:13:15.000Z</updated>
-        <summary type="html"><![CDATA[In just a year, tokenized real-world assets have gone from an idea to billions in on-chain liquidity, shaking up traditional finance.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoins Became Crypto’s First Mainstream Use Case in 2025]]></title>
-        <id>https://thedefiant.io/news/defi/stablecoins-became-crypto-s-first-mainstream-use-case-in-2025</id>
-        <link href="https://thedefiant.io/news/defi/stablecoins-became-crypto-s-first-mainstream-use-case-in-2025"/>
-        <updated>2025-12-25T17:57:58.000Z</updated>
-        <summary type="html"><![CDATA[From payrolls to real estate, stablecoins were among the few crypto sectors that kept growing throughout the year.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
