@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-28T22:26:05.569Z</id>
+    <id>urn:2026-01-28T23:25:37.495Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-28T22:26:05.569Z</updated>
+    <updated>2026-01-28T23:25:37.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WisdomTree Expands Tokenized Fund Offerings to Solana]]></title>
+        <id>https://thedefiant.io/news/defi/wisdomtree-expands-tokenized-fund-offerings-to-solana</id>
+        <link href="https://thedefiant.io/news/defi/wisdomtree-expands-tokenized-fund-offerings-to-solana"/>
+        <updated>2026-01-28T22:48:07.000Z</updated>
+        <summary type="html"><![CDATA[WisdomTree's integration of its tokenized fund offerings with the Solana blockchain emphasizes the rising demand for regulated real-world assets (RWAs) within the decentralized finance landscape.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worldcoin Surges 25% as OpenAI Considers its Biometric Technology]]></title>
         <id>https://thedefiant.io/news/blockchains/worldcoin-surges-25-as-openai-considers-its-biometric-technology</id>
@@ -848,7 +858,6 @@
         <id>https://thedefiant.io/podcasts-and-videos/podcast/how-stablecoins-are-rewiring-global-payments-or-borderless-cpo-alex-garn</id>
         <link href="https://thedefiant.io/podcasts-and-videos/podcast/how-stablecoins-are-rewiring-global-payments-or-borderless-cpo-alex-garn"/>
         <updated>2026-01-09T15:50:56.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of The Defiant Podcast, Chris Storaker sits down with Alex Garn, Chief Product Officer at Borderless, to unpack how stablecoins are quietly transforming cross-border payments — and what it actually takes to move money at scale across jurisdictions.]]></summary>
         <author>
             <name>Chris Storaker</name>
         </author>
@@ -858,6 +867,7 @@
         <id>https://thedefiant.io/news/blockchains/optimism-foundation-proposes-using-50-of-revenue-for-buybacks</id>
         <link href="https://thedefiant.io/news/blockchains/optimism-foundation-proposes-using-50-of-revenue-for-buybacks"/>
         <updated>2026-01-08T21:07:14.000Z</updated>
+        <summary type="html"><![CDATA[The vote will begin on Jan 22, and OP buybacks will begin in February if the measure passes.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -1011,16 +1021,6 @@ Finally, we zoom out: how should wallets warn users, what does “walkaway test�
         <link href="https://thedefiant.io/news/defi/infinex-changes-ico-terms-following-low-demand"/>
         <updated>2026-01-06T17:48:37.000Z</updated>
         <summary type="html"><![CDATA[The team has removed contribution caps and changed the allocation distribution process.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morgan Stanley Unveils Spot Bitcoin and Solana ETFs]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-files-for-spot-btc-and-sol-etfs</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-files-for-spot-btc-and-sol-etfs"/>
-        <updated>2026-01-06T17:47:19.000Z</updated>
-        <summary type="html"><![CDATA[One analyst called the filings a “shocker” as the first major U.S. bank enters the spot crypto ETF arena.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
