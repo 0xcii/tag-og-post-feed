@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/base-ai-agent-deployers-rally-as-clawd-surges",
+          "author": "Squiffs",
+          "description": "The CLANKER and BANKR tokens are up 24% and 34% as attention turns back towards the AI agent ecosystem on Base.",
+          "link": "https://thedefiant.io/news/markets/base-ai-agent-deployers-rally-as-clawd-surges",
+          "publishedOn": "2026-01-28T21:09:52.000Z",
+          "wordCount": null,
+          "title": "Base AI Agent Deployers Rally as CLAWD Surges",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1769635023084-png-000fba9a-7c09-4299-a62b-dab3976a50b5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1769635023084-png-000fba9a-7c09-4299-a62b-dab3976a50b5.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/fidelity-s-choice-of-ethereum-for-its-stablecoin-puts-focus-on-public-blockchains",
           "author": "Jona Jaupi",
           "description": "Industry experts say Fidelity’s decision to launch FIDD on Ethereum could signal growing institutional comfort with public blockchain infrastructure.",
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-extends-selloff-as-investors-turn-cautious",
           "author": "Jona Jaupi",
-          "description": "Bitcoin and Ether edge lower as more macroeconomic data points to a cooling job market.",
+          "description": "",
           "link": "https://thedefiant.io/news/markets/bitcoin-extends-selloff-as-investors-turn-cautious",
           "publishedOn": "2026-01-08T18:33:08.000Z",
           "wordCount": null,
@@ -1302,7 +1317,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/zcash-plunges-20-after-entire-core-team-exits-amid-dispute",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "The former CEO pointed to governance changes at Bootstrap, the Zcash-linked nonprofit.",
           "link": "https://thedefiant.io/news/blockchains/zcash-plunges-20-after-entire-core-team-exits-amid-dispute",
           "publishedOn": "2026-01-08T17:44:48.000Z",
           "wordCount": null,
@@ -1538,21 +1553,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/a390a571199f551fa9b04d076eede53cfd689dc21a48899a5a38df530d6f-3ca6acff-e6b9-4361-9168-725c556de14a.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/starknet-restores-network-after-four-hour-outage",
-          "author": "Jona Jaupi",
-          "description": "The disruption marks the second major incident since Starknet’s Grinta upgrade last year.",
-          "link": "https://thedefiant.io/news/blockchains/starknet-restores-network-after-four-hour-outage",
-          "publishedOn": "2026-01-05T18:44:01.000Z",
-          "wordCount": null,
-          "title": "Starknet Restores Network After Four-Hour Outage",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/strk-1-1-png-42c75e5d-f0f1-41fb-ae4a-2625531fd566.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/strk-1-1-png-42c75e5d-f0f1-41fb-ae4a-2625531fd566.png"
         }
       ]
     }
