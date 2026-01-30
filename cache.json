@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum",
+          "author": "Jona Jaupi",
+          "description": "ETF buying, staking and corporate holdings continue to reduce liquid ETH.",
+          "link": "https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum",
+          "publishedOn": "2026-01-30T20:22:08.000Z",
+          "wordCount": null,
+          "title": "Ethereum Supply Tightens With 45% of ETH Locked: Sygnum",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1769804563715-png-3b213eec-dc9b-4f70-ae39-42fe538c3710.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1769804563715-png-3b213eec-dc9b-4f70-ae39-42fe538c3710.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/binance-plans-to-buy-usd1-billion-of-bitcoin",
           "author": "DefAInt",
           "description": "Binance plans to convert its $1 billion SAFU fund into BTC within the next month.",
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/polygon-to-become-us-regulated-payments-platform",
           "author": "Squiffs",
-          "description": "The company acquired Coinme and Sequence, adopting their licenses and enabling operations in 48 states.",
+          "description": "",
           "link": "https://thedefiant.io/news/blockchains/polygon-to-become-us-regulated-payments-platform",
           "publishedOn": "2026-01-13T20:50:28.000Z",
           "wordCount": null,
@@ -1302,7 +1317,7 @@
         {
           "id": "https://thedefiant.io/news/markets/eric-adams-backed-nyc-token-rocked-by-rug-pull-allegations",
           "author": "Jona Jaupi",
-          "description": "",
+          "description": "A wallet linked to the NYC token deployer removed about $2.5 million in USDC liquidity, according to on-chain analysts.",
           "link": "https://thedefiant.io/news/markets/eric-adams-backed-nyc-token-rocked-by-rug-pull-allegations",
           "publishedOn": "2026-01-13T17:48:43.000Z",
           "wordCount": null,
@@ -1538,21 +1553,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/6fa58d9a3ad02964466dbafc636eda42123429c3e1da6cfd47b93f606cec-4a08435a-75ae-492d-8c0f-5dad24f58376.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/white-whale-memecoin-surges-past-usd100-million-valuation",
-          "author": "Squiffs",
-          "description": "The White Whale memecoin marks the first pumpfun token to surpass a $100 million market capitalization in almost a year.",
-          "link": "https://thedefiant.io/news/markets/white-whale-memecoin-surges-past-usd100-million-valuation",
-          "publishedOn": "2026-01-08T20:56:36.000Z",
-          "wordCount": null,
-          "title": "White Whale Memecoin Surges Past $100 Million Valuation",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/e9e550f35c243d4fa811636ec53c83f256e0e8efc049a7f3648e7a35c7c4-307a0f46-bcec-46ef-885c-a53a0bcd1a3d.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/e9e550f35c243d4fa811636ec53c83f256e0e8efc049a7f3648e7a35c7c4-307a0f46-bcec-46ef-885c-a53a0bcd1a3d.png"
         }
       ]
     }
