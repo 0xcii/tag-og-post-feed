@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-30T20:28:58.221Z</id>
+    <id>urn:2026-01-30T21:27:39.217Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-30T20:28:58.221Z</updated>
+    <updated>2026-01-30T21:27:39.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why OG DeFi Failed | Kain Warwick, Founder of Synthetix]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/why-og-defi-failed-or-kain-warwick-founder-of-syntheti</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/why-og-defi-failed-or-kain-warwick-founder-of-syntheti"/>
+        <updated>2026-01-30T21:20:44.000Z</updated>
+        <summary type="html"><![CDATA[Kain Warwick—DeFi OG and founder of Synthetix and Infinex—is back on The Defiant Podcast with Camila Russo for a no-BS conversation at a pivotal moment: Infinex just ran its INX token sale and is heading into its TGE.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEGA Premarket Plummets Ahead of Mainnet Launch]]></title>
+        <id>https://thedefiant.io/news/blockchains/mega-premarket-plummets-ahead-of-mainnet-launch</id>
+        <link href="https://thedefiant.io/news/blockchains/mega-premarket-plummets-ahead-of-mainnet-launch"/>
+        <updated>2026-01-30T20:58:25.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Layer 2 network MegaETH is slated to launch its mainnet and native token on Feb. 9.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ink-based Perp DEX Nado Airdrops Official NFT Collection]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/ink-based-perp-dex-nado-airdrops-official-nft-collection</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/ink-based-perp-dex-nado-airdrops-official-nft-collection"/>
+        <updated>2026-01-30T20:43:08.000Z</updated>
+        <summary type="html"><![CDATA[The limited-run NFT collection was claimable by top users last week and will offer Ink Points boosts going forward.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Supply Tightens With 45% of ETH Locked: Sygnum]]></title>
         <id>https://thedefiant.io/news/research-and-opinion/ethereum-supply-tightens-with-45-of-eth-locked-sygnum</id>
@@ -829,7 +859,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/markets/bitcoin-climbs-back-over-usd95k-as-traders-digest-new-inflation-data</id>
         <link href="https://thedefiant.io/news/markets/bitcoin-climbs-back-over-usd95k-as-traders-digest-new-inflation-data"/>
         <updated>2026-01-13T23:05:04.000Z</updated>
-        <summary type="html"><![CDATA[The latest CPI report shows U.S. inflation held steady in December, helping stabilize sentiment as investors remain cautious amid fragile crypto market consolidation.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -859,6 +888,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/blockchains/polygon-to-become-us-regulated-payments-platform</id>
         <link href="https://thedefiant.io/news/blockchains/polygon-to-become-us-regulated-payments-platform"/>
         <updated>2026-01-13T20:50:28.000Z</updated>
+        <summary type="html"><![CDATA[The company acquired Coinme and Sequence, adopting their licenses and enabling operations in 48 states.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
@@ -989,36 +1019,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <link href="https://thedefiant.io/news/blockchains/polygon-leads-altcoin-surge-with-15-rally"/>
         <updated>2026-01-09T19:31:39.000Z</updated>
         <summary type="html"><![CDATA[POL, formerly MATIC, is soaring after the Polygon CEO shared the chain’s vision for its Open Money Stack.]]></summary>
-        <author>
-            <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Truebit Hack Wipes Out TRU in First Major Exploit of 2026]]></title>
-        <id>https://thedefiant.io/news/hacks/truebit-hack-first-major-crypto-exploit-of-2026</id>
-        <link href="https://thedefiant.io/news/hacks/truebit-hack-first-major-crypto-exploit-of-2026"/>
-        <updated>2026-01-09T18:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Security experts warned that most hacked projects never fully recover after major attacks.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Stablecoins Are Rewiring Global Payments | Borderless CPO Alex Garn]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/how-stablecoins-are-rewiring-global-payments-or-borderless-cpo-alex-garn</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/how-stablecoins-are-rewiring-global-payments-or-borderless-cpo-alex-garn"/>
-        <updated>2026-01-09T15:50:56.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of The Defiant Podcast, Chris Storaker sits down with Alex Garn, Chief Product Officer at Borderless, to unpack how stablecoins are quietly transforming cross-border payments — and what it actually takes to move money at scale across jurisdictions.]]></summary>
-        <author>
-            <name>Chris Storaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism Foundation Proposes Using 50% of Revenue for Buybacks]]></title>
-        <id>https://thedefiant.io/news/blockchains/optimism-foundation-proposes-using-50-of-revenue-for-buybacks</id>
-        <link href="https://thedefiant.io/news/blockchains/optimism-foundation-proposes-using-50-of-revenue-for-buybacks"/>
-        <updated>2026-01-08T21:07:14.000Z</updated>
-        <summary type="html"><![CDATA[The vote will begin on Jan 22, and OP buybacks will begin in February if the measure passes.]]></summary>
         <author>
             <name>Squiffs</name>
         </author>
