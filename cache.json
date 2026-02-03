@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tokens/base-ai-agent-ecosystem-surges-with-rise-of-moltbook",
+          "author": "Denis Omelchenko",
+          "description": "Activity on Base-based AI-powered launchpad Clanker has surged as traders speculate on the rise of autonomous AI agents.",
+          "link": "https://thedefiant.io/news/tokens/base-ai-agent-ecosystem-surges-with-rise-of-moltbook",
+          "publishedOn": "2026-02-03T19:34:49.000Z",
+          "wordCount": null,
+          "title": "Base AI Agent Ecosystem Surges as AI Social Platform Moltbook Goes Viral",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ai-crypto-jpg-ef58f22f-d067-4c00-b5b2-3f3f9cdb21ec.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ai-crypto-jpg-ef58f22f-d067-4c00-b5b2-3f3f9cdb21ec.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/crypto-markets-slide-as-government-shutdown-delays-jobs-report",
           "author": "Jona Jaupi",
           "description": "Bitcoin and Ethereum fell as investors weighed delayed economic data, tightening risk appetite, and mixed ETF flows.",
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/news/research-and-opinion/it-s-not-just-crypto-twitter-that-s-dead-experts-say-broader-retail-interest-is-waning",
           "author": "Denis Omelchenko",
-          "description": "InfoFi-fueled “AI slop” isn’t the only reason CT feels more empty, as social and trading data across platforms shows retail participants are disengaging.",
+          "description": "",
           "link": "https://thedefiant.io/news/research-and-opinion/it-s-not-just-crypto-twitter-that-s-dead-experts-say-broader-retail-interest-is-waning",
           "publishedOn": "2026-01-16T17:30:34.000Z",
           "wordCount": null,
@@ -1302,7 +1317,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-below-usd95k-crypto-market-update-jan-16-2026",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "Crypto markets are mostly lower today as momentum fades and analysts flag a key range for Bitcoin.",
           "link": "https://thedefiant.io/news/markets/bitcoin-below-usd95k-crypto-market-update-jan-16-2026",
           "publishedOn": "2026-01-16T16:05:40.000Z",
           "wordCount": null,
@@ -1538,21 +1553,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/6bfdc9dfd21ec22fd0e700cf43c7140262e84f65b85f35754788285254e8-a26a5682-84a8-4350-83f6-273197cff559.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-climbs-back-over-usd95k-as-traders-digest-new-inflation-data",
-          "author": "Denis Omelchenko",
-          "description": "The latest CPI report shows U.S. inflation held steady in December, helping stabilize sentiment as investors remain cautious amid fragile crypto market consolidation.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-climbs-back-over-usd95k-as-traders-digest-new-inflation-data",
-          "publishedOn": "2026-01-13T23:05:04.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Climbs Back Over $95K as Traders Digest New Inflation Data",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/653a7c066bfc09648b766fc12effcc41010cd81993a934356112e444de33-6fcbfd13-ca8f-411a-8d4a-d6014a574472.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/653a7c066bfc09648b766fc12effcc41010cd81993a934356112e444de33-6fcbfd13-ca8f-411a-8d4a-d6014a574472.png"
         }
       ]
     }
