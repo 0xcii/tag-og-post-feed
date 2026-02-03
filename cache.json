@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/vitalik-says-ethereum-s-layer-2-vision-no-longer-makes-sense",
+          "author": "Squiffs",
+          "description": "The Ethereum co-founder argues for a pivot from the rollup-centric roadmap, citing progress made towards scaling the base layer.",
+          "link": "https://thedefiant.io/news/blockchains/vitalik-says-ethereum-s-layer-2-vision-no-longer-makes-sense",
+          "publishedOn": "2026-02-03T19:44:35.000Z",
+          "wordCount": null,
+          "title": "Vitalik Says Ethereum’s Layer 2 Vision ‘No Longer Makes Sense’",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1770147911345-png-8b89c773-422d-491e-8720-db9957421482.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1770147911345-png-8b89c773-422d-491e-8720-db9957421482.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tokens/base-ai-agent-ecosystem-surges-with-rise-of-moltbook",
           "author": "Denis Omelchenko",
           "description": "Activity on Base-based AI-powered launchpad Clanker has surged as traders speculate on the rise of autonomous AI agents.",
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/news/defi/crypto-cards-rival-stablecoin-transfers-as-spending-tops-usd18-billion-artemis",
           "author": "Denis Omelchenko",
-          "description": "Crypto-linked cards are emerging as a key channel for stablecoin usage, with annualized volumes now catching up to peer-to-peer on-chain transfers.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/crypto-cards-rival-stablecoin-transfers-as-spending-tops-usd18-billion-artemis",
           "publishedOn": "2026-01-16T18:31:30.000Z",
           "wordCount": null,
@@ -1302,7 +1317,7 @@
         {
           "id": "https://thedefiant.io/news/research-and-opinion/it-s-not-just-crypto-twitter-that-s-dead-experts-say-broader-retail-interest-is-waning",
           "author": "Denis Omelchenko",
-          "description": "",
+          "description": "InfoFi-fueled “AI slop” isn’t the only reason CT feels more empty, as social and trading data across platforms shows retail participants are disengaging.",
           "link": "https://thedefiant.io/news/research-and-opinion/it-s-not-just-crypto-twitter-that-s-dead-experts-say-broader-retail-interest-is-waning",
           "publishedOn": "2026-01-16T17:30:34.000Z",
           "wordCount": null,
@@ -1538,21 +1553,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/6632ab9b9bedbd8d39592a6a22ea334685b05ea15e363696baff27cd516c-334848c7-658c-4e84-b6fd-46333bf1a28b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/mantra-cuts-staff-after-token-crash",
-          "author": "Denis Omelchenko",
-          "description": "Mantra’s native token lost most of its value last April after what the project’s founder described as “reckless forced liquidations” by CEXs.",
-          "link": "https://thedefiant.io/news/blockchains/mantra-cuts-staff-after-token-crash",
-          "publishedOn": "2026-01-14T15:31:35.000Z",
-          "wordCount": null,
-          "title": "Mantra Cuts Staff Less Than a Year After OM Crashed 90%",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/6bfdc9dfd21ec22fd0e700cf43c7140262e84f65b85f35754788285254e8-a26a5682-84a8-4350-83f6-273197cff559.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/6bfdc9dfd21ec22fd0e700cf43c7140262e84f65b85f35754788285254e8-a26a5682-84a8-4350-83f6-273197cff559.png"
         }
       ]
     }
