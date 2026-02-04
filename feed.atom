@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-04T14:04:56.355Z</id>
+    <id>urn:2026-02-04T15:41:40.036Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-04T14:04:56.355Z</updated>
+    <updated>2026-02-04T15:41:40.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Euro Stablecoin Boom Will Be Driven by RWA Tokenization, Not Payments: S&amp; P Global]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/euro-stablecoin-growth-2030-report-s-and-p-global</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/euro-stablecoin-growth-2030-report-s-and-p-global"/>
+        <updated>2026-02-04T15:27:32.000Z</updated>
+        <summary type="html"><![CDATA[EUR-pegged stablecoins are set to grow 800x-1,600x by 2030, S&P projects.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Limitless Token Rallies as Monthly Volume Tops $200 Million]]></title>
         <id>https://thedefiant.io/news/defi/limitless-token-rallies-as-monthly-volume-tops-usd200-million</id>
@@ -840,7 +850,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/defi/bags-launchpad-activity-surges-after-gas-token-soars-700</id>
         <link href="https://thedefiant.io/news/defi/bags-launchpad-activity-surges-after-gas-token-soars-700"/>
         <updated>2026-01-16T19:27:31.000Z</updated>
-        <summary type="html"><![CDATA[The Solana-based launchpad is gaining market share amid a resurgence in creator-linked coins.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
@@ -850,6 +859,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/nfts-and-web3/base-app-pivots-to-trading-ditching-socialfi-focus</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/base-app-pivots-to-trading-ditching-socialfi-focus"/>
         <updated>2026-01-16T18:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Base lead Jesse Pollak said the web3 app will focus more on trading features, dialing back its social-heavy approach.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -1011,16 +1021,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[The ‘dino’ token surged from about $55 to $86 amid the ongoing privacy coin rally.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Becomes Preferred Laundering Route For Impersonation Scams: Chainalysis]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/defi-becomes-preferred-laundering-route-for-impersonation-scams-chainalysis</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/defi-becomes-preferred-laundering-route-for-impersonation-scams-chainalysis"/>
-        <updated>2026-01-14T17:35:18.000Z</updated>
-        <summary type="html"><![CDATA[Crypto scammers are increasingly using DeFi protocols, with total losses exceeding $17 billion in 2025.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
 </feed>
