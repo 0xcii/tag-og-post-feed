@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-05T02:02:34.615Z</id>
+    <id>urn:2026-02-05T04:46:39.155Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-05T02:02:34.615Z</updated>
+    <updated>2026-02-05T04:46:39.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -850,6 +850,7 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://thedefiant.io/news/markets/crypto-markets-slide-as-btc-falls-below-usd90k-eth-drops-7</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-slide-as-btc-falls-below-usd90k-eth-drops-7"/>
         <updated>2026-01-20T22:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Tuesday’s sell-off wiped $713M in leveraged positions and came after Trump’s Greenland tariff threats.]]></summary>
         <author>
             <name>Jona Jaupi</name>
         </author>
