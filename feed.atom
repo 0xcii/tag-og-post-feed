@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-05T19:36:09.331Z</id>
+    <id>urn:2026-02-05T20:33:00.402Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-05T19:36:09.331Z</updated>
+    <updated>2026-02-05T20:33:00.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ETHZilla to Tokenize $4.7 Million in Manufactured Home Loans on Ethereum Layer 2]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/ethzilla-to-tokenize-4-7-million-in-manufactured-home-loans</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/ethzilla-to-tokenize-4-7-million-in-manufactured-home-loans"/>
+        <updated>2026-02-05T19:56:42.000Z</updated>
+        <summary type="html"><![CDATA[ETHZilla plans to tokenize the loan portfolio into a cash-flow-generating manufactured home loan token.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Falls Below $2,000 as Crypto Sell-Off Deepens]]></title>
+        <id>https://thedefiant.io/news/markets/ethereum-falls-below-usd2-000-as-crypto-sell-off-deepens</id>
+        <link href="https://thedefiant.io/news/markets/ethereum-falls-below-usd2-000-as-crypto-sell-off-deepens"/>
+        <updated>2026-02-05T19:53:53.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin plunged under $66,000 while most altcoins cratered.]]></summary>
+        <author>
+            <name>Jona Jaupi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aptos-Based Perp DEX Merkle Trade Shutters Business]]></title>
         <id>https://thedefiant.io/news/defi/aptos-based-perp-dex-merkle-trade-shutters-business</id>
@@ -991,26 +1011,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <link href="https://thedefiant.io/news/nfts-and-web3/base-app-pivots-to-trading-ditching-socialfi-focus"/>
         <updated>2026-01-16T18:57:59.000Z</updated>
         <summary type="html"><![CDATA[Base lead Jesse Pollak said the web3 app will focus more on trading features, dialing back its social-heavy approach.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Cards Rival Stablecoin Transfers as Spending Tops $18 Billion: Artemis]]></title>
-        <id>https://thedefiant.io/news/defi/crypto-cards-rival-stablecoin-transfers-as-spending-tops-usd18-billion-artemis</id>
-        <link href="https://thedefiant.io/news/defi/crypto-cards-rival-stablecoin-transfers-as-spending-tops-usd18-billion-artemis"/>
-        <updated>2026-01-16T18:31:30.000Z</updated>
-        <summary type="html"><![CDATA[Crypto-linked cards are emerging as a key channel for stablecoin usage, with annualized volumes now catching up to peer-to-peer on-chain transfers.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Not Just Crypto Twitter That’s Dead — Experts Say Broader Retail Interest Is Waning]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/it-s-not-just-crypto-twitter-that-s-dead-experts-say-broader-retail-interest-is-waning</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/it-s-not-just-crypto-twitter-that-s-dead-experts-say-broader-retail-interest-is-waning"/>
-        <updated>2026-01-16T17:30:34.000Z</updated>
-        <summary type="html"><![CDATA[InfoFi-fueled “AI slop” isn’t the only reason CT feels more empty, as social and trading data across platforms shows retail participants are disengaging.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>

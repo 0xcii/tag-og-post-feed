@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/ethzilla-to-tokenize-4-7-million-in-manufactured-home-loans",
+          "author": "DefAInt",
+          "description": "ETHZilla plans to tokenize the loan portfolio into a cash-flow-generating manufactured home loan token.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/ethzilla-to-tokenize-4-7-million-in-manufactured-home-loans",
+          "publishedOn": "2026-02-05T19:56:42.000Z",
+          "wordCount": 4319,
+          "title": "ETHZilla to Tokenize $4.7 Million in Manufactured Home Loans on Ethereum Layer 2",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/967c2038f2d64c303e5bef48d7ac7d99cb066ced-1792x1024.png",
+            "length": "1000000",
+            "type": "null"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/967c2038f2d64c303e5bef48d7ac7d99cb066ced-1792x1024.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/ethereum-falls-below-usd2-000-as-crypto-sell-off-deepens",
+          "author": "Jona Jaupi",
+          "description": "Bitcoin plunged under $66,000 while most altcoins cratered.",
+          "link": "https://thedefiant.io/news/markets/ethereum-falls-below-usd2-000-as-crypto-sell-off-deepens",
+          "publishedOn": "2026-02-05T19:53:53.000Z",
+          "wordCount": 4969,
+          "title": "Ethereum Falls Below $2,000 as Crypto Sell-Off Deepens",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1770321540342-png-ed38e4c2-e278-48b2-bf3b-42cd890d2d89.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1770321540342-png-ed38e4c2-e278-48b2-bf3b-42cd890d2d89.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/aptos-based-perp-dex-merkle-trade-shutters-business",
           "author": "Denis Omelchenko",
           "description": "The move comes amid a broader Aptos TVL decline and less than two years after Merkle closed a $2 million seed round with participation from Aptos Labs.",
@@ -1513,36 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/59737e0fe17ba64416bb6e857d9ad61828d8d46cc5658aea6da72b833792-edd0df37-a03b-4a34-92d4-162e1682060c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/crypto-cards-rival-stablecoin-transfers-as-spending-tops-usd18-billion-artemis",
-          "author": "Denis Omelchenko",
-          "description": "Crypto-linked cards are emerging as a key channel for stablecoin usage, with annualized volumes now catching up to peer-to-peer on-chain transfers.",
-          "link": "https://thedefiant.io/news/defi/crypto-cards-rival-stablecoin-transfers-as-spending-tops-usd18-billion-artemis",
-          "publishedOn": "2026-01-16T18:31:30.000Z",
-          "wordCount": 4653,
-          "title": "Crypto Cards Rival Stablecoin Transfers as Spending Tops $18 Billion: Artemis",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1768588293969-png-1be603e6-1bf1-478d-8c86-ed0b3e021f35.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1768588293969-png-1be603e6-1bf1-478d-8c86-ed0b3e021f35.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/it-s-not-just-crypto-twitter-that-s-dead-experts-say-broader-retail-interest-is-waning",
-          "author": "Denis Omelchenko",
-          "description": "InfoFi-fueled “AI slop” isn’t the only reason CT feels more empty, as social and trading data across platforms shows retail participants are disengaging.",
-          "link": "https://thedefiant.io/news/research-and-opinion/it-s-not-just-crypto-twitter-that-s-dead-experts-say-broader-retail-interest-is-waning",
-          "publishedOn": "2026-01-16T17:30:34.000Z",
-          "wordCount": 6600,
-          "title": "It’s Not Just Crypto Twitter That’s Dead — Experts Say Broader Retail Interest Is Waning",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/dd0ae2854f1752b5c5ae9a81b82bf49ef18a46b4aed081fdbf920548b55e-a26425cf-68d1-4fa4-a336-058ac72cb870.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/dd0ae2854f1752b5c5ae9a81b82bf49ef18a46b4aed081fdbf920548b55e-a26425cf-68d1-4fa4-a336-058ac72cb870.png"
         }
       ]
     }
