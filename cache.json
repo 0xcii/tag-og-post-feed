@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aci-proposes-pausing-three-layer-2-deployments-citing-weak-revenue",
+          "author": "Denis Omelchenko",
+          "description": "The proposal also includes requiring any new deployment to guarantee at least $2 million in annual revenue to Aave.",
+          "link": "https://thedefiant.io/news/defi/aci-proposes-pausing-three-layer-2-deployments-citing-weak-revenue",
+          "publishedOn": "2026-02-05T16:00:13.000Z",
+          "wordCount": 4717,
+          "title": "Aave Delegate Platform Proposes Pausing Three L2 Deployments Citing Weak Revenue",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/aave-l2s-jpg-205d4cb7-e143-4767-a751-c5f1d5ef28ce.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/aave-l2s-jpg-205d4cb7-e143-4767-a751-c5f1d5ef28ce.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/circle-partners-with-polymarket-to-integrate-native-udsc",
           "author": "Jona Jaupi",
           "description": "The move comes as crypto prediction markets continue to rise in popularity, seeing record volumes.",
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/crypto-prediction-markets-hit-tvl-all-time-high",
           "author": "Denis Omelchenko",
-          "description": "The total value locked (TVL) across crypto-focused prediction markets hit a new high this week, reaching above $550 million, according to data from DefiLlama. The latest milestone surpasses the sector’s previous all-time high, which was driven by on-chain prediction marketplace Polymarket and set during the 2024 U.S. presidential elections.",
+          "description": "The total value locked across crypto prediction markets broke above its previous U.S. presidential election-fueled ATH.",
           "link": "https://thedefiant.io/news/nfts-and-web3/crypto-prediction-markets-hit-tvl-all-time-high",
           "publishedOn": "2026-01-21T17:10:58.000Z",
           "wordCount": 4705,
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/97ee847f4fa8e45e7fcc70f9be5714bc27a1396e926c5ea5fc9fec75e04c-3ccdbd9b-96ba-4c9c-a266-d6ba65f8c15c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/galaxy-tokenizes-first-clo-on-avalanche-with-usd50m-grove-allocation",
-          "author": "Jona Jaupi",
-          "description": "Galaxy CLO 2025-1 totals $75 million and brings a private credit deal onchain.",
-          "link": "https://thedefiant.io/news/defi/galaxy-tokenizes-first-clo-on-avalanche-with-usd50m-grove-allocation",
-          "publishedOn": "2026-01-15T21:51:26.000Z",
-          "wordCount": 4648,
-          "title": "Galaxy Tokenizes First CLO on Avalanche With $50M Grove Allocation",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1768514122424-png-407bdd83-e347-42dd-8abe-70930571e13b.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1768514122424-png-407bdd83-e347-42dd-8abe-70930571e13b.png"
         }
       ]
     }
