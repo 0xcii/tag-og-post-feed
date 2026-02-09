@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-recovers-usd70-000-market-update-feb-9-2026",
+          "author": "Denis Omelchenko",
+          "description": "BTC is trading sideways around $68K-$71K since Thursday’s flash crash, but losses across major tokens continue.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-recovers-usd70-000-market-update-feb-9-2026",
+          "publishedOn": "2026-02-09T15:22:12.000Z",
+          "wordCount": 5073,
+          "title": "Bitcoin Recovers $70,000 Levels After Multi-Billion Dollar Crash",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/btc-city-down-jpg-3d8e7649-d689-4007-b468-b0838081798b.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/btc-city-down-jpg-3d8e7649-d689-4007-b468-b0838081798b.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-selloff-sparks-hedge-fund-speculation-around-blackrock-etf",
           "author": "Jona Jaupi",
           "description": "Traders suggest unusual activity in IBIT may point to Hong Kong–based hedge funds, though no hard evidence has emerged.",
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/markets/bitcoin-trades-near-usd88000-crypto-market-update-jan-26-2026",
           "author": "Denis Omelchenko",
-          "description": "Crypto markets continued to slump at the start of the week, with Bitcoin sliding further below the closely watched $90,000 level since Sunday, as heavy ETF outflows and rising geopolitical uncertainty put pressure on market sentiment.",
+          "description": "Most of the top-10 assets are flat or slightly down today, with the exception of XRP, which showed modest gains.",
           "link": "https://thedefiant.io/news/markets/bitcoin-trades-near-usd88000-crypto-market-update-jan-26-2026",
           "publishedOn": "2026-01-26T15:52:11.000Z",
           "wordCount": 5426,
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/e6053229f9aa40b89c7daec98aec1fc7ba81f92902b39a11f261c80d9cc6-eb822c6e-61fb-4643-b6bc-2e76d55f105d.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy",
-          "author": "Denis Omelchenko",
-          "description": "Bermuda is gearing up to digitize its entire economy on Base, citing lower transaction costs and more access to global finance as motivating factors.",
-          "link": "https://thedefiant.io/news/regulation/bermuda-taps-circle-coinbase-for-onchain-national-economy",
-          "publishedOn": "2026-01-21T14:23:12.000Z",
-          "wordCount": 4643,
-          "title": "Bermuda Taps Circle, Coinbase to Build ‘Fully Onchain’ Economy",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/9c556a8654428f78718c4a818f849c510b685d5837e208b8d25ead5aa8bb-5601cac3-6dbd-48f5-9685-a20820bf6905.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/9c556a8654428f78718c4a818f849c510b685d5837e208b8d25ead5aa8bb-5601cac3-6dbd-48f5-9685-a20820bf6905.png"
         }
       ]
     }
