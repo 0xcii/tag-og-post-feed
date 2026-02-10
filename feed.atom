@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-10T19:57:58.482Z</id>
+    <id>urn:2026-02-10T20:53:08.345Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-10T19:57:58.482Z</updated>
+    <updated>2026-02-10T20:53:08.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Onchain Options Volumes Hit All-Time Highs as Lending Yields Dry Up]]></title>
+        <id>https://thedefiant.io/news/defi/onchain-options-volumes-hit-all-time-highs-as-lending-yields-dry-up</id>
+        <link href="https://thedefiant.io/news/defi/onchain-options-volumes-hit-all-time-highs-as-lending-yields-dry-up"/>
+        <updated>2026-02-10T20:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Options premium volumes and trading activity are ramping up as users explore new areas in DeFi.]]></summary>
+        <author>
+            <name>Squiffs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balancer DAO Caps Recovery Bounty at 10% After $128M Exploit]]></title>
+        <id>https://thedefiant.io/news/hacks/balancer-dao-caps-recovery-bounty-at-10-percent-after-november-exploit</id>
+        <link href="https://thedefiant.io/news/hacks/balancer-dao-caps-recovery-bounty-at-10-percent-after-november-exploit"/>
+        <updated>2026-02-10T20:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Balancer’s security team had earlier posted a 20% one-time offer to the attacker behind the November exploit.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaito and Polymarket Unveil 'Attention Markets']]></title>
         <id>https://thedefiant.io/news/defi/kaito-and-polymarket-unveil-attention-markets</id>
@@ -991,26 +1011,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <link href="https://thedefiant.io/news/defi/base-dex-volume-growth"/>
         <updated>2026-01-22T18:28:12.000Z</updated>
         <summary type="html"><![CDATA[Accelerated activity on Base deployments of Uniswap and Aerodrome drove the growth.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoins Could Reach 20% of Bank Deposits in Some Emerging Markets: S&amp; P Global]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/s-and-p-global-stablecoin-adoption-emerging-market-report</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/s-and-p-global-stablecoin-adoption-emerging-market-report"/>
-        <updated>2026-01-22T16:41:45.000Z</updated>
-        <summary type="html"><![CDATA[The report looks at foreign currency stablecoin adoption, namely of USD-pegged assets, in 45 emerging market countries.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Seeker Token SKR Jumps 300% on First Day of Trading]]></title>
-        <id>https://thedefiant.io/news/tokens/solana-seeker-launches-skr-token-airdrop</id>
-        <link href="https://thedefiant.io/news/tokens/solana-seeker-launches-skr-token-airdrop"/>
-        <updated>2026-01-22T15:26:03.000Z</updated>
-        <summary type="html"><![CDATA[Solana Labs’ mobile arm launched its web3 smartphone Seeker in August]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>

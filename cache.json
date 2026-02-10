@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/onchain-options-volumes-hit-all-time-highs-as-lending-yields-dry-up",
+          "author": "Squiffs",
+          "description": "Options premium volumes and trading activity are ramping up as users explore new areas in DeFi.",
+          "link": "https://thedefiant.io/news/defi/onchain-options-volumes-hit-all-time-highs-as-lending-yields-dry-up",
+          "publishedOn": "2026-02-10T20:44:03.000Z",
+          "wordCount": 4429,
+          "title": "Onchain Options Volumes Hit All-Time Highs as Lending Yields Dry Up",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1770756275805-png-076f4a8b-b743-47f6-8441-86b1ffb50c3d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1770756275805-png-076f4a8b-b743-47f6-8441-86b1ffb50c3d.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/balancer-dao-caps-recovery-bounty-at-10-percent-after-november-exploit",
+          "author": "Denis Omelchenko",
+          "description": "Balancer’s security team had earlier posted a 20% one-time offer to the attacker behind the November exploit.",
+          "link": "https://thedefiant.io/news/hacks/balancer-dao-caps-recovery-bounty-at-10-percent-after-november-exploit",
+          "publishedOn": "2026-02-10T20:04:23.000Z",
+          "wordCount": 4586,
+          "title": "Balancer DAO Caps Recovery Bounty at 10% After $128M Exploit",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/bounty-hacker-jpg-1615330d-5888-48c6-8027-d0dfc9d0993c.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/bounty-hacker-jpg-1615330d-5888-48c6-8027-d0dfc9d0993c.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/kaito-and-polymarket-unveil-attention-markets",
           "author": "DefAInt",
           "description": "Kaito and Polymarket have launched 'Attention Markets', merging attention measurement technology with prediction market infrastructure to track cultural narratives.",
@@ -1513,36 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/5445883ec0469245beb4e73f8c4802cc621968995d50e12d7a4ecb091ece-6a49a8cb-63b0-49f7-99ff-c6b86796619f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/s-and-p-global-stablecoin-adoption-emerging-market-report",
-          "author": "Denis Omelchenko",
-          "description": "The report looks at foreign currency stablecoin adoption, namely of USD-pegged assets, in 45 emerging market countries.",
-          "link": "https://thedefiant.io/news/research-and-opinion/s-and-p-global-stablecoin-adoption-emerging-market-report",
-          "publishedOn": "2026-01-22T16:41:45.000Z",
-          "wordCount": 4821,
-          "title": "Stablecoins Could Reach 20% of Bank Deposits in Some Emerging Markets: S&amp; P Global",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/dda794cc4523d8c001aed2218da09e2d4a2d642fc62e28f257803df72873-3adc4d39-7cdd-4183-89d5-d2a0fc29ae18.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/dda794cc4523d8c001aed2218da09e2d4a2d642fc62e28f257803df72873-3adc4d39-7cdd-4183-89d5-d2a0fc29ae18.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/solana-seeker-launches-skr-token-airdrop",
-          "author": "Denis Omelchenko",
-          "description": "Solana Labs’ mobile arm launched its web3 smartphone Seeker in August",
-          "link": "https://thedefiant.io/news/tokens/solana-seeker-launches-skr-token-airdrop",
-          "publishedOn": "2026-01-22T15:26:03.000Z",
-          "wordCount": 4679,
-          "title": "Solana Seeker Token SKR Jumps 300% on First Day of Trading",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/82ea95be5328a4b54c4ec1ea70236dd85c174e8bf151713002dbedba51dc-ce5ae8d6-e9d7-4e4e-bcbd-adccbd0b7ea0.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/82ea95be5328a4b54c4ec1ea70236dd85c174e8bf151713002dbedba51dc-ce5ae8d6-e9d7-4e4e-bcbd-adccbd0b7ea0.png"
         }
       ]
     }
