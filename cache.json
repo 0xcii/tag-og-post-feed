@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/layerzero-unveils-layer-1-blockchain-zero",
+          "author": "Denis Omelchenko",
+          "description": "Alongside its permissionless blockchain, the firm also revealed investments from Citadel Securities and ARK Invest.",
+          "link": "https://thedefiant.io/news/blockchains/layerzero-unveils-layer-1-blockchain-zero",
+          "publishedOn": "2026-02-10T21:30:00.000Z",
+          "wordCount": 4911,
+          "title": "Interop Protocol LayerZero Unveils L1 Blockchain Zero",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/gen-jpg-6cda9f99-d8e0-4f58-83ab-6dcd41c67ce1.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/gen-jpg-6cda9f99-d8e0-4f58-83ab-6dcd41c67ce1.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/onchain-options-volumes-hit-all-time-highs-as-lending-yields-dry-up",
           "author": "Squiffs",
           "description": "Options premium volumes and trading activity are ramping up as users explore new areas in DeFi.",
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/img-0hglis8zdmi5pyucviakcnq4-png-e4c1f516-89a3-4868-b217-fe6794ad3cda.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/base-dex-volume-growth",
-          "author": "Denis Omelchenko",
-          "description": "Accelerated activity on Base deployments of Uniswap and Aerodrome drove the growth.",
-          "link": "https://thedefiant.io/news/defi/base-dex-volume-growth",
-          "publishedOn": "2026-01-22T18:28:12.000Z",
-          "wordCount": 4621,
-          "title": "Base Overtakes Ethereum, BNB Chain in DEX Volumes for the First Time",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/5445883ec0469245beb4e73f8c4802cc621968995d50e12d7a4ecb091ece-6a49a8cb-63b0-49f7-99ff-c6b86796619f.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/5445883ec0469245beb4e73f8c4802cc621968995d50e12d7a4ecb091ece-6a49a8cb-63b0-49f7-99ff-c6b86796619f.png"
         }
       ]
     }

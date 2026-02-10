@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-10T20:53:08.345Z</id>
+    <id>urn:2026-02-10T21:40:35.226Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-10T20:53:08.345Z</updated>
+    <updated>2026-02-10T21:40:35.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Interop Protocol LayerZero Unveils L1 Blockchain Zero]]></title>
+        <id>https://thedefiant.io/news/blockchains/layerzero-unveils-layer-1-blockchain-zero</id>
+        <link href="https://thedefiant.io/news/blockchains/layerzero-unveils-layer-1-blockchain-zero"/>
+        <updated>2026-02-10T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Alongside its permissionless blockchain, the firm also revealed investments from Citadel Securities and ARK Invest.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Onchain Options Volumes Hit All-Time Highs as Lending Yields Dry Up]]></title>
         <id>https://thedefiant.io/news/defi/onchain-options-volumes-hit-all-time-highs-as-lending-yields-dry-up</id>
@@ -1003,16 +1013,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <summary type="html"><![CDATA[Altcoins posted mild losses as total crypto market capitalization dipped 1% to $3.11 trillion.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base Overtakes Ethereum, BNB Chain in DEX Volumes for the First Time]]></title>
-        <id>https://thedefiant.io/news/defi/base-dex-volume-growth</id>
-        <link href="https://thedefiant.io/news/defi/base-dex-volume-growth"/>
-        <updated>2026-01-22T18:28:12.000Z</updated>
-        <summary type="html"><![CDATA[Accelerated activity on Base deployments of Uniswap and Aerodrome drove the growth.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
     <entry>
