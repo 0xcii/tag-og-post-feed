@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-13T10:38:19.882Z</id>
+    <id>urn:2026-02-13T11:30:49.626Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-13T10:38:19.882Z</updated>
+    <updated>2026-02-13T11:30:49.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1011,15 +1011,6 @@ Recorded in Buenos Aires during Devconnect, Danny breaks down why the mood insid
         <id>https://medium.com/p/2fa07853b32c</id>
         <link href="https://cryptohayes.medium.com/woomph-2fa07853b32c?source=rss-2f6e06954878------2"/>
         <updated>2026-01-27T23:01:04.000Z</updated>
-        <author>
-            <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frowny Cloud]]></title>
-        <id>https://medium.com/p/07cebe98064c</id>
-        <link href="https://cryptohayes.medium.com/frowny-cloud-07cebe98064c?source=rss-2f6e06954878------2"/>
-        <updated>2026-01-14T23:03:15.000Z</updated>
         <author>
             <name>Arthur Hayes</name>
         </author>
