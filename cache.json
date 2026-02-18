@@ -45,6 +45,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/openai-unveils-ai-benchmark-tool-to-enhance-blockchain-security",
+          "author": "DefAInt",
+          "description": "Developed in collaboration with Paradigm, EVMbench evaluates AI agents' ability to detect, patch, and exploit smart contract vulnerabilities.",
+          "link": "https://thedefiant.io/news/blockchains/openai-unveils-ai-benchmark-tool-to-enhance-blockchain-security",
+          "publishedOn": "2026-02-18T19:28:32.000Z",
+          "wordCount": 4207,
+          "title": "OpenAI Unveils AI Benchmark Tool to Enhance Blockchain Security",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1771443671704-png-c093200f-4fed-440b-b2b0-24a0299de52b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1771443671704-png-c093200f-4fed-440b-b2b0-24a0299de52b.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/memecore-rally-prompts-criticism-over-valuation",
+          "author": "Jona Jaupi",
+          "description": "The token’s rally highlights an ongoing debate over memecoin fundamentals and speculation.",
+          "link": "https://thedefiant.io/news/markets/memecore-rally-prompts-criticism-over-valuation",
+          "publishedOn": "2026-02-18T19:21:09.000Z",
+          "wordCount": 4777,
+          "title": "MemeCore Rally Prompts Criticism Over Valuation",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1771442472449-png-8326287b-ad7d-4fd9-a801-e32f1ffb7a17.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1771442472449-png-8326287b-ad7d-4fd9-a801-e32f1ffb7a17.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/base-parts-ways-with-optimism-s-op-stack",
+          "author": "DefAInt",
+          "description": "Base, the Ethereum Layer 2 network launched by Coinbase, is transitioning from Optimism's OP Stack to a self-managed codebase.",
+          "link": "https://thedefiant.io/news/blockchains/base-parts-ways-with-optimism-s-op-stack",
+          "publishedOn": "2026-02-18T18:48:10.000Z",
+          "wordCount": 4234,
+          "title": "Base Parts Ways With Optimism's OP Stack",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1771441948015-png-ad0a2609-a775-4446-bd65-06b1dc68fc5d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1771441948015-png-ad0a2609-a775-4446-bd65-06b1dc68fc5d.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/canary-capital-launches-first-ever-staked-sui-etf",
           "author": "DefAInt",
           "description": "Canary Capital's introduction of the Canary Staked SUI ETF provides investors with regulated exposure to the Sui Network's staking rewards",
@@ -58,6 +103,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1771440120583-png-52512f58-eed5-4afc-ae38-7e0d4e8326f8.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/ether-fi-migrates-to-optimism-s-op-mainnet-from-scroll",
+          "author": "DefAInt",
+          "description": "ether.fi, a crypto neobank, is migrating its services from the Scroll blockchain to Optimism's OP Mainnet to leverage enhanced payment capabilities and enterprise-grade support.",
+          "link": "https://thedefiant.io/news/defi/ether-fi-migrates-to-optimism-s-op-mainnet-from-scroll",
+          "publishedOn": "2026-02-18T18:32:33.000Z",
+          "wordCount": 4283,
+          "title": "ether.fi Migrates to Optimism's OP Mainnet from Scroll",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/etherfi-jpg-848575d6-8a97-41d9-82ee-cb09bf51efc3.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/etherfi-jpg-848575d6-8a97-41d9-82ee-cb09bf51efc3.jpg"
         },
         {
           "id": "https://thedefiant.io/news/defi/wlfi-jumps-30-as-ceos-sign-up-for-mar-a-lago-crypto-forum",
@@ -1483,66 +1543,6 @@
             "type": "null"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ba6fc9a1095f28e5667769cd04f50b81b6083781-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/stable-hits-all-time-high-ahead-of-mainnet-upgrade",
-          "author": "Squiffs",
-          "description": "The stablecoin-focused blockchain backed by Bitfinex is slated to roll out its mainnet upgrade on Feb 4.",
-          "link": "https://thedefiant.io/news/blockchains/stable-hits-all-time-high-ahead-of-mainnet-upgrade",
-          "publishedOn": "2026-02-02T20:14:46.000Z",
-          "wordCount": 4368,
-          "title": "STABLE Hits All-Time High Ahead of Mainnet Upgrade",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1770063606569-png-917244ae-9325-48cb-b068-5bf8b2de67ad.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1770063606569-png-917244ae-9325-48cb-b068-5bf8b2de67ad.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/hyperliquid-to-launch-prediction-market-outcome-trading",
-          "author": "Squiffs",
-          "description": "The new markets will trade on Hypercore via the upcoming HIP-4 upgrade.",
-          "link": "https://thedefiant.io/news/defi/hyperliquid-to-launch-prediction-market-outcome-trading",
-          "publishedOn": "2026-02-02T19:47:39.000Z",
-          "wordCount": 4438,
-          "title": "Hyperliquid to Launch Prediction Market Outcome Trading",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1770061963447-png-b1c5f716-ef4a-47c1-8439-71aaa0df05a0.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1770061963447-png-b1c5f716-ef4a-47c1-8439-71aaa0df05a0.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/wlfi-rallies-after-wsj-reveals-uae-royal-bought-49-stake-in-trump-linked-firm",
-          "author": "Jona Jaupi",
-          "description": "Traders appeared to read the disclosure as bullish despite governance and legal questions.",
-          "link": "https://thedefiant.io/news/defi/wlfi-rallies-after-wsj-reveals-uae-royal-bought-49-stake-in-trump-linked-firm",
-          "publishedOn": "2026-02-02T18:37:55.000Z",
-          "wordCount": 4827,
-          "title": "WLFI Rallies After WSJ Reveals UAE Royal Bought 49% Stake in Trump-Linked Firm",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1770057546403-png-296dfb63-1718-4474-ab3c-876efc08392f.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1770057546403-png-296dfb63-1718-4474-ab3c-876efc08392f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-gho-stablecoin-market-cap-breaks-usd500-million",
-          "author": "Denis Omelchenko",
-          "description": "The stablecoin’s market cap almost tripled in 2025 alone.",
-          "link": "https://thedefiant.io/news/defi/aave-gho-stablecoin-market-cap-breaks-usd500-million",
-          "publishedOn": "2026-02-02T18:23:50.000Z",
-          "wordCount": 4726,
-          "title": "Aave’s GHO Stablecoin Supply Hits $500M",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/gho-jpg-0f73788c-9152-464f-857d-f8e74f982111.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/gho-jpg-0f73788c-9152-464f-857d-f8e74f982111.jpg"
         }
       ]
     }
