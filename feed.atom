@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-20T18:47:47.256Z</id>
+    <id>urn:2026-02-20T19:35:41.503Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-20T18:47:47.256Z</updated>
+    <updated>2026-02-20T19:35:41.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Only 1 in 10 Weak Token Launches Recovered in 2025: Arrakis]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/only-1-in-10-weak-token-launches-recovered-in-2025-arrakis</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/only-1-in-10-weak-token-launches-recovered-in-2025-arrakis"/>
+        <updated>2026-02-20T19:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Data from more than 120 token launches shows that early sell pressure, not market timing, largely determined whether new tokens thrived in 2025.]]></summary>
+        <author>
+            <name>Denis Omelchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lightspark Teams Up with Cross River Bank for Fiat Payments via Bitcoin]]></title>
         <id>https://thedefiant.io/news/defi/lightspark-teams-up-with-cross-river-bank-for-fiat-payments-via-bitcoin</id>
@@ -849,7 +859,7 @@
         <id>https://thedefiant.io/news/tokens/rainbow-token-rnbw-tanks-65-below-ico-price-on-day-one-trading</id>
         <link href="https://thedefiant.io/news/tokens/rainbow-token-rnbw-tanks-65-below-ico-price-on-day-one-trading"/>
         <updated>2026-02-06T17:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Self-custodial Ethereum wallet Rainbow debuted its native token RNBW yesterday, Feb. 5, but the token tainked 30% right out of the gate and is now over 65% below its ICO price.]]></summary>
+        <summary type="html"><![CDATA[The launch was plagued by reports of delayed token distribution to early investors and technical issues.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -1002,16 +1012,6 @@
         <summary type="html"><![CDATA[The digital asset treasury (DAT) movement is drowning, with nearly every DAT underwater.]]></summary>
         <author>
             <name>Squiffs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cap Airdrops $12 Million in Stablecoins to Early Users]]></title>
-        <id>https://thedefiant.io/news/defi/cap-airdrops-usd12-million-in-stablecoins-to-early-users</id>
-        <link href="https://thedefiant.io/news/defi/cap-airdrops-usd12-million-in-stablecoins-to-early-users"/>
-        <updated>2026-02-04T20:06:12.000Z</updated>
-        <summary type="html"><![CDATA[The stablecoin protocol ended its “Frontier” rewards phase with a dollar-denominated token airdrop.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
     <entry>
