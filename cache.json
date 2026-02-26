@@ -35,6 +35,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-hovers-near-usd67k-as-crypto-markets-consolidate",
+          "author": "Denis Omelchenko",
+          "description": "Leading altcoins retraced some of their gains from Wednesday.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-hovers-near-usd67k-as-crypto-markets-consolidate",
+          "publishedOn": "2026-02-26T17:44:15.000Z",
+          "wordCount": 4860,
+          "title": "Bitcoin Hovers Near $67K as Crypto Markets Consolidate",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1772128103552-png-4ff6e7c1-6bd1-463f-9261-697ec70a1404.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1772128103552-png-4ff6e7c1-6bd1-463f-9261-697ec70a1404.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/research-and-opinion/ransomware-payments-topped-usd800-million-in-2025-chainalysis",
+          "author": "Denis Omelchenko",
+          "description": "Although hackers made less money overall last year, victims who paid faced far higher bills than a year earlier.",
+          "link": "https://thedefiant.io/news/research-and-opinion/ransomware-payments-topped-usd800-million-in-2025-chainalysis",
+          "publishedOn": "2026-02-26T17:02:22.000Z",
+          "wordCount": 4683,
+          "title": "Ransomware Payments Topped $800 Million in 2025: Chainalysis",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1772125346265-png-440ef8bd-30c9-4dd5-b9cf-96f1812d8d7d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1772125346265-png-440ef8bd-30c9-4dd5-b9cf-96f1812d8d7d.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/zachxbt-accuses-axiom-staff-of-insider-trading-using-wallet-data",
           "author": "Denis Omelchenko",
           "description": "Recordings and screenshots reviewed by the blockchain investigator show internal tools that surfaced users’ private wallets and trade histories.",
@@ -1503,36 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1770756275805-png-076f4a8b-b743-47f6-8441-86b1ffb50c3d.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/balancer-dao-caps-recovery-bounty-at-10-percent-after-november-exploit",
-          "author": "Denis Omelchenko",
-          "description": "Balancer’s security team had earlier posted a 20% one-time offer to the attacker behind the November exploit.",
-          "link": "https://thedefiant.io/news/hacks/balancer-dao-caps-recovery-bounty-at-10-percent-after-november-exploit",
-          "publishedOn": "2026-02-10T20:04:23.000Z",
-          "wordCount": 4604,
-          "title": "Balancer DAO Caps Recovery Bounty at 10% After $128M Exploit",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/bounty-hacker-jpg-1615330d-5888-48c6-8027-d0dfc9d0993c.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/bounty-hacker-jpg-1615330d-5888-48c6-8027-d0dfc9d0993c.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/kaito-and-polymarket-unveil-attention-markets",
-          "author": "DefAInt",
-          "description": "Kaito and Polymarket have launched 'Attention Markets', merging attention measurement technology with prediction market infrastructure to track cultural narratives.",
-          "link": "https://thedefiant.io/news/defi/kaito-and-polymarket-unveil-attention-markets",
-          "publishedOn": "2026-02-10T19:01:53.000Z",
-          "wordCount": 4358,
-          "title": "Kaito and Polymarket Unveil 'Attention Markets'",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1770752342385-png-546c07b4-c4cc-46ff-85db-ee54359b0f6f.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1770752342385-png-546c07b4-c4cc-46ff-85db-ee54359b0f6f.png"
         }
       ]
     }
