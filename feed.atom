@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-27T16:39:52.913Z</id>
+    <id>urn:2026-02-27T17:34:56.736Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-27T16:39:52.913Z</updated>
+    <updated>2026-02-27T17:34:56.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Worth $580 Million Seized from Chinese Transnational Criminal Networks]]></title>
+        <id>https://thedefiant.io/news/regulation/crypto-worth-usd580-million-seized-from-chinese-transnational-criminal-networks</id>
+        <link href="https://thedefiant.io/news/regulation/crypto-worth-usd580-million-seized-from-chinese-transnational-criminal-networks"/>
+        <updated>2026-02-27T16:41:39.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice has announced a significant cryptocurrency seizure linked to Chinese transnational criminal networks, part of a broader initiative to combat global scams.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Barclays Evaluates Blockchain-based Settlement]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/barclays-evaluates-blockchain-based-settlement</id>
@@ -841,7 +851,7 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <id>https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool</id>
         <link href="https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool"/>
         <updated>2026-02-13T15:27:58.000Z</updated>
-        <summary type="html"><![CDATA[The new tool lets users automate bets against consistent losers — instead of trying to copy winners.]]></summary>
+        <summary type="html"><![CDATA[Prediction market aggregator Stand announced today, Feb. 13, that it’s launching a tool to let users automatically take the opposite position of trades across popular platforms — namely from traders that tend to lose. Edward Ridgely, founder of Stand, said in a press release shared with The Defiant that conventional copy‑trading breaks down in prediction markets.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -1004,16 +1014,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[Major crypto assets traded lower on Wednesday morning as total market capitalization shed almost 4%]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNI Soars 30% Amid Strategic Investment from BlackRock]]></title>
-        <id>https://thedefiant.io/news/defi/uni-rallies-after-strategic-investment-from-blackrock</id>
-        <link href="https://thedefiant.io/news/defi/uni-rallies-after-strategic-investment-from-blackrock"/>
-        <updated>2026-02-11T15:25:53.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap and Securitize have announced a strategic partnership with BlackRock to provide DeFi liquidity for BlackRock's tokenized fund.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
