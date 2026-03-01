@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-01T22:23:23.215Z</id>
+    <id>urn:2026-03-01T23:23:05.248Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-01T22:23:23.215Z</updated>
+    <updated>2026-03-01T23:23:05.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[iOS Warfare]]></title>
+        <id>https://medium.com/p/e30c17f84bab</id>
+        <link href="https://cryptohayes.medium.com/ios-warfare-e30c17f84bab?source=rss-2f6e06954878------2"/>
+        <updated>2026-03-01T23:01:01.000Z</updated>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did L2 Fragment Ethereum? - With Yuval Rooz, CEO of Digital Asset, Co-Founder of Canton]]></title>
         <id>https://thedefiant.io/podcasts-and-videos/podcast/did-l2-fragment-ethereum-with-yuval-rooz-ceo-of-digital-asset-co-founder-of-canton</id>
