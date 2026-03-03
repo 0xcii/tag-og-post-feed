@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-03T18:46:10.922Z</id>
+    <id>urn:2026-03-03T19:38:19.526Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-03T18:46:10.922Z</updated>
+    <updated>2026-03-03T19:38:19.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Outflows from Iranian Exchanges Surge Amid US-Israeli Airstrikes]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/crypto-outflows-from-iranian-exchanges-surge-amid-us-israeli-airstrikes</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/crypto-outflows-from-iranian-exchanges-surge-amid-us-israeli-airstrikes"/>
+        <updated>2026-03-03T19:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Crypto outflows from Iranian exchanges spiked to $10.3 million, underscoring cryptocurrencies' role as financial safe havens during geopolitical crises.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Dips as U.S. Dollar Spikes to 6-Week High]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-dips-as-u-s-dollar-spikes-to-6-week-high</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-dips-as-u-s-dollar-spikes-to-6-week-high"/>
+        <updated>2026-03-03T18:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Global markets pulled back while crude oil surged as the Iran conflict entered its fourth day.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto.com Launches Blended Crypto and Stock Retirement Accounts]]></title>
         <id>https://thedefiant.io/news/cefi/cryptocom-launches-crypto-and-stock-iras</id>
@@ -1003,26 +1023,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <link href="https://thedefiant.io/news/markets/crypto-markets-rally-after-softer-than-expected-us-inflation-report"/>
         <updated>2026-02-13T16:48:12.000Z</updated>
         <summary type="html"><![CDATA[Total market value rose over 4% today, though risk appetite remains fragile.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prediction Market Aggregator Stand Launches Counter-Trading Tool]]></title>
-        <id>https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool</id>
-        <link href="https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool"/>
-        <updated>2026-02-13T15:27:58.000Z</updated>
-        <summary type="html"><![CDATA[The new tool lets users automate bets against consistent losers — instead of trying to copy winners.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluefin-acquired Nexa Terminal Shuts Down Blaming Sui’s ‘Extremely Low’ Volume]]></title>
-        <id>https://thedefiant.io/news/blockchains/bluefin-acquired-nexa-terminal-shuts-down-blaming-sui-s-extremely-low-volume</id>
-        <link href="https://thedefiant.io/news/blockchains/bluefin-acquired-nexa-terminal-shuts-down-blaming-sui-s-extremely-low-volume"/>
-        <updated>2026-02-13T03:32:02.000Z</updated>
-        <summary type="html"><![CDATA[The closure comes as monthly DEX volumes on Sui have dropped 70% from last year’s peak.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>

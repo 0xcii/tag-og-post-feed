@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/research-and-opinion/crypto-outflows-from-iranian-exchanges-surge-amid-us-israeli-airstrikes",
+          "author": "DefAInt",
+          "description": "Crypto outflows from Iranian exchanges spiked to $10.3 million, underscoring cryptocurrencies' role as financial safe havens during geopolitical crises.",
+          "link": "https://thedefiant.io/news/research-and-opinion/crypto-outflows-from-iranian-exchanges-surge-amid-us-israeli-airstrikes",
+          "publishedOn": "2026-03-03T19:31:57.000Z",
+          "wordCount": 4328,
+          "title": "Crypto Outflows from Iranian Exchanges Surge Amid US-Israeli Airstrikes",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1772566638858-png-28946c44-2927-452a-a2a3-e55f7eb5ac1f.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1772566638858-png-28946c44-2927-452a-a2a3-e55f7eb5ac1f.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-dips-as-u-s-dollar-spikes-to-6-week-high",
+          "author": "yyctrader",
+          "description": "Global markets pulled back while crude oil surged as the Iran conflict entered its fourth day.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-dips-as-u-s-dollar-spikes-to-6-week-high",
+          "publishedOn": "2026-03-03T18:54:26.000Z",
+          "wordCount": 4448,
+          "title": "Bitcoin Dips as U.S. Dollar Spikes to 6-Week High",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1772564069089-png-377c85a8-7fb0-4179-82c0-7a0e3825cf68.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1772564069089-png-377c85a8-7fb0-4179-82c0-7a0e3825cf68.png"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/cryptocom-launches-crypto-and-stock-iras",
           "author": "DefAInt",
           "description": "The CEX said its IRAs are the first crypto-native retirement accounts in the U.S. to offer crypto and traditional equities in one account.",
@@ -1513,36 +1543,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/market-up-graph-jpg-97268353-08d3-4a34-a1ea-a208a0d5bce9.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool",
-          "author": "Denis Omelchenko",
-          "description": "The new tool lets users automate bets against consistent losers — instead of trying to copy winners.",
-          "link": "https://thedefiant.io/news/defi/prediction-market-aggregator-stand-launches-counter-trading-tool",
-          "publishedOn": "2026-02-13T15:27:58.000Z",
-          "wordCount": 5053,
-          "title": "Prediction Market Aggregator Stand Launches Counter-Trading Tool",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/strandtrade-jpg-9d2c2db2-3fb6-43b7-8243-7e51edebb300.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/strandtrade-jpg-9d2c2db2-3fb6-43b7-8243-7e51edebb300.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/bluefin-acquired-nexa-terminal-shuts-down-blaming-sui-s-extremely-low-volume",
-          "author": "Denis Omelchenko",
-          "description": "The closure comes as monthly DEX volumes on Sui have dropped 70% from last year’s peak.",
-          "link": "https://thedefiant.io/news/blockchains/bluefin-acquired-nexa-terminal-shuts-down-blaming-sui-s-extremely-low-volume",
-          "publishedOn": "2026-02-13T03:32:02.000Z",
-          "wordCount": 4614,
-          "title": "Bluefin-acquired Nexa Terminal Shuts Down Blaming Sui’s ‘Extremely Low’ Volume",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1770953552954-png-99ec2e5f-d2f9-418d-9905-6b38983d648f.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1770953552954-png-99ec2e5f-d2f9-418d-9905-6b38983d648f.png"
         }
       ]
     }
