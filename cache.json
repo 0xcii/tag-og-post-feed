@@ -45,6 +45,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/kalshi-faces-backlash-over-khamenei-market",
+          "author": "DefAInt",
+          "description": "Kalshi's resolution of prediction markets tied to the death of Iran's Supreme Leader Ali Khamenei has sparked controversy.",
+          "link": "https://thedefiant.io/news/defi/kalshi-faces-backlash-over-khamenei-market",
+          "publishedOn": "2026-03-03T19:57:47.000Z",
+          "wordCount": 4367,
+          "title": "Kalshi Faces Backlash Over Khamenei Market Resolution",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1772569628745-png-1b7799fb-677e-4ffc-ab38-49bd4b1791c3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1772569628745-png-1b7799fb-677e-4ffc-ab38-49bd4b1791c3.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/usual-integrates-virtual-ibans-to-simplify-euro-transactions",
+          "author": "DefAInt",
+          "description": "Usual's introduction of a direct EUR ↔ EUR0 rail leverages SEPA Instant and virtual IBAN technology to streamline fiat transactions, enhancing euro transfers for users across Europe.",
+          "link": "https://thedefiant.io/news/defi/usual-integrates-virtual-ibans-to-simplify-euro-transactions",
+          "publishedOn": "2026-03-03T19:40:45.000Z",
+          "wordCount": 4440,
+          "title": "Usual Integrates Virtual IBANs to Simplify Euro Transactions",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1772567124962-png-39df4a0a-c53a-4efb-a101-92a2c47b6a1b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1772567124962-png-39df4a0a-c53a-4efb-a101-92a2c47b6a1b.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/cftc-and-sec-panel-on-crypto-regulation-milken-institute",
+          "author": "Olivia Capozzalo",
+          "description": "The Chairs of the U.S. CFTC and SEC said they're working together to keep on-chain finance, prediction markets, and perpetuals futures in the country.",
+          "link": "https://thedefiant.io/news/regulation/cftc-and-sec-panel-on-crypto-regulation-milken-institute",
+          "publishedOn": "2026-03-03T19:38:01.000Z",
+          "wordCount": 5381,
+          "title": "CFTC Says It's 'Modernizing' Rules to Make a Place for DeFi in the US",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/regulators-platforms-jpg-579ae514-f974-4f81-9e6c-1d2889287243.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/regulators-platforms-jpg-579ae514-f974-4f81-9e6c-1d2889287243.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/research-and-opinion/crypto-outflows-from-iranian-exchanges-surge-amid-us-israeli-airstrikes",
           "author": "DefAInt",
           "description": "Crypto outflows from Iranian exchanges spiked to $10.3 million, underscoring cryptocurrencies' role as financial safe havens during geopolitical crises.",
@@ -1498,51 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1771012548591-png-39897afd-0aff-4bec-b4ae-35316f885a5c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/tomasz-stanczak-to-step-down-from-ethereum-foundation",
-          "author": "Jona Jaupi",
-          "description": "Bastian Aue will take over the co-executive director role alongside Hsiao-Wei.",
-          "link": "https://thedefiant.io/news/blockchains/tomasz-stanczak-to-step-down-from-ethereum-foundation",
-          "publishedOn": "2026-02-13T18:40:59.000Z",
-          "wordCount": 4897,
-          "title": "Tomasz Stańczak to Step Down from Ethereum Foundation",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771008076399-png-aba836a1-128f-4d10-8267-30f5bbdc663e.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771008076399-png-aba836a1-128f-4d10-8267-30f5bbdc663e.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/truth-social-files-for-digital-asset-etfs",
-          "author": "DefAInt",
-          "description": "Truth Social Funds has filed with the SEC to launch two digital asset ETFs, aiming to integrate cryptocurrencies into traditional financial markets and attract new investors.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/truth-social-files-for-digital-asset-etfs",
-          "publishedOn": "2026-02-13T17:35:54.000Z",
-          "wordCount": 4487,
-          "title": "Truth Social Files for Digital Asset ETFs",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6aa783b3ad3bf7ab80f9b0e4f92eb71257dde113-1792x1024.png",
-            "length": "1000000",
-            "type": "null"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6aa783b3ad3bf7ab80f9b0e4f92eb71257dde113-1792x1024.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-markets-rally-after-softer-than-expected-us-inflation-report",
-          "author": "Denis Omelchenko",
-          "description": "Total market value rose over 4% today, though risk appetite remains fragile.",
-          "link": "https://thedefiant.io/news/markets/crypto-markets-rally-after-softer-than-expected-us-inflation-report",
-          "publishedOn": "2026-02-13T16:48:12.000Z",
-          "wordCount": 4843,
-          "title": "Crypto Markets Rally After Softer-Than-Expected US Inflation Report",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/market-up-graph-jpg-97268353-08d3-4a34-a1ea-a208a0d5bce9.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/market-up-graph-jpg-97268353-08d3-4a34-a1ea-a208a0d5bce9.jpg"
         }
       ]
     }
