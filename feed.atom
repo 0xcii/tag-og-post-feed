@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-03T17:42:36.913Z</id>
+    <id>urn:2026-03-03T18:46:10.922Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-03T17:42:36.913Z</updated>
+    <updated>2026-03-03T18:46:10.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto.com Launches Blended Crypto and Stock Retirement Accounts]]></title>
+        <id>https://thedefiant.io/news/cefi/cryptocom-launches-crypto-and-stock-iras</id>
+        <link href="https://thedefiant.io/news/cefi/cryptocom-launches-crypto-and-stock-iras"/>
+        <updated>2026-03-03T18:28:34.000Z</updated>
+        <summary type="html"><![CDATA[The CEX said its IRAs are the first crypto-native retirement accounts in the U.S. to offer crypto and traditional equities in one account.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalshi Partners with Luxury Watch Marketplace Bezel]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/kalshi-partners-with-luxury-watch-marketplace-bezel</id>
@@ -1015,16 +1025,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[The closure comes as monthly DEX volumes on Sui have dropped 70% from last year’s peak.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Espresso Token Launches at $275 Million Valuation]]></title>
-        <id>https://thedefiant.io/news/blockchains/espresso-token-launches-at-usd275-million-valuation</id>
-        <link href="https://thedefiant.io/news/blockchains/espresso-token-launches-at-usd275-million-valuation"/>
-        <updated>2026-02-12T21:34:39.000Z</updated>
-        <summary type="html"><![CDATA[Launchpad buyers are down 30% with a 2-year vesting period ahead of them.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>
