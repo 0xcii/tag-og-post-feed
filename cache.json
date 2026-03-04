@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-surges-above-usd73-000-as-global-markets-rebound",
+          "author": "yyctrader",
+          "description": "Bitcoin ETFs have attracted nearly $1.5 billion in inflows since last week.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-surges-above-usd73-000-as-global-markets-rebound",
+          "publishedOn": "2026-03-04T17:50:55.000Z",
+          "wordCount": 4482,
+          "title": "Bitcoin Surges Above $73,000 as Global Markets Rebound",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1772646683244-png-939f0123-52d4-4b8a-bfa7-58075f73512a.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1772646683244-png-939f0123-52d4-4b8a-bfa7-58075f73512a.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/backpack-to-offer-on-chain-ipo-shares-solana-via-superstate",
           "author": "Olivia Capozzalo",
           "description": "The move expands Backpack's existing partnership with Robert Leshner's tokenization firm.",
@@ -1235,7 +1250,7 @@
           "description": "Base, the Ethereum Layer 2 network launched by Coinbase, is transitioning from Optimism's OP Stack to a self-managed codebase.",
           "link": "https://thedefiant.io/news/blockchains/base-parts-ways-with-optimism-s-op-stack",
           "publishedOn": "2026-02-18T18:48:10.000Z",
-          "wordCount": 4288,
+          "wordCount": 4292,
           "title": "Base Parts Ways With Optimism's OP Stack",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1771441948015-png-ad0a2609-a775-4446-bd65-06b1dc68fc5d.png",
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/defi/hyperliquid-policy-center-launches",
           "author": "Denis Omelchenko",
-          "description": "Hyperliquid, the largest on-chain perpetual futures exchange by trading volumes, said it is backing a new Washington-based policy organization with 1 million HYPE tokens (around $29 million at current prices), as crypto firms try to influence U.S. rules for decentralized finance.",
+          "description": "With Jake Chervinsky at the helm, the Hyperliquid Policy Center gives the perp DEX a formal policy foothold in Washington.",
           "link": "https://thedefiant.io/news/defi/hyperliquid-policy-center-launches",
           "publishedOn": "2026-02-18T15:34:44.000Z",
           "wordCount": 4778,
@@ -1528,21 +1543,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/compound-fall-jpg-24404639-b1b5-4d04-a582-17ca562b21c2.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/crypto-flows-tied-to-suspected-human-trafficking-reached-hundreds-of-millions-in-2025",
-          "author": "Jona Jaupi",
-          "description": "The payments represent an 85% year-over-year increase, according to the report.",
-          "link": "https://thedefiant.io/news/research-and-opinion/crypto-flows-tied-to-suspected-human-trafficking-reached-hundreds-of-millions-in-2025",
-          "publishedOn": "2026-02-13T23:34:32.000Z",
-          "wordCount": 4568,
-          "title": "Crypto Flows Tied to Suspected Human Trafficking Reached ‘Hundreds of Millions’ in 2025: Chainalysis",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771025790405-png-0c3c8965-30c3-4cd8-93f7-c1d65f0c7fe2.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771025790405-png-0c3c8965-30c3-4cd8-93f7-c1d65f0c7fe2.png"
         }
       ]
     }
