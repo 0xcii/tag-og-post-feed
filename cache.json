@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-us-spot-dot-etf",
+          "author": "DefAInt",
+          "description": "21Shares has launched the first U.S. spot DOT ETF just a week after it launched one of the first spot ETFs for SUI.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-us-spot-dot-etf",
+          "publishedOn": "2026-03-06T16:27:00.000Z",
+          "wordCount": 4627,
+          "title": "21Shares Launches First US Spot Polkadot ETF",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/us-etf-jpg-ea49437d-93f3-46af-ad97-c83b02e75b00.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/us-etf-jpg-ea49437d-93f3-46af-ad97-c83b02e75b00.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/us-federal-banking-agencies-issue-guidance-tokenized-securities",
+          "author": "DefAInt",
+          "description": "The U.S. federal banking agencies have issued new guidance clarifying that tokenized securities should receive the same capital treatment as traditional securities.",
+          "link": "https://thedefiant.io/news/regulation/us-federal-banking-agencies-issue-guidance-tokenized-securities",
+          "publishedOn": "2026-03-06T15:42:04.000Z",
+          "wordCount": 4842,
+          "title": "The Fed, OCC, FDIC Clarify Capital Treatment of Tokenized Securities",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/tokenization-city-jpg-650de6d2-9bb3-4659-bbaa-af8201ee9786.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/tokenization-city-jpg-650de6d2-9bb3-4659-bbaa-af8201ee9786.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/bitcoin-fintech-strike-receives-nydfs-bitlicense",
           "author": "DefAInt",
           "description": "Strike's parent firm has received a BitLicense from the New York Department of Financial Services (NYDFS), enabling it to offer crypto services in New York.",
@@ -1262,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/nillion-nilchain-leaves-cosmos-for-ethereum",
           "author": "Denis Omelchenko",
-          "description": "The migration comes just months after Cosmos announced it’s stepping back from efforts to turn the Cosmos Hub into a smart contract platform as TVL declines.",
+          "description": "NilChain, a privacy-focused blockchain built with the Cosmos SDK by Nillion, is winding down operations on Cosmos as part of broader shifts across the interoperability-focused ecosystem.",
           "link": "https://thedefiant.io/news/blockchains/nillion-nilchain-leaves-cosmos-for-ethereum",
           "publishedOn": "2026-02-19T19:22:36.000Z",
           "wordCount": 5088,
@@ -1292,7 +1322,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/scroll-top-fee-earner-etherfi-leaves-for-optimism",
           "author": "Denis Omelchenko",
-          "description": "Decentralized neobank and crypto card issuer etherfi is leaving Scroll for Optimism, taking with it millions of dollars in total value locked and monthly fees generated on Scroll, data shows.",
+          "description": "Both etherfi and Optimism described the transition as a long-term partnership.",
           "link": "https://thedefiant.io/news/blockchains/scroll-top-fee-earner-etherfi-leaves-for-optimism",
           "publishedOn": "2026-02-19T18:50:51.000Z",
           "wordCount": 4866,
@@ -1513,36 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1771366759076-png-84c5fd85-5c3a-4b37-9e78-153df014a5e2.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/elemental-royalty-corporation-offers-dividends-in-tether-gold",
-          "author": "DefAInt",
-          "description": "Elemental Royalty Corporation becomes the first publicly listed gold company to offer dividends in Tether Gold (XAU₮)",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/elemental-royalty-corporation-offers-dividends-in-tether-gold",
-          "publishedOn": "2026-02-17T20:25:44.000Z",
-          "wordCount": 4400,
-          "title": "Elemental Royalty Corporation Offers Dividends in Tether Gold",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771360863538-png-4929c2f9-26e9-48f3-844a-61b514cef32a.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771360863538-png-4929c2f9-26e9-48f3-844a-61b514cef32a.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-hovers-around-usd67-000-as-crypto-markets-drift-lower",
-          "author": "Jona Jaupi",
-          "description": "Experts say volatility is cooling as investors await macro catalysts.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-hovers-around-usd67-000-as-crypto-markets-drift-lower",
-          "publishedOn": "2026-02-17T20:18:49.000Z",
-          "wordCount": 4765,
-          "title": "Bitcoin Hovers Around $67,000 as Crypto Markets Drift Lower",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771359533096-png-b7a5425b-5fc5-4490-ab0c-148c8726ca71.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771359533096-png-b7a5425b-5fc5-4490-ab0c-148c8726ca71.png"
         }
       ]
     }
