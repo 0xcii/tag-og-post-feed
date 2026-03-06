@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-06T16:39:56.886Z</id>
+    <id>urn:2026-03-06T17:34:05.828Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-06T16:39:56.886Z</updated>
+    <updated>2026-03-06T17:34:05.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Curve Accuses PancakeSwap of Using Stableswap Code Without Authorization]]></title>
+        <id>https://thedefiant.io/news/defi/curve-accuses-pancakeswap-of-using-stableswap-code-without-authorization</id>
+        <link href="https://thedefiant.io/news/defi/curve-accuses-pancakeswap-of-using-stableswap-code-without-authorization"/>
+        <updated>2026-03-06T16:35:09.000Z</updated>
+        <summary type="html"><![CDATA[PancakeSwap, the leading decentralized exchange on BNB Smart Chain, rolled out the StableSwap feature on March 1.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21Shares Launches First US Spot Polkadot ETF]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-us-spot-dot-etf</id>
@@ -853,7 +863,7 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <id>https://thedefiant.io/news/blockchains/nillion-nilchain-leaves-cosmos-for-ethereum</id>
         <link href="https://thedefiant.io/news/blockchains/nillion-nilchain-leaves-cosmos-for-ethereum"/>
         <updated>2026-02-19T19:22:36.000Z</updated>
-        <summary type="html"><![CDATA[NilChain, a privacy-focused blockchain built with the Cosmos SDK by Nillion, is winding down operations on Cosmos as part of broader shifts across the interoperability-focused ecosystem.]]></summary>
+        <summary type="html"><![CDATA[The migration comes just months after Cosmos announced it’s stepping back from efforts to turn the Cosmos Hub into a smart contract platform as TVL declines.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -1015,16 +1025,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <updated>2026-02-17T23:01:01.000Z</updated>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Erik Voorhees’ Venice AI Leads Altcoin Market]]></title>
-        <id>https://thedefiant.io/news/defi/erik-voorhees-venice-ai-leads-altcoin-market</id>
-        <link href="https://thedefiant.io/news/defi/erik-voorhees-venice-ai-leads-altcoin-market"/>
-        <updated>2026-02-17T22:19:16.000Z</updated>
-        <summary type="html"><![CDATA[The decentralized artificial intelligence protocol is up 350% from its November low.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
 </feed>

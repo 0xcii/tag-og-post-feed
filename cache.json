@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/curve-accuses-pancakeswap-of-using-stableswap-code-without-authorization",
+          "author": "The Defiant Team",
+          "description": "PancakeSwap, the leading decentralized exchange on BNB Smart Chain, rolled out the StableSwap feature on March 1.",
+          "link": "https://thedefiant.io/news/defi/curve-accuses-pancakeswap-of-using-stableswap-code-without-authorization",
+          "publishedOn": "2026-03-06T16:35:09.000Z",
+          "wordCount": 4394,
+          "title": "Curve Accuses PancakeSwap of Using Stableswap Code Without Authorization",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1772815053546-png-e558c9a0-764e-4bfa-88cc-34444eeb7f97.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1772815053546-png-e558c9a0-764e-4bfa-88cc-34444eeb7f97.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/21shares-launches-first-us-spot-dot-etf",
           "author": "DefAInt",
           "description": "21Shares has launched the first U.S. spot DOT ETF just a week after it launched one of the first spot ETFs for SUI.",
@@ -1292,7 +1307,7 @@
         {
           "id": "https://thedefiant.io/news/blockchains/nillion-nilchain-leaves-cosmos-for-ethereum",
           "author": "Denis Omelchenko",
-          "description": "NilChain, a privacy-focused blockchain built with the Cosmos SDK by Nillion, is winding down operations on Cosmos as part of broader shifts across the interoperability-focused ecosystem.",
+          "description": "The migration comes just months after Cosmos announced it’s stepping back from efforts to turn the Cosmos Hub into a smart contract platform as TVL declines.",
           "link": "https://thedefiant.io/news/blockchains/nillion-nilchain-leaves-cosmos-for-ethereum",
           "publishedOn": "2026-02-19T19:22:36.000Z",
           "wordCount": 5088,
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1771382680611-png-2e3530fd-329d-4206-8779-65fe9f16b1d9.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/erik-voorhees-venice-ai-leads-altcoin-market",
-          "author": "Squiffs",
-          "description": "The decentralized artificial intelligence protocol is up 350% from its November low.",
-          "link": "https://thedefiant.io/news/defi/erik-voorhees-venice-ai-leads-altcoin-market",
-          "publishedOn": "2026-02-17T22:19:16.000Z",
-          "wordCount": 4382,
-          "title": "Erik Voorhees’ Venice AI Leads Altcoin Market",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771366759076-png-84c5fd85-5c3a-4b37-9e78-153df014a5e2.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771366759076-png-84c5fd85-5c3a-4b37-9e78-153df014a5e2.png"
         }
       ]
     }
