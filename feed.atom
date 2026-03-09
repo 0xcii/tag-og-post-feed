@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-09T18:52:42.620Z</id>
+    <id>urn:2026-03-09T19:39:40.042Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-09T18:52:42.620Z</updated>
+    <updated>2026-03-09T19:39:40.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mastercard and Google Team Up to Build Trust for AI-Powered Shopping]]></title>
+        <id>https://thedefiant.io/news/defi/mastercard-and-google-team-up-to-build-trust-for-ai-powered-shopping</id>
+        <link href="https://thedefiant.io/news/defi/mastercard-and-google-team-up-to-build-trust-for-ai-powered-shopping"/>
+        <updated>2026-03-09T18:50:21.000Z</updated>
+        <summary type="html"><![CDATA[Verifiable Intent creates a tamper-resistant, cryptographic record of what a user authorized when an AI agent acts on their behalf.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two Largest DAT Companies Double Down on Crypto Buys]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/strategy-bitmine-increase-crypto-purchases</id>
@@ -1015,16 +1025,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[The selloff continues as tensions in the Middle East rise and the Department of Homeland Security remains partially shut down.]]></summary>
         <author>
             <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Bailey’s Nakamoto Buys His Own Bitcoin Empire at a Discounted Public Price]]></title>
-        <id>https://thedefiant.io/news/people/david-bailey-nakamoto-buys-own-bitcoin-empire-at-discounted-public-price</id>
-        <link href="https://thedefiant.io/news/people/david-bailey-nakamoto-buys-own-bitcoin-empire-at-discounted-public-price"/>
-        <updated>2026-02-18T20:00:46.000Z</updated>
-        <summary type="html"><![CDATA[The deal brings Bailey’s private ventures under a public umbrella, without a new shareholder vote.]]></summary>
-        <author>
-            <name>Denis Omelchenko</name>
         </author>
     </entry>
     <entry>
