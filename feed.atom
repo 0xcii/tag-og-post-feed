@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-09T10:44:08.128Z</id>
+    <id>urn:2026-03-09T11:34:02.126Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-09T10:44:08.128Z</updated>
+    <updated>2026-03-09T11:34:02.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[$HYPE Man]]></title>
+        <id>https://medium.com/p/6c54efebf966</id>
+        <link href="https://cryptohayes.medium.com/hype-man-6c54efebf966?source=rss-2f6e06954878------2"/>
+        <updated>2026-03-09T11:01:01.000Z</updated>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kazakhstan's Central Bank to Invest $350 Million in Crypto Assets]]></title>
         <id>https://thedefiant.io/news/regulation/kazakhstan-s-central-bank-to-invest-usd350-million-in-crypto-assets</id>
