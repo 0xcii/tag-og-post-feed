@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-09T17:53:37.448Z</id>
+    <id>urn:2026-03-09T18:52:42.620Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-09T17:53:37.448Z</updated>
+    <updated>2026-03-09T18:52:42.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Two Largest DAT Companies Double Down on Crypto Buys]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/strategy-bitmine-increase-crypto-purchases</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/strategy-bitmine-increase-crypto-purchases"/>
+        <updated>2026-03-09T18:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Strategy just bought nearly 6x more BTC than last week, while Tom Lee's Bitmine also purchased more ETH than usual.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Rallies Above $69,000 as Oil Reverses Sharply]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-rallies-above-usd69-000-as-oil-reverses-sharply</id>
@@ -1015,16 +1025,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[The deal brings Bailey’s private ventures under a public umbrella, without a new shareholder vote.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Unveils AI Benchmark Tool to Enhance Blockchain Security]]></title>
-        <id>https://thedefiant.io/news/blockchains/openai-unveils-ai-benchmark-tool-to-enhance-blockchain-security</id>
-        <link href="https://thedefiant.io/news/blockchains/openai-unveils-ai-benchmark-tool-to-enhance-blockchain-security"/>
-        <updated>2026-02-18T19:28:32.000Z</updated>
-        <summary type="html"><![CDATA[Developed in collaboration with Paradigm, EVMbench evaluates AI agents' ability to detect, patch, and exploit smart contract vulnerabilities.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
     <entry>

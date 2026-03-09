@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/strategy-bitmine-increase-crypto-purchases",
+          "author": "Olivia Capozzalo",
+          "description": "Strategy just bought nearly 6x more BTC than last week, while Tom Lee's Bitmine also purchased more ETH than usual.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/strategy-bitmine-increase-crypto-purchases",
+          "publishedOn": "2026-03-09T18:45:49.000Z",
+          "wordCount": 4760,
+          "title": "Two Largest DAT Companies Double Down on Crypto Buys",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/btc-eth-dats-jpg-ee907b75-7d66-4fa5-ba3e-929f0b178d23.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/btc-eth-dats-jpg-ee907b75-7d66-4fa5-ba3e-929f0b178d23.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-rallies-above-usd69-000-as-oil-reverses-sharply",
           "author": "yyctrader",
           "description": "Total crypto capitalization is up nearly 3% to $2.43 trillion, with most major altcoins posting gains.",
@@ -1538,21 +1553,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/btc-money-jpg-9d7ac3de-3f7f-4f51-a53c-6bc36160075c.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/openai-unveils-ai-benchmark-tool-to-enhance-blockchain-security",
-          "author": "DefAInt",
-          "description": "Developed in collaboration with Paradigm, EVMbench evaluates AI agents' ability to detect, patch, and exploit smart contract vulnerabilities.",
-          "link": "https://thedefiant.io/news/blockchains/openai-unveils-ai-benchmark-tool-to-enhance-blockchain-security",
-          "publishedOn": "2026-02-18T19:28:32.000Z",
-          "wordCount": 4223,
-          "title": "OpenAI Unveils AI Benchmark Tool to Enhance Blockchain Security",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771443671704-png-c093200f-4fed-440b-b2b0-24a0299de52b.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771443671704-png-c093200f-4fed-440b-b2b0-24a0299de52b.png"
         }
       ]
     }
