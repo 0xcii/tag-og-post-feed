@@ -55,6 +55,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-rallies-above-usd69-000-as-oil-reverses-sharply",
+          "author": "yyctrader",
+          "description": "Total crypto capitalization is up nearly 3% to $2.43 trillion, with most major altcoins posting gains.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-rallies-above-usd69-000-as-oil-reverses-sharply",
+          "publishedOn": "2026-03-09T17:42:50.000Z",
+          "wordCount": 4435,
+          "title": "Bitcoin Rallies Above $69,000 as Oil Reverses Sharply",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1773078321625-png-7d81e7b6-ef96-413e-9e0d-48fdf4044c13.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1773078321625-png-7d81e7b6-ef96-413e-9e0d-48fdf4044c13.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/sonic-labs-unveils-ussd-stablecoin-as-network-looks-to-reverse-decline",
+          "author": "yyctrader",
+          "description": "Sonic’s TVL has plunged to just $34 million, down 97% from its May 2025 peak.",
+          "link": "https://thedefiant.io/news/blockchains/sonic-labs-unveils-ussd-stablecoin-as-network-looks-to-reverse-decline",
+          "publishedOn": "2026-03-09T17:13:47.000Z",
+          "wordCount": 4613,
+          "title": "Sonic Labs Unveils USSD Stablecoin as Network Looks to Reverse Decline",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1773076464707-png-681b5ab4-f810-45e1-8b5d-cdf6dc2d09c2.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1773076464707-png-681b5ab4-f810-45e1-8b5d-cdf6dc2d09c2.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/zcash-open-development-lab-raises-usd25m-in-seed-round",
           "author": "Olivia Capozzalo",
           "description": "Zcash Open Development Lab, which Zcash devs formed after leaving Electric Coin Capital, raised funds from prominent crypto VCs.",
@@ -1523,36 +1553,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1771443671704-png-c093200f-4fed-440b-b2b0-24a0299de52b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/memecore-rally-prompts-criticism-over-valuation",
-          "author": "Jona Jaupi",
-          "description": "The token’s rally highlights an ongoing debate over memecoin fundamentals and speculation.",
-          "link": "https://thedefiant.io/news/markets/memecore-rally-prompts-criticism-over-valuation",
-          "publishedOn": "2026-02-18T19:21:09.000Z",
-          "wordCount": 4789,
-          "title": "MemeCore Rally Prompts Criticism Over Valuation",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771442472449-png-8326287b-ad7d-4fd9-a801-e32f1ffb7a17.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771442472449-png-8326287b-ad7d-4fd9-a801-e32f1ffb7a17.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/base-parts-ways-with-optimism-s-op-stack",
-          "author": "DefAInt",
-          "description": "Base, the Ethereum Layer 2 network launched by Coinbase, is transitioning from Optimism's OP Stack to a self-managed codebase.",
-          "link": "https://thedefiant.io/news/blockchains/base-parts-ways-with-optimism-s-op-stack",
-          "publishedOn": "2026-02-18T18:48:10.000Z",
-          "wordCount": 4250,
-          "title": "Base Parts Ways With Optimism's OP Stack",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771441948015-png-ad0a2609-a775-4446-bd65-06b1dc68fc5d.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771441948015-png-ad0a2609-a775-4446-bd65-06b1dc68fc5d.png"
         }
       ]
     }

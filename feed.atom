@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-09T16:59:46.600Z</id>
+    <id>urn:2026-03-09T17:53:37.448Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-09T16:59:46.600Z</updated>
+    <updated>2026-03-09T17:53:37.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Rallies Above $69,000 as Oil Reverses Sharply]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-rallies-above-usd69-000-as-oil-reverses-sharply</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-rallies-above-usd69-000-as-oil-reverses-sharply"/>
+        <updated>2026-03-09T17:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Total crypto capitalization is up nearly 3% to $2.43 trillion, with most major altcoins posting gains.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonic Labs Unveils USSD Stablecoin as Network Looks to Reverse Decline]]></title>
+        <id>https://thedefiant.io/news/blockchains/sonic-labs-unveils-ussd-stablecoin-as-network-looks-to-reverse-decline</id>
+        <link href="https://thedefiant.io/news/blockchains/sonic-labs-unveils-ussd-stablecoin-as-network-looks-to-reverse-decline"/>
+        <updated>2026-03-09T17:13:47.000Z</updated>
+        <summary type="html"><![CDATA[Sonic’s TVL has plunged to just $34 million, down 97% from its May 2025 peak.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zcash Dev Team's New Company Raises $25M in Seed Round]]></title>
         <id>https://thedefiant.io/news/blockchains/zcash-open-development-lab-raises-usd25m-in-seed-round</id>
@@ -1003,26 +1023,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <link href="https://thedefiant.io/news/blockchains/openai-unveils-ai-benchmark-tool-to-enhance-blockchain-security"/>
         <updated>2026-02-18T19:28:32.000Z</updated>
         <summary type="html"><![CDATA[Developed in collaboration with Paradigm, EVMbench evaluates AI agents' ability to detect, patch, and exploit smart contract vulnerabilities.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MemeCore Rally Prompts Criticism Over Valuation]]></title>
-        <id>https://thedefiant.io/news/markets/memecore-rally-prompts-criticism-over-valuation</id>
-        <link href="https://thedefiant.io/news/markets/memecore-rally-prompts-criticism-over-valuation"/>
-        <updated>2026-02-18T19:21:09.000Z</updated>
-        <summary type="html"><![CDATA[The token’s rally highlights an ongoing debate over memecoin fundamentals and speculation.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base Parts Ways With Optimism's OP Stack]]></title>
-        <id>https://thedefiant.io/news/blockchains/base-parts-ways-with-optimism-s-op-stack</id>
-        <link href="https://thedefiant.io/news/blockchains/base-parts-ways-with-optimism-s-op-stack"/>
-        <updated>2026-02-18T18:48:10.000Z</updated>
-        <summary type="html"><![CDATA[Base, the Ethereum Layer 2 network launched by Coinbase, is transitioning from Optimism's OP Stack to a self-managed codebase.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
