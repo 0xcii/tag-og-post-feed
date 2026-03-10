@@ -55,12 +55,27 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/circle-launches-nanopayments-on-testnet",
+          "author": "yyctrader",
+          "description": "These ultra-small, gas-free USDC transactions are designed for use by AI agents.",
+          "link": "https://thedefiant.io/news/defi/circle-launches-nanopayments-on-testnet",
+          "publishedOn": "2026-03-10T19:12:40.000Z",
+          "wordCount": 4609,
+          "title": "Circle Launches Nanopayments on Testnet",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1773170799316-png-eb474086-1347-484b-bc32-f47af9f50bf9.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1773170799316-png-eb474086-1347-484b-bc32-f47af9f50bf9.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/jito-foundation-acquires-solana-news-outlet-solanafloor",
           "author": "Olivia Capozzalo",
           "description": "The foundation behind Solana liquid staking protocol Jito acquired SolanaFloor just two weeks after the media outlet announced it was shutting down.",
           "link": "https://thedefiant.io/news/defi/jito-foundation-acquires-solana-news-outlet-solanafloor",
           "publishedOn": "2026-03-10T18:40:38.000Z",
-          "wordCount": 4567,
+          "wordCount": 4573,
           "title": "Jito Foundation Acquires Solana News Outlet SolanaFloor",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/solana-jpg-e19b4211-76c7-4499-a9d5-26b009b10db3.jpg",
@@ -1538,21 +1553,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1771535801988-png-c8fbbc9e-2732-43ff-b4cd-3a513015ff91.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/aptos-pivots-tokenomics-towards-performance-driven-deflation",
-          "author": "Squiffs",
-          "description": "The Layer 1 network proposes token buybacks, raising gas fees by 10x, and reducing the staking rewards rate.",
-          "link": "https://thedefiant.io/news/blockchains/aptos-pivots-tokenomics-towards-performance-driven-deflation",
-          "publishedOn": "2026-02-19T20:32:48.000Z",
-          "wordCount": 4563,
-          "title": "Aptos Pivots Tokenomics Towards Performance-Driven Deflation",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1771533172968-png-6df5f3c6-ebbe-48a6-a021-e3669dff07ac.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1771533172968-png-6df5f3c6-ebbe-48a6-a021-e3669dff07ac.png"
         }
       ]
     }

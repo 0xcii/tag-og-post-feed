@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-10T18:46:19.264Z</id>
+    <id>urn:2026-03-10T19:37:10.984Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-10T18:46:19.264Z</updated>
+    <updated>2026-03-10T19:37:10.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Circle Launches Nanopayments on Testnet]]></title>
+        <id>https://thedefiant.io/news/defi/circle-launches-nanopayments-on-testnet</id>
+        <link href="https://thedefiant.io/news/defi/circle-launches-nanopayments-on-testnet"/>
+        <updated>2026-03-10T19:12:40.000Z</updated>
+        <summary type="html"><![CDATA[These ultra-small, gas-free USDC transactions are designed for use by AI agents.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jito Foundation Acquires Solana News Outlet SolanaFloor]]></title>
         <id>https://thedefiant.io/news/defi/jito-foundation-acquires-solana-news-outlet-solanafloor</id>
@@ -1015,16 +1025,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[The EF announced its 2026 Protocol priorities, emphasizing scalability, user experience, and security, as the network prepares for the Glamsterdam upgrade.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aptos Pivots Tokenomics Towards Performance-Driven Deflation]]></title>
-        <id>https://thedefiant.io/news/blockchains/aptos-pivots-tokenomics-towards-performance-driven-deflation</id>
-        <link href="https://thedefiant.io/news/blockchains/aptos-pivots-tokenomics-towards-performance-driven-deflation"/>
-        <updated>2026-02-19T20:32:48.000Z</updated>
-        <summary type="html"><![CDATA[The Layer 1 network proposes token buybacks, raising gas fees by 10x, and reducing the staking rewards rate.]]></summary>
-        <author>
-            <name>Squiffs</name>
         </author>
     </entry>
     <entry>
