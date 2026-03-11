@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-11T12:59:05.796Z</id>
+    <id>urn:2026-03-11T14:08:50.867Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-11T12:59:05.796Z</updated>
+    <updated>2026-03-11T14:08:50.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wells Fargo Files Trademark for 'WFUSD,' Signaling Stablecoin Ambitions]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/wells-fargo-files-trademark-for-wfusd</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/wells-fargo-files-trademark-for-wfusd"/>
+        <updated>2026-03-11T14:07:29.000Z</updated>
+        <summary type="html"><![CDATA[While the bank has yet to confirm its plans, the move could mark a first step toward launching its own USD stablecoin.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mantle TVL Crosses $1 Billion Fueled by Aave Deployment]]></title>
         <id>https://thedefiant.io/news/blockchains/mantle-tvl-crosses-usd1-billion-fueled-by-aave-deployment</id>
@@ -860,7 +870,7 @@ But what if it fragmented it instead?]]></summary>
         <id>https://thedefiant.io/news/defi/ethereum-foundation-pledges-to-support-privacy-first-permissionless-defi</id>
         <link href="https://thedefiant.io/news/defi/ethereum-foundation-pledges-to-support-privacy-first-permissionless-defi"/>
         <updated>2026-02-24T17:16:52.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Foundation is doubling down on decentralized finance this year, forming a dedicated internal unit to support builders and to scale what it calls “cypherpunk values alongside market growth.”]]></summary>
+        <summary type="html"><![CDATA[The EF has created a team to support DeFi builders, focusing on privacy, security, and open-source principles.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -1015,16 +1025,6 @@ Rune Christensen explains why DAO governance becomes a struggle for resources, h
         <summary type="html"><![CDATA[A new study found that Kalshi’s markets respond more quickly to economic shifts than traditional surveys.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BGD to Leave Aave Citing Governance Tensions]]></title>
-        <id>https://thedefiant.io/news/defi/bgd-to-leave-aave-citing-governance-tensions</id>
-        <link href="https://thedefiant.io/news/defi/bgd-to-leave-aave-citing-governance-tensions"/>
-        <updated>2026-02-20T17:08:46.000Z</updated>
-        <summary type="html"><![CDATA[The development team said that disagreements over direction, particularly around Aave V4, drove the decision.]]></summary>
-        <author>
-            <name>Jona Jaupi</name>
         </author>
     </entry>
     <entry>
