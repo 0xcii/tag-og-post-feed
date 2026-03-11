@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-11T18:52:53.180Z</id>
+    <id>urn:2026-03-11T19:40:09.422Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-11T18:52:53.180Z</updated>
+    <updated>2026-03-11T19:40:09.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethena's Deployed Capital Slumps as Demand for Leverage Dries Up]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/ethena-s-deployed-capital-slumps-as-demand-for-leverage-dries-up</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/ethena-s-deployed-capital-slumps-as-demand-for-leverage-dries-up"/>
+        <updated>2026-03-11T19:08:29.000Z</updated>
+        <summary type="html"><![CDATA[An analysis from WuBlockchain shows basis trade capital at record lows as hedging crowds out leveraged longs, pushing derivatives markets toward an unusual equilibrium.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Foundry to Launch Institutional Zcash Mining Pool]]></title>
         <id>https://thedefiant.io/news/blockchains/foundry-to-launch-institutional-zcash-mining-pool</id>
@@ -850,7 +860,7 @@ But what if it fragmented it instead?]]></summary>
         <id>https://thedefiant.io/news/markets/crypto-markets-rally-feb-25-2026</id>
         <link href="https://thedefiant.io/news/markets/crypto-markets-rally-feb-25-2026"/>
         <updated>2026-02-25T17:07:07.000Z</updated>
-        <summary type="html"><![CDATA[A broad-based rally lifted cryptocurrencies this morning, with BTC and ETH pushing back above key psychological levels, helped by strong spot Bitcoin ETF inflows.]]></summary>
+        <summary type="html"><![CDATA[Crypto markets saw a moderate bounce on Wednesday as buyers returned across major tokens, reversing some recent losses.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -860,7 +870,7 @@ But what if it fragmented it instead?]]></summary>
         <id>https://thedefiant.io/news/infrastructure/b2b-stablecoin-payments-grew-over-730-percent-yoy-in-2025</id>
         <link href="https://thedefiant.io/news/infrastructure/b2b-stablecoin-payments-grew-over-730-percent-yoy-in-2025"/>
         <updated>2026-02-25T15:06:16.000Z</updated>
-        <summary type="html"><![CDATA[Business-to-business (B2B) stablecoin payments ballooned over 730% year-over-year in 2025, according to a new report by Artemis and Stablecon.]]></summary>
+        <summary type="html"><![CDATA[From windmills to auto parts, small to medium-sized are leading the way with stablecoin adoption, per a new report from Stablecon and Artemis.]]></summary>
         <author>
             <name>Denis Omelchenko</name>
         </author>
@@ -1013,18 +1023,6 @@ But what if it fragmented it instead?]]></summary>
         <summary type="html"><![CDATA[The project is reportedly being led by Israeli tech entrepreneur Liran Tancman, who is working as an adviser to the recently established peacekeeping organization.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why DAO Governance Always Turns Political]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/why-dao-governance-always-turns-political-</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/why-dao-governance-always-turns-political-"/>
-        <updated>2026-02-21T22:56:40.000Z</updated>
-        <summary type="html"><![CDATA["In a decentralized governance system, it's unavoidable to develop politics."
-
-Rune Christensen explains why DAO governance becomes a struggle for resources, how the "iron law of bureaucracy" emerges, and why Sky redesigned its architecture to survive it.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
