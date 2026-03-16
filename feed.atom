@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-16T13:11:23.654Z</id>
+    <id>urn:2026-03-16T14:58:32.993Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-16T13:11:23.654Z</updated>
+    <updated>2026-03-16T14:58:32.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Asset Treasury Giants Step Up Purchases]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/digital-asset-treasury-giants-step-up-purchases</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/digital-asset-treasury-giants-step-up-purchases"/>
+        <updated>2026-03-16T14:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Strategy and Bitmine both announced fresh crypto buys today, while Metaplanet revealed its latest capital raise.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC dismisses civil fraud case against BitClout founder Nader Al-Naji: U.S. Securities and Exchange Commission]]></title>
         <id>https://thedefiant.io/news/regulation/sec-dismisses-bitclout-nader-al-naji-lawsuit-4sdba8</id>
@@ -1013,16 +1023,6 @@
 But what if it fragmented it instead?]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Worth $580 Million Seized from Chinese Transnational Criminal Networks]]></title>
-        <id>https://thedefiant.io/news/regulation/crypto-worth-usd580-million-seized-from-chinese-transnational-criminal-networks</id>
-        <link href="https://thedefiant.io/news/regulation/crypto-worth-usd580-million-seized-from-chinese-transnational-criminal-networks"/>
-        <updated>2026-02-27T16:41:39.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Justice has announced a significant cryptocurrency seizure linked to Chinese transnational criminal networks, part of a broader initiative to combat global scams.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
     <entry>

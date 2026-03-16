@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/digital-asset-treasury-giants-step-up-purchases",
+          "author": "DefAInt",
+          "description": "Strategy and Bitmine both announced fresh crypto buys today, while Metaplanet revealed its latest capital raise.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/digital-asset-treasury-giants-step-up-purchases",
+          "publishedOn": "2026-03-16T14:03:59.000Z",
+          "wordCount": 5045,
+          "title": "Digital Asset Treasury Giants Step Up Purchases",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/btc-business-jpg-5d9cedbe-018f-40e5-a6a5-ff28c3752d9c.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/btc-business-jpg-5d9cedbe-018f-40e5-a6a5-ff28c3752d9c.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/sec-dismisses-bitclout-nader-al-naji-lawsuit-4sdba8",
           "author": "DefAInt",
           "description": "The SEC has closed its civil enforcement lawsuit against DeSo creator Nader Al-Naji, ending a case that accused him of wire fraud and selling unregistered securities.",
@@ -1538,21 +1553,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-597b5b0e-8365-4d75-a7c2-ea12e5ae6ae7.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/crypto-worth-usd580-million-seized-from-chinese-transnational-criminal-networks",
-          "author": "DefAInt",
-          "description": "The U.S. Department of Justice has announced a significant cryptocurrency seizure linked to Chinese transnational criminal networks, part of a broader initiative to combat global scams.",
-          "link": "https://thedefiant.io/news/regulation/crypto-worth-usd580-million-seized-from-chinese-transnational-criminal-networks",
-          "publishedOn": "2026-02-27T16:41:39.000Z",
-          "wordCount": 4432,
-          "title": "Crypto Worth $580 Million Seized from Chinese Transnational Criminal Networks",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1772210555864-png-93be3065-904b-4987-8093-8c58c2629bb9.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1772210555864-png-93be3065-904b-4987-8093-8c58c2629bb9.png"
         }
       ]
     }
