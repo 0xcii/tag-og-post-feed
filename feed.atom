@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-16T16:10:47.069Z</id>
+    <id>urn:2026-03-16T17:58:55.577Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-16T16:10:47.069Z</updated>
+    <updated>2026-03-16T17:58:55.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Wealth Manager Abra to Go Public via SPAC Merger]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/crypto-wealth-manager-abra-to-go-public-via-spac-merger</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/crypto-wealth-manager-abra-to-go-public-via-spac-merger"/>
+        <updated>2026-03-16T16:35:43.000Z</updated>
+        <summary type="html"><![CDATA[The deal values Abra at $750 million pre-money.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETH Outperforms Large-Cap Crypto Assets as OGs Load Up]]></title>
+        <id>https://thedefiant.io/news/markets/eth-outperforms-large-cap-crypto-as-ogs-load-up</id>
+        <link href="https://thedefiant.io/news/markets/eth-outperforms-large-cap-crypto-as-ogs-load-up"/>
+        <updated>2026-03-16T16:21:28.000Z</updated>
+        <summary type="html"><![CDATA[On-chain data shows that two early crypto investors purchased millions of dollars worth of ETH today, while Bitmine continued its weekly purchases.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digital Asset Treasury Giants Step Up Purchases]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/digital-asset-treasury-giants-step-up-purchases</id>
@@ -995,34 +1015,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aave’s “Aave Will Win” Proposal Passes Temp Check, Advancing Governance Shift]]></title>
-        <id>https://thedefiant.io/news/defi/aave-s-aave-will-win-proposal-advances-with-community-backing</id>
-        <link href="https://thedefiant.io/news/defi/aave-s-aave-will-win-proposal-advances-with-community-backing"/>
-        <updated>2026-03-02T13:31:10.000Z</updated>
-        <summary type="html"><![CDATA[The "Aave Will Win" governance proposal has successfully passed the Temp Check vote, garnering 52.58% support, and is now progressing to the Aave Request for Final Comment (ARFC) stage, marking a significant step for Aave's future development.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iOS Warfare]]></title>
         <id>https://medium.com/p/e30c17f84bab</id>
         <link href="https://cryptohayes.medium.com/ios-warfare-e30c17f84bab?source=rss-2f6e06954878------2"/>
         <updated>2026-03-01T23:01:01.000Z</updated>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did L2 Fragment Ethereum? - With Yuval Rooz, CEO of Digital Asset, Co-Founder of Canton]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/did-l2-fragment-ethereum-with-yuval-rooz-ceo-of-digital-asset-co-founder-of-canton</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/did-l2-fragment-ethereum-with-yuval-rooz-ceo-of-digital-asset-co-founder-of-canton"/>
-        <updated>2026-02-27T18:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Layer 2 was supposed to scale Ethereum.
-
-But what if it fragmented it instead?]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
     <entry>
