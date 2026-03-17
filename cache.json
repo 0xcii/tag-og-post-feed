@@ -55,6 +55,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing",
+          "author": "DefAInt",
+          "description": "The toolkit integrates with Coinbase's x402 protocol, giving platforms a way to verify a real person stands behind an automated agent — without revealing who that person is.",
+          "link": "https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing",
+          "publishedOn": "2026-03-17T15:00:00.000Z",
+          "wordCount": 5336,
+          "title": "World Launches AgentKit to Let AI Agents Carry Proof of Human Backing",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/world-agent-kit-jpg-b6babae8-f917-4019-b29d-99f892d10cd2.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/world-agent-kit-jpg-b6babae8-f917-4019-b29d-99f892d10cd2.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk",
           "author": "DefAInt",
           "description": "The move aims to integrate BVNK's infra into Mastercard's network to bridge on-chain payments and existing fiat rails.",
@@ -120,7 +135,7 @@
           "description": "Cango sold approximately $305 million in bitcoin holdings in February to repay debt and finance an artificial intelligence infrastructure transformation.",
           "link": "https://thedefiant.io/news/markets/cango-sells-4451-bitcoin-debt-repayment-ai-expansion-1o98gu",
           "publishedOn": "2026-03-17T11:01:49.000Z",
-          "wordCount": 4447,
+          "wordCount": 4425,
           "title": "Bitcoin miner Cango offloads 4,451 BTC to slash debt and fund AI pivot: Cango",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7c27df3c1a42739a7b27293baad08aede02199cc-1792x1024.jpg",
@@ -1287,7 +1302,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/revolut-zerohash-apply-for-united-states-national-bank-charters",
           "author": "DefAInt",
-          "description": "The global fintech applied to become a federally regulated, FDIC-insured bank, while the crypto infra firm is looking to become a national bank trust.",
+          "description": "Two crypto-adjacent firms just applied to be federally regulated banks in the United States.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/revolut-zerohash-apply-for-united-states-national-bank-charters",
           "publishedOn": "2026-03-05T17:32:38.000Z",
           "wordCount": 4804,
@@ -1302,7 +1317,7 @@
         {
           "id": "https://thedefiant.io/news/cefi/kraken-xstocks-launches-xchange",
           "author": "DefAInt",
-          "description": "Kraken’s tokenized stock platform, xStocks, has unveiled xChange, a multi-chain execution layer for tokenized equity trading. The new platform enables cross-chain transactions on Ethereum and Solan and supports over 70 tokenized stocks directly on-chain, according to an announcement from Kraken today, March 5.",
+          "description": "The new platform, xChange, enables cross-chain trading of over 70 tokenized stocks across Ethereum and Solana.",
           "link": "https://thedefiant.io/news/cefi/kraken-xstocks-launches-xchange",
           "publishedOn": "2026-03-05T15:49:42.000Z",
           "wordCount": 4592,
@@ -1538,21 +1553,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/watches-jpg-7f0a3d85-3d1a-44c1-b804-2c7578ce582e.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/sofi-mastercard-partner-to-implement-sofiusd-stablecoin",
-          "author": "DefAInt",
-          "description": "The U.S. neobank first announced its stablecoin, which is available on the Ethereum network, late last year.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/sofi-mastercard-partner-to-implement-sofiusd-stablecoin",
-          "publishedOn": "2026-03-03T14:20:55.000Z",
-          "wordCount": 4802,
-          "title": "SoFi and Mastercard Join Forces to Integrate SoFiUSD for Global Settlement",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/usd-mastercard-jpg-e790a46c-bb2c-4ff3-be82-8758b900591e.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/usd-mastercard-jpg-e790a46c-bb2c-4ff3-be82-8758b900591e.jpg"
         }
       ]
     }

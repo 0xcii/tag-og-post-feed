@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-17T14:55:16.458Z</id>
+    <id>urn:2026-03-17T16:05:19.558Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-17T14:55:16.458Z</updated>
+    <updated>2026-03-17T16:05:19.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[World Launches AgentKit to Let AI Agents Carry Proof of Human Backing]]></title>
+        <id>https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing</id>
+        <link href="https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing"/>
+        <updated>2026-03-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The toolkit integrates with Coinbase's x402 protocol, giving platforms a way to verify a real person stands behind an automated agent — without revealing who that person is.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastercard to Acquire Stablecoin Infra Firm BVNK for up to $1.8 Billion]]></title>
         <id>https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk</id>
@@ -839,7 +849,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/revolut-zerohash-apply-for-united-states-national-bank-charters</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/revolut-zerohash-apply-for-united-states-national-bank-charters"/>
         <updated>2026-03-05T17:32:38.000Z</updated>
-        <summary type="html"><![CDATA[The global fintech applied to become a federally regulated, FDIC-insured bank, while the crypto infra firm is looking to become a national bank trust.]]></summary>
+        <summary type="html"><![CDATA[Two crypto-adjacent firms just applied to be federally regulated banks in the United States.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -849,7 +859,7 @@
         <id>https://thedefiant.io/news/cefi/kraken-xstocks-launches-xchange</id>
         <link href="https://thedefiant.io/news/cefi/kraken-xstocks-launches-xchange"/>
         <updated>2026-03-05T15:49:42.000Z</updated>
-        <summary type="html"><![CDATA[Kraken’s tokenized stock platform, xStocks, has unveiled xChange, a multi-chain execution layer for tokenized equity trading. The new platform enables cross-chain transactions on Ethereum and Solan and supports over 70 tokenized stocks directly on-chain, according to an announcement from Kraken today, March 5.]]></summary>
+        <summary type="html"><![CDATA[The new platform, xChange, enables cross-chain trading of over 70 tokenized stocks across Ethereum and Solana.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -1000,16 +1010,6 @@
         <link href="https://thedefiant.io/news/nfts-and-web3/kalshi-partners-with-luxury-watch-marketplace-bezel"/>
         <updated>2026-03-03T16:17:36.000Z</updated>
         <summary type="html"><![CDATA[The partnership with the CFTC-regulated prediction market will let users bet on luxury watch prices.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SoFi and Mastercard Join Forces to Integrate SoFiUSD for Global Settlement]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/sofi-mastercard-partner-to-implement-sofiusd-stablecoin</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/sofi-mastercard-partner-to-implement-sofiusd-stablecoin"/>
-        <updated>2026-03-03T14:20:55.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. neobank first announced its stablecoin, which is available on the Ethereum network, late last year.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
