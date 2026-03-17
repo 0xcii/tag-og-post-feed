@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-17T13:11:10.506Z</id>
+    <id>urn:2026-03-17T14:55:16.458Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-17T13:11:10.506Z</updated>
+    <updated>2026-03-17T14:55:16.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mastercard to Acquire Stablecoin Infra Firm BVNK for up to $1.8 Billion]]></title>
+        <id>https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk</id>
+        <link href="https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk"/>
+        <updated>2026-03-17T14:15:49.000Z</updated>
+        <summary type="html"><![CDATA[The move aims to integrate BVNK's infra into Mastercard's network to bridge on-chain payments and existing fiat rails.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aster Launches Privacy-Focused Layer 1]]></title>
+        <id>https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1</id>
+        <link href="https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1"/>
+        <updated>2026-03-17T13:52:16.000Z</updated>
+        <summary type="html"><![CDATA[The second-largest perpetual futures DEX by volume began the rollout of its mainnet, which uses ZK proofs to keep trades private.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple to expand in Brazil with custody, payments, and brokerage services ahead of central bank approval push: Ripple]]></title>
+        <id>https://thedefiant.io/news/regulation/ripple-brazil-expansion-custody-payments-brokerage-4zbx5q</id>
+        <link href="https://thedefiant.io/news/regulation/ripple-brazil-expansion-custody-payments-brokerage-4zbx5q"/>
+        <updated>2026-03-17T13:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Ripple is adding custody, payments, and brokerage tools for digital asset management in Brazil as it prepares to seek regulatory approval from the country's central bank.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cari Network launches tokenized deposit platform on ZKsync's Prividium for US regional banks: Cari Network]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/cari-zksync-prividium-tokenized-deposits-e07mwc</id>
@@ -819,7 +849,7 @@
         <id>https://thedefiant.io/news/cefi/kraken-xstocks-launches-xchange</id>
         <link href="https://thedefiant.io/news/cefi/kraken-xstocks-launches-xchange"/>
         <updated>2026-03-05T15:49:42.000Z</updated>
-        <summary type="html"><![CDATA[The new platform, xChange, enables cross-chain trading of over 70 tokenized stocks across Ethereum and Solana.]]></summary>
+        <summary type="html"><![CDATA[Kraken’s tokenized stock platform, xStocks, has unveiled xChange, a multi-chain execution layer for tokenized equity trading. The new platform enables cross-chain transactions on Ethereum and Solan and supports over 70 tokenized stocks directly on-chain, according to an announcement from Kraken today, March 5.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -982,36 +1012,6 @@
         <summary type="html"><![CDATA[The U.S. neobank first announced its stablecoin, which is available on the Ethereum network, late last year.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa and Stripe-Owned Bridge Roll Out Stablecoin-Linked Cards to 100+ Countries]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/visa-and-stripe-owned-bridge-roll-out-stablecoin-linked-cards-to-100-countries</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/visa-and-stripe-owned-bridge-roll-out-stablecoin-linked-cards-to-100-countries"/>
-        <updated>2026-03-03T13:49:04.000Z</updated>
-        <summary type="html"><![CDATA[The program allows fintech firms and wallet providers to offer cards that let users spend stablecoin balances at any of Visa’s 175 million merchants worldwide.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marc Zeller's ACI Exits Aave Amid Governance Rift]]></title>
-        <id>https://thedefiant.io/news/defi/aave-chan-initiative-announces-exit-from-aave-dao-amid-governance-rift</id>
-        <link href="https://thedefiant.io/news/defi/aave-chan-initiative-announces-exit-from-aave-dao-amid-governance-rift"/>
-        <updated>2026-03-03T11:22:21.000Z</updated>
-        <summary type="html"><![CDATA[ACI’s exit escalates that debate, particularly as other major contributors like BGD Labs recently announced plans to leave by April 2026 amid governance friction.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Venice AI Surges Above $600 Million Valuation]]></title>
-        <id>https://thedefiant.io/news/defi/venice-ai-surges-above-usd600-million-valuation</id>
-        <link href="https://thedefiant.io/news/defi/venice-ai-surges-above-usd600-million-valuation"/>
-        <updated>2026-03-02T21:39:35.000Z</updated>
-        <summary type="html"><![CDATA[The VVV token is up another 35% today after Venice became the recommended private model provider for OpenClaw]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
     <entry>
