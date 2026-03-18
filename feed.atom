@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-18T18:02:57.672Z</id>
+    <id>urn:2026-03-18T19:48:04.204Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-18T18:02:57.672Z</updated>
+    <updated>2026-03-18T19:48:04.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Markets Slide as Fed Leaves Rates Unchanged]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-markets-slide-as-fed-leaves-rates-unchanged</id>
+        <link href="https://thedefiant.io/news/markets/crypto-markets-slide-as-fed-leaves-rates-unchanged"/>
+        <updated>2026-03-18T19:35:34.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin slips 5% as rising U.S. wholesale inflation and ongoing geopolitical tensions weigh on investor sentiment.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visa Bets on Agentic Commerce With CLI Payment Tool for AI Agents]]></title>
+        <id>https://thedefiant.io/news/defi/visa-bets-on-agentic-commerce-with-cli-payment-tool-for-ai-agents</id>
+        <link href="https://thedefiant.io/news/defi/visa-bets-on-agentic-commerce-with-cli-payment-tool-for-ai-agents"/>
+        <updated>2026-03-18T18:04:50.000Z</updated>
+        <summary type="html"><![CDATA[Visa Crypto Labs has launched an experimental product that lets AI agents make payments directly from the command line, without API keys or pre-funded accounts.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aster Deepens WLFI Partnership With USD1 Perpetual Markets]]></title>
+        <id>https://thedefiant.io/news/defi/aster-deepens-wlfi-partnership-with-usd1-perpetual-markets</id>
+        <link href="https://thedefiant.io/news/defi/aster-deepens-wlfi-partnership-with-usd1-perpetual-markets"/>
+        <updated>2026-03-18T17:46:48.000Z</updated>
+        <summary type="html"><![CDATA[The perpetuals exchange is promoting WLFI's stablecoin as a trading asset ahead of the Aster Chain Layer 1 launch.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1inch Launches Campaign to Push DeFi into US University Curricula]]></title>
         <id>https://thedefiant.io/news/defi/1inch-launches-1inch-forward-campaign-to-push-defi-into-us-university-curricula</id>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/strategy-bitmine-increase-crypto-purchases</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/strategy-bitmine-increase-crypto-purchases"/>
         <updated>2026-03-09T18:45:49.000Z</updated>
-        <summary type="html"><![CDATA[Strategy just bought nearly 6x more BTC than last week, while Tom Lee's Bitmine also purchased more ETH than usual.]]></summary>
+        <summary type="html"><![CDATA[The largest digital asset treasury (DAT) companies for Bitcoin (BTC) and Ethereum (ETH) added more crypto than unusual to their stockpiles last week.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -840,7 +870,7 @@
         <id>https://thedefiant.io/news/blockchains/zcash-open-development-lab-raises-usd25m-in-seed-round</id>
         <link href="https://thedefiant.io/news/blockchains/zcash-open-development-lab-raises-usd25m-in-seed-round"/>
         <updated>2026-03-09T16:35:18.000Z</updated>
-        <summary type="html"><![CDATA[The recently founded firm Zcash Open Development Lab — formed by the former core developers at Electric Coin Capital — announced that it has secured over $25 million in seed funding to support the privacy-focused ecosystem.]]></summary>
+        <summary type="html"><![CDATA[Zcash Open Development Lab, which Zcash devs formed after leaving Electric Coin Capital, raised funds from prominent crypto VCs.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -980,36 +1010,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/revolut-zerohash-apply-for-united-states-national-bank-charters"/>
         <updated>2026-03-05T17:32:38.000Z</updated>
         <summary type="html"><![CDATA[The global fintech applied to become a federally regulated, FDIC-insured bank, while the crypto infra firm is looking to become a national bank trust.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken's xStocks Launches Unified Liquidity Layer for Tokenized Stocks]]></title>
-        <id>https://thedefiant.io/news/cefi/kraken-xstocks-launches-xchange</id>
-        <link href="https://thedefiant.io/news/cefi/kraken-xstocks-launches-xchange"/>
-        <updated>2026-03-05T15:49:42.000Z</updated>
-        <summary type="html"><![CDATA[The new platform, xChange, enables cross-chain trading of over 70 tokenized stocks across Ethereum and Solana.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYSE Owner Invests in OKX at $25 Billion Valuation]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/nyse-owner-ice-strategic-investment-okx</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/nyse-owner-ice-strategic-investment-okx"/>
-        <updated>2026-03-05T14:26:56.000Z</updated>
-        <summary type="html"><![CDATA[The publicly traded parent company of NYSE, Intercontinental Exchange (ICE), is establishing a strategic partnership with the global centralized exchange.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Western Union Partners with Crossmint to Launch USDPT Stablecoin on Solana]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/western-union-partners-with-crossmint-to-launch-usdpt-stablecoin-on-solana</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/western-union-partners-with-crossmint-to-launch-usdpt-stablecoin-on-solana"/>
-        <updated>2026-03-04T21:55:22.000Z</updated>
-        <summary type="html"><![CDATA[This partnership aims to leverage Solana’s speed and Western Union’s extensive network to facilitate seamless cross-border money transfers.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
