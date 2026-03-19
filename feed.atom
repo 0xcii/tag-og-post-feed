@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-19T10:39:31.378Z</id>
+    <id>urn:2026-03-19T11:34:55.324Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-19T10:39:31.378Z</updated>
+    <updated>2026-03-19T11:34:55.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1019,15 +1019,6 @@
         <id>https://medium.com/p/e30c17f84bab</id>
         <link href="https://cryptohayes.medium.com/ios-warfare-e30c17f84bab?source=rss-2f6e06954878------2"/>
         <updated>2026-03-01T23:01:01.000Z</updated>
-        <author>
-            <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is Fine]]></title>
-        <id>https://medium.com/p/a8e31d46b27c</id>
-        <link href="https://cryptohayes.medium.com/this-is-fine-a8e31d46b27c?source=rss-2f6e06954878------2"/>
-        <updated>2026-02-17T23:01:01.000Z</updated>
         <author>
             <name>Arthur Hayes</name>
         </author>
