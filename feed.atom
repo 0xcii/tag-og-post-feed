@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-19T17:53:31.450Z</id>
+    <id>urn:2026-03-19T18:57:35.964Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-19T17:53:31.450Z</updated>
+    <updated>2026-03-19T18:57:35.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Celo Proposes Shifting Opera to 'Long-Term Stakeholder' with 160M CELO Grant]]></title>
+        <id>https://thedefiant.io/news/blockchains/celo-proposes-shifting-opera-to-long-term-stakeholder-with-160m-celo-grant</id>
+        <link href="https://thedefiant.io/news/blockchains/celo-proposes-shifting-opera-to-long-term-stakeholder-with-160m-celo-grant"/>
+        <updated>2026-03-19T18:49:44.000Z</updated>
+        <summary type="html"><![CDATA[The move would replace quarterly CELO grants to Opera, which each required Celo governance approval, to a one-time token payment for a three-year partnership.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EtherFi to Tap Plume's Nest Vaults for Real-World Asset Yield]]></title>
+        <id>https://thedefiant.io/news/defi/etherfi-to-tap-plume-s-nest-vaults-for-real-world-asset-yield</id>
+        <link href="https://thedefiant.io/news/defi/etherfi-to-tap-plume-s-nest-vaults-for-real-world-asset-yield"/>
+        <updated>2026-03-19T18:41:58.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi neobank will route customer deposits into a basis-trade vault powered by Superstate’s USCC fund.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amundi Launches Tokenized Swap Fund on Ethereum and Stellar]]></title>
+        <id>https://thedefiant.io/news/defi/amundi-launches-tokenized-swap-fund-on-ethereum-and-stellar</id>
+        <link href="https://thedefiant.io/news/defi/amundi-launches-tokenized-swap-fund-on-ethereum-and-stellar"/>
+        <updated>2026-03-19T18:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Europe's largest asset manager has launched its second on-chain fund, leveraging Chainlink oracles to publish NAV data.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Becomes MLB’s Exclusive Prediction Market Partner]]></title>
         <id>https://thedefiant.io/news/defi/polymarket-becomes-mlb-s-exclusive-prediction-market-partner</id>
@@ -840,7 +870,7 @@
         <id>https://thedefiant.io/news/defi/starknet-introduces-privacy-framework-for-erc-20-tokens</id>
         <link href="https://thedefiant.io/news/defi/starknet-introduces-privacy-framework-for-erc-20-tokens"/>
         <updated>2026-03-10T14:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Starknet has unveiled the STRK20 token framework, a new initiative designed to enhance the privacy of Ethereum’s ERC-20 tokens on its platform. According to a blog post from the Layer 2 today, March 10, this development addresses ongoing privacy concerns for token issuers, users, and regulators.]]></summary>
+        <summary type="html"><![CDATA[Starknet has launched the STRK20 token standard, aimed at integrating privacy features into ERC-20 tokens on its platform. This development emphasizes the growing trend of privacy in blockchain transactions.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -982,36 +1012,6 @@
         <summary type="html"><![CDATA[21Shares has launched the first U.S. spot DOT ETF just a week after it launched one of the first spot ETFs for SUI.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fed, OCC, FDIC Clarify Capital Treatment of Tokenized Securities]]></title>
-        <id>https://thedefiant.io/news/regulation/us-federal-banking-agencies-issue-guidance-tokenized-securities</id>
-        <link href="https://thedefiant.io/news/regulation/us-federal-banking-agencies-issue-guidance-tokenized-securities"/>
-        <updated>2026-03-06T15:42:04.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. federal banking agencies have issued new guidance clarifying that tokenized securities should receive the same capital treatment as traditional securities.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Fintech Strike Secures BitLicense to Operate in New York]]></title>
-        <id>https://thedefiant.io/news/regulation/bitcoin-fintech-strike-receives-nydfs-bitlicense</id>
-        <link href="https://thedefiant.io/news/regulation/bitcoin-fintech-strike-receives-nydfs-bitlicense"/>
-        <updated>2026-03-06T15:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Strike's parent firm has received a BitLicense from the New York Department of Financial Services (NYDFS), enabling it to offer crypto services in New York.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB-based Prediction Market Opinion Launches Token]]></title>
-        <id>https://thedefiant.io/news/defi/bnb-based-prediction-market-opinion-launches-token</id>
-        <link href="https://thedefiant.io/news/defi/bnb-based-prediction-market-opinion-launches-token"/>
-        <updated>2026-03-05T19:30:56.000Z</updated>
-        <summary type="html"><![CDATA[OPN debuted at a $450 million valuation but is dropping steadily amid airdrop selling pressure.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
     <entry>
