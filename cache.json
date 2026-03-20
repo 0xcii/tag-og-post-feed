@@ -45,6 +45,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/electric-capital-maps-501-real-world-yield-sources-finds-93-untouched-by-defi",
+          "author": "yyctrader",
+          "description": "A new taxonomy from the venture firm identifies seven barrier clusters keeping most traditional yield sources off-chain, and argues that stablecoin growth is pulling them closer.",
+          "link": "https://thedefiant.io/news/defi/electric-capital-maps-501-real-world-yield-sources-finds-93-untouched-by-defi",
+          "publishedOn": "2026-03-20T20:24:34.000Z",
+          "wordCount": 4784,
+          "title": "Electric Capital Maps 501 Real-World Yield Sources, Finds 93% Untouched by DeFi",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774038491522-png-11030c6c-6ad3-49f9-8bcd-c36878e5fdab.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774038491522-png-11030c6c-6ad3-49f9-8bcd-c36878e5fdab.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/coinbase-launches-stock-perpetual-futures-for-non-u-s-users",
+          "author": "yyctrader",
+          "description": "The exchange is offering leveraged contracts on major technology stocks and ETFs.",
+          "link": "https://thedefiant.io/news/cefi/coinbase-launches-stock-perpetual-futures-for-non-u-s-users",
+          "publishedOn": "2026-03-20T19:53:29.000Z",
+          "wordCount": 4576,
+          "title": "Coinbase Launches Stock Perpetual Futures for Non-U.S. Users",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774036607049-png-e7e4aae3-0ca9-48b5-a4be-a76e1e908799.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774036607049-png-e7e4aae3-0ca9-48b5-a4be-a76e1e908799.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/world-gold-council-proposes-shared-infrastructure-for-tokenized-gold-products",
+          "author": "yyctrader",
+          "description": "The industry body co-authored a white paper with Boston Consulting Group outlining a \"Gold as a Service\" platform to standardize issuance and custody of digital gold.",
+          "link": "https://thedefiant.io/news/defi/world-gold-council-proposes-shared-infrastructure-for-tokenized-gold-products",
+          "publishedOn": "2026-03-20T19:38:39.000Z",
+          "wordCount": 4967,
+          "title": "World Gold Council Proposes Shared Infrastructure for Tokenized Gold Products",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774035873658-png-cd40a86d-0529-43a4-8377-c9c017bcfa0e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774035873658-png-cd40a86d-0529-43a4-8377-c9c017bcfa0e.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/privy-taps-deframe-by-pods-to-unlock-defi-yield-strategies",
           "author": "yyctrader",
           "description": "The Stripe-owned wallet infrastructure provider has integrated Deframe's DeFi aggregation API, the latest in a string of yield-focused moves.",
@@ -65,7 +110,7 @@
           "description": "Liu also added \"head of gaming\" at Solana Foundation to her X bio, in what appears to be a pointed joke.",
           "link": "https://thedefiant.io/news/nfts-and-web3/lily-liu-solana-president-blockchain-gaming-comment",
           "publishedOn": "2026-03-20T19:22:21.000Z",
-          "wordCount": 5259,
+          "wordCount": 5307,
           "title": "Solana Foundation President Says Web3 Gaming 'Is Not Coming Back'",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/solana-gaming-jpg-f76cfeb8-8fa5-48ec-a943-bc90f5f994bc.jpg",
@@ -545,7 +590,7 @@
           "description": "Cango sold approximately $305 million in bitcoin holdings in February to repay debt and finance an artificial intelligence infrastructure transformation.",
           "link": "https://thedefiant.io/news/markets/cango-sells-4451-bitcoin-debt-repayment-ai-expansion-1o98gu",
           "publishedOn": "2026-03-17T11:01:49.000Z",
-          "wordCount": 4387,
+          "wordCount": 4405,
           "title": "Bitcoin miner Cango offloads 4,451 BTC to slash debt and fund AI pivot: Cango",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7c27df3c1a42739a7b27293baad08aede02199cc-1792x1024.jpg",
@@ -1247,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/hacks/ledger-donjon-team-finds-android-vulnerability",
           "author": "DefAInt",
-          "description": "The chip vulnerability makes it possible for hackers to decrypt affected Android smartphones, and steal data — including crypto wallet private keys.",
+          "description": "Ledger said on Wednesday, March 11, that it has discovered a vulnerability that could affect as much as 25% of Android phones, letting hackers steal users’ private keys, according to a press release shared with The Defiant.",
           "link": "https://thedefiant.io/news/hacks/ledger-donjon-team-finds-android-vulnerability",
           "publishedOn": "2026-03-11T16:53:10.000Z",
           "wordCount": 4963,
@@ -1498,51 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1773078321625-png-7d81e7b6-ef96-413e-9e0d-48fdf4044c13.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/sonic-labs-unveils-ussd-stablecoin-as-network-looks-to-reverse-decline",
-          "author": "yyctrader",
-          "description": "Sonic’s TVL has plunged to just $34 million, down 97% from its May 2025 peak.",
-          "link": "https://thedefiant.io/news/blockchains/sonic-labs-unveils-ussd-stablecoin-as-network-looks-to-reverse-decline",
-          "publishedOn": "2026-03-09T17:13:47.000Z",
-          "wordCount": 4655,
-          "title": "Sonic Labs Unveils USSD Stablecoin as Network Looks to Reverse Decline",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1773076464707-png-681b5ab4-f810-45e1-8b5d-cdf6dc2d09c2.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1773076464707-png-681b5ab4-f810-45e1-8b5d-cdf6dc2d09c2.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/zcash-open-development-lab-raises-usd25m-in-seed-round",
-          "author": "Olivia Capozzalo",
-          "description": "Zcash Open Development Lab, which Zcash devs formed after leaving Electric Coin Capital, raised funds from prominent crypto VCs.",
-          "link": "https://thedefiant.io/news/blockchains/zcash-open-development-lab-raises-usd25m-in-seed-round",
-          "publishedOn": "2026-03-09T16:35:18.000Z",
-          "wordCount": 4772,
-          "title": "Zcash Dev Team's New Company Raises $25M in Seed Round",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/zec-dat-jpg-5f8e35aa-8fc2-4a0e-8b62-4b1ef81fc882.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/zec-dat-jpg-5f8e35aa-8fc2-4a0e-8b62-4b1ef81fc882.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/nasdaq-taps-kraken-as-settlement-layer-for-tokenized-stock-initiative",
-          "author": "DefAInt",
-          "description": "Nasdaq revealed its new equity token design, emphasizing issuer control and bridging traditional financial markets with decentralized blockchain networks.",
-          "link": "https://thedefiant.io/news/cefi/nasdaq-taps-kraken-as-settlement-layer-for-tokenized-stock-initiative",
-          "publishedOn": "2026-03-09T14:54:48.000Z",
-          "wordCount": 4751,
-          "title": "Nasdaq Taps Kraken as Settlement Layer for Tokenized Stock Initiative",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/kraken-nasdaq-jpg-44fd4cd6-1522-4329-ae93-76320162e1d5.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/kraken-nasdaq-jpg-44fd4cd6-1522-4329-ae93-76320162e1d5.jpg"
         }
       ]
     }
