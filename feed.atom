@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-20T16:42:20.971Z</id>
+    <id>urn:2026-03-20T17:34:50.058Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-20T16:42:20.971Z</updated>
+    <updated>2026-03-20T17:34:50.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC's Crypto Guidance Ends Years of Regulatory Ambiguity But Key Questions Remain]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-s-crypto-guidance-key-questions</id>
+        <link href="https://thedefiant.io/news/regulation/sec-s-crypto-guidance-key-questions"/>
+        <updated>2026-03-20T16:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Lawyers say the joint SEC-CFTC framework is the most significant crypto regulatory development in years. But who decides when a token sheds its investment contract status, and what happens to DeFi, are still unanswered.]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalshi Raises $1B at $22B Valuation: Report]]></title>
         <id>https://thedefiant.io/news/cefi/kalshi-raises-usd1b-at-usd22b-valuation-doubling-worth-in-three-months</id>
@@ -830,7 +840,7 @@
         <id>https://thedefiant.io/news/regulation/bpi-considers-suing-occ-over-crypto-treatment</id>
         <link href="https://thedefiant.io/news/regulation/bpi-considers-suing-occ-over-crypto-treatment"/>
         <updated>2026-03-10T19:25:22.000Z</updated>
-        <summary type="html"><![CDATA[The Bank Policy Institute is reportedly weighing filing a lawsuit against the OCC over it granting more bank trust charters to crypto firms.]]></summary>
+        <summary type="html"><![CDATA[A lobbying group for some of the largest banks that do business in the United States may be heading to court over crypto's growing access to the U.S. banking system. The Guardian first reported the news, citing a source familiar with the lobby's thinking.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -1002,16 +1012,6 @@
         <summary type="html"><![CDATA[SuperRare has launched Liquid Editions, generative art that adapts in real-time to market dynamics.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Drops Under $68,000 as Oil Tops $90]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-drops-under-usd68-000-as-oil-tops-usd90</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-drops-under-usd68-000-as-oil-tops-usd90"/>
-        <updated>2026-03-06T19:38:55.000Z</updated>
-        <summary type="html"><![CDATA[Total crypto capitalization is down 3% to $2.4 trillion amid a global market retreat.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
     <entry>
