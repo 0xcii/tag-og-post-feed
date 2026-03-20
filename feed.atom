@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-20T15:41:12.265Z</id>
+    <id>urn:2026-03-20T16:42:20.971Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-20T15:41:12.265Z</updated>
+    <updated>2026-03-20T16:42:20.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi Raises $1B at $22B Valuation: Report]]></title>
+        <id>https://thedefiant.io/news/cefi/kalshi-raises-usd1b-at-usd22b-valuation-doubling-worth-in-three-months</id>
+        <link href="https://thedefiant.io/news/cefi/kalshi-raises-usd1b-at-usd22b-valuation-doubling-worth-in-three-months"/>
+        <updated>2026-03-20T16:37:24.000Z</updated>
+        <summary type="html"><![CDATA[The deal doubles the valuation from Kalshi's previous round in November.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Extend Post-FOMC Selloff]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-extend-post-fomc-selloff</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/defi/jito-foundation-acquires-solana-news-outlet-solanafloor</id>
         <link href="https://thedefiant.io/news/defi/jito-foundation-acquires-solana-news-outlet-solanafloor"/>
         <updated>2026-03-10T18:40:38.000Z</updated>
-        <summary type="html"><![CDATA[The Jito Foundation has acquired SolanaFloor, a media outlet focused on the Solana ecosystem.]]></summary>
+        <summary type="html"><![CDATA[The foundation behind Solana liquid staking protocol Jito acquired SolanaFloor just two weeks after the media outlet announced it was shutting down.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -1002,16 +1012,6 @@
         <summary type="html"><![CDATA[Total crypto capitalization is down 3% to $2.4 trillion amid a global market retreat.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve Accuses PancakeSwap of Using Stableswap Code Without Authorization]]></title>
-        <id>https://thedefiant.io/news/defi/curve-accuses-pancakeswap-of-using-stableswap-code-without-authorization</id>
-        <link href="https://thedefiant.io/news/defi/curve-accuses-pancakeswap-of-using-stableswap-code-without-authorization"/>
-        <updated>2026-03-06T16:35:09.000Z</updated>
-        <summary type="html"><![CDATA[PancakeSwap, the leading decentralized exchange on BNB Smart Chain, rolled out the StableSwap feature on March 1.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
