@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-23T13:06:33.506Z</id>
+    <id>urn:2026-03-23T14:53:56.470Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-23T13:06:33.506Z</updated>
+    <updated>2026-03-23T14:53:56.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Surges Past $71,000 After Trump Announces Iran Strikes Pause: Trump]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-71000-trump-iran-strikes-postponed-n9afah</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-71000-trump-iran-strikes-postponed-n9afah"/>
+        <updated>2026-03-23T12:16:40.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin climbed to $71,500 on March 23 after President Trump said the U.S. would postpone planned strikes on Iranian infrastructure for five days pending ongoing diplomatic talks.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. lawmakers to introduce bipartisan bill banning sports betting on prediction markets: WSJ]]></title>
         <id>https://thedefiant.io/news/regulation/lawmakers-bipartisan-bill-ban-prediction-market-sports-betting-senmay</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[Starknet has launched the STRK20 token standard, aimed at integrating privacy features into ERC-20 tokens on its platform. This development emphasizes the growing trend of privacy in blockchain transactions.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pudgy Penguins Launches ‘Pudgy World’ Browser Game]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-launches-pudgy-world-browser-game</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/pudgy-penguins-launches-pudgy-world-browser-game"/>
-        <updated>2026-03-09T20:49:52.000Z</updated>
-        <summary type="html"><![CDATA[The PENGU token is up 7% in the past 24 hours.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
     <entry>
