@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T16:08:52.837Z</id>
+    <id>urn:2026-03-24T17:55:10.626Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-24T16:08:52.838Z</updated>
+    <updated>2026-03-24T17:55:10.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NYSE Taps Securitize to Develop Tokenized Securities Trading Infra]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/nyse-and-securitize-partner-to-build-tokenized-securities-infrastructure</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/nyse-and-securitize-partner-to-build-tokenized-securities-infrastructure"/>
+        <updated>2026-03-24T17:35:43.000Z</updated>
+        <summary type="html"><![CDATA[Securitize will become the first digital transfer agent eligible to mint blockchain-based securities on NYSE's upcoming Digital Trading Platform]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Hovers Around $70,000 as Crypto Stocks Plunge]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-hovers-around-usd70-000-as-crypto-stocks-plunge</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-hovers-around-usd70-000-as-crypto-stocks-plunge"/>
+        <updated>2026-03-24T16:03:22.000Z</updated>
+        <summary type="html"><![CDATA[Circle stock fell 19% after the latest Senate draft of the Clarity Act included restrictions on stablecoin yield.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether Engages Big Four Firm for First Full Audit]]></title>
         <id>https://thedefiant.io/news/regulation/tether-engages-big-four-firm-for-first-full-audit</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The exchange's lawsuit was filed the same morning the Journal reported a new federal investigation into whether Iran used Binance to evade U.S. sanctions.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledger Uncovers Security Vulnerability That Could Affect 25% of Android Phones]]></title>
-        <id>https://thedefiant.io/news/hacks/ledger-donjon-team-finds-android-vulnerability</id>
-        <link href="https://thedefiant.io/news/hacks/ledger-donjon-team-finds-android-vulnerability"/>
-        <updated>2026-03-11T16:53:10.000Z</updated>
-        <summary type="html"><![CDATA[The chip vulnerability makes it possible for hackers to decrypt affected Android smartphones, and steal data — including crypto wallet private keys.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastercard Unveils 'Crypto Partner Program' with Major Industry Players]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/mastercard-launches-crypto-partner-program</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/mastercard-launches-crypto-partner-program"/>
-        <updated>2026-03-11T14:38:18.000Z</updated>
-        <summary type="html"><![CDATA[The initiative brings together a broad spectrum of well-known, global crypto firms and blockchain projects including Circle, Solana, Binance, Polygon, and Ava Labs.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
     <entry>

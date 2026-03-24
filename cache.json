@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/nyse-and-securitize-partner-to-build-tokenized-securities-infrastructure",
+          "author": "DefAInt",
+          "description": "Securitize will become the first digital transfer agent eligible to mint blockchain-based securities on NYSE's upcoming Digital Trading Platform",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/nyse-and-securitize-partner-to-build-tokenized-securities-infrastructure",
+          "publishedOn": "2026-03-24T17:35:43.000Z",
+          "wordCount": 4923,
+          "title": "NYSE Taps Securitize to Develop Tokenized Securities Trading Infra",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/city-scape-jpg-d1ae28e9-563a-48bb-96fb-8cee5dee922f.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/city-scape-jpg-d1ae28e9-563a-48bb-96fb-8cee5dee922f.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-hovers-around-usd70-000-as-crypto-stocks-plunge",
+          "author": "yyctrader",
+          "description": "Circle stock fell 19% after the latest Senate draft of the Clarity Act included restrictions on stablecoin yield.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-hovers-around-usd70-000-as-crypto-stocks-plunge",
+          "publishedOn": "2026-03-24T16:03:22.000Z",
+          "wordCount": 4677,
+          "title": "Bitcoin Hovers Around $70,000 as Crypto Stocks Plunge",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774368334171-png-734ee1dd-48af-4b86-9a22-6b1ce71facbd.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774368334171-png-734ee1dd-48af-4b86-9a22-6b1ce71facbd.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/tether-engages-big-four-firm-for-first-full-audit",
           "author": "DefAInt",
           "description": "The issuer of the largest stablecoin by market cap has been under scrutiny for years for not conducting a full financial audit",
@@ -815,7 +845,7 @@
           "description": "Cango sold approximately $305 million in bitcoin holdings in February to repay debt and finance an artificial intelligence infrastructure transformation.",
           "link": "https://thedefiant.io/news/markets/cango-sells-4451-bitcoin-debt-repayment-ai-expansion-1o98gu",
           "publishedOn": "2026-03-17T11:01:49.000Z",
-          "wordCount": 4406,
+          "wordCount": 4399,
           "title": "Bitcoin miner Cango offloads 4,451 BTC to slash debt and fund AI pivot: Cango",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7c27df3c1a42739a7b27293baad08aede02199cc-1792x1024.jpg",
@@ -1513,36 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1773249223481-png-699cd846-2d11-4a4e-a50a-b1044ba9b0a3.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/ledger-donjon-team-finds-android-vulnerability",
-          "author": "DefAInt",
-          "description": "The chip vulnerability makes it possible for hackers to decrypt affected Android smartphones, and steal data — including crypto wallet private keys.",
-          "link": "https://thedefiant.io/news/hacks/ledger-donjon-team-finds-android-vulnerability",
-          "publishedOn": "2026-03-11T16:53:10.000Z",
-          "wordCount": 4960,
-          "title": "Ledger Uncovers Security Vulnerability That Could Affect 25% of Android Phones",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/phone-hack-jpg-c311f71e-ef14-4c21-83c8-5367e7a60216.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/phone-hack-jpg-c311f71e-ef14-4c21-83c8-5367e7a60216.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/mastercard-launches-crypto-partner-program",
-          "author": "DefAInt",
-          "description": "The initiative brings together a broad spectrum of well-known, global crypto firms and blockchain projects including Circle, Solana, Binance, Polygon, and Ava Labs.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/mastercard-launches-crypto-partner-program",
-          "publishedOn": "2026-03-11T14:38:18.000Z",
-          "wordCount": 4806,
-          "title": "Mastercard Unveils 'Crypto Partner Program' with Major Industry Players",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/business-crypto-jpg-079831f8-b0cd-4da6-bb59-1b1654ca0628.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/business-crypto-jpg-079831f8-b0cd-4da6-bb59-1b1654ca0628.jpg"
         }
       ]
     }
