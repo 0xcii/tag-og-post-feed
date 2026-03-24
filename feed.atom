@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T19:02:17.404Z</id>
+    <id>urn:2026-03-24T20:40:34.305Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-24T19:02:17.404Z</updated>
+    <updated>2026-03-24T20:40:34.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CFTC Launches Innovation Task Force Covering Crypto, AI, and Prediction Markets]]></title>
+        <id>https://thedefiant.io/news/regulation/cftc-launches-innovation-task-force-covering-crypto-ai-and-prediction-markets</id>
+        <link href="https://thedefiant.io/news/regulation/cftc-launches-innovation-task-force-covering-crypto-ai-and-prediction-markets"/>
+        <updated>2026-03-24T19:41:33.000Z</updated>
+        <summary type="html"><![CDATA[The new unit will coordinate policy development and work alongside the SEC's Crypto Task Force.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest Clarity Act Draft Bans Rewards on Passive Stablecoin Balances]]></title>
+        <id>https://thedefiant.io/news/regulation/latest-clarity-act-draft-bans-rewards-on-passive-stablecoin-balances</id>
+        <link href="https://thedefiant.io/news/regulation/latest-clarity-act-draft-bans-rewards-on-passive-stablecoin-balances"/>
+        <updated>2026-03-24T19:07:55.000Z</updated>
+        <summary type="html"><![CDATA[Activity-based rewards are allowed, but anything ‘economically equivalent to interest’ is barred.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Invesco to Manage Superstate's Tokenized US T-Bill Fund]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/invesco-takes-over-superstate-ustb-fund</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/trump-memecoin-surges-50-on-mar-a-lago-conference-news</id>
         <link href="https://thedefiant.io/news/markets/trump-memecoin-surges-50-on-mar-a-lago-conference-news"/>
         <updated>2026-03-13T18:16:31.000Z</updated>
-        <summary type="html"><![CDATA[The top 297 holders of Official Trump are being invited to a conference and gala at Mar-a-Lago in April, with some eligible for a VIP reception with the President.]]></summary>
+        <summary type="html"><![CDATA[The TRUMP memecoin rallied more than 50% in less than 24 hours after its official X account announced on Thursday that top holders of the memecoin will be invited to an exclusive conference at Mar-a-Lago on April 25.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-holds-above-usd70-000-as-u-s-inflation-remains-subdued"/>
         <updated>2026-03-11T20:29:37.000Z</updated>
         <summary type="html"><![CDATA[ETH and SOL gained 1% while XRP is flat on the day.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethena's Deployed Capital Slumps as Demand for Leverage Dries Up]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/ethena-s-deployed-capital-slumps-as-demand-for-leverage-dries-up</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/ethena-s-deployed-capital-slumps-as-demand-for-leverage-dries-up"/>
-        <updated>2026-03-11T19:08:29.000Z</updated>
-        <summary type="html"><![CDATA[An analysis from WuBlockchain shows basis trade capital at record lows as hedging crowds out leveraged longs, pushing derivatives markets toward an unusual equilibrium.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundry to Launch Institutional Zcash Mining Pool]]></title>
-        <id>https://thedefiant.io/news/blockchains/foundry-to-launch-institutional-zcash-mining-pool</id>
-        <link href="https://thedefiant.io/news/blockchains/foundry-to-launch-institutional-zcash-mining-pool"/>
-        <updated>2026-03-11T18:35:52.000Z</updated>
-        <summary type="html"><![CDATA[The world's top Bitcoin mining pool operator expands into privacy coins as ZEC surges 600% year-over-year.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>

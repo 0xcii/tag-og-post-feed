@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/cftc-launches-innovation-task-force-covering-crypto-ai-and-prediction-markets",
+          "author": "yyctrader",
+          "description": "The new unit will coordinate policy development and work alongside the SEC's Crypto Task Force.",
+          "link": "https://thedefiant.io/news/regulation/cftc-launches-innovation-task-force-covering-crypto-ai-and-prediction-markets",
+          "publishedOn": "2026-03-24T19:41:33.000Z",
+          "wordCount": 4984,
+          "title": "CFTC Launches Innovation Task Force Covering Crypto, AI, and Prediction Markets",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774381832968-png-caf4a3f0-87e9-4481-92d1-ea5b8ebf991d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774381832968-png-caf4a3f0-87e9-4481-92d1-ea5b8ebf991d.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/latest-clarity-act-draft-bans-rewards-on-passive-stablecoin-balances",
+          "author": "yyctrader",
+          "description": "Activity-based rewards are allowed, but anything ‘economically equivalent to interest’ is barred.",
+          "link": "https://thedefiant.io/news/regulation/latest-clarity-act-draft-bans-rewards-on-passive-stablecoin-balances",
+          "publishedOn": "2026-03-24T19:07:55.000Z",
+          "wordCount": 4812,
+          "title": "Latest Clarity Act Draft Bans Rewards on Passive Stablecoin Balances",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774379385349-png-8d960cab-2e77-46d6-8777-e5be2548e83e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774379385349-png-8d960cab-2e77-46d6-8777-e5be2548e83e.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/invesco-takes-over-superstate-ustb-fund",
           "author": "DefAInt",
           "description": "Invesco, with over $2T in AUM, will become the first TradFi asset manager to use Superstate's digital transfer agent infra.",
@@ -275,7 +305,7 @@
           "description": "Bitcoin climbed to $71,500 on March 23 after President Trump said the U.S. would postpone planned strikes on Iranian infrastructure for five days pending ongoing diplomatic talks.",
           "link": "https://thedefiant.io/news/markets/bitcoin-71000-trump-iran-strikes-postponed-n9afah",
           "publishedOn": "2026-03-23T12:16:40.000Z",
-          "wordCount": 4602,
+          "wordCount": 4590,
           "title": "Bitcoin Surges Past $71,000 After Trump Announces Iran Strikes Pause: Trump",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/db102401b342e4cf34b2de567698e3cc5f241727-1792x1024.jpg",
@@ -890,7 +920,7 @@
           "description": "Cango sold approximately $305 million in bitcoin holdings in February to repay debt and finance an artificial intelligence infrastructure transformation.",
           "link": "https://thedefiant.io/news/markets/cango-sells-4451-bitcoin-debt-repayment-ai-expansion-1o98gu",
           "publishedOn": "2026-03-17T11:01:49.000Z",
-          "wordCount": 4389,
+          "wordCount": 4398,
           "title": "Bitcoin miner Cango offloads 4,451 BTC to slash debt and fund AI pivot: Cango",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/7c27df3c1a42739a7b27293baad08aede02199cc-1792x1024.jpg",
@@ -1262,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/markets/trump-memecoin-surges-50-on-mar-a-lago-conference-news",
           "author": "DefAInt",
-          "description": "The top 297 holders of Official Trump are being invited to a conference and gala at Mar-a-Lago in April, with some eligible for a VIP reception with the President.",
+          "description": "The TRUMP memecoin rallied more than 50% in less than 24 hours after its official X account announced on Thursday that top holders of the memecoin will be invited to an exclusive conference at Mar-a-Lago on April 25.",
           "link": "https://thedefiant.io/news/markets/trump-memecoin-surges-50-on-mar-a-lago-conference-news",
           "publishedOn": "2026-03-13T18:16:31.000Z",
           "wordCount": 5045,
@@ -1513,36 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1773261224902-png-4e03e770-9329-4979-8e92-a83047490d03.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/ethena-s-deployed-capital-slumps-as-demand-for-leverage-dries-up",
-          "author": "yyctrader",
-          "description": "An analysis from WuBlockchain shows basis trade capital at record lows as hedging crowds out leveraged longs, pushing derivatives markets toward an unusual equilibrium.",
-          "link": "https://thedefiant.io/news/research-and-opinion/ethena-s-deployed-capital-slumps-as-demand-for-leverage-dries-up",
-          "publishedOn": "2026-03-11T19:08:29.000Z",
-          "wordCount": 4670,
-          "title": "Ethena's Deployed Capital Slumps as Demand for Leverage Dries Up",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1773256448046-png-f8e6a6a9-266c-4578-aae0-bf5ca4955b4c.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1773256448046-png-f8e6a6a9-266c-4578-aae0-bf5ca4955b4c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/foundry-to-launch-institutional-zcash-mining-pool",
-          "author": "yyctrader",
-          "description": "The world's top Bitcoin mining pool operator expands into privacy coins as ZEC surges 600% year-over-year.",
-          "link": "https://thedefiant.io/news/blockchains/foundry-to-launch-institutional-zcash-mining-pool",
-          "publishedOn": "2026-03-11T18:35:52.000Z",
-          "wordCount": 4536,
-          "title": "Foundry to Launch Institutional Zcash Mining Pool",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1773254373109-png-0905b9ec-e190-485a-b0b5-94eac4294f9a.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1773254373109-png-0905b9ec-e190-485a-b0b5-94eac4294f9a.png"
         }
       ]
     }
