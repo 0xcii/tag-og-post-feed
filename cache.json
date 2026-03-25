@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-launches-proprietary-ethereum-validator-network-mavan",
+          "author": "DefAInt",
+          "description": "Tom Lee's firm is the largest public holder of ETH, and the second largest digital asset treasury company.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-launches-proprietary-ethereum-validator-network-mavan",
+          "publishedOn": "2026-03-25T16:07:08.000Z",
+          "wordCount": 4807,
+          "title": "BitMine Launches Proprietary Ethereum Validator Network MAVAN",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ethereum-business-png-356c4059-7a6a-4fe1-8a75-7082a8f20154.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ethereum-business-png-356c4059-7a6a-4fe1-8a75-7082a8f20154.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/uk-bans-crypto-donations-to-political-parties",
+          "author": "yyctrader",
+          "description": "An independent government review warned that crypto assets could channel foreign money into British politics.",
+          "link": "https://thedefiant.io/news/regulation/uk-bans-crypto-donations-to-political-parties",
+          "publishedOn": "2026-03-25T15:35:39.000Z",
+          "wordCount": 5340,
+          "title": "UK Bans Crypto Donations to Political Parties, Citing Foreign Interference Risk",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774453040175-png-473da63b-19e5-4d83-9813-a8fd8c1b9a74.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774453040175-png-473da63b-19e5-4d83-9813-a8fd8c1b9a74.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bittensor-subnet-tokens-surge-as-tao-rally-boosts-ecosystem",
           "author": "yyctrader",
           "description": "Bittensor subnet tokens' cumulative valuation has climbed to $1.5 billion as nearly every token in the ecosystem posts double- or triple-digit 30-day gains.",
@@ -1262,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9",
           "author": "DefAInt",
-          "description": "Senator John Thune said the crypto-focused CLARITY Act faces further delays due to unresolved disagreements between banks and stablecoin issuers.",
+          "description": "The long-awaited Crypto Clarity Act is unlikely to advance through the Senate Banking Committee before April, according to Senator John Thune. The delay stems from ongoing disagreements between banks and stablecoin issuers over key legislative provisions, per reporting from The Block.",
           "link": "https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9",
           "publishedOn": "2026-03-14T01:02:03.000Z",
           "wordCount": 4369,
@@ -1513,36 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1773335075503-png-d3540635-0dd9-4999-b088-802cd3cc6203.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/lido-launches-earnusd-stablecoin-vault",
-          "author": "DefAInt",
-          "description": "The new product, EarnUSD, lets users earn yield on their USDC and USDT.",
-          "link": "https://thedefiant.io/news/defi/lido-launches-earnusd-stablecoin-vault",
-          "publishedOn": "2026-03-12T15:00:00.000Z",
-          "wordCount": 4824,
-          "title": "Lido Launches Its First Stablecoin Vault",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/usd-general-png-1f2ace65-2f07-4cfa-ae1c-bc8a3d0e679a.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/usd-general-png-1f2ace65-2f07-4cfa-ae1c-bc8a3d0e679a.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/optimism-developer-op-labs-cuts-20-of-staff",
-          "author": "DefAInt",
-          "description": "Op Labs' CEO said the move was not about finances, and that the firm has \"years of runway.\"",
-          "link": "https://thedefiant.io/news/blockchains/optimism-developer-op-labs-cuts-20-of-staff",
-          "publishedOn": "2026-03-12T13:55:49.000Z",
-          "wordCount": 4739,
-          "title": "Optimism Developer Op Labs Cuts 20% of Staff in Effeciency Push",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/eth-abstract-jpg-88d100f9-8d4e-478c-ab51-3d1b87259cc1.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/eth-abstract-jpg-88d100f9-8d4e-478c-ab51-3d1b87259cc1.jpg"
         }
       ]
     }
