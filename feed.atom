@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-25T17:57:47.858Z</id>
+    <id>urn:2026-03-25T19:03:36.793Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-25T17:57:47.858Z</updated>
+    <updated>2026-03-25T19:03:36.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Obex Starts Deploying $1B in USDS Into Mortgages, AI Hardware, and Solar Energy]]></title>
+        <id>https://thedefiant.io/news/defi/obex-starts-deploying-usd1b-in-usds-into-mortgages-ai-hardware-and-solar-energy</id>
+        <link href="https://thedefiant.io/news/defi/obex-starts-deploying-usd1b-in-usds-into-mortgages-ai-hardware-and-solar-energy"/>
+        <updated>2026-03-25T18:33:33.000Z</updated>
+        <summary type="html"><![CDATA[The Sky-backed stablecoin incubator's inaugural class of eight projects marks the protocol's biggest push yet to diversify beyond crypto-native yield sources.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondo Tokenizes Five Franklin Templeton ETFs]]></title>
+        <id>https://thedefiant.io/news/defi/ondo-tokenizes-five-franklin-templeton-etfs</id>
+        <link href="https://thedefiant.io/news/defi/ondo-tokenizes-five-franklin-templeton-etfs"/>
+        <updated>2026-03-25T18:07:42.000Z</updated>
+        <summary type="html"><![CDATA[The partnership brings growth, large-cap, fixed income, equity income, and gold ETFs onchain through Ondo Global Markets.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Brings Exchange Data Onchain via Chainlink's DataLink]]></title>
         <id>https://thedefiant.io/news/defi/coinbase-brings-exchange-data-onchain-via-chainlink-s-datalink</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt</id>
         <link href="https://thedefiant.io/news/defi/spark-protocol-reactivates-wbtc-collateral-expands-liquidity-fvnjlt"/>
         <updated>2026-03-16T00:45:52.000Z</updated>
-        <summary type="html"><![CDATA[The Spark Foundation has proposed re-enabling WBTC as collateral on SparkLend and adding new rate limits and pools to its liquidity layer following a 1.5-year operational review.]]></summary>
+        <summary type="html"><![CDATA[Spark Protocol is moving to reactivate Wrapped Bitcoin (WBTC) collateral support on SparkLend and expand its liquidity layer infrastructure, according to a proposal published Monday. The changes include re-enabling WBTC collateral functionality, adding USDT and USDT transfer asset rate limits to Anchorage, and onboarding a Uniswap v4 USDT/USDS pool. The proposal also covers Spark Treasury grants for Q2 2026.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/regulation/sec-cftc-sign-crypto-coordination-mou-u3sayp</id>
         <link href="https://thedefiant.io/news/regulation/sec-cftc-sign-crypto-coordination-mou-u3sayp"/>
         <updated>2026-03-15T19:46:12.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Securities and Exchange Commission and Commodity Futures Trading Commission have signed a memorandum of understanding aimed at improving their combined regulatory approach to the digital asset sector. The agreement represents a formal commitment by both agencies to coordinate oversight and provide clearer guidance to the crypto industry.]]></summary>
+        <summary type="html"><![CDATA[The SEC and CFTC have signed a memorandum of understanding to establish a unified regulatory approach to digital assets.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[The pioneering Web3 attendance protocol will stop onboarding new issuers on March 16, as its team turns its attention to building open infrastructure for digital collectibles.]]></summary>
         <author>
             <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whale Swaps $50 Million in Stablecoins for Just $36,000 of AAVE]]></title>
-        <id>https://thedefiant.io/news/defi/whale-swaps-usd50-million-in-stablecoins-for-just-usd36-000-of-aave</id>
-        <link href="https://thedefiant.io/news/defi/whale-swaps-usd50-million-in-stablecoins-for-just-usd36-000-of-aave"/>
-        <updated>2026-03-12T21:02:55.000Z</updated>
-        <summary type="html"><![CDATA[The massive transaction routed through CowSwap on Ethereum resulted in a 99.9% loss.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puffer Teams Up With Anchorage to Bring Ethereum Restaking to Institutions]]></title>
-        <id>https://thedefiant.io/news/defi/puffer-teams-up-with-anchorage-to-bring-ethereum-restaking-to-institutions</id>
-        <link href="https://thedefiant.io/news/defi/puffer-teams-up-with-anchorage-to-bring-ethereum-restaking-to-institutions"/>
-        <updated>2026-03-12T19:43:12.000Z</updated>
-        <summary type="html"><![CDATA[With the restaking sector in a slump, the protocol is betting that institutional distribution can reignite growth.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
     <entry>
