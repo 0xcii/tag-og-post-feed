@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/mara-sells-15-000-btc-for-usd1-1-billion-to-retire-convertible-debt",
+          "author": "yyctrader",
+          "description": "Largest U.S. Bitcoin miner offloads roughly a quarter of its treasury to buy back $1 billion in zero-coupon notes at a 9% discount, dropping to third among corporate BTC holders.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/mara-sells-15-000-btc-for-usd1-1-billion-to-retire-convertible-debt",
+          "publishedOn": "2026-03-26T20:57:52.000Z",
+          "wordCount": 5057,
+          "title": "MARA Sells 15,000 BTC for $1.1 Billion to Retire Convertible Debt",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774558676484-png-3fae7ec7-5d1d-4214-b286-953238d25bf5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774558676484-png-3fae7ec7-5d1d-4214-b286-953238d25bf5.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/felix-launches-tokenized-stocks-and-etfs-on-hyperliquid-via-ondo-finance",
+          "author": "yyctrader",
+          "description": "On-chain traders on Hyperliquid can now trade over 250 tokenized U.S. equities.",
+          "link": "https://thedefiant.io/news/defi/felix-launches-tokenized-stocks-and-etfs-on-hyperliquid-via-ondo-finance",
+          "publishedOn": "2026-03-26T20:39:00.000Z",
+          "wordCount": 4736,
+          "title": "Felix Launches Tokenized Stocks and ETFs on Hyperliquid Via Ondo Finance",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774557543811-png-50b938c6-917c-4f2b-a834-cf0ef84ba92c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774557543811-png-50b938c6-917c-4f2b-a834-cf0ef84ba92c.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/brazil-s-new-anti-gang-law-lets-authorities-liquidate-seized-crypto-to-fund-police-operations",
           "author": "yyctrader",
           "description": "Law No. 15,358 gives judges sweeping power to freeze digital assets during investigations as Brasília takes a \"financial strangulation\" approach to organized crime.",
@@ -1292,7 +1322,7 @@
         {
           "id": "https://thedefiant.io/news/markets/eth-outperforms-large-cap-crypto-as-ogs-load-up",
           "author": "DefAInt",
-          "description": "Ethereum (ETH) is outpacing other large-cap crypto assets today, March 16, gaining over 9% in the past 24 hours. The price surge comes against a backdrop of large ETH buys, including from two early crypto investors, on-chain data shows.",
+          "description": "On-chain data shows that two early crypto investors purchased millions of dollars worth of ETH today, while Bitmine continued its weekly purchases.",
           "link": "https://thedefiant.io/news/markets/eth-outperforms-large-cap-crypto-as-ogs-load-up",
           "publishedOn": "2026-03-16T16:21:28.000Z",
           "wordCount": 5020,
@@ -1513,36 +1543,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e8a2915a638484c00bdc6da4f336e2976d5789f4-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9",
-          "author": "DefAInt",
-          "description": "Senator John Thune said the crypto-focused CLARITY Act faces further delays due to unresolved disagreements between banks and stablecoin issuers.",
-          "link": "https://thedefiant.io/news/regulation/us-clarity-act-delayed-until-april-thune-r637r9",
-          "publishedOn": "2026-03-14T01:02:03.000Z",
-          "wordCount": 4402,
-          "title": "US CLARITY Act Unlikely to Pass Senate Banking Committee Before April: Senator John Thune",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/38c847f1f33a69d30240b55665f3fcd8cb05d466-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/38c847f1f33a69d30240b55665f3fcd8cb05d466-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-rally-fizzles-on-iran-escalation-fears",
-          "author": "yyctrader",
-          "description": "Bitcoin is trading around $71,000 after reaching $74,000 earlier today.",
-          "link": "https://thedefiant.io/news/markets/crypto-rally-fizzles-on-iran-escalation-fears",
-          "publishedOn": "2026-03-13T19:31:40.000Z",
-          "wordCount": 4383,
-          "title": "Crypto Rally Fizzles on Iran Escalation Fears",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1773430688556-png-a0f2eb96-b6ff-4008-abb1-7f24233bf9f9.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1773430688556-png-a0f2eb96-b6ff-4008-abb1-7f24233bf9f9.png"
         }
       ]
     }
