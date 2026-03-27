@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-27T15:52:28.037Z</id>
+    <id>urn:2026-03-27T16:54:38.175Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-27T15:52:28.037Z</updated>
+    <updated>2026-03-27T16:54:38.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NYSE Owner ICE Pours Another $600 Million Into Polymarket]]></title>
+        <id>https://thedefiant.io/news/defi/nyse-owner-ice-pours-another-usd600-million-into-polymarket</id>
+        <link href="https://thedefiant.io/news/defi/nyse-owner-ice-pours-another-usd600-million-into-polymarket"/>
+        <updated>2026-03-27T16:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Intercontinental Exchange has now deployed nearly $2 billion into the onchain prediction market, underscoring Wall Street's growing conviction that event-based trading is here to stay.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Hits Two-Week Low as $443M in Longs Get Wiped Out]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-hits-two-week-low-as-usd443m-in-longs-get-wiped-out</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-hits-two-week-low-as-usd443m-in-longs-get-wiped-out"/>
+        <updated>2026-03-27T16:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Iran escalation and $171 million in ETF outflows drive BTC below $66,000.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MARA Sells 15,000 BTC for $1.1 Billion to Retire Convertible Debt]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/mara-sells-15-000-btc-for-usd1-1-billion-to-retire-convertible-debt</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/markets/centrifuge-cfg-rallies-60-on-binance-listing</id>
         <link href="https://thedefiant.io/news/markets/centrifuge-cfg-rallies-60-on-binance-listing"/>
         <updated>2026-03-16T19:07:03.000Z</updated>
-        <summary type="html"><![CDATA[The platform’s overall on-chain RWA value crossed the $1 billion milestone for the first time last August on the back of institutional demand for its JAAA fund.]]></summary>
+        <summary type="html"><![CDATA[Centrifuge's native token CFG has rallied roughly 60% in the past 24 hours after Binance, the largest centralized exchange buy trading volume, announced it would list the token for spot trading today, March 16.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/f1-middle-east-races-canceled-crypto-sponsorships-threatened-65focr"/>
         <updated>2026-03-14T18:01:42.000Z</updated>
         <summary type="html"><![CDATA[Two Formula One races in the Middle East face cancellation due to ongoing regional conflict, threatening major cryptocurrency sponsorship deals with F1 teams.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky TVL Surges 38% in March]]></title>
-        <id>https://thedefiant.io/news/defi/sky-tvl-surges-38-in-march</id>
-        <link href="https://thedefiant.io/news/defi/sky-tvl-surges-38-in-march"/>
-        <updated>2026-03-14T14:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Sky is now the fourth-largest DeFi protocol as RWA-backed yields drive inflows.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Hits 20 Million Mined Milestone, Leaving Only 1 Million Coins Left: Mining Industry]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-20-million-mined-milestone-miners-c0eenr</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-20-million-mined-milestone-miners-c0eenr"/>
-        <updated>2026-03-14T14:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin has surpassed 20 million coins mined—over 95% of its 21 million total supply—but most current miners may not survive to see the final 1 million coins extracted by 2140.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
