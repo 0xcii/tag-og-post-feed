@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-27T16:54:38.175Z</id>
+    <id>urn:2026-03-27T17:49:40.252Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-27T16:54:38.175Z</updated>
+    <updated>2026-03-27T17:49:40.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ECB Study Concludes DeFi DAOs Aren't as Decentralized as They Claim]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/ecb-study-concludes-defi-daos-aren-t-as-decentralized-as-they-claim</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/ecb-study-concludes-defi-daos-aren-t-as-decentralized-as-they-claim"/>
+        <updated>2026-03-27T17:08:06.000Z</updated>
+        <summary type="html"><![CDATA[A new working paper from the European Central Bank examined four major protocols and found that a small number of actors control the bulk of governance token holdings.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NYSE Owner ICE Pours Another $600 Million Into Polymarket]]></title>
         <id>https://thedefiant.io/news/defi/nyse-owner-ice-pours-another-usd600-million-into-polymarket</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/markets/centrifuge-cfg-rallies-60-on-binance-listing</id>
         <link href="https://thedefiant.io/news/markets/centrifuge-cfg-rallies-60-on-binance-listing"/>
         <updated>2026-03-16T19:07:03.000Z</updated>
-        <summary type="html"><![CDATA[Centrifuge's native token CFG has rallied roughly 60% in the past 24 hours after Binance, the largest centralized exchange buy trading volume, announced it would list the token for spot trading today, March 16.]]></summary>
+        <summary type="html"><![CDATA[The platform’s overall on-chain RWA value crossed the $1 billion milestone for the first time last August on the back of institutional demand for its JAAA fund.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/ethereum-foundation-sells-eth-bitmine-otc-xywamr"/>
         <updated>2026-03-15T07:16:12.000Z</updated>
         <summary type="html"><![CDATA[The Ethereum Foundation completed a $10.2 million over-the-counter sale of 5,000 ETH to BitMine at $2,042.96 per token as part of treasury management.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F1's Multi-Million Crypto Sponsorships at Risk as Middle East Conflict Forces Race Cancellations: FIA]]></title>
-        <id>https://thedefiant.io/news/markets/f1-middle-east-races-canceled-crypto-sponsorships-threatened-65focr</id>
-        <link href="https://thedefiant.io/news/markets/f1-middle-east-races-canceled-crypto-sponsorships-threatened-65focr"/>
-        <updated>2026-03-14T18:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Two Formula One races in the Middle East face cancellation due to ongoing regional conflict, threatening major cryptocurrency sponsorship deals with F1 teams.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
