@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/steakhouse-financial-warns-users-of-phishing-attack",
+          "author": "yyctrader",
+          "description": "The DeFi curator says existing deposits and smart contracts are unaffected, but asked users to avoid the platform until the front-end is restored.",
+          "link": "https://thedefiant.io/news/defi/steakhouse-financial-warns-users-of-phishing-attack",
+          "publishedOn": "2026-03-30T18:55:26.000Z",
+          "wordCount": null,
+          "title": "Steakhouse Financial Warns Users of Phishing Attack",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774897076925-png-b394a236-1566-4d34-9c50-a2a113accdd3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774897076925-png-b394a236-1566-4d34-9c50-a2a113accdd3.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/valinor-raises-usd25m-seed-round-to-bring-private-credit-onchain",
+          "author": "yyctrader",
+          "description": "The ex-Blackstone team wants to move beyond crypto-collateralized loans and into ‘real economy credit’ as the tokenized RWA sector continues to grow.",
+          "link": "https://thedefiant.io/news/defi/valinor-raises-usd25m-seed-round-to-bring-private-credit-onchain",
+          "publishedOn": "2026-03-30T18:27:54.000Z",
+          "wordCount": null,
+          "title": "Valinor Raises $25M Seed Round to Bring Private Credit Onchain",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774895441063-png-e45500e2-d46b-4f45-8475-25b7deb3677e.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774895441063-png-e45500e2-d46b-4f45-8475-25b7deb3677e.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/aave-v4-launches-on-ethereum-mainnet",
           "author": "yyctrader",
           "description": "Announced at EthCC in Cannes, the upgrade enables institution-specific borrowing environments, structured credit products, and RWA-backed lending within a unified liquidity system.",
@@ -1262,7 +1292,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk",
           "author": "DefAInt",
-          "description": "The move aims to integrate BVNK's infra into Mastercard's network to bridge on-chain payments and existing fiat rails.",
+          "description": "",
           "link": "https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk",
           "publishedOn": "2026-03-17T14:15:49.000Z",
           "wordCount": null,
@@ -1292,7 +1322,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/ripple-brazil-expansion-custody-payments-brokerage-4zbx5q",
           "author": "DefAInt",
-          "description": "",
+          "description": "Ripple is adding custody, payments, and brokerage tools for digital asset management in Brazil as it prepares to seek regulatory approval from the country's central bank.",
           "link": "https://thedefiant.io/news/regulation/ripple-brazil-expansion-custody-payments-brokerage-4zbx5q",
           "publishedOn": "2026-03-17T13:17:20.000Z",
           "wordCount": null,
@@ -1513,36 +1543,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5ea377486cd99ad51b0fb5af43c05ea071f8b143-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/blockfills-chapter-11-bankruptcy-filing-mg999b",
-          "author": "DefAInt",
-          "description": "BlockFills has filed for Chapter 11 bankruptcy in the US after suspending deposits and withdrawals last month amid poor market conditions.",
-          "link": "https://thedefiant.io/news/cefi/blockfills-chapter-11-bankruptcy-filing-mg999b",
-          "publishedOn": "2026-03-16T03:30:42.000Z",
-          "wordCount": null,
-          "title": "Crypto lender BlockFills files for Chapter 11 bankruptcy: BlockFills",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/29dee95b42a36a2f6547f282ac20c124edaa5f1b-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/29dee95b42a36a2f6547f282ac20c124edaa5f1b-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-shield-launch-50m-swap-loss-52nwh3",
-          "author": "DefAInt",
-          "description": "Aave is rolling out a new protective feature called 'Aave Shield' after a trader lost $50 million swapping USDT for AAVE due to illiquid market conditions.",
-          "link": "https://thedefiant.io/news/defi/aave-shield-launch-50m-swap-loss-52nwh3",
-          "publishedOn": "2026-03-16T01:15:47.000Z",
-          "wordCount": null,
-          "title": "Aave launches 'Aave Shield' following $50M token swap loss: Aave",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f1239273772a4173894b9fe5aed9662fce0b041f-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f1239273772a4173894b9fe5aed9662fce0b041f-1792x1024.jpg"
         }
       ]
     }
