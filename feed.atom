@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-31T19:03:29.677Z</id>
+    <id>urn:2026-03-31T20:41:18.136Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-31T19:03:29.677Z</updated>
+    <updated>2026-03-31T20:41:18.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Base Doubles Down on Global Markets, Stablecoins, and AI Agents]]></title>
+        <id>https://thedefiant.io/news/blockchains/base-doubles-down-on-global-markets-stablecoins-and-ai-agents</id>
+        <link href="https://thedefiant.io/news/blockchains/base-doubles-down-on-global-markets-stablecoins-and-ai-agents"/>
+        <updated>2026-03-31T19:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase's Layer 2 shifts focus to tokenizing every major asset class and scaling stablecoin payments.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resolv Co-Founder Pledges 1:1 Redemptions for All Pre-Exploit USR Holders]]></title>
         <id>https://thedefiant.io/news/defi/resolv-co-founder-pledges-1-1-redemptions-for-all-pre-exploit-usr-holders</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/nfts-and-web3/opensea-delays-token-launch-again-citing-market-conditions</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/opensea-delays-token-launch-again-citing-market-conditions"/>
         <updated>2026-03-17T21:53:31.000Z</updated>
-        <summary type="html"><![CDATA[NFT marketplace shelves March 30 TGE target with no new date, ends rewards campaign, and offers fee refunds.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/regulation/sec-clarifies-securities-laws-crypto-assets-cpko23</id>
         <link href="https://thedefiant.io/news/regulation/sec-clarifies-securities-laws-crypto-assets-cpko23"/>
         <updated>2026-03-17T19:46:24.000Z</updated>
+        <summary type="html"><![CDATA[The SEC has issued an official interpretation clarifying the application of federal securities laws to crypto assets and transactions, marking a significant step in regulatory clarity for the industry.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/crypto-wealth-manager-abra-to-go-public-via-spac-merger"/>
         <updated>2026-03-16T16:35:43.000Z</updated>
         <summary type="html"><![CDATA[The deal values Abra at $750 million pre-money.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH Outperforms Large-Cap Crypto Assets as OGs Load Up]]></title>
-        <id>https://thedefiant.io/news/markets/eth-outperforms-large-cap-crypto-as-ogs-load-up</id>
-        <link href="https://thedefiant.io/news/markets/eth-outperforms-large-cap-crypto-as-ogs-load-up"/>
-        <updated>2026-03-16T16:21:28.000Z</updated>
-        <summary type="html"><![CDATA[On-chain data shows that two early crypto investors purchased millions of dollars worth of ETH today, while Bitmine continued its weekly purchases.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>

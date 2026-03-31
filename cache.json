@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/base-doubles-down-on-global-markets-stablecoins-and-ai-agents",
+          "author": "yyctrader",
+          "description": "Coinbase's Layer 2 shifts focus to tokenizing every major asset class and scaling stablecoin payments.",
+          "link": "https://thedefiant.io/news/blockchains/base-doubles-down-on-global-markets-stablecoins-and-ai-agents",
+          "publishedOn": "2026-03-31T19:12:43.000Z",
+          "wordCount": null,
+          "title": "Base Doubles Down on Global Markets, Stablecoins, and AI Agents",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774984645760-png-bfb1f0c6-5581-4eab-9cfa-e8514cd3b216.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774984645760-png-bfb1f0c6-5581-4eab-9cfa-e8514cd3b216.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/resolv-co-founder-pledges-1-1-redemptions-for-all-pre-exploit-usr-holders",
           "author": "yyctrader",
           "description": "Ivan Kozlov shared the first public update on recovery efforts nine days after an attacker minted 80 million unbacked USR tokens and extracted roughly $23 million.",
@@ -1267,7 +1282,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/opensea-delays-token-launch-again-citing-market-conditions",
           "author": "yyctrader",
-          "description": "NFT marketplace shelves March 30 TGE target with no new date, ends rewards campaign, and offers fee refunds.",
+          "description": "",
           "link": "https://thedefiant.io/news/nfts-and-web3/opensea-delays-token-launch-again-citing-market-conditions",
           "publishedOn": "2026-03-17T21:53:31.000Z",
           "wordCount": null,
@@ -1282,7 +1297,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/sec-clarifies-securities-laws-crypto-assets-cpko23",
           "author": "DefAInt",
-          "description": "",
+          "description": "The SEC has issued an official interpretation clarifying the application of federal securities laws to crypto assets and transactions, marking a significant step in regulatory clarity for the industry.",
           "link": "https://thedefiant.io/news/regulation/sec-clarifies-securities-laws-crypto-assets-cpko23",
           "publishedOn": "2026-03-17T19:46:24.000Z",
           "wordCount": null,
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1773679008256-png-5d1b7897-fb91-4a98-af5e-22174793f90f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/eth-outperforms-large-cap-crypto-as-ogs-load-up",
-          "author": "DefAInt",
-          "description": "On-chain data shows that two early crypto investors purchased millions of dollars worth of ETH today, while Bitmine continued its weekly purchases.",
-          "link": "https://thedefiant.io/news/markets/eth-outperforms-large-cap-crypto-as-ogs-load-up",
-          "publishedOn": "2026-03-16T16:21:28.000Z",
-          "wordCount": null,
-          "title": "ETH Outperforms Large-Cap Crypto Assets as OGs Load Up",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/ethereum-png-0e42f354-7c3c-4c04-81e9-40973805a9ac.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/ethereum-png-0e42f354-7c3c-4c04-81e9-40973805a9ac.png"
         }
       ]
     }
