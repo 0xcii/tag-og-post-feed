@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security",
+          "author": "yyctrader",
+          "description": "A whitepaper co-authored with the Ethereum Foundation and Stanford researchers slashes qubit estimates by 20x, warns that billions in crypto assets are exposed to multiple attack vectors.",
+          "link": "https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security",
+          "publishedOn": "2026-03-31T16:39:17.000Z",
+          "wordCount": null,
+          "title": "Google Quantum AI Paper Rewrites Threat Timeline for Bitcoin, Ethereum Security",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1774975751782-png-5cb9fccd-8bc8-4fb9-a880-b4a259cdf3d5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1774975751782-png-5cb9fccd-8bc8-4fb9-a880-b4a259cdf3d5.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-rebounds-to-usd67-000-as-iran-de-escalation-hopes-lift-risk-appetite",
           "author": "yyctrader",
           "description": "ETH gained 2% as BitMine extended its buying streak.",
@@ -1267,7 +1282,7 @@
         {
           "id": "https://thedefiant.io/news/defi/cftc-clears-phantom-to-offer-derivatives-trading-without-broker-registration",
           "author": "yyctrader",
-          "description": "The popular Solana wallet can now partner with registered exchanges to offer in-app access to derivatives and event contracts without registering as a broker.",
+          "description": "",
           "link": "https://thedefiant.io/news/defi/cftc-clears-phantom-to-offer-derivatives-trading-without-broker-registration",
           "publishedOn": "2026-03-17T17:48:59.000Z",
           "wordCount": null,
@@ -1282,7 +1297,7 @@
         {
           "id": "https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing",
           "author": "DefAInt",
-          "description": "",
+          "description": "The toolkit integrates with Coinbase's x402 protocol, giving platforms a way to verify a real person stands behind an automated agent — without revealing who that person is.",
           "link": "https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing",
           "publishedOn": "2026-03-17T15:00:00.000Z",
           "wordCount": null,
@@ -1518,21 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d5aceba4e71faad4423e04183a2b08d4fe3d0813-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/fatf-stablecoin-secondary-market-monitoring-expanded-fcnvap",
-          "author": "DefAInt",
-          "description": "The FATF's latest report pivots regulatory focus from deposit/withdrawal monitoring to tracking peer-to-peer transactions across personal wallets, with issuers now expected to freeze illicit assets on-chain.",
-          "link": "https://thedefiant.io/news/regulation/fatf-stablecoin-secondary-market-monitoring-expanded-fcnvap",
-          "publishedOn": "2026-03-16T06:00:53.000Z",
-          "wordCount": null,
-          "title": "FATF shifts stablecoin oversight to secondary markets, expands monitoring beyond on- and off-ramps: Financial Action Task Force",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/88a48e9553802f20da052e350888663bdaa0f348-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/88a48e9553802f20da052e350888663bdaa0f348-1792x1024.jpg"
         }
       ]
     }

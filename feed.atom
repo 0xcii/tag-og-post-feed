@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-31T15:01:33.667Z</id>
+    <id>urn:2026-03-31T16:56:27.081Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-31T15:01:33.667Z</updated>
+    <updated>2026-03-31T16:56:27.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google Quantum AI Paper Rewrites Threat Timeline for Bitcoin, Ethereum Security]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/google-quantum-ai-paper-rewrites-threat-timeline-for-bitcoin-ethereum-security"/>
+        <updated>2026-03-31T16:39:17.000Z</updated>
+        <summary type="html"><![CDATA[A whitepaper co-authored with the Ethereum Foundation and Stanford researchers slashes qubit estimates by 20x, warns that billions in crypto assets are exposed to multiple attack vectors.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Rebounds to $67,000 as Iran De-Escalation Hopes Lift Risk Appetite]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-rebounds-to-usd67-000-as-iran-de-escalation-hopes-lift-risk-appetite</id>
@@ -830,7 +840,6 @@
         <id>https://thedefiant.io/news/defi/cftc-clears-phantom-to-offer-derivatives-trading-without-broker-registration</id>
         <link href="https://thedefiant.io/news/defi/cftc-clears-phantom-to-offer-derivatives-trading-without-broker-registration"/>
         <updated>2026-03-17T17:48:59.000Z</updated>
-        <summary type="html"><![CDATA[The popular Solana wallet can now partner with registered exchanges to offer in-app access to derivatives and event contracts without registering as a broker.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
@@ -840,6 +849,7 @@
         <id>https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing</id>
         <link href="https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing"/>
         <updated>2026-03-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The toolkit integrates with Coinbase's x402 protocol, giving platforms a way to verify a real person stands behind an automated agent — without revealing who that person is.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -990,16 +1000,6 @@
         <link href="https://thedefiant.io/news/regulation/australian-senate-backs-crypto-regulation-framework-x9q2qh"/>
         <updated>2026-03-16T06:30:46.000Z</updated>
         <summary type="html"><![CDATA[Australia's Senate Economics Legislation Committee has endorsed proposed legislation to modernize the country's digital assets regulatory framework.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FATF shifts stablecoin oversight to secondary markets, expands monitoring beyond on- and off-ramps: Financial Action Task Force]]></title>
-        <id>https://thedefiant.io/news/regulation/fatf-stablecoin-secondary-market-monitoring-expanded-fcnvap</id>
-        <link href="https://thedefiant.io/news/regulation/fatf-stablecoin-secondary-market-monitoring-expanded-fcnvap"/>
-        <updated>2026-03-16T06:00:53.000Z</updated>
-        <summary type="html"><![CDATA[The FATF's latest report pivots regulatory focus from deposit/withdrawal monitoring to tracking peer-to-peer transactions across personal wallets, with issuers now expected to freeze illicit assets on-chain.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
