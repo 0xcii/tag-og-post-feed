@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-02T14:55:09.202Z</id>
+    <id>urn:2026-04-02T15:59:50.537Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-02T14:55:09.202Z</updated>
+    <updated>2026-04-02T15:59:50.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Lets Traders Bet on Stocks, Gold, and Oil Via Pyth Integration]]></title>
+        <id>https://thedefiant.io/news/defi/polymarket-lets-traders-bet-on-stocks-gold-and-oil-via-pyth-integration</id>
+        <link href="https://thedefiant.io/news/defi/polymarket-lets-traders-bet-on-stocks-gold-and-oil-via-pyth-integration"/>
+        <updated>2026-04-02T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The integration launches with more than a dozen U.S. stocks, major equity indices, and commodity contracts resolved using Pyth's real-time price data.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky Protocol launches Agent Network with capital allocators including Securitize, Maple Finance, and Centrifuge: Sky Ecosystem]]></title>
+        <id>https://thedefiant.io/news/defi/sky-protocol-agent-network-capital-allocators-launch-s3sdhr</id>
+        <link href="https://thedefiant.io/news/defi/sky-protocol-agent-network-capital-allocators-launch-s3sdhr"/>
+        <updated>2026-04-02T14:31:40.000Z</updated>
+        <summary type="html"><![CDATA[Sky Protocol announced the Sky Agent Network, featuring independent capital allocators competing to borrow USDS stablecoin for diversified strategy allocation.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken launches opt-in rewards program for xStocks tokenized equities]]></title>
+        <id>https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm</id>
+        <link href="https://thedefiant.io/news/defi/kraken-xstocks-opt-in-rewards-program-87tfwm"/>
+        <updated>2026-04-02T14:02:13.000Z</updated>
+        <summary type="html"><![CDATA[Kraken introduces rewards up to 1% for users holding xStocks, extending yield opportunities beyond traditional dividend structures.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Reclaims $68,000 as Iran Ceasefire Hopes Fuel Risk-On Rally]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-reclaims-usd68-000-as-iran-ceasefire-hopes-fuel-risk-on-rally</id>
@@ -810,7 +840,7 @@
         <id>https://thedefiant.io/news/blockchains/algorand-foundation-cuts-25-percent-staff-j0wsku</id>
         <link href="https://thedefiant.io/news/blockchains/algorand-foundation-cuts-25-percent-staff-j0wsku"/>
         <updated>2026-03-18T21:02:24.000Z</updated>
-        <summary type="html"><![CDATA[The Algorand Foundation has laid off a quarter of its staff, citing macroeconomic uncertainty and depressed crypto prices as conditions worsen across the industry.]]></summary>
+        <summary type="html"><![CDATA[The Algorand Foundation has cut 25% of its workforce due to macroeconomic uncertainty and lower cryptocurrency prices. The layoff at the organization behind the layer-1 Algorand blockchain reflects broader challenges facing the crypto sector as market conditions deteriorate.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,6 +870,7 @@
         <id>https://thedefiant.io/news/defi/aster-deepens-wlfi-partnership-with-usd1-perpetual-markets</id>
         <link href="https://thedefiant.io/news/defi/aster-deepens-wlfi-partnership-with-usd1-perpetual-markets"/>
         <updated>2026-03-18T17:46:48.000Z</updated>
+        <summary type="html"><![CDATA[The perpetuals exchange is promoting WLFI's stablecoin as a trading asset ahead of the Aster Chain Layer 1 launch.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
@@ -972,36 +1003,6 @@
         <summary type="html"><![CDATA[The popular Solana wallet can now partner with registered exchanges to offer in-app access to derivatives and event contracts without registering as a broker.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Launches AgentKit to Let AI Agents Carry Proof of Human Backing]]></title>
-        <id>https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing</id>
-        <link href="https://thedefiant.io/news/infrastructure/world-launches-agentkit-to-let-ai-agents-carry-proof-of-human-backing"/>
-        <updated>2026-03-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The toolkit integrates with Coinbase's x402 protocol, giving platforms a way to verify a real person stands behind an automated agent — without revealing who that person is.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastercard to Acquire Stablecoin Infra Firm BVNK for up to $1.8 Billion]]></title>
-        <id>https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk</id>
-        <link href="https://thedefiant.io/news/infrastructure/mastercard-to-acquire-stablecoin-infra-firm-bvnk"/>
-        <updated>2026-03-17T14:15:49.000Z</updated>
-        <summary type="html"><![CDATA[The move aims to integrate BVNK's infra into Mastercard's network to bridge on-chain payments and existing fiat rails.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aster Launches Privacy-Focused Layer 1]]></title>
-        <id>https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1</id>
-        <link href="https://thedefiant.io/news/blockchains/aster-launches-mainnet-privacy-focused-layer-1"/>
-        <updated>2026-03-17T13:52:16.000Z</updated>
-        <summary type="html"><![CDATA[The second-largest perpetual futures DEX by volume began the rollout of its mainnet, which uses ZK proofs to keep trades private.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
     <entry>
