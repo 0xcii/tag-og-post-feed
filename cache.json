@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/wallet-in-telegram-rolls-out-perpetual-futures-trading-via-lighter",
+          "author": "yyctrader",
+          "description": "The partnership brings leveraged derivatives to one of crypto's largest consumer distribution channels, targeting emerging-market users priced out of traditional brokerages.",
+          "link": "https://thedefiant.io/news/defi/wallet-in-telegram-rolls-out-perpetual-futures-trading-via-lighter",
+          "publishedOn": "2026-04-02T18:19:48.000Z",
+          "wordCount": 4776,
+          "title": "Wallet in Telegram Rolls Out Perpetual Futures Trading via Lighter",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1775153992828-png-080bedad-d49b-4b27-be95-036f2cc2e0eb.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1775153992828-png-080bedad-d49b-4b27-be95-036f2cc2e0eb.png"
+        },
+        {
           "id": "https://thedefiant.io/news/infrastructure/coinbase-x402-payment-protocol-moves-to-linux-foundation",
           "author": "yyctrader",
           "description": "The open standard for embedding payments into HTTP interactions aims to become the settlement layer for AI agent commerce, with over 20 founding members spanning tech, payments and crypto.",
@@ -205,7 +220,7 @@
           "description": "Caltech researchers estimate a working quantum computer could be operational before 2030 using far fewer qubits than previously thought, as crypto industry assesses vulnerability exposure.",
           "link": "https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9",
           "publishedOn": "2026-04-01T11:31:33.000Z",
-          "wordCount": 4456,
+          "wordCount": 4510,
           "title": "Caltech researchers project functional quantum computer feasible by 2030 with 10,000-20,000 qubits: Caltech",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0cdb01f4457cc2b8a70ea6d0944e7ff2f249b98d-1792x1024.jpg",
@@ -565,7 +580,7 @@
           "description": "Major altcoins plunge, with ETH, SOL, and XRP dropping 5%.",
           "link": "https://thedefiant.io/news/markets/bitcoin-slides-below-usd69-000-as-iran-stalemate-fuels-global-selloff",
           "publishedOn": "2026-03-26T18:26:51.000Z",
-          "wordCount": 4393,
+          "wordCount": 4403,
           "title": "Bitcoin Slides Below $69,000 as Iran Stalemate Fuels Global Selloff",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1774549614989-png-efcd1156-063e-4819-a250-deb742b4cc11.png",
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1773784983152-png-243d1d1c-9d52-43b3-be94-dde20d656ab5.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/sec-clarifies-securities-laws-crypto-assets-cpko23",
-          "author": "DefAInt",
-          "description": "The SEC has issued an official interpretation clarifying the application of federal securities laws to crypto assets and transactions, marking a significant step in regulatory clarity for the industry.",
-          "link": "https://thedefiant.io/news/regulation/sec-clarifies-securities-laws-crypto-assets-cpko23",
-          "publishedOn": "2026-03-17T19:46:24.000Z",
-          "wordCount": 5805,
-          "title": "SEC Clarifies How Federal Securities Laws Apply to Crypto Assets",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/sec-1-png-219a3aaf-e71a-4a9e-9306-5b5ecfcdbb51.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/sec-1-png-219a3aaf-e71a-4a9e-9306-5b5ecfcdbb51.png"
         }
       ]
     }
