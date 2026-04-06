@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/ethena-strikes-lending-deals-with-anchorage-and-maple-amid-usde-reserve-overhaul",
+          "author": "yyctrader",
+          "description": "The synthetic dollar protocol is moving beyond its crypto basis trade roots into institutional lending, real-world credit, and equity and commodity perpetuals.",
+          "link": "https://thedefiant.io/news/defi/ethena-strikes-lending-deals-with-anchorage-and-maple-amid-usde-reserve-overhaul",
+          "publishedOn": "2026-04-06T16:25:09.000Z",
+          "wordCount": 4994,
+          "title": "Ethena Strikes Lending Deals With Anchorage and Maple amid USDe Reserve Overhaul",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1775492971161-png-65e1e00d-8070-4b51-adb9-3b1246d5ef36.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1775492971161-png-65e1e00d-8070-4b51-adb9-3b1246d5ef36.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-graduates-to-nyse-as-eth-treasury-hits-4-8-million-tokens",
           "author": "DefAInt",
           "description": "The ETH treasury company posted its largest weekly purchase since December, and will begin trading on the main NYSE board on Thursday.",
@@ -295,7 +310,7 @@
           "description": "Caltech researchers estimate a working quantum computer could be operational before 2030 using far fewer qubits than previously thought, as crypto industry assesses vulnerability exposure.",
           "link": "https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9",
           "publishedOn": "2026-04-01T11:31:33.000Z",
-          "wordCount": 4512,
+          "wordCount": 4516,
           "title": "Caltech researchers project functional quantum computer feasible by 2030 with 10,000-20,000 qubits: Caltech",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0cdb01f4457cc2b8a70ea6d0944e7ff2f249b98d-1792x1024.jpg",
@@ -325,7 +340,7 @@
           "description": "New Hampshire's Bitcoin-backed municipal bond receives Ba2 rating from Moody's, marking the first instance of a public finance instrument backed by cryptocurrency.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/new-hampshire-bitcoin-municipal-bond-moodys-rating-135trn",
           "publishedOn": "2026-04-01T07:32:22.000Z",
-          "wordCount": 4420,
+          "wordCount": 4424,
           "title": "New Hampshire issues Bitcoin-backed municipal bond with Ba2 rating: Moody's",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/74df27769099e605cdf4da89f9c4b7b91fee1cfc-1792x1024.jpg",
@@ -340,7 +355,7 @@
           "description": "Square is waiving processing fees for Bitcoin payments at US merchants for two years, with instant dollar conversion to reduce adoption barriers.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/square-bitcoin-pos-zero-fees-2026-xl0czz",
           "publishedOn": "2026-04-01T07:32:22.000Z",
-          "wordCount": 4526,
+          "wordCount": 4530,
           "title": "Square launches zero-fee Bitcoin payments for US merchants through 2026: Square",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0a7ad44e90f0f5e2b5c1d4df2776224120bef14-1792x1024.jpg",
@@ -655,7 +670,7 @@
           "description": "Major altcoins plunge, with ETH, SOL, and XRP dropping 5%.",
           "link": "https://thedefiant.io/news/markets/bitcoin-slides-below-usd69-000-as-iran-stalemate-fuels-global-selloff",
           "publishedOn": "2026-03-26T18:26:51.000Z",
-          "wordCount": 4441,
+          "wordCount": 4443,
           "title": "Bitcoin Slides Below $69,000 as Iran Stalemate Fuels Global Selloff",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1774549614989-png-efcd1156-063e-4819-a250-deb742b4cc11.png",
@@ -1150,7 +1165,7 @@
           "description": "A bipartisan group of lawmakers plans to introduce legislation that would ban sports betting on prediction markets including Polymarket and Kalshi.",
           "link": "https://thedefiant.io/news/regulation/lawmakers-bipartisan-bill-ban-prediction-market-sports-betting-senmay",
           "publishedOn": "2026-03-23T09:46:39.000Z",
-          "wordCount": 4469,
+          "wordCount": 4473,
           "title": "U.S. lawmakers to introduce bipartisan bill banning sports betting on prediction markets: WSJ",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/881816c44a0beca0f6d71552213787743450a29e-1792x1024.jpg",
@@ -1267,7 +1282,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/lily-liu-solana-president-blockchain-gaming-comment",
           "author": "Olivia Capozzalo",
-          "description": "Liu also added \"head of gaming\" at Solana Foundation to her X bio, in what appears to be a pointed joke.",
+          "description": "Solana Foundation president Lily Liu said blockchain gaming is dead in an X post today, March 20. A later, self-proclaimed \"shitpost\" from the Foundation’s chief product officer poked fun at Liu’s statement, but the original post had already set off a wave of comments, both criticizing Liu’s take, and defending the future of web3 gaming.",
           "link": "https://thedefiant.io/news/nfts-and-web3/lily-liu-solana-president-blockchain-gaming-comment",
           "publishedOn": "2026-03-20T19:22:21.000Z",
           "wordCount": 5334,
@@ -1282,7 +1297,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/sec-s-crypto-guidance-key-questions",
           "author": "Camila Russo",
-          "description": "The SEC and CFTC's landmark crypto taxonomy has been widely hailed as a decisive break from years of regulatory limbo but legal experts say one of its most consequential provisions raises more questions than it answers, with no formal process for issuers to find out if they've gotten it right.",
+          "description": "Lawyers say the joint SEC-CFTC framework is the most significant crypto regulatory development in years. But who decides when a token sheds its investment contract status, and what happens to DeFi, are still unanswered.",
           "link": "https://thedefiant.io/news/regulation/sec-s-crypto-guidance-key-questions",
           "publishedOn": "2026-03-20T16:37:39.000Z",
           "wordCount": 6598,
@@ -1510,7 +1525,7 @@
           "description": "Kraken has frozen its multibillion-dollar initial public offering plan, citing difficult market conditions just months after confidentially filing with the SEC.",
           "link": "https://thedefiant.io/news/cefi/kraken-freezes-ipo-plan-market-conditions-fntzn9",
           "publishedOn": "2026-03-18T15:17:15.000Z",
-          "wordCount": 4407,
+          "wordCount": 4411,
           "title": "Kraken shelves IPO plans amid market headwinds: CoinDesk",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ed47a63dd0fd41070b0eb5983d856f36d4732db5-1792x1024.jpg",
@@ -1518,21 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ed47a63dd0fd41070b0eb5983d856f36d4732db5-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ethereum-foundation-deploys-more-eth-from-its-treasury-into-morpho",
-          "author": "DefAInt",
-          "description": "The move follows the EF's first deployment into the DeFi lending protocol in October, and is part of its updated treasury policy.",
-          "link": "https://thedefiant.io/news/defi/ethereum-foundation-deploys-more-eth-from-its-treasury-into-morpho",
-          "publishedOn": "2026-03-18T14:38:17.000Z",
-          "wordCount": 5175,
-          "title": "Ethereum Foundation Deposits Another $7.5M in ETH From Its Treasury into Morpho",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/eth-defi-city-walking-jpg-3a394953-7c08-4021-8ed1-4777f7e6c51d.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/eth-defi-city-walking-jpg-3a394953-7c08-4021-8ed1-4777f7e6c51d.jpg"
         }
       ]
     }
