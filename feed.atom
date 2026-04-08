@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-08T19:15:06.376Z</id>
+    <id>urn:2026-04-08T20:41:03.333Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-08T19:15:06.376Z</updated>
+    <updated>2026-04-08T20:41:03.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polymarket Acquires Brahma to Strengthen DeFi Infrastructure]]></title>
+        <id>https://thedefiant.io/news/defi/polymarket-acquires-brahma-defi-infrastructure-56otzn</id>
+        <link href="https://thedefiant.io/news/defi/polymarket-acquires-brahma-defi-infrastructure-56otzn"/>
+        <updated>2026-04-08T19:16:38.000Z</updated>
+        <summary type="html"><![CDATA[Polymarket has acquired Brahma to enhance its DeFi infrastructure and trading performance capabilities.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Markets Surge as US-Iran Ceasefire Triggers Short Squeeze]]></title>
         <id>https://thedefiant.io/news/markets/crypto-markets-surge-as-us-iran-ceasefire-triggers-short-squeeze</id>
@@ -840,7 +850,7 @@
         <id>https://thedefiant.io/news/regulation/blockchain-association-defi-infrastructure-sec-regulation-n6z0vx</id>
         <link href="https://thedefiant.io/news/regulation/blockchain-association-defi-infrastructure-sec-regulation-n6z0vx"/>
         <updated>2026-03-25T15:32:27.000Z</updated>
-        <summary type="html"><![CDATA[Summer Mersinger of the Blockchain Association testified before the House Financial Services Committee on Wednesday, advocating for regulatory differentiation between DeFi protocols and traditional financial intermediaries. Mersinger stated that DeFi systems should receive "appropriately tailored equivalent consideration by the SEC" rather than being subjected to intermediary-based compliance frameworks, to preserve their role as open, neutral infrastructure while maintaining oversight of activities presenting traditional financial risks.]]></summary>
+        <summary type="html"><![CDATA[Summer Mersinger from the Blockchain Association told a House Financial Services Committee hearing that DeFi systems should receive tailored regulatory treatment distinct from intermediary-based compliance regimes.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The Open Wallet Standard aims to fill a gap in the rapidly growing agentic payments stack by giving AI agents a universal, non-custodial way to hold funds and sign transactions across blockchains.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Has Seen Resolv's $25M USR Exploit Many Times Before]]></title>
-        <id>https://thedefiant.io/news/hacks/defi-has-seen-resolv-s-usd25m-usr-exploit-many-times-before</id>
-        <link href="https://thedefiant.io/news/hacks/defi-has-seen-resolv-s-usd25m-usr-exploit-many-times-before"/>
-        <updated>2026-03-23T17:18:09.000Z</updated>
-        <summary type="html"><![CDATA[The Resolv hack wasn't a surprise. The same structural flaw has drained hundreds of millions from Morpho, Euler, and Fluid over the past year and the industry kept building on top of it anyway.]]></summary>
-        <author>
-            <name>Camila Russo</name>
         </author>
     </entry>
 </feed>
