@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-08T15:09:28.101Z</id>
+    <id>urn:2026-04-08T17:00:48.781Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-08T15:09:28.101Z</updated>
+    <updated>2026-04-08T17:00:48.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Biconomy, Ethereum Foundation Unveil Execution Standard for AI Agents]]></title>
+        <id>https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents</id>
+        <link href="https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents"/>
+        <updated>2026-04-08T16:23:20.000Z</updated>
+        <summary type="html"><![CDATA[On-chain AI agents are increasingly capable of reasoning through complex DeFi strategies, but ERC-8211's devs say a shared on-chain execution layer was lacking.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arkham Intel Removes TON Blockchain Support]]></title>
         <id>https://thedefiant.io/news/blockchains/arkham-intel-removes-ton-blockchain-support-7zj7n9</id>
@@ -993,16 +1003,6 @@
         <summary type="html"><![CDATA[The derivatives platform has already opened airdrop claims and pre-market trading ahead of its long-anticipated token generation event.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Surges Past $71,000 After Trump Announces Iran Strikes Pause: Trump]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-71000-trump-iran-strikes-postponed-n9afah</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-71000-trump-iran-strikes-postponed-n9afah"/>
-        <updated>2026-03-23T12:16:40.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin climbed to $71,500 on March 23 after President Trump said the U.S. would postpone planned strikes on Iranian infrastructure for five days pending ongoing diplomatic talks.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>

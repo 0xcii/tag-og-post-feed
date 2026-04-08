@@ -24,6 +24,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents",
+          "author": "DefAInt",
+          "description": "On-chain AI agents are increasingly capable of reasoning through complex DeFi strategies, but ERC-8211's devs say a shared on-chain execution layer was lacking.",
+          "link": "https://thedefiant.io/news/infrastructure/biconomy-ethereum-foundation-unveil-erc-8211-execution-standard-for-ai-agents",
+          "publishedOn": "2026-04-08T16:23:20.000Z",
+          "wordCount": 5102,
+          "title": "Biconomy, Ethereum Foundation Unveil Execution Standard for AI Agents",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/eth-agents-jpg-6b8bba67-a1a5-48c0-ab01-3eb0bd5fc34a.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/eth-agents-jpg-6b8bba67-a1a5-48c0-ab01-3eb0bd5fc34a.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/arkham-intel-removes-ton-blockchain-support-7zj7n9",
           "author": "DefAInt",
           "description": "Arkham Intelligence is discontinuing support for the TON blockchain on its platform effective April 8 at 12pm EST.",
@@ -329,7 +344,7 @@
           "description": "A 45-day ceasefire plan and Strategy's $330M Bitcoin purchase buoyed crypto markets.",
           "link": "https://thedefiant.io/news/markets/bitcoin-nears-usd70-000-as-ceasefire-proposal-lifts-risk-appetite",
           "publishedOn": "2026-04-06T18:36:09.000Z",
-          "wordCount": 4900,
+          "wordCount": 4892,
           "title": "Bitcoin Nears $70,000 as Ceasefire Proposal Lifts Risk Appetite",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1775500754773-png-2d18e4a0-733f-4659-b9c0-c0f652f574e9.png",
@@ -674,7 +689,7 @@
           "description": "Caltech researchers estimate a working quantum computer could be operational before 2030 using far fewer qubits than previously thought, as crypto industry assesses vulnerability exposure.",
           "link": "https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9",
           "publishedOn": "2026-04-01T11:31:33.000Z",
-          "wordCount": 4482,
+          "wordCount": 4472,
           "title": "Caltech researchers project functional quantum computer feasible by 2030 with 10,000-20,000 qubits: Caltech",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0cdb01f4457cc2b8a70ea6d0944e7ff2f249b98d-1792x1024.jpg",
@@ -704,7 +719,7 @@
           "description": "New Hampshire's Bitcoin-backed municipal bond receives Ba2 rating from Moody's, marking the first instance of a public finance instrument backed by cryptocurrency.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/new-hampshire-bitcoin-municipal-bond-moodys-rating-135trn",
           "publishedOn": "2026-04-01T07:32:22.000Z",
-          "wordCount": 4388,
+          "wordCount": 4390,
           "title": "New Hampshire issues Bitcoin-backed municipal bond with Ba2 rating: Moody's",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/74df27769099e605cdf4da89f9c4b7b91fee1cfc-1792x1024.jpg",
@@ -1034,7 +1049,7 @@
           "description": "Major altcoins plunge, with ETH, SOL, and XRP dropping 5%.",
           "link": "https://thedefiant.io/news/markets/bitcoin-slides-below-usd69-000-as-iran-stalemate-fuels-global-selloff",
           "publishedOn": "2026-03-26T18:26:51.000Z",
-          "wordCount": 4397,
+          "wordCount": 4399,
           "title": "Bitcoin Slides Below $69,000 as Iran Stalemate Fuels Global Selloff",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1774549614989-png-efcd1156-063e-4819-a250-deb742b4cc11.png",
@@ -1507,21 +1522,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1774281833858-png-645c2047-0707-45ae-827a-19fabbc96096.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-71000-trump-iran-strikes-postponed-n9afah",
-          "author": "DefAInt",
-          "description": "Bitcoin climbed to $71,500 on March 23 after President Trump said the U.S. would postpone planned strikes on Iranian infrastructure for five days pending ongoing diplomatic talks.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-71000-trump-iran-strikes-postponed-n9afah",
-          "publishedOn": "2026-03-23T12:16:40.000Z",
-          "wordCount": 4596,
-          "title": "Bitcoin Surges Past $71,000 After Trump Announces Iran Strikes Pause: Trump",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/db102401b342e4cf34b2de567698e3cc5f241727-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/db102401b342e4cf34b2de567698e3cc5f241727-1792x1024.jpg"
         }
       ]
     }
