@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-10T14:47:30.996Z</id>
+    <id>urn:2026-04-10T15:53:05.364Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-10T14:47:30.996Z</updated>
+    <updated>2026-04-10T15:53:05.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase CEO Brian Armstrong Backs Treasury Secretary Scott Bessent's CLARITY Act Push]]></title>
+        <id>https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on</id>
+        <link href="https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on"/>
+        <updated>2026-04-10T15:29:45.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong publicly supported Treasury Secretary Scott Bessent's call to pass the CLARITY Act, citing the urgency of crypto regulation.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAO Tanks 20% as Major Subnet Developer Accuses Bittensor Founder of 'Decentralization Theatre']]></title>
+        <id>https://thedefiant.io/news/markets/tao-tanks-20-as-major-subnet-developer-accuses-bittensor-founder-of-decentralization-theatre</id>
+        <link href="https://thedefiant.io/news/markets/tao-tanks-20-as-major-subnet-developer-accuses-bittensor-founder-of-decentralization-theatre"/>
+        <updated>2026-04-10T14:50:20.000Z</updated>
+        <summary type="html"><![CDATA[The founder of Covenant AI announced the project's departure from Bittensor last night, kicking off public accusations from both sides, and sending the subnet ecosystem down 26%.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MoonPay Partners with WalletConnect and Ingenico for Stablecoin Retail Payments]]></title>
         <id>https://thedefiant.io/news/defi/moonpay-walletconnect-ingenico-stablecoin-retail-appbae</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[An independent government review warned that crypto assets could channel foreign money into British politics.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Association urges SEC to treat DeFi as infrastructure, not intermediary: Blockchain Association]]></title>
-        <id>https://thedefiant.io/news/regulation/blockchain-association-defi-infrastructure-sec-regulation-n6z0vx</id>
-        <link href="https://thedefiant.io/news/regulation/blockchain-association-defi-infrastructure-sec-regulation-n6z0vx"/>
-        <updated>2026-03-25T15:32:27.000Z</updated>
-        <summary type="html"><![CDATA[Summer Mersinger from the Blockchain Association told a House Financial Services Committee hearing that DeFi systems should receive tailored regulatory treatment distinct from intermediary-based compliance regimes.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-USD stablecoin supply surges 3x in latest research: Dune and Visa]]></title>
-        <id>https://thedefiant.io/news/markets/non-usd-stablecoin-growth-dune-visa-research-b6efj2</id>
-        <link href="https://thedefiant.io/news/markets/non-usd-stablecoin-growth-dune-visa-research-b6efj2"/>
-        <updated>2026-03-25T13:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Dune and Visa released research showing non-USD stablecoins growing dramatically, with holder addresses jumping 30x and monthly transfer volume hitting $10B.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>

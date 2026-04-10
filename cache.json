@@ -24,6 +24,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on",
+          "author": "DefAInt",
+          "description": "Coinbase CEO Brian Armstrong publicly supported Treasury Secretary Scott Bessent's call to pass the CLARITY Act, citing the urgency of crypto regulation.",
+          "link": "https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on",
+          "publishedOn": "2026-04-10T15:29:45.000Z",
+          "wordCount": 4363,
+          "title": "Coinbase CEO Brian Armstrong Backs Treasury Secretary Scott Bessent's CLARITY Act Push",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dd0c095ad3ed990ed7114173ff8b5b841bc6810c-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dd0c095ad3ed990ed7114173ff8b5b841bc6810c-1792x1024.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/tao-tanks-20-as-major-subnet-developer-accuses-bittensor-founder-of-decentralization-theatre",
+          "author": "DefAInt",
+          "description": "The founder of Covenant AI announced the project's departure from Bittensor last night, kicking off public accusations from both sides, and sending the subnet ecosystem down 26%.",
+          "link": "https://thedefiant.io/news/markets/tao-tanks-20-as-major-subnet-developer-accuses-bittensor-founder-of-decentralization-theatre",
+          "publishedOn": "2026-04-10T14:50:20.000Z",
+          "wordCount": 5330,
+          "title": "TAO Tanks 20% as Major Subnet Developer Accuses Bittensor Founder of 'Decentralization Theatre'",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/ai-crypto-jpg-744c0b48-1793-412c-b625-e35a8a128ba7.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/ai-crypto-jpg-744c0b48-1793-412c-b625-e35a8a128ba7.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/moonpay-walletconnect-ingenico-stablecoin-retail-appbae",
           "author": "DefAInt",
           "description": "MoonPay, WalletConnect, and Ingenico announced a partnership to enable stablecoin payments at physical retail locations globally using MoonPay Virtual Accounts for fiat settlement.",
@@ -134,7 +164,7 @@
           "description": "The DeFi project's treasury used 3 billion WLFI tokens as collateral on Dolomite to borrow $75 million in stablecoins over the past week.",
           "link": "https://thedefiant.io/news/defi/world-liberty-financial-has-borrowed-millions-against-its-own-token",
           "publishedOn": "2026-04-09T18:18:27.000Z",
-          "wordCount": 5220,
+          "wordCount": 5478,
           "title": "World Liberty Financial Has Borrowed Millions Against Its Own Token",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1775758956266-png-4d2ef4d9-931d-4c2f-8700-5ab80c06e715.png",
@@ -1492,36 +1522,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1774453040175-png-473da63b-19e5-4d83-9813-a8fd8c1b9a74.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/blockchain-association-defi-infrastructure-sec-regulation-n6z0vx",
-          "author": "DefAInt",
-          "description": "Summer Mersinger from the Blockchain Association told a House Financial Services Committee hearing that DeFi systems should receive tailored regulatory treatment distinct from intermediary-based compliance regimes.",
-          "link": "https://thedefiant.io/news/regulation/blockchain-association-defi-infrastructure-sec-regulation-n6z0vx",
-          "publishedOn": "2026-03-25T15:32:27.000Z",
-          "wordCount": 4511,
-          "title": "Blockchain Association urges SEC to treat DeFi as infrastructure, not intermediary: Blockchain Association",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d529d6a81b3465fa1983086ef57ff7d7eb6c77c1-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d529d6a81b3465fa1983086ef57ff7d7eb6c77c1-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/non-usd-stablecoin-growth-dune-visa-research-b6efj2",
-          "author": "DefAInt",
-          "description": "Dune and Visa released research showing non-USD stablecoins growing dramatically, with holder addresses jumping 30x and monthly transfer volume hitting $10B.",
-          "link": "https://thedefiant.io/news/markets/non-usd-stablecoin-growth-dune-visa-research-b6efj2",
-          "publishedOn": "2026-03-25T13:31:59.000Z",
-          "wordCount": 4361,
-          "title": "Non-USD stablecoin supply surges 3x in latest research: Dune and Visa",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2542e4600eebd8e83b7b5c539828e677f025680c-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2542e4600eebd8e83b7b5c539828e677f025680c-1792x1024.jpg"
         }
       ]
     }
