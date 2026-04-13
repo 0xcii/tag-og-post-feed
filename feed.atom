@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-13T17:59:49.434Z</id>
+    <id>urn:2026-04-13T19:24:54.900Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-13T17:59:49.434Z</updated>
+    <updated>2026-04-13T19:24:54.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave DAO Votes to Consolidate All Revenue Under AAVE Token]]></title>
+        <id>https://thedefiant.io/news/defi/aave-dao-votes-to-consolidate-all-revenue-under-aave-token</id>
+        <link href="https://thedefiant.io/news/defi/aave-dao-votes-to-consolidate-all-revenue-under-aave-token"/>
+        <updated>2026-04-13T18:55:07.000Z</updated>
+        <summary type="html"><![CDATA['Aave Will Win' passed with 75% support, awarding Aave Labs a $25 million stablecoin grant and 75,000 AAVE in exchange for directing 100% of product revenue to the DAO treasury.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scroll Moves to Cut Security Council and Trim DAO as Struggles Mount]]></title>
+        <id>https://thedefiant.io/news/blockchains/scroll-moves-to-cut-security-council-and-trim-dao-as-struggles-mount</id>
+        <link href="https://thedefiant.io/news/blockchains/scroll-moves-to-cut-security-council-and-trim-dao-as-struggles-mount"/>
+        <updated>2026-04-13T18:19:41.000Z</updated>
+        <summary type="html"><![CDATA[The governance overhaul comes on the heels of a fee controversy and the departure of the Layer 2 network's top revenue generator.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kraken Refuses to Pay Extortionists After Insider Breaches Expose Client Data]]></title>
         <id>https://thedefiant.io/news/cefi/kraken-refuses-to-pay-extortionists-after-insider-breaches-expose-client-data</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/felix-launches-tokenized-stocks-and-etfs-on-hyperliquid-via-ondo-finance"/>
         <updated>2026-03-26T20:39:00.000Z</updated>
         <summary type="html"><![CDATA[On-chain traders on Hyperliquid can now trade over 250 tokenized U.S. equities.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brazil's New Anti-Gang Law Lets Authorities Liquidate Seized Crypto to Fund Police Operations]]></title>
-        <id>https://thedefiant.io/news/regulation/brazil-s-new-anti-gang-law-lets-authorities-liquidate-seized-crypto-to-fund-police-operations</id>
-        <link href="https://thedefiant.io/news/regulation/brazil-s-new-anti-gang-law-lets-authorities-liquidate-seized-crypto-to-fund-police-operations"/>
-        <updated>2026-03-26T20:27:58.000Z</updated>
-        <summary type="html"><![CDATA[Law No. 15,358 gives judges sweeping power to freeze digital assets during investigations as Brasília takes a "financial strangulation" approach to organized crime.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase and Better Launch Crypto-Backed Mortgages With Fannie Mae Backing]]></title>
-        <id>https://thedefiant.io/news/cefi/coinbase-and-better-launch-crypto-backed-mortgages-with-fannie-mae-backing</id>
-        <link href="https://thedefiant.io/news/cefi/coinbase-and-better-launch-crypto-backed-mortgages-with-fannie-mae-backing"/>
-        <updated>2026-03-26T19:29:22.000Z</updated>
-        <summary type="html"><![CDATA[Borrowers can pledge Bitcoin or USDC as down payment collateral without triggering a taxable event.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
