@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-14T13:24:51.485Z</id>
+    <id>urn:2026-04-14T15:12:24.312Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-14T13:24:51.485Z</updated>
+    <updated>2026-04-14T15:12:24.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Morpho Unveils Fixed-Rate Protocol Morpho Midnight]]></title>
+        <id>https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight</id>
+        <link href="https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight"/>
+        <updated>2026-04-14T14:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Morpho is the second-largest lending protocol in DeFi, with $7.7B in TVL.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether Introduces Multichain Self-Custodial Wallet]]></title>
+        <id>https://thedefiant.io/news/defi/tether-introduces-self-custodial-wallet-to-enhance-financial-inclusion</id>
+        <link href="https://thedefiant.io/news/defi/tether-introduces-self-custodial-wallet-to-enhance-financial-inclusion"/>
+        <updated>2026-04-14T13:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Self-custodial wallet tether.wallet supports Bitcoin, USDT, USAT and XAUT across multiple blockchains at launch.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Tops $73,000 Despite Iran Blockade]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-tops-usd73-000-despite-iran-blockade</id>
@@ -820,7 +840,7 @@
         <id>https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9</id>
         <link href="https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9"/>
         <updated>2026-04-01T11:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Caltech researchers estimate a working quantum computer could be operational before 2030 using far fewer qubits than previously thought, as crypto industry assesses vulnerability exposure.]]></summary>
+        <summary type="html"><![CDATA[Researchers at Caltech announced that a functional quantum computer may be feasible by 2030, requiring only 10,000 to 20,000 qubits rather than the millions previously estimated. The revised timeline comes as Google's Quantum AI team identified approximately 6.9 million BTC as potentially vulnerable to quantum attacks, though no such capable machine currently exists.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/new-hampshire-bitcoin-municipal-bond-moodys-rating-135trn</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/new-hampshire-bitcoin-municipal-bond-moodys-rating-135trn"/>
         <updated>2026-04-01T07:32:22.000Z</updated>
-        <summary type="html"><![CDATA[New Hampshire issued a Bitcoin-backed municipal bond that received a Ba2 rating from Moody's on April 1, 2026, marking an unprecedented first in public finance. The bond represents the first time a U.S. municipality has secured a credit rating for a debt instrument backed by cryptocurrency assets.]]></summary>
+        <summary type="html"><![CDATA[New Hampshire's Bitcoin-backed municipal bond receives Ba2 rating from Moody's, marking the first instance of a public finance instrument backed by cryptocurrency.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/research-and-opinion/ecb-study-concludes-defi-daos-aren-t-as-decentralized-as-they-claim"/>
         <updated>2026-03-27T17:08:06.000Z</updated>
         <summary type="html"><![CDATA[A new working paper from the European Central Bank examined four major protocols and found that a small number of actors control the bulk of governance token holdings.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYSE Owner ICE Pours Another $600 Million Into Polymarket]]></title>
-        <id>https://thedefiant.io/news/defi/nyse-owner-ice-pours-another-usd600-million-into-polymarket</id>
-        <link href="https://thedefiant.io/news/defi/nyse-owner-ice-pours-another-usd600-million-into-polymarket"/>
-        <updated>2026-03-27T16:49:57.000Z</updated>
-        <summary type="html"><![CDATA[Intercontinental Exchange has now deployed nearly $2 billion into the onchain prediction market, underscoring Wall Street's growing conviction that event-based trading is here to stay.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Hits Two-Week Low as $443M in Longs Get Wiped Out]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-hits-two-week-low-as-usd443m-in-longs-get-wiped-out</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-hits-two-week-low-as-usd443m-in-longs-get-wiped-out"/>
-        <updated>2026-03-27T16:38:24.000Z</updated>
-        <summary type="html"><![CDATA[Iran escalation and $171 million in ETF outflows drive BTC below $66,000.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>

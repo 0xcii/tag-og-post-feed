@@ -24,6 +24,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight",
+          "author": "DefAInt",
+          "description": "Morpho is the second-largest lending protocol in DeFi, with $7.7B in TVL.",
+          "link": "https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight",
+          "publishedOn": "2026-04-14T14:58:48.000Z",
+          "wordCount": 4582,
+          "title": "Morpho Unveils Fixed-Rate Protocol Morpho Midnight",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/morpho-jpg-6c68df29-092c-466c-8d4a-a55c4ce1edd5.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/morpho-jpg-6c68df29-092c-466c-8d4a-a55c4ce1edd5.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/tether-introduces-self-custodial-wallet-to-enhance-financial-inclusion",
+          "author": "DefAInt",
+          "description": "Self-custodial wallet tether.wallet supports Bitcoin, USDT, USAT and XAUT across multiple blockchains at launch.",
+          "link": "https://thedefiant.io/news/defi/tether-introduces-self-custodial-wallet-to-enhance-financial-inclusion",
+          "publishedOn": "2026-04-14T13:41:56.000Z",
+          "wordCount": 4736,
+          "title": "Tether Introduces Multichain Self-Custodial Wallet",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a41dda5ac0ec5975faed37800dd2e3182874df92-1792x1024.png",
+            "length": "1000000",
+            "type": "null"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a41dda5ac0ec5975faed37800dd2e3182874df92-1792x1024.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitcoin-tops-usd73-000-despite-iran-blockade",
           "author": "yyctrader",
           "description": "Crypto markets shrugged off collapsing peace talks and surging oil prices, with BTC, ETH, and major altcoins posting gains.",
@@ -1241,7 +1271,7 @@
         {
           "id": "https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9",
           "author": "DefAInt",
-          "description": "Caltech researchers estimate a working quantum computer could be operational before 2030 using far fewer qubits than previously thought, as crypto industry assesses vulnerability exposure.",
+          "description": "Researchers at Caltech announced that a functional quantum computer may be feasible by 2030, requiring only 10,000 to 20,000 qubits rather than the millions previously estimated. The revised timeline comes as Google's Quantum AI team identified approximately 6.9 million BTC as potentially vulnerable to quantum attacks, though no such capable machine currently exists.",
           "link": "https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9",
           "publishedOn": "2026-04-01T11:31:33.000Z",
           "wordCount": 4455,
@@ -1271,7 +1301,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/new-hampshire-bitcoin-municipal-bond-moodys-rating-135trn",
           "author": "DefAInt",
-          "description": "New Hampshire issued a Bitcoin-backed municipal bond that received a Ba2 rating from Moody's on April 1, 2026, marking an unprecedented first in public finance. The bond represents the first time a U.S. municipality has secured a credit rating for a debt instrument backed by cryptocurrency assets.",
+          "description": "New Hampshire's Bitcoin-backed municipal bond receives Ba2 rating from Moody's, marking the first instance of a public finance instrument backed by cryptocurrency.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/new-hampshire-bitcoin-municipal-bond-moodys-rating-135trn",
           "publishedOn": "2026-04-01T07:32:22.000Z",
           "wordCount": 4380,
@@ -1492,36 +1522,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1774631477102-png-54c64be1-859a-4150-9c74-5cf20b8749f9.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/nyse-owner-ice-pours-another-usd600-million-into-polymarket",
-          "author": "yyctrader",
-          "description": "Intercontinental Exchange has now deployed nearly $2 billion into the onchain prediction market, underscoring Wall Street's growing conviction that event-based trading is here to stay.",
-          "link": "https://thedefiant.io/news/defi/nyse-owner-ice-pours-another-usd600-million-into-polymarket",
-          "publishedOn": "2026-03-27T16:49:57.000Z",
-          "wordCount": 4926,
-          "title": "NYSE Owner ICE Pours Another $600 Million Into Polymarket",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1774630271801-png-ab370b85-42b5-4cb0-9f43-2062749f1926.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1774630271801-png-ab370b85-42b5-4cb0-9f43-2062749f1926.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-hits-two-week-low-as-usd443m-in-longs-get-wiped-out",
-          "author": "yyctrader",
-          "description": "Iran escalation and $171 million in ETF outflows drive BTC below $66,000.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-hits-two-week-low-as-usd443m-in-longs-get-wiped-out",
-          "publishedOn": "2026-03-27T16:38:24.000Z",
-          "wordCount": 4673,
-          "title": "Bitcoin Hits Two-Week Low as $443M in Longs Get Wiped Out",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1774629537135-png-5dd358e4-6d7c-4ba8-9e2b-b445b6311954.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1774629537135-png-5dd358e4-6d7c-4ba8-9e2b-b445b6311954.png"
         }
       ]
     }
