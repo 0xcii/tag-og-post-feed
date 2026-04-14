@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-14T15:12:24.312Z</id>
+    <id>urn:2026-04-14T17:06:23.864Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-14T15:12:24.312Z</updated>
+    <updated>2026-04-14T17:06:23.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ether Outperforms as Bitcoin Tops $75,000]]></title>
+        <id>https://thedefiant.io/news/markets/ether-outperforms-as-bitcoin-tops-usd75-000</id>
+        <link href="https://thedefiant.io/news/markets/ether-outperforms-as-bitcoin-tops-usd75-000"/>
+        <updated>2026-04-14T16:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Crypto markets staged a broad Tuesday rally, fueled by over $500M in short liquidations.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goldman Sachs Files for Its First Bitcoin-Linked ETF]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-files-for-its-first-bitcoin-linked-etf</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-files-for-its-first-bitcoin-linked-etf"/>
+        <updated>2026-04-14T15:23:56.000Z</updated>
+        <summary type="html"><![CDATA[The Goldman Sachs Bitcoin Premium Income ETF primarily will offer exposure to other Bitcoin exchange-traded products, but the fund won't hold BTC directly.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morpho Unveils Fixed-Rate Protocol Morpho Midnight]]></title>
         <id>https://thedefiant.io/news/defi/morpho-unveils-fixed-rate-protocol-morpho-midnight</id>
@@ -840,7 +860,7 @@
         <id>https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9</id>
         <link href="https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9"/>
         <updated>2026-04-01T11:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Researchers at Caltech announced that a functional quantum computer may be feasible by 2030, requiring only 10,000 to 20,000 qubits rather than the millions previously estimated. The revised timeline comes as Google's Quantum AI team identified approximately 6.9 million BTC as potentially vulnerable to quantum attacks, though no such capable machine currently exists.]]></summary>
+        <summary type="html"><![CDATA[Caltech researchers estimate a working quantum computer could be operational before 2030 using far fewer qubits than previously thought, as crypto industry assesses vulnerability exposure.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/blockchains/gnosis-and-zisk-unveil-ethereum-economic-zone-framework"/>
         <updated>2026-03-29T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Co-funded by the Ethereum Foundation, the EEZ promises synchronous composability between Ethereum mainnet and Layer 2 networks, aiming to address ecosystem fragmentation.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Foundation Completes $65 Million Worldcoin Token Sale: World Foundation]]></title>
-        <id>https://thedefiant.io/news/markets/world-foundation-worldcoin-token-sale-65-million-x5jait</id>
-        <link href="https://thedefiant.io/news/markets/world-foundation-worldcoin-token-sale-65-million-x5jait"/>
-        <updated>2026-03-29T11:16:31.000Z</updated>
-        <summary type="html"><![CDATA[The World Foundation sold $65 million in WLD tokens through over-the-counter block trades with four private counterparties at an average price of $0.2719 per token.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECB Study Concludes DeFi DAOs Aren't as Decentralized as They Claim]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/ecb-study-concludes-defi-daos-aren-t-as-decentralized-as-they-claim</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/ecb-study-concludes-defi-daos-aren-t-as-decentralized-as-they-claim"/>
-        <updated>2026-03-27T17:08:06.000Z</updated>
-        <summary type="html"><![CDATA[A new working paper from the European Central Bank examined four major protocols and found that a small number of actors control the bulk of governance token holdings.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
