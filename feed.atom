@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-15T22:40:37.002Z</id>
+    <id>urn:2026-04-15T23:40:48.375Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-15T22:40:37.002Z</updated>
+    <updated>2026-04-15T23:40:48.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[No Trade Zone]]></title>
+        <id>https://medium.com/p/e185cd4c5611</id>
+        <link href="https://cryptohayes.medium.com/no-trade-zone-e185cd4c5611?source=rss-2f6e06954878------2"/>
+        <updated>2026-04-15T23:01:02.000Z</updated>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Stalls Below $75,000 amid Geopolitical Fog and Tax-Day Selling]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-stalls-below-usd75-000-amid-geopolitical-fog-and-tax-day-selling</id>
