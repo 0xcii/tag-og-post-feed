@@ -24,6 +24,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/world-liberty-financial-proposes-token-unlock-that-would-outlast-trump-s-presidency",
+          "author": "DefAInt",
+          "description": "The governance proposal would give early token buyers the ability to start unlocking their tokens in two years — notably, after Trump's second presidential term ends.",
+          "link": "https://thedefiant.io/news/cefi/world-liberty-financial-proposes-token-unlock-that-would-outlast-trump-s-presidency",
+          "publishedOn": "2026-04-15T14:39:10.000Z",
+          "wordCount": 4849,
+          "title": "WLFI Moves to End Indefinite Token Lock with Four-Year Vesting Proposal",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/burn-unlock-jpg-e8b70441-3ba8-4946-85c2-e5c693e76224.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/burn-unlock-jpg-e8b70441-3ba8-4946-85c2-e5c693e76224.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5",
           "author": "DefAInt",
           "description": "CoW Swap's primary domain swap.cow.fi is currently inaccessible due to a lock, with the team working with security experts to regain control.",
@@ -1507,21 +1522,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d0a7ad44e90f0f5e2b5c1d4df2776224120bef14-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/base-doubles-down-on-global-markets-stablecoins-and-ai-agents",
-          "author": "yyctrader",
-          "description": "Coinbase's Layer 2 shifts focus to tokenizing every major asset class and scaling stablecoin payments.",
-          "link": "https://thedefiant.io/news/blockchains/base-doubles-down-on-global-markets-stablecoins-and-ai-agents",
-          "publishedOn": "2026-03-31T19:12:43.000Z",
-          "wordCount": 4928,
-          "title": "Base Doubles Down on Global Markets, Stablecoins, and AI Agents",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1774984645760-png-bfb1f0c6-5581-4eab-9cfa-e8514cd3b216.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1774984645760-png-bfb1f0c6-5581-4eab-9cfa-e8514cd3b216.png"
         }
       ]
     }
