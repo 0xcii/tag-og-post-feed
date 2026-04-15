@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-15T17:03:12.783Z</id>
+    <id>urn:2026-04-15T19:16:43.413Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-15T17:03:12.783Z</updated>
+    <updated>2026-04-15T19:16:43.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Justin Sun Blasts WLFI Token Unlock Proposal as 'World Tyranny']]></title>
+        <id>https://thedefiant.io/news/defi/justin-sun-blasts-wlfi-token-unlock-proposal-as-world-tyranny</id>
+        <link href="https://thedefiant.io/news/defi/justin-sun-blasts-wlfi-token-unlock-proposal-as-world-tyranny"/>
+        <updated>2026-04-15T18:57:12.000Z</updated>
+        <summary type="html"><![CDATA[TRON founder escalates feud with Trump-linked DeFi project, alleging coercion and frozen voting rights.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave Labs Launches Checkpoint, AI-Powered Governance Security System: Aave Labs]]></title>
+        <id>https://thedefiant.io/news/defi/aave-checkpoint-governance-security-launch-s1ssi9</id>
+        <link href="https://thedefiant.io/news/defi/aave-checkpoint-governance-security-launch-s1ssi9"/>
+        <updated>2026-04-15T18:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Aave Checkpoint combines automated AI analysis with mandatory human verification to review all DAO proposals before onchain execution.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Eyes Q2 Rebound as Institutions Deepen Crypto Commitment: Nexo]]></title>
+        <id>https://thedefiant.io/news/research-and-opinion/bitcoin-eyes-q2-rebound-as-institutions-deepen-crypto-commitment-nexo</id>
+        <link href="https://thedefiant.io/news/research-and-opinion/bitcoin-eyes-q2-rebound-as-institutions-deepen-crypto-commitment-nexo"/>
+        <updated>2026-04-15T17:57:02.000Z</updated>
+        <summary type="html"><![CDATA[After crypto's worst Q1 since 2018, ETF inflows have turned positive, and $268 billion in stablecoins sits on the sidelines waiting for a catalyst.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitwise Launches Avalanche ETF With In-House Staking]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/bitwise-launches-avalanche-etf-with-in-house-staking</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/bitwise-launches-avalanche-etf-with-in-house-staking"/>
+        <updated>2026-04-15T16:55:30.000Z</updated>
+        <summary type="html"><![CDATA[BAVA is the third U.S.-listed AVAX ETP and highlights in-house staking as a competitive edge.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fireblocks Launches Stablecoin Yield Product via Aave, Morpho]]></title>
         <id>https://thedefiant.io/news/defi/fireblocks-launches-stablecoin-yield-via-aave-morpho</id>
@@ -840,7 +880,7 @@
         <id>https://thedefiant.io/news/cefi/coinbase-gets-conditional-approval-from-occ-for-federal-trust</id>
         <link href="https://thedefiant.io/news/cefi/coinbase-gets-conditional-approval-from-occ-for-federal-trust"/>
         <updated>2026-04-03T15:15:10.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase announced on Thursday that it has received conditional approval from the Office of the Comptroller of the Currency (OCC) to establish Coinbase National Trust Company, a non-insured national trust bank to be headquartered in New York.]]></summary>
+        <summary type="html"><![CDATA[Coinbase got conditional approval from the OCC for its trust, a step toward federal oversight for its offerings to replace the current state by state licensing approach.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -963,46 +1003,6 @@
         <summary type="html"><![CDATA[Onchain data shows more than a dozen asset types drained from the Solana perp DEX's main vault address in a rapid burst of transactions.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Franklin Templeton Launches Dedicated 'Franklin Crypto' Division]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-launches-dedicated-franklin-crypto-division</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/franklin-templeton-launches-dedicated-franklin-crypto-division"/>
-        <updated>2026-04-01T15:48:35.000Z</updated>
-        <summary type="html"><![CDATA[The $1.7 trillion asset manager will absorb the 250 Digital team and all liquid crypto strategies previously managed by CoinFund, targeting pensions and sovereign wealth funds.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-USD stablecoin senders on Solana nearly tripled year-over-year, led by EURC and BRZ: Dune]]></title>
-        <id>https://thedefiant.io/news/blockchains/solana-non-usd-stablecoin-senders-tripled-eurc-brz-mygmay</id>
-        <link href="https://thedefiant.io/news/blockchains/solana-non-usd-stablecoin-senders-tripled-eurc-brz-mygmay"/>
-        <updated>2026-04-01T13:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Solana's non-USD stablecoin adoption surged nearly threefold in the past year, driven by EURC and BRZ growth alongside institutional integrations from Visa, Stripe, PayPal, Mastercard, and Western Union.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caltech researchers project functional quantum computer feasible by 2030 with 10,000-20,000 qubits: Caltech]]></title>
-        <id>https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9</id>
-        <link href="https://thedefiant.io/news/security/caltech-quantum-computer-2030-bitcoin-vulnerability-ett4e9"/>
-        <updated>2026-04-01T11:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Caltech researchers estimate a working quantum computer could be operational before 2030 using far fewer qubits than previously thought, as crypto industry assesses vulnerability exposure.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CZ Says Crypto Can Survive Quantum Computing With Protocol Upgrades: Binance Co-Founder]]></title>
-        <id>https://thedefiant.io/news/security/cz-quantum-resistant-crypto-upgrades-uuxlxx</id>
-        <link href="https://thedefiant.io/news/security/cz-quantum-resistant-crypto-upgrades-uuxlxx"/>
-        <updated>2026-04-01T10:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Changpeng Zhao addressed quantum computing concerns, stating the crypto industry can upgrade to quantum-resistant algorithms to mitigate threats.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
