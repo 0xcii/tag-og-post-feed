@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-16T19:12:45.730Z</id>
+    <id>urn:2026-04-16T20:47:57.929Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-16T19:12:45.730Z</updated>
+    <updated>2026-04-16T20:47:57.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Altcoins Surge as Bitcoin Drifts Near $75,000]]></title>
+        <id>https://thedefiant.io/news/markets/altcoins-surge-as-bitcoin-drifts-near-usd75-000</id>
+        <link href="https://thedefiant.io/news/markets/altcoins-surge-as-bitcoin-drifts-near-usd75-000"/>
+        <updated>2026-04-16T20:45:22.000Z</updated>
+        <summary type="html"><![CDATA[ETH held above $2,300, while SOL reclaimed $90 and XRP jumped to $1.46.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundation NFT Marketplace Shuts Down Permanently After Failed Sale]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/foundation-nft-marketplace-shuts-down-permanently-after-failed-sale</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/foundation-nft-marketplace-shuts-down-permanently-after-failed-sale"/>
+        <updated>2026-04-16T20:03:36.000Z</updated>
+        <summary type="html"><![CDATA[The curated art platform says its infrastructure has already been spun down with no plans to come back online.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LDO Bucks DeFi Downturn With 30% Monthly Rally After DAO Passes Buyback Scheme]]></title>
         <id>https://thedefiant.io/news/defi/ldo-bucks-defi-downturn-with-30-monthly-rally-after-dao-passes-buyback-scheme</id>
@@ -829,7 +849,7 @@
         <id>https://thedefiant.io/news/markets/cme-group-avalanche-sui-futures-mfdehq</id>
         <link href="https://thedefiant.io/news/markets/cme-group-avalanche-sui-futures-mfdehq"/>
         <updated>2026-04-07T13:46:30.000Z</updated>
-        <summary type="html"><![CDATA[CME Group expanded is looking to expand its crypto derivatives offerings with new futures contracts for Avalanche and Sui, pending regulatory approval.]]></summary>
+        <summary type="html"><![CDATA[CME Group announced that it plans to launch of Avalanche and Sui futures contracts. The contracts are available in both larger and Micro sizes, designed to provide capital efficiency and strategic flexibility for traders.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -849,7 +869,7 @@
         <id>https://thedefiant.io/news/markets/spot-bitcoin-etf-471m-inflow-six-weeks-xwasq8</id>
         <link href="https://thedefiant.io/news/markets/spot-bitcoin-etf-471m-inflow-six-weeks-xwasq8"/>
         <updated>2026-04-07T12:47:05.000Z</updated>
-        <summary type="html"><![CDATA[US-listed spot bitcoin exchange-traded funds recorded $471.32 million in net inflows on April 6, marking their largest single-day inflow in six weeks since February 25. Twelve of the twelve ETFs tracked posted either zero or positive flows, with BlackRock's iShares Bitcoin Trust (IBIT) leading inflows. The surge brought cumulative net inflows across all spot bitcoin ETFs to $56.43 billion.]]></summary>
+        <summary type="html"><![CDATA[US-listed spot bitcoin ETFs posted their strongest day since late February with $471.32 million in net inflows on April 6.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -992,26 +1012,6 @@
         <summary type="html"><![CDATA[Coinbase got conditional approval from the OCC for its trust, a step toward federal oversight for its offerings to replace the current state by state licensing approach.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riot Platforms Sells 3,778 BTC in Q1 2026 for $289.5M]]></title>
-        <id>https://thedefiant.io/news/markets/riot-platforms-sells-3778-btc-q1-2026-gpb4vo</id>
-        <link href="https://thedefiant.io/news/markets/riot-platforms-sells-3778-btc-q1-2026-gpb4vo"/>
-        <updated>2026-04-03T15:13:57.000Z</updated>
-        <summary type="html"><![CDATA[Nasdaq-listed Bitcoin miner Riot Platforms sold 3,778 BTC in the first quarter of 2026, generating roughly $289.5 million in net proceeds.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Markets Tumble as Iran Strikes Resume, Drift Exploit Rattles Solana]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-markets-tumble-as-iran-strikes-resume</id>
-        <link href="https://thedefiant.io/news/markets/crypto-markets-tumble-as-iran-strikes-resume"/>
-        <updated>2026-04-02T19:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin fell below $67,000, and Ether dropped over 4% as oil surged on renewed geopolitical tensions.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
