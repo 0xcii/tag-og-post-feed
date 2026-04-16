@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-16T15:24:24.768Z</id>
+    <id>urn:2026-04-16T17:13:20.612Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-16T15:24:24.768Z</updated>
+    <updated>2026-04-16T17:13:20.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tempo Unveils 'Zones' for Private Enterprise Stablecoin Transactions]]></title>
+        <id>https://thedefiant.io/news/blockchains/tempo-unveils-zones-for-private-enterprise-stablecoin-transactions</id>
+        <link href="https://thedefiant.io/news/blockchains/tempo-unveils-zones-for-private-enterprise-stablecoin-transactions"/>
+        <updated>2026-04-16T16:34:15.000Z</updated>
+        <summary type="html"><![CDATA[The Stripe-incubated blockchain is pitching privacy as the missing piece for institutional stablecoin adoption.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Long-Time Ethereum Foundation Contributors Announce Departures]]></title>
+        <id>https://thedefiant.io/news/people/ethereum-foundation-departures-josh-stark-trent-eth</id>
+        <link href="https://thedefiant.io/news/people/ethereum-foundation-departures-josh-stark-trent-eth"/>
+        <updated>2026-04-16T16:19:18.000Z</updated>
+        <summary type="html"><![CDATA[Josh Stark, a member of the EF's leadership team, and Trent Van Epps both separately announced this week that they are leaving the foundation after five years.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether Commits $127.5M to Drift Protocol Recovery Plan Following $270M+ Exploit]]></title>
         <id>https://thedefiant.io/news/defi/tether-commits-over-usd127m-to-drift-protocol-recovery-plan</id>
@@ -829,7 +849,7 @@
         <id>https://thedefiant.io/news/markets/blackrock-buidl-surpasses-1b-market-cap-cbf3mz</id>
         <link href="https://thedefiant.io/news/markets/blackrock-buidl-surpasses-1b-market-cap-cbf3mz"/>
         <updated>2026-04-06T18:46:51.000Z</updated>
-        <summary type="html"><![CDATA[BlackRock's BUIDL token on Ethereum has exceeded $1 billion in market capitalization, up approximately 115% year-to-date.]]></summary>
+        <summary type="html"><![CDATA[BlackRock's BUIDL token on Ethereum has surpassed $1 billion in market capitalization, achieving roughly 115% gains year-to-date as of April 6, 2026. The milestone marks significant growth for the tokenized fund product since the start of 2026.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -990,26 +1010,6 @@
         <link href="https://thedefiant.io/news/blockchains/ethereum-stablecoin-dominance-decline-dune-visa-pav1xe"/>
         <updated>2026-04-02T13:16:31.000Z</updated>
         <summary type="html"><![CDATA[Ethereum's share of non-USD stablecoin supply has fallen from 90% in early 2023 to 65% as of February 2026, though it remains the primary issuance chain.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SoFi launches Big Business Banking platform on Solana: SoFi]]></title>
-        <id>https://thedefiant.io/news/cefi/sofi-big-business-banking-solana-launch-i0lyhs</id>
-        <link href="https://thedefiant.io/news/cefi/sofi-big-business-banking-solana-launch-i0lyhs"/>
-        <updated>2026-04-02T12:16:41.000Z</updated>
-        <summary type="html"><![CDATA[SoFi, a nationally chartered bank with 13.7M members and $50B+ in assets, launched an enterprise banking platform combining fiat and stablecoin services on Solana with 24/7 payment support.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradigm develops prediction markets trading terminal for pro traders: Fortune]]></title>
-        <id>https://thedefiant.io/news/markets/paradigm-prediction-markets-trading-terminal-78qiq7</id>
-        <link href="https://thedefiant.io/news/markets/paradigm-prediction-markets-trading-terminal-78qiq7"/>
-        <updated>2026-04-02T10:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Paradigm is building a prediction markets trading terminal aimed at professional traders and market makers, with partner Arjun Balaji leading the effort since late 2025.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
