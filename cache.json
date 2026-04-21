@@ -35,6 +35,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/ny-ag-sues-coinbase-gemini-unlicensed-prediction-markets",
+          "author": "DefAInt",
+          "description": "New York AG Letitia James filed suit against Coinbase and Gemini, alleging their prediction market platforms constitute illegal gambling operations lacking state licenses.",
+          "link": "https://thedefiant.io/news/regulation/ny-ag-sues-coinbase-gemini-unlicensed-prediction-markets",
+          "publishedOn": "2026-04-21T17:15:19.000Z",
+          "wordCount": 4806,
+          "title": "New York Attorney General Sues Coinbase, Gemini Over Unlicensed Prediction Markets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/06df3cd8777d95d41b32498231a9cc4d85064ab9-1792x1024.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/06df3cd8777d95d41b32498231a9cc4d85064ab9-1792x1024.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/aave-partially-unfreezes-weth-after-rseth-bridge-exploit",
+          "author": "DefAInt",
+          "description": "After attackers deposited rsETH from an exploited Kelp bridge and borrowed Wrapped ETH, Aave had frozen WETH across multiple markets.",
+          "link": "https://thedefiant.io/news/defi/aave-partially-unfreezes-weth-after-rseth-bridge-exploit",
+          "publishedOn": "2026-04-21T16:59:55.000Z",
+          "wordCount": 5090,
+          "title": "Aave Partially Unfreezes WETH After Kelp Bridge Exploit",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/aave-l2s-jpg-cffd6744-fd33-41bb-8f1b-ea72fc7b1154.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/aave-l2s-jpg-cffd6744-fd33-41bb-8f1b-ea72fc7b1154.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra",
           "author": "DefAInt",
           "description": "Tempo also announced it's launching a Stablecoin Advisory.",
@@ -1252,7 +1282,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-bitcoin-etf-msbt-debuts-with-usd30m-in-inflows",
           "author": "Olivia Capozzalo",
-          "description": "MSBT saw a strong first day of trading on Wednesday, but the broader U.S. Bitcoin ETF sector was in the red yesterday.",
+          "description": "Morgan Stanley's spot Bitcoin ETF, MSBT, saw a strong first day of trading on Wednesday, April 8, on NYSE Arca. The fund recorded $30.6 million in net inflows on April 8, per Farside data.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-bitcoin-etf-msbt-debuts-with-usd30m-in-inflows",
           "publishedOn": "2026-04-09T16:50:43.000Z",
           "wordCount": 5085,
@@ -1282,7 +1312,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-settles-ryder-ripps-nft-counterfeiting-lawsuit-j6w2kv",
           "author": "DefAInt",
-          "description": "Yuga Labs has settled its NFT counterfeiting lawsuit against artist Ryder Ripps and business partner Jeremy Cahen. The parties have filed proposed orders to permanently block Ripps and Cahen from using Yuga's imagery and trademarks, according to Reuters.",
+          "description": "Yuga Labs has reached a settlement in its NFT counterfeiting lawsuit against artist Ryder Ripps and his business partner Jeremy Cahen, with parties agreeing to permanent blocks on trademark and imagery use.",
           "link": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-settles-ryder-ripps-nft-counterfeiting-lawsuit-j6w2kv",
           "publishedOn": "2026-04-09T13:46:12.000Z",
           "wordCount": 4393,
@@ -1503,36 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/15c85e6ec52c419ae0c4df76a27fce2fab76e4b3-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-slides-below-usd90-as-contributor-departures-weigh-on-defi-s-largest-lender",
-          "author": "yyctrader",
-          "description": "The AAVE token has lost roughly 75% of its value since its most recent peak in August 2025.",
-          "link": "https://thedefiant.io/news/defi/aave-slides-below-usd90-as-contributor-departures-weigh-on-defi-s-largest-lender",
-          "publishedOn": "2026-04-07T18:18:26.000Z",
-          "wordCount": 5061,
-          "title": "AAVE Slides Below $90 as Contributor Departures Weigh on DeFi's Largest Lender",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1775585948725-png-c0075062-241d-4e65-8682-141a76e9ce4f.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1775585948725-png-c0075062-241d-4e65-8682-141a76e9ce4f.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-s-bitcoin-etf-set-to-launch-on-april-8-bloomberg",
-          "author": "Olivia Capozzalo",
-          "description": "MSBT will launch tomorrow as the lowest-fee Bitcoin ETF on the market, potentially kicking off a fee war among funds.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-s-bitcoin-etf-set-to-launch-on-april-8-bloomberg",
-          "publishedOn": "2026-04-07T18:12:06.000Z",
-          "wordCount": 5083,
-          "title": "Morgan Stanley's Bitcoin ETF Set to Launch on April 8: Bloomberg",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/bank-crypto-jpg-a1b33ef9-764e-4a80-bcbf-ec254838da41.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/bank-crypto-jpg-a1b33ef9-764e-4a80-bcbf-ec254838da41.jpg"
         }
       ]
     }
