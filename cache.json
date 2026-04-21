@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra",
+          "author": "DefAInt",
+          "description": "Tempo also announced it's launching a Stablecoin Advisory.",
+          "link": "https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra",
+          "publishedOn": "2026-04-21T16:02:41.000Z",
+          "wordCount": 4928,
+          "title": "DoorDash Teams Up with Tempo on Stablecoin Payments for Its Global Marktplace",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/stablecoin-growth-since-genius-png-0c45bb3b-ea06-4acf-a7d8-42d71acc865d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/stablecoin-growth-since-genius-png-0c45bb3b-ea06-4acf-a7d8-42d71acc865d.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/usdt-live-solana-plasma-ethereum-ramp-privy-rt2zgt",
           "author": "DefAInt",
           "description": "Ramp expands stablecoin access by launching USDT across Solana, Plasma, and Ethereum with seamless 1:1 USD conversion for global money movement.",
@@ -55,7 +70,7 @@
           "description": "Since the freeze, ZachXBT reported that the attackers had begun moving funds from Ethereum mainnet to Bitcoin.",
           "link": "https://thedefiant.io/news/blockchains/arbitrum-security-council-freezes-eth-linked-to-kelpdao-exploit",
           "publishedOn": "2026-04-21T14:43:18.000Z",
-          "wordCount": 5026,
+          "wordCount": 5025,
           "title": "Arbitrum Freezes 30,766 ETH Linked to KelpDAO Exploit",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/hacker-freeze-jpg-5daf01f2-2417-442d-ae6c-d3cd27a17046.jpg",
@@ -1267,7 +1282,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-settles-ryder-ripps-nft-counterfeiting-lawsuit-j6w2kv",
           "author": "DefAInt",
-          "description": "Yuga Labs has reached a settlement in its NFT counterfeiting lawsuit against artist Ryder Ripps and his business partner Jeremy Cahen, with parties agreeing to permanent blocks on trademark and imagery use.",
+          "description": "Yuga Labs has settled its NFT counterfeiting lawsuit against artist Ryder Ripps and business partner Jeremy Cahen. The parties have filed proposed orders to permanently block Ripps and Cahen from using Yuga's imagery and trademarks, according to Reuters.",
           "link": "https://thedefiant.io/news/nfts-and-web3/yuga-labs-settles-ryder-ripps-nft-counterfeiting-lawsuit-j6w2kv",
           "publishedOn": "2026-04-09T13:46:12.000Z",
           "wordCount": 4393,
@@ -1282,7 +1297,7 @@
         {
           "id": "https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig",
           "author": "DefAInt",
-          "description": "Binance Wallet has integrated Predict.fun prediction markets and is sponsoring all gas fees on BNB Smart Chain. The integration allows Binance Wallet users to access prediction market functionality directly within the wallet interface without bearing transaction costs on the BNB network.",
+          "description": "Binance Wallet has integrated predict.fun prediction markets and is sponsoring all gas fees for users on BNB Smart Chain.",
           "link": "https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig",
           "publishedOn": "2026-04-09T13:31:31.000Z",
           "wordCount": 4388,
@@ -1518,21 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/bank-crypto-jpg-a1b33ef9-764e-4a80-bcbf-ec254838da41.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/binance-introduces-spot-price-guardrails-in-post-crash-overhaul",
-          "author": "yyctrader",
-          "description": "Starting next week, taker orders on Binance that breach dynamic price corridors will be automatically canceled.",
-          "link": "https://thedefiant.io/news/cefi/binance-introduces-spot-price-guardrails-in-post-crash-overhaul",
-          "publishedOn": "2026-04-07T17:08:31.000Z",
-          "wordCount": 4803,
-          "title": "Binance Introduces Spot Price Guardrails in Post-Crash Overhaul",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1775584076654-png-81dd5d4b-51b0-4a87-92de-384be79aea8d.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1775584076654-png-81dd5d4b-51b0-4a87-92de-384be79aea8d.png"
         }
       ]
     }

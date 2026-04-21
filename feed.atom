@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-21T15:12:15.902Z</id>
+    <id>urn:2026-04-21T17:00:44.963Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-21T15:12:15.903Z</updated>
+    <updated>2026-04-21T17:00:44.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DoorDash Teams Up with Tempo on Stablecoin Payments for Its Global Marktplace]]></title>
+        <id>https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra</id>
+        <link href="https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra"/>
+        <updated>2026-04-21T16:02:41.000Z</updated>
+        <summary type="html"><![CDATA[Tempo also announced it's launching a Stablecoin Advisory.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USDT Now Live on Solana, Plasma, and Ethereum With 1:1 USD Onramps and Offramps: Privy and Ramp]]></title>
         <id>https://thedefiant.io/news/defi/usdt-live-solana-plasma-ethereum-ramp-privy-rt2zgt</id>
@@ -839,7 +849,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/yuga-labs-settles-ryder-ripps-nft-counterfeiting-lawsuit-j6w2kv</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/yuga-labs-settles-ryder-ripps-nft-counterfeiting-lawsuit-j6w2kv"/>
         <updated>2026-04-09T13:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Yuga Labs has reached a settlement in its NFT counterfeiting lawsuit against artist Ryder Ripps and his business partner Jeremy Cahen, with parties agreeing to permanent blocks on trademark and imagery use.]]></summary>
+        <summary type="html"><![CDATA[Yuga Labs has settled its NFT counterfeiting lawsuit against artist Ryder Ripps and business partner Jeremy Cahen. The parties have filed proposed orders to permanently block Ripps and Cahen from using Yuga's imagery and trademarks, according to Reuters.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -849,7 +859,7 @@
         <id>https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig</id>
         <link href="https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig"/>
         <updated>2026-04-09T13:31:31.000Z</updated>
-        <summary type="html"><![CDATA[Binance Wallet has integrated Predict.fun prediction markets and is sponsoring all gas fees on BNB Smart Chain. The integration allows Binance Wallet users to access prediction market functionality directly within the wallet interface without bearing transaction costs on the BNB network.]]></summary>
+        <summary type="html"><![CDATA[Binance Wallet has integrated predict.fun prediction markets and is sponsoring all gas fees for users on BNB Smart Chain.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -1002,16 +1012,6 @@
         <summary type="html"><![CDATA[MSBT will launch tomorrow as the lowest-fee Bitcoin ETF on the market, potentially kicking off a fee war among funds.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Introduces Spot Price Guardrails in Post-Crash Overhaul]]></title>
-        <id>https://thedefiant.io/news/cefi/binance-introduces-spot-price-guardrails-in-post-crash-overhaul</id>
-        <link href="https://thedefiant.io/news/cefi/binance-introduces-spot-price-guardrails-in-post-crash-overhaul"/>
-        <updated>2026-04-07T17:08:31.000Z</updated>
-        <summary type="html"><![CDATA[Starting next week, taker orders on Binance that breach dynamic price corridors will be automatically canceled.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
