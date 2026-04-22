@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-22T17:00:07.694Z</id>
+    <id>urn:2026-04-22T18:07:51.830Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-22T17:00:07.694Z</updated>
+    <updated>2026-04-22T18:07:51.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Justin Sun Sues World Liberty Financial Over Frozen WLFI Tokens]]></title>
+        <id>https://thedefiant.io/news/defi/justin-sun-sues-world-liberty-financial-over-frozen-wlfi-tokens</id>
+        <link href="https://thedefiant.io/news/defi/justin-sun-sues-world-liberty-financial-over-frozen-wlfi-tokens"/>
+        <updated>2026-04-22T17:28:16.000Z</updated>
+        <summary type="html"><![CDATA[TRON founder takes the Trump-linked DeFi project to California federal court, escalating a months-long feud over blacklisted tokens and governance rights.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Base Pushes Toward Final L2 Stage with First Independent Upgrade]]></title>
         <id>https://thedefiant.io/news/blockchains/base-announces-azul-upgrade</id>
@@ -1000,16 +1010,6 @@
         <link href="https://thedefiant.io/news/regulation/white-house-stablecoin-yield-study-minimal-lending-impact"/>
         <updated>2026-04-08T13:27:07.000Z</updated>
         <summary type="html"><![CDATA[A White House Council of Economic Advisers study released Wednesday concludes that banning stablecoin yield would have minimal impact on bank lending and would harm consumers.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FDIC Approves Proposed Rule Under GENIUS Act]]></title>
-        <id>https://thedefiant.io/news/regulation/fdic-stablecoin-rules-genius-act-1x8nhx</id>
-        <link href="https://thedefiant.io/news/regulation/fdic-stablecoin-rules-genius-act-1x8nhx"/>
-        <updated>2026-04-08T12:32:12.000Z</updated>
-        <summary type="html"><![CDATA[The Federal Deposit Insurance Corporation a proposed rule that would establish a framework for stablecoin issuers supervised by the FDIC.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>

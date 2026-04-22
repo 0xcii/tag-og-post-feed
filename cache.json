@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/justin-sun-sues-world-liberty-financial-over-frozen-wlfi-tokens",
+          "author": "DefAInt",
+          "description": "TRON founder takes the Trump-linked DeFi project to California federal court, escalating a months-long feud over blacklisted tokens and governance rights.",
+          "link": "https://thedefiant.io/news/defi/justin-sun-sues-world-liberty-financial-over-frozen-wlfi-tokens",
+          "publishedOn": "2026-04-22T17:28:16.000Z",
+          "wordCount": 4896,
+          "title": "Justin Sun Sues World Liberty Financial Over Frozen WLFI Tokens",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/liberty-usa-people-jpg-6063ef34-6da3-4fbe-937d-c0b883ebb529.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/liberty-usa-people-jpg-6063ef34-6da3-4fbe-937d-c0b883ebb529.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/base-announces-azul-upgrade",
           "author": "DefAInt",
           "description": "Base's Azul upgrade is currently live on testnet, with mainnet launch scheduled for mid-May.",
@@ -1518,21 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/66ced2d66064850ac4641153034dc71beded7803-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/fdic-stablecoin-rules-genius-act-1x8nhx",
-          "author": "DefAInt",
-          "description": "The Federal Deposit Insurance Corporation a proposed rule that would establish a framework for stablecoin issuers supervised by the FDIC.",
-          "link": "https://thedefiant.io/news/regulation/fdic-stablecoin-rules-genius-act-1x8nhx",
-          "publishedOn": "2026-04-08T12:32:12.000Z",
-          "wordCount": 4365,
-          "title": "FDIC Approves Proposed Rule Under GENIUS Act",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7191fd4f913be26f760485a5693630934fac076f-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7191fd4f913be26f760485a5693630934fac076f-1792x1024.jpg"
         }
       ]
     }
