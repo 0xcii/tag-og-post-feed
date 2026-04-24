@@ -35,6 +35,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/lighter-unveils-multi-asset-margin-starting-with-eth",
+          "author": "yyctrader",
+          "description": "Traders can post non-USDC assets as collateral for perps through Unified Trading Accounts, with conservative supply caps at launch.",
+          "link": "https://thedefiant.io/news/defi/lighter-unveils-multi-asset-margin-starting-with-eth",
+          "publishedOn": "2026-04-24T14:34:25.000Z",
+          "wordCount": 4624,
+          "title": "Lighter Unveils Multi-Asset Margin Starting With ETH",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1777041337512-png-7fbdc8c7-19b6-40d0-9ebc-09905562721f.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1777041337512-png-7fbdc8c7-19b6-40d0-9ebc-09905562721f.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-holds-near-usd78k-as-usd10b-of-options-settle-on-deribit",
+          "author": "yyctrader",
+          "description": "Major altcoins traded sideways on Friday after Trump ordered the Navy to fire on Iranian mine-laying boats.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-holds-near-usd78k-as-usd10b-of-options-settle-on-deribit",
+          "publishedOn": "2026-04-24T14:20:21.000Z",
+          "wordCount": 4812,
+          "title": "Bitcoin Holds Near $78K as $10B of Options Settle on Deribit",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1777040461960-png-3f8d42f5-7b6e-477b-ad9c-79179e49487c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1777040461960-png-3f8d42f5-7b6e-477b-ad9c-79179e49487c.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/seven-day-countdown-to-mega-begins-as-megaeth-clears-first-kpi",
           "author": "yyctrader",
           "description": "The deployment of 10 Mega Mafia apps satisfies the first of three performance triggers tied to the long-awaited token launch.",
@@ -1282,7 +1312,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on",
           "author": "DefAInt",
-          "description": "Coinbase CEO Brian Armstrong backed Treasury Secretary Scott Bessent's push to pass the CLARITY Act on Friday, April 10, 2026. Armstrong publicly agreed with the urgency around crypto regulation and thanked Bessent for advancing the issue forward with bipartisan support in the Senate.",
+          "description": "Coinbase CEO Brian Armstrong publicly supported Treasury Secretary Scott Bessent's call to pass the CLARITY Act, citing the urgency of crypto regulation.",
           "link": "https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on",
           "publishedOn": "2026-04-10T15:29:45.000Z",
           "wordCount": 4384,
@@ -1503,36 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d21920fdb70dfc4647dc09c4f686897967e22f92-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/canary-capital-pepe-etf-sec-filing-jwlmse",
-          "author": "DefAInt",
-          "description": "Canary Capital has filed registration with the SEC for a Pepe ETF, marking what appears to be the first attempt to create and ETF for the \"blue-chip\" memecoin in the U.S.",
-          "link": "https://thedefiant.io/news/regulation/canary-capital-pepe-etf-sec-filing-jwlmse",
-          "publishedOn": "2026-04-09T11:54:30.000Z",
-          "wordCount": 4334,
-          "title": "Canary Capital Files SEC Registration for PEPE ETF",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d71b18cab51b6c5048b6c0e1d9abe7828076b220-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d71b18cab51b6c5048b6c0e1d9abe7828076b220-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/polymarket-acquires-brahma-defi-infrastructure-56otzn",
-          "author": "DefAInt",
-          "description": "Polymarket has acquired Brahma to enhance its DeFi infrastructure and trading performance capabilities.",
-          "link": "https://thedefiant.io/news/defi/polymarket-acquires-brahma-defi-infrastructure-56otzn",
-          "publishedOn": "2026-04-08T19:16:38.000Z",
-          "wordCount": 4127,
-          "title": "Polymarket Acquires Brahma to Strengthen DeFi Infrastructure",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/988fe4eee14cc8d0eaeab9e85e3237ac7acdf2b2-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/988fe4eee14cc8d0eaeab9e85e3237ac7acdf2b2-1792x1024.jpg"
         }
       ]
     }
