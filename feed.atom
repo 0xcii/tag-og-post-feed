@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-24T15:07:10.217Z</id>
+    <id>urn:2026-04-24T16:55:40.824Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-24T15:07:10.217Z</updated>
+    <updated>2026-04-24T16:55:40.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi United Fundraising Chips Away at Kelp Exploit Shortfall]]></title>
+        <id>https://thedefiant.io/news/defi/defi-united-fundraising-chips-away-at-kelp-exploit-shortfall</id>
+        <link href="https://thedefiant.io/news/defi/defi-united-fundraising-chips-away-at-kelp-exploit-shortfall"/>
+        <updated>2026-04-24T15:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Bybit CEO Ben Zhou pledged his support for Mantle's 30,000 ETH loan proposal.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lighter Unveils Multi-Asset Margin Starting With ETH]]></title>
         <id>https://thedefiant.io/news/defi/lighter-unveils-multi-asset-margin-starting-with-eth</id>
@@ -1000,16 +1010,6 @@
         <link href="https://thedefiant.io/news/nfts-and-web3/yuga-labs-settles-ryder-ripps-nft-counterfeiting-lawsuit-j6w2kv"/>
         <updated>2026-04-09T13:46:12.000Z</updated>
         <summary type="html"><![CDATA[Yuga Labs has reached a settlement in its NFT counterfeiting lawsuit against artist Ryder Ripps and his business partner Jeremy Cahen, with parties agreeing to permanent blocks on trademark and imagery use.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Wallet Integrates Prediction Markets via YZi Labs-Backed Predictfun]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/binance-wallet-predict-fun-integration-gas-sponsorship-3i51ig"/>
-        <updated>2026-04-09T13:31:31.000Z</updated>
-        <summary type="html"><![CDATA[Binance Wallet has integrated predict.fun prediction markets and is sponsoring all gas fees for users on BNB Smart Chain.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
