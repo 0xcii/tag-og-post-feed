@@ -35,6 +35,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/sky-proposes-to-streamline-treasury-management",
+          "author": "yyctrader",
+          "description": "With Genesis Capital fully deployed, the protocol looks to shift from governance-determined capital outflows to rules-bound expenses capped at a fixed percentage of revenue.",
+          "link": "https://thedefiant.io/news/defi/sky-proposes-to-streamline-treasury-management",
+          "publishedOn": "2026-04-27T19:00:08.000Z",
+          "wordCount": 4659,
+          "title": "Sky Proposes to Streamline Treasury Management",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1777316559911-png-b0d5cac1-a613-45ea-91d4-a7e6b637ed4b.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1777316559911-png-b0d5cac1-a613-45ea-91d4-a7e6b637ed4b.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/defi-united-hits-recovery-target-as-consensys-solana-tron-pledge-support",
+          "author": "yyctrader",
+          "description": "The DeFi United coalition crossed its rsETH backing target after a flood of weekend commitments from across the Ethereum, Solana, TRON, Avalanche, and Bitcoin ecosystems.",
+          "link": "https://thedefiant.io/news/defi/defi-united-hits-recovery-target-as-consensys-solana-tron-pledge-support",
+          "publishedOn": "2026-04-27T17:37:24.000Z",
+          "wordCount": 5040,
+          "title": "DeFi United Hits Recovery Target as Consensys, Solana, TRON Pledge Support",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1777311925382-png-d1369ca1-84d5-4f42-9e7b-dedf2da61295.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1777311925382-png-d1369ca1-84d5-4f42-9e7b-dedf2da61295.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/cftc-chairman-endorses-prediction-markets-hedging-value-5au93a",
           "author": "DefAInt",
           "description": "CFTC Chairman Rostin Behnam said prediction markets provide measurable value to participants and the public, committing the agency to setting regulatory standards for the sector.",
@@ -1282,7 +1312,7 @@
         {
           "id": "https://thedefiant.io/news/regulation/sec-staff-guidance-broker-dealer-rules-for-defi",
           "author": "Olivia Capozzalo",
-          "description": "The SEC's Division of Trading and Markets has issued new staff guidance outlining conditions under which certain crypto-related user interfaces — including DeFi front-ends, wallet extensions, and mobile apps — may operate without registering as broker-dealers under federal securities law.",
+          "description": "New staff guidance from the SEC's Division of Trading and Markets details conditions under which certain self-custody crypto UI can avoid broker-dealer registration.",
           "link": "https://thedefiant.io/news/regulation/sec-staff-guidance-broker-dealer-rules-for-defi",
           "publishedOn": "2026-04-13T16:45:39.000Z",
           "wordCount": 5084,
@@ -1503,36 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/58dd7ab973669c4e6bc5894da131afee5b1c3f6e-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-holds-above-usd72-000-as-ceasefire-rally-stalls",
-          "author": "yyctrader",
-          "description": "BTC clung to a three-week high as the Iran truce lifted risk assets, but doubts about the deal's durability capped upside.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-holds-above-usd72-000-as-ceasefire-rally-stalls",
-          "publishedOn": "2026-04-09T23:02:18.000Z",
-          "wordCount": 4987,
-          "title": "Bitcoin Holds Above $72,000 as Ceasefire Rally Stalls",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1775775882626-png-701ae667-39f1-4a0c-9f86-e6deaa9655ae.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1775775882626-png-701ae667-39f1-4a0c-9f86-e6deaa9655ae.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/polygon-frax-and-curve-launch-onchain-forex-liquidity-pools",
-          "author": "yyctrader",
-          "description": "Curve's FXSwap pools use frxUSD as the base dollar pairing for cross-currency swaps spanning the Brazilian real, Indonesian rupiah, British pound, Australian dollar, Korean won and USDT.",
-          "link": "https://thedefiant.io/news/defi/polygon-frax-and-curve-launch-onchain-forex-liquidity-pools",
-          "publishedOn": "2026-04-09T20:43:20.000Z",
-          "wordCount": 5086,
-          "title": "Polygon, Frax and Curve Launch Onchain Forex Liquidity Pools",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1775767402955-png-711ec427-14ce-4e0d-8d38-be05fc0638dd.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1775767402955-png-711ec427-14ce-4e0d-8d38-be05fc0638dd.png"
         }
       ]
     }

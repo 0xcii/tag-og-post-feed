@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-27T17:21:11.939Z</id>
+    <id>urn:2026-04-27T19:20:30.543Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-27T17:21:11.939Z</updated>
+    <updated>2026-04-27T19:20:30.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sky Proposes to Streamline Treasury Management]]></title>
+        <id>https://thedefiant.io/news/defi/sky-proposes-to-streamline-treasury-management</id>
+        <link href="https://thedefiant.io/news/defi/sky-proposes-to-streamline-treasury-management"/>
+        <updated>2026-04-27T19:00:08.000Z</updated>
+        <summary type="html"><![CDATA[With Genesis Capital fully deployed, the protocol looks to shift from governance-determined capital outflows to rules-bound expenses capped at a fixed percentage of revenue.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi United Hits Recovery Target as Consensys, Solana, TRON Pledge Support]]></title>
+        <id>https://thedefiant.io/news/defi/defi-united-hits-recovery-target-as-consensys-solana-tron-pledge-support</id>
+        <link href="https://thedefiant.io/news/defi/defi-united-hits-recovery-target-as-consensys-solana-tron-pledge-support"/>
+        <updated>2026-04-27T17:37:24.000Z</updated>
+        <summary type="html"><![CDATA[The DeFi United coalition crossed its rsETH backing target after a flood of weekend commitments from across the Ethereum, Solana, TRON, Avalanche, and Bitcoin ecosystems.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFTC Chairman Endorses Prediction Markets as Valuable for Hedging and Information Discovery: Selig]]></title>
         <id>https://thedefiant.io/news/regulation/cftc-chairman-endorses-prediction-markets-hedging-value-5au93a</id>
@@ -849,7 +869,7 @@
         <id>https://thedefiant.io/news/regulation/sec-staff-guidance-broker-dealer-rules-for-defi</id>
         <link href="https://thedefiant.io/news/regulation/sec-staff-guidance-broker-dealer-rules-for-defi"/>
         <updated>2026-04-13T16:45:39.000Z</updated>
-        <summary type="html"><![CDATA[The SEC's Division of Trading and Markets has issued new staff guidance outlining conditions under which certain crypto-related user interfaces — including DeFi front-ends, wallet extensions, and mobile apps — may operate without registering as broker-dealers under federal securities law.]]></summary>
+        <summary type="html"><![CDATA[New staff guidance from the SEC's Division of Trading and Markets details conditions under which certain self-custody crypto UI can avoid broker-dealer registration.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
         </author>
@@ -992,26 +1012,6 @@
         <summary type="html"><![CDATA[Securitize announced integration with TRON Network to bring tokenized assets to one of the world's largest blockchains, expanding its multichain presence.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Holds Above $72,000 as Ceasefire Rally Stalls]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-holds-above-usd72-000-as-ceasefire-rally-stalls</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-holds-above-usd72-000-as-ceasefire-rally-stalls"/>
-        <updated>2026-04-09T23:02:18.000Z</updated>
-        <summary type="html"><![CDATA[BTC clung to a three-week high as the Iran truce lifted risk assets, but doubts about the deal's durability capped upside.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon, Frax and Curve Launch Onchain Forex Liquidity Pools]]></title>
-        <id>https://thedefiant.io/news/defi/polygon-frax-and-curve-launch-onchain-forex-liquidity-pools</id>
-        <link href="https://thedefiant.io/news/defi/polygon-frax-and-curve-launch-onchain-forex-liquidity-pools"/>
-        <updated>2026-04-09T20:43:20.000Z</updated>
-        <summary type="html"><![CDATA[Curve's FXSwap pools use frxUSD as the base dollar pairing for cross-currency swaps spanning the Brazilian real, Indonesian rupiah, British pound, Australian dollar, Korean won and USDT.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
