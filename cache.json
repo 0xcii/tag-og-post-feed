@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/ostium-launches-institutional-hedging-layer",
+          "author": "yyctrader",
+          "description": "The Arbitrum-based RWA perps protocol now routes net directional flow to Jump and prime brokers offchain, retiring the single-pool model that absorbed all trader risk.",
+          "link": "https://thedefiant.io/news/defi/ostium-launches-institutional-hedging-layer",
+          "publishedOn": "2026-04-28T18:05:26.000Z",
+          "wordCount": 4693,
+          "title": "Ostium Launches Institutional Hedging Layer",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1777399728926-png-7a50ee98-7d14-48e2-9862-8464e70cd898.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1777399728926-png-7a50ee98-7d14-48e2-9862-8464e70cd898.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/polymarket-seeks-full-cftc-blessing-for-its-on-chain-exchange-report",
           "author": "DefAInt",
           "description": "The move would let Polymarket's primary, on-chain prediction market platform operate in the United States, rather than through its current intermediated setup with Polymarket US.",
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/blockchain-gen-png-3c7625a9-3708-4f4b-a6f5-d67c29fbf393.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on",
-          "author": "DefAInt",
-          "description": "Coinbase CEO Brian Armstrong publicly supported Treasury Secretary Scott Bessent's call to pass the CLARITY Act, citing the urgency of crypto regulation.",
-          "link": "https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on",
-          "publishedOn": "2026-04-10T15:29:45.000Z",
-          "wordCount": 4405,
-          "title": "Coinbase CEO Brian Armstrong Backs Treasury Secretary Scott Bessent's CLARITY Act Push",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dd0c095ad3ed990ed7114173ff8b5b841bc6810c-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dd0c095ad3ed990ed7114173ff8b5b841bc6810c-1792x1024.jpg"
         }
       ]
     }

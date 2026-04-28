@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-28T16:50:10.093Z</id>
+    <id>urn:2026-04-28T18:16:28.048Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-28T16:50:10.093Z</updated>
+    <updated>2026-04-28T18:16:28.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ostium Launches Institutional Hedging Layer]]></title>
+        <id>https://thedefiant.io/news/defi/ostium-launches-institutional-hedging-layer</id>
+        <link href="https://thedefiant.io/news/defi/ostium-launches-institutional-hedging-layer"/>
+        <updated>2026-04-28T18:05:26.000Z</updated>
+        <summary type="html"><![CDATA[The Arbitrum-based RWA perps protocol now routes net directional flow to Jump and prime brokers offchain, retiring the single-pool model that absorbed all trader risk.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket Seeks Full CFTC Approval for Its Main Platform: Report]]></title>
         <id>https://thedefiant.io/news/regulation/polymarket-seeks-full-cftc-blessing-for-its-on-chain-exchange-report</id>
@@ -1000,16 +1010,6 @@
         <link href="https://thedefiant.io/news/defi/velora-votes-to-shut-down-dao-hand-operations-to-laita-labs"/>
         <updated>2026-04-10T16:52:16.000Z</updated>
         <summary type="html"><![CDATA[The DEX aggregator's $415K treasury will be transferred to the protocol's development company, along with future revenue.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase CEO Brian Armstrong Backs Treasury Secretary Scott Bessent's CLARITY Act Push]]></title>
-        <id>https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on</id>
-        <link href="https://thedefiant.io/news/regulation/coinbase-armstrong-backs-clarity-act-dej6on"/>
-        <updated>2026-04-10T15:29:45.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong publicly supported Treasury Secretary Scott Bessent's call to pass the CLARITY Act, citing the urgency of crypto regulation.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
