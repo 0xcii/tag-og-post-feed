@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-28T18:16:28.048Z</id>
+    <id>urn:2026-04-28T20:14:51.074Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-28T18:16:28.048Z</updated>
+    <updated>2026-04-28T20:14:51.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi United Outlines Technical Path To Make Kelp's rsETH Whole]]></title>
+        <id>https://thedefiant.io/news/defi/defi-united-outlines-technical-path-to-make-kelp-s-rseth-whole</id>
+        <link href="https://thedefiant.io/news/defi/defi-united-outlines-technical-path-to-make-kelp-s-rseth-whole"/>
+        <updated>2026-04-28T19:22:55.000Z</updated>
+        <summary type="html"><![CDATA[The coalition has secured ETH commitments to refill the bridge in tranches and will use Aave and Compound governance proposals to liquidate the exploiter's remaining positions.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers of Telegram's Crypto Wallet Launch Agentic Wallets]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram"/>
+        <updated>2026-04-28T18:19:46.000Z</updated>
+        <summary type="html"><![CDATA[The open-source standard, developed by The Open Platform, lets AI agents manage dedicated on-chain wallets without requiring user sign-off on every transaction]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ostium Launches Institutional Hedging Layer]]></title>
         <id>https://thedefiant.io/news/defi/ostium-launches-institutional-hedging-layer</id>
@@ -13,6 +33,16 @@
         <summary type="html"><![CDATA[The Arbitrum-based RWA perps protocol now routes net directional flow to Jump and prime brokers offchain, retiring the single-pool model that absorbed all trader risk.]]></summary>
         <author>
             <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC Sues Wisconsin in Response to State's Lawsuits Against Prediction Markets]]></title>
+        <id>https://thedefiant.io/news/regulation/cftc-sues-wisconsin-prediction-markets-jurisdiction-3j3isy</id>
+        <link href="https://thedefiant.io/news/regulation/cftc-sues-wisconsin-prediction-markets-jurisdiction-3j3isy"/>
+        <updated>2026-04-28T18:01:32.000Z</updated>
+        <summary type="html"><![CDATA[The CFTC filed suit against Wisconsin to establish its exclusive regulatory authority over prediction markets, a sector closely tied to crypto and blockchain-based derivatives.]]></summary>
+        <author>
+            <name>DefAInt</name>
         </author>
     </entry>
     <entry>
@@ -819,7 +849,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-files-for-its-first-bitcoin-linked-etf</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-files-for-its-first-bitcoin-linked-etf"/>
         <updated>2026-04-14T15:23:56.000Z</updated>
-        <summary type="html"><![CDATA[The Goldman Sachs Bitcoin Premium Income ETF primarily will offer exposure to other Bitcoin exchange-traded products, but the fund won't hold BTC directly.]]></summary>
+        <summary type="html"><![CDATA[Goldman Sachs has filed with the U.S. Securities and Exchange Commission (SEC) for the Goldman Sachs Bitcoin Premium Income ETF, marking the Wall Street giant's first foray into issuing its own crypto fund.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -982,36 +1012,6 @@
         <summary type="html"><![CDATA[The integration marks the latest expansion of Visa's stablecoin infrastructure, which now spans settlement, card spending, and direct on-ramp capabilities.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HSBC and Standard Chartered Win Hong Kong's Inaugural Stablecoin Licenses]]></title>
-        <id>https://thedefiant.io/news/regulation/hsbc-and-standard-chartered-win-hong-kong-s-inaugural-stablecoin-licenses</id>
-        <link href="https://thedefiant.io/news/regulation/hsbc-and-standard-chartered-win-hong-kong-s-inaugural-stablecoin-licenses"/>
-        <updated>2026-04-10T17:38:24.000Z</updated>
-        <summary type="html"><![CDATA[The HKMA selected two issuers from a pool of 36 applicants under the Stablecoins Ordinance, which took effect in August 2025.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tornado Cash Developer Roman Storm Awaits Judge's Ruling on Acquittal Bid]]></title>
-        <id>https://thedefiant.io/news/regulation/tornado-cash-developer-roman-storm-awaits-judge-s-ruling-on-acquittal-bid</id>
-        <link href="https://thedefiant.io/news/regulation/tornado-cash-developer-roman-storm-awaits-judge-s-ruling-on-acquittal-bid"/>
-        <updated>2026-04-10T17:10:28.000Z</updated>
-        <summary type="html"><![CDATA[Storm's defense argued his work on the non-custodial mixer was lawful, while prosecutors claimed he profited from money laundering.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velora DAO Votes to Wind Down, Hand Operations to Laita Labs]]></title>
-        <id>https://thedefiant.io/news/defi/velora-votes-to-shut-down-dao-hand-operations-to-laita-labs</id>
-        <link href="https://thedefiant.io/news/defi/velora-votes-to-shut-down-dao-hand-operations-to-laita-labs"/>
-        <updated>2026-04-10T16:52:16.000Z</updated>
-        <summary type="html"><![CDATA[The DEX aggregator's $415K treasury will be transferred to the protocol's development company, along with future revenue.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
