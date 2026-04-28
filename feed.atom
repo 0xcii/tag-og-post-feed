@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-28T20:14:51.074Z</id>
+    <id>urn:2026-04-28T21:56:57.567Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-28T20:14:51.074Z</updated>
+    <updated>2026-04-28T21:56:57.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Holds $76K Ahead of Powell's Final Fed Meeting]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-holds-usd76k-ahead-of-powell-s-final-fed-meeting</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-holds-usd76k-ahead-of-powell-s-final-fed-meeting"/>
+        <updated>2026-04-28T20:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Crypto markets are trading cautiously, with the Fed widely expected to hold rates steady tomorrow.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi United Outlines Technical Path To Make Kelp's rsETH Whole]]></title>
         <id>https://thedefiant.io/news/defi/defi-united-outlines-technical-path-to-make-kelp-s-rseth-whole</id>
@@ -849,7 +859,7 @@
         <id>https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-files-for-its-first-bitcoin-linked-etf</id>
         <link href="https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-files-for-its-first-bitcoin-linked-etf"/>
         <updated>2026-04-14T15:23:56.000Z</updated>
-        <summary type="html"><![CDATA[Goldman Sachs has filed with the U.S. Securities and Exchange Commission (SEC) for the Goldman Sachs Bitcoin Premium Income ETF, marking the Wall Street giant's first foray into issuing its own crypto fund.]]></summary>
+        <summary type="html"><![CDATA[The Goldman Sachs Bitcoin Premium Income ETF primarily will offer exposure to other Bitcoin exchange-traded products, but the fund won't hold BTC directly.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -1000,16 +1010,6 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-surges-past-usd73-000-as-hot-cpi-meets-fragile-ceasefire"/>
         <updated>2026-04-10T20:04:09.000Z</updated>
         <summary type="html"><![CDATA[The March inflation print came in hotter than expected, but a tame core reading and easing oil prices gave risk assets room to rally.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa Direct Integration Lets OwlTing Users Fund USDC Straight From a Debit Card]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/visa-direct-integration-lets-owlting-users-fund-usdc-straight-from-a-debit-card</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/visa-direct-integration-lets-owlting-users-fund-usdc-straight-from-a-debit-card"/>
-        <updated>2026-04-10T18:31:38.000Z</updated>
-        <summary type="html"><![CDATA[The integration marks the latest expansion of Visa's stablecoin infrastructure, which now spans settlement, card spending, and direct on-ramp capabilities.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>

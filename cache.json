@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-holds-usd76k-ahead-of-powell-s-final-fed-meeting",
+          "author": "yyctrader",
+          "description": "Crypto markets are trading cautiously, with the Fed widely expected to hold rates steady tomorrow.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-holds-usd76k-ahead-of-powell-s-final-fed-meeting",
+          "publishedOn": "2026-04-28T20:50:29.000Z",
+          "wordCount": 4854,
+          "title": "Bitcoin Holds $76K Ahead of Powell's Final Fed Meeting",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1777409432584-png-2b2afd7e-3b0f-4037-ae0a-4c313ba63ffc.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1777409432584-png-2b2afd7e-3b0f-4037-ae0a-4c313ba63ffc.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/defi-united-outlines-technical-path-to-make-kelp-s-rseth-whole",
           "author": "yyctrader",
           "description": "The coalition has secured ETH commitments to refill the bridge in tranches and will use Aave and Compound governance proposals to liquidate the exploiter's remaining positions.",
@@ -1282,7 +1297,7 @@
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-files-for-its-first-bitcoin-linked-etf",
           "author": "DefAInt",
-          "description": "Goldman Sachs has filed with the U.S. Securities and Exchange Commission (SEC) for the Goldman Sachs Bitcoin Premium Income ETF, marking the Wall Street giant's first foray into issuing its own crypto fund.",
+          "description": "The Goldman Sachs Bitcoin Premium Income ETF primarily will offer exposure to other Bitcoin exchange-traded products, but the fund won't hold BTC directly.",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/goldman-sachs-files-for-its-first-bitcoin-linked-etf",
           "publishedOn": "2026-04-14T15:23:56.000Z",
           "wordCount": 4722,
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1775851453029-png-b3036208-1ba6-46bd-9129-b23f202ecc40.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/visa-direct-integration-lets-owlting-users-fund-usdc-straight-from-a-debit-card",
-          "author": "yyctrader",
-          "description": "The integration marks the latest expansion of Visa's stablecoin infrastructure, which now spans settlement, card spending, and direct on-ramp capabilities.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/visa-direct-integration-lets-owlting-users-fund-usdc-straight-from-a-debit-card",
-          "publishedOn": "2026-04-10T18:31:38.000Z",
-          "wordCount": 4653,
-          "title": "Visa Direct Integration Lets OwlTing Users Fund USDC Straight From a Debit Card",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1775845904200-png-8082a252-1600-4baf-a015-9534103db1a1.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1775845904200-png-8082a252-1600-4baf-a015-9534103db1a1.png"
         }
       ]
     }
