@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/markets/bitcoin-dips-under-usd76k-as-fed-holds-rates-in-rare-8-4-split",
+          "author": "yyctrader",
+          "description": "ETH is down 7% on the week as the Fed signals the bar for rate cuts has risen, and ETF outflows top $350 million over two days.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-dips-under-usd76k-as-fed-holds-rates-in-rare-8-4-split",
+          "publishedOn": "2026-04-29T19:35:08.000Z",
+          "wordCount": 4977,
+          "title": "Bitcoin Dips Under $76K as Fed Holds Rates in Rare 8-4 Split",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1777491441492-png-2fcd2f58-eb80-47d3-b57d-e3ed2de24b98.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1777491441492-png-2fcd2f58-eb80-47d3-b57d-e3ed2de24b98.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/meta-launches-stablecoin-payouts-in-colombia-and-the-philippines",
           "author": "yyctrader",
           "description": "The social media giant has rolled out USDC payments via Stripe on Solana and Polygon.",
@@ -1267,7 +1282,7 @@
         {
           "id": "https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5",
           "author": "DefAInt",
-          "description": "CoW Swap's primary domain swap.cow.fi is currently inaccessible due to a lock, with the team working with security experts to regain control.",
+          "description": "CoW Swap's swap.cow.fi domain has been locked and is not accessible as of Tuesday, April 14, 2026. The protocol team is working with security experts to assert control over the domain but does not expect it to be live again tonight. CoW Swap has spun up a new instance of its UI at a temporary URL to allow users to continue accessing the protocol.",
           "link": "https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5",
           "publishedOn": "2026-04-15T01:57:48.000Z",
           "wordCount": 4530,
@@ -1282,7 +1297,7 @@
         {
           "id": "https://thedefiant.io/news/markets/x-launches-cashtag-feature-stocks-crypto-u8v0th",
           "author": "DefAInt",
-          "description": "X launched a new cashtag feature on Tuesday, April 14, 2026, expanding its capabilities to include tagging for both stocks and cryptocurrencies. The feature allows users to reference assets using cashtag notation, similar to existing stock market discussion tools on social platforms. The announcement was made via the official WatcherGuru account on X.",
+          "description": "X introduced a new cashtag feature enabling users to tag and discuss stocks and cryptocurrencies directly on the platform.",
           "link": "https://thedefiant.io/news/markets/x-launches-cashtag-feature-stocks-crypto-u8v0th",
           "publishedOn": "2026-04-15T01:31:32.000Z",
           "wordCount": 4426,
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1776106758886-png-1204dfb8-2699-49fc-a907-5d1059e62fff.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/scroll-moves-to-cut-security-council-and-trim-dao-as-struggles-mount",
-          "author": "yyctrader",
-          "description": "The governance overhaul comes on the heels of a fee controversy and the departure of the Layer 2 network's top revenue generator.",
-          "link": "https://thedefiant.io/news/blockchains/scroll-moves-to-cut-security-council-and-trim-dao-as-struggles-mount",
-          "publishedOn": "2026-04-13T18:19:41.000Z",
-          "wordCount": 4814,
-          "title": "Scroll Moves to Cut Security Council and Trim DAO as Struggles Mount",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1776104584920-png-388164ba-3bc8-49c4-b71d-b035a70a8196.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1776104584920-png-388164ba-3bc8-49c4-b71d-b035a70a8196.png"
         }
       ]
     }
