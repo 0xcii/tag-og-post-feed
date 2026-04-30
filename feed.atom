@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-30T12:14:30.259Z</id>
+    <id>urn:2026-04-30T15:09:06.050Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-30T12:14:30.259Z</updated>
+    <updated>2026-04-30T15:09:06.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken Launches Crypto and Tokenized Stocks Bundles]]></title>
+        <id>https://thedefiant.io/news/cefi/kraken-crypto-xstocks-bundles-launch</id>
+        <link href="https://thedefiant.io/news/cefi/kraken-crypto-xstocks-bundles-launch"/>
+        <updated>2026-04-30T14:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Kraken is introducing curated portfolio bundles combining cryptocurrency with traditional U.S. equities and ETFs through its xStocks offering.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maple Finance's SYRUP Token Now Available on Revolut in UK and EU]]></title>
+        <id>https://thedefiant.io/news/defi/maple-finance-syrup-revolut-uk-eu-launch-dib9ob</id>
+        <link href="https://thedefiant.io/news/defi/maple-finance-syrup-revolut-uk-eu-launch-dib9ob"/>
+        <updated>2026-04-30T12:46:33.000Z</updated>
+        <summary type="html"><![CDATA[Maple Finance's SYRUP token launched on Revolut, giving the fintech's 70M+ users across 39 countries access to on-chain institutional credit yield.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Dips Under $76K as Fed Holds Rates in Rare 8-4 Split]]></title>
         <id>https://thedefiant.io/news/markets/bitcoin-dips-under-usd76k-as-fed-holds-rates-in-rare-8-4-split</id>
@@ -829,7 +849,7 @@
         <id>https://thedefiant.io/news/cefi/world-liberty-financial-proposes-token-unlock-that-would-outlast-trump-s-presidency</id>
         <link href="https://thedefiant.io/news/cefi/world-liberty-financial-proposes-token-unlock-that-would-outlast-trump-s-presidency"/>
         <updated>2026-04-15T14:39:10.000Z</updated>
-        <summary type="html"><![CDATA[The governance proposal would give early token buyers the ability to start unlocking their tokens in two years — notably, after Trump's second presidential term ends.]]></summary>
+        <summary type="html"><![CDATA[World Liberty Financial (WLFI), the DeFi project tied to the Trump family, has posted a governance proposal restructuring token unlocks for all major holder categories, covering over 62 billion WLFI tokens in total.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -849,7 +869,7 @@
         <id>https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5</id>
         <link href="https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5"/>
         <updated>2026-04-15T01:57:48.000Z</updated>
-        <summary type="html"><![CDATA[CoW Swap's swap.cow.fi domain has been locked and is not accessible as of Tuesday, April 14, 2026. The protocol team is working with security experts to assert control over the domain but does not expect it to be live again tonight. CoW Swap has spun up a new instance of its UI at a temporary URL to allow users to continue accessing the protocol.]]></summary>
+        <summary type="html"><![CDATA[CoW Swap's primary domain swap.cow.fi is currently inaccessible due to a lock, with the team working with security experts to regain control.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
@@ -990,26 +1010,6 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-tops-usd73-000-despite-iran-blockade"/>
         <updated>2026-04-13T20:50:18.000Z</updated>
         <summary type="html"><![CDATA[Crypto markets shrugged off collapsing peace talks and surging oil prices, with BTC, ETH, and major altcoins posting gains.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StarkWare Cuts Staff and Restructures Into Two Units]]></title>
-        <id>https://thedefiant.io/news/blockchains/starkware-cuts-staff-and-restructures-into-two-units</id>
-        <link href="https://thedefiant.io/news/blockchains/starkware-cuts-staff-and-restructures-into-two-units"/>
-        <updated>2026-04-13T20:02:49.000Z</updated>
-        <summary type="html"><![CDATA[The company behind Starknet is pivoting from pure infrastructure toward revenue-generating products built on its proprietary tech stack.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave DAO Votes to Consolidate All Revenue Under AAVE Token]]></title>
-        <id>https://thedefiant.io/news/defi/aave-dao-votes-to-consolidate-all-revenue-under-aave-token</id>
-        <link href="https://thedefiant.io/news/defi/aave-dao-votes-to-consolidate-all-revenue-under-aave-token"/>
-        <updated>2026-04-13T18:55:07.000Z</updated>
-        <summary type="html"><![CDATA['Aave Will Win' passed with 75% support, awarding Aave Labs a $25 million stablecoin grant and 75,000 AAVE in exchange for directing 100% of product revenue to the DAO treasury.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
