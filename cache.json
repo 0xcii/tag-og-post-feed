@@ -35,6 +35,66 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/glamsterdam-upgrade-set-to-triple-ethereum-s-execution-capacity",
+          "author": "yyctrader",
+          "description": "ePBS, Block-Level Access Lists, and EIP-8037 repricings combine to unlock a 200M gas limit floor, a throughput jump that could keep network fees pinned for years.",
+          "link": "https://thedefiant.io/news/blockchains/glamsterdam-upgrade-set-to-triple-ethereum-s-execution-capacity",
+          "publishedOn": "2026-05-04T17:31:51.000Z",
+          "wordCount": null,
+          "title": "Glamsterdam Upgrade Set To Triple Ethereum's Execution Capacity",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1777915914802-png-013fc3e4-10e7-46ef-9bfa-03e769ecfc4a.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1777915914802-png-013fc3e4-10e7-46ef-9bfa-03e769ecfc4a.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/world-liberty-financial-sues-justin-sun-for-defamation",
+          "author": "Olivia Capozzalo",
+          "description": "The move is the latest in an escalating feud and comes just weeks after Sun filed a lawsuit against World Liberty Financial for freezing his WLFI, alongside other allegations.",
+          "link": "https://thedefiant.io/news/defi/world-liberty-financial-sues-justin-sun-for-defamation",
+          "publishedOn": "2026-05-04T17:22:59.000Z",
+          "wordCount": null,
+          "title": "World Liberty Financial Sues Justin Sun for Defamation",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/lawsuit-court-jpg-80656ccd-0208-4557-8d7a-7518c0622c9a.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/lawsuit-court-jpg-80656ccd-0208-4557-8d7a-7518c0622c9a.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/dtcc-sets-july-launch-window-for-tokenized-securities-pilot",
+          "author": "yyctrader",
+          "description": "The DTC unit will begin processing limited tokenized trades in July before opening the service more broadly in October.",
+          "link": "https://thedefiant.io/news/defi/dtcc-sets-july-launch-window-for-tokenized-securities-pilot",
+          "publishedOn": "2026-05-04T16:38:53.000Z",
+          "wordCount": null,
+          "title": "DTCC Sets July Launch Window for Tokenized Securities Pilot",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1777912864797-png-a83dbce1-b78c-4d26-906c-0d42ad4e5c25.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1777912864797-png-a83dbce1-b78c-4d26-906c-0d42ad4e5c25.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/aave-asks-court-to-vacate-restraining-notice-targeting-recovered-kelp-dao-assets",
+          "author": "yyctrader",
+          "description": "The emergency motion challenges a New York court order redirecting recovered Kelp DAO exploit funds toward decades-old terrorism judgments against North Korea.",
+          "link": "https://thedefiant.io/news/defi/aave-asks-court-to-vacate-restraining-notice-targeting-recovered-kelp-dao-assets",
+          "publishedOn": "2026-05-04T16:27:05.000Z",
+          "wordCount": null,
+          "title": "Aave Asks Court to Vacate Restraining Notice Targeting Recovered Kelp DAO Assets",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pasted-1777912168910-png-2f5cadde-43c4-4471-88ee-2ddf25616db3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pasted-1777912168910-png-2f5cadde-43c4-4471-88ee-2ddf25616db3.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/lawyer-attempts-to-seize-frozen-eth-linked-to-kelp-exploit-from-arbitrum-dao",
           "author": "DefAInt",
           "description": "A U.S. attorney is attempting to claim ETH frozen by Arbitrum following the Kelp DAO exploit — on behalf of victims of North Korean state hackers from prior incidents.",
@@ -1473,66 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1776275827777-png-a20ed9b5-1453-41ab-b12d-9eae7c69584c.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/bitwise-launches-avalanche-etf-with-in-house-staking",
-          "author": "yyctrader",
-          "description": "BAVA is the third U.S.-listed AVAX ETP and highlights in-house staking as a competitive edge.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/bitwise-launches-avalanche-etf-with-in-house-staking",
-          "publishedOn": "2026-04-15T16:55:30.000Z",
-          "wordCount": null,
-          "title": "Bitwise Launches Avalanche ETF With In-House Staking",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1776273171765-png-453f1034-ac9b-4cd2-9005-3fff2f7ad01b.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1776273171765-png-453f1034-ac9b-4cd2-9005-3fff2f7ad01b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/fireblocks-launches-stablecoin-yield-via-aave-morpho",
-          "author": "Olivia Capozzalo",
-          "description": "The platform's new Earn feature lets its thousands of institutional clients deposit their stablecoin to DeFi's top lending protocols directly on Fireblocks.",
-          "link": "https://thedefiant.io/news/defi/fireblocks-launches-stablecoin-yield-via-aave-morpho",
-          "publishedOn": "2026-04-15T16:55:18.000Z",
-          "wordCount": null,
-          "title": "Fireblocks Launches Stablecoin Yield Product via Aave, Morpho",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/stablecoin-growth-since-genius-png-c060aedb-9fd2-4fbe-b43a-ce17ec00bdab.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/stablecoin-growth-since-genius-png-c060aedb-9fd2-4fbe-b43a-ce17ec00bdab.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/world-liberty-financial-proposes-token-unlock-that-would-outlast-trump-s-presidency",
-          "author": "DefAInt",
-          "description": "The governance proposal would give early token buyers the ability to start unlocking their tokens in two years — notably, after Trump's second presidential term ends.",
-          "link": "https://thedefiant.io/news/cefi/world-liberty-financial-proposes-token-unlock-that-would-outlast-trump-s-presidency",
-          "publishedOn": "2026-04-15T14:39:10.000Z",
-          "wordCount": null,
-          "title": "WLFI Moves to End Indefinite Token Lock with Four-Year Vesting Proposal",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/burn-unlock-jpg-e8b70441-3ba8-4946-85c2-e5c693e76224.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/burn-unlock-jpg-e8b70441-3ba8-4946-85c2-e5c693e76224.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/bitcoin-bip-361-quantum-vulnerable-coins-freeze-mls9od",
-          "author": "DefAInt",
-          "description": "Bitcoin developers and researchers have proposed a mechanism to freeze coins vulnerable to quantum computing attacks as an incentive for users to upgrade their security.",
-          "link": "https://thedefiant.io/news/security/bitcoin-bip-361-quantum-vulnerable-coins-freeze-mls9od",
-          "publishedOn": "2026-04-15T10:46:18.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Developers Propose Freezing Quantum-Vulnerable Coins in BIP-361",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/43c68916364ecd62b0d1be6ccc19b6f543e5abf2-1792x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/43c68916364ecd62b0d1be6ccc19b6f543e5abf2-1792x1024.jpg"
         }
       ]
     }
