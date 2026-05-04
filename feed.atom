@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-04T13:58:56.923Z</id>
+    <id>urn:2026-05-04T16:04:47.174Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-04T13:58:56.923Z</updated>
+    <updated>2026-05-04T16:04:47.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lawyer Attempts to Seize Frozen ETH Linked to Kelp Exploit From Arbitrum DAO]]></title>
+        <id>https://thedefiant.io/news/defi/lawyer-attempts-to-seize-frozen-eth-linked-to-kelp-exploit-from-arbitrum-dao</id>
+        <link href="https://thedefiant.io/news/defi/lawyer-attempts-to-seize-frozen-eth-linked-to-kelp-exploit-from-arbitrum-dao"/>
+        <updated>2026-05-04T15:34:02.000Z</updated>
+        <summary type="html"><![CDATA[A U.S. attorney is attempting to claim ETH frozen by Arbitrum following the Kelp DAO exploit — on behalf of victims of North Korean state hackers from prior incidents.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securitize Becomes First Broker-Dealer Approved to Custody Tokenized Securities: FINRA]]></title>
+        <id>https://thedefiant.io/news/regulation/securitize-finra-approval-tokenized-securities-custody-5hk9d7</id>
+        <link href="https://thedefiant.io/news/regulation/securitize-finra-approval-tokenized-securities-custody-5hk9d7"/>
+        <updated>2026-05-04T14:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Securitize received FINRA approval to expand broker-dealer activities and custody tokenized securities, completing the first full onchain IPO infrastructure stack.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Western Union Stablecoin USDPT Launches on Solana]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/western-union-usdpt-stablecoin-solana-launch-frei03</id>
@@ -990,26 +1010,6 @@
         <link href="https://thedefiant.io/news/security/bitcoin-bip-361-quantum-vulnerable-coins-freeze-mls9od"/>
         <updated>2026-04-15T10:46:18.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin developers and researchers have proposed a mechanism to freeze coins vulnerable to quantum computing attacks as an incentive for users to upgrade their security.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoW Swap Domain Locked Due to Security Issue: CoW Swap]]></title>
-        <id>https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5</id>
-        <link href="https://thedefiant.io/news/security/cow-swap-domain-locked-security-incident-6lpyh5"/>
-        <updated>2026-04-15T01:57:48.000Z</updated>
-        <summary type="html"><![CDATA[CoW Swap's primary domain swap.cow.fi is currently inaccessible due to a lock, with the team working with security experts to regain control.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X Launches New Cashtag Feature for Stocks and Crypto: X]]></title>
-        <id>https://thedefiant.io/news/markets/x-launches-cashtag-feature-stocks-crypto-u8v0th</id>
-        <link href="https://thedefiant.io/news/markets/x-launches-cashtag-feature-stocks-crypto-u8v0th"/>
-        <updated>2026-04-15T01:31:32.000Z</updated>
-        <summary type="html"><![CDATA[X introduced a new cashtag feature enabling users to tag and discuss stocks and cryptocurrencies directly on the platform.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>
