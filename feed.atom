@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-04T18:13:25.454Z</id>
+    <id>urn:2026-05-04T20:13:48.416Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-04T18:13:25.454Z</updated>
+    <updated>2026-05-04T20:13:48.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon Launches Shielded USDC and USDT Payments]]></title>
+        <id>https://thedefiant.io/news/blockchains/polygon-launches-shielded-usdc-and-usdt-payments</id>
+        <link href="https://thedefiant.io/news/blockchains/polygon-launches-shielded-usdc-and-usdt-payments"/>
+        <updated>2026-05-04T19:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The Polygon wallet now offers a "Privately Send" option that hides sender, receiver, and amount onchain, with KYT screening built into every transfer.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Tops $80,000 As ETF Bid Returns]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-tops-usd80-000-as-etf-bid-returns</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-tops-usd80-000-as-etf-bid-returns"/>
+        <updated>2026-05-04T18:15:21.000Z</updated>
+        <summary type="html"><![CDATA[The crypto rally extended into Monday, with traders pricing in the CLARITY Act compromise and Trump's "Project Freedom" Hormuz operation.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Glamsterdam Upgrade Set To Triple Ethereum's Execution Capacity]]></title>
         <id>https://thedefiant.io/news/blockchains/glamsterdam-upgrade-set-to-triple-ethereum-s-execution-capacity</id>
@@ -990,26 +1010,6 @@
         <link href="https://thedefiant.io/news/defi/justin-sun-blasts-wlfi-token-unlock-proposal-as-world-tyranny"/>
         <updated>2026-04-15T18:57:12.000Z</updated>
         <summary type="html"><![CDATA[TRON founder escalates feud with Trump-linked DeFi project, alleging coercion and frozen voting rights.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Labs Launches Checkpoint, AI-Powered Governance Security System: Aave Labs]]></title>
-        <id>https://thedefiant.io/news/defi/aave-checkpoint-governance-security-launch-s1ssi9</id>
-        <link href="https://thedefiant.io/news/defi/aave-checkpoint-governance-security-launch-s1ssi9"/>
-        <updated>2026-04-15T18:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Aave Checkpoint combines automated AI analysis with mandatory human verification to review all DAO proposals before onchain execution.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Eyes Q2 Rebound as Institutions Deepen Crypto Commitment: Nexo]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/bitcoin-eyes-q2-rebound-as-institutions-deepen-crypto-commitment-nexo</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/bitcoin-eyes-q2-rebound-as-institutions-deepen-crypto-commitment-nexo"/>
-        <updated>2026-04-15T17:57:02.000Z</updated>
-        <summary type="html"><![CDATA[After crypto's worst Q1 since 2018, ETF inflows have turned positive, and $268 billion in stablecoins sits on the sidelines waiting for a catalyst.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
