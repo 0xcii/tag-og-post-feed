@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-05T12:00:23.715Z</id>
+    <id>urn:2026-05-05T17:22:30.318Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-05T12:00:23.715Z</updated>
+    <updated>2026-05-05T17:22:30.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Securitize Taps Jump and Jupiter to Launch Regulated Trading for Tokenized Equities]]></title>
+        <id>https://thedefiant.io/news/defi/securitize-taps-jump-and-jupiter-to-launch-regulated-trading-for-tokenized-equities</id>
+        <link href="https://thedefiant.io/news/defi/securitize-taps-jump-and-jupiter-to-launch-regulated-trading-for-tokenized-equities"/>
+        <updated>2026-05-05T16:59:03.000Z</updated>
+        <summary type="html"><![CDATA[The three-way partnership pairs Securitize's broker-dealer rails with Jump's PropAMM liquidity engine and Jupiter's Solana-wide aggregation layer.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drift Sets Out Token-Based Recovery Framework for $295M April Exploit]]></title>
+        <id>https://thedefiant.io/news/defi/drift-sets-out-token-based-recovery-framework-for-usd295m-april-exploit</id>
+        <link href="https://thedefiant.io/news/defi/drift-sets-out-token-based-recovery-framework-for-usd295m-april-exploit"/>
+        <updated>2026-05-05T16:29:00.000Z</updated>
+        <summary type="html"><![CDATA[The Solana-based perpetuals exchange will issue burn-on-redeem recovery tokens funded by exchange revenue, a $127.5M Tether commitment, and another $20M from partners.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellar Gets Its First Regulated, Yield-Bearing Stablecoin with YLDS Launch]]></title>
+        <id>https://thedefiant.io/news/defi/figure-ylds-launches-on-stellar</id>
+        <link href="https://thedefiant.io/news/defi/figure-ylds-launches-on-stellar"/>
+        <updated>2026-05-05T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[YLDS is an SEC-registered, USD-pegged stable asset from Figure.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Cuts ~14% of Workforce, Restructures as AI-Native Organization: Brian Armstrong]]></title>
+        <id>https://thedefiant.io/news/cefi/coinbase-14-percent-workforce-reduction-ai-restructure-3f36dv</id>
+        <link href="https://thedefiant.io/news/cefi/coinbase-14-percent-workforce-reduction-ai-restructure-3f36dv"/>
+        <updated>2026-05-05T14:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong announced a ~14% workforce reduction and major organizational restructuring to operate as an AI-native company with flattened hierarchy and individual contributor leaders.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon Launches Shielded USDC and USDT Payments]]></title>
         <id>https://thedefiant.io/news/blockchains/polygon-launches-shielded-usdc-and-usdt-payments</id>
@@ -966,52 +1006,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tether Commits $127.5M to Drift Protocol Recovery Plan Following $270M+ Exploit]]></title>
-        <id>https://thedefiant.io/news/defi/tether-commits-over-usd127m-to-drift-protocol-recovery-plan</id>
-        <link href="https://thedefiant.io/news/defi/tether-commits-over-usd127m-to-drift-protocol-recovery-plan"/>
-        <updated>2026-04-16T13:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Tether is leading a $150M recovery initiative for Drift Protocol; the plan will also shift the perp DEX's primary settlement asset to USDT on Solana.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[No Trade Zone]]></title>
         <id>https://medium.com/p/e185cd4c5611</id>
         <link href="https://cryptohayes.medium.com/no-trade-zone-e185cd4c5611?source=rss-2f6e06954878------2"/>
         <updated>2026-04-15T23:01:02.000Z</updated>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Stalls Below $75,000 amid Geopolitical Fog and Tax-Day Selling]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-stalls-below-usd75-000-amid-geopolitical-fog-and-tax-day-selling</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-stalls-below-usd75-000-amid-geopolitical-fog-and-tax-day-selling"/>
-        <updated>2026-04-15T20:45:24.000Z</updated>
-        <summary type="html"><![CDATA[ETH, SOL, and major altcoins are marginally higher on the day.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X Rolls Out Cashtags With Price Charts, Pilots In-App Trading via Wealthsimple]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/x-rolls-out-cashtags-with-price-charts-pilots-in-app-trading-via-wealthsimple</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/x-rolls-out-cashtags-with-price-charts-pilots-in-app-trading-via-wealthsimple"/>
-        <updated>2026-04-15T19:17:13.000Z</updated>
-        <summary type="html"><![CDATA[The feature lets iPhone users in the U.S. and Canada view live price charts for stocks and crypto tokens without leaving the app.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Justin Sun Blasts WLFI Token Unlock Proposal as 'World Tyranny']]></title>
-        <id>https://thedefiant.io/news/defi/justin-sun-blasts-wlfi-token-unlock-proposal-as-world-tyranny</id>
-        <link href="https://thedefiant.io/news/defi/justin-sun-blasts-wlfi-token-unlock-proposal-as-world-tyranny"/>
-        <updated>2026-04-15T18:57:12.000Z</updated>
-        <summary type="html"><![CDATA[TRON founder escalates feud with Trump-linked DeFi project, alleging coercion and frozen voting rights.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
 </feed>
