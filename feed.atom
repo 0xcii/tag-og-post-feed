@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-07T16:49:17.147Z</id>
+    <id>urn:2026-05-07T18:22:55.824Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-07T16:49:17.147Z</updated>
+    <updated>2026-05-07T18:22:55.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[‘Polkadot Is Kind of Done.’ The Once Hyped Layer 0 Faces Falling Usage, and Controversy]]></title>
+        <id>https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026</id>
+        <link href="https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026"/>
+        <updated>2026-05-07T17:12:04.000Z</updated>
+        <summary type="html"><![CDATA[Former Polkadot insiders report lack of direction and support from leadership, treasury overspending, and even failure to pay contributors for their work.]]></summary>
+        <author>
+            <name>Olivia Capozzalo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalshi Officially Confirms $1B Raise at $22B Valuation]]></title>
         <id>https://thedefiant.io/news/cefi/kalshi-officially-confirms-usd1b-raise-at-usd22b-valuation</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/lazarus-kelpdao-290m-layerzero-rpc-hack-da50p3"/>
         <updated>2026-04-20T11:31:28.000Z</updated>
         <summary type="html"><![CDATA[North Korea's Lazarus Group exploited a single-verifier LayerZero setup to drain $290M in rsETH on April 18 by compromising RPC infrastructure and poisoning the bridge's data feeds.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Major Japanese Financial Institutions Tap Canton to Bring Government Bonds On-Chain]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds"/>
-        <updated>2026-04-20T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Mizuho, Nomura, and Japan's central clearing house are launching a blockchain-based proof-of-concept for collateral management of Japanese government bonds.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>

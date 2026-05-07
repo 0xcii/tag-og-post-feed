@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026",
+          "author": "Olivia Capozzalo",
+          "description": "Former Polkadot insiders report lack of direction and support from leadership, treasury overspending, and even failure to pay contributors for their work.",
+          "link": "https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026",
+          "publishedOn": "2026-05-07T17:12:04.000Z",
+          "wordCount": null,
+          "title": "‘Polkadot Is Kind of Done.’ The Once Hyped Layer 0 Faces Falling Usage, and Controversy",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/sunset-jpg-3287be17-aa83-4965-b7e6-eb82078732a5.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/sunset-jpg-3287be17-aa83-4965-b7e6-eb82078732a5.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/kalshi-officially-confirms-usd1b-raise-at-usd22b-valuation",
           "author": "DefAInt",
           "description": "Kalshi's co-founder said the new capital will be used to accelerate that institutional adoption.",
@@ -1518,21 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4170db96be467edb17aa0412730389a5634420a0-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds",
-          "author": "DefAInt",
-          "description": "Mizuho, Nomura, and Japan's central clearing house are launching a blockchain-based proof-of-concept for collateral management of Japanese government bonds.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds",
-          "publishedOn": "2026-04-20T06:30:00.000Z",
-          "wordCount": null,
-          "title": "Three Major Japanese Financial Institutions Tap Canton to Bring Government Bonds On-Chain",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/tokenized-bonds-jpg-28cc3cd4-8155-4996-8ab9-da9960fd90f1.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/tokenized-bonds-jpg-28cc3cd4-8155-4996-8ab9-da9960fd90f1.jpg"
         }
       ]
     }
