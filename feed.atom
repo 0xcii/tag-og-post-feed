@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-07T18:22:55.824Z</id>
+    <id>urn:2026-05-07T20:13:08.509Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-07T18:22:55.824Z</updated>
+    <updated>2026-05-07T20:13:08.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tydro Keeps Markets Paused After Chaos Labs Flags Suspected Nation-State Attack]]></title>
+        <id>https://thedefiant.io/news/defi/tydro-keeps-markets-paused-after-chaos-labs-flags-suspected-nation-state-attack</id>
+        <link href="https://thedefiant.io/news/defi/tydro-keeps-markets-paused-after-chaos-labs-flags-suspected-nation-state-attack"/>
+        <updated>2026-05-07T19:23:52.000Z</updated>
+        <summary type="html"><![CDATA[The largest DeFi protocol on Kraken's Ink Layer 2 network is onboarding Chainlink and RedStone feeds before resuming its lending markets.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Builds AI Agent Payments With Coinbase and Stripe]]></title>
+        <id>https://thedefiant.io/news/infrastructure/amazon-builds-ai-agent-payments-with-coinbase-and-stripe</id>
+        <link href="https://thedefiant.io/news/infrastructure/amazon-builds-ai-agent-payments-with-coinbase-and-stripe"/>
+        <updated>2026-05-07T18:20:55.000Z</updated>
+        <summary type="html"><![CDATA[Bedrock AgentCore Payments turns Amazon's agent platform into a transactional layer, with Coinbase supplying x402 stablecoin rails and Stripe contributing wallet infrastructure via Privy.]]></summary>
+        <author>
+            <name>yyctrader</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Polkadot Is Kind of Done.’ The Once Hyped Layer 0 Faces Falling Usage, and Controversy]]></title>
         <id>https://thedefiant.io/news/blockchains/polkadot-ecosystem-update-may-2026</id>
@@ -983,26 +1003,6 @@
         <summary type="html"><![CDATA[Tangem Pay lets users spend USDC directly from their self-custodial Tangem wallets, settling all transactions on Polygon.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Contagion Spreads Beyond Aave as LayerZero, Lido, Ethena Suffer Sharp Declines: Santiment]]></title>
-        <id>https://thedefiant.io/news/defi/defi-tokens-plunge-aave-layerzero-lido-ethena-contagion-hvywbw</id>
-        <link href="https://thedefiant.io/news/defi/defi-tokens-plunge-aave-layerzero-lido-ethena-contagion-hvywbw"/>
-        <updated>2026-04-20T11:46:26.000Z</updated>
-        <summary type="html"><![CDATA[AAVE, ZRO, LDO, and ENA tokens plunged 10–22% as market repriced risk across DeFi protocols exposed to a bad debt event, with LayerZero priced as equally culpable as the originating lender.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerZero Post Mortem Shows Lazarus Group Stole $290M From KelpDAO via RPC Node Compromise]]></title>
-        <id>https://thedefiant.io/news/hacks/lazarus-kelpdao-290m-layerzero-rpc-hack-da50p3</id>
-        <link href="https://thedefiant.io/news/hacks/lazarus-kelpdao-290m-layerzero-rpc-hack-da50p3"/>
-        <updated>2026-04-20T11:31:28.000Z</updated>
-        <summary type="html"><![CDATA[North Korea's Lazarus Group exploited a single-verifier LayerZero setup to drain $290M in rsETH on April 18 by compromising RPC infrastructure and poisoning the bridge's data feeds.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
     <entry>
