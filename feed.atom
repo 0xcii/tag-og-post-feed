@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-11T22:52:49.309Z</id>
+    <id>urn:2026-05-11T23:57:04.666Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-11T22:52:49.309Z</updated>
+    <updated>2026-05-11T23:57:04.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Butterfly Touch]]></title>
+        <id>https://medium.com/p/d06d7da26214</id>
+        <link href="https://cryptohayes.medium.com/the-butterfly-touch-d06d7da26214?source=rss-2f6e06954878------2"/>
+        <updated>2026-05-11T23:01:01.000Z</updated>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Court Greenlights Arbitrum DAO Vote to Move $71M in Recovered Kelp ETH to Aave]]></title>
         <id>https://thedefiant.io/news/defi/court-greenlights-arbitrum-dao-vote-to-move-usd71m-in-recovered-kelp-eth-to-aave</id>
