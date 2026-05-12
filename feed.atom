@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-12T11:54:27.369Z</id>
+    <id>urn:2026-05-12T14:23:29.253Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-12T11:54:27.369Z</updated>
+    <updated>2026-05-12T14:23:29.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BlackRock Files for New Tokenized Fund With SEC, Taps Securitize Again]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/blackrock-files-new-tokenized-fund-securitize-ty5fj5</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/blackrock-files-new-tokenized-fund-securitize-ty5fj5"/>
+        <updated>2026-05-12T13:02:10.000Z</updated>
+        <summary type="html"><![CDATA[BlackRock has filed for a new tokenized fund structure with the SEC, selecting Securitize infrastructure for the second time after BUIDL's $2.3B success.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken Launches Flexline, Crypto-Backed Lending Product for Builders and Traders]]></title>
+        <id>https://thedefiant.io/news/cefi/kraken-flexline-crypto-collateral-lending-u8gc80</id>
+        <link href="https://thedefiant.io/news/cefi/kraken-flexline-crypto-collateral-lending-u8gc80"/>
+        <updated>2026-05-12T10:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Kraken introduced Flexline, a lending product that accepts cryptocurrency as collateral at 10–25% APR fixed rates, targeting crypto-native businesses and high-net-worth individuals excluded from traditional banking.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senate Banking Committee Releases 309-Page Clarity Act Draft: US Senate Banking Committee]]></title>
+        <id>https://thedefiant.io/news/regulation/senate-banking-committee-releases-clarity-act-draft-p8r77m</id>
+        <link href="https://thedefiant.io/news/regulation/senate-banking-committee-releases-clarity-act-draft-p8r77m"/>
+        <updated>2026-05-12T04:31:32.000Z</updated>
+        <summary type="html"><![CDATA[The Senate Banking Committee publicly released the full text of its crypto market structure bill ahead of Thursday's markup, with amendments due by end of business Wednesday.]]></summary>
+        <author>
+            <name>DefAInt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Butterfly Touch]]></title>
         <id>https://medium.com/p/d06d7da26214</id>
@@ -980,36 +1010,6 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-holds-near-usd78k-as-usd10b-of-options-settle-on-deribit"/>
         <updated>2026-04-24T14:20:21.000Z</updated>
         <summary type="html"><![CDATA[Major altcoins traded sideways on Friday after Trump ordered the Navy to fire on Iranian mine-laying boats.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven-Day Countdown to MEGA Begins as MegaETH Clears First KPI]]></title>
-        <id>https://thedefiant.io/news/blockchains/seven-day-countdown-to-mega-begins-as-megaeth-clears-first-kpi</id>
-        <link href="https://thedefiant.io/news/blockchains/seven-day-countdown-to-mega-begins-as-megaeth-clears-first-kpi"/>
-        <updated>2026-04-24T00:22:53.000Z</updated>
-        <summary type="html"><![CDATA[The deployment of 10 Mega Mafia apps satisfies the first of three performance triggers tied to the long-awaited token launch.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Announces 'DeFi United' Relief Fund to Restore rsETH Backing After Kelp Exploit]]></title>
-        <id>https://thedefiant.io/news/defi/aave-announces-defi-united-relief-fund-to-restore-rseth-backing-after-kelp-exploit</id>
-        <link href="https://thedefiant.io/news/defi/aave-announces-defi-united-relief-fund-to-restore-rseth-backing-after-kelp-exploit"/>
-        <updated>2026-04-23T19:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Lido is the first service provider to publicly announce its participation in the relief fund via a governance proposal requesting up to 2,500 stETH.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Pulls Back From $78K As Persian Gulf Risk Trumps Institutional Bid]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-pulls-back-from-usd78k-as-persian-gulf-risk-trumps-institutional-bid</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-pulls-back-from-usd78k-as-persian-gulf-risk-trumps-institutional-bid"/>
-        <updated>2026-04-23T15:14:04.000Z</updated>
-        <summary type="html"><![CDATA[ETH is lagging with on-chain risk still elevated post-Kelp, while SOL dropped 3% and the broader market cap slipped 1.6% on the day.]]></summary>
         <author>
             <name>yyctrader</name>
         </author>
