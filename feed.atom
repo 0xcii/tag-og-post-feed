@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-14T16:59:46.855Z</id>
+    <id>urn:2026-05-14T18:59:08.960Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-14T16:59:46.855Z</updated>
+    <updated>2026-05-14T18:59:08.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dune Analytics Cuts 25% of Staff, Doubled Down on AI and Institutional Crypto Data]]></title>
+        <id>https://thedefiant.io/news/infrastructure/dune-analytics-25-percent-layoffs-ai-institutions-6boyf7</id>
+        <link href="https://thedefiant.io/news/infrastructure/dune-analytics-25-percent-layoffs-ai-institutions-6boyf7"/>
+        <updated>2026-05-14T18:52:11.000Z</updated>
+        <summary type="html"><![CDATA[The crypto data platform laid off a quarter of its workforce this week while refocusing on AI-powered dashboards and institutional adoption of onchain assets.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0x Co-Founder Will Warren Steps Down as Co-CEO]]></title>
+        <id>https://thedefiant.io/news/defi/will-warren-steps-down-0x-co-ceo-7kxgji</id>
+        <link href="https://thedefiant.io/news/defi/will-warren-steps-down-0x-co-ceo-7kxgji"/>
+        <updated>2026-05-14T18:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Will Warren is transitioning out of his co-CEO role at 0x, the DEX protocol powering billions in monthly trading volume across Coinbase, Robinhood, Phantom, and Kraken.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Lands Hyperliquid Stablecoin Role Eight Months After Governance Vote Picked Native Markets]]></title>
+        <id>https://thedefiant.io/news/defi/coinbase-lands-hyperliquid-stablecoin-role-eight-months-after-governance-vote-picked-native</id>
+        <link href="https://thedefiant.io/news/defi/coinbase-lands-hyperliquid-stablecoin-role-eight-months-after-governance-vote-picked-native"/>
+        <updated>2026-05-14T18:08:53.000Z</updated>
+        <summary type="html"><![CDATA[Native Markets is selling its brand assets to Coinbase as USDC becomes the protocol's canonical quote asset.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grove Launches Basin With up to $1 Billion in Daily Liquidity for Tokenized Real-World Assets]]></title>
+        <id>https://thedefiant.io/news/defi/grove-launches-basin-1-billion-daily-liquidity-tokenized-rwa-pax3tx</id>
+        <link href="https://thedefiant.io/news/defi/grove-launches-basin-1-billion-daily-liquidity-tokenized-rwa-pax3tx"/>
+        <updated>2026-05-14T17:26:12.000Z</updated>
+        <summary type="html"><![CDATA[Grove has launched Basin, a DeFi protocol providing instant onchain stablecoin liquidity for tokenized real-world assets with up to $1 billion in daily liquidity capacity.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethena's ENA Token Launches on Solana via Sunrise DeFi: Solana]]></title>
         <id>https://thedefiant.io/news/defi/ethena-ena-token-launches-solana-sunrise-defi-2z6pbl</id>
@@ -972,46 +1012,6 @@
         <summary type="html"><![CDATA[The CFTC filed suit against Wisconsin to establish its exclusive regulatory authority over prediction markets, a sector closely tied to crypto and blockchain-based derivatives.]]></summary>
         <author>
             <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Seeks Full CFTC Approval for Its Main Platform: Report]]></title>
-        <id>https://thedefiant.io/news/regulation/polymarket-seeks-full-cftc-blessing-for-its-on-chain-exchange-report</id>
-        <link href="https://thedefiant.io/news/regulation/polymarket-seeks-full-cftc-blessing-for-its-on-chain-exchange-report"/>
-        <updated>2026-04-28T16:36:13.000Z</updated>
-        <summary type="html"><![CDATA[The move would let Polymarket's primary, on-chain prediction market platform operate in the United States, rather than through its current intermediated setup with Polymarket US.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondo Partners with Broadridge to Bring Shareholder Voting to Tokenized Stocks]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/ondo-broadridge-corporate-governance-tokenized-equity</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/ondo-broadridge-corporate-governance-tokenized-equity"/>
-        <updated>2026-04-28T15:24:57.000Z</updated>
-        <summary type="html"><![CDATA[The partnership lets holders of tokenized equity and ETFs participate in proxy voting and access other governance features.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Stalls Below $80K as Geopolitical Risk Returns Ahead of Fed]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-stalls-below-usd80k-as-geopolitical-risk-returns-ahead-of-fed</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-stalls-below-usd80k-as-geopolitical-risk-returns-ahead-of-fed"/>
-        <updated>2026-04-27T20:12:07.000Z</updated>
-        <summary type="html"><![CDATA[Crude oil jumped as Trump called off Iran peace talks, dragging BTC back below $77,000 and triggering $288 million in long liquidations.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTs Attempt Another Comeback as Blue Chips Surge]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/nfts-attempt-another-comeback-as-blue-chips-surge</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/nfts-attempt-another-comeback-as-blue-chips-surge"/>
-        <updated>2026-04-27T19:39:01.000Z</updated>
-        <summary type="html"><![CDATA[Bored Apes, Mutant Apes, Pudgy Penguins, Azuki and Doodles are all up double digits on the month.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
     <entry>
