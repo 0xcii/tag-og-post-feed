@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-14T18:59:08.960Z</id>
+    <id>urn:2026-05-14T20:39:55.163Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-14T18:59:08.960Z</updated>
+    <updated>2026-05-14T20:39:55.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken Migrates to Chainlink CCIP for Wrapped Bitcoin and Future Wrapped Assets]]></title>
+        <id>https://thedefiant.io/news/cefi/kraken-migrates-chainlink-ccip-wrapped-bitcoin-s7b6y</id>
+        <link href="https://thedefiant.io/news/cefi/kraken-migrates-chainlink-ccip-wrapped-bitcoin-s7b6y"/>
+        <updated>2026-05-14T20:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Kraken is deprecating its existing cross-chain infrastructure and moving exclusively to Chainlink CCIP to secure Kraken Wrapped Bitcoin (kBTC) and all future wrapped assets.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Rallies as Senate Committee Advances Market Structure Bill to Full Senate]]></title>
+        <id>https://thedefiant.io/news/regulation/crypto-rallies-as-senate-committee-advances-market-structure-bill-to-full-senate</id>
+        <link href="https://thedefiant.io/news/regulation/crypto-rallies-as-senate-committee-advances-market-structure-bill-to-full-senate"/>
+        <updated>2026-05-14T19:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin rose 3% and Coinbase stock surged more than 8% as the Senate Banking Committee advanced the most consequential crypto market structure bill in U.S. history. Substantial hurdles remain before it becomes law.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lido Selects Chainlink CCIP for Cross-Chain Expansion, Citing Security Principles]]></title>
+        <id>https://thedefiant.io/news/infrastructure/lido-chainlink-ccip-cross-chain-expansion-ah8fxg</id>
+        <link href="https://thedefiant.io/news/infrastructure/lido-chainlink-ccip-cross-chain-expansion-ah8fxg"/>
+        <updated>2026-05-14T19:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Lido's Network Expansion Committee chose Chainlink CCIP to bridge its staking token across chains, citing security lessons from $3 billion in cross-chain bridge exploits.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dune Analytics Cuts 25% of Staff, Doubled Down on AI and Institutional Crypto Data]]></title>
         <id>https://thedefiant.io/news/infrastructure/dune-analytics-25-percent-layoffs-ai-institutions-6boyf7</id>
@@ -982,36 +1012,6 @@
         <summary type="html"><![CDATA[The coalition has secured ETH commitments to refill the bridge in tranches and will use Aave and Compound governance proposals to liquidate the exploiter's remaining positions.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developers of Telegram's Crypto Wallet Launch Agentic Wallets]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/ton-tech-launches-agentic-wallets-on-ton-telegram"/>
-        <updated>2026-04-28T18:19:46.000Z</updated>
-        <summary type="html"><![CDATA[The open-source standard, developed by The Open Platform, lets AI agents manage dedicated on-chain wallets without requiring user sign-off on every transaction]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ostium Launches Institutional Hedging Layer]]></title>
-        <id>https://thedefiant.io/news/defi/ostium-launches-institutional-hedging-layer</id>
-        <link href="https://thedefiant.io/news/defi/ostium-launches-institutional-hedging-layer"/>
-        <updated>2026-04-28T18:05:26.000Z</updated>
-        <summary type="html"><![CDATA[The Arbitrum-based RWA perps protocol now routes net directional flow to Jump and prime brokers offchain, retiring the single-pool model that absorbed all trader risk.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Sues Wisconsin in Response to State's Lawsuits Against Prediction Markets]]></title>
-        <id>https://thedefiant.io/news/regulation/cftc-sues-wisconsin-prediction-markets-jurisdiction-3j3isy</id>
-        <link href="https://thedefiant.io/news/regulation/cftc-sues-wisconsin-prediction-markets-jurisdiction-3j3isy"/>
-        <updated>2026-04-28T18:01:32.000Z</updated>
-        <summary type="html"><![CDATA[The CFTC filed suit against Wisconsin to establish its exclusive regulatory authority over prediction markets, a sector closely tied to crypto and blockchain-based derivatives.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
     <entry>
