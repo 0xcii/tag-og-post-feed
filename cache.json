@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/cme-and-nyse-owner-push-u-s-regulators-to-crack-down-on-hyperliquid",
+          "author": "The Defiant Team",
+          "description": "The Hyperliquid Policy Center disputed the framing.",
+          "link": "https://thedefiant.io/news/defi/cme-and-nyse-owner-push-u-s-regulators-to-crack-down-on-hyperliquid",
+          "publishedOn": "2026-05-15T16:36:50.000Z",
+          "wordCount": null,
+          "title": "CME and NYSE Owner Push U.S. Regulators to Crack Down on Hyperliquid",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hype-png-ebcf98d9-b5a7-4376-8eda-e9248ce2ec3d.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hype-png-ebcf98d9-b5a7-4376-8eda-e9248ce2ec3d.png"
+        },
+        {
           "id": "https://thedefiant.io/converge/markets/tokenized-etfs-430-million-market-cap-ondo-finance-a3j5zl",
           "author": "The Defiant Team",
           "description": "Tokenized ETFs have crossed $430 million in total onchain market cap, with Ondo Finance's IVVon token surging 150% in the past month on Ethereum.",
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.thedefiant.io/pasted-1777485759689-png-58b77f5b-3066-423d-8150-c8354a9fb0f8.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/celsius-founder-mashinsky-ftc-settlement",
-          "author": "DefAInt",
-          "description": "The Federal Trade Commission settlement decision also ordered Mashinsky to pay the commission $10 million.",
-          "link": "https://thedefiant.io/news/regulation/celsius-founder-mashinsky-ftc-settlement",
-          "publishedOn": "2026-04-29T17:57:37.000Z",
-          "wordCount": null,
-          "title": "US Judge Bans Celsius Founder Mashinsky From Any Product Involving 'Assets'",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/fraud-jpg-70061978-276d-428a-9f4e-04255b2e652f.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/fraud-jpg-70061978-276d-428a-9f4e-04255b2e652f.jpg"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-15T16:50:26.101Z</id>
+    <id>urn:2026-05-15T18:21:32.951Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-15T16:50:26.101Z</updated>
+    <updated>2026-05-15T18:21:32.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CME and NYSE Owner Push U.S. Regulators to Crack Down on Hyperliquid]]></title>
+        <id>https://thedefiant.io/news/defi/cme-and-nyse-owner-push-u-s-regulators-to-crack-down-on-hyperliquid</id>
+        <link href="https://thedefiant.io/news/defi/cme-and-nyse-owner-push-u-s-regulators-to-crack-down-on-hyperliquid"/>
+        <updated>2026-05-15T16:36:50.000Z</updated>
+        <summary type="html"><![CDATA[The Hyperliquid Policy Center disputed the framing.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tokenized ETFs Surpass $430 Million in Onchain Market Cap, Led by Ondo Finance's IVVon]]></title>
         <id>https://thedefiant.io/converge/markets/tokenized-etfs-430-million-market-cap-ondo-finance-a3j5zl</id>
@@ -1004,16 +1014,6 @@ After a wave of hacks and growing concerns around smart contract risk, liquidity
         <summary type="html"><![CDATA[Former acting CFTC Chairman Caroline Pham will run the new business, which bundles key management, custody, execution, and white-label stablecoin issuance into a single stack.]]></summary>
         <author>
             <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Judge Bans Celsius Founder Mashinsky From Any Product Involving 'Assets']]></title>
-        <id>https://thedefiant.io/news/regulation/celsius-founder-mashinsky-ftc-settlement</id>
-        <link href="https://thedefiant.io/news/regulation/celsius-founder-mashinsky-ftc-settlement"/>
-        <updated>2026-04-29T17:57:37.000Z</updated>
-        <summary type="html"><![CDATA[The Federal Trade Commission settlement decision also ordered Mashinsky to pay the commission $10 million.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
