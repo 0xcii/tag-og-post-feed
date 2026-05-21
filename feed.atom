@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-21T15:23:38.776Z</id>
+    <id>urn:2026-05-21T17:56:59.790Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-21T15:23:38.776Z</updated>
+    <updated>2026-05-21T17:56:59.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Harvard Endowment Cuts Bitcoin ETF Holdings by 43%, Exits Ethereum Fund Entirely]]></title>
+        <id>https://thedefiant.io/news/markets/harvard-endowment-cuts-bitcoin-ethereum-etf-holdings-djwmny</id>
+        <link href="https://thedefiant.io/news/markets/harvard-endowment-cuts-bitcoin-ethereum-etf-holdings-djwmny"/>
+        <updated>2026-05-21T17:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Harvard Management Company slashed its BlackRock Bitcoin ETF position by roughly 43% in Q1 2026 and fully exited its Ethereum ETF stake, according to SEC filings.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pump.fun Launches USDC-Paired Liquidity Pools for Token Launches]]></title>
+        <id>https://thedefiant.io/news/defi/pump-fun-launches-usdc-paired-liquidity-pools-gi72da</id>
+        <link href="https://thedefiant.io/news/defi/pump-fun-launches-usdc-paired-liquidity-pools-gi72da"/>
+        <updated>2026-05-21T16:43:17.000Z</updated>
+        <summary type="html"><![CDATA[Pump.fun now allows coin creators to launch with USDC-paired liquidity pools instead of SOL, raising starting market caps to $4k and increasing early-stage supply costs by 67% to improve token distribution and ecosystem health.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EF Exodus Fuels Calls for New Price-Focused Ethereum Organization]]></title>
+        <id>https://thedefiant.io/news/blockchains/ef-exodus-fuels-calls-for-new-price-focused-ethereum-organization</id>
+        <link href="https://thedefiant.io/news/blockchains/ef-exodus-fuels-calls-for-new-price-focused-ethereum-organization"/>
+        <updated>2026-05-21T14:58:53.000Z</updated>
+        <summary type="html"><![CDATA[At least eight senior EF researchers and leaders have announced departures this year.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EUR-Denominated Stablecoins Surge 12-Fold as European Banks Scale MiCA-Compliant Assets]]></title>
         <id>https://thedefiant.io/converge/cefi/eur-stablecoins-12x-growth-european-banks-mica-2talu7</id>
@@ -982,36 +1012,6 @@
         <summary type="html"><![CDATA[The move is the latest in an escalating feud and comes just weeks after Sun filed a lawsuit against World Liberty Financial for freezing his WLFI, alongside other allegations.]]></summary>
         <author>
             <name>Olivia Capozzalo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DTCC Sets July Launch Window for Tokenized Securities Pilot]]></title>
-        <id>https://thedefiant.io/news/defi/dtcc-sets-july-launch-window-for-tokenized-securities-pilot</id>
-        <link href="https://thedefiant.io/news/defi/dtcc-sets-july-launch-window-for-tokenized-securities-pilot"/>
-        <updated>2026-05-04T16:38:53.000Z</updated>
-        <summary type="html"><![CDATA[The DTC unit will begin processing limited tokenized trades in July before opening the service more broadly in October.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Asks Court to Vacate Restraining Notice Targeting Recovered Kelp DAO Assets]]></title>
-        <id>https://thedefiant.io/news/defi/aave-asks-court-to-vacate-restraining-notice-targeting-recovered-kelp-dao-assets</id>
-        <link href="https://thedefiant.io/news/defi/aave-asks-court-to-vacate-restraining-notice-targeting-recovered-kelp-dao-assets"/>
-        <updated>2026-05-04T16:27:05.000Z</updated>
-        <summary type="html"><![CDATA[The emergency motion challenges a New York court order redirecting recovered Kelp DAO exploit funds toward decades-old terrorism judgments against North Korea.]]></summary>
-        <author>
-            <name>yyctrader</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lawyer Attempts to Seize Frozen ETH Linked to Kelp Exploit From Arbitrum DAO]]></title>
-        <id>https://thedefiant.io/news/defi/lawyer-attempts-to-seize-frozen-eth-linked-to-kelp-exploit-from-arbitrum-dao</id>
-        <link href="https://thedefiant.io/news/defi/lawyer-attempts-to-seize-frozen-eth-linked-to-kelp-exploit-from-arbitrum-dao"/>
-        <updated>2026-05-04T15:34:02.000Z</updated>
-        <summary type="html"><![CDATA[A U.S. attorney is attempting to claim ETH frozen by Arbitrum following the Kelp DAO exploit — on behalf of victims of North Korean state hackers from prior incidents.]]></summary>
-        <author>
-            <name>DefAInt</name>
         </author>
     </entry>
 </feed>
