@@ -35,6 +35,96 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/v12-says-thorchain-silently-patched-its-critical-bug-then-told-researchers-the-bounty-is",
+          "author": "The Defiant Team",
+          "description": "A security startup says it disclosed a fund-draining vulnerability to the cross-chain protocol weeks before a $10.7M exploit hit a near-identical flaw. Now it plans to publish exploit code for more.",
+          "link": "https://thedefiant.io/news/hacks/v12-says-thorchain-silently-patched-its-critical-bug-then-told-researchers-the-bounty-is",
+          "publishedOn": "2026-06-01T14:42:06.000Z",
+          "wordCount": null,
+          "title": "V12 Says THORChain Silently Patched Its Critical Bug, Then Told Researchers the Bounty Is 'Permanently Retired'",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hack-jpg-f7739581-87e3-40c9-b70f-eaaa9c025171.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hack-jpg-f7739581-87e3-40c9-b70f-eaaa9c025171.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/binance-opens-us-stock-trading-non-us-users-bstocks-bnb-chain",
+          "author": "The Defiant Team",
+          "description": "Five years after pulling synthetic stock tokens under regulatory pressure, the world's largest crypto exchange opened zero-commission trading in 7,000+ US stocks and ETFs for eligible non-US users and lined up an ADGM-issued bStocks tokenization layer on BNB Chain.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/binance-opens-us-stock-trading-non-us-users-bstocks-bnb-chain",
+          "publishedOn": "2026-06-01T14:33:11.000Z",
+          "wordCount": null,
+          "title": "Binance Opens US Stock Trading to Non-US Users, Sets Up Tokenized 'bStocks' on BNB Chain",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee74620497af7abc3126bb2b91c4e1a81d789469-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ee74620497af7abc3126bb2b91c4e1a81d789469-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/markets/strategy-sells-32-bitcoin-fund-preferred-dividends-first-sale-since-2022",
+          "author": "The Defiant Team",
+          "description": "A Monday 8-K filing shows Strategy disposed of 32 BTC between May 26 and May 31 at an average $77,135 a coin, with proceeds earmarked for distributions on its STRC preferred stock — the first disclosed sale since the December 2022 tax-loss harvest.",
+          "link": "https://thedefiant.io/converge/markets/strategy-sells-32-bitcoin-fund-preferred-dividends-first-sale-since-2022",
+          "publishedOn": "2026-06-01T14:32:58.000Z",
+          "wordCount": null,
+          "title": "Strategy Sells 32 Bitcoin for $2.5M to Fund Preferred Dividends, First Sale Since 2022",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4dc1c758d6e915e2434d387413013f9893d77d21-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4dc1c758d6e915e2434d387413013f9893d77d21-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/citi-projects-5-5t-tokenized-securities-market-by-2030",
+          "author": "The Defiant Team",
+          "description": "A Citi GPS report shared with reporters ahead of Proof of Talk in Paris pencils in a 300-fold expansion in tokenized real-world assets, anchored on 10% of T-bills, 3% of U.S. stocks, and a $1.9 trillion stablecoin float by the end of the decade.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/citi-projects-5-5t-tokenized-securities-market-by-2030",
+          "publishedOn": "2026-06-01T14:32:42.000Z",
+          "wordCount": null,
+          "title": "Citi Projects $5.5T Tokenized Securities Market by 2030 as DTCC, Nasdaq and ICE Move On-Chain",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/961214255be42786048ba9eb12f1fcb46a98ba4e-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/961214255be42786048ba9eb12f1fcb46a98ba4e-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/cardano-community-votes-down-7-8m-ada-summit-budget",
+          "author": "The Defiant Team",
+          "description": "Cardano's Voltaire-era delegated representatives rejected the Cardano Foundation's 7.8 million ADA treasury ask for the 2026 Singapore Summit, with yes votes drawing 65.21% of stake — 1.46 percentage points below the two-thirds threshold.",
+          "link": "https://thedefiant.io/news/blockchains/cardano-community-votes-down-7-8m-ada-summit-budget",
+          "publishedOn": "2026-06-01T14:29:57.000Z",
+          "wordCount": null,
+          "title": "Cardano Community Votes Down 7.8M ADA Summit Budget, Killing Foundation's Flagship 2026 Event",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4189dbee8fb38acf6ed07d40f06029fed85adb28-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4189dbee8fb38acf6ed07d40f06029fed85adb28-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/gnosis-pay-hit-by-delay-module-exploit-as-gnosis-pledges-to-cover-user-losses",
+          "author": "The Defiant Team",
+          "description": "Co-founder Martin Köppelmann said the company will make all users whole after attackers exploited the smart-contract module that governs Gnosis Pay card accounts. No loss figure has been disclosed.",
+          "link": "https://thedefiant.io/news/hacks/gnosis-pay-hit-by-delay-module-exploit-as-gnosis-pledges-to-cover-user-losses",
+          "publishedOn": "2026-06-01T13:50:06.000Z",
+          "wordCount": null,
+          "title": "Gnosis Pay Hit by 'Delay Module' Exploit as Gnosis Pledges to Cover User Losses",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/credit-card-hack-jpg-dd192f40-b8b6-4563-927f-0f2d93bdfe6c.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/credit-card-hack-jpg-dd192f40-b8b6-4563-927f-0f2d93bdfe6c.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/argentine-prosecutors-arrest-24-seize-8m-usdt-fake-coins",
           "author": "The Defiant Team",
           "description": "The Buenos Aires Public Prosecutor's Office said it ran 90 simultaneous raids and froze more than 8 million USDT across three fraud rings — fake trading apps, WhatsApp hijacks, and a Chinese-origin infostealer operation — in what it calls the province's largest crypto seizure to date.",
@@ -1433,96 +1523,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dc43cacc316861c36be9118f01fd26df49d1b067-1792x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-tests-usd82k-as-crypto-funds-notch-sixth-straight-week-of-inflows",
-          "author": "yyctrader",
-          "description": "Crypto investment products absorbed $858 million last week, ahead of the upcoming CLARITY Act markup and Fed chair transition.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-tests-usd82k-as-crypto-funds-notch-sixth-straight-week-of-inflows",
-          "publishedOn": "2026-05-11T20:09:01.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Tests $82K As Crypto Funds Notch Sixth Straight Week Of Inflows",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1778530147645-png-bfff9256-20ea-4c95-a6d5-6bf2b1e85ca9.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1778530147645-png-bfff9256-20ea-4c95-a6d5-6bf2b1e85ca9.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/largest-digital-asset-treasuries-slow-weekly-buys",
-          "author": "Olivia Capozzalo",
-          "description": "Meanwhile, the largest Ethereum DAT, Bitmine, made its smallest ETH purchase since January, announcing it will slow its weekly purchase pace.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/largest-digital-asset-treasuries-slow-weekly-buys",
-          "publishedOn": "2026-05-11T20:03:30.000Z",
-          "wordCount": null,
-          "title": "Strategy Resumes Weekly Buys with Smallest BTC Purchase Since December",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/btc-eth-dats-jpg-924e7c06-bcdd-43cb-9ab3-6f93e98c8a4b.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/btc-eth-dats-jpg-924e7c06-bcdd-43cb-9ab3-6f93e98c8a4b.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/sui-rallies-40-as-mysten-labs-promises-free-private-payments-at-scale",
-          "author": "yyctrader",
-          "description": "Co-founder Adeniyi Abiodun unveiled confidential transactions at Sui Live Miami, the same week SUI Group Holdings staked its entire $140M treasury.",
-          "link": "https://thedefiant.io/news/blockchains/sui-rallies-40-as-mysten-labs-promises-free-private-payments-at-scale",
-          "publishedOn": "2026-05-11T18:22:28.000Z",
-          "wordCount": null,
-          "title": "SUI Rallies 40% as Mysten Labs Promises Free, Private Payments \"At Scale\"",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1778523959744-png-48f2c8e1-5067-47e8-a4d4-049706ace5e8.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1778523959744-png-48f2c8e1-5067-47e8-a4d4-049706ace5e8.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/ripple-prime-secures-usd200m-debt-facility-to-expand-lending-capacity",
-          "author": "yyctrader",
-          "description": "Funds managed by Neuberger Specialty Finance committed the facility to grow margin financing for the multi-asset prime broker.",
-          "link": "https://thedefiant.io/news/defi/ripple-prime-secures-usd200m-debt-facility-to-expand-lending-capacity",
-          "publishedOn": "2026-05-11T17:54:33.000Z",
-          "wordCount": null,
-          "title": "Ripple Prime Secures $200M Debt Facility to Expand Lending Capacity",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1778522694324-png-9bd35461-8786-4f81-8744-5bcfe009ab0b.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1778522694324-png-9bd35461-8786-4f81-8744-5bcfe009ab0b.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/stream-finance-breaks-six-month-silence-with-wind-down-plan",
-          "author": "yyctrader",
-          "description": "A newly formed Delaware entity will consolidate and liquidate remaining assets, with \"strategic alternatives\" coming in the next few weeks.",
-          "link": "https://thedefiant.io/news/defi/stream-finance-breaks-six-month-silence-with-wind-down-plan",
-          "publishedOn": "2026-05-11T17:18:00.000Z",
-          "wordCount": null,
-          "title": "Stream Finance Breaks Six Month Silence With Wind-Down Plan",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1778519883458-png-3f45886a-2cc4-4bc7-9b5f-b0a25f5fd069.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1778519883458-png-3f45886a-2cc4-4bc7-9b5f-b0a25f5fd069.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/banks-sound-alarm-as-senate-prepares-clarity-act-markup",
-          "author": "DefAInt",
-          "description": "The Senate Banking Committee is set to mark up the sweeping crypto market structure bill on Thursday.",
-          "link": "https://thedefiant.io/news/regulation/banks-sound-alarm-as-senate-prepares-clarity-act-markup",
-          "publishedOn": "2026-05-11T17:01:18.000Z",
-          "wordCount": null,
-          "title": "Banks Sound Alarm as Senate Prepares CLARITY Act Markup",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/us-banks-jpg-709527ee-609e-46d0-9ffa-7d741825f4cf.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/us-banks-jpg-709527ee-609e-46d0-9ffa-7d741825f4cf.jpg"
         }
       ]
     }
