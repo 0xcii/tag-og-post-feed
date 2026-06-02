@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-02T17:21:32.677Z</id>
+    <id>urn:2026-06-02T20:47:36.548Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-02T17:21:32.677Z</updated>
+    <updated>2026-06-02T20:47:36.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bad Sentiment, Strong Fundamentals: the Institutional Turn | Chris Perkins, Franklin Crypto]]></title>
+        <id>https://thedefiant.io/converge/podcast/bad-sentiment-strong-fundamentals-the-institutional-turn-or-chris-perkins-franklin-crypto</id>
+        <link href="https://thedefiant.io/converge/podcast/bad-sentiment-strong-fundamentals-the-institutional-turn-or-chris-perkins-franklin-crypto"/>
+        <updated>2026-06-02T17:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Crypto is entering a new phase — and institutions, not retail, are driving it. As regulatory clarity arrives, the largest institutions in the world are moving from the sidelines into the market. The thesis from our guest: sentiment is poor, but fundamentals are improving; a coiled spring.]]></summary>
+        <author>
+            <name>Chris Storaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Ventures Buys ENA on the Open Market as Coinbase and Ethena Strike Distribution Deal]]></title>
+        <id>https://thedefiant.io/news/defi/coinbase-ventures-ena-open-market-ethena-distribution-deal</id>
+        <link href="https://thedefiant.io/news/defi/coinbase-ventures-ena-open-market-ethena-distribution-deal"/>
+        <updated>2026-06-02T17:28:14.000Z</updated>
+        <summary type="html"><![CDATA[The exchange's venture arm bought ENA tokens directly on the open market rather than through a private round, the first such disclosed purchase, alongside a partnership to push Ethena's onchain dollar and savings products into Coinbase's userbase.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Court Lifts Circle Freeze on Zama's $12.5M cUSDC Contract After Three-Day Lockout]]></title>
         <id>https://thedefiant.io/news/defi/us-court-lifts-circle-freeze-zama-cusdc-three-day-lockout</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/crypto-bill-advances-senate-armstrong-tx7pju"/>
         <updated>2026-05-13T15:17:29.000Z</updated>
         <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong says crypto legislation is closer to passage, crediting Senate support and 3.7 million Stand With Crypto advocates.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EUR Stablecoins Hit $774.2M All-Time High, With 66% on Ethereum: Token Terminal]]></title>
-        <id>https://thedefiant.io/news/markets/eur-stablecoins-774-million-all-time-high-1whggq</id>
-        <link href="https://thedefiant.io/news/markets/eur-stablecoins-774-million-all-time-high-1whggq"/>
-        <updated>2026-05-13T15:03:22.000Z</updated>
-        <summary type="html"><![CDATA[The onchain market cap of euro-denominated stablecoins reached a new record of $774.2 million, with Ethereum commanding two-thirds of the total supply.]]></summary>
-        <author>
-            <name>DefAInt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Proposes Babylon-Powered Native BTC Borrowing Spoke for V4: Governance Temp Check]]></title>
-        <id>https://thedefiant.io/news/defi/aave-babylon-native-btc-spoke-governance-r4l0sp</id>
-        <link href="https://thedefiant.io/news/defi/aave-babylon-native-btc-spoke-governance-r4l0sp"/>
-        <updated>2026-05-13T14:02:31.000Z</updated>
-        <summary type="html"><![CDATA[Aave DAO is seeking approval to integrate Babylon protocol for native Bitcoin collateral in Aave V4, eliminating reliance on wrapped BTC or custodial intermediaries.]]></summary>
         <author>
             <name>DefAInt</name>
         </author>

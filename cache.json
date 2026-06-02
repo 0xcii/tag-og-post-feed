@@ -35,6 +35,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/converge/podcast/bad-sentiment-strong-fundamentals-the-institutional-turn-or-chris-perkins-franklin-crypto",
+          "author": "Chris Storaker",
+          "description": "Crypto is entering a new phase — and institutions, not retail, are driving it. As regulatory clarity arrives, the largest institutions in the world are moving from the sidelines into the market. The thesis from our guest: sentiment is poor, but fundamentals are improving; a coiled spring.",
+          "link": "https://thedefiant.io/converge/podcast/bad-sentiment-strong-fundamentals-the-institutional-turn-or-chris-perkins-franklin-crypto",
+          "publishedOn": "2026-06-02T17:43:53.000Z",
+          "wordCount": null,
+          "title": "Bad Sentiment, Strong Fundamentals: the Institutional Turn | Chris Perkins, Franklin Crypto",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/thumbnail-episode1-converge-jpg-23fa0db9-53b2-4a84-8633-fb671ca76f60.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode1-converge-jpg-23fa0db9-53b2-4a84-8633-fb671ca76f60.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/coinbase-ventures-ena-open-market-ethena-distribution-deal",
+          "author": "The Defiant Team",
+          "description": "The exchange's venture arm bought ENA tokens directly on the open market rather than through a private round, the first such disclosed purchase, alongside a partnership to push Ethena's onchain dollar and savings products into Coinbase's userbase.",
+          "link": "https://thedefiant.io/news/defi/coinbase-ventures-ena-open-market-ethena-distribution-deal",
+          "publishedOn": "2026-06-02T17:28:14.000Z",
+          "wordCount": null,
+          "title": "Coinbase Ventures Buys ENA on the Open Market as Coinbase and Ethena Strike Distribution Deal",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/84574ad5682a856c10c1f8a95d4cbc1c20772db8-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/84574ad5682a856c10c1f8a95d4cbc1c20772db8-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/us-court-lifts-circle-freeze-zama-cusdc-three-day-lockout",
           "author": "The Defiant Team",
           "description": "A federal judge in the Northern District of California reversed the temporary restraining order that had pushed Circle to blacklist the privacy protocol's wrapper, restoring funds to depositors caught in a civil dispute they were not party to.",
@@ -1493,36 +1523,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dd178d5626ea5cd77a4b5d76ca225af82675ea00-1536x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/eur-stablecoins-774-million-all-time-high-1whggq",
-          "author": "DefAInt",
-          "description": "The onchain market cap of euro-denominated stablecoins reached a new record of $774.2 million, with Ethereum commanding two-thirds of the total supply.",
-          "link": "https://thedefiant.io/news/markets/eur-stablecoins-774-million-all-time-high-1whggq",
-          "publishedOn": "2026-05-13T15:03:22.000Z",
-          "wordCount": null,
-          "title": "EUR Stablecoins Hit $774.2M All-Time High, With 66% on Ethereum: Token Terminal",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e38e7797c48eff7d85349b0c246d77cbf3bdfb0b-1536x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e38e7797c48eff7d85349b0c246d77cbf3bdfb0b-1536x1024.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-babylon-native-btc-spoke-governance-r4l0sp",
-          "author": "DefAInt",
-          "description": "Aave DAO is seeking approval to integrate Babylon protocol for native Bitcoin collateral in Aave V4, eliminating reliance on wrapped BTC or custodial intermediaries.",
-          "link": "https://thedefiant.io/news/defi/aave-babylon-native-btc-spoke-governance-r4l0sp",
-          "publishedOn": "2026-05-13T14:02:31.000Z",
-          "wordCount": null,
-          "title": "Aave Proposes Babylon-Powered Native BTC Borrowing Spoke for V4: Governance Temp Check",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1112969cd504631635a048d31c7f006d80e24950-1536x1024.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1112969cd504631635a048d31c7f006d80e24950-1536x1024.jpg"
         }
       ]
     }
