@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-04T20:54:40.807Z</id>
+    <id>urn:2026-06-04T22:20:15.285Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-04T20:54:40.807Z</updated>
+    <updated>2026-06-04T22:20:15.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[0x Opens Cross-Chain API to All Developers with 12 Bridge Partners on Day One]]></title>
+        <id>https://thedefiant.io/news/defi/0x-opens-cross-chain-api-general-availability-12-bridge-partners</id>
+        <link href="https://thedefiant.io/news/defi/0x-opens-cross-chain-api-general-availability-12-bridge-partners"/>
+        <updated>2026-06-04T20:55:00.000Z</updated>
+        <summary type="html"><![CDATA[0x Protocol has opened its Cross-Chain API to general availability with 12 bridge providers live from day one, including Circle, LayerZero, Stargate and Across — accessible through a single API integration.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ERC-3643: The Case for Permissioned Tokens for Insitutional Adoption]]></title>
         <id>https://thedefiant.io/converge/podcast/erc-3643-the-case-for-permissioned-tokens-for-insitutional-adoption</id>
@@ -31,6 +41,16 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/bitmine-files-300m-preferred-stock-offering-9-5-yield-eth-treasury"/>
         <updated>2026-06-04T14:55:00.000Z</updated>
         <summary type="html"><![CDATA[BitMine Immersion Technologies filed a 424B5 prospectus supplement to raise up to $300 million through Series A Perpetual Preferred Stock at a 9.5% cumulative dividend — applying Strategy's STRC capital-markets playbook to a corporate Ethereum treasury sitting on $9.2 billion in unrealized losses.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Launches Pre-IPO Perpetual Futures, Starting with SpaceX]]></title>
+        <id>https://thedefiant.io/news/cefi/coinbase-launches-pre-ipo-perpetual-futures-spacex</id>
+        <link href="https://thedefiant.io/news/cefi/coinbase-launches-pre-ipo-perpetual-futures-spacex"/>
+        <updated>2026-06-04T14:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase International Exchange, operating through its BMA-licensed Bermuda entity, now offers USDC-settled perpetual futures on private-company valuations, with SpaceX as the first listing.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/verus-ethereum-bridge-exploit-11-5-million-ri18bt"/>
         <updated>2026-05-18T12:03:08.000Z</updated>
         <summary type="html"><![CDATA[An active exploit on the Verus-Ethereum Bridge has resulted in $11.58 million in losses, according to security firm Blockaid.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Extends Decline Below $78,500 as Bearish Pressure Intensifies]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-extends-decline-78500-xm9c9c</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-extends-decline-78500-xm9c9c"/>
-        <updated>2026-05-18T11:23:14.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin has fallen below $78,500 and is consolidating near the $76,500 support level, with a bearish trend line forming resistance at $77,700 on the hourly chart.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VanEck and Grayscale Push Forward With Spot BNB ETF Filings]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/vaneck-grayscale-bnb-etf-amendments-i2xkqi</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/vaneck-grayscale-bnb-etf-amendments-i2xkqi"/>
-        <updated>2026-05-18T10:17:24.000Z</updated>
-        <summary type="html"><![CDATA[VanEck and Grayscale have submitted fresh amendments to their spot BNB ETF applications, signaling active engagement with the SEC as competition intensifies for the next altcoin ETF.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
