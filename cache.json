@@ -50,6 +50,21 @@
           "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode2-converge-jpg-5511796c-4134-4184-a78e-fb02fbd7887b.jpg"
         },
         {
+          "id": "https://thedefiant.io/news/markets/spot-bitcoin-etf-outflow-streak-record-13-days",
+          "author": "The Defiant Team",
+          "description": "US spot Bitcoin ETFs posted a 13th consecutive day of net outflows on Wednesday, extending the longest withdrawal streak in the products' history to $4.4 billion cumulative since May 15.",
+          "link": "https://thedefiant.io/news/markets/spot-bitcoin-etf-outflow-streak-record-13-days",
+          "publishedOn": "2026-06-04T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Spot Bitcoin ETF Outflow Streak Extends to Record 13 Days, $4.4B Cumulative",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a38f8f753fb9e86ba82645e38ff11303de9f789b-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a38f8f753fb9e86ba82645e38ff11303de9f789b-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-files-300m-preferred-stock-offering-9-5-yield-eth-treasury",
           "author": "The Defiant Team",
           "description": "BitMine Immersion Technologies filed a 424B5 prospectus supplement to raise up to $300 million through Series A Perpetual Preferred Stock at a 9.5% cumulative dividend — applying Strategy's STRC capital-markets playbook to a corporate Ethereum treasury sitting on $9.2 billion in unrealized losses.",
@@ -63,6 +78,51 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/faea895bcc1eb8f343f7019c079ff0e033b6113e-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-usdpt-bybit-fiat-channels-latin-america",
+          "author": "The Defiant Team",
+          "description": "Western Union has made its USDPT stablecoin available on Bybit's fiat channels in Latin America, making Bybit the first major crypto exchange to integrate USDPT — arriving two days after MoneyGram launched its own rival dollar token on Stellar.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-usdpt-bybit-fiat-channels-latin-america",
+          "publishedOn": "2026-06-04T14:45:00.000Z",
+          "wordCount": null,
+          "title": "Western Union Deploys USDPT on Bybit's Fiat Channels in Latin America",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b169b8d5d81dbc4a9b5af43d6c870cfe0c376deb-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b169b8d5d81dbc4a9b5af43d6c870cfe0c376deb-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sky-launches-fixed-rate-yield-product-built-on-pendle-targeting-6b-susds-pool",
+          "author": "The Defiant Team",
+          "description": "Sky (formerly MakerDAO) launched Fixed Yield on Wednesday — a term-based alternative to the variable Sky Savings Rate built on Pendle Protocol v2, giving sUSDS depositors a locked rate to a named maturity date.",
+          "link": "https://thedefiant.io/news/defi/sky-launches-fixed-rate-yield-product-built-on-pendle-targeting-6b-susds-pool",
+          "publishedOn": "2026-06-04T14:45:00.000Z",
+          "wordCount": null,
+          "title": "Sky Launches Fixed-Rate Yield Product Built on Pendle, Targeting $6B sUSDS Pool",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/15730c22ac53564f0ce50187664061c5a0846a83-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/15730c22ac53564f0ce50187664061c5a0846a83-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/visa-and-brale-test-privacy-enabled-sbc-stablecoin-settlement-on-canton-network",
+          "author": "The Defiant Team",
+          "description": "Visa and stablecoin issuer Brale are piloting settlement using SBC, a U.S. dollar-backed stablecoin, on Canton Network, the privacy-preserving institutional DLT, testing whether blockchain settlement can meet bank-grade compliance requirements.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/visa-and-brale-test-privacy-enabled-sbc-stablecoin-settlement-on-canton-network",
+          "publishedOn": "2026-06-04T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Visa and Brale Test Privacy-Enabled SBC Stablecoin Settlement on Canton Network",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4748e1c7e976543262865e17d63d982f6ce56348-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4748e1c7e976543262865e17d63d982f6ce56348-2048x1152.png"
         },
         {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/deel-deploys-stripe-stablecoin-stack-dlusd-contractors",
@@ -1463,66 +1523,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ee2a9d1eefe9c3736b8842599d89f1a9abafd06f-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/cefi/circle-usyc-largest-t-bill-fund-2-9-billion-cxpol7",
-          "author": "The Defiant Team",
-          "description": "Circle's USYC tokenized Treasury bill fund has reached $2.9 billion in market cap, becoming the largest T-Bill fund deployment across blockchain networks.",
-          "link": "https://thedefiant.io/converge/cefi/circle-usyc-largest-t-bill-fund-2-9-billion-cxpol7",
-          "publishedOn": "2026-05-18T10:02:20.000Z",
-          "wordCount": null,
-          "title": "Circle's USYC Becomes Largest T-Bill Fund on BNB Chain at $2.9 Billion",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/98a8ea7a822620bee04c3f473e8374ad964236ed-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/98a8ea7a822620bee04c3f473e8374ad964236ed-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/hyperliquid-hype-token-rally-spacex-pre-ipo-perpetual-ooc2j1",
-          "author": "The Defiant Team",
-          "description": "HYPE token gained 7% over 24 hours following the launch of a synthetic SpaceX pre-IPO perpetual contract on Hyperliquid, valuing the private aerospace company at $1.78 trillion.",
-          "link": "https://thedefiant.io/news/markets/hyperliquid-hype-token-rally-spacex-pre-ipo-perpetual-ooc2j1",
-          "publishedOn": "2026-05-18T09:19:10.000Z",
-          "wordCount": null,
-          "title": "Hyperliquid's HYPE Token Rallies 7% as Trade.xyz Launches First Pre-IPO Perpetual Market for SpaceX",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2462ff557bc6bb1c09695dc5d9512effc7e27b09-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2462ff557bc6bb1c09695dc5d9512effc7e27b09-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-restores-weth-ltv-ratios-rseth-recovery-2itixw",
-          "author": "The Defiant Team",
-          "description": "Aave has restored WETH loan-to-value ratios on Ethereum, Arbitrum, Base, Mantle, and Linea, re-enabling borrowing against the asset following a technical incident.",
-          "link": "https://thedefiant.io/news/defi/aave-restores-weth-ltv-ratios-rseth-recovery-2itixw",
-          "publishedOn": "2026-05-18T00:32:23.000Z",
-          "wordCount": null,
-          "title": "Aave Restores WETH LTV Ratios Across Multiple Networks as Part of rsETH Recovery Plan",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4f76600cea569fc9a011444b78969c834687eeca-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4f76600cea569fc9a011444b78969c834687eeca-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/cme-and-nyse-owner-push-u-s-regulators-to-crack-down-on-hyperliquid",
-          "author": "The Defiant Team",
-          "description": "The Hyperliquid Policy Center disputed the framing.",
-          "link": "https://thedefiant.io/news/defi/cme-and-nyse-owner-push-u-s-regulators-to-crack-down-on-hyperliquid",
-          "publishedOn": "2026-05-15T16:36:50.000Z",
-          "wordCount": null,
-          "title": "CME and NYSE Owner Push U.S. Regulators to Crack Down on Hyperliquid",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/hype-png-ebcf98d9-b5a7-4376-8eda-e9248ce2ec3d.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/hype-png-ebcf98d9-b5a7-4376-8eda-e9248ce2ec3d.png"
         }
       ]
     }
