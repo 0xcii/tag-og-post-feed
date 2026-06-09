@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-09T12:36:02.144Z</id>
+    <id>urn:2026-06-09T15:53:42.071Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-09T12:36:02.144Z</updated>
+    <updated>2026-06-09T15:53:42.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US Bitcoin Reserve Bill Text Locks Holdings for 20 Years and Mandates Quarterly Proof-of-Reserve Reports]]></title>
+        <id>https://thedefiant.io/news/regulation/us-bitcoin-reserve-bill-arma-20-year-lockup-proof-of-reserve</id>
+        <link href="https://thedefiant.io/news/regulation/us-bitcoin-reserve-bill-arma-20-year-lockup-proof-of-reserve"/>
+        <updated>2026-06-09T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The full text of H.R. 8957, the American Reserve Modernization Act of 2026, is now public, revealing a mandatory 20-year prohibition on selling any acquired BTC and a requirement for quarterly, publicly audited proof-of-reserve reports.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reality Test]]></title>
         <id>https://medium.com/p/c8e4f49def52</id>
@@ -1000,16 +1010,6 @@
         <link href="https://thedefiant.io/converge/regulation/sec-commissioner-peirce-clarifies-tokenized-stock-exemption-scope-uikype"/>
         <updated>2026-05-22T01:02:21.000Z</updated>
         <summary type="html"><![CDATA[Hester Peirce pushes back against "hyperbole" surrounding a contemplated SEC innovation exemption for tokenized NMS stock, emphasizing it would cover only digital representations of existing equities, not synthetic assets.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Launches Perpetual Equity Index Futures in the U.S. on June 8]]></title>
-        <id>https://thedefiant.io/converge/cefi/coinbase-perpetual-equity-index-futures-june-8-yclimy</id>
-        <link href="https://thedefiant.io/converge/cefi/coinbase-perpetual-equity-index-futures-june-8-yclimy"/>
-        <updated>2026-05-22T00:02:18.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase is expanding its trading offerings by launching perpetual-style equity index futures on June 8, allowing users to go long or short on market sectors and trends.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

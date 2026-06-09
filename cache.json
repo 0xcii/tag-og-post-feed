@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/us-bitcoin-reserve-bill-arma-20-year-lockup-proof-of-reserve",
+          "author": "The Defiant Team",
+          "description": "The full text of H.R. 8957, the American Reserve Modernization Act of 2026, is now public, revealing a mandatory 20-year prohibition on selling any acquired BTC and a requirement for quarterly, publicly audited proof-of-reserve reports.",
+          "link": "https://thedefiant.io/news/regulation/us-bitcoin-reserve-bill-arma-20-year-lockup-proof-of-reserve",
+          "publishedOn": "2026-06-09T14:10:00.000Z",
+          "wordCount": null,
+          "title": "US Bitcoin Reserve Bill Text Locks Holdings for 20 Years and Mandates Quarterly Proof-of-Reserve Reports",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b57b87d1653524b6dc0e2a0a4015c22522529d6a-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b57b87d1653524b6dc0e2a0a4015c22522529d6a-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/bitmine-buys-126971-eth-207m-1630-average-prices-hit-june-low",
           "author": "The Defiant Team",
           "description": "BitMine Immersion Technologies acquired 126,971 ETH for approximately $207 million last week at an average of $1,630 per token, its largest weekly purchase of 2026, lifting its total treasury to 5.54 million ETH, equal to 4.59% of Ethereum's circulating supply.",
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b34d22b17903fc40c55f3dfd2e12c918c6b06b05-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/cefi/coinbase-perpetual-equity-index-futures-june-8-yclimy",
-          "author": "The Defiant Team",
-          "description": "Coinbase is expanding its trading offerings by launching perpetual-style equity index futures on June 8, allowing users to go long or short on market sectors and trends.",
-          "link": "https://thedefiant.io/converge/cefi/coinbase-perpetual-equity-index-futures-june-8-yclimy",
-          "publishedOn": "2026-05-22T00:02:18.000Z",
-          "wordCount": null,
-          "title": "Coinbase Launches Perpetual Equity Index Futures in the U.S. on June 8",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/391218dd5a0263ca20eea6ad578baa46e219e985-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/391218dd5a0263ca20eea6ad578baa46e219e985-2048x1152.png"
         }
       ]
     }
