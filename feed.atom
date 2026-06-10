@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-10T16:57:03.970Z</id>
+    <id>urn:2026-06-10T19:35:23.445Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-10T16:57:03.970Z</updated>
+    <updated>2026-06-10T19:35:23.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,56 @@
         <link href="https://thedefiant.io/news/tokens/lava-network-signs-tokenization-pact-for-planned-40-000-unit-caribbean-project"/>
         <updated>2026-06-10T21:30:00.000Z</updated>
         <summary type="html"><![CDATA[The agreement with developer BHL Group is an early-stage memorandum of understanding, and the Alba Bay community is not slated to break ground until 2027]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On-Chain Tracking Revives Allegations That Hoskinson Sold 1.5B ADA in the 2021 Rally]]></title>
+        <id>https://thedefiant.io/news/people/on-chain-tracking-revives-allegations-that-hoskinson-sold-1-5b-ada-in-the-2021-rally</id>
+        <link href="https://thedefiant.io/news/people/on-chain-tracking-revives-allegations-that-hoskinson-sold-1-5b-ada-in-the-2021-rally"/>
+        <updated>2026-06-10T18:17:26.000Z</updated>
+        <summary type="html"><![CDATA[An NFT creator published a thread claiming to trace large ADA flows to IOG-linked stake pool pledges from the 2021 bull market. Cardano's founder has made no public statement in response to the new analysis. ADA is down 42% over the past 30 days.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacker Mints 10 Billion TOP Tokens Through Governance Takeover, Drains $1.58M from Balancer Pool]]></title>
+        <id>https://thedefiant.io/news/hacks/attacker-mints-10-billion-top-tokens-governance-takeover-drains-1-58m-balancer</id>
+        <link href="https://thedefiant.io/news/hacks/attacker-mints-10-billion-top-tokens-governance-takeover-drains-1-58m-balancer"/>
+        <updated>2026-06-10T17:08:28.000Z</updated>
+        <summary type="html"><![CDATA[An attacker exploited Token of Power's Aragon DAO on Tuesday to mint 10 billion TOP tokens via a malicious governance proposal, then swapped the supply for 944.2 WETH worth roughly $1.58 million.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyli Winds Down Two-Year ZK Blockchain Project, Citing Lack of ZK Traction]]></title>
+        <id>https://thedefiant.io/news/blockchains/hyli-winds-down-zk-blockchain-project-zk-traction</id>
+        <link href="https://thedefiant.io/news/blockchains/hyli-winds-down-zk-blockchain-project-zk-traction"/>
+        <updated>2026-06-10T16:31:39.000Z</updated>
+        <summary type="html"><![CDATA[ZK blockchain project Hyli is shutting down after two years, with the team citing weak demand for zero-knowledge technology. The closure comes the same day Botanix wound down its Bitcoin Layer 2.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple Deploys XRPL AI Starter Kit as Mastercard Names It Agentic-Commerce Partner]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/ripple-xrpl-ai-starter-kit-mastercard-agent-pay-machines</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/ripple-xrpl-ai-starter-kit-mastercard-agent-pay-machines"/>
+        <updated>2026-06-10T16:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Ripple released the XRPL AI Starter Kit on Wednesday, giving developers tools to build AI-agent payment applications on the XRP Ledger using XRP and RLUSD. The launch lands alongside Mastercard naming Ripple as a partner in Agent Pay for Machines, its agentic-commerce network.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastercard Opens Card Rails to AI Agents With 30-Plus Crypto Partners]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/mastercard-agent-pay-machines-ap4m-ai-agents-crypto-partners</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/mastercard-agent-pay-machines-ap4m-ai-agents-crypto-partners"/>
+        <updated>2026-06-10T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Mastercard launched Agent Pay for Machines (AP4M) Wednesday, extending its payments network to autonomous AI agents with 30-plus crypto and fintech launch partners including Coinbase, RippleX, Solana Foundation, Polygon, Aave Labs and Stellar.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -960,56 +1010,6 @@
         <link href="https://thedefiant.io/news/hacks/openzeppelin-pushes-back-after-ex-cto-declares-all-of-defi-unsafe"/>
         <updated>2026-05-27T18:46:53.000Z</updated>
         <summary type="html"><![CDATA[The smart contract security firm distanced itself from Manuel Aráoz's warning that AI coding agents have made DeFi impossible to defend, calling the threat real but manageable.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aztec Labs Acquires ZKPassport to Integrate Privacy-Preserving Identity Verification]]></title>
-        <id>https://thedefiant.io/news/blockchains/aztec-labs-acquires-zkpassport-identity-verification-q2dgkb</id>
-        <link href="https://thedefiant.io/news/blockchains/aztec-labs-acquires-zkpassport-identity-verification-q2dgkb"/>
-        <updated>2026-05-27T18:27:01.000Z</updated>
-        <summary type="html"><![CDATA[Aztec Labs has acquired Obsidion, the team behind ZKPassport, a zero-knowledge identity verification protocol that proves age and nationality without storing personal data on centralized servers.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SoFi Brings Its Bank-Issued Stablecoin to 14.7 Million Members]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/sofi-brings-its-bank-issued-stablecoin-to-14-7-million-members</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/sofi-brings-its-bank-issued-stablecoin-to-14-7-million-members"/>
-        <updated>2026-05-27T16:48:47.000Z</updated>
-        <summary type="html"><![CDATA[SoFiUSD, first launched in December for enterprise clients, is now live inside the SoFi app — making it the first stablecoin issued by a US national bank available directly on a consumer banking platform.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastercard Wins NY BitLicense, Deepening Push Into Stablecoin Settlement]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/mastercard-wins-ny-bitlicense-deepening-push-into-stablecoin-settlement</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/mastercard-wins-ny-bitlicense-deepening-push-into-stablecoin-settlement"/>
-        <updated>2026-05-27T15:53:32.000Z</updated>
-        <summary type="html"><![CDATA[The payments giant, which processed nearly $11 trillion in volume last year, secured one of the US's most demanding state crypto licenses as it moves to settle transactions in digital assets.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DTCC Picks Stellar for Tokenized Securities Rollout as Multi-Chain Push Expands]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/dtcc-picks-stellar-for-tokenized-securities-rollout-as-multi-chain-push-expands</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/dtcc-picks-stellar-for-tokenized-securities-rollout-as-multi-chain-push-expands"/>
-        <updated>2026-05-27T15:27:57.000Z</updated>
-        <summary type="html"><![CDATA[The post-trade giant plans to make DTC-custodied assets available on the Stellar public blockchain in the first half of 2027, adding a second network to its growing tokenization strategy]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacker Mints 5.4 Trillion Tokens in StakeDAO Exploit, Nets $91K]]></title>
-        <id>https://thedefiant.io/news/hacks/hacker-mints-5-4-trillion-tokens-in-stakedao-exploit-nets-usd91k</id>
-        <link href="https://thedefiant.io/news/hacks/hacker-mints-5-4-trillion-tokens-in-stakedao-exploit-nets-usd91k"/>
-        <updated>2026-05-27T14:31:34.000Z</updated>
-        <summary type="html"><![CDATA[A compromised private key let an attacker forge a cross-chain message on Arbitrum, triggering cascading warnings across Curve Finance and Beefy Finance.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
