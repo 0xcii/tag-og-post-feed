@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-10T19:35:23.445Z</id>
+    <id>urn:2026-06-10T22:01:16.235Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-10T19:35:23.445Z</updated>
+    <updated>2026-06-10T22:01:16.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,36 @@
         <link href="https://thedefiant.io/news/tokens/lava-network-signs-tokenization-pact-for-planned-40-000-unit-caribbean-project"/>
         <updated>2026-06-10T21:30:00.000Z</updated>
         <summary type="html"><![CDATA[The agreement with developer BHL Group is an early-stage memorandum of understanding, and the Alba Bay community is not slated to break ground until 2027]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Stock Trading Draws 84% of First-Week Volume From Emerging Markets]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/binance-stock-trading-first-week-emerging-markets</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/binance-stock-trading-first-week-emerging-markets"/>
+        <updated>2026-06-10T20:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Binance's direct stock-trading platform drew more than 80% of its first-week volume from emerging markets, with assets under management crossing $400 million within seven days. The 2% share of TradFi-referenced perpetuals volume positions the June 1 launch as a distribution play for underserved]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalshi Reports 150+ Insider-Trading Investigations in Q1, Rolls Out Employer Checks for High-Risk Markets]]></title>
+        <id>https://thedefiant.io/news/regulation/kalshi-insider-trading-investigations-q1-employer-checks</id>
+        <link href="https://thedefiant.io/news/regulation/kalshi-insider-trading-investigations-q1-employer-checks"/>
+        <updated>2026-06-10T19:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Kalshi opened more than 150 insider-trading investigations in the first quarter of 2026, blocked over 100 potential insider trades, and referred at least 20 cases to law enforcement. The CFTC-regulated prediction market paired the numbers Tuesday with a new risk-scoring framework,]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOJ Opens Debanking Probe Into JPMorgan, Bank of America and Wells Fargo]]></title>
+        <id>https://thedefiant.io/converge/regulation/doj-opens-debanking-probe-jpmorgan-bank-of-america-wells-fargo</id>
+        <link href="https://thedefiant.io/converge/regulation/doj-opens-debanking-probe-jpmorgan-bank-of-america-wells-fargo"/>
+        <updated>2026-06-10T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Federal prosecutors have subpoenaed JPMorgan Chase, Bank of America and Wells Fargo, examining whether banks unlawfully terminated customer accounts for political reasons. The probe directly validates the crypto industry's Operation Chokepoint 2.0 grievances.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -31,6 +61,16 @@
         <link href="https://thedefiant.io/news/hacks/attacker-mints-10-billion-top-tokens-governance-takeover-drains-1-58m-balancer"/>
         <updated>2026-06-10T17:08:28.000Z</updated>
         <summary type="html"><![CDATA[An attacker exploited Token of Power's Aragon DAO on Tuesday to mint 10 billion TOP tokens via a malicious governance proposal, then swapped the supply for 944.2 WETH worth roughly $1.58 million.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raydium Confirms $1.34M Drain on Deprecated AMM V3, Pledges Treasury Compensation]]></title>
+        <id>https://thedefiant.io/news/hacks/raydium-drained-1-3m-attacker-bridges-ethereum-tornado-cash</id>
+        <link href="https://thedefiant.io/news/hacks/raydium-drained-1-3m-attacker-bridges-ethereum-tornado-cash"/>
+        <updated>2026-06-10T16:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Raydium core contributor Infra confirmed Wednesday that an attacker drained ~$1.34M from the legacy AMM V3 program, a contract phased out in 2021. Current users were unaffected, the treasury will cover full compensation, and the root cause was a self-contained LP-mint validation flaw. PeckShield]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -970,46 +1010,6 @@
         <link href="https://thedefiant.io/converge/blockchains/tempo-l1-hits-3-9m-transactions-in-two-months"/>
         <updated>2026-05-28T13:18:46.000Z</updated>
         <summary type="html"><![CDATA[The payments-focused blockchain Tempo has settled 3.9M transactions across 177K addresses since mainnet launch in March, with stablecoin supply exceeding $25M and full Dune Analytics integration live.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Liquidations Near $1 Billion in 24 Hours as Leverage Unwinds]]></title>
-        <id>https://thedefiant.io/news/markets/crypto-liquidations-near-1-billion-24-hours-g13uhz</id>
-        <link href="https://thedefiant.io/news/markets/crypto-liquidations-near-1-billion-24-hours-g13uhz"/>
-        <updated>2026-05-28T12:34:41.000Z</updated>
-        <summary type="html"><![CDATA[Nearly $934 million in crypto positions liquidated across 167,400 trader accounts, with Bitcoin and Ethereum taking the heaviest losses amid market volatility.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Buterin Endorses Interfold, Privacy Protocol for On-Chain Voting and Secret Auctions]]></title>
-        <id>https://thedefiant.io/news/people/vitalik-buterin-endorses-interfold-privacy-protocol-voting-auctions-m4ldfh</id>
-        <link href="https://thedefiant.io/news/people/vitalik-buterin-endorses-interfold-privacy-protocol-voting-auctions-m4ldfh"/>
-        <updated>2026-05-28T11:53:04.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum co-founder Vitalik Buterin highlighted Interfold, a privacy protocol combining zero-knowledge proofs, fully homomorphic encryption, and threshold encryption for secure on-chain voting and auctions.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cash App Goes Live With Fee-Free USDC Transfers, Framing Stablecoins as a Path to Bitcoin]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/cash-app-goes-live-with-fee-free-usdc-transfers-framing-stablecoins-as-a-path-to-bitcoin</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/cash-app-goes-live-with-fee-free-usdc-transfers-framing-stablecoins-as-a-path-to-bitcoin"/>
-        <updated>2026-05-27T21:49:59.000Z</updated>
-        <summary type="html"><![CDATA[Block's payments app, home to 59 million monthly active users, now supports sending and receiving USDC across four blockchain networks with no wallet setup required, even as Jack Dorsey admits he doesn't like it.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenZeppelin Pushes Back After Ex-CTO Declares All of DeFi Unsafe]]></title>
-        <id>https://thedefiant.io/news/hacks/openzeppelin-pushes-back-after-ex-cto-declares-all-of-defi-unsafe</id>
-        <link href="https://thedefiant.io/news/hacks/openzeppelin-pushes-back-after-ex-cto-declares-all-of-defi-unsafe"/>
-        <updated>2026-05-27T18:46:53.000Z</updated>
-        <summary type="html"><![CDATA[The smart contract security firm distanced itself from Manuel Aráoz's warning that AI coding agents have made DeFi impossible to defend, calling the threat real but manageable.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

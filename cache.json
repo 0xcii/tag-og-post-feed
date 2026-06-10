@@ -50,6 +50,51 @@
           "imageUrl": "https://cdn.thedefiant.io/house-jpg-e7222e50-21cb-41b6-a371-50309fc59f46.jpg"
         },
         {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/binance-stock-trading-first-week-emerging-markets",
+          "author": "The Defiant Team",
+          "description": "Binance's direct stock-trading platform drew more than 80% of its first-week volume from emerging markets, with assets under management crossing $400 million within seven days. The 2% share of TradFi-referenced perpetuals volume positions the June 1 launch as a distribution play for underserved",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/binance-stock-trading-first-week-emerging-markets",
+          "publishedOn": "2026-06-10T20:34:40.000Z",
+          "wordCount": null,
+          "title": "Binance Stock Trading Draws 84% of First-Week Volume From Emerging Markets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/83bdf572c6128b8941347d7d33dea6c2e9de98ee-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/83bdf572c6128b8941347d7d33dea6c2e9de98ee-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/kalshi-insider-trading-investigations-q1-employer-checks",
+          "author": "The Defiant Team",
+          "description": "Kalshi opened more than 150 insider-trading investigations in the first quarter of 2026, blocked over 100 potential insider trades, and referred at least 20 cases to law enforcement. The CFTC-regulated prediction market paired the numbers Tuesday with a new risk-scoring framework,",
+          "link": "https://thedefiant.io/news/regulation/kalshi-insider-trading-investigations-q1-employer-checks",
+          "publishedOn": "2026-06-10T19:50:18.000Z",
+          "wordCount": null,
+          "title": "Kalshi Reports 150+ Insider-Trading Investigations in Q1, Rolls Out Employer Checks for High-Risk Markets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/91d11c2d3e8dd77b27bb943901d8505fceff8ad4-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/91d11c2d3e8dd77b27bb943901d8505fceff8ad4-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/regulation/doj-opens-debanking-probe-jpmorgan-bank-of-america-wells-fargo",
+          "author": "The Defiant Team",
+          "description": "Federal prosecutors have subpoenaed JPMorgan Chase, Bank of America and Wells Fargo, examining whether banks unlawfully terminated customer accounts for political reasons. The probe directly validates the crypto industry's Operation Chokepoint 2.0 grievances.",
+          "link": "https://thedefiant.io/converge/regulation/doj-opens-debanking-probe-jpmorgan-bank-of-america-wells-fargo",
+          "publishedOn": "2026-06-10T19:45:00.000Z",
+          "wordCount": null,
+          "title": "DOJ Opens Debanking Probe Into JPMorgan, Bank of America and Wells Fargo",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/37379e26a47310fb38326c736d553357375ae010-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/37379e26a47310fb38326c736d553357375ae010-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/people/on-chain-tracking-revives-allegations-that-hoskinson-sold-1-5b-ada-in-the-2021-rally",
           "author": "The Defiant Team",
           "description": "An NFT creator published a thread claiming to trace large ADA flows to IOG-linked stake pool pledges from the 2021 bull market. Cardano's founder has made no public statement in response to the new analysis. ADA is down 42% over the past 30 days.",
@@ -78,6 +123,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f48dcb218cf2c1448f8c26864dca98f17e1f873e-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/raydium-drained-1-3m-attacker-bridges-ethereum-tornado-cash",
+          "author": "The Defiant Team",
+          "description": "Raydium core contributor Infra confirmed Wednesday that an attacker drained ~$1.34M from the legacy AMM V3 program, a contract phased out in 2021. Current users were unaffected, the treasury will cover full compensation, and the root cause was a self-contained LP-mint validation flaw. PeckShield",
+          "link": "https://thedefiant.io/news/hacks/raydium-drained-1-3m-attacker-bridges-ethereum-tornado-cash",
+          "publishedOn": "2026-06-10T16:34:23.000Z",
+          "wordCount": null,
+          "title": "Raydium Confirms $1.34M Drain on Deprecated AMM V3, Pledges Treasury Compensation",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/70faa1d95acf8077dba53983875122749421b8f3-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/70faa1d95acf8077dba53983875122749421b8f3-2048x1152.png"
         },
         {
           "id": "https://thedefiant.io/news/blockchains/hyli-winds-down-zk-blockchain-project-zk-traction",
@@ -1463,66 +1523,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d580d2af63e0e8e24d1df8b196762799afd08aaf-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/crypto-liquidations-near-1-billion-24-hours-g13uhz",
-          "author": "The Defiant Team",
-          "description": "Nearly $934 million in crypto positions liquidated across 167,400 trader accounts, with Bitcoin and Ethereum taking the heaviest losses amid market volatility.",
-          "link": "https://thedefiant.io/news/markets/crypto-liquidations-near-1-billion-24-hours-g13uhz",
-          "publishedOn": "2026-05-28T12:34:41.000Z",
-          "wordCount": null,
-          "title": "Crypto Liquidations Near $1 Billion in 24 Hours as Leverage Unwinds",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2d5361f143321993ae60509ed482321d4e4a159e-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2d5361f143321993ae60509ed482321d4e4a159e-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/people/vitalik-buterin-endorses-interfold-privacy-protocol-voting-auctions-m4ldfh",
-          "author": "The Defiant Team",
-          "description": "Ethereum co-founder Vitalik Buterin highlighted Interfold, a privacy protocol combining zero-knowledge proofs, fully homomorphic encryption, and threshold encryption for secure on-chain voting and auctions.",
-          "link": "https://thedefiant.io/news/people/vitalik-buterin-endorses-interfold-privacy-protocol-voting-auctions-m4ldfh",
-          "publishedOn": "2026-05-28T11:53:04.000Z",
-          "wordCount": null,
-          "title": "Vitalik Buterin Endorses Interfold, Privacy Protocol for On-Chain Voting and Secret Auctions",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8b2035feaa81a8fecb1a72f32de0f34808a2a46c-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8b2035feaa81a8fecb1a72f32de0f34808a2a46c-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/cash-app-goes-live-with-fee-free-usdc-transfers-framing-stablecoins-as-a-path-to-bitcoin",
-          "author": "The Defiant Team",
-          "description": "Block's payments app, home to 59 million monthly active users, now supports sending and receiving USDC across four blockchain networks with no wallet setup required, even as Jack Dorsey admits he doesn't like it.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/cash-app-goes-live-with-fee-free-usdc-transfers-framing-stablecoins-as-a-path-to-bitcoin",
-          "publishedOn": "2026-05-27T21:49:59.000Z",
-          "wordCount": null,
-          "title": "Cash App Goes Live With Fee-Free USDC Transfers, Framing Stablecoins as a Path to Bitcoin",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/cash-app-jpg-36d948a4-0651-4dd7-9950-824b392370c8.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/cash-app-jpg-36d948a4-0651-4dd7-9950-824b392370c8.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/openzeppelin-pushes-back-after-ex-cto-declares-all-of-defi-unsafe",
-          "author": "The Defiant Team",
-          "description": "The smart contract security firm distanced itself from Manuel Aráoz's warning that AI coding agents have made DeFi impossible to defend, calling the threat real but manageable.",
-          "link": "https://thedefiant.io/news/hacks/openzeppelin-pushes-back-after-ex-cto-declares-all-of-defi-unsafe",
-          "publishedOn": "2026-05-27T18:46:53.000Z",
-          "wordCount": null,
-          "title": "OpenZeppelin Pushes Back After Ex-CTO Declares All of DeFi Unsafe",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/openzeppelin-jpg-9a83eb5e-c94b-4f0c-a5db-00e58067de3b.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/openzeppelin-jpg-9a83eb5e-c94b-4f0c-a5db-00e58067de3b.jpg"
         }
       ]
     }
