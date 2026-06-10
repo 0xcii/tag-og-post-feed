@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-10T09:58:16.618Z</id>
+    <id>urn:2026-06-10T13:36:32.659Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-10T09:58:16.618Z</updated>
+    <updated>2026-06-10T13:36:32.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1012,15 +1012,6 @@
         <summary type="html"><![CDATA[MicroStrategy's Michael Saylor announced the company purchased bonds this week despite holding 843,738 BTC worth $65 billion, signaling a tactical shift in the corporate treasury strategy.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Butterfly Touch]]></title>
-        <id>https://medium.com/p/d06d7da26214</id>
-        <link href="https://cryptohayes.medium.com/the-butterfly-touch-d06d7da26214?source=rss-2f6e06954878------2"/>
-        <updated>2026-05-11T23:01:01.000Z</updated>
-        <author>
-            <name>Arthur Hayes</name>
         </author>
     </entry>
 </feed>
