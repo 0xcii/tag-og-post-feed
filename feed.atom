@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-19T19:52:20.605Z</id>
+    <id>urn:2026-06-19T21:09:32.749Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-19T19:52:20.605Z</updated>
+    <updated>2026-06-19T21:09:32.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tom Lee Says 'Zero Chance' of Ethereum Funding Crisis as Insider Warns of $30M Gap]]></title>
+        <id>https://thedefiant.io/news/blockchains/tom-lee-says-zero-chance-of-ethereum-funding-crisis-as-insider-warns-of-usd30m-gap</id>
+        <link href="https://thedefiant.io/news/blockchains/tom-lee-says-zero-chance-of-ethereum-funding-crisis-as-insider-warns-of-usd30m-gap"/>
+        <updated>2026-06-19T19:56:05.000Z</updated>
+        <summary type="html"><![CDATA[The chairman of BitMine, the largest corporate holder of Ether, brushed off a former Ethereum Foundation contributor's warning that core development could run short of money within nine months.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sonic Labs Founders Including Andre Cronje Quit Board as New CEO Pledges to Get '1% Better' Daily]]></title>
         <id>https://thedefiant.io/news/blockchains/sonic-labs-founders-including-andre-cronje-quit-board-as-new-ceo-pledges-to-get-1-better-daily</id>
@@ -1011,16 +1021,6 @@
         <updated>2026-06-08T23:01:01.000Z</updated>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitMine Buys 126,971 ETH for $207M at $1,630 Average as Prices Hit June Low]]></title>
-        <id>https://thedefiant.io/news/markets/bitmine-buys-126971-eth-207m-1630-average-prices-hit-june-low</id>
-        <link href="https://thedefiant.io/news/markets/bitmine-buys-126971-eth-207m-1630-average-prices-hit-june-low"/>
-        <updated>2026-06-08T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[BitMine Immersion Technologies acquired 126,971 ETH for approximately $207 million last week at an average of $1,630 per token, its largest weekly purchase of 2026, lifting its total treasury to 5.54 million ETH, equal to 4.59% of Ethereum's circulating supply.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
 </feed>
