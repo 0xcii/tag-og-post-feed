@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-19T15:14:20.802Z</id>
+    <id>urn:2026-06-19T17:56:44.619Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-19T15:14:20.802Z</updated>
+    <updated>2026-06-19T17:56:44.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Plugs Coinbase's x402 Into CloudFront, Letting Publishers Charge AI Agents in USDC]]></title>
+        <id>https://thedefiant.io/news/defi/aws-cloudfront-coinbase-x402-ai-agents-usdc-base</id>
+        <link href="https://thedefiant.io/news/defi/aws-cloudfront-coinbase-x402-ai-agents-usdc-base"/>
+        <updated>2026-06-19T17:22:27.000Z</updated>
+        <summary type="html"><![CDATA[AWS turned on AI traffic monetization inside AWS WAF on Monday, letting any site behind Amazon CloudFront charge AI agents per request in USDC through Coinbase's x402 protocol. It is the first time a hyperscale cloud has wired onchain settlement into its content-delivery edge.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLARITY Act Reaches Senate Floor With House Ready to Move Fast; Seven-Democrat Math Becomes the Gate]]></title>
+        <id>https://thedefiant.io/news/regulation/clarity-act-senate-floor-seven-democrat-math-house-fast-follow</id>
+        <link href="https://thedefiant.io/news/regulation/clarity-act-senate-floor-seven-democrat-math-house-fast-follow"/>
+        <updated>2026-06-19T16:24:53.000Z</updated>
+        <summary type="html"><![CDATA[The Digital Asset Market Clarity Act sits on the Senate calendar eligible for a floor vote, with House Agriculture digital-assets subcommittee chair Dusty Johnson signaling a fast House companion. The bill needs at least seven Democratic votes to clear the 60-vote cloture threshold before the]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CME Group to Sue CFTC Over Perpetual Futures Approval, Citing Dodd-Frank Swaps Definition]]></title>
+        <id>https://thedefiant.io/news/regulation/cme-group-sue-cftc-perpetual-futures-approval-dodd-frank-swaps-definition</id>
+        <link href="https://thedefiant.io/news/regulation/cme-group-sue-cftc-perpetual-futures-approval-dodd-frank-swaps-definition"/>
+        <updated>2026-06-19T16:23:26.000Z</updated>
+        <summary type="html"><![CDATA[The world's largest derivatives exchange operator said Wednesday it will sue the CFTC over the agency's approval of Kalshi's bitcoin perpetual futures, arguing the contracts should be classified as swaps under the Dodd-Frank Act.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fable's Shutdown Hands Crypto Its Case for Decentralized AI]]></title>
         <id>https://thedefiant.io/news/blockchains/fable-s-shutdown-hands-crypto-its-case-for-decentralized-ai</id>
@@ -989,36 +1019,6 @@
         <link href="https://thedefiant.io/converge/cefi/bybit-kraken-xstocks-spacex-tokenized-equity-pre-ipo-derivatives-four-venues"/>
         <updated>2026-06-08T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bybit and Kraken both launched 1:1 equity-backed SpaceX exposure via xStocks, joining Coinbase International and BitMEX in a four-venue race that now splits between synthetic perpetuals and regulated tokenized equity issued by Backed Assets (JE) Limited.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy Buys 1,550 BTC for $101M One Week After Selling 32, Cash Reserve Hits $1B]]></title>
-        <id>https://thedefiant.io/news/markets/strategy-buys-1550-btc-101m-one-week-after-selling-32-cash-reserve-1b</id>
-        <link href="https://thedefiant.io/news/markets/strategy-buys-1550-btc-101m-one-week-after-selling-32-cash-reserve-1b"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Strategy purchased 1,550 bitcoin for $101.3 million between June 1 and 7, one week after its first BTC sale since 2022. Cash reserve reached $1 billion.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PiggyBank's LAB Hedge Fails, Cutting USDC Vault NAV by 15%]]></title>
-        <id>https://thedefiant.io/news/defi/piggybanks-lab-hedge-fails-cutting-usdc-vault-nav-by-15-percent</id>
-        <link href="https://thedefiant.io/news/defi/piggybanks-lab-hedge-fails-cutting-usdc-vault-nav-by-15-percent"/>
-        <updated>2026-06-08T15:53:06.000Z</updated>
-        <summary type="html"><![CDATA[A Solana yield protocol's bet on a contested mid-cap token turned a dollar-stable vault into one nursing double-digit losses. Depositors are waiting on a promised post-mortem.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arthur Hayes Dumps Worldcoin Days After Maelstrom Pitched Its AI IPO Trade]]></title>
-        <id>https://thedefiant.io/news/people/arthur-hayes-dumps-worldcoin-days-after-maelstrom-pitched-ai-ipo-trade</id>
-        <link href="https://thedefiant.io/news/people/arthur-hayes-dumps-worldcoin-days-after-maelstrom-pitched-ai-ipo-trade"/>
-        <updated>2026-06-08T15:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Arthur Hayes sold his entire WLD position on June 6, less than three days after Maelstrom publicly pitched Worldcoin as a liquid AI IPO play — ending his full portfolio exit sequence across HYPE, NEAR, ZEC, and WLD.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
