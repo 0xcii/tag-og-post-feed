@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-19T17:56:44.619Z</id>
+    <id>urn:2026-06-19T19:52:20.605Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-19T17:56:44.619Z</updated>
+    <updated>2026-06-19T19:52:20.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sonic Labs Founders Including Andre Cronje Quit Board as New CEO Pledges to Get '1% Better' Daily]]></title>
+        <id>https://thedefiant.io/news/blockchains/sonic-labs-founders-including-andre-cronje-quit-board-as-new-ceo-pledges-to-get-1-better-daily</id>
+        <link href="https://thedefiant.io/news/blockchains/sonic-labs-founders-including-andre-cronje-quit-board-as-new-ceo-pledges-to-get-1-better-daily"/>
+        <updated>2026-06-19T19:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Andre Cronje, Michael Kong and David Richardson are stepping down from the board of the Layer 1 blockchain, whose token has fallen about 97% from its peak, as Matt Visser takes over as CEO]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Plugs Coinbase's x402 Into CloudFront, Letting Publishers Charge AI Agents in USDC]]></title>
         <id>https://thedefiant.io/news/defi/aws-cloudfront-coinbase-x402-ai-agents-usdc-base</id>
@@ -31,6 +41,16 @@
         <link href="https://thedefiant.io/news/regulation/cme-group-sue-cftc-perpetual-futures-approval-dodd-frank-swaps-definition"/>
         <updated>2026-06-19T16:23:26.000Z</updated>
         <summary type="html"><![CDATA[The world's largest derivatives exchange operator said Wednesday it will sue the CFTC over the agency's approval of Kalshi's bitcoin perpetual futures, arguing the contracts should be classified as swaps under the Dodd-Frank Act.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation Loses Second Co-Executive Director as Hsiao-Wei Wang Steps Down]]></title>
+        <id>https://thedefiant.io/news/people/ethereum-foundation-hsiao-wei-wang-resigns-co-executive-director</id>
+        <link href="https://thedefiant.io/news/people/ethereum-foundation-hsiao-wei-wang-resigns-co-executive-director"/>
+        <updated>2026-06-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hsiao-Wei Wang resigned as co-executive director and board member of the Ethereum Foundation on Thursday after a sabbatical, the second co-ED exit at the Switzerland-based nonprofit in four months and the latest in a five-month wave of senior departures.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -999,26 +1019,6 @@
         <link href="https://thedefiant.io/news/markets/bitmine-buys-126971-eth-207m-1630-average-prices-hit-june-low"/>
         <updated>2026-06-08T16:30:00.000Z</updated>
         <summary type="html"><![CDATA[BitMine Immersion Technologies acquired 126,971 ETH for approximately $207 million last week at an average of $1,630 per token, its largest weekly purchase of 2026, lifting its total treasury to 5.54 million ETH, equal to 4.59% of Ethereum's circulating supply.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask Launches Agent Wallet in Early Access, Giving AI Agents Self-Custody Acces]]></title>
-        <id>https://thedefiant.io/news/defi/metamask-launches-agent-wallet-in-early-access-giving-ai-agents-self-custody-acces</id>
-        <link href="https://thedefiant.io/news/defi/metamask-launches-agent-wallet-in-early-access-giving-ai-agents-self-custody-acces"/>
-        <updated>2026-06-08T16:21:38.000Z</updated>
-        <summary type="html"><![CDATA[The Consensys-owned wallet provider opened early access Monday for autonomous AI agents to trade across 25+ EVM chains and Hyperliquid, with transaction simulation and $10,000 in loss coverage as the security pitch.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit and Kraken Add xStocks SpaceX Tokenized Equity as Pre-IPO Derivatives Race Reaches Four Venues]]></title>
-        <id>https://thedefiant.io/converge/cefi/bybit-kraken-xstocks-spacex-tokenized-equity-pre-ipo-derivatives-four-venues</id>
-        <link href="https://thedefiant.io/converge/cefi/bybit-kraken-xstocks-spacex-tokenized-equity-pre-ipo-derivatives-four-venues"/>
-        <updated>2026-06-08T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bybit and Kraken both launched 1:1 equity-backed SpaceX exposure via xStocks, joining Coinbase International and BitMEX in a four-venue race that now splits between synthetic perpetuals and regulated tokenized equity issued by Backed Assets (JE) Limited.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
