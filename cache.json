@@ -46,6 +46,96 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-foundation-csa-execution-plan-mev-privacy-eth-pay",
+          "author": "The Defiant Team",
+          "description": "Aerugo, the Ethereum Foundation’s Chief Strategy Advisor, outlined how EF will implement its new mandate: treating MEV extraction as a structural threat, making privacy a protocol default, and moving EF compensation into ETH and Ethereum-native stablecoins.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-csa-execution-plan-mev-privacy-eth-pay",
+          "publishedOn": "2026-06-22T18:32:27.000Z",
+          "wordCount": null,
+          "title": "Ethereum Foundation’s CSA Lays Out Execution Plan: MEV Elimination, Default Privacy, ETH Pay",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/31b96425a6dc3bb2b714779ea34d72d2bd3c9023-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/31b96425a6dc3bb2b714779ea34d72d2bd3c9023-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/people/five-former-ef-researchers-launch-ethlabs-independent-nonprofit-rd-lab-ethereum",
+          "author": "The Defiant Team",
+          "description": "Ansgar Dietrichs, Barnabé Monnot, Caspar Schwarz-Schilling, Josh Rudolf, and Julian Ma have launched Ethlabs, an independent non-profit R&D lab backed by Bitmine, Sharplink, and Consensys founder Joe Lubin, with a thesis that Ethereum will become the universal onchain settlement layer.",
+          "link": "https://thedefiant.io/news/people/five-former-ef-researchers-launch-ethlabs-independent-nonprofit-rd-lab-ethereum",
+          "publishedOn": "2026-06-22T18:02:18.000Z",
+          "wordCount": null,
+          "title": "Five Former EF Researchers Launch Ethlabs, an Independent Non-Profit R&D Lab for Ethereum",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f741c930c5278b2b1e7b76cb08c2cd7cb9ff6218-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f741c930c5278b2b1e7b76cb08c2cd7cb9ff6218-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-closes-250-digital-launches-franklin-crypto",
+          "author": "The Defiant Team",
+          "description": "The $1.78 trillion asset manager stands up a dedicated institutional crypto unit, extending a platform that already includes the BENJI tokenized money-market fund and a proposed pair of dividend-into-bitcoin ETFs.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-closes-250-digital-launches-franklin-crypto",
+          "publishedOn": "2026-06-22T17:31:09.000Z",
+          "wordCount": null,
+          "title": "Franklin Templeton Closes 250 Digital Acquisition, Launches Franklin Crypto for Institutional Allocators",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/15c7ad39b8284331857cf97950e7c247210c7858-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/15c7ad39b8284331857cf97950e7c247210c7858-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/wsj-1-9m-fake-bets-polymarket-creator-videos",
+          "author": "The Defiant Team",
+          "description": "A Wall Street Journal investigation found that roughly $1.9 million in bets shown across more than 1,100 creator videos promoting Polymarket were not real, part of a paid influencer program in which creators filmed fake trades on dummy versions of the platform.",
+          "link": "https://thedefiant.io/news/defi/wsj-1-9m-fake-bets-polymarket-creator-videos",
+          "publishedOn": "2026-06-22T17:13:11.000Z",
+          "wordCount": null,
+          "title": "WSJ: $1.9M in Fake Bets Propped Up Polymarket Creator Videos",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/da3968b7e1b1194c5ceb74f65af329c028e763e9-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/da3968b7e1b1194c5ceb74f65af329c028e763e9-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/re7-labs-223k-usdc-compensation-pool-usr-exploit-victims",
+          "author": "The Defiant Team",
+          "description": "Re7 Labs opened a 223,000 USDC compensation pool for wallets affected by the March exploit of Resolv Labs' USR stablecoin. The Morpho curator joins Gauntlet, which opened a 4.37 million USDC payout earlier this month, in publishing claim mechanics.",
+          "link": "https://thedefiant.io/news/defi/re7-labs-223k-usdc-compensation-pool-usr-exploit-victims",
+          "publishedOn": "2026-06-22T16:09:04.000Z",
+          "wordCount": null,
+          "title": "Re7 Labs Opens $223K USDC Compensation Pool for USR Exploit Victims",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d271961821a2a7931a7dd54458ebdf353d897c4f-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d271961821a2a7931a7dd54458ebdf353d897c4f-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/world-liberty-financial-usd1-supply-grows-9-percent-week-485b",
+          "author": "The Defiant Team",
+          "description": "USD1's circulating supply expanded 9.7% over the past seven days to $4.85 billion, a 100th-percentile move that pushes the World Liberty Financial-issued stablecoin past Sky's USDS in net weekly inflows.",
+          "link": "https://thedefiant.io/news/markets/world-liberty-financial-usd1-supply-grows-9-percent-week-485b",
+          "publishedOn": "2026-06-22T15:54:01.000Z",
+          "wordCount": null,
+          "title": "World Liberty Financial's USD1 Supply Grows 9.7% in a Week to $4.85 Billion",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5b25a5ad14cb6fc31251990db8e2808b92727f6c-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5b25a5ad14cb6fc31251990db8e2808b92727f6c-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/converge/regulation/1200-tech-companies-clarity-act-lummis-absurdity-developers",
           "author": "The Defiant Team",
           "description": "The Consumer Technology Association, representing more than 1,200 firms including Amazon, Apple and Google, urged the Senate to pass the CLARITY Act without delay. Senator Cynthia Lummis followed with an on-record statement that the bill ends the 'absurdity' of developers needing lawyers to know",
@@ -104,6 +194,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/023824224d0107781ac9ef3a6e57b8a60b4c955d-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/hashflare-scam-wallet-moves-10600-eth-18m-zachxbt-dormant",
+          "author": "The Defiant Team",
+          "description": "An Ethereum address tied to the HashFlare cloud-mining Ponzi moved 10,600 ETH worth about $18.5 million on Monday morning after sitting idle for roughly three and a half years. Onchain investigator ZachXBT, with help from security firm Cyvers, flagged the movement, the first activity from the",
+          "link": "https://thedefiant.io/news/hacks/hashflare-scam-wallet-moves-10600-eth-18m-zachxbt-dormant",
+          "publishedOn": "2026-06-22T14:34:12.000Z",
+          "wordCount": null,
+          "title": "Dormant Wallet Tied to HashFlare Fraud Moves 10,600 ETH Worth $18.5M",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/hashflare-jpg-b6606a29-16f7-4738-b8ed-f4445d895529.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/hashflare-jpg-b6606a29-16f7-4738-b8ed-f4445d895529.jpg"
         },
         {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/andrew-cuomo-co-chair-okx-ice-crypto-joint-venture",
@@ -736,6 +841,21 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f587c57d7f8bad130e5cbcf6caa995f65ac9f0f2-2048x1152.png"
         },
         {
+          "id": "https://thedefiant.io/converge/defi/exodus-ondo-tokenized-stocks-etfs-self-custody-wallet-solana",
+          "author": "The Defiant Team",
+          "description": "The partnership routes Ondo Global Markets equity tokens into Exodus's non-custodial app on Solana, putting a full tokenized-equity menu inside a self-custody wallet. US users are excluded.",
+          "link": "https://thedefiant.io/converge/defi/exodus-ondo-tokenized-stocks-etfs-self-custody-wallet-solana",
+          "publishedOn": "2026-06-15T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Exodus Puts 200-Plus Tokenized Stocks and ETFs Inside Its Self-Custody Wallet via Ondo",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6fa7ca3a20d1c313eb8291607c295c4608a0cefb-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6fa7ca3a20d1c313eb8291607c295c4608a0cefb-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/strategy-buys-1-587-bitcoin-for-100m-below-its-blended-cost-basis-lifting-stack-to-846-842-btc",
           "author": "The Defiant Team",
           "description": "Michael Saylor's firm paid an average $63,024 a coin this week, roughly 17% under the $75,656 it has paid across its entire 846,842-BTC treasury.",
@@ -1111,6 +1231,21 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/55948dbcf98d4da81fc0fce4e2447dee3abade4d-2048x1152.png"
         },
         {
+          "id": "https://thedefiant.io/news/defi/ic3-paper-finds-most-ai-agent-platforms-no-evidence-autonomous-on-chain-trading",
+          "author": "The Defiant Team",
+          "description": "New IC3 research finds most AI-agent crypto platforms show no clear evidence of autonomous trade execution, despite combined token valuations exceeding $3 billion. The paper covers 1,900+ surveyed projects and finds token holders lost $191.7M collectively while the top 1% captured 81.4% of gains.",
+          "link": "https://thedefiant.io/news/defi/ic3-paper-finds-most-ai-agent-platforms-no-evidence-autonomous-on-chain-trading",
+          "publishedOn": "2026-06-11T19:27:00.000Z",
+          "wordCount": null,
+          "title": "IC3 Paper Finds Most AI Agent Platforms Show No Evidence of Autonomous On-Chain Trading",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/210ab44f0879c55276ba9180f885579916c46f65-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/210ab44f0879c55276ba9180f885579916c46f65-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/coinbase-usdc-lending-vaults-morpho-steakhouse-ethena-risk-tier",
           "author": "The Defiant Team",
           "description": "Coinbase has launched two onchain USDC lending vaults built on Morpho and curated by Steakhouse Financial: a conservative Prime tier backed by BTC and ETH collateral, and a Higher Yield tier drawing on Ethena-powered assets.",
@@ -1409,141 +1544,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-afcb419a-f4f1-4c8c-b40e-e1c6f13194bf.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/humanity-protocol-post-mortem-malware-developer-machine-seven-keys",
-          "author": "The Defiant Team",
-          "description": "A forensic report from Humanity Protocol found a single malware-infected developer machine held backups of seven private keys, giving an attacker full control over both its Ethereum and BNB Smart Chain infrastructure.",
-          "link": "https://thedefiant.io/news/hacks/humanity-protocol-post-mortem-malware-developer-machine-seven-keys",
-          "publishedOn": "2026-06-10T13:45:00.000Z",
-          "wordCount": null,
-          "title": "Humanity Protocol Traces $36M Hack to Single Malware-Infected Machine That Held Seven Keys",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6807e3959a97f7665ad8a815c425820a966e4c2c-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6807e3959a97f7665ad8a815c425820a966e4c2c-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/japan-megabanks-mufg-mizuho-and-smbc-establish-joint-stablecoin-council",
-          "author": "The Defiant Team",
-          "description": "Japan’s three largest banks have formalized their stablecoin ambitions, forming a joint council to govern infrastructure and governance for a yen-denominated stablecoin targeting live transactions by the end of Japan’s fiscal year.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/japan-megabanks-mufg-mizuho-and-smbc-establish-joint-stablecoin-council",
-          "publishedOn": "2026-06-10T13:26:37.000Z",
-          "wordCount": null,
-          "title": "Japan Megabanks MUFG, Mizuho, and SMBC Establish Joint Stablecoin Council",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/japan-banks-jpg-742a1159-6b49-4948-a3f6-b90ec26c7595.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/japan-banks-jpg-742a1159-6b49-4948-a3f6-b90ec26c7595.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/botanix-shuts-down-bitcoin-l2-spiderchain-after-four-years",
-          "author": "The Defiant Team",
-          "description": "Polychain-backed Botanix Labs is winding down its Spiderchain Bitcoin Layer 2 after a year of mainnet operation, citing insufficient demand for Bitcoin-native DeFi. Users have until July 9 to withdraw assets.",
-          "link": "https://thedefiant.io/news/blockchains/botanix-shuts-down-bitcoin-l2-spiderchain-after-four-years",
-          "publishedOn": "2026-06-10T13:21:43.000Z",
-          "wordCount": null,
-          "title": "Botanix Shuts Down Bitcoin L2 Spiderchain After Four Years",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5950a774125c0070ddae4eb85f32d0b78caa0a30-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5950a774125c0070ddae4eb85f32d0b78caa0a30-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/people/lubin-labeled-wallet-adds-110-000-eth-to-sky-vaults-backing-usd259m-dai-debt",
-          "author": "The Defiant Team",
-          "description": "A genesis-block Ethereum wallet labeled \"Joseph Lubin?\" by Arkham Intelligence deposited 110,000 ETH into three Sky Finance vaults on Friday, shoring up collateral behind $259M in DAI debt as ETH fell sharply. Neither Lubin nor ConsenSys has made any public statement on ownership of the address.",
-          "link": "https://thedefiant.io/news/people/lubin-labeled-wallet-adds-110-000-eth-to-sky-vaults-backing-usd259m-dai-debt",
-          "publishedOn": "2026-06-09T18:00:00.000Z",
-          "wordCount": null,
-          "title": "Lubin-Labeled Wallet Adds 110,000 ETH to Sky Vaults Backing $259M DAI Debt",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/555b1d47eccb7ebf3ff73be80fa5311afebe405e-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/555b1d47eccb7ebf3ff73be80fa5311afebe405e-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/polymarket-world-cup-winner-markets-1-8b-volume-france-spain",
-          "author": "The Defiant Team",
-          "description": "Polymarket's 2026 FIFA World Cup prediction markets have accumulated more than $1.8 billion in cumulative trading volume as the tournament's group stage gets underway, with France and Spain trading as the narrowest co-favorites.",
-          "link": "https://thedefiant.io/news/defi/polymarket-world-cup-winner-markets-1-8b-volume-france-spain",
-          "publishedOn": "2026-06-09T17:59:37.000Z",
-          "wordCount": null,
-          "title": "Polymarket World Cup Winner Markets Cross $1.8B in Volume as France-Spain Group Stage Opens",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b4982886f5729770c7cfdec1ef4cff1ef1553f38-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b4982886f5729770c7cfdec1ef4cff1ef1553f38-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/citrini-research-hyperliquid-compelling-investment-buybacks",
-          "author": "The Defiant Team",
-          "description": "Citrini Research, known for moving AI equities with its reports, published an analysis calling Hyperliquid compelling, citing the protocol's Assistance Fund directing more than 90% of fees to HYPE buybacks and its command of close to half of all crypto token buyback activity this year.",
-          "link": "https://thedefiant.io/news/markets/citrini-research-hyperliquid-compelling-investment-buybacks",
-          "publishedOn": "2026-06-09T17:45:00.000Z",
-          "wordCount": null,
-          "title": "Citrini Research Calls Hyperliquid a Compelling Investment, Citing Nearly Half of All Crypto Token Buybacks",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0231576e64fc23661db59b47ec406d8f34579ecf-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0231576e64fc23661db59b47ec406d8f34579ecf-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/people/arthur-hayes-bitcoin-wont-rally-until-ai-bubble-bursts",
-          "author": "The Defiant Team",
-          "description": "Arthur Hayes published a macro thesis arguing Bitcoin cannot rally until the AI stock bubble deflates, citing $1.5 trillion in AI debt issuance that absorbed the liquidity Bitcoin needed. He exited HYPE, NEAR, WLD, and ZEC and rotated Maelstrom's equity book into US energy producers.",
-          "link": "https://thedefiant.io/news/people/arthur-hayes-bitcoin-wont-rally-until-ai-bubble-bursts",
-          "publishedOn": "2026-06-09T17:40:00.000Z",
-          "wordCount": null,
-          "title": "Arthur Hayes Says Bitcoin Cannot Rally Until the AI Bubble Bursts",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a3a2b87e0ee0d75fef7f6b40e6b25fea44b86d98-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a3a2b87e0ee0d75fef7f6b40e6b25fea44b86d98-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-proposes-protocol-wide-risk-framework-after-kelpdao-exploit",
-          "author": "The Defiant Team",
-          "description": "LlamaRisk has submitted two Aave governance proposals covering a four-layer protocol-wide risk standard and a PT oracle upgrade to Chainlink CRE. Founder Stani Kulechov says assets that fail the new standard will be off-boarded.",
-          "link": "https://thedefiant.io/news/defi/aave-proposes-protocol-wide-risk-framework-after-kelpdao-exploit",
-          "publishedOn": "2026-06-09T17:39:47.000Z",
-          "wordCount": null,
-          "title": "Aave Proposes Protocol-Wide Risk Framework After KelpDAO Exploit",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/189a8f716314ba2efed3730c52e82371bcc95c71-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/189a8f716314ba2efed3730c52e82371bcc95c71-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/cefi/okx-magnificent-7-stocks-commodities-european-x-perps",
-          "author": "The Defiant Team",
-          "description": "OKX launched 13 new X-Perps markets in Europe on Monday, adding perpetual futures on all seven Magnificent 7 stocks, gold, silver, oil benchmarks, SPY, and QQQ with 24/7 trading and up to 10x leverage.",
-          "link": "https://thedefiant.io/converge/cefi/okx-magnificent-7-stocks-commodities-european-x-perps",
-          "publishedOn": "2026-06-09T17:35:32.000Z",
-          "wordCount": null,
-          "title": "OKX Adds Magnificent 7 Stocks, Commodities to European X-Perps Lineup",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3e2fe730ed372c53b6f4d17111ecc9efffe497e2-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3e2fe730ed372c53b6f4d17111ecc9efffe497e2-2048x1152.png"
         }
       ]
     }
