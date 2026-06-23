@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-23T17:53:30.480Z</id>
+    <id>urn:2026-06-23T20:03:26.691Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-23T17:53:30.480Z</updated>
+    <updated>2026-06-23T20:03:26.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Securitize Wraps Roubini's SEC-Registered ETF as Dubai VARA Digital Security]]></title>
+        <id>https://thedefiant.io/converge/defi/securitize-wraps-roubini-sec-registered-etf-usafi-dubai-vara-digital-security</id>
+        <link href="https://thedefiant.io/converge/defi/securitize-wraps-roubini-sec-registered-etf-usafi-dubai-vara-digital-security"/>
+        <updated>2026-06-23T20:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Securitize has been selected to tokenize economist Nouriel Roubini's Atlas America Fund into USAFi, a digital security issued under Dubai's VARA regulatory framework with BNY custody, designed for 24/7 institutional-grade collateral portability.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENS DAO Delegates Call Foundation Proposal a Governance Attack as Johnson Self-Delegates]]></title>
+        <id>https://thedefiant.io/news/defi/ens-dao-delegates-governance-attack-johnson-self-delegates</id>
+        <link href="https://thedefiant.io/news/defi/ens-dao-delegates-governance-attack-johnson-self-delegates"/>
+        <updated>2026-06-23T20:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Multiple named delegates escalated opposition to the ENS Foundation empowerment temp check Monday, with Security Council member Brantly Millegan threatening a veto and ENS Labs founder Nick Johnson having self-delegated enough tokens to pass the proposal over their objections.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation Cuts 20% of Staff in Sweeping Reorganization]]></title>
+        <id>https://thedefiant.io/news/blockchains/ethereum-foundation-cuts-20-percent-staff-reorganization</id>
+        <link href="https://thedefiant.io/news/blockchains/ethereum-foundation-cuts-20-percent-staff-reorganization"/>
+        <updated>2026-06-23T19:57:36.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum Foundation has eliminated 54 positions, about 20% of its workforce, as part of a restructuring tied to its updated spending mandate. Vitalik Buterin announced a 40% annual budget cut targeting a reduction in treasury spend from 15% to 5% by 2030. Arkham Intelligence places EF's ETH]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aztec Tells V4 Users to Withdraw Before June 25 as V5 Upgrade Exposes Security Flaws]]></title>
+        <id>https://thedefiant.io/news/defi/aztec-v4-withdraw-june-25-v5-upgrade-security-vulnerability</id>
+        <link href="https://thedefiant.io/news/defi/aztec-v4-withdraw-june-25-v5-upgrade-security-vulnerability"/>
+        <updated>2026-06-23T18:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Aztec Network is urging Alpha V4 users to pull funds before June 25, when the V5 governance vote will publicly disclose the current version's critical proving-system vulnerability.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Foundation Cuts Budget 40% in Sweeping Restructuring]]></title>
         <id>https://thedefiant.io/news/blockchains/ethereum-foundation-cuts-20-of-staff-in-sweeping-reorganization</id>
@@ -966,52 +1006,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exclusive: Cardano Foundation Recasts Itself as Active Adoption Driver as Hoskinson Pulls Back]]></title>
-        <id>https://thedefiant.io/news/blockchains/exclusive-cardano-foundation-recasts-itself-as-active-adoption-driver-as-hoskinson-pulls-back</id>
-        <link href="https://thedefiant.io/news/blockchains/exclusive-cardano-foundation-recasts-itself-as-active-adoption-driver-as-hoskinson-pulls-back"/>
-        <updated>2026-06-11T17:05:02.000Z</updated>
-        <summary type="html"><![CDATA[The steward of the Cardano blockchain is seeding DeFi liquidity, backing an $80M venture fund and signing enterprise deals — a reversal of its hands-off posture that lands as onchain metrics fall and the network's founder feuds with it over governance.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Converts Stock Holdings Into On-Chain Tokens With bStocks Launch]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/binance-launches-bstocks-tokenized-us-equities-24-7-onchain-trading</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/binance-launches-bstocks-tokenized-us-equities-24-7-onchain-trading"/>
-        <updated>2026-06-11T16:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Binance has activated its tokenized-equity layer, converting live stock positions on its brokerage platform into BNB Chain tokens tradable around the clock. The first five bStocks include Nvidia, Tesla, Circle, Micron, and Sandisk.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brian Armstrong Says Coinbase Processes $1T in Stablecoin Payments Annually]]></title>
-        <id>https://thedefiant.io/news/cefi/brian-armstrong-says-coinbase-processes-usd1t-in-stablecoin-payments-annually</id>
-        <link href="https://thedefiant.io/news/cefi/brian-armstrong-says-coinbase-processes-usd1t-in-stablecoin-payments-annually"/>
-        <updated>2026-06-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong disclosed three platform-scale metrics on Thursday: approximately $1 trillion in annual stablecoin movement, $20 billion in USDC held on platform, and more than 160 million autonomous transactions via the x402 agentic payments protocol in the last year.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[115學年 心理諮商所 備考心得 (非本科錄取師大 國北教 南大）]]></title>
         <id>https://medium.com/p/ab07092d167a</id>
         <link href="https://traderbagel.medium.com/115%E5%AD%B8%E5%B9%B4-%E5%BF%83%E7%90%86%E8%AB%AE%E5%95%86%E6%89%80-%E5%82%99%E8%80%83%E5%BF%83%E5%BE%97-ab07092d167a?source=rss-9af65712cb1b------2"/>
         <updated>2026-06-11T13:03:22.000Z</updated>
         <author>
             <name>Tony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citi Rolls Out Tokenized Private-Company Shares for Wealth and Institutional Clients]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/citi-rolls-out-tokenized-private-company-shares-wealth-institutional-clients</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/citi-rolls-out-tokenized-private-company-shares-wealth-institutional-clients"/>
-        <updated>2026-06-11T13:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Citigroup is making tokenized interests in private companies available to wealth-management and institutional clients on SIX Digital Exchange, the Wall Street Journal reported. The bank has already completed its first transaction and is in talks with additional private firms.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
