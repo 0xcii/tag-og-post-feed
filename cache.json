@@ -46,6 +46,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/binance-tells-eu-users-wind-down-services-mica-deadline",
+          "author": "The Defiant Team",
+          "description": "Binance has begun notifying European Union customers it will restrict services after withdrawing its Greek MiCA application, realizing the EU-exit risk that surfaced earlier this month as the bloc's July 1 enforcement deadline nears.",
+          "link": "https://thedefiant.io/news/regulation/binance-tells-eu-users-wind-down-services-mica-deadline",
+          "publishedOn": "2026-06-26T15:17:49.000Z",
+          "wordCount": null,
+          "title": "Binance Tells EU Users It Will Wind Down Services as MiCA Deadline Hits",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5cf59641d0d3f1841b3de0a4889e993e2a0adec7-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5cf59641d0d3f1841b3de0a4889e993e2a0adec7-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/people/bitgo-cuts-15-percent-staff-ipo-stablecoins-ai",
+          "author": "The Defiant Team",
+          "description": "Crypto custodian BitGo is cutting approximately 15% of its workforce, CEO Mike Belshe announced Thursday, as the company refocuses on stablecoins, settlement, and AI infrastructure following a difficult post-IPO stretch.",
+          "link": "https://thedefiant.io/converge/people/bitgo-cuts-15-percent-staff-ipo-stablecoins-ai",
+          "publishedOn": "2026-06-26T15:16:16.000Z",
+          "wordCount": null,
+          "title": "BitGo Cuts Nearly 15% of Staff Six Months After IPO, Refocuses on Stablecoins and AI",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/28bfe91c78e2cafd1f4c971c12ce37ebf313c291-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/28bfe91c78e2cafd1f4c971c12ce37ebf313c291-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/tether-usdt-closes-in-ether-no-2-crypto-market-cap",
+          "author": "The Defiant Team",
+          "description": "USDT has drawn level with ether for the second-largest cryptocurrency by market cap, briefly overtaking it earlier in June. Rising stablecoin issuance is meeting a falling ether price.",
+          "link": "https://thedefiant.io/news/markets/tether-usdt-closes-in-ether-no-2-crypto-market-cap",
+          "publishedOn": "2026-06-26T15:07:44.000Z",
+          "wordCount": null,
+          "title": "Tether's USDT Closes In on Ether for No. 2 Crypto Spot by Market Cap",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2b45c87feb915dbb671ac09e561cd716116d7468-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2b45c87feb915dbb671ac09e561cd716116d7468-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/aave-s-kulechov-disputes-report-says-firm-won-t-sell-aave-at-70-discount",
           "author": "The Defiant Team",
           "description": "The founder said all Aave protocol and GHO revenue flows to the AAVE token and that the brand and software belong to holders, responding to a report that Kraken is in talks to buy a 15% stake at a $385 million valuation.",
@@ -1499,51 +1544,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/uniswap-jpg-4c682fcd-b9a0-4756-9731-6bc73f2aba6e.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/siren-token-crash-whale-dump-92-percent-supply-64-8m",
-          "author": "The Defiant Team",
-          "description": "A single dominant wallet offloaded roughly 92% of SIREN's total supply across two days, collecting $64.8 million in Tether and gutting the BNB Chain AI token.",
-          "link": "https://thedefiant.io/news/markets/siren-token-crash-whale-dump-92-percent-supply-64-8m",
-          "publishedOn": "2026-06-15T16:23:50.000Z",
-          "wordCount": null,
-          "title": "SIREN Token Crashes 95% in a Week After Whale Sells 670M Tokens for $64.8M",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/105d5a783df133d35a17e47e63a32db27b9ee242-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/105d5a783df133d35a17e47e63a32db27b9ee242-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/blockchains/sui-65-billion-stablecoin-transfers-gasless-fee-removal",
-          "author": "The Defiant Team",
-          "description": "The Layer 1's gasless stablecoin design pushed transfer throughput to nearly $65 billion since June 10, recasting Sui as a fee-free settlement rail for institutional and agentic payments.",
-          "link": "https://thedefiant.io/converge/blockchains/sui-65-billion-stablecoin-transfers-gasless-fee-removal",
-          "publishedOn": "2026-06-15T16:08:41.000Z",
-          "wordCount": null,
-          "title": "Sui Processes $65 Billion in Stablecoin Transfers in Five Days After Zeroing Out Fees",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b703f3c86aa1985d3d5cc29aedadaba700ce7932-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b703f3c86aa1985d3d5cc29aedadaba700ce7932-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-tops-usd67-000-to-two-week-high-after-trump-declares-us-iran-deal-complete-and-hormuz",
-          "author": "The Defiant Team",
-          "description": "Bitcoin climbed past $67,000, its highest level in roughly two weeks, after President Trump declared the US-Iran deal \"complete\" and authorized reopening the Strait of Hormuz. Oil fell about 4% and around $150 million in crypto short positions were liquidated.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-tops-usd67-000-to-two-week-high-after-trump-declares-us-iran-deal-complete-and-hormuz",
-          "publishedOn": "2026-06-15T16:06:06.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Tops $67,000 to Two-Week High After Trump Declares US-Iran Deal Complete and Hormuz Reopening",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8454dab41f5a61dc797a5da7ae82a45ff448853d-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8454dab41f5a61dc797a5da7ae82a45ff448853d-2048x1152.png"
         }
       ]
     }
