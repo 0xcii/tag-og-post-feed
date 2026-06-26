@@ -46,6 +46,66 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/17-democratic-senators-bar-cftc-funding-prediction-market-state-lawsuits",
+          "author": "The Defiant Team",
+          "description": "Seventeen Democratic senators are urging the Senate Appropriations Subcommittee to include a rider in the FY2027 spending bill that would prohibit the CFTC from using any federal funds to sue states over prediction-market regulation, escalating a multi-front jurisdictional battle spanning nine",
+          "link": "https://thedefiant.io/news/regulation/17-democratic-senators-bar-cftc-funding-prediction-market-state-lawsuits",
+          "publishedOn": "2026-06-26T20:45:50.000Z",
+          "wordCount": null,
+          "title": "17 Democratic Senators Seek to Bar CFTC From Funding Prediction-Market State Lawsuits",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/103cad472bc6d46dc13bb89ccbd34875c29c81f1-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/103cad472bc6d46dc13bb89ccbd34875c29c81f1-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/podcasts-and-videos/videos/why-wall-street-s-biggest-traders-are-abandoning-crypto-for-prediction-markets-or-alex-momot",
+          "author": "Camila Russo",
+          "description": "Prediction markets are entering a new phase — and the biggest market makers in the world are taking notice. Alex Momot, Co-founder of Peanut Trade, joins Camila Russo to break down the mechanics, the opportunity, and the risks behind this fast-moving space.",
+          "link": "https://thedefiant.io/podcasts-and-videos/videos/why-wall-street-s-biggest-traders-are-abandoning-crypto-for-prediction-markets-or-alex-momot",
+          "publishedOn": "2026-06-26T20:37:06.000Z",
+          "wordCount": null,
+          "title": "Why Wall Street's Biggest Traders Are Abandoning Crypto for Prediction Markets | Alex Momot",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-52564081-30b9-45fd-ae3f-26bd72427137.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-52564081-30b9-45fd-ae3f-26bd72427137.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/tokenized-asset-value-stalls-even-as-stock-token-holders-surge",
+          "author": "The Defiant Team",
+          "description": "Distributed tokenized real-world asset value slipped about 1.4% over the past month to roughly $31.5 billion, the first monthly decline of its institutional-led run, even as the number of holders climbed 14%, led by tokenized stocks, according to data from rwa.xyz.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/tokenized-asset-value-stalls-even-as-stock-token-holders-surge",
+          "publishedOn": "2026-06-26T20:16:02.000Z",
+          "wordCount": null,
+          "title": "Tokenized Asset Value Stalls Even as Stock Token Holders Surge",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/871e50b8d36d65062c989249a249e61cd16c3f9e-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/871e50b8d36d65062c989249a249e61cd16c3f9e-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/base-second-chain-halt-24-hours-b20-activation-window",
+          "author": "The Defiant Team",
+          "description": "Base stalled block production for a second time in less than 24 hours on Friday morning, describing the incident as showing 'similar symptoms' to Thursday's roughly two-hour outage, with the event arriving less than three hours before the B20 Activation Registry was anticipated to go live.",
+          "link": "https://thedefiant.io/news/blockchains/base-second-chain-halt-24-hours-b20-activation-window",
+          "publishedOn": "2026-06-26T19:59:08.000Z",
+          "wordCount": null,
+          "title": "Base Suffers Second Chain Halt in 24 Hours, Complicating B20 Activation Window",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8e39e735f36e918eb9c6b2bc61bc678af5dc9960-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8e39e735f36e918eb9c6b2bc61bc678af5dc9960-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/converge/blockchains/canton-network-tops-blockchain-fee-rankings-60m-30-days",
           "author": "The Defiant Team",
           "description": "Canton Network, the privacy-enabled institutional blockchain built by Digital Asset, generated $60.2 million in fees over the trailing 30 days, outpacing Tron's $27.6 million and Ethereum's $11.3 million by a wide margin, according to DefiLlama data.",
@@ -53,7 +113,12 @@
           "publishedOn": "2026-06-26T19:07:41.000Z",
           "wordCount": null,
           "title": "Canton Network Tops Blockchain Fee Rankings With $60M in 30 Days",
-          "imageUrl": null
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/2026-05-20-15-23-16-jpg-1df5512c-5239-48a8-9412-1c5749c695a1.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/2026-05-20-15-23-16-jpg-1df5512c-5239-48a8-9412-1c5749c695a1.jpg"
         },
         {
           "id": "https://thedefiant.io/news/regulation/bipartisan-senators-ask-cftc-chair-whether-agency-is-investigating-polymarkets-fake-bet-campaign",
@@ -159,21 +224,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5b2021b6d08bfd551e6da71971f59fc156e2ab1c-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/podcasts-and-videos/podcast/why-wall-street-s-biggest-traders-are-abandoning-crypto-for-prediction-markets-or-alex-momot",
-          "author": "Camila Russo",
-          "description": "Prediction markets are entering a new phase — and the biggest market makers in the world are taking notice. Alex Momot, Co-founder of Peanut Trade, joins Camila Russo to break down the mechanics, the opportunity, and the risks behind this fast-moving space.",
-          "link": "https://thedefiant.io/podcasts-and-videos/podcast/why-wall-street-s-biggest-traders-are-abandoning-crypto-for-prediction-markets-or-alex-momot",
-          "publishedOn": "2026-06-26T15:50:56.000Z",
-          "wordCount": null,
-          "title": "Why Wall Street's Biggest Traders Are Abandoning Crypto for Prediction Markets | Alex Momot",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-52564081-30b9-45fd-ae3f-26bd72427137.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-52564081-30b9-45fd-ae3f-26bd72427137.jpg"
         },
         {
           "id": "https://thedefiant.io/news/regulation/binance-tells-eu-users-wind-down-services-mica-deadline",
@@ -1494,51 +1544,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/glamsterdam-jpg-c773803a-2397-4b5c-8f4a-787e14527911.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/coinbase-system-update-sec-registered-ai-advisor-stock-options-brokerage-push",
-          "author": "The Defiant Team",
-          "description": "Coinbase used its latest \"System Update\" Tuesday to push deep into territory long held by retail brokerages, rolling out an SEC-registered AI investment advisor, stock and ETF trading on its professional platform, and options markets for both equities and crypto. The bundle moves the exchange's",
-          "link": "https://thedefiant.io/news/cefi/coinbase-system-update-sec-registered-ai-advisor-stock-options-brokerage-push",
-          "publishedOn": "2026-06-17T16:29:35.000Z",
-          "wordCount": null,
-          "title": "Coinbase Stakes Out Brokerage Territory With SEC-Registered AI Advisor and Stock Options Push",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/2026-06-17-12-36-00-jpg-317436f2-235c-4e5a-bc06-a6517d442959.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/2026-06-17-12-36-00-jpg-317436f2-235c-4e5a-bc06-a6517d442959.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/people/matter-labs-cuts-staff-pivots-prividium-institutional-privacy",
-          "author": "The Defiant Team",
-          "description": "Matter Labs CEO Alex Gluchowski announced layoffs and a full strategic pivot on Tuesday, committing the company behind zkSync entirely to Prividium, its institutional on-chain privacy infrastructure platform.",
-          "link": "https://thedefiant.io/news/people/matter-labs-cuts-staff-pivots-prividium-institutional-privacy",
-          "publishedOn": "2026-06-17T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Matter Labs Cuts Staff, Pivots Fully to Institutional Privacy Platform Prividium",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/90ab6eeaf22aed6982b43cc236eec09012c220b2-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/90ab6eeaf22aed6982b43cc236eec09012c220b2-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/collector-crypt-fees-jump-129-in-a-week-as-solflare-brings-card-pack-trading-into-the-wallet",
-          "author": "The Defiant Team",
-          "description": "Collector Crypt, the Solana-native platform for tokenized graded trading cards, posted a 129% week-over-week jump in fee revenue to $3.86 million as the Solflare wallet embedded its gacha card-pack mechanic for four million monthly active users.",
-          "link": "https://thedefiant.io/news/regulation/collector-crypt-fees-jump-129-in-a-week-as-solflare-brings-card-pack-trading-into-the-wallet",
-          "publishedOn": "2026-06-16T21:58:05.000Z",
-          "wordCount": null,
-          "title": "Collector Crypt Fees Jump 129% in a Week as Solflare Brings Card-Pack Trading Into the Wallet",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a399220ec894e12ab0d7b41c19961ca9fe799a7d-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a399220ec894e12ab0d7b41c19961ca9fe799a7d-2048x1152.png"
         }
       ]
     }
