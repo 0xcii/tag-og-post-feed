@@ -46,6 +46,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/pump-fun-s-pump-buybacks-top-usd400m-as-token-stays-flat",
+          "author": "The Defiant Team",
+          "description": "The Solana launchpad's repurchases since July now exceed $400M, yet PUMP trades roughly 83% below its record and is little changed on the day",
+          "link": "https://thedefiant.io/news/defi/pump-fun-s-pump-buybacks-top-usd400m-as-token-stays-flat",
+          "publishedOn": "2026-06-29T17:25:51.000Z",
+          "wordCount": null,
+          "title": "Pump.fun's PUMP Buybacks Top $400M as Token Stays Flat",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/pump_thumbnail-png-0ba9a491-2017-4d38-b930-37ab4dff63ce.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/pump_thumbnail-png-0ba9a491-2017-4d38-b930-37ab4dff63ce.png"
+        },
+        {
           "id": "https://thedefiant.io/news/regulation/cftc-expands-polymarket-probe-staged-trades-fake-wins",
           "author": "The Defiant Team",
           "description": "The Commodity Futures Trading Commission is conducting a broad investigation into Polymarket covering staged trades and fake winning bets, Bloomberg reported Friday, advancing the agency’s scrutiny beyond the platform’s prior influencer scheme.",
@@ -89,6 +104,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0ea26cf0a42b42bf53c39db19296669c0b634b1e-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/bny-usdc-institutional-custody-platform-circle-partnership",
+          "author": "The Defiant Team",
+          "description": "BNY, the world's largest custodian bank with $59.4 trillion in assets under custody, has made USDC the first stablecoin on its Digital Asset Custody platform, enabling institutional clients to store, transfer, mint, and redeem Circle's dollar-pegged token alongside traditional assets.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/bny-usdc-institutional-custody-platform-circle-partnership",
+          "publishedOn": "2026-06-29T16:30:00.000Z",
+          "wordCount": null,
+          "title": "BNY Adds USDC to Institutional Custody Platform in Expanded Circle Partnership",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/screenshot-2026-06-05-at-5-58-32-pm-png-86dc1385-2cbc-41fa-815e-2cadd264818c.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/screenshot-2026-06-05-at-5-58-32-pm-png-86dc1385-2cbc-41fa-815e-2cadd264818c.png"
         },
         {
           "id": "https://thedefiant.io/news/defi/blackrock-adds-ethena-s-synthetic-dollar-to-its-usd20t-aladdin-risk-management-platform",
@@ -1514,36 +1544,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/34ddea52e1d2b87d1809b087eee3d110bb85e4dc-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/clarity-act-senate-floor-seven-democrat-math-house-fast-follow",
-          "author": "The Defiant Team",
-          "description": "The Digital Asset Market Clarity Act sits on the Senate calendar eligible for a floor vote, with House Agriculture digital-assets subcommittee chair Dusty Johnson signaling a fast House companion. The bill needs at least seven Democratic votes to clear the 60-vote cloture threshold before the",
-          "link": "https://thedefiant.io/news/regulation/clarity-act-senate-floor-seven-democrat-math-house-fast-follow",
-          "publishedOn": "2026-06-19T16:24:53.000Z",
-          "wordCount": null,
-          "title": "CLARITY Act Reaches Senate Floor With House Ready to Move Fast; Seven-Democrat Math Becomes the Gate",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/af27af12c3d774536d7cf39a9df1b6bf9b86cbb7-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/af27af12c3d774536d7cf39a9df1b6bf9b86cbb7-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/cme-group-sue-cftc-perpetual-futures-approval-dodd-frank-swaps-definition",
-          "author": "The Defiant Team",
-          "description": "The world's largest derivatives exchange operator said Wednesday it will sue the CFTC over the agency's approval of Kalshi's bitcoin perpetual futures, arguing the contracts should be classified as swaps under the Dodd-Frank Act.",
-          "link": "https://thedefiant.io/news/regulation/cme-group-sue-cftc-perpetual-futures-approval-dodd-frank-swaps-definition",
-          "publishedOn": "2026-06-19T16:23:26.000Z",
-          "wordCount": null,
-          "title": "CME Group to Sue CFTC Over Perpetual Futures Approval, Citing Dodd-Frank Swaps Definition",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e9f88927419da75ce7a7382a8636211a55516b60-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e9f88927419da75ce7a7382a8636211a55516b60-2048x1152.png"
         }
       ]
     }

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-29T17:35:31.621Z</id>
+    <id>urn:2026-06-29T19:56:20.322Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-29T17:35:31.621Z</updated>
+    <updated>2026-06-29T19:56:20.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pump.fun's PUMP Buybacks Top $400M as Token Stays Flat]]></title>
+        <id>https://thedefiant.io/news/defi/pump-fun-s-pump-buybacks-top-usd400m-as-token-stays-flat</id>
+        <link href="https://thedefiant.io/news/defi/pump-fun-s-pump-buybacks-top-usd400m-as-token-stays-flat"/>
+        <updated>2026-06-29T17:25:51.000Z</updated>
+        <summary type="html"><![CDATA[The Solana launchpad's repurchases since July now exceed $400M, yet PUMP trades roughly 83% below its record and is little changed on the day]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFTC Expands Polymarket Probe to Staged Trades and Fake Wins]]></title>
         <id>https://thedefiant.io/news/regulation/cftc-expands-polymarket-probe-staged-trades-fake-wins</id>
@@ -31,6 +41,16 @@
         <link href="https://thedefiant.io/news/cefi/okx-coinbase-race-binance-displaced-eu-users-mica-deadline"/>
         <updated>2026-06-29T16:48:42.000Z</updated>
         <summary type="html"><![CDATA[OKX is offering EEA users deposit bonuses of up to 8% and Coinbase has launched a parallel transfer bonus for subscribers in eight European markets, as both licensed exchanges compete to capture users displaced by Binance's July 1 MiCA wind-down.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNY Adds USDC to Institutional Custody Platform in Expanded Circle Partnership]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/bny-usdc-institutional-custody-platform-circle-partnership</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/bny-usdc-institutional-custody-platform-circle-partnership"/>
+        <updated>2026-06-29T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[BNY, the world's largest custodian bank with $59.4 trillion in assets under custody, has made USDC the first stablecoin on its Digital Asset Custody platform, enabling institutional clients to store, transfer, mint, and redeem Circle's dollar-pegged token alongside traditional assets.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/aws-cloudfront-coinbase-x402-ai-agents-usdc-base"/>
         <updated>2026-06-19T17:22:27.000Z</updated>
         <summary type="html"><![CDATA[AWS turned on AI traffic monetization inside AWS WAF on Monday, letting any site behind Amazon CloudFront charge AI agents per request in USDC through Coinbase's x402 protocol. It is the first time a hyperscale cloud has wired onchain settlement into its content-delivery edge.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLARITY Act Reaches Senate Floor With House Ready to Move Fast; Seven-Democrat Math Becomes the Gate]]></title>
-        <id>https://thedefiant.io/news/regulation/clarity-act-senate-floor-seven-democrat-math-house-fast-follow</id>
-        <link href="https://thedefiant.io/news/regulation/clarity-act-senate-floor-seven-democrat-math-house-fast-follow"/>
-        <updated>2026-06-19T16:24:53.000Z</updated>
-        <summary type="html"><![CDATA[The Digital Asset Market Clarity Act sits on the Senate calendar eligible for a floor vote, with House Agriculture digital-assets subcommittee chair Dusty Johnson signaling a fast House companion. The bill needs at least seven Democratic votes to clear the 60-vote cloture threshold before the]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CME Group to Sue CFTC Over Perpetual Futures Approval, Citing Dodd-Frank Swaps Definition]]></title>
-        <id>https://thedefiant.io/news/regulation/cme-group-sue-cftc-perpetual-futures-approval-dodd-frank-swaps-definition</id>
-        <link href="https://thedefiant.io/news/regulation/cme-group-sue-cftc-perpetual-futures-approval-dodd-frank-swaps-definition"/>
-        <updated>2026-06-19T16:23:26.000Z</updated>
-        <summary type="html"><![CDATA[The world's largest derivatives exchange operator said Wednesday it will sue the CFTC over the agency's approval of Kalshi's bitcoin perpetual futures, arguing the contracts should be classified as swaps under the Dodd-Frank Act.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
