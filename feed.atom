@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-30T19:55:47.729Z</id>
+    <id>urn:2026-06-30T21:27:35.517Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-30T19:55:47.729Z</updated>
+    <updated>2026-06-30T21:27:35.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Phantom Hires Ventuals Founders After Hyperliquid Perps Venue Winds Down]]></title>
+        <id>https://thedefiant.io/news/defi/phantom-hires-ventuals-founders-after-hyperliquid-perps-venue-winds-down</id>
+        <link href="https://thedefiant.io/news/defi/phantom-hires-ventuals-founders-after-hyperliquid-perps-venue-winds-down"/>
+        <updated>2026-06-30T21:16:52.000Z</updated>
+        <summary type="html"><![CDATA[The Solana wallet is bringing on the three-person team behind a pre-IPO perpetuals platform, deepening its push into derivatives.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securitize Shareholders Approve Merger, Paving Way for First Publicly Traded Tokenization Company]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/securitize-shareholders-approve-merger-first-publicly-traded-tokenization-company</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-files-amended-s-1s-for-spot-solana-and-ethereum-trusts"/>
         <updated>2026-06-22T14:56:43.000Z</updated>
         <summary type="html"><![CDATA[Morgan Stanley's amended S-1 filings for its spot Solana and spot Ethereum trusts name BNY Mellon and Coinbase Custody as joint custodians, set a 0.14% sponsor fee, and reserve the tickers MSOL and MSSE on NYSE Arca. Both products include staking provisions.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jaredfromsubway.eth, Ethereum's Most Active Sandwich Bot, Drained for $7.5M Over the Weekend]]></title>
-        <id>https://thedefiant.io/news/hacks/jaredfromsubway-eth-mev-bot-drained-7-5-million-counter-mev-honeypot</id>
-        <link href="https://thedefiant.io/news/hacks/jaredfromsubway-eth-mev-bot-drained-7-5-million-counter-mev-honeypot"/>
-        <updated>2026-06-22T14:55:05.000Z</updated>
-        <summary type="html"><![CDATA[An attacker drained more than $7.5 million from jaredfromsubway.eth, the Ethereum address tied to roughly 70% of sandwich attacks on the network, after a counter-MEV honeypot fed it 66 fake token contracts over several weeks. Blockaid disclosed the exploit Saturday.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

@@ -46,6 +46,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/phantom-hires-ventuals-founders-after-hyperliquid-perps-venue-winds-down",
+          "author": "The Defiant Team",
+          "description": "The Solana wallet is bringing on the three-person team behind a pre-IPO perpetuals platform, deepening its push into derivatives.",
+          "link": "https://thedefiant.io/news/defi/phantom-hires-ventuals-founders-after-hyperliquid-perps-venue-winds-down",
+          "publishedOn": "2026-06-30T21:16:52.000Z",
+          "wordCount": null,
+          "title": "Phantom Hires Ventuals Founders After Hyperliquid Perps Venue Winds Down",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/phantom_ventuals-svg-c763db19-d3bd-44e4-bf62-48f21fb3f035.svg",
+            "length": "1000000",
+            "type": "image/svg+xml"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/phantom_ventuals-svg-c763db19-d3bd-44e4-bf62-48f21fb3f035.svg"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-shareholders-approve-merger-first-publicly-traded-tokenization-company",
           "author": "The Defiant Team",
           "description": "Cantor Equity Partners II shareholders voted Monday to approve a business combination with Securitize, expected to close July 1 and list on the NYSE July 2 under ticker SECZ as the first publicly traded tokenization company in the US.",
@@ -1529,21 +1544,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2fdeb79fe7f76e110a9cd327dabd4f7315c81f92-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/jaredfromsubway-eth-mev-bot-drained-7-5-million-counter-mev-honeypot",
-          "author": "The Defiant Team",
-          "description": "An attacker drained more than $7.5 million from jaredfromsubway.eth, the Ethereum address tied to roughly 70% of sandwich attacks on the network, after a counter-MEV honeypot fed it 66 fake token contracts over several weeks. Blockaid disclosed the exploit Saturday.",
-          "link": "https://thedefiant.io/news/hacks/jaredfromsubway-eth-mev-bot-drained-7-5-million-counter-mev-honeypot",
-          "publishedOn": "2026-06-22T14:55:05.000Z",
-          "wordCount": null,
-          "title": "Jaredfromsubway.eth, Ethereum's Most Active Sandwich Bot, Drained for $7.5M Over the Weekend",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/023824224d0107781ac9ef3a6e57b8a60b4c955d-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/023824224d0107781ac9ef3a6e57b8a60b4c955d-2048x1152.png"
         }
       ]
     }
