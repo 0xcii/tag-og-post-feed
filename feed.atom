@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-01T17:54:23.481Z</id>
+    <id>urn:2026-07-01T19:53:37.046Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-01T17:54:23.481Z</updated>
+    <updated>2026-07-01T19:53:37.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Robinhood Launches Robinhood Chain Mainnet, Adds Stock Tokens, Onchain Lending, and Agentic Crypto Trading]]></title>
+        <id>https://thedefiant.io/news/blockchains/robinhood-launches-robinhood-chain-mainnet-adds-stock-tokens-onchain-lending-and-agentic-crypto</id>
+        <link href="https://thedefiant.io/news/blockchains/robinhood-launches-robinhood-chain-mainnet-adds-stock-tokens-onchain-lending-and-agentic-crypto"/>
+        <updated>2026-07-01T18:21:41.000Z</updated>
+        <summary type="html"><![CDATA[At a London keynote, the trading platform opened its Arbitrum-based Layer 2 to the public, rolled out new stock tokens and a Morpho-powered lending product, and confirmed launches in Canada and Singapore alongside plans for crypto trading in the UK.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Opens 60-Day Comment Period on 'Novel' ETF Rules as Prediction Market Funds Pile Up]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-opens-60-day-comment-period-novel-etf-rules-prediction-market-funds</id>
+        <link href="https://thedefiant.io/news/regulation/sec-opens-60-day-comment-period-novel-etf-rules-prediction-market-funds"/>
+        <updated>2026-07-01T17:38:00.000Z</updated>
+        <summary type="html"><![CDATA[The SEC published a formal request for comment on 'Novel ETFs' covering crypto-asset and prediction-market funds, following Chair Paul Atkins' May statement pausing launches for over two dozen pending applications.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Launches Onchain Prediction Market on Solana Through Phantom]]></title>
         <id>https://thedefiant.io/news/defi/world-launches-onchain-prediction-market-on-solana-through-phantom</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/goldfinch-finance-winds-down-depositors-report-50m-defaults"/>
         <updated>2026-06-22T20:30:59.000Z</updated>
         <summary type="html"><![CDATA[Warbler Labs posted an official governance proposal on June 12 to wind down Goldfinch Prime and move the protocol to maintenance mode. A Snapshot vote is passing 100% in favor. Depositors face a two-or-more-year recovery horizon as GFI trades 99.8% below its January 2022 all-time high.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink Brings Samsung, Toyota and Sony Pricing On-Chain With APAC Equities Streams]]></title>
-        <id>https://thedefiant.io/news/defi/chainlink-apac-equities-streams-samsung-toyota-sony-onchain</id>
-        <link href="https://thedefiant.io/news/defi/chainlink-apac-equities-streams-samsung-toyota-sony-onchain"/>
-        <updated>2026-06-22T20:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink launched APAC Equities Streams on Monday, putting live pricing for large-cap Asian companies on-chain to power equity perps, prediction markets and structured products in Asian time zones.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aztec Reaches L2Beat Stage 2 After Governance Revokes Rollup Contract Ownership]]></title>
-        <id>https://thedefiant.io/news/blockchains/aztec-l2beat-stage-2-governance-revokes-rollup-contract-ownership</id>
-        <link href="https://thedefiant.io/news/blockchains/aztec-l2beat-stage-2-governance-revokes-rollup-contract-ownership"/>
-        <updated>2026-06-22T20:05:23.000Z</updated>
-        <summary type="html"><![CDATA[On-chain governance stripped admin control over Aztec's rollup contract, freezing the code in place and clearing the technical bar for L2Beat's top decentralization tier.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

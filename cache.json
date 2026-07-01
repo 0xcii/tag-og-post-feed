@@ -46,6 +46,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/robinhood-launches-robinhood-chain-mainnet-adds-stock-tokens-onchain-lending-and-agentic-crypto",
+          "author": "The Defiant Team",
+          "description": "At a London keynote, the trading platform opened its Arbitrum-based Layer 2 to the public, rolled out new stock tokens and a Morpho-powered lending product, and confirmed launches in Canada and Singapore alongside plans for crypto trading in the UK.",
+          "link": "https://thedefiant.io/news/blockchains/robinhood-launches-robinhood-chain-mainnet-adds-stock-tokens-onchain-lending-and-agentic-crypto",
+          "publishedOn": "2026-07-01T18:21:41.000Z",
+          "wordCount": null,
+          "title": "Robinhood Launches Robinhood Chain Mainnet, Adds Stock Tokens, Onchain Lending, and Agentic Crypto Trading",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/robinhood-chain-mainnet-launch-svg-0b8e4c9f-3a1b-44e0-92ad-2f3427b3c3d4.svg",
+            "length": "1000000",
+            "type": "image/svg+xml"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/robinhood-chain-mainnet-launch-svg-0b8e4c9f-3a1b-44e0-92ad-2f3427b3c3d4.svg"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/sec-opens-60-day-comment-period-novel-etf-rules-prediction-market-funds",
+          "author": "The Defiant Team",
+          "description": "The SEC published a formal request for comment on 'Novel ETFs' covering crypto-asset and prediction-market funds, following Chair Paul Atkins' May statement pausing launches for over two dozen pending applications.",
+          "link": "https://thedefiant.io/news/regulation/sec-opens-60-day-comment-period-novel-etf-rules-prediction-market-funds",
+          "publishedOn": "2026-07-01T17:38:00.000Z",
+          "wordCount": null,
+          "title": "SEC Opens 60-Day Comment Period on 'Novel' ETF Rules as Prediction Market Funds Pile Up",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a8bbd3a1e2a406b92857a28dd7f30a5e0da5f60c-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a8bbd3a1e2a406b92857a28dd7f30a5e0da5f60c-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/world-launches-onchain-prediction-market-on-solana-through-phantom",
           "author": "The Defiant Team",
           "description": "The platform, unmasked in late June after two-plus years as an anonymous \"Trade Everything\" teaser account, opens trading in Phantom's CASH stablecoin and leans on Chainlink oracles instead of human-run resolution.",
@@ -1514,36 +1544,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/86b389724bfb2aacd123fdb2de4f23e24c863302-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/chainlink-apac-equities-streams-samsung-toyota-sony-onchain",
-          "author": "The Defiant Team",
-          "description": "Chainlink launched APAC Equities Streams on Monday, putting live pricing for large-cap Asian companies on-chain to power equity perps, prediction markets and structured products in Asian time zones.",
-          "link": "https://thedefiant.io/news/defi/chainlink-apac-equities-streams-samsung-toyota-sony-onchain",
-          "publishedOn": "2026-06-22T20:05:30.000Z",
-          "wordCount": null,
-          "title": "Chainlink Brings Samsung, Toyota and Sony Pricing On-Chain With APAC Equities Streams",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/88febd18dfd150c3739e048a4732bb8d22a5f6a9-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/88febd18dfd150c3739e048a4732bb8d22a5f6a9-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/aztec-l2beat-stage-2-governance-revokes-rollup-contract-ownership",
-          "author": "The Defiant Team",
-          "description": "On-chain governance stripped admin control over Aztec's rollup contract, freezing the code in place and clearing the technical bar for L2Beat's top decentralization tier.",
-          "link": "https://thedefiant.io/news/blockchains/aztec-l2beat-stage-2-governance-revokes-rollup-contract-ownership",
-          "publishedOn": "2026-06-22T20:05:23.000Z",
-          "wordCount": null,
-          "title": "Aztec Reaches L2Beat Stage 2 After Governance Revokes Rollup Contract Ownership",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3459761ed26852093f10287df498cf923ca2c771-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3459761ed26852093f10287df498cf923ca2c771-2048x1152.png"
         }
       ]
     }
