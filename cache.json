@@ -46,6 +46,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/new-york-life-partners-centrifuge-tokenized-corporate-bonds",
+          "author": "The Defiant Team",
+          "description": "New York Life Investment Management is tokenizing a high-yield corporate bond strategy for the first time, partnering with Centrifuge on the NYLIM Anemoy fund settled in USDC.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/new-york-life-partners-centrifuge-tokenized-corporate-bonds",
+          "publishedOn": "2026-07-01T14:38:10.000Z",
+          "wordCount": null,
+          "title": "New York Life Partners with Centrifuge on Tokenized Corporate Bonds",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/086502e15c066a19129c6f8cf58834ea50670388-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/086502e15c066a19129c6f8cf58834ea50670388-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/markets/lighter-to-burn-repurchased-lit-fund-staking-from-ecosystem-reserve",
           "author": "The Defiant Team",
           "description": "The perpetuals exchange will start burning the LIT it buys with revenue and tap its token reserve to keep staking yields flowing.",
@@ -1529,21 +1544,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5b25a5ad14cb6fc31251990db8e2808b92727f6c-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/1200-tech-companies-clarity-act-lummis-absurdity-developers",
-          "author": "The Defiant Team",
-          "description": "The Consumer Technology Association, representing more than 1,200 firms including Amazon, Apple and Google, urged the Senate to pass the CLARITY Act without delay. Senator Cynthia Lummis followed with an on-record statement that the bill ends the 'absurdity' of developers needing lawyers to know",
-          "link": "https://thedefiant.io/converge/regulation/1200-tech-companies-clarity-act-lummis-absurdity-developers",
-          "publishedOn": "2026-06-22T15:41:36.000Z",
-          "wordCount": null,
-          "title": "1,200 Tech Companies Tell Senate to Pass CLARITY Act as Lummis Calls Code-as-Crime Risk an 'Absurdity'",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5ada2da74eecce87b2f146afd753f8e9bc2ae46e-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5ada2da74eecce87b2f146afd753f8e9bc2ae46e-2048x1152.png"
         }
       ]
     }
