@@ -28,7 +28,7 @@
           "author": "The Defiant Team",
           "description": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
           "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-          "publishedOn": "2026-08-04T16:10:09.000Z",
+          "publishedOn": "2026-08-04T18:25:44.000Z",
           "wordCount": null,
           "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
           "enclosure": {
@@ -43,7 +43,7 @@
           "author": "The Defiant Team",
           "description": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
           "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-          "publishedOn": "2026-08-04T16:10:09.000Z",
+          "publishedOn": "2026-08-04T18:25:44.000Z",
           "wordCount": null,
           "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
           "enclosure": {
@@ -58,7 +58,7 @@
           "author": "The Defiant Team",
           "description": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
           "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
-          "publishedOn": "2026-08-04T16:10:09.000Z",
+          "publishedOn": "2026-08-04T18:25:44.000Z",
           "wordCount": null,
           "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
           "enclosure": {
@@ -73,7 +73,7 @@
           "author": "The Defiant Team",
           "description": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
           "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-          "publishedOn": "2026-08-04T16:10:09.000Z",
+          "publishedOn": "2026-08-04T18:25:44.000Z",
           "wordCount": null,
           "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
           "enclosure": {
@@ -88,7 +88,7 @@
           "author": "The Defiant Team",
           "description": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
           "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
-          "publishedOn": "2026-08-04T16:10:09.000Z",
+          "publishedOn": "2026-08-04T18:25:44.000Z",
           "wordCount": null,
           "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
           "enclosure": {
@@ -103,7 +103,7 @@
           "author": "The Defiant Team",
           "description": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
           "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
-          "publishedOn": "2026-08-04T16:10:09.000Z",
+          "publishedOn": "2026-08-04T18:25:44.000Z",
           "wordCount": null,
           "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
           "enclosure": {
@@ -112,6 +112,66 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9cb48b7ad61af1254dcdca0be2ca83b0dcaf25c4-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-and-rain-launch-stablecoin-card-in-37-markets",
+          "author": "The Defiant Team",
+          "description": "Stablecard holds remittances as USDPT, the Anchorage-issued Solana token Western Union launched in May, and spends the balance anywhere Visa is accepted. The stablecoin behind it has $7.4 million in circulation.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/western-union-and-rain-launch-stablecoin-card-in-37-markets",
+          "publishedOn": "2026-08-04T17:58:02.000Z",
+          "wordCount": null,
+          "title": "Western Union and Rain Launch Stablecoin Card in 37 Markets",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/western-union-thumbnail-jpg-2133e62a-5313-485f-86a5-aca4165d1abe.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/western-union-thumbnail-jpg-2133e62a-5313-485f-86a5-aca4165d1abe.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield",
+          "author": "The Defiant Team",
+          "description": "EIP-8361 would deduct a rising share of every validator's rewards as the staking ratio climbs, cancelling consensus issuance outright at 50%. It landed two days before the deadline to propose EIPs for Hegotá, and the timing drew an objection within hours.",
+          "link": "https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield",
+          "publishedOn": "2026-08-04T16:27:15.000Z",
+          "wordCount": null,
+          "title": "New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/eth-burn-thumbnail-jpg-32f94149-fdae-4041-9cad-877c98eb1aac.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/eth-burn-thumbnail-jpg-32f94149-fdae-4041-9cad-877c98eb1aac.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-tokenized-deposits-corporate-clients-fall-2026",
+          "author": "The Defiant Team",
+          "description": "The bank will start with a limited U.S. dollar-to-British pound corridor and widen it through 2027. It names neither the blockchain it is using nor whether the ledger is permissioned.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-tokenized-deposits-corporate-clients-fall-2026",
+          "publishedOn": "2026-08-04T16:10:28.000Z",
+          "wordCount": null,
+          "title": "Wells Fargo to Launch Tokenized Deposits for Corporate Clients This Fall",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/wells-fargo-thumbnail-jpg-4a3bd701-19bd-477f-baa7-f0a63fc075c7.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/wells-fargo-thumbnail-jpg-4a3bd701-19bd-477f-baa7-f0a63fc075c7.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/bitgo-chainlink-ccip-exclusive-cross-chain-provider-wbtc",
+          "author": "The Defiant Team",
+          "description": "BitGo will move Wrapped Bitcoin and every future BitGo-issued asset onto Chainlink CCIP, dropping the provider it chose in September 2024. The announcement never uses the word LayerZero.",
+          "link": "https://thedefiant.io/news/infrastructure/bitgo-chainlink-ccip-exclusive-cross-chain-provider-wbtc",
+          "publishedOn": "2026-08-04T16:01:54.000Z",
+          "wordCount": null,
+          "title": "BitGo Names Chainlink CCIP Exclusive Cross-Chain Provider for $7.7 Billion WBTC",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/bitgo-thumbnail-jpg-2f4e3c0c-c637-49b1-bf3d-824438d1a2d3.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/bitgo-thumbnail-jpg-2f4e3c0c-c637-49b1-bf3d-824438d1a2d3.jpg"
         },
         {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-buys-10-399-more-eth-but-reported-holdings-fall-to-11-3b",
@@ -1462,66 +1522,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/653c9d61dbab0e3451833bfbc87a25a2743d660a-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/coinbase-man-token-crashes-as-armstrong-swaps-his-avatar-for-a-cryptopunk",
-          "author": "The Defiant Team",
-          "description": "Coinbase CEO Brian Armstrong set his X profile picture to the artwork behind a Base memecoin, then replaced it with a newly acquired CryptoPunk. The $BRIAN token round-tripped from obscurity to millions and back, a stark test of how far one social cue can move an onchain market.",
-          "link": "https://thedefiant.io/news/tokens/coinbase-man-token-crashes-as-armstrong-swaps-his-avatar-for-a-cryptopunk",
-          "publishedOn": "2026-07-18T15:59:24.000Z",
-          "wordCount": null,
-          "title": "'Coinbase Man' Token Crashes as Armstrong Swaps His Avatar for a CryptoPunk",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/coinbase-man-thumbnail-v2-jpg-7259291f-9c07-4393-840d-7c95cc85eceb.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/coinbase-man-thumbnail-v2-jpg-7259291f-9c07-4393-840d-7c95cc85eceb.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/converge/cefi/okx-launches-tokenized-us-stocks-on-shared-order-book",
-          "author": "The Defiant Team",
-          "description": "The exchange routes every issuer's version of a stock into one market backed by Backed Assets' xStocks, and bars US and EU traders.",
-          "link": "https://thedefiant.io/converge/cefi/okx-launches-tokenized-us-stocks-on-shared-order-book",
-          "publishedOn": "2026-07-17T19:53:05.000Z",
-          "wordCount": null,
-          "title": "OKX Launches Tokenized US Stocks on Shared Order Book",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1e161d86616ef5438c40f95be1d6b4b6bec979ec-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1e161d86616ef5438c40f95be1d6b4b6bec979ec-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/tokenized-stock-lending-tvl-reaches-23m-as-dex-volume-climbs",
-          "author": "The Defiant Team",
-          "description": "Token Terminal data shows QQQ and SPY trackers gaining onchain trading and collateral use, but the totals remain a rounding error next to broader DeFi.",
-          "link": "https://thedefiant.io/news/defi/tokenized-stock-lending-tvl-reaches-23m-as-dex-volume-climbs",
-          "publishedOn": "2026-07-17T19:06:48.000Z",
-          "wordCount": null,
-          "title": "Tokenized Stock Lending TVL Reaches $23M as DEX Volume Climbs",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2cdffd80ef72c4cb1939f941060e5a762a4cf3a7-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2cdffd80ef72c4cb1939f941060e5a762a4cf3a7-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/cashcat-falls-75-from-peak-after-hyperliquid-perp-listing",
-          "author": "The Defiant Team",
-          "description": "The Robinhood Chain memecoin's slide has erased most of a 4,000% run, even as its spot price held through a 60% perp wick that liquidated leveraged traders.",
-          "link": "https://thedefiant.io/news/tokens/cashcat-falls-75-from-peak-after-hyperliquid-perp-listing",
-          "publishedOn": "2026-07-17T18:34:57.000Z",
-          "wordCount": null,
-          "title": "CASHCAT Falls 75% from Peak After Hyperliquid Perp Listing",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7a7c94677e8c4d8b441aaa2005832d3d698adc86-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7a7c94677e8c4d8b441aaa2005832d3d698adc86-2048x1152.png"
         }
       ]
     }
