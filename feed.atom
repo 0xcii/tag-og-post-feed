@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-05T17:27:36.720Z</id>
+    <id>urn:2026-08-05T19:27:26.870Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-05T17:27:36.720Z</updated>
+    <updated>2026-08-05T19:27:26.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Traders Push CLARITY Act Odds Into 2027 After Thune Skips Cloture Filing]]></title>
+        <id>https://thedefiant.io/news/regulation/traders-push-clarity-act-odds-into-2027-after-thune-skips-cloture-filing</id>
+        <link href="https://thedefiant.io/news/regulation/traders-push-clarity-act-odds-into-2027-after-thune-skips-cloture-filing"/>
+        <updated>2026-08-05T19:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Kalshi's Sept. 1 contract now trades at 2 cents, while the price on enactment before Jan. 1, 2028 ticked up, moving the implied probability out of this year and into the next.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dinari Opens 724 Tokenized US Stocks to Eligible US Investors]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/dinari-opens-724-tokenized-us-stocks-to-eligible-us-investors</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/dinari-opens-724-tokenized-us-stocks-to-eligible-us-investors"/>
+        <updated>2026-08-05T17:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Dividends on Dinari's dShares now pay out natively in USDC, while 24/7 trading and T+0 settlement remain future capabilities the company says depend on regulatory requirements.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle Names BlackRock, Visa, ICE and DTCC Among 11 Founding Arc Validators]]></title>
+        <id>https://thedefiant.io/converge/blockchains/circle-names-blackrock-visa-ice-and-dtcc-among-11-founding-arc-validators</id>
+        <link href="https://thedefiant.io/converge/blockchains/circle-names-blackrock-visa-ice-and-dtcc-among-11-founding-arc-validators"/>
+        <updated>2026-08-05T17:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Circle's own disclaimer says Arc will be "operated by a permissioned validator set" and has not been reviewed by the New York State Department of Financial Services or any other regulator.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nomura’s Laser Digital Backs ZIGChain’s Emerging-Market Private Credit Push]]></title>
         <id>https://thedefiant.io/converge/defi/nomura-laser-digital-zigchain-private-credit</id>
@@ -981,36 +1011,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/bernstein-lifts-robinhood-target-to-160-on-prediction-markets"/>
         <updated>2026-07-20T18:22:25.000Z</updated>
         <summary type="html"><![CDATA[Analyst Gautam Chhugani raised his target to $160 from $130, arguing prediction-market revenue is on track to overtake Robinhood's crypto trading business as soon as the second quarter.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitmine Slowed ETH Buys to Smallest Weekly Pace Since June 2025]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/bitmine-slowed-eth-buys-to-smallest-weekly-pace-since-june-2025</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/bitmine-slowed-eth-buys-to-smallest-weekly-pace-since-june-2025"/>
-        <updated>2026-07-20T18:19:02.000Z</updated>
-        <summary type="html"><![CDATA[The largest corporate ether holder slowed its buying to its smallest weekly pace since June 2025, redirecting capital to a share repurchase, and now holds 5.78 million ETH — 96% of the way to its "Alchemy of 5%" target.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYPE Spot ETFs Log First Weekly Outflow Since May]]></title>
-        <id>https://thedefiant.io/converge/markets/hype-spot-etfs-log-first-weekly-outflow-since-may</id>
-        <link href="https://thedefiant.io/converge/markets/hype-spot-etfs-log-first-weekly-outflow-since-may"/>
-        <updated>2026-07-20T18:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin and Ethereum funds pulled in a combined $181 million over the same week as HYPE's nine-week inflow streak broke.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Coinbase Man' Token Crashes as Armstrong Swaps His Avatar for a CryptoPunk]]></title>
-        <id>https://thedefiant.io/news/tokens/coinbase-man-token-crashes-as-armstrong-swaps-his-avatar-for-a-cryptopunk</id>
-        <link href="https://thedefiant.io/news/tokens/coinbase-man-token-crashes-as-armstrong-swaps-his-avatar-for-a-cryptopunk"/>
-        <updated>2026-07-18T15:59:24.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase CEO Brian Armstrong set his X profile picture to the artwork behind a Base memecoin, then replaced it with a newly acquired CryptoPunk. The $BRIAN token round-tripped from obscurity to millions and back, a stark test of how far one social cue can move an onchain market.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
