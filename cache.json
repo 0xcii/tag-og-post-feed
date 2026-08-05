@@ -11,7 +11,7 @@
           "description": "(Any views expressed here are the personal views of the author and should not form the basis for making investment decisions, nor be…",
           "link": "https://cryptohayes.medium.com/situationship-8bcd59850ac5?source=rss-2f6e06954878------2",
           "publishedOn": "2026-08-04T23:01:02.000Z",
-          "wordCount": 12917,
+          "wordCount": 12888,
           "title": "Situationship",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:975/1*rPLYrapHKCKov6mojUrqFA.png"
         }
@@ -34,6 +34,21 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/blockchains/eip-8363-staking-issuance-burn-reaction-kulechov-silagadze",
+          "author": "The Defiant Team",
+          "description": "Stani Kulechov and Mike Silagadze headline two days of opposition to the tapered issuance burn, now renumbered EIP-8363. Ethereum core devs decide Thursday whether to consider it for Hegotá.",
+          "link": "https://thedefiant.io/news/blockchains/eip-8363-staking-issuance-burn-reaction-kulechov-silagadze",
+          "publishedOn": "2026-08-05T19:54:41.000Z",
+          "wordCount": null,
+          "title": "Aave And ether.fi Founders Lead Opposition To Ethereum's Staking Yield Burn",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/eth-burn-thumbnail-jpg-32f94149-fdae-4041-9cad-877c98eb1aac.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/eth-burn-thumbnail-jpg-32f94149-fdae-4041-9cad-877c98eb1aac.jpg"
+        },
         {
           "id": "https://thedefiant.io/news/regulation/traders-push-clarity-act-odds-into-2027-after-thune-skips-cloture-filing",
           "author": "The Defiant Team",
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a43b82461bbb2787a76998b6ea396098ffc3fab2-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/bernstein-lifts-robinhood-target-to-160-on-prediction-markets",
-          "author": "The Defiant Team",
-          "description": "Analyst Gautam Chhugani raised his target to $160 from $130, arguing prediction-market revenue is on track to overtake Robinhood's crypto trading business as soon as the second quarter.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/bernstein-lifts-robinhood-target-to-160-on-prediction-markets",
-          "publishedOn": "2026-07-20T18:22:25.000Z",
-          "wordCount": null,
-          "title": "Bernstein Lifts Robinhood Target to $160 on Prediction Markets",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/69304b7abe7aebde42b7c84af0ec4e23f1c9aa86-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/69304b7abe7aebde42b7c84af0ec4e23f1c9aa86-2048x1152.png"
         }
       ]
     }
