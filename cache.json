@@ -50,6 +50,21 @@
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d12285c1ff07a626a19b66df19485c3081dbb89d-2048x1152.png"
         },
         {
+          "id": "https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy",
+          "author": "The Defiant Team",
+          "description": "Quantum safety moved up the queue, VDFs and most EVM improvement work moved down, and Verkle trees and state expiry were dropped for other constructions. Privacy, post-quantum scaling and native rollups were not on the 2023 diagram at all.",
+          "link": "https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy",
+          "publishedOn": "2026-08-10T17:06:00.000Z",
+          "wordCount": null,
+          "title": "Vitalik Buterin's Ethereum Roadmap Prioritizes Quantum Readiness and Privacy",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f87521bef92d16443e6754718efafd940f711f60-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f87521bef92d16443e6754718efafd940f711f60-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/bip-110-bitcoin-fork-stalls-at-two-blocks-as-its-only-miner-quits",
           "author": "The Defiant Team",
           "description": "OCEAN will refund roughly 0.3 BTC to miners whose hashrate its Stratum templates sent to the breakaway chain for about 18 hours.",
@@ -1518,21 +1533,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b05636e26d30117029818f362119987b08b9c0d8-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/movement-labs-files-for-chapter-11-bankruptcy",
-          "author": "The Defiant Team",
-          "description": "The company behind the MOVE token filed a voluntary petition in Delaware listing up to $10 million in liabilities, capping a year of governance disputes, a market-making scandal and a failed strategic pivot.",
-          "link": "https://thedefiant.io/news/blockchains/movement-labs-files-for-chapter-11-bankruptcy",
-          "publishedOn": "2026-07-21T20:51:46.000Z",
-          "wordCount": null,
-          "title": "Movement Labs Files for Chapter 11 Bankruptcy",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3c27ae7fe26a9628d471b7cfff6b8247e0c59ab2-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3c27ae7fe26a9628d471b7cfff6b8247e0c59ab2-2048x1152.png"
         }
       ]
     }

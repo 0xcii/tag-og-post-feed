@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-10T17:49:56.894Z</id>
+    <id>urn:2026-08-10T18:55:13.714Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-10T17:49:56.894Z</updated>
+    <updated>2026-08-10T18:55:13.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -11,6 +11,16 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/ether-products-lead-600m-crypto-etp-flow-rebound-in-july"/>
         <updated>2026-08-10T17:08:29.000Z</updated>
         <summary type="html"><![CDATA[Bitcoin products still took 78.5% of the $133.3 billion traded in global crypto ETPs during July, even as ether led the money coming in.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik Buterin's Ethereum Roadmap Prioritizes Quantum Readiness and Privacy]]></title>
+        <id>https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy</id>
+        <link href="https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy"/>
+        <updated>2026-08-10T17:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Quantum safety moved up the queue, VDFs and most EVM improvement work moved down, and Verkle trees and state expiry were dropped for other constructions. Privacy, post-quantum scaling and native rollups were not on the 2023 diagram at all.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -1000,16 +1010,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/s-p-and-pantera-launch-revenue-screened-digital-asset-index"/>
         <updated>2026-07-21T20:53:27.000Z</updated>
         <summary type="html"><![CDATA[The 18-constituent benchmark excludes Bitcoin and meme coins, screening for protocols with positive revenue verified by onchain data.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Movement Labs Files for Chapter 11 Bankruptcy]]></title>
-        <id>https://thedefiant.io/news/blockchains/movement-labs-files-for-chapter-11-bankruptcy</id>
-        <link href="https://thedefiant.io/news/blockchains/movement-labs-files-for-chapter-11-bankruptcy"/>
-        <updated>2026-07-21T20:51:46.000Z</updated>
-        <summary type="html"><![CDATA[The company behind the MOVE token filed a voluntary petition in Delaware listing up to $10 million in liabilities, capping a year of governance disputes, a market-making scandal and a failed strategic pivot.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
