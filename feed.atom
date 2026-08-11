@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-10T23:33:20.402Z</id>
+    <id>urn:2026-08-11T01:39:51.987Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-10T23:33:20.402Z</updated>
+    <updated>2026-08-11T01:39:51.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Yen-quake]]></title>
+        <id>https://medium.com/p/35d4e0344efb</id>
+        <link href="https://cryptohayes.medium.com/yen-quake-35d4e0344efb?source=rss-2f6e06954878------2"/>
+        <updated>2026-08-11T01:01:20.000Z</updated>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin's BIP Editors Remove Luke Dashjr Two Days After BIP-110 Fork Stalled]]></title>
         <id>https://thedefiant.io/news/blockchains/bitcoin-bip-editors-remove-luke-dashjr-after-bip-110-fork-stalled</id>
