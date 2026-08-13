@@ -45,6 +45,66 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/neutrl-pauses-minting-and-redemptions-while-assessing-reserve-impact",
+          "author": "The Defiant Team",
+          "description": "Strata paused minting, redemptions and related functions on its Neutrl market contracts, whose two tranche tokens carried more than $1.7 million in displayed onchain value.",
+          "link": "https://thedefiant.io/news/defi/neutrl-pauses-minting-and-redemptions-while-assessing-reserve-impact",
+          "publishedOn": "2026-08-13T14:31:52.000Z",
+          "wordCount": null,
+          "title": "Neutrl Pauses Minting and Redemptions While Assessing Reserve Impact",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a35d53dc0fc14d82e5afa39148d16c54f14e00c9-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a35d53dc0fc14d82e5afa39148d16c54f14e00c9-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/robinhood-private-market-fund-prices-200-million-ipo",
+          "author": "The Defiant Team",
+          "description": "RVII pays its adviser a 2% annual base fee and a 20% realized-gains incentive fee; some exposure may use illiquid vehicles.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/robinhood-private-market-fund-prices-200-million-ipo",
+          "publishedOn": "2026-08-13T14:13:49.000Z",
+          "wordCount": null,
+          "title": "Robinhood Private-Market Fund Prices $200 Million IPO",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ab580ff8f961a61f96f16f6447f87cefbbad2ccf-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ab580ff8f961a61f96f16f6447f87cefbbad2ccf-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/trezor-shipping-provider-breach-exposes-data-of-13-689-customers",
+          "author": "The Defiant Team",
+          "description": "ShipMonk incident exposed names and contact details of recent customers in seven countries; Trezor says its devices and systems were not compromised.",
+          "link": "https://thedefiant.io/news/security/trezor-shipping-provider-breach-exposes-data-of-13-689-customers",
+          "publishedOn": "2026-08-13T14:04:09.000Z",
+          "wordCount": null,
+          "title": "Trezor Shipping-Provider Breach Exposes Data of 13,689 Customers",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b41cb7488cbd4bb03bc310ae3f6dd87c6f48d624-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b41cb7488cbd4bb03bc310ae3f6dd87c6f48d624-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/ether-fi-adds-tokenized-stocks-new-fiat-rails-and-aave-backed-borrowing",
+          "author": "The Defiant Team",
+          "description": "The Summer release lands a week after the protocol pulled restaking out of weETH. The release also introduces programmatic ETHFI buybacks funded from every revenue line.",
+          "link": "https://thedefiant.io/news/defi/ether-fi-adds-tokenized-stocks-new-fiat-rails-and-aave-backed-borrowing",
+          "publishedOn": "2026-08-13T14:00:32.000Z",
+          "wordCount": null,
+          "title": "ether.fi Adds Tokenized Stocks, New Fiat Rails And Aave-Backed Borrowing",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/etherfi-thumbnail-jpg-e59c350c-5e57-45e0-a71d-c457b315e43c.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/etherfi-thumbnail-jpg-e59c350c-5e57-45e0-a71d-c457b315e43c.jpg"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-s-tokenized-assets-hit-4-3-billion-as-revenue-falls",
           "author": "The Defiant Team",
           "description": "Tokenization revenue dropped 12% and operating costs jumped 56%, showing that higher onchain assets have yet to produce steadier earnings.",
@@ -1483,66 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/302bb01683c2c04a6d80a009978914d5f3f0afcc-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/circle-buys-ibm-blockchain-patent-portfolio",
-          "author": "The Defiant Team",
-          "description": "The USDC issuer says the roughly 1,000-patent haul makes it the leading US blockchain patent holder, with financial terms undisclosed.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/circle-buys-ibm-blockchain-patent-portfolio",
-          "publishedOn": "2026-07-27T15:01:13.000Z",
-          "wordCount": null,
-          "title": "Circle Buys IBM Blockchain Patent Portfolio",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ed0e2a2d6065c1aa50b36df500d3bcfeb4b1c754-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ed0e2a2d6065c1aa50b36df500d3bcfeb4b1c754-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/magic-labs-sells-wallet-business-to-kraken-parent-payward",
-          "author": "The Defiant Team",
-          "description": "The embedded-wallet pioneer is rebranding as Newton Labs to focus on an onchain authorization layer that vets transactions against policy before they settle.",
-          "link": "https://thedefiant.io/news/cefi/magic-labs-sells-wallet-business-to-kraken-parent-payward",
-          "publishedOn": "2026-07-27T14:57:35.000Z",
-          "wordCount": null,
-          "title": "Magic Labs Sells Wallet Business to Kraken Parent Payward",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/20afbdaecf9a5b7387d621eddf3716d1f2bff9be-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/20afbdaecf9a5b7387d621eddf3716d1f2bff9be-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/securitize-registers-capital-affiliate-as-sec-investment-adviser",
-          "author": "The Defiant Team",
-          "description": "Securitize Capital's registration took effect July 22, SEC records show, adding an advisory license to the tokenization firm's U.S. regulatory lineup three weeks after its NYSE debut.",
-          "link": "https://thedefiant.io/converge/regulation/securitize-registers-capital-affiliate-as-sec-investment-adviser",
-          "publishedOn": "2026-07-27T14:52:18.000Z",
-          "wordCount": null,
-          "title": "Securitize Registers Capital Affiliate as SEC Investment Adviser",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8bd9f264e30961192ace7550dd8e3da5a685a9e4-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8bd9f264e30961192ace7550dd8e3da5a685a9e4-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/coinbase-opens-launches-tab-for-new-base-solana-tokens",
-          "author": "The Defiant Team",
-          "description": "The feature routes users into Coinbase's built-in DEX, which its product page says is not available in all locations and requires a self-custody wallet.",
-          "link": "https://thedefiant.io/news/defi/coinbase-opens-launches-tab-for-new-base-solana-tokens",
-          "publishedOn": "2026-07-27T14:45:01.000Z",
-          "wordCount": null,
-          "title": "Coinbase Opens 'Launches' Tab for New Base, Solana Tokens",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2de53d690edb3697cc995f56e20c9aa445dd7004-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2de53d690edb3697cc995f56e20c9aa445dd7004-2048x1152.png"
         }
       ]
     }

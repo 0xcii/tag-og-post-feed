@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-13T13:06:56.433Z</id>
+    <id>urn:2026-08-13T14:55:29.318Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-13T13:06:56.433Z</updated>
+    <updated>2026-08-13T14:55:29.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Neutrl Pauses Minting and Redemptions While Assessing Reserve Impact]]></title>
+        <id>https://thedefiant.io/news/defi/neutrl-pauses-minting-and-redemptions-while-assessing-reserve-impact</id>
+        <link href="https://thedefiant.io/news/defi/neutrl-pauses-minting-and-redemptions-while-assessing-reserve-impact"/>
+        <updated>2026-08-13T14:31:52.000Z</updated>
+        <summary type="html"><![CDATA[Strata paused minting, redemptions and related functions on its Neutrl market contracts, whose two tranche tokens carried more than $1.7 million in displayed onchain value.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood Private-Market Fund Prices $200 Million IPO]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/robinhood-private-market-fund-prices-200-million-ipo</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/robinhood-private-market-fund-prices-200-million-ipo"/>
+        <updated>2026-08-13T14:13:49.000Z</updated>
+        <summary type="html"><![CDATA[RVII pays its adviser a 2% annual base fee and a 20% realized-gains incentive fee; some exposure may use illiquid vehicles.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trezor Shipping-Provider Breach Exposes Data of 13,689 Customers]]></title>
+        <id>https://thedefiant.io/news/security/trezor-shipping-provider-breach-exposes-data-of-13-689-customers</id>
+        <link href="https://thedefiant.io/news/security/trezor-shipping-provider-breach-exposes-data-of-13-689-customers"/>
+        <updated>2026-08-13T14:04:09.000Z</updated>
+        <summary type="html"><![CDATA[ShipMonk incident exposed names and contact details of recent customers in seven countries; Trezor says its devices and systems were not compromised.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ether.fi Adds Tokenized Stocks, New Fiat Rails And Aave-Backed Borrowing]]></title>
+        <id>https://thedefiant.io/news/defi/ether-fi-adds-tokenized-stocks-new-fiat-rails-and-aave-backed-borrowing</id>
+        <link href="https://thedefiant.io/news/defi/ether-fi-adds-tokenized-stocks-new-fiat-rails-and-aave-backed-borrowing"/>
+        <updated>2026-08-13T14:00:32.000Z</updated>
+        <summary type="html"><![CDATA[The Summer release lands a week after the protocol pulled restaking out of weETH. The release also introduces programmatic ETHFI buybacks funded from every revenue line.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securitize’s Tokenized Assets Hit $4.3 Billion as Revenue Falls]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/securitize-s-tokenized-assets-hit-4-3-billion-as-revenue-falls</id>
@@ -979,46 +1019,6 @@
         <link href="https://thedefiant.io/news/blockchains/lido-unveils-curated-module-v2-in-ethereum-staking-overhaul"/>
         <updated>2026-07-27T15:46:31.000Z</updated>
         <summary type="html"><![CDATA[The liquid staking protocol is migrating more than 8 million staked ETH onto a module that requires node operators to post bonds, a shift expected to cut Ethereum's validator count by about a third.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Buys IBM Blockchain Patent Portfolio]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/circle-buys-ibm-blockchain-patent-portfolio</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/circle-buys-ibm-blockchain-patent-portfolio"/>
-        <updated>2026-07-27T15:01:13.000Z</updated>
-        <summary type="html"><![CDATA[The USDC issuer says the roughly 1,000-patent haul makes it the leading US blockchain patent holder, with financial terms undisclosed.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Labs Sells Wallet Business to Kraken Parent Payward]]></title>
-        <id>https://thedefiant.io/news/cefi/magic-labs-sells-wallet-business-to-kraken-parent-payward</id>
-        <link href="https://thedefiant.io/news/cefi/magic-labs-sells-wallet-business-to-kraken-parent-payward"/>
-        <updated>2026-07-27T14:57:35.000Z</updated>
-        <summary type="html"><![CDATA[The embedded-wallet pioneer is rebranding as Newton Labs to focus on an onchain authorization layer that vets transactions against policy before they settle.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securitize Registers Capital Affiliate as SEC Investment Adviser]]></title>
-        <id>https://thedefiant.io/converge/regulation/securitize-registers-capital-affiliate-as-sec-investment-adviser</id>
-        <link href="https://thedefiant.io/converge/regulation/securitize-registers-capital-affiliate-as-sec-investment-adviser"/>
-        <updated>2026-07-27T14:52:18.000Z</updated>
-        <summary type="html"><![CDATA[Securitize Capital's registration took effect July 22, SEC records show, adding an advisory license to the tokenization firm's U.S. regulatory lineup three weeks after its NYSE debut.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Opens 'Launches' Tab for New Base, Solana Tokens]]></title>
-        <id>https://thedefiant.io/news/defi/coinbase-opens-launches-tab-for-new-base-solana-tokens</id>
-        <link href="https://thedefiant.io/news/defi/coinbase-opens-launches-tab-for-new-base-solana-tokens"/>
-        <updated>2026-07-27T14:45:01.000Z</updated>
-        <summary type="html"><![CDATA[The feature routes users into Coinbase's built-in DEX, which its product page says is not available in all locations and requires a self-custody wallet.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
