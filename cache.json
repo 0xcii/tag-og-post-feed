@@ -45,6 +45,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/standard-chartered-100-uni-target-too-low-robinhood-chain-burns",
+          "author": "The Defiant Team",
+          "description": "Geoff Kendrick says UNI burns funded by Robinhood Chain trading have run at an annualized $90 million since Jul. 27. DefiLlama data puts Uniswap's protocol revenue at 2.4 times its prior level, with Robinhood Chain supplying about 60% of it.",
+          "link": "https://thedefiant.io/news/defi/standard-chartered-100-uni-target-too-low-robinhood-chain-burns",
+          "publishedOn": "2026-08-13T15:14:41.000Z",
+          "wordCount": null,
+          "title": "Standard Chartered Says Its $100 UNI Target May Be Too Low After Robinhood Chain Burns",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/stanchart-uni-defiant-thumbnail-jpg-f161bdad-5b0d-4d64-976a-ee0263828dee.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/stanchart-uni-defiant-thumbnail-jpg-f161bdad-5b0d-4d64-976a-ee0263828dee.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sharplink-plans-200-million-eth-allocation-to-lido-s-wsteth",
+          "author": "The Defiant Team",
+          "description": "Using Kraken’s displayed $1,889.84 ETH price, the planned allocation equates to about 106,000 ETH, roughly 12% of SharpLink’s reported holdings.",
+          "link": "https://thedefiant.io/news/defi/sharplink-plans-200-million-eth-allocation-to-lido-s-wsteth",
+          "publishedOn": "2026-08-13T15:10:55.000Z",
+          "wordCount": null,
+          "title": "SharpLink Plans $200 Million ETH Allocation to Lido’s wstETH",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f549ff629ec33654c7bbb6174b1cd2dac341c7de-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f549ff629ec33654c7bbb6174b1cd2dac341c7de-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/neutrl-pauses-minting-and-redemptions-while-assessing-reserve-impact",
           "author": "The Defiant Team",
           "description": "Strata paused minting, redemptions and related functions on its Neutrl market contracts, whose two tranche tokens carried more than $1.7 million in displayed onchain value.",
@@ -1513,36 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/85db9cabd7b3f5873c930633ed5d5d1433c84851-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/storj-files-chapter-11-floats-equity-path-for-token-holders",
-          "author": "The Defiant Team",
-          "description": "The decentralized storage firm says its network keeps running and its parent, Inveniam, backs the reorganization, as STORJ falls about 18% in 24 hours.",
-          "link": "https://thedefiant.io/news/infrastructure/storj-files-chapter-11-floats-equity-path-for-token-holders",
-          "publishedOn": "2026-07-27T16:33:40.000Z",
-          "wordCount": null,
-          "title": "Storj Files Chapter 11, Floats Equity Path for Token Holders",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/359de2abaf45a9c0ba558d5bea32a7d13fa3dbbe-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/359de2abaf45a9c0ba558d5bea32a7d13fa3dbbe-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/lido-unveils-curated-module-v2-in-ethereum-staking-overhaul",
-          "author": "The Defiant Team",
-          "description": "The liquid staking protocol is migrating more than 8 million staked ETH onto a module that requires node operators to post bonds, a shift expected to cut Ethereum's validator count by about a third.",
-          "link": "https://thedefiant.io/news/blockchains/lido-unveils-curated-module-v2-in-ethereum-staking-overhaul",
-          "publishedOn": "2026-07-27T15:46:31.000Z",
-          "wordCount": null,
-          "title": "Lido Unveils Curated Module v2 in Ethereum Staking Overhaul",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/302bb01683c2c04a6d80a009978914d5f3f0afcc-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/302bb01683c2c04a6d80a009978914d5f3f0afcc-2048x1152.png"
         }
       ]
     }

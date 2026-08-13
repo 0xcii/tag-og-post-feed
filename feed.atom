@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-13T14:55:29.318Z</id>
+    <id>urn:2026-08-13T15:57:45.059Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-13T14:55:29.318Z</updated>
+    <updated>2026-08-13T15:57:45.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Standard Chartered Says Its $100 UNI Target May Be Too Low After Robinhood Chain Burns]]></title>
+        <id>https://thedefiant.io/news/defi/standard-chartered-100-uni-target-too-low-robinhood-chain-burns</id>
+        <link href="https://thedefiant.io/news/defi/standard-chartered-100-uni-target-too-low-robinhood-chain-burns"/>
+        <updated>2026-08-13T15:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Geoff Kendrick says UNI burns funded by Robinhood Chain trading have run at an annualized $90 million since Jul. 27. DefiLlama data puts Uniswap's protocol revenue at 2.4 times its prior level, with Robinhood Chain supplying about 60% of it.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharpLink Plans $200 Million ETH Allocation to Lido’s wstETH]]></title>
+        <id>https://thedefiant.io/news/defi/sharplink-plans-200-million-eth-allocation-to-lido-s-wsteth</id>
+        <link href="https://thedefiant.io/news/defi/sharplink-plans-200-million-eth-allocation-to-lido-s-wsteth"/>
+        <updated>2026-08-13T15:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Using Kraken’s displayed $1,889.84 ETH price, the planned allocation equates to about 106,000 ETH, roughly 12% of SharpLink’s reported holdings.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neutrl Pauses Minting and Redemptions While Assessing Reserve Impact]]></title>
         <id>https://thedefiant.io/news/defi/neutrl-pauses-minting-and-redemptions-while-assessing-reserve-impact</id>
@@ -999,26 +1019,6 @@
         <link href="https://thedefiant.io/news/infrastructure/phantom-to-end-monad-support-on-aug-26"/>
         <updated>2026-07-27T18:08:55.000Z</updated>
         <summary type="html"><![CDATA[The wallet is dropping the EVM chain nine months after its mainnet launch, a day after adding Robinhood Chain. Monad co-founder Keone Hon called the move "a step backward," while MetaMask offered to cover migrating users' gas fees.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storj Files Chapter 11, Floats Equity Path for Token Holders]]></title>
-        <id>https://thedefiant.io/news/infrastructure/storj-files-chapter-11-floats-equity-path-for-token-holders</id>
-        <link href="https://thedefiant.io/news/infrastructure/storj-files-chapter-11-floats-equity-path-for-token-holders"/>
-        <updated>2026-07-27T16:33:40.000Z</updated>
-        <summary type="html"><![CDATA[The decentralized storage firm says its network keeps running and its parent, Inveniam, backs the reorganization, as STORJ falls about 18% in 24 hours.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido Unveils Curated Module v2 in Ethereum Staking Overhaul]]></title>
-        <id>https://thedefiant.io/news/blockchains/lido-unveils-curated-module-v2-in-ethereum-staking-overhaul</id>
-        <link href="https://thedefiant.io/news/blockchains/lido-unveils-curated-module-v2-in-ethereum-staking-overhaul"/>
-        <updated>2026-07-27T15:46:31.000Z</updated>
-        <summary type="html"><![CDATA[The liquid staking protocol is migrating more than 8 million staked ETH onto a module that requires node operators to post bonds, a shift expected to cut Ethereum's validator count by about a third.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
