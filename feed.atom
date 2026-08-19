@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-19T13:42:02.643Z</id>
+    <id>urn:2026-08-19T14:31:20.746Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-19T13:42:02.643Z</updated>
+    <updated>2026-08-19T14:31:20.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gnosis Chain to Abandon Its Validator Set and Settle to Ethereum]]></title>
+        <id>https://thedefiant.io/news/blockchains/gnosis-chain-to-abandon-its-validator-set-and-settle-to-ethereum</id>
+        <link href="https://thedefiant.io/news/blockchains/gnosis-chain-to-abandon-its-validator-set-and-settle-to-ethereum"/>
+        <updated>2026-08-19T14:25:49.000Z</updated>
+        <summary type="html"><![CDATA[GnosisDAO approved a strategic shift from standalone Layer 1 to an Ethereum-settled rollup, unlocking about 350,000 GNO and ending treasury-funded staking rewards.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hayden Adams Says AMMs Will Win The Biggest Markets. A Former XTX Trader Says They're Going To Zero]]></title>
         <id>https://thedefiant.io/news/defi/hayden-adams-correlated-pairs-amms-market-makers</id>
@@ -1009,16 +1019,6 @@
         <link href="https://thedefiant.io/news/infrastructure/lightning-labs-launches-site-for-l402-bitcoin-agent-payments"/>
         <updated>2026-07-30T14:13:45.000Z</updated>
         <summary type="html"><![CDATA[The protocol, which lets AI agents pay Lightning invoices to access API endpoints, already runs inside Lightning Loop; the new site is the launch.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Slips Below $64K After Warsh Says "No Soft Inflation Target"]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-slips-below-usd64k-after-warsh-says-no-soft-inflation-target</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-slips-below-usd64k-after-warsh-says-no-soft-inflation-target"/>
-        <updated>2026-07-29T18:48:43.000Z</updated>
-        <summary type="html"><![CDATA[Crypto's relief pop after the Fed's 9-3 hold faded within the hour as the new chair's hawkish press conference dragged risk assets lower.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

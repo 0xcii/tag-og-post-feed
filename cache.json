@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/gnosis-chain-to-abandon-its-validator-set-and-settle-to-ethereum",
+          "author": "The Defiant Team",
+          "description": "GnosisDAO approved a strategic shift from standalone Layer 1 to an Ethereum-settled rollup, unlocking about 350,000 GNO and ending treasury-funded staking rewards.",
+          "link": "https://thedefiant.io/news/blockchains/gnosis-chain-to-abandon-its-validator-set-and-settle-to-ethereum",
+          "publishedOn": "2026-08-19T14:25:49.000Z",
+          "wordCount": null,
+          "title": "Gnosis Chain to Abandon Its Validator Set and Settle to Ethereum",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/978cad4057229cab4a683fcc33d4db071c114b47-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/978cad4057229cab4a683fcc33d4db071c114b47-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/hayden-adams-correlated-pairs-amms-market-makers",
           "author": "The Defiant Team",
           "description": "The Uniswap founder's first blog post since 2019 argues tokenized stocks will trade against index funds instead of dollars. The replies split between investors who called the thesis disruptive and traders who asked who would want to sell NVIDIA for SPY.",
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/93da3f936d8f3ecd301d4ea96cf85bbd63aad680-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-slips-below-usd64k-after-warsh-says-no-soft-inflation-target",
-          "author": "The Defiant Team",
-          "description": "Crypto's relief pop after the Fed's 9-3 hold faded within the hour as the new chair's hawkish press conference dragged risk assets lower.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-slips-below-usd64k-after-warsh-says-no-soft-inflation-target",
-          "publishedOn": "2026-07-29T18:48:43.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Slips Below $64K After Warsh Says \"No Soft Inflation Target\"",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/btc-warsh-thumbnail-jpg-afe40473-fbca-4d2b-86d3-a2eb5554c756.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/btc-warsh-thumbnail-jpg-afe40473-fbca-4d2b-86d3-a2eb5554c756.jpg"
         }
       ]
     }
