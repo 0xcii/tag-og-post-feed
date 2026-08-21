@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-21T13:42:52.926Z</id>
+    <id>urn:2026-08-21T14:32:57.102Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-21T13:42:52.926Z</updated>
+    <updated>2026-08-21T14:32:57.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Judge Keeps Sun's World Liberty Claims In Court]]></title>
+        <id>https://thedefiant.io/news/defi/judge-keeps-justin-sun-world-liberty-claims-in-court</id>
+        <link href="https://thedefiant.io/news/defi/judge-keeps-justin-sun-world-liberty-claims-in-court"/>
+        <updated>2026-08-21T14:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Justin Sun's individual claims will be heard in open court, and the two sides must negotiate which of the claims brought by his corporate plaintiffs go to a private arbitrator. No written order had been entered on the docket as of Thursday afternoon.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism Redirects $49.7 Million Airdrop Reserve After Late Deciding Vote]]></title>
         <id>https://thedefiant.io/news/blockchains/optimism-redirects-49-7-million-airdrop-reserve-after-late-deciding-vote</id>
@@ -1018,16 +1028,6 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-lags-stock-rally-after-hawkish-fed-hold"/>
         <updated>2026-07-31T15:26:42.000Z</updated>
         <summary type="html"><![CDATA[BTC slipped 2.5% Friday as equities surged, closing a July in which the Fed's fifth straight hold and 3.7% PCE inflation shut the door on near-term rate cuts. Uniswap led weekly gainers; Worldcoin sank.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Turns Kansai Electric Loyalty Points Into JPYC Spending]]></title>
-        <id>https://thedefiant.io/news/tokens/polygon-turns-kansai-electric-loyalty-points-into-jpyc-spending</id>
-        <link href="https://thedefiant.io/news/tokens/polygon-turns-kansai-electric-loyalty-points-into-jpyc-spending"/>
-        <updated>2026-07-30T21:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Rewards earned in the utility giant's MOACT app now convert into Japan's regulated yen stablecoin, usable across DeFi through HashPort Wallet.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
