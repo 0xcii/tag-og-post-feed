@@ -69,7 +69,7 @@
           "author": "The Defiant Team",
           "description": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
           "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-          "publishedOn": "2026-08-28T21:05:55.000Z",
+          "publishedOn": "2026-08-29T03:31:03.000Z",
           "wordCount": null,
           "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
           "enclosure": {
@@ -84,7 +84,7 @@
           "author": "The Defiant Team",
           "description": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
           "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-          "publishedOn": "2026-08-28T21:05:55.000Z",
+          "publishedOn": "2026-08-29T03:31:03.000Z",
           "wordCount": null,
           "title": "SEC Crypto Custody Rewrite Enters White House Review",
           "enclosure": {
@@ -112,11 +112,11 @@
         {
           "id": "https://thedefiant.io/news/hacks/attacker-drains-more-than-usd1-million-from-avici-users-in-live-solana-neobank-attack",
           "author": "The Defiant Team",
-          "description": "The wallet behind the attack held 10,005 SOL at press time and was still taking funds. Avici said it was \"aware of an issue affecting card balance withdrawals\" nearly two hours after the first drain transaction.",
+          "description": "Card issuer Rain says an attacker used an outdated version of its Solana contract, which a small number of programs were running. Both companies say affected users will be made whole.",
           "link": "https://thedefiant.io/news/hacks/attacker-drains-more-than-usd1-million-from-avici-users-in-live-solana-neobank-attack",
           "publishedOn": "2026-08-28T19:05:09.000Z",
           "wordCount": null,
-          "title": "Attacker Drains More Than $1 Million From Avici Users In Live Solana Neobank Attack",
+          "title": "Avici Says 1,685 Users Lost $500,859 In Rain Card Contract Exploit",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/avici-thumbnail-jpg-eef7a4c2-0cf8-4714-b4c8-acda8393e76e.jpg",
             "length": "1000000",
