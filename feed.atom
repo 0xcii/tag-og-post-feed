@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-31T17:54:05.597Z</id>
+    <id>urn:2026-08-31T22:30:17.779Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-31T17:54:05.597Z</updated>
+    <updated>2026-08-31T22:30:17.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-08-31T17:54:03.000Z</updated>
+        <updated>2026-08-31T22:30:15.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,8 +19,38 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-08-31T17:54:03.000Z</updated>
+        <updated>2026-08-31T22:30:15.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood Chain Tops Ethereum In Daily App Revenue]]></title>
+        <id>https://thedefiant.io/news/blockchains/robinhood-chain-tops-ethereum-in-daily-app-revenue</id>
+        <link href="https://thedefiant.io/news/blockchains/robinhood-chain-tops-ethereum-in-daily-app-revenue"/>
+        <updated>2026-08-31T20:38:48.000Z</updated>
+        <summary type="html"><![CDATA[Applications on the two-month-old Arbitrum network earned $2.66 million in 24 hours, ranking second behind Solana, with a memecoin launchpad as the biggest single source.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloomberg: Hyperliquid in Advanced Talks With Kraken Parent on US Perpetuals Push]]></title>
+        <id>https://thedefiant.io/news/defi/bloomberg-hyperliquid-in-advanced-talks-with-kraken-parent-on-us-perpetuals-push</id>
+        <link href="https://thedefiant.io/news/defi/bloomberg-hyperliquid-in-advanced-talks-with-kraken-parent-on-us-perpetuals-push"/>
+        <updated>2026-08-31T20:37:55.000Z</updated>
+        <summary type="html"><![CDATA[The reported plan would route U.S. traders through CFTC-regulated Bitnomial, while neither Payward nor Hyperliquid has confirmed a deal.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Memecoin Called BONER Has Cornered Half the Tokenized Hims & Hers Float]]></title>
+        <id>https://thedefiant.io/news/tokens/a-memecoin-called-boner-has-cornered-half-the-tokenized-hims-and-hers-float</id>
+        <link href="https://thedefiant.io/news/tokens/a-memecoin-called-boner-has-cornered-half-the-tokenized-hims-and-hers-float"/>
+        <updated>2026-08-31T17:34:35.000Z</updated>
+        <summary type="html"><![CDATA[The BONER/HIMS pool on Robinhood Chain holds 31,198 of the 58,714 tokenized Hims & Hers shares that exist. With the NYSE closed on Sunday night, the tokenized stock printed $132.64 against an equity that had closed Friday at $28.84.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -989,36 +1019,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-abu-dhabi-license-for-tokenized-securities-hub"/>
         <updated>2026-08-11T16:21:34.000Z</updated>
         <summary type="html"><![CDATA[The FSRA permission covers arranging deals in investments and custody. Coinbase has not named a launch date, and the fine print limits which token holders can vote their shares.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ousted Pudgy Penguins Co-Founder Sells Out 44,444-Piece NFT Mint on Robinhood Chain]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/ousted-pudgy-penguins-co-founder-sells-out-44-444-piece-nft-mint-on-robinhood-chain</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/ousted-pudgy-penguins-co-founder-sells-out-44-444-piece-nft-mint-on-robinhood-chain"/>
-        <updated>2026-08-11T14:57:03.000Z</updated>
-        <summary type="html"><![CDATA[An onchain tally of the mint events by analyst 0xlaplaced puts the take at $1,282,852 — well above the $755,000 figures that circulated during the sale — while the Spritehood contract's source code remains unverified.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoneyGram Brings Cash-To-Crypto Ramps To Solana]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/moneygram-ramps-goes-live-on-solana-with-cash-in-in-only-25-countries</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/moneygram-ramps-goes-live-on-solana-with-cash-in-in-only-25-countries"/>
-        <updated>2026-08-11T14:35:39.000Z</updated>
-        <summary type="html"><![CDATA[MoneyGram Ramps is now native to Solana, ending its run as a Stellar-only product. Trading app Rift is the first Solana wallet to integrate it.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eToro to Buy US Brokerage TradeZero for Up to $231M as Crypto Revenue Shrinks]]></title>
-        <id>https://thedefiant.io/converge/cefi/etoro-to-buy-us-brokerage-tradezero-for-up-to-231m-as-crypto-revenue-shrinks</id>
-        <link href="https://thedefiant.io/converge/cefi/etoro-to-buy-us-brokerage-tradezero-for-up-to-231m-as-crypto-revenue-shrinks"/>
-        <updated>2026-08-11T14:08:00.000Z</updated>
-        <summary type="html"><![CDATA[The purchase, eToro's third acquisition signed this year, is not expected to close until the first half of 2027 and needs regulatory approvals for a broker-dealer whose chief executive settled SEC charges in 2022.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
