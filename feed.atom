@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-31T10:34:55.102Z</id>
+    <id>urn:2026-08-31T17:54:05.597Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-31T10:34:55.102Z</updated>
+    <updated>2026-08-31T17:54:05.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-08-31T10:34:52.000Z</updated>
+        <updated>2026-08-31T17:54:03.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,8 +19,98 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-08-31T10:34:52.000Z</updated>
+        <updated>2026-08-31T17:54:03.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ontology Halts Mainnet Block Production Over Potential Security Concern]]></title>
+        <id>https://thedefiant.io/news/blockchains/ontology-halts-mainnet-block-production-over-potential-security-concern</id>
+        <link href="https://thedefiant.io/news/blockchains/ontology-halts-mainnet-block-production-over-potential-security-concern"/>
+        <updated>2026-08-31T17:32:50.000Z</updated>
+        <summary type="html"><![CDATA[The explorer’s last block was created at 4:24 a.m. ET, leaving transactions and Ontology-side bridge transfers unable to settle while validators review the network.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traders Make a September Rate Increase the Favorite as Bitcoin Holds $78,000]]></title>
+        <id>https://thedefiant.io/news/markets/traders-make-september-rate-increase-favorite-bitcoin-holds-78000</id>
+        <link href="https://thedefiant.io/news/markets/traders-make-september-rate-increase-favorite-bitcoin-holds-78000"/>
+        <updated>2026-08-31T16:43:02.000Z</updated>
+        <summary type="html"><![CDATA[Polymarket prices a quarter-point hike at 55.5% after Kevin Warsh's Jackson Hole speech, against 28% on Friday afternoon. Bitcoin is down 0.7% on the day and 24.5% higher since the start of August, while 88 of the 125 largest non-stablecoin tokens fell.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitMine’s Staked ETH Holds at 5.07 Million as Treasury Grows]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/bitmine-s-staked-eth-holds-at-5-07-million-as-treasury-grows</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/bitmine-s-staked-eth-holds-at-5-07-million-as-treasury-grows"/>
+        <updated>2026-08-31T16:24:16.000Z</updated>
+        <summary type="html"><![CDATA[The $12.7 billion staked balance was unchanged in four weekly readings, while BitMine added 53,501 ETH and reported $335 million in annualized staking revenue.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sberbank Plans Bitcoin, Ethereum and Tether as Loan Collateral]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/sberbank-plans-bitcoin-ethereum-and-tether-as-loan-collateral</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/sberbank-plans-bitcoin-ethereum-and-tether-as-loan-collateral"/>
+        <updated>2026-08-31T16:22:19.000Z</updated>
+        <summary type="html"><![CDATA[The expansion is contingent on new crypto rules taking full effect and the Bank of Russia permitting the assets for public circulation.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategy Restarts Bitcoin Buying With $370 Million Purchase]]></title>
+        <id>https://thedefiant.io/news/cefi/strategy-restarts-bitcoin-buying-with-370-million-purchase</id>
+        <link href="https://thedefiant.io/news/cefi/strategy-restarts-bitcoin-buying-with-370-million-purchase"/>
+        <updated>2026-08-31T16:06:15.000Z</updated>
+        <summary type="html"><![CDATA[The company funded 4,603 BTC entirely with MSTR share-sale proceeds, leaving its $5.10 billion USD Reserve untouched for preferred dividends and debt interest.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fogo Mainnet Has Been Stopped For 46 Hours With No Restart Timeline]]></title>
+        <id>https://thedefiant.io/news/security/fogo-halts-mainnet-after-400-million-fogo-sent-to-bad-actor</id>
+        <link href="https://thedefiant.io/news/security/fogo-halts-mainnet-after-400-million-fogo-sent-to-bad-actor"/>
+        <updated>2026-08-31T15:10:24.000Z</updated>
+        <summary type="html"><![CDATA[The chain has produced no blocks since Saturday, the halt notice is still the Foundation's most recent update, and an impersonator account is circulating a fake compensation vote.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balancer Warns Legacy V1 LPs to Exit After Pool-Draining Bug]]></title>
+        <id>https://thedefiant.io/news/defi/balancer-warns-legacy-v1-lps-to-exit-after-pool-draining-bug</id>
+        <link href="https://thedefiant.io/news/defi/balancer-warns-legacy-v1-lps-to-exit-after-pool-draining-bug"/>
+        <updated>2026-08-31T14:44:38.000Z</updated>
+        <summary type="html"><![CDATA[Balancer said the deprecated pools are non-pausable, while SlowMist attributed a roughly $234,000 V1 drain to a fixed-point rounding flaw.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CME Launches Crypto Index That Excludes Bitcoin and Ether]]></title>
+        <id>https://thedefiant.io/converge/markets/cme-launches-crypto-index-that-excludes-bitcoin-and-ether</id>
+        <link href="https://thedefiant.io/converge/markets/cme-launches-crypto-index-that-excludes-bitcoin-and-ether"/>
+        <updated>2026-08-31T14:42:21.000Z</updated>
+        <summary type="html"><![CDATA[The 10-asset emerging benchmark is free-float market-cap weighted, with real-time pricing and London, New York and Asia-Pacific settlement variants.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cronos Restarts Chain by Rolling State Back to Before the Tectonic Exploit]]></title>
+        <id>https://thedefiant.io/news/hacks/cronos-produces-no-block-for-10-hours-as-68-7m-from-tectonic-exploit-sits-frozen</id>
+        <link href="https://thedefiant.io/news/hacks/cronos-produces-no-block-for-10-hours-as-68-7m-from-tectonic-exploit-sits-frozen"/>
+        <updated>2026-08-31T14:34:02.000Z</updated>
+        <summary type="html"><![CDATA[Validators discarded almost 11,000 blocks, erasing the attacker's Cronos balances along with close to two hours of everyone else's transactions. The $6.29 million already bridged to Ethereum is beyond the rollback's reach.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -940,96 +1030,6 @@
         <updated>2026-08-11T01:01:20.000Z</updated>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin's BIP Editors Remove Luke Dashjr Two Days After BIP-110 Fork Stalled]]></title>
-        <id>https://thedefiant.io/news/blockchains/bitcoin-bip-editors-remove-luke-dashjr-after-bip-110-fork-stalled</id>
-        <link href="https://thedefiant.io/news/blockchains/bitcoin-bip-editors-remove-luke-dashjr-after-bip-110-fork-stalled"/>
-        <updated>2026-08-10T22:40:11.000Z</updated>
-        <summary type="html"><![CDATA[Dashjr lost editor and admin access to the BIPs repository about 26 hours after Mark "Murch" Erhardt filed a motion on the developer mailing list. Dashjr called the accusations false. Minutes before the removal was confirmed, he announced a sabbatical from mining pool Ocean.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Prediction Markets Shut Down Hours Apart as Kalshi and Polymarket Take 93% of Volume]]></title>
-        <id>https://thedefiant.io/news/defi/two-prediction-markets-shut-down-hours-apart-as-kalshi-and-polymarket-take-93-of-volume</id>
-        <link href="https://thedefiant.io/news/defi/two-prediction-markets-shut-down-hours-apart-as-kalshi-and-polymarket-take-93-of-volume"/>
-        <updated>2026-08-10T21:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Trepa and Fireplace both told users to withdraw by Sept. 30. One published a post-mortem arguing crypto's active user base is far smaller than the industry reports.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood's Head of Product Reveals How Robinhood Chain Hit 200M Transactions in 30 Days]]></title>
-        <id>https://thedefiant.io/converge/podcast/robinhood-s-head-of-product-reveals-how-robinhood-chain-hit-200m-transactions-in-30-days</id>
-        <link href="https://thedefiant.io/converge/podcast/robinhood-s-head-of-product-reveals-how-robinhood-chain-hit-200m-transactions-in-30-days"/>
-        <updated>2026-08-10T19:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood just launched its own blockchain — and the numbers are wild. Seong Lee, Head of Product for Robinhood Crypto, joins Chris Storaker to explain how Robinhood Chain went from zero to 200 million transactions in a month, why permissionless stock tokens can now be redeemed even if Robinhood]]></summary>
-        <author>
-            <name>Chris Storaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ether Products Lead $600M Crypto ETP Flow Rebound in July]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/ether-products-lead-600m-crypto-etp-flow-rebound-in-july</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/ether-products-lead-600m-crypto-etp-flow-rebound-in-july"/>
-        <updated>2026-08-10T17:08:29.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin products still took 78.5% of the $133.3 billion traded in global crypto ETPs during July, even as ether led the money coming in.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Buterin's Ethereum Roadmap Prioritizes Quantum Readiness and Privacy]]></title>
-        <id>https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy</id>
-        <link href="https://thedefiant.io/news/blockchains/vitalik-buterin-s-ethereum-roadmap-prioritizes-quantum-readiness-and-privacy"/>
-        <updated>2026-08-10T17:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Quantum safety moved up the queue, VDFs and most EVM improvement work moved down, and Verkle trees and state expiry were dropped for other constructions. Privacy, post-quantum scaling and native rollups were not on the 2023 diagram at all.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIP-110 Bitcoin Fork Stalls at Two Blocks as Its Only Miner Quits]]></title>
-        <id>https://thedefiant.io/news/blockchains/bip-110-bitcoin-fork-stalls-at-two-blocks-as-its-only-miner-quits</id>
-        <link href="https://thedefiant.io/news/blockchains/bip-110-bitcoin-fork-stalls-at-two-blocks-as-its-only-miner-quits"/>
-        <updated>2026-08-10T16:15:22.000Z</updated>
-        <summary type="html"><![CDATA[OCEAN will refund roughly 0.3 BTC to miners whose hashrate its Stratum templates sent to the breakaway chain for about 18 hours.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightning Nodes Drained As BTCPay Server Users Race To Patch]]></title>
-        <id>https://thedefiant.io/news/hacks/btcpay-server-tells-operators-to-update-or-shut-down-over-actively-exploited-flaw</id>
-        <link href="https://thedefiant.io/news/hacks/btcpay-server-tells-operators-to-update-or-shut-down-over-actively-exploited-flaw"/>
-        <updated>2026-08-07T20:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Hardware wallet maker Foundation and the Bitcoin zine Citadel21 both said their nodes were swept, in some cases hours before the project's public alert. BTCPay says the flaw under attack is not the one disclosed in its changelog.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Perp DEX Flash Trade to Wind Down Unless It Finds a Buyer]]></title>
-        <id>https://thedefiant.io/news/defi/solana-perp-dex-flash-trade-to-wind-down-unless-it-finds-a-buyer</id>
-        <link href="https://thedefiant.io/news/defi/solana-perp-dex-flash-trade-to-wind-down-unless-it-finds-a-buyer"/>
-        <updated>2026-08-07T20:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Any proceeds from a sale of the exchange's tech stack, brand and IP go to FAF holders pro rata, with team tokens excluded from the distribution.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SharpLink Opposes Ethereum Proposal to Burn a Growing Share of Validator Rewards]]></title>
-        <id>https://thedefiant.io/news/blockchains/sharplink-opposes-ethereum-proposal-to-burn-a-growing-share-of-validator-rewards</id>
-        <link href="https://thedefiant.io/news/blockchains/sharplink-opposes-ethereum-proposal-to-burn-a-growing-share-of-validator-rewards"/>
-        <updated>2026-08-07T17:38:24.000Z</updated>
-        <summary type="html"><![CDATA[Joseph Chalom argues the draft would strip the base rate out from under roughly $35 billion in liquid staking token collateral and could push institutions to sell ETH as they unstake.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
