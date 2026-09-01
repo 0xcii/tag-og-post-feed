@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-01T07:18:39.279Z</id>
+    <id>urn:2026-09-01T13:07:28.815Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-01T07:18:39.279Z</updated>
+    <updated>2026-09-01T13:07:28.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-09-01T07:18:36.000Z</updated>
+        <updated>2026-09-01T13:07:25.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,8 +19,18 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-09-01T07:18:36.000Z</updated>
+        <updated>2026-09-01T13:07:25.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neuberger's Tokenized High-Yield Fund Becomes Loopscale Collateral]]></title>
+        <id>https://thedefiant.io/converge/defi/neuberger-tokenized-high-yield-fund-becomes-loopscale-collateral</id>
+        <link href="https://thedefiant.io/converge/defi/neuberger-tokenized-high-yield-fund-becomes-loopscale-collateral"/>
+        <updated>2026-09-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eligible investors can now borrow USDG against a fund holding high-yield corporate bonds and CLO tranches, collateral whose value moves daily with credit spreads.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -1009,16 +1019,6 @@
         <link href="https://thedefiant.io/news/defi/ens-tokenholders-hand-endowment-control-to-a-staffed-foundation"/>
         <updated>2026-08-11T16:34:39.000Z</updated>
         <summary type="html"><![CDATA[The proposal passed with 1.27 million ENS in favor and 480,690 against. Co-founder Alex Van de Sande voted no after decoding the executable, arguing the DAO disappears from the endowment's control chain.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Wins Abu Dhabi License for Tokenized Securities Hub]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-abu-dhabi-license-for-tokenized-securities-hub</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-abu-dhabi-license-for-tokenized-securities-hub"/>
-        <updated>2026-08-11T16:21:34.000Z</updated>
-        <summary type="html"><![CDATA[The FSRA permission covers arranging deals in investments and custody. Coinbase has not named a launch date, and the fine print limits which token holders can vote their shares.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

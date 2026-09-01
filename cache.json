@@ -69,7 +69,7 @@
           "author": "The Defiant Team",
           "description": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
           "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-          "publishedOn": "2026-09-01T07:18:36.000Z",
+          "publishedOn": "2026-09-01T13:07:25.000Z",
           "wordCount": null,
           "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
           "enclosure": {
@@ -84,7 +84,7 @@
           "author": "The Defiant Team",
           "description": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
           "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-          "publishedOn": "2026-09-01T07:18:36.000Z",
+          "publishedOn": "2026-09-01T13:07:25.000Z",
           "wordCount": null,
           "title": "SEC Crypto Custody Rewrite Enters White House Review",
           "enclosure": {
@@ -93,6 +93,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6d9fbb8531c1aa6addad885741ca06e35d79f654-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/converge/defi/neuberger-tokenized-high-yield-fund-becomes-loopscale-collateral",
+          "author": "The Defiant Team",
+          "description": "Eligible investors can now borrow USDG against a fund holding high-yield corporate bonds and CLO tranches, collateral whose value moves daily with credit spreads.",
+          "link": "https://thedefiant.io/converge/defi/neuberger-tokenized-high-yield-fund-becomes-loopscale-collateral",
+          "publishedOn": "2026-09-01T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Neuberger's Tokenized High-Yield Fund Becomes Loopscale Collateral",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/neuberger-thumbnail-jpg-0c49d798-662f-4284-9314-1f8d8ec36bbd.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/neuberger-thumbnail-jpg-0c49d798-662f-4284-9314-1f8d8ec36bbd.jpg"
         },
         {
           "id": "https://thedefiant.io/news/blockchains/robinhood-chain-tops-ethereum-in-daily-app-revenue",
@@ -1548,21 +1563,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/ens-endowment-thumbnail-jpg-e87678f1-5739-45dd-a6f2-99bc39777bff.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-abu-dhabi-license-for-tokenized-securities-hub",
-          "author": "The Defiant Team",
-          "description": "The FSRA permission covers arranging deals in investments and custody. Coinbase has not named a launch date, and the fine print limits which token holders can vote their shares.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wins-abu-dhabi-license-for-tokenized-securities-hub",
-          "publishedOn": "2026-08-11T16:21:34.000Z",
-          "wordCount": null,
-          "title": "Coinbase Wins Abu Dhabi License for Tokenized Securities Hub",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/coinbase-adgm-thumbnail-jpg-dd0ea596-1c49-4633-8abf-8c347f24e9e5.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/coinbase-adgm-thumbnail-jpg-dd0ea596-1c49-4633-8abf-8c347f24e9e5.jpg"
         }
       ]
     }
