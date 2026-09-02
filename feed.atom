@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-02T13:14:59.991Z</id>
+    <id>urn:2026-09-02T17:36:35.506Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-02T13:14:59.991Z</updated>
+    <updated>2026-09-02T17:36:35.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-09-02T13:14:57.000Z</updated>
+        <updated>2026-09-02T17:36:32.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,8 +19,88 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-09-02T13:14:57.000Z</updated>
+        <updated>2026-09-02T17:36:32.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Holds $77,000 After Weak Hiring Print]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-holds-77000-after-weak-adp-hiring-print</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-holds-77000-after-weak-adp-hiring-print"/>
+        <updated>2026-09-02T16:26:51.000Z</updated>
+        <summary type="html"><![CDATA[ADP reported 38,000 private jobs added in August, down from 44,000 in July, and traders raised the odds of a September Federal Reserve increase anyway. Eighty-four of the 125 largest non-stablecoin tokens fell, gold rose 0.84% and the Nasdaq 100 dropped 1.29%.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSea Adds Solana NFT Trading Across OS2]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/opensea-adds-solana-nft-trading-across-os2</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/opensea-adds-solana-nft-trading-across-os2"/>
+        <updated>2026-09-02T16:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Collectors can browse, buy and sell Solana NFTs alongside the network’s fungible tokens, with Mad Lads and Claynosaurz available at launch.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArbitrumDAO Income Reached $6.19 Million In H1]]></title>
+        <id>https://thedefiant.io/news/blockchains/arbitrumdao-income-reached-usd6-19-million-in-h1-robinhood-chain-35-percent-of-july</id>
+        <link href="https://thedefiant.io/news/blockchains/arbitrumdao-income-reached-usd6-19-million-in-h1-robinhood-chain-35-percent-of-july"/>
+        <updated>2026-09-02T16:00:16.000Z</updated>
+        <summary type="html"><![CDATA[The Arbitrum Foundation's first-half report puts $360,000 of Arbitrum Expansion Program license fees at 35% of ArbitrumDAO's July income, the first month Robinhood Chain ran on mainnet.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nomura's Laser Digital Moves Into DeFi Fixed Income]]></title>
+        <id>https://thedefiant.io/news/defi/nomura-laser-digital-keyring-defi-fixed-income-euler</id>
+        <link href="https://thedefiant.io/news/defi/nomura-laser-digital-keyring-defi-fixed-income-euler"/>
+        <updated>2026-09-02T15:16:58.000Z</updated>
+        <summary type="html"><![CDATA[Laser Digital will act as risk governor for lending markets built with Keyring Network, with the first markets readied for Euler Finance. Neither company disclosed committed capital, fee terms or a launch date.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21 Financial Institutions Commit to Joint Stablecoin Venture]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/21-financial-institutions-commit-to-joint-stablecoin-venture</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/21-financial-institutions-commit-to-joint-stablecoin-venture"/>
+        <updated>2026-09-02T15:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Bank of America, Citi, Goldman Sachs, UBS, Deutsche Bank and 16 other firms said Tuesday they will incorporate a company in the second half of 2026 to issue a dollar stablecoin, with a market launch targeted for the first half of 2027. The announcement did not name the company, its owners, its]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securitize Will Issue Socios' Tokenized Sports Team Equity]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/securitize-socios-tokenized-sports-team-equity</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/securitize-socios-tokenized-sports-team-equity"/>
+        <updated>2026-09-02T14:52:20.000Z</updated>
+        <summary type="html"><![CDATA[The Chiliz Group announced the equity token product on Aug. 27 without naming an issuer. The EU regime the companies say the first offering would run through admits shares only from issuers worth less than €500 million.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backpack Adds Micron and SanDisk Shares as Margin Collateral]]></title>
+        <id>https://thedefiant.io/news/cefi/backpack-adds-micron-and-sandisk-shares-as-margin-collateral</id>
+        <link href="https://thedefiant.io/news/cefi/backpack-adds-micron-and-sandisk-shares-as-margin-collateral"/>
+        <updated>2026-09-02T14:37:14.000Z</updated>
+        <summary type="html"><![CDATA[The exchange also introduced 24/7 perpetual futures on MU, SNDK, SPY and QQQ, but its post did not specify key collateral and liquidation terms.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Proposes Transfer Agent Rules for Blockchain-Based Share Records]]></title>
+        <id>https://thedefiant.io/converge/regulation/sec-proposes-transfer-agent-rules-for-blockchain-based-share-records</id>
+        <link href="https://thedefiant.io/converge/regulation/sec-proposes-transfer-agent-rules-for-blockchain-based-share-records"/>
+        <updated>2026-09-02T14:29:01.000Z</updated>
+        <summary type="html"><![CDATA[The proposal would update electronic recordkeeping rules and add risk-management and compliance requirements for registered transfer agents using blockchain systems.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -939,86 +1019,6 @@
         <link href="https://thedefiant.io/converge/cefi/bitgo-cfo-to-exit-as-q2-net-loss-hits-19-million"/>
         <updated>2026-08-12T21:03:01.000Z</updated>
         <summary type="html"><![CDATA[Revenue jumped 80%, but trading and staking margins weakened as BitGo targeted $15 million in annualized savings following June layoffs.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Staff Clears Franklin Funds to Use Onchain Money Fund for Cash and Collateral]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/sec-staff-clears-franklin-funds-to-use-onchain-money-fund-for-cash-and-collateral</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/sec-staff-clears-franklin-funds-to-use-onchain-money-fund-for-cash-and-collateral"/>
-        <updated>2026-08-12T20:16:45.000Z</updated>
-        <summary type="html"><![CDATA[The relief lets Franklin Templeton’s registered funds hold FOBXX through an affiliated blockchain-integrated system, subject to 12 custody and control conditions.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pump.fun's Share Of Launchpad Fees Fell To 27% In July. Four Weeks Later It's Back Above Half]]></title>
-        <id>https://thedefiant.io/news/defi/pump-fun-launchpad-fee-share-falls-robinhood-chain-pons-noxa</id>
-        <link href="https://thedefiant.io/news/defi/pump-fun-launchpad-fee-share-falls-robinhood-chain-pons-noxa"/>
-        <updated>2026-08-12T19:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Two launchpads on Robinhood Chain cut pump.fun's share of launchpad fees from 80% to 27% in two weeks. Pump.fun's fees are up 30% over 30 days anyway, because the category grew 77% around it. Memecoin prices did not participate.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marinade Says 28.83% of Solana Stake Went Delinquent, Nearing Finality Halt]]></title>
-        <id>https://thedefiant.io/news/blockchains/marinade-says-28-83-of-solana-stake-went-delinquent-nearing-finality-halt</id>
-        <link href="https://thedefiant.io/news/blockchains/marinade-says-28-83-of-solana-stake-went-delinquent-nearing-finality-halt"/>
-        <updated>2026-08-12T19:31:22.000Z</updated>
-        <summary type="html"><![CDATA[Teraswitch confirmed a 12-site routing failure; Marinade said 94% of the 118.89 million SOL on its autonomous system went dark.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Advances Tokenized-Securities Exemption That Could Enable 24/7 Trading]]></title>
-        <id>https://thedefiant.io/converge/regulation/sec-advances-tokenized-securities-exemption-that-could-enable-24-7-trading</id>
-        <link href="https://thedefiant.io/converge/regulation/sec-advances-tokenized-securities-exemption-that-could-enable-24-7-trading"/>
-        <updated>2026-08-12T19:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Atkins says the framework would support compliant onchain trading while long-term rules are developed; Friday's scheduled Commission consideration covers a separate offering proposal.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Community Argues Over Whether Its Foundation Should Pick Winners]]></title>
-        <id>https://thedefiant.io/news/blockchains/solana-foundation-kingmaking-debate-flash-trade-lily-liu</id>
-        <link href="https://thedefiant.io/news/blockchains/solana-foundation-kingmaking-debate-flash-trade-lily-liu"/>
-        <updated>2026-08-12T16:32:20.000Z</updated>
-        <summary type="html"><![CDATA[Flash.Trade's founder said Foundation backing for a rival contributed to his decision to wind the perps exchange down. Foundation president Lily Liu says the market decides who wins.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwise Cuts 14% of Staff as Client Assets Fall to $9 Billion]]></title>
-        <id>https://thedefiant.io/converge/cefi/bitwise-cuts-14-of-staff-as-client-assets-fall-to-9-billion</id>
-        <link href="https://thedefiant.io/converge/cefi/bitwise-cuts-14-of-staff-as-client-assets-fall-to-9-billion"/>
-        <updated>2026-08-12T15:31:25.000Z</updated>
-        <summary type="html"><![CDATA[The crypto asset manager reduced headcount to about 155 from 180, while its BITW index fund ended June with $532.8 million in net assets, down from $1.03 billion at year-end.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harmony Patches Pre-Staking Quorum and Receipt-Replay Flaws After ONE Mint Claim]]></title>
-        <id>https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim</id>
-        <link href="https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim"/>
-        <updated>2026-08-12T14:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Harmony asked exchanges to block four wallets and paused its bridge, while an analyst’s estimate of four billion unauthorized ONE remains unconfirmed.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barça Mobile Plans Stellar Wallet With Wirex and Crossmint]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/bar-a-mobile-plans-stellar-wallet-with-wirex-and-crossmint</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/bar-a-mobile-plans-stellar-wallet-with-wirex-and-crossmint"/>
-        <updated>2026-08-12T11:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Wirex will provide payment and card infrastructure, Crossmint will handle wallet onboarding, and Stellar will supply the blockchain layer for the planned feature.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
