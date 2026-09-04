@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-04T21:14:42.666Z</id>
+    <id>urn:2026-09-04T23:44:52.729Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-04T21:14:42.666Z</updated>
+    <updated>2026-09-04T23:44:52.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-09-04T21:14:39.000Z</updated>
+        <updated>2026-09-04T23:44:49.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,8 +19,18 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-09-04T21:14:39.000Z</updated>
+        <updated>2026-09-04T23:44:49.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood Chain Never Stopped But its Blobs Did Stop Reaching Ethereum For 14 Minutes]]></title>
+        <id>https://thedefiant.io/news/blockchains/robinhood-chain-never-stopped-but-its-blobs-did-stop-reaching-ethereum-for-14-minutes</id>
+        <link href="https://thedefiant.io/news/blockchains/robinhood-chain-never-stopped-but-its-blobs-did-stop-reaching-ethereum-for-14-minutes"/>
+        <updated>2026-09-04T21:12:48.000Z</updated>
+        <summary type="html"><![CDATA[Blocks came every 101 milliseconds throughout the outage reported on Friday. The chain's transaction data went missing on Ethereum for exactly 14 minutes, across two gaps. Arbitrum blamed Ethereum's blob market, which fits the second gap and not the first.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -1018,16 +1028,6 @@
         <link href="https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain"/>
         <updated>2026-08-17T15:52:20.000Z</updated>
         <summary type="html"><![CDATA[OpenRouter meters AI usage against prepaid deposits and charges 5% on crypto top-ups against 5.5% on card purchases made through Stripe. Stripe co-incubated Tempo to settle machine payments onchain; the chain is running at about one transaction per second.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SafePal Breach Exposes 39,798 Buyers as Stolen Records Hit Cybercrime Forum]]></title>
-        <id>https://thedefiant.io/news/security/safepal-breach-exposes-39-798-customers-stolen-records-for-sale</id>
-        <link href="https://thedefiant.io/news/security/safepal-breach-exposes-39-798-customers-stolen-records-for-sale"/>
-        <updated>2026-08-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The wallet maker says a flaw in an order-tracking plug-in leaked names, phone numbers and shipping addresses over 14 months. A seller is now advertising the file.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
