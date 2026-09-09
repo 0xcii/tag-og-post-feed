@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-09T20:28:31.806Z</id>
+    <id>urn:2026-09-09T22:56:55.057Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-09T20:28:31.806Z</updated>
+    <updated>2026-09-09T22:56:55.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-09-09T20:28:29.000Z</updated>
+        <updated>2026-09-09T22:56:51.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,8 +19,38 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-09-09T20:28:29.000Z</updated>
+        <updated>2026-09-09T22:56:51.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pump.fun Lets Creators Launch Coins Priced In Tokenized Stocks]]></title>
+        <id>https://thedefiant.io/news/defi/pump-fun-lets-creators-launch-coins-priced-in-tokenized-stocks</id>
+        <link href="https://thedefiant.io/news/defi/pump-fun-lets-creators-launch-coins-priced-in-tokenized-stocks"/>
+        <updated>2026-09-09T21:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Pump.fun opened token launches to quote assets beyond SOL and USDC on Wednesday afternoon, putting the count at 93 pairs including tokenized Nvidia, Tesla and the S&P 500. Half the revenue from the new pairs goes to the PUMP buyback-and-burn contract. The deepest of the new quote assets holds $3.07]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zora Co-Founder Dee Goens Replaces Jacob Horne as CEO]]></title>
+        <id>https://thedefiant.io/news/defi/zora-co-founder-dee-goens-replaces-jacob-horne-as-ceo</id>
+        <link href="https://thedefiant.io/news/defi/zora-co-founder-dee-goens-replaces-jacob-horne-as-ceo"/>
+        <updated>2026-09-09T20:38:02.000Z</updated>
+        <summary type="html"><![CDATA[Goens said Zora is now under 10 people after a headcount reduction this year and named ZORA buybacks among his first priorities. Fees from the protocol’s Base deployment are down 99% from a year ago.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tenev Says Robinhood Stock Tokens Should Not Automatically Require Issuer Consent]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/tenev-says-robinhood-stock-tokens-should-not-automatically-require-issuer-consent</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/tenev-says-robinhood-stock-tokens-should-not-automatically-require-issuer-consent"/>
+        <updated>2026-09-09T20:36:11.000Z</updated>
+        <summary type="html"><![CDATA[The Robinhood CEO acknowledged that token holders lack voting rights, reflecting a structure that provides economic exposure through Jersey-issued debt securities rather than share ownership.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -989,36 +1019,6 @@
         <link href="https://thedefiant.io/news/defi/coinbase-launches-tokenized-stocks-on-base"/>
         <updated>2026-08-24T21:10:00.000Z</updated>
         <summary type="html"><![CDATA[Four tokens covering Nvidia, Apple, Meta and Alphabet went live for non-US users, with about $4.5 million minted and $3 million of DEX liquidity on day one. Chainlink price feeds run 24/5 while the tokens trade 24/7.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Trump Denies New Coin Launch as TRUMP Jumps 38%]]></title>
-        <id>https://thedefiant.io/news/tokens/eric-trump-denies-new-coin-launch-as-trump-jumps-38</id>
-        <link href="https://thedefiant.io/news/tokens/eric-trump-denies-new-coin-launch-as-trump-jumps-38"/>
-        <updated>2026-08-22T21:21:36.000Z</updated>
-        <summary type="html"><![CDATA[The rumor included an unverified claim about a 290 ETH Robinhood Chain wallet, while MELANIA gained 18.4% over 24 hours.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sandbox Says It Contained Bridge Exploit That Minted Unbacked SAND on Base and BSC]]></title>
-        <id>https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc</id>
-        <link href="https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc"/>
-        <updated>2026-08-22T17:08:34.000Z</updated>
-        <summary type="html"><![CDATA[Upbit and Bithumb froze SAND transfers under South Korea's user-protection law, with Upbit halting deposits and withdrawals on Ethereum — the chain the studio says was not affected.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Activates 350-Millisecond Slots on Mainnet]]></title>
-        <id>https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet</id>
-        <link href="https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet"/>
-        <updated>2026-08-21T22:09:27.000Z</updated>
-        <summary type="html"><![CDATA[The first cut since Solana’s inception shortens the block-production window for validators and begins an epoch-by-epoch path toward 200 milliseconds.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
