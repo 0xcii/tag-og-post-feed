@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-10T14:50:23.822Z</id>
+    <id>urn:2026-09-10T18:07:29.124Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-10T14:50:23.822Z</updated>
+    <updated>2026-09-10T18:07:29.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-09-10T14:50:20.000Z</updated>
+        <updated>2026-09-10T18:07:26.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -19,8 +19,28 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-09-10T14:50:20.000Z</updated>
+        <updated>2026-09-10T18:07:26.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off]]></title>
+        <id>https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026</id>
+        <link href="https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026"/>
+        <updated>2026-09-10T18:07:26.000Z</updated>
+        <summary type="html"><![CDATA[One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin held $77,000. Ether.fi rose 14.2% on a buyback vote that closed a week ago.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MoneyGram's Stablecoin Visa Card Goes Live In Colombia]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/moneygram-stablecoin-visa-card-goes-live-in-colombia</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/moneygram-stablecoin-visa-card-goes-live-in-colombia"/>
+        <updated>2026-09-10T17:46:09.000Z</updated>
+        <summary type="html"><![CDATA[The virtual card spends the dollar balance inside the MoneyGram app and works anywhere Visa is accepted. MoneyGram promised the card a year ago and has not said which stablecoin now backs it.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -990,26 +1010,6 @@
         <link href="https://thedefiant.io/news/hacks/term-finance-permanently-shuts-meta-vaults-after-exploit-peckshield-estimated-at-8-5-million"/>
         <updated>2026-08-25T19:24:38.000Z</updated>
         <summary type="html"><![CDATA[Withdrawals remain open, but Term’s Aug. 23 update did not quantify remaining vault assets and only said it would explore ways to address any shortfall.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwise Launches Self-Custodied Tokenized Stock Portfolio on Base]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/bitwise-launches-self-custodied-tokenized-stock-portfolio-on-base</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/bitwise-launches-self-custodied-tokenized-stock-portfolio-on-base"/>
-        <updated>2026-08-25T19:17:25.000Z</updated>
-        <summary type="html"><![CDATA[Only the Mag7X strategy is active at launch, holding four Coinbase-issued stock tokens; two additional Bitwise models remain marked ‘coming soon.’]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerZero Unveils ATLAS Exchange Engine]]></title>
-        <id>https://thedefiant.io/news/blockchains/layerzero-unveils-atlas-exchange-engine</id>
-        <link href="https://thedefiant.io/news/blockchains/layerzero-unveils-atlas-exchange-engine"/>
-        <updated>2026-08-25T16:28:16.000Z</updated>
-        <summary type="html"><![CDATA[The headless exchange routes 75% of post-venue trading fees into ZRO buybacks and burns, and pays trading venues rebates of up to 65%.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
