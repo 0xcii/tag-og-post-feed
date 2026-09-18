@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-18T13:23:53.237Z</id>
+    <id>urn:2026-09-18T17:30:03.825Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-18T13:23:53.237Z</updated>
+    <updated>2026-09-18T17:30:03.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Blockworks Lets Exchanges Take Compliance Alerts Straight From AI Agents]]></title>
-        <id>https://thedefiant.io/news/infrastructure/blockworks-agentic-detection-ai-agents-compliance-alerts-exchanges</id>
-        <link href="https://thedefiant.io/news/infrastructure/blockworks-agentic-detection-ai-agents-compliance-alerts-exchanges"/>
-        <updated>2026-09-18T13:23:51.000Z</updated>
-        <summary type="html"><![CDATA[Agentic Detection, live Thursday in Messari Monitoring, lets a listings or compliance desk take a development the moment Blockworks' agents find it, before an analyst has checked it. Every alert carries a tag saying whether an agent or an analyst produced it.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Revolut Starts EURR Rollout With Bridge as Regulated Issuer]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer</id>
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer"/>
-        <updated>2026-09-18T13:23:51.000Z</updated>
+        <updated>2026-09-18T17:30:02.000Z</updated>
         <summary type="html"><![CDATA[Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -29,7 +19,7 @@
         <title type="html"><![CDATA[SEC Crypto Custody Rewrite Enters White House Review]]></title>
         <id>https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review</id>
         <link href="https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"/>
-        <updated>2026-09-18T13:23:51.000Z</updated>
+        <updated>2026-09-18T17:30:02.000Z</updated>
         <summary type="html"><![CDATA[The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -39,7 +29,7 @@
         <title type="html"><![CDATA[SEC Clears Tokenized Stocks To Trade Onchain As CFTC Widens Software Relief]]></title>
         <id>https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief</id>
         <link href="https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief"/>
-        <updated>2026-09-18T13:23:51.000Z</updated>
+        <updated>2026-09-18T17:30:02.000Z</updated>
         <summary type="html"><![CDATA[The Securities and Exchange Commission issued a five-year conditional exemption on Thursday letting tokenized National Market System (NMS) stock trade on permissioned automated market makers (AMMs), and Commodity Futures Trading Commission staff opened introducing-broker relief to passive software]]></summary>
         <author>
             <name>The Defiant Team</name>
@@ -49,8 +39,68 @@
         <title type="html"><![CDATA[Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off]]></title>
         <id>https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026</id>
         <link href="https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026"/>
-        <updated>2026-09-18T13:23:51.000Z</updated>
+        <updated>2026-09-18T17:30:02.000Z</updated>
         <summary type="html"><![CDATA[One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Seeks CFTC Approval for US Single-Stock Perpetual Futures]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/coinbase-seeks-cftc-approval-for-us-single-stock-perpetual-futures</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/coinbase-seeks-cftc-approval-for-us-single-stock-perpetual-futures"/>
+        <updated>2026-09-18T17:01:54.000Z</updated>
+        <summary type="html"><![CDATA[The contracts would trade 24/5 on Coinbase Derivatives, use hourly funding and clear through Nodal Clear, but the CFTC filing remains pending.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake AI Bot Tutorials Tricked 224 Victims Into Deploying Their Own Drainers]]></title>
+        <id>https://thedefiant.io/news/security/fake-ai-bot-tutorials-tricked-224-victims-into-deploying-their-own-drainers</id>
+        <link href="https://thedefiant.io/news/security/fake-ai-bot-tutorials-tricked-224-victims-into-deploying-their-own-drainers"/>
+        <updated>2026-09-18T17:00:08.000Z</updated>
+        <summary type="html"><![CDATA[TRM traced 274.60 ETH to six operator addresses after victims signed and funded malicious contracts themselves between February and August.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Dead Drop Attacks Jump 420% as State Hackers Expand]]></title>
+        <id>https://thedefiant.io/news/security/blockchain-dead-drop-attacks-jump-420-as-state-hackers-expand</id>
+        <link href="https://thedefiant.io/news/security/blockchain-dead-drop-attacks-jump-420-as-state-hackers-expand"/>
+        <updated>2026-09-18T16:59:38.000Z</updated>
+        <summary type="html"><![CDATA[Chainalysis says North Korean operators use Tron, Aptos and BNB Smart Chain as redundant command paths, while suspected Iranian actors encode routing data in Bitcoin transactions.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Runs to $81,000 and NEAR Adds 32% as Tokenization Tokens Lead]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-81000-near-tokenization-tokens-lead-rally-sep-18-2026</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-81000-near-tokenization-tokens-lead-rally-sep-18-2026"/>
+        <updated>2026-09-18T16:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Crypto rallied through the Asia and Europe sessions and extended at the U.S. open, and 111 of the 125 largest non-stablecoin tokens are higher. Bitcoin is up 5.8% at $80,829 after touching $81,000, its best level since Sept. 4. NEAR Protocol added 32%, Starknet 27% and Arbitrum 26%, a day after the]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morpho Opens Borrowing Against Coinbase's Tokenized Stocks]]></title>
+        <id>https://thedefiant.io/news/defi/morpho-coinbase-tokenized-stocks-borrowing-base</id>
+        <link href="https://thedefiant.io/news/defi/morpho-coinbase-tokenized-stocks-borrowing-base"/>
+        <updated>2026-09-18T14:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Holders of five Coinbase stock tokens can pledge them for USDC loans on Base.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WisdomTree Opens Tokenized Treasury Fund To MoonPay's 35 Million Accounts]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/wisdomtree-moonpay-wtgxx-tokenized-treasury-stablecoin-reserves</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/wisdomtree-moonpay-wtgxx-tokenized-treasury-stablecoin-reserves"/>
+        <updated>2026-09-18T13:38:51.000Z</updated>
+        <summary type="html"><![CDATA[MoonPay will build an access point for WTGXX and hold the tokenized money market fund against its stablecoin reserves. The fund runs $1.23 billion, fifth-largest in a $15.4 billion tokenized Treasury market.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -101,6 +151,16 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/s-p-global-to-acquire-openzeppelin-in-onchain-risk-push"/>
         <updated>2026-09-17T17:25:00.000Z</updated>
         <summary type="html"><![CDATA[The smart contract security firm will retain its name and audit team as S&P expands from financial risk assessments into onchain technology risk.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockworks Lets Exchanges Take Compliance Alerts Straight From AI Agents]]></title>
+        <id>https://thedefiant.io/news/infrastructure/blockworks-agentic-detection-ai-agents-compliance-alerts-exchanges</id>
+        <link href="https://thedefiant.io/news/infrastructure/blockworks-agentic-detection-ai-agents-compliance-alerts-exchanges"/>
+        <updated>2026-09-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agentic Detection, live Thursday in Messari Monitoring, lets a listings or compliance desk take a development the moment Blockworks' agents find it, before an analyst has checked it. Every alert carries a tag saying whether an agent or an analyst produced it.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -952,66 +1012,6 @@
         <updated>2026-09-02T23:01:02.000Z</updated>
         <author>
             <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Money Mushroom' Moved A Nasdaq Penny Stock, But Its 'Tokenized Stock' Is A Memecoin Too]]></title>
-        <id>https://thedefiant.io/news/tokens/money-mushroom-moved-a-nasdaq-penny-stock-but-its-tokenized-stock-is-a-memecoin-too</id>
-        <link href="https://thedefiant.io/news/tokens/money-mushroom-moved-a-nasdaq-penny-stock-but-its-tokenized-stock-is-a-memecoin-too"/>
-        <updated>2026-09-02T19:33:49.000Z</updated>
-        <summary type="html"><![CDATA[The FAMI token that Money Mushroom trades against on Robinhood Chain is not a Robinhood stock token. Its 37,430,000 supply, close to Farmmi's entire share count, was minted in a single transaction by a wallet that kept 38% and now runs a contract named PoolRepricer to manage the price.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Holds $77,000 After Weak Hiring Print]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-holds-77000-after-weak-adp-hiring-print</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-holds-77000-after-weak-adp-hiring-print"/>
-        <updated>2026-09-02T16:26:51.000Z</updated>
-        <summary type="html"><![CDATA[ADP reported 38,000 private jobs added in August, down from 44,000 in July, and traders raised the odds of a September Federal Reserve increase anyway. Eighty-four of the 125 largest non-stablecoin tokens fell, gold rose 0.84% and the Nasdaq 100 dropped 1.29%.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea Adds Solana NFT Trading Across OS2]]></title>
-        <id>https://thedefiant.io/news/nfts-and-web3/opensea-adds-solana-nft-trading-across-os2</id>
-        <link href="https://thedefiant.io/news/nfts-and-web3/opensea-adds-solana-nft-trading-across-os2"/>
-        <updated>2026-09-02T16:24:33.000Z</updated>
-        <summary type="html"><![CDATA[Collectors can browse, buy and sell Solana NFTs alongside the network’s fungible tokens, with Mad Lads and Claynosaurz available at launch.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ArbitrumDAO Income Reached $6.19 Million In H1]]></title>
-        <id>https://thedefiant.io/news/blockchains/arbitrumdao-income-reached-usd6-19-million-in-h1-robinhood-chain-35-percent-of-july</id>
-        <link href="https://thedefiant.io/news/blockchains/arbitrumdao-income-reached-usd6-19-million-in-h1-robinhood-chain-35-percent-of-july"/>
-        <updated>2026-09-02T16:00:16.000Z</updated>
-        <summary type="html"><![CDATA[The Arbitrum Foundation's first-half report puts $360,000 of Arbitrum Expansion Program license fees at 35% of ArbitrumDAO's July income, the first month Robinhood Chain ran on mainnet.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nomura's Laser Digital Moves Into DeFi Fixed Income]]></title>
-        <id>https://thedefiant.io/news/defi/nomura-laser-digital-keyring-defi-fixed-income-euler</id>
-        <link href="https://thedefiant.io/news/defi/nomura-laser-digital-keyring-defi-fixed-income-euler"/>
-        <updated>2026-09-02T15:16:58.000Z</updated>
-        <summary type="html"><![CDATA[Laser Digital will act as risk governor for lending markets built with Keyring Network, with the first markets readied for Euler Finance. Neither company disclosed committed capital, fee terms or a launch date.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 Financial Institutions Commit to Joint Stablecoin Venture]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/21-financial-institutions-commit-to-joint-stablecoin-venture</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/21-financial-institutions-commit-to-joint-stablecoin-venture"/>
-        <updated>2026-09-02T15:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Bank of America, Citi, Goldman Sachs, UBS, Deutsche Bank and 16 other firms said Tuesday they will incorporate a company in the second half of 2026 to issue a dollar stablecoin, with a market launch targeted for the first half of 2027. The announcement did not name the company, its owners, its]]></summary>
-        <author>
-            <name>The Defiant Team</name>
         </author>
     </entry>
     <entry>
