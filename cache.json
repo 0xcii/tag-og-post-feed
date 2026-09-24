@@ -49,7 +49,7 @@
           "author": "The Defiant Team",
           "description": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
           "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-          "publishedOn": "2026-09-23T22:41:39.000Z",
+          "publishedOn": "2026-09-24T01:06:25.000Z",
           "wordCount": null,
           "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
           "enclosure": {
@@ -64,7 +64,7 @@
           "author": "The Defiant Team",
           "description": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
           "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-          "publishedOn": "2026-09-23T22:41:39.000Z",
+          "publishedOn": "2026-09-24T01:06:25.000Z",
           "wordCount": null,
           "title": "SEC Crypto Custody Rewrite Enters White House Review",
           "enclosure": {
@@ -79,7 +79,7 @@
           "author": "The Defiant Team",
           "description": "The Securities and Exchange Commission issued a five-year conditional exemption on Thursday letting tokenized National Market System (NMS) stock trade on permissioned automated market makers (AMMs), and Commodity Futures Trading Commission staff opened introducing-broker relief to passive software",
           "link": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief",
-          "publishedOn": "2026-09-23T22:41:39.000Z",
+          "publishedOn": "2026-09-24T01:06:25.000Z",
           "wordCount": null,
           "title": "SEC Clears Tokenized Stocks To Trade Onchain As CFTC Widens Software Relief",
           "enclosure": {
@@ -94,7 +94,7 @@
           "author": "The Defiant Team",
           "description": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.",
           "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-          "publishedOn": "2026-09-23T22:41:39.000Z",
+          "publishedOn": "2026-09-24T01:06:25.000Z",
           "wordCount": null,
           "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
           "enclosure": {
@@ -178,6 +178,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a1a6d4b24362cd90bd753ea44e44e89b301b7890-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/synthetic-vs-direct-tokenized-stocks-who-wins-after-the-sec-exemption",
+          "author": "Camila Russo",
+          "description": "The SEC's exemption for tokenized equities has reopened the question every issuer has been working around: should a tokenized stock be a synthetic instrument that tracks the price, or a direct claim on the underlying share? Camila Russo sits down with the lawyers and builders shaping that answer.",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/synthetic-vs-direct-tokenized-stocks-who-wins-after-the-sec-exemption",
+          "publishedOn": "2026-09-23T14:30:00.000Z",
+          "wordCount": null,
+          "title": "Synthetic vs. Direct Tokenized Stocks: Who Wins After The SEC Exemption?",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-2b298a1d-fea9-499c-9bad-55b6c2fc0d99.jpg",
+            "length": "1000000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-2b298a1d-fea9-499c-9bad-55b6c2fc0d99.jpg"
         },
         {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/six-canadian-banks-outline-first-phase-of-tokenized-deposit-project",
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5791596fcefa8354de39e61c2fdec765c02e4c82-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-stocks-traded-1-billion-while-the-stock-market-was-shut",
-          "author": "The Defiant Team",
-          "description": "The 42 largest tokenized equities turned over $1.01 billion on Saturday and Sunday, roughly matching Friday's session, and another $398.3 million on Labor Day. Robinhood Chain handled $572.8 million of the weekend total. One tokenized Nasdaq-100 fund on BNB Chain did $180.5 million on its own.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-stocks-traded-1-billion-while-the-stock-market-was-shut",
-          "publishedOn": "2026-09-08T21:16:19.000Z",
-          "wordCount": null,
-          "title": "Tokenized Stocks Traded $1 Billion While The Stock Market Was Shut",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/amc-rh-thumbnail-jpg-5cff5473-310a-4e5d-9251-c85d8f92a0ea.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/amc-rh-thumbnail-jpg-5cff5473-310a-4e5d-9251-c85d8f92a0ea.jpg"
         }
       ]
     }
