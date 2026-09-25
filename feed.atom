@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-25T16:37:57.625Z</id>
+    <id>urn:2026-09-25T20:16:10.864Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-25T16:37:57.625Z</updated>
+    <updated>2026-09-25T20:16:10.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Staff Clarifies Token Buybacks and Liquid Staking in New FAQs]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-staff-clarifies-token-buybacks-and-liquid-staking-in-new-faqs</id>
+        <link href="https://thedefiant.io/news/regulation/sec-staff-clarifies-token-buybacks-and-liquid-staking-in-new-faqs"/>
+        <updated>2026-09-25T20:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Qualifying staking receipts fall into non-security categories, while the FAQs reaffirm an earlier position on maintenance and development funding.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitget Raises Hack Estimate To $387.5 Million As Token Accounting Widens]]></title>
+        <id>https://thedefiant.io/news/hacks/bitget-raises-hack-estimate-to-387-5-million-as-token-accounting-widens</id>
+        <link href="https://thedefiant.io/news/hacks/bitget-raises-hack-estimate-to-387-5-million-as-token-accounting-widens"/>
+        <updated>2026-09-25T16:55:57.000Z</updated>
+        <summary type="html"><![CDATA[XRP and ether dominate the identified outflows. Withdrawals remain paused as the exchange adds Zcash and TRON assets to its accounting.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Legacy Magic Eden Approvals Exploited as White Hats Rescue NFTs]]></title>
         <id>https://thedefiant.io/news/hacks/legacy-magic-eden-approvals-exploited-as-white-hats-rescue-nfts</id>
@@ -990,26 +1010,6 @@
         <link href="https://thedefiant.io/news/infrastructure/base-ethereum-account-abstraction-collaboration-broke-down-developer-says"/>
         <updated>2026-09-14T15:38:47.000Z</updated>
         <summary type="html"><![CDATA[The two draft proposals take different approaches to native smart accounts, potentially shifting cross-chain compatibility work to wallets and apps.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P Global Leads Kaiko Funding Extension to $110 Million]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/s-p-global-leads-kaiko-funding-extension-to-110-million</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/s-p-global-leads-kaiko-funding-extension-to-110-million"/>
-        <updated>2026-09-14T15:36:41.000Z</updated>
-        <summary type="html"><![CDATA[The crypto data provider says the capital will expand infrastructure for 24/7 tokenized markets, four years after its $53 million Series B.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Launches xStocks Vaults That Borrow Against Tokenized Equities]]></title>
-        <id>https://thedefiant.io/news/defi/kraken-launches-xstocks-vaults-that-borrow-against-tokenized-equities</id>
-        <link href="https://thedefiant.io/news/defi/kraken-launches-xstocks-vaults-that-borrow-against-tokenized-equities"/>
-        <updated>2026-09-14T15:21:18.000Z</updated>
-        <summary type="html"><![CDATA[The product targets up to 2% APY by moving xStock collateral from Ink to Solana, while a 25% performance fee and DeFi lending risks apply.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
