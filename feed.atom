@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-28T18:28:17.902Z</id>
+    <id>urn:2026-09-28T23:43:24.746Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-28T18:28:17.902Z</updated>
+    <updated>2026-09-28T23:43:24.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Staff Adds 'No Central Party' Limit to Token Buyback FAQ]]></title>
+        <id>https://thedefiant.io/news/regulation/sec-staff-adds-no-central-party-limit-to-token-buyback-faq</id>
+        <link href="https://thedefiant.io/news/regulation/sec-staff-adds-no-central-party-limit-to-token-buyback-faq"/>
+        <updated>2026-09-28T20:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The Sept. 25 answer referred only to a system’s functionality. The revised wording makes the absence of centralized control an explicit condition.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Teases Pokémon Card Packs Backed by Physical Collectibles]]></title>
+        <id>https://thedefiant.io/news/nfts-and-web3/coinbase-teases-pok-mon-card-packs-backed-by-physical-collectibles</id>
+        <link href="https://thedefiant.io/news/nfts-and-web3/coinbase-teases-pok-mon-card-packs-backed-by-physical-collectibles"/>
+        <updated>2026-09-28T20:48:38.000Z</updated>
+        <summary type="html"><![CDATA[Collectors would be able to keep their pulls in a vault or have them shipped. Coinbase has not set a launch date in its teaser.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainlink Launches CCIP 2.0 With Custom Verifiers and Faster Transfers]]></title>
+        <id>https://thedefiant.io/news/infrastructure/chainlink-launches-ccip-2-0-with-custom-verifiers-and-faster-transfers</id>
+        <link href="https://thedefiant.io/news/infrastructure/chainlink-launches-ccip-2-0-with-custom-verifiers-and-faster-transfers"/>
+        <updated>2026-09-28T18:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Existing integrations keep working with full-finality defaults, while new token-pool controls require an opt-in contract upgrade.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon Plans Two-Month Boost to 7.7% Gross POL Staking Rate]]></title>
         <id>https://thedefiant.io/news/blockchains/polygon-plans-two-month-boost-to-7-7-gross-pol-staking-rate</id>
@@ -982,36 +1012,6 @@
         <summary type="html"><![CDATA[Agentic Detection, live Thursday in Messari Monitoring, lets a listings or compliance desk take a development the moment Blockworks' agents find it, before an analyst has checked it. Every alert carries a tag saying whether an agent or an analyst produced it.]]></summary>
         <author>
             <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tenka Announces Pre-Seed Round Led by Maven 11 to Build Market Infrastructure for Asset-Backed Finance]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/tenka-pre-seed-maven-11-asset-backed-finance</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/tenka-pre-seed-maven-11-asset-backed-finance"/>
-        <updated>2026-09-17T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tenka, the liquidity platform for asset-backed finance, has closed its pre-seed round led by Maven 11, with participation from Gami Capital and several angel investors.]]></summary>
-        <author>
-            <name>BTC Wire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Round-Trips the First Fed Rate Increase Since 2023 as Zcash Runs to $1,383]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-round-trips-fed-rate-increase-zcash-sep-16-2026</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-round-trips-fed-rate-increase-zcash-sep-16-2026"/>
-        <updated>2026-09-16T22:33:10.000Z</updated>
-        <summary type="html"><![CDATA[The Federal Open Market Committee voted 12-0 to lift its target range a quarter point to 3.75%-4%, and the median projection now puts the rate at 4.1% at the end of 2026 against 3.8% in June. Bitcoin spiked to $76,499.99 five minutes after the release and gave it back within half an hour. The S&P]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Bull Run Could Be One Big Airdrop Away]]></title>
-        <id>https://thedefiant.io/news/research-and-opinion/the-next-bull-run-could-be-one-big-airdrop-away</id>
-        <link href="https://thedefiant.io/news/research-and-opinion/the-next-bull-run-could-be-one-big-airdrop-away"/>
-        <updated>2026-09-16T19:54:38.000Z</updated>
-        <summary type="html"><![CDATA[History says major airdrops mark tops as often as they spark rallies, but the timing is everything.]]></summary>
-        <author>
-            <name>yyctrader</name>
         </author>
     </entry>
     <entry>

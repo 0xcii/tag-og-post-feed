@@ -45,6 +45,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/sec-staff-adds-no-central-party-limit-to-token-buyback-faq",
+          "author": "The Defiant Team",
+          "description": "The Sept. 25 answer referred only to a system’s functionality. The revised wording makes the absence of centralized control an explicit condition.",
+          "link": "https://thedefiant.io/news/regulation/sec-staff-adds-no-central-party-limit-to-token-buyback-faq",
+          "publishedOn": "2026-09-28T20:50:00.000Z",
+          "wordCount": null,
+          "title": "SEC Staff Adds 'No Central Party' Limit to Token Buyback FAQ",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b515c12877b648ce8e8951bacfe88f375e0fda38-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b515c12877b648ce8e8951bacfe88f375e0fda38-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/coinbase-teases-pok-mon-card-packs-backed-by-physical-collectibles",
+          "author": "The Defiant Team",
+          "description": "Collectors would be able to keep their pulls in a vault or have them shipped. Coinbase has not set a launch date in its teaser.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/coinbase-teases-pok-mon-card-packs-backed-by-physical-collectibles",
+          "publishedOn": "2026-09-28T20:48:38.000Z",
+          "wordCount": null,
+          "title": "Coinbase Teases Pokémon Card Packs Backed by Physical Collectibles",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/07f3d6448108c4eb7d74795996e040b66d9be791-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/07f3d6448108c4eb7d74795996e040b66d9be791-2048x1152.png"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/chainlink-launches-ccip-2-0-with-custom-verifiers-and-faster-transfers",
+          "author": "The Defiant Team",
+          "description": "Existing integrations keep working with full-finality defaults, while new token-pool controls require an opt-in contract upgrade.",
+          "link": "https://thedefiant.io/news/infrastructure/chainlink-launches-ccip-2-0-with-custom-verifiers-and-faster-transfers",
+          "publishedOn": "2026-09-28T18:57:03.000Z",
+          "wordCount": null,
+          "title": "Chainlink Launches CCIP 2.0 With Custom Verifiers and Faster Transfers",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/de2f272455221f1576ce901ab69beee30ba81b43-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/de2f272455221f1576ce901ab69beee30ba81b43-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/blockchains/polygon-plans-two-month-boost-to-7-7-gross-pol-staking-rate",
           "author": "The Defiant Team",
           "description": "The fee-funded increase compares with a roughly 3% baseline and rewards stake held during the window, rather than when the fees accrued.",
@@ -1498,51 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cbcdf410d66d8ae821cb2d28e47170a5df5e3121-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/tenka-pre-seed-maven-11-asset-backed-finance",
-          "author": "BTC Wire",
-          "description": "Tenka, the liquidity platform for asset-backed finance, has closed its pre-seed round led by Maven 11, with participation from Gami Capital and several angel investors.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/tenka-pre-seed-maven-11-asset-backed-finance",
-          "publishedOn": "2026-09-17T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Tenka Announces Pre-Seed Round Led by Maven 11 to Build Market Infrastructure for Asset-Backed Finance",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3267b0e9b3e3f6961c08cc93bfd46ce1f864d7c4-1672x941.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3267b0e9b3e3f6961c08cc93bfd46ce1f864d7c4-1672x941.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-round-trips-fed-rate-increase-zcash-sep-16-2026",
-          "author": "The Defiant Team",
-          "description": "The Federal Open Market Committee voted 12-0 to lift its target range a quarter point to 3.75%-4%, and the median projection now puts the rate at 4.1% at the end of 2026 against 3.8% in June. Bitcoin spiked to $76,499.99 five minutes after the release and gave it back within half an hour. The S&P",
-          "link": "https://thedefiant.io/news/markets/bitcoin-round-trips-fed-rate-increase-zcash-sep-16-2026",
-          "publishedOn": "2026-09-16T22:33:10.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Round-Trips the First Fed Rate Increase Since 2023 as Zcash Runs to $1,383",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1789597766628-png-41714a70-8eb8-46f7-b661-43dc17acb9f0.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1789597766628-png-41714a70-8eb8-46f7-b661-43dc17acb9f0.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/research-and-opinion/the-next-bull-run-could-be-one-big-airdrop-away",
-          "author": "yyctrader",
-          "description": "History says major airdrops mark tops as often as they spark rallies, but the timing is everything.",
-          "link": "https://thedefiant.io/news/research-and-opinion/the-next-bull-run-could-be-one-big-airdrop-away",
-          "publishedOn": "2026-09-16T19:54:38.000Z",
-          "wordCount": null,
-          "title": "The Next Bull Run Could Be One Big Airdrop Away",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/coinbase-x-thumbnail-jpg-f8e801ee-2001-4f37-8e9c-4da6d9b5342d.jpg",
-            "length": "1000000",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/coinbase-x-thumbnail-jpg-f8e801ee-2001-4f37-8e9c-4da6d9b5342d.jpg"
         }
       ]
     }
