@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-01T06:51:37.469Z</id>
+    <id>urn:2026-10-01T14:12:10.876Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-01T06:51:37.469Z</updated>
+    <updated>2026-10-01T14:12:10.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blockworks Opens Its Full Dataset To AI Agents]]></title>
+        <id>https://thedefiant.io/news/infrastructure/blockworks-opens-full-dataset-to-ai-agents-mcp-server</id>
+        <link href="https://thedefiant.io/news/infrastructure/blockworks-opens-full-dataset-to-ai-agents-mcp-server"/>
+        <updated>2026-10-01T14:00:10.000Z</updated>
+        <summary type="html"><![CDATA[A hosted Model Context Protocol server gives ChatGPT, Claude and Cursor read access to the datasets behind Blockworks research and its Intel app. It comes with every API plan at no extra cost, on the same key and the same permissions.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEAR Intents Halts Services, Reports $3.8 Million Loss]]></title>
+        <id>https://thedefiant.io/news/hacks/near-intents-halts-services-reports-3-8-million-loss</id>
+        <link href="https://thedefiant.io/news/hacks/near-intents-halts-services-reports-3-8-million-loss"/>
+        <updated>2026-10-01T13:41:34.000Z</updated>
+        <summary type="html"><![CDATA[The protocol pledged full compensation and said deposits and withdrawals on 11 networks would face a longer suspension while infrastructure repairs continue.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authors Pull Ethereum Staking Reward Burn From Hegotá]]></title>
+        <id>https://thedefiant.io/news/blockchains/authors-pull-ethereum-staking-reward-burn-from-hegot</id>
+        <link href="https://thedefiant.io/news/blockchains/authors-pull-ethereum-staking-reward-burn-from-hegot"/>
+        <updated>2026-10-01T09:41:48.000Z</updated>
+        <summary type="html"><![CDATA[The authors plan a separate issuance-policy process, naming Lido among those offering to help after objections over validator economics and how the change was being considered.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge Dismisses LIBRA and M3M3 Class Action With Prejudice]]></title>
+        <id>https://thedefiant.io/news/regulation/judge-dismisses-libra-m3m3-class-action-with-prejudice</id>
+        <link href="https://thedefiant.io/news/regulation/judge-dismisses-libra-m3m3-class-action-with-prejudice"/>
+        <updated>2026-10-01T08:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Judge Jennifer Rochon ruled that six months of memecoin launches cannot sustain a RICO claim, and that plaintiffs never pleaded Meteora as an entity capable of being sued.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CertiK Tallies $766.4 Million in September Exploit and Phishing Losses]]></title>
+        <id>https://thedefiant.io/news/security/certik-tallies-766-4-million-in-september-exploit-and-phishing-losses</id>
+        <link href="https://thedefiant.io/news/security/certik-tallies-766-4-million-in-september-exploit-and-phishing-losses"/>
+        <updated>2026-10-01T08:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Bitget and Liquid Network dominate the month's losses, while recovered and frozen funds substantially reduce the remaining damage.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marinade Says Council Blocked DAO Takeover Attempt]]></title>
+        <id>https://thedefiant.io/news/defi/marinade-says-council-blocked-dao-takeover-attempt</id>
+        <link href="https://thedefiant.io/news/defi/marinade-says-council-blocked-dao-takeover-attempt"/>
+        <updated>2026-10-01T07:46:38.000Z</updated>
+        <summary type="html"><![CDATA[The council vetoed two proposals within six hours, Marinade says. No funds moved, and its staking services were unaffected.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sentora’s Morpho Vaults See Sharp Outflows Amid MetaMask Staking Incident]]></title>
         <id>https://thedefiant.io/news/defi/sentora-s-morpho-vaults-see-sharp-outflows-amid-metamask-staking-incident</id>
@@ -20,7 +80,7 @@
         <id>https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise</id>
         <link href="https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise"/>
         <updated>2026-10-01T00:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Lido estimates the exit, withdrawal and re-entry cycle could take up to about 45 days. Aave’s founder says its markets are operating normally.]]></summary>
+        <summary type="html"><![CDATA[MetaMask says its investigation has found no indication that wallets or customer funds were affected. Lido estimates the exit, withdrawal and re-entry cycle could take up to about 45 days.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
@@ -941,66 +1001,6 @@
         <link href="https://thedefiant.io/news/markets/bitcoin-eases-etf-creations-1-7-billion-sep-23-2026"/>
         <updated>2026-09-23T21:20:51.000Z</updated>
         <summary type="html"><![CDATA[Total crypto market value fell 2.27% to $2.96 trillion. XRP dropped 5.8%, Dogecoin 8.3% and Hedera 9.9%, and Uniswap gave back the entire spike it took on Tuesday's CME listing. Perpetual funding at OKX turned negative on both the bitcoin and ether swaps. U.S. equities and gold closed lower]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zcash Clears $1,600 After 21Shares Launches European ETP]]></title>
-        <id>https://thedefiant.io/news/markets/zcash-clears-1-600-after-21shares-launches-european-etp</id>
-        <link href="https://thedefiant.io/news/markets/zcash-clears-1-600-after-21shares-launches-european-etp"/>
-        <updated>2026-09-23T19:55:11.000Z</updated>
-        <summary type="html"><![CDATA[The physically backed product trades in Paris and Amsterdam, while a 3:42 p.m. ET chain snapshot put shielded ZEC at 29% of supply.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmos Hub Restarts; 1.23 Million ATOM Moved From Neutron Attacker Wallet]]></title>
-        <id>https://thedefiant.io/news/hacks/cosmos-hub-restarts-1-23-million-atom-moved-from-neutron-attacker-wallet</id>
-        <link href="https://thedefiant.io/news/hacks/cosmos-hub-restarts-1-23-million-atom-moved-from-neutron-attacker-wallet"/>
-        <updated>2026-09-23T19:54:30.000Z</updated>
-        <summary type="html"><![CDATA[The Hub produced no blocks for 24 hours and 48 minutes. The attacker bought voting power for 20,199 USDC and staked it 12 minutes before an expedited Neutron proposal closed.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KB Securities, Securitize and Optimism Sign Exploratory Korea Tokenization MOU]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/kb-securities-securitize-and-optimism-sign-exploratory-korea-tokenization-mou</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/kb-securities-securitize-and-optimism-sign-exploratory-korea-tokenization-mou"/>
-        <updated>2026-09-23T19:10:14.000Z</updated>
-        <summary type="html"><![CDATA[Optimism’s X post names a tokenized bond as the first product, while its same-day blog names two tokenized funds. Korea’s first regulatory phase starts in February 2027.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoonPay Agrees to Buy North Capital, Adding Securities Infrastructure]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/moonpay-agrees-to-buy-north-capital-adding-securities-infrastructure</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/moonpay-agrees-to-buy-north-capital-adding-securities-infrastructure"/>
-        <updated>2026-09-23T19:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Sources told CoinDesk the all-stock deal is worth more than $60 million; the transaction remains subject to regulatory approval.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synthetic vs. Direct Tokenized Stocks: Who Wins After The SEC Exemption?]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/synthetic-vs-direct-tokenized-stocks-who-wins-after-the-sec-exemption</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/synthetic-vs-direct-tokenized-stocks-who-wins-after-the-sec-exemption"/>
-        <updated>2026-09-23T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The SEC's exemption for tokenized equities has reopened the question every issuer has been working around: should a tokenized stock be a synthetic instrument that tracks the price, or a direct claim on the underlying share? Camila Russo sits down with the lawyers and builders shaping that answer.]]></summary>
-        <author>
-            <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six Canadian Banks Outline First Phase of Tokenized Deposit Project]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/six-canadian-banks-outline-first-phase-of-tokenized-deposit-project</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/six-canadian-banks-outline-first-phase-of-tokenized-deposit-project"/>
-        <updated>2026-09-23T14:24:44.000Z</updated>
-        <summary type="html"><![CDATA[The exploratory project would first move deposits among participating institutions, while a US counterpart names its operator and payment rails.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
