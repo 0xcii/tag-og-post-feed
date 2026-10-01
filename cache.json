@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/sentora-s-morpho-vaults-see-sharp-outflows-amid-metamask-staking-incident",
+          "author": "The Defiant Team",
+          "description": "The RLUSD and PYUSD vaults had about $8.46 million and $2.38 million of available liquidity, respectively, in Morpho’s latest snapshots.",
+          "link": "https://thedefiant.io/news/defi/sentora-s-morpho-vaults-see-sharp-outflows-amid-metamask-staking-incident",
+          "publishedOn": "2026-10-01T03:19:58.000Z",
+          "wordCount": null,
+          "title": "Sentora’s Morpho Vaults See Sharp Outflows Amid MetaMask Staking Incident",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/46885d70e73015bc17a1b0afefdc35b2706c43f4-2048x1152.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/46885d70e73015bc17a1b0afefdc35b2706c43f4-2048x1152.png"
+        },
+        {
           "id": "https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise",
           "author": "The Defiant Team",
           "description": "Lido estimates the exit, withdrawal and re-entry cycle could take up to about 45 days. Aave’s founder says its markets are operating normally.",
@@ -1528,21 +1543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3b1c60f7d24f1dbabb28ee82e973de2a2004bd80-2048x1152.png"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/brazil-tops-redesigned-crypto-adoption-index-as-latin-america-defies-global-slump",
-          "author": "The Defiant Team",
-          "description": "Chainalysis measured $593.8 billion in regional activity, up 9.8%, even as the global crypto economy contracted 1.6% during the same period.",
-          "link": "https://thedefiant.io/news/markets/brazil-tops-redesigned-crypto-adoption-index-as-latin-america-defies-global-slump",
-          "publishedOn": "2026-09-23T14:16:04.000Z",
-          "wordCount": null,
-          "title": "Brazil Tops Redesigned Crypto Adoption Index as Latin America Defies Global Slump",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/e7f814aec1a9396ee430714cece30df85a12e024-2048x1152.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e7f814aec1a9396ee430714cece30df85a12e024-2048x1152.png"
         }
       ]
     }

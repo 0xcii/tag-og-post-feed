@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-01T00:22:04.860Z</id>
+    <id>urn:2026-10-01T06:51:37.469Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-01T00:22:04.860Z</updated>
+    <updated>2026-10-01T06:51:37.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sentora’s Morpho Vaults See Sharp Outflows Amid MetaMask Staking Incident]]></title>
+        <id>https://thedefiant.io/news/defi/sentora-s-morpho-vaults-see-sharp-outflows-amid-metamask-staking-incident</id>
+        <link href="https://thedefiant.io/news/defi/sentora-s-morpho-vaults-see-sharp-outflows-amid-metamask-staking-incident"/>
+        <updated>2026-10-01T03:19:58.000Z</updated>
+        <summary type="html"><![CDATA[The RLUSD and PYUSD vaults had about $8.46 million and $2.38 million of available liquidity, respectively, in Morpho’s latest snapshots.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetaMask Staking Exits Lido Validators After Infrastructure Compromise]]></title>
         <id>https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/six-canadian-banks-outline-first-phase-of-tokenized-deposit-project"/>
         <updated>2026-09-23T14:24:44.000Z</updated>
         <summary type="html"><![CDATA[The exploratory project would first move deposits among participating institutions, while a US counterpart names its operator and payment rails.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brazil Tops Redesigned Crypto Adoption Index as Latin America Defies Global Slump]]></title>
-        <id>https://thedefiant.io/news/markets/brazil-tops-redesigned-crypto-adoption-index-as-latin-america-defies-global-slump</id>
-        <link href="https://thedefiant.io/news/markets/brazil-tops-redesigned-crypto-adoption-index-as-latin-america-defies-global-slump"/>
-        <updated>2026-09-23T14:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Chainalysis measured $593.8 billion in regional activity, up 9.8%, even as the global crypto economy contracted 1.6% during the same period.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
