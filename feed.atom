@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-01T14:12:10.876Z</id>
+    <id>urn:2026-10-01T20:07:27.703Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-01T14:12:10.876Z</updated>
+    <updated>2026-10-01T20:07:27.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US Sanctions A7 Network, Proposes Ban on Sub-Agent Payments]]></title>
+        <id>https://thedefiant.io/converge/regulation/us-sanctions-a7-network-proposes-ban-on-sub-agent-payments</id>
+        <link href="https://thedefiant.io/converge/regulation/us-sanctions-a7-network-proposes-ban-on-sub-agent-payments"/>
+        <updated>2026-10-01T18:02:30.000Z</updated>
+        <summary type="html"><![CDATA[FinCEN says A7’s sub-agents processed more than $17 billion in dollar-denominated transactions from January 2025 through June 2026.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stablecoin Treasury Growth Partly Offsets China’s Retreat, SF Fed Study Finds]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/stablecoin-treasury-growth-partly-offsets-china-s-retreat-sf-fed-study-finds</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/stablecoin-treasury-growth-partly-offsets-china-s-retreat-sf-fed-study-finds"/>
+        <updated>2026-10-01T17:42:51.000Z</updated>
+        <summary type="html"><![CDATA[Issuers favor short-term debt, while China’s decline is mostly in longer-dated securities. The authors say additional demand depends on who buys stablecoins.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenZeppelin and T-REX Network Introduce new Framework for Regulated Token Eligibility and Recovery]]></title>
+        <id>https://thedefiant.io/converge/infrastructure/onchainid-v3-adds-modular-smart-accounts-for-regulated-tokens</id>
+        <link href="https://thedefiant.io/converge/infrastructure/onchainid-v3-adds-modular-smart-accounts-for-regulated-tokens"/>
+        <updated>2026-10-01T17:26:03.000Z</updated>
+        <summary type="html"><![CDATA[The redesign requires new deployments rather than in-place upgrades of existing 2.x identities, according to the project's changelog.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onchain Perps Close Execution Gap With CEXs, Castle Labs Says]]></title>
+        <id>https://thedefiant.io/news/defi/onchain-perps-close-execution-gap-with-centralized-exchanges</id>
+        <link href="https://thedefiant.io/news/defi/onchain-perps-close-execution-gap-with-centralized-exchanges"/>
+        <updated>2026-10-01T17:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Hyperliquid held as much resting liquidity as the median of Binance, Bybit and OKX on four of five crypto assets and cost less to trade, a Castle Labs study of live order books found. The gap that remains sits in how venues price stocks and commodities when the underlying market is closed.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drift Opens DFX Claims With Recovery Pool Covering About 1% of Losses]]></title>
+        <id>https://thedefiant.io/news/defi/drift-opens-dfx-claims-with-recovery-pool-covering-about-1-of-losses</id>
+        <link href="https://thedefiant.io/news/defi/drift-opens-dfx-claims-with-recovery-pool-covering-about-1-of-losses"/>
+        <updated>2026-10-01T16:14:14.000Z</updated>
+        <summary type="html"><![CDATA[Redeeming burns the tokens and ends their claim on future deposits. Holders can instead wait for revenue-funded recovery or sell their DFX.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Liberty Launches WLFI Staking, Plans $1.25M USD1 Pool]]></title>
+        <id>https://thedefiant.io/news/defi/world-liberty-launches-wlfi-staking-plans-1-25m-usd1-pool</id>
+        <link href="https://thedefiant.io/news/defi/world-liberty-launches-wlfi-staking-plans-1-25m-usd1-pool"/>
+        <updated>2026-10-01T14:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Holders must open a 180-day lock and cast governance votes to claim rewards, with no fixed payout rate.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blockworks Opens Its Full Dataset To AI Agents]]></title>
         <id>https://thedefiant.io/news/infrastructure/blockworks-opens-full-dataset-to-ai-agents-mcp-server</id>
@@ -941,66 +1001,6 @@
         <link href="https://thedefiant.io/converge/cefi/bitget-sygnum-protect-off-exchange-custody"/>
         <updated>2026-09-24T15:43:31.000Z</updated>
         <summary type="html"><![CDATA[Client collateral sits in segregated accounts at the Swiss bank and is mirrored back to the exchange for trading. Bitget is the fourth venue on Protect, after Binance, Deribit and Bybit.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only Four of Top 20 Crypto Treasury Firms Trade Above Holdings Value: DWF]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/only-four-of-top-20-crypto-treasury-firms-trade-above-holdings-value-dwf</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/only-four-of-top-20-crypto-treasury-firms-trade-above-holdings-value-dwf"/>
-        <updated>2026-09-24T15:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Discounts undermine share-funded token accumulation, though Strategy’s latest filing shows purchases can continue using existing cash.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondo Launches Tokenized Portfolios Built on BlackRock Strategies]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/ondo-launches-tokenized-portfolios-built-on-blackrock-strategies</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/ondo-launches-tokenized-portfolios-built-on-blackrock-strategies"/>
-        <updated>2026-09-24T15:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Three portfolio tokens are available on Ethereum and BNB Chain for eligible non-US investors. BlackRock supplies the models; Ondo manages the products.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum Replaces Timeboost With Per-Transaction Priority Auctions]]></title>
-        <id>https://thedefiant.io/news/blockchains/arbitrum-replaces-timeboost-with-per-transaction-priority-auctions</id>
-        <link href="https://thedefiant.io/news/blockchains/arbitrum-replaces-timeboost-with-per-transaction-priority-auctions"/>
-        <updated>2026-09-24T15:18:46.000Z</updated>
-        <summary type="html"><![CDATA[Priority fees and paid Fast Feed subscriptions allocate 97% of proceeds to the DAO treasury and 3% to the Arbitrum Developer Guild.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Administration Weighs Overseas Stablecoin Push: Report]]></title>
-        <id>https://thedefiant.io/converge/regulation/trump-administration-weighs-overseas-stablecoin-push-report</id>
-        <link href="https://thedefiant.io/converge/regulation/trump-administration-weighs-overseas-stablecoin-push-report"/>
-        <updated>2026-09-24T02:57:21.000Z</updated>
-        <summary type="html"><![CDATA[Treasury, State and DFC could participate in public-private ventures aimed at strengthening the dollar and demand for US debt.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variational Sets Q4 VAR Launch With 32% Airdrop]]></title>
-        <id>https://thedefiant.io/news/tokens/variational-sets-q4-var-launch-with-32-airdrop</id>
-        <link href="https://thedefiant.io/news/tokens/variational-sets-q4-var-launch-with-32-airdrop"/>
-        <updated>2026-09-24T02:44:47.000Z</updated>
-        <summary type="html"><![CDATA[Points distributions will continue at 150,000 a week until launch, while team and investor tokens face a 12-month lock.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Falls Through the $86,000 ETF Cost Basis as the Whole Market Turns Lower]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-eases-etf-creations-1-7-billion-sep-23-2026</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-eases-etf-creations-1-7-billion-sep-23-2026"/>
-        <updated>2026-09-23T21:20:51.000Z</updated>
-        <summary type="html"><![CDATA[Total crypto market value fell 2.27% to $2.96 trillion. XRP dropped 5.8%, Dogecoin 8.3% and Hedera 9.9%, and Uniswap gave back the entire spike it took on Tuesday's CME listing. Perpetual funding at OKX turned negative on both the bitcoin and ether swaps. U.S. equities and gold closed lower]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
