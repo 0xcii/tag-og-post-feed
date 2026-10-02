@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-01T20:07:27.703Z</id>
+    <id>urn:2026-10-02T00:31:49.355Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-01T20:07:27.703Z</updated>
+    <updated>2026-10-02T00:31:49.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Proposes Crypto Self-Custody Route for Investment Advisers]]></title>
+        <id>https://thedefiant.io/converge/regulation/sec-proposes-crypto-self-custody-route-for-investment-advisers</id>
+        <link href="https://thedefiant.io/converge/regulation/sec-proposes-crypto-self-custody-route-for-investment-advisers"/>
+        <updated>2026-10-01T20:16:47.000Z</updated>
+        <summary type="html"><![CDATA[The proposal also sets conditions for state trust company custody, with public comments due 60 days after Federal Register publication.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Sanctions A7 Network, Proposes Ban on Sub-Agent Payments]]></title>
         <id>https://thedefiant.io/converge/regulation/us-sanctions-a7-network-proposes-ban-on-sub-agent-payments</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/sec-s-peirce-urges-zero-knowledge-proofs-to-reduce-kyc-data-collection"/>
         <updated>2026-09-24T15:45:48.000Z</updated>
         <summary type="html"><![CDATA[Peirce also wants institutions to reuse identity checks rather than repeatedly store customer details. Her privacy proposals do not change existing compliance rules.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitget Moves Institutional Collateral To Sygnum's Off-Exchange Custody]]></title>
-        <id>https://thedefiant.io/converge/cefi/bitget-sygnum-protect-off-exchange-custody</id>
-        <link href="https://thedefiant.io/converge/cefi/bitget-sygnum-protect-off-exchange-custody"/>
-        <updated>2026-09-24T15:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Client collateral sits in segregated accounts at the Swiss bank and is mirrored back to the exchange for trading. Bitget is the fourth venue on Protect, after Binance, Deribit and Bybit.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

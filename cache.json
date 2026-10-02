@@ -45,6 +45,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/converge/regulation/sec-proposes-crypto-self-custody-route-for-investment-advisers",
+          "author": "The Defiant Team",
+          "description": "The proposal also sets conditions for state trust company custody, with public comments due 60 days after Federal Register publication.",
+          "link": "https://thedefiant.io/converge/regulation/sec-proposes-crypto-self-custody-route-for-investment-advisers",
+          "publishedOn": "2026-10-01T20:16:47.000Z",
+          "wordCount": null,
+          "title": "SEC Proposes Crypto Self-Custody Route for Investment Advisers",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ccd03b687e550c30bced2e8780842a3cabce979d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ccd03b687e550c30bced2e8780842a3cabce979d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/converge/regulation/us-sanctions-a7-network-proposes-ban-on-sub-agent-payments",
           "author": "The Defiant Team",
           "description": "FinCEN says A7’s sub-agents processed more than $17 billion in dollar-denominated transactions from January 2025 through June 2026.",
@@ -1528,21 +1543,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2c398f849087c63633f3f59263e9d1c170e4fdfc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/cefi/bitget-sygnum-protect-off-exchange-custody",
-          "author": "The Defiant Team",
-          "description": "Client collateral sits in segregated accounts at the Swiss bank and is mirrored back to the exchange for trading. Bitget is the fourth venue on Protect, after Binance, Deribit and Bybit.",
-          "link": "https://thedefiant.io/converge/cefi/bitget-sygnum-protect-off-exchange-custody",
-          "publishedOn": "2026-09-24T15:43:31.000Z",
-          "wordCount": null,
-          "title": "Bitget Moves Institutional Collateral To Sygnum's Off-Exchange Custody",
-          "enclosure": {
-            "url": "https://cdn.thedefiant.io/pasted-1790264576859-png-0c4e6a84-731f-42e3-aae9-5bff3685482b.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.thedefiant.io/pasted-1790264576859-png-0c4e6a84-731f-42e3-aae9-5bff3685482b.png"
         }
       ]
     }
