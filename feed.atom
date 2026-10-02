@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-02T06:42:50.761Z</id>
+    <id>urn:2026-10-02T13:35:14.409Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-02T06:42:50.761Z</updated>
+    <updated>2026-10-02T13:35:14.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SMBC Nikko and Nethermind Plan Compliance Hooks for Uniswap Pools]]></title>
+        <id>https://thedefiant.io/news/defi/smbc-nikko-and-nethermind-plan-compliance-hooks-for-uniswap-pools</id>
+        <link href="https://thedefiant.io/news/defi/smbc-nikko-and-nethermind-plan-compliance-hooks-for-uniswap-pools"/>
+        <updated>2026-10-02T08:20:45.000Z</updated>
+        <summary type="html"><![CDATA[An MOU with Uniswap Labs, Base and Nyx Foundation targets a Japan-focused DeFi gateway for completion by mid-2027.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kinetiq Ends kPoints With Paid Claim as KNTQ Drops 23%]]></title>
         <id>https://thedefiant.io/news/defi/kinetiq-ends-kpoints-with-paid-claim-as-kntq-drops-23</id>
@@ -996,29 +1006,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Payy Halts Network After $1.92 Million USDC Drain]]></title>
-        <id>https://thedefiant.io/news/hacks/payy-halts-network-after-1-92-million-usdc-drain</id>
-        <link href="https://thedefiant.io/news/hacks/payy-halts-network-after-1-92-million-usdc-drain"/>
-        <updated>2026-09-24T16:53:16.000Z</updated>
-        <summary type="html"><![CDATA[The initial proceeds were converted into about 683 ETH, with most then sent to three wallets. Payy has paused deposits, withdrawals and card payments.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Safety First]]></title>
         <id>https://medium.com/p/2c8af37e7618</id>
         <link href="https://cryptohayes.medium.com/safety-first-2c8af37e7618?source=rss-2f6e06954878------2"/>
         <updated>2026-09-21T23:01:01.000Z</updated>
-        <author>
-            <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atención]]></title>
-        <id>https://medium.com/p/f31edbc97b03</id>
-        <link href="https://cryptohayes.medium.com/atenci%C3%B3n-f31edbc97b03?source=rss-2f6e06954878------2"/>
-        <updated>2026-09-02T23:01:02.000Z</updated>
         <author>
             <name>Arthur Hayes</name>
         </author>
