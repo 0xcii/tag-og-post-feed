@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-02T22:54:25.642Z</id>
+    <id>urn:2026-10-03T01:44:09.997Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-02T22:54:25.642Z</updated>
+    <updated>2026-10-03T01:44:09.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi and Coinbase Win Partial Illinois Ruling on Sports Contracts]]></title>
+        <id>https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts</id>
+        <link href="https://thedefiant.io/news/regulation/kalshi-and-coinbase-win-partial-illinois-ruling-on-sports-contracts"/>
+        <updated>2026-10-02T23:10:02.000Z</updated>
+        <summary type="html"><![CDATA[The judge found state licensing rules likely conflict with federal derivatives law, but left transaction fees unresolved and ordered the parties to propose injunction terms.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum Pauses New Stylus Activations in Emergency Security Action]]></title>
         <id>https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/infrastructure/binance-owned-coinmarketcap-acquires-coinglass"/>
         <updated>2026-09-25T14:42:01.000Z</updated>
         <summary type="html"><![CDATA[CoinGlass says it will keep operating independently, with its brand, website, app, API and pricing unchanged.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fed Proposes Capital Charges and Bank Approval Rules for Stablecoins]]></title>
-        <id>https://thedefiant.io/converge/regulation/fed-proposes-capital-charges-and-bank-approval-rules-for-stablecoins</id>
-        <link href="https://thedefiant.io/converge/regulation/fed-proposes-capital-charges-and-bank-approval-rules-for-stablecoins"/>
-        <updated>2026-09-25T14:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Covered issuers would generally have two business days to redeem tokens, while bank applications would follow the GENIUS Act's 120-day decision clock.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
