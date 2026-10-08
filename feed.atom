@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-08T02:32:31.838Z</id>
+    <id>urn:2026-10-08T10:03:21.184Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-08T02:32:31.838Z</updated>
+    <updated>2026-10-08T10:03:21.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Labs-Labeled Wallet Distributes $330 Million in HYPE]]></title>
+        <id>https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype</id>
+        <link href="https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype"/>
+        <updated>2026-10-08T03:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Five intermediary addresses forwarded the tokens to one wallet, which returned 1.25 million HYPE to staking.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung Wallet to Add USDC on Sui in Late October]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/samsung-wallet-to-add-usdc-on-sui-in-late-october</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/open-usd-launches-as-stripe-s-default-stablecoin"/>
         <updated>2026-09-30T18:00:39.000Z</updated>
         <summary type="html"><![CDATA[Mastercard's route runs through BVNK, while Visa offers limited beta access and Coinbase is scheduled to follow on Oct. 1.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lloyds and Visa Settle $750,000 in USDC in Cross-Border Pilot]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/lloyds-and-visa-settle-750-000-in-usdc-in-cross-border-pilot</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/lloyds-and-visa-settle-750-000-in-usdc-in-cross-border-pilot"/>
-        <updated>2026-09-30T17:54:48.000Z</updated>
-        <summary type="html"><![CDATA[The seven-day test sent funds from Jersey to the US in under an hour, including over the weekend, with Lloyds using Canton and Visa a separate blockchain.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
