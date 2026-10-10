@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-10T02:06:21.016Z</id>
+    <id>urn:2026-10-10T09:27:04.848Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-10T02:06:21.016Z</updated>
+    <updated>2026-10-10T09:27:04.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[$3.55 Million in Unclaimed Bridge Funds Moved via EIP-7702]]></title>
+        <id>https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702</id>
+        <link href="https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702"/>
+        <updated>2026-10-10T03:50:48.000Z</updated>
+        <summary type="html"><![CDATA[The transactions used valid account authorizations, but BlockSec says they do not establish whether the wallet owner knowingly approved the transfers.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ledger Theft Funds Shift Into USDD, Beyond Tether’s Freeze Controls]]></title>
         <id>https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/regulation/imf-approves-138-million-for-el-salvador-after-bitcoin-waiver"/>
         <updated>2026-10-02T17:17:20.000Z</updated>
         <summary type="html"><![CDATA[The fund still expects no further Bitcoin accumulation beyond documented donations and wants the state’s remaining Chivo exposure fully unwound.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Illinois Agrees to Six-Month Crypto Tax Delay, Subject to Court Approval]]></title>
-        <id>https://thedefiant.io/converge/regulation/illinois-agrees-to-six-month-crypto-tax-delay-subject-to-court-approval</id>
-        <link href="https://thedefiant.io/converge/regulation/illinois-agrees-to-six-month-crypto-tax-delay-subject-to-court-approval"/>
-        <updated>2026-10-02T16:57:35.000Z</updated>
-        <summary type="html"><![CDATA[The levy would charge customers on asset value rather than gains, with draft rules covering paid custody, transfers and stablecoin settlement.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

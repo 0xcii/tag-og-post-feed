@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702",
+          "author": "The Defiant Team",
+          "description": "The transactions used valid account authorizations, but BlockSec says they do not establish whether the wallet owner knowingly approved the transfers.",
+          "link": "https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702",
+          "publishedOn": "2026-10-10T03:50:48.000Z",
+          "wordCount": null,
+          "title": "$3.55 Million in Unclaimed Bridge Funds Moved via EIP-7702",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/df24a75ce58ff0e86315337f98a5c80e818bc462-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/df24a75ce58ff0e86315337f98a5c80e818bc462-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls",
           "author": "The Defiant Team",
           "description": "Tron records show a 2 million USDT conversion through USDD’s stability module; Bitquery estimates Tether froze $10 million across the wider theft cluster.",
@@ -43,11 +58,11 @@
           "wordCount": null,
           "title": "Ledger Theft Funds Shift Into USDD, Beyond Tether’s Freeze Controls",
           "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a0fb8d829d9095b25fee99b490f7be0e3127c21e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0dfd625aaaf2ea6075a4765979a3c39056a2248a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a0fb8d829d9095b25fee99b490f7be0e3127c21e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         },
         {
           "id": "https://thedefiant.io/news/markets/strk-jumps-30-as-starknet-weighs-layer-1-shift",
@@ -220,7 +235,7 @@
           "description": "The New York settlement ties the money to federal forfeiture and prison-sentence conditions, adding to existing FTC and CFTC restrictions.",
           "link": "https://thedefiant.io/news/regulation/mashinsky-accepts-lifetime-industry-ban-and-up-to-35-million-in-conditional-payments",
           "publishedOn": "2026-10-09T14:27:18.000Z",
-          "wordCount": 3802,
+          "wordCount": 3757,
           "title": "Mashinsky Accepts Lifetime Industry Ban and Up to $35 Million in Conditional Payments",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/d0de5d1b2fd249490a1db348cae8e06785dabd4a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1518,21 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f432d6c1bb500d2267f6689414e92e0cde7ea422-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/illinois-agrees-to-six-month-crypto-tax-delay-subject-to-court-approval",
-          "author": "The Defiant Team",
-          "description": "The levy would charge customers on asset value rather than gains, with draft rules covering paid custody, transfers and stablecoin settlement.",
-          "link": "https://thedefiant.io/converge/regulation/illinois-agrees-to-six-month-crypto-tax-delay-subject-to-court-approval",
-          "publishedOn": "2026-10-02T16:57:35.000Z",
-          "wordCount": null,
-          "title": "Illinois Agrees to Six-Month Crypto Tax Delay, Subject to Court Approval",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/af02f0cf25883c2317324d2617effaac2e0c5723-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/af02f0cf25883c2317324d2617effaac2e0c5723-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
