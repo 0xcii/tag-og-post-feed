@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-11T04:13:29.951Z</id>
+    <id>urn:2026-10-11T11:13:34.417Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-11T04:13:29.951Z</updated>
+    <updated>2026-10-11T11:13:34.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[COLDCARD Warns of Phishing Post on Its Official X Account]]></title>
+        <id>https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account</id>
+        <link href="https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account"/>
+        <updated>2026-10-11T09:38:29.000Z</updated>
+        <summary type="html"><![CDATA[The company says it found no matching login record. A researcher found the fake migration site was built to collect wallet recovery phrases.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Filecoin Nears End of Six-Year Vesting, Removing 68 Million FIL in Annual Releases]]></title>
         <id>https://thedefiant.io/news/tokens/filecoin-nears-end-of-six-year-vesting-removing-68-million-fil-in-annual-releases</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/sec-clears-3x-bitcoin-and-ether-etps-for-cboe-listing"/>
         <updated>2026-10-05T18:21:46.000Z</updated>
         <summary type="html"><![CDATA[Proposed tickers BITH and ETHK would use futures and reset leverage daily, exposing longer-term holders to compounding losses.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Seeks Comment on Crypto Rulebook That Leaves Spot Exchanges to the States]]></title>
-        <id>https://thedefiant.io/news/regulation/cftc-seeks-comment-crypto-rulebook-leaves-spot-exchanges-to-states-oct-05-2026</id>
-        <link href="https://thedefiant.io/news/regulation/cftc-seeks-comment-crypto-rulebook-leaves-spot-exchanges-to-states-oct-05-2026"/>
-        <updated>2026-10-05T17:23:56.000Z</updated>
-        <summary type="html"><![CDATA[The Commodity Futures Trading Commission published an Advanced Notice of Proposed Rulemaking covering retail crypto trading on margin, leverage or financing, and a new exchange registration category built for it. Chairman Michael Selig called it a federal option rather than a mandate. The notice]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
