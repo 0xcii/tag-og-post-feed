@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-13T21:43:49.806Z</id>
+    <id>urn:2026-10-14T00:52:56.953Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-13T21:43:49.806Z</updated>
+    <updated>2026-10-14T00:52:56.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ledger Asks Resellers to Halt Sales in Seven Asian Markets]]></title>
+        <id>https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets</id>
+        <link href="https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets"/>
+        <updated>2026-10-13T22:12:02.000Z</updated>
+        <summary type="html"><![CDATA[The hardware-wallet maker says confirmed incidents remain confined to Southeast Asia, with no indication its systems or direct sales channel were compromised.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimism’s OP Jumps 18%, Extending Four-Week Gain to 66%]]></title>
+        <id>https://thedefiant.io/news/markets/optimism-s-op-jumps-18-extending-four-week-gain-to-66</id>
+        <link href="https://thedefiant.io/news/markets/optimism-s-op-jumps-18-extending-four-week-gain-to-66"/>
+        <updated>2026-10-13T21:58:39.000Z</updated>
+        <summary type="html"><![CDATA[OP outpaced bitcoin and ether over matched daily and multiweek windows, though Starknet’s STRK posted a much larger four-week rally.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Collector Crypt Logs $151 Million in Monthly Pack Sales]]></title>
         <id>https://thedefiant.io/news/nfts-and-web3/collector-crypt-logs-151-million-in-monthly-pack-sales</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/polkadot-launches-usdt-backed-dotusd-under-opengov"/>
         <updated>2026-10-08T21:05:44.000Z</updated>
         <summary type="html"><![CDATA[The stablecoin has about 2.77 million tokens in total supply, while DOT-backed borrowing is planned for a later phase.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Rebounds Above $81,000 After Trump Rules Out Iran Strikes Before Midterms]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-rebounds-above-81-000-after-trump-rules-out-iran-strikes-before-midterms</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-rebounds-above-81-000-after-trump-rules-out-iran-strikes-before-midterms"/>
-        <updated>2026-10-08T21:05:33.000Z</updated>
-        <summary type="html"><![CDATA[Crude retreated around the president's statement, but bitcoin remained down 1.9% over 24 hours in late trading.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abstract's ETH Withdrawals Depend on Operators Ahead of Dec. 15 Shutdown]]></title>
-        <id>https://thedefiant.io/news/blockchains/abstract-s-eth-withdrawals-depend-on-operators-ahead-of-dec-15-shutdown</id>
-        <link href="https://thedefiant.io/news/blockchains/abstract-s-eth-withdrawals-depend-on-operators-ahead-of-dec-15-shutdown"/>
-        <updated>2026-10-08T21:02:07.000Z</updated>
-        <summary type="html"><![CDATA[L2BEAT data showed about $17.1 million in canonically bridged ETH; the wind-down plan sets out no independent exit after Dec. 15.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

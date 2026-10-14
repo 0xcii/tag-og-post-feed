@@ -35,6 +35,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets",
+          "author": "The Defiant Team",
+          "description": "The hardware-wallet maker says confirmed incidents remain confined to Southeast Asia, with no indication its systems or direct sales channel were compromised.",
+          "link": "https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets",
+          "publishedOn": "2026-10-13T22:12:02.000Z",
+          "wordCount": null,
+          "title": "Ledger Asks Resellers to Halt Sales in Seven Asian Markets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8b93cc78531c6f189d90507b9dfe7343e0290d11-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8b93cc78531c6f189d90507b9dfe7343e0290d11-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/optimism-s-op-jumps-18-extending-four-week-gain-to-66",
+          "author": "The Defiant Team",
+          "description": "OP outpaced bitcoin and ether over matched daily and multiweek windows, though Starknet’s STRK posted a much larger four-week rally.",
+          "link": "https://thedefiant.io/news/markets/optimism-s-op-jumps-18-extending-four-week-gain-to-66",
+          "publishedOn": "2026-10-13T21:58:39.000Z",
+          "wordCount": null,
+          "title": "Optimism’s OP Jumps 18%, Extending Four-Week Gain to 66%",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0b64232826d6cfdca302a2a4ce37677b05caafa1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0b64232826d6cfdca302a2a4ce37677b05caafa1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-logs-151-million-in-monthly-pack-sales",
           "author": "The Defiant Team",
           "description": "Solana pack buyers doubled in the third quarter, but 548 wallets accounted for 83% of spending, according to Pine Analytics.",
@@ -1503,36 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/de9001c20d2701d2b641426e105032ea3c157ba7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-rebounds-above-81-000-after-trump-rules-out-iran-strikes-before-midterms",
-          "author": "The Defiant Team",
-          "description": "Crude retreated around the president's statement, but bitcoin remained down 1.9% over 24 hours in late trading.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-rebounds-above-81-000-after-trump-rules-out-iran-strikes-before-midterms",
-          "publishedOn": "2026-10-08T21:05:33.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Rebounds Above $81,000 After Trump Rules Out Iran Strikes Before Midterms",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1bc623bc059e50ac9fd1b005115559f3571290cf-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1bc623bc059e50ac9fd1b005115559f3571290cf-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/abstract-s-eth-withdrawals-depend-on-operators-ahead-of-dec-15-shutdown",
-          "author": "The Defiant Team",
-          "description": "L2BEAT data showed about $17.1 million in canonically bridged ETH; the wind-down plan sets out no independent exit after Dec. 15.",
-          "link": "https://thedefiant.io/news/blockchains/abstract-s-eth-withdrawals-depend-on-operators-ahead-of-dec-15-shutdown",
-          "publishedOn": "2026-10-08T21:02:07.000Z",
-          "wordCount": null,
-          "title": "Abstract's ETH Withdrawals Depend on Operators Ahead of Dec. 15 Shutdown",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9bf9e2f4b1f6447512fd97ef80cb47244ee4aa72-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9bf9e2f4b1f6447512fd97ef80cb47244ee4aa72-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
