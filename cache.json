@@ -35,6 +35,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity",
+          "author": "The Defiant Team",
+          "description": "The deployment launched Sept. 16 with four reserve assets. Its Forex market lets borrowers pledge EURC, which is not eligible collateral in Arc’s Main market.",
+          "link": "https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity",
+          "publishedOn": "2026-10-15T21:18:33.000Z",
+          "wordCount": null,
+          "title": "Aave V4’s Arc Markets Connect Dollar-Euro Loans to Shared Liquidity",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/40419dacefaec1085df6afbff9d55385c7bdd4eb-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/40419dacefaec1085df6afbff9d55385c7bdd4eb-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/ledger-was-hacked-who-do-you-trust-with-your-keys-now",
+          "author": "Camila Russo",
+          "description": "The Defiant Livestream | Wednesday, Oct. 14, 1:00pm ET Up to $93M drained from more than 300 wallets, and the software was never touched. Ledger confirmed a physical implant inside signers sold through reseller CryptoBilis, reading recovery phrases off the screen at setup and sending them out over",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/ledger-was-hacked-who-do-you-trust-with-your-keys-now",
+          "publishedOn": "2026-10-15T18:14:31.000Z",
+          "wordCount": null,
+          "title": "Ledger Was Hacked — Who Do You Trust With Your Keys Now?",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-2eb071be-0242-4589-8f00-542d9a2e241e.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-2eb071be-0242-4589-8f00-542d9a2e241e.jpg"
+        },
+        {
           "id": "https://thedefiant.io/news/tradfi-and-fintech/ipx-exchange-closes-4m-seed-round-at-125m-valuation",
           "author": "Bitwire",
           "description": "IPX, an agentic operating system and tokenized exchange for intellectual property built on Base, closed a $4 million seed round at a $125 million valuation. Bitsurge Holdings led the round alongside YICIPX Holdings Family Office.",
@@ -1503,36 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c17afee7dec08b2521c61034569ffafab8c5df44-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/esma-calls-for-noncompliant-stablecoin-wind-down-by-jan-8",
-          "author": "The Defiant Team",
-          "description": "The regulator’s opinion includes custody and transfers, moving beyond earlier guidance that allowed those services to continue.",
-          "link": "https://thedefiant.io/converge/regulation/esma-calls-for-noncompliant-stablecoin-wind-down-by-jan-8",
-          "publishedOn": "2026-10-12T08:22:07.000Z",
-          "wordCount": null,
-          "title": "ESMA Calls for Noncompliant Stablecoin Wind-Down by Jan. 8",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7da2d5914d3fa6e71a3df273e99bf5a44340ba5e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7da2d5914d3fa6e71a3df273e99bf5a44340ba5e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/cz-alleges-hackers-bought-cryptobilis-as-ledger-probes-wallet-drains",
-          "author": "The Defiant Team",
-          "description": "The reseller’s former founders say they handed over operations in March and that their acquisition agreement delayed a public announcement until mid-October.",
-          "link": "https://thedefiant.io/news/security/cz-alleges-hackers-bought-cryptobilis-as-ledger-probes-wallet-drains",
-          "publishedOn": "2026-10-12T07:44:31.000Z",
-          "wordCount": null,
-          "title": "CZ Alleges Hackers Bought CryptoBilis as Ledger Probes Wallet Drains",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f0082e35791698ec8f9201b21dd0ea8eddc69146-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f0082e35791698ec8f9201b21dd0ea8eddc69146-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }

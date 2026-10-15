@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-15T18:09:47.689Z</id>
+    <id>urn:2026-10-15T21:56:22.473Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-15T18:09:47.689Z</updated>
+    <updated>2026-10-15T21:56:22.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Aave V4’s Arc Markets Connect Dollar-Euro Loans to Shared Liquidity]]></title>
+        <id>https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity</id>
+        <link href="https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity"/>
+        <updated>2026-10-15T21:18:33.000Z</updated>
+        <summary type="html"><![CDATA[The deployment launched Sept. 16 with four reserve assets. Its Forex market lets borrowers pledge EURC, which is not eligible collateral in Arc’s Main market.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ledger Was Hacked — Who Do You Trust With Your Keys Now?]]></title>
+        <id>https://thedefiant.io/podcasts-and-videos/podcast/ledger-was-hacked-who-do-you-trust-with-your-keys-now</id>
+        <link href="https://thedefiant.io/podcasts-and-videos/podcast/ledger-was-hacked-who-do-you-trust-with-your-keys-now"/>
+        <updated>2026-10-15T18:14:31.000Z</updated>
+        <summary type="html"><![CDATA[The Defiant Livestream | Wednesday, Oct. 14, 1:00pm ET Up to $93M drained from more than 300 wallets, and the software was never touched. Ledger confirmed a physical implant inside signers sold through reseller CryptoBilis, reading recovery phrases off the screen at setup and sending them out over]]></summary>
+        <author>
+            <name>Camila Russo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IPX Exchange, the Agentic OS and Tokenized Exchange for IP, Closes $4M Seed Round at a $125M Valuation]]></title>
         <id>https://thedefiant.io/news/tradfi-and-fintech/ipx-exchange-closes-4m-seed-round-at-125m-valuation</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/kraken-plans-uae-launch-after-securing-full-dubai-license"/>
         <updated>2026-10-12T08:41:25.000Z</updated>
         <summary type="html"><![CDATA[The planned rollout includes dirham deposits and withdrawals, AED trading pairs, staking and xStocks, with retail investors covered by Payward’s license.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESMA Calls for Noncompliant Stablecoin Wind-Down by Jan. 8]]></title>
-        <id>https://thedefiant.io/converge/regulation/esma-calls-for-noncompliant-stablecoin-wind-down-by-jan-8</id>
-        <link href="https://thedefiant.io/converge/regulation/esma-calls-for-noncompliant-stablecoin-wind-down-by-jan-8"/>
-        <updated>2026-10-12T08:22:07.000Z</updated>
-        <summary type="html"><![CDATA[The regulator’s opinion includes custody and transfers, moving beyond earlier guidance that allowed those services to continue.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CZ Alleges Hackers Bought CryptoBilis as Ledger Probes Wallet Drains]]></title>
-        <id>https://thedefiant.io/news/security/cz-alleges-hackers-bought-cryptobilis-as-ledger-probes-wallet-drains</id>
-        <link href="https://thedefiant.io/news/security/cz-alleges-hackers-bought-cryptobilis-as-ledger-probes-wallet-drains"/>
-        <updated>2026-10-12T07:44:31.000Z</updated>
-        <summary type="html"><![CDATA[The reseller’s former founders say they handed over operations in March and that their acquisition agreement delayed a public announcement until mid-October.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
