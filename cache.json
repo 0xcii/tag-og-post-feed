@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
+          "author": "The Defiant Team",
+          "description": "The finding is not a cryptographic break; published code covers five NIST prime-curve seeds and four binary-curve seeds.",
+          "link": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
+          "publishedOn": "2026-10-16T21:32:28.000Z",
+          "wordCount": null,
+          "title": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/65693db1236ff83e2954b3e8721da229bb5556b6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/65693db1236ff83e2954b3e8721da229bb5556b6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
           "author": "The Defiant Team",
           "description": "The dollar-settled contracts have no expiry, a 100-SEI minimum order and funding calculated every eight hours.",
@@ -280,7 +295,7 @@
           "description": "The official tour site still lists three more China stops, but registration pages for Hangzhou, Shenzhen and Beijing show sign-ups closed.",
           "link": "https://thedefiant.io/news/regulation/solana-postpones-shanghai-event-citing-registration-surge",
           "publishedOn": "2026-10-16T08:58:56.000Z",
-          "wordCount": 3711,
+          "wordCount": 3684,
           "title": "Solana Postpones Shanghai Event, Citing Registration Surge",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/229ddef598cc1e8faee4030e18b5d5829bfffcfc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1518,21 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ea0b4c296d429bb0269b9ea81eb734a443f76d7f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
-          "author": "The Defiant Team",
-          "description": "The company would replace some Bitcoin-collateralized borrowing with unsecured debt and devote up to ¥28.3 billion to share repurchases.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
-          "publishedOn": "2026-10-13T10:06:10.000Z",
-          "wordCount": null,
-          "title": "Metaplanet Plans ¥52 Billion Bond Sale to Refinance Bitcoin Loans",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a94864b47172450171429f2bbec997bc658cb872-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a94864b47172450171429f2bbec997bc658cb872-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
