@@ -35,6 +35,66 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
+          "author": "The Defiant Team",
+          "description": "The dollar-settled contracts have no expiry, a 100-SEI minimum order and funding calculated every eight hours.",
+          "link": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
+          "publishedOn": "2026-10-16T18:32:37.000Z",
+          "wordCount": null,
+          "title": "SEI Perpetual Futures Trade on CFTC-Regulated OG.com Markets",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/343d31053203dd4789f2d12fd7bf848a3b49d114-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/343d31053203dd4789f2d12fd7bf848a3b49d114-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/karpel-s-reports-ledger-implants-in-devices-from-two-more-resellers",
+          "author": "The Defiant Team",
+          "description": "Ledger says German stock inspections found no tampering and it has not verified a drain tied to a device bought outside Southeast Asia. Its authenticity check cannot detect the added hardware.",
+          "link": "https://thedefiant.io/news/security/karpel-s-reports-ledger-implants-in-devices-from-two-more-resellers",
+          "publishedOn": "2026-10-16T18:13:04.000Z",
+          "wordCount": null,
+          "title": "Karpelès Reports Ledger Implants in Devices From Two More Resellers",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/2c7328a3c195f2329b0319a898f4a199c5c05c56-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2c7328a3c195f2329b0319a898f4a199c5c05c56-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan",
+          "author": "Camila Russo",
+          "description": "Starknet says it is “actively considering becoming an L1” — leaving Ethereum to become what it calls the first fully quantum-resistant network, with 2027 as the target. StarkWare co-founder and CEO Eli Ben-Sasson joins Camila Russo to explain the plan. The announcement came as a post on X on Oct.",
+          "link": "https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan",
+          "publishedOn": "2026-10-16T17:33:25.000Z",
+          "wordCount": null,
+          "title": "STRK’s L1 Bet: Eli Ben-Sasson on Starknet’s Exit Plan",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-04685755-fc1d-4f40-bf9d-75681d96b775.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/thumbnail-episode2-v3-jpg-04685755-fc1d-4f40-bf9d-75681d96b775.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug",
+          "author": "The Defiant Team",
+          "description": "The protocol removed deposit notifications after another critical bug report and says all affected users were made whole.",
+          "link": "https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug",
+          "publishedOn": "2026-10-16T16:28:04.000Z",
+          "wordCount": null,
+          "title": "NEAR Intents Postmortem Links $3.8 Million Exploit to Deposit Bug",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/878610edcdebb796c8071aaf2cecd237b2d8a729-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/878610edcdebb796c8071aaf2cecd237b2d8a729-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-plans-crypto-custody-launch-within-weeks",
           "author": "The Defiant Team",
           "description": "The European offering will serve corporate and institutional clients, with expansion into Asian financial centres targeted for 2027.",
@@ -415,7 +475,7 @@
           "description": "A separate restriction on direct crypto trades between individuals takes effect July 1, 2027, requiring residents to use authorized intermediaries.",
           "link": "https://thedefiant.io/news/regulation/russia-bars-self-custody-withdrawals-from-regulated-crypto-accounts",
           "publishedOn": "2026-10-15T17:08:03.000Z",
-          "wordCount": 3719,
+          "wordCount": 3749,
           "title": "Russia Bars Self-Custody Withdrawals From Regulated Crypto Accounts",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/039041deb4ddd26145abf29b956e45a10dadf145-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1473,66 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a94864b47172450171429f2bbec997bc658cb872-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base",
-          "author": "The Defiant Team",
-          "description": "Autheo urged users not to buy, sell or bridge THEO after a 19 million-token mint and subsequent sales on Base.",
-          "link": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base",
-          "publishedOn": "2026-10-13T09:17:57.000Z",
-          "wordCount": null,
-          "title": "Autheo’s THEO Plunges 92% After Suspected Bridge Exploit on Base",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c4e6a3c0689315f08b3a6bf2418604ccebf45db1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c4e6a3c0689315f08b3a6bf2418604ccebf45db1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/karpel-s-says-airport-bought-ledger-flex-contained-spy-implant",
-          "author": "The Defiant Team",
-          "description": "Buyer Ben Yorke identified Metapod as the retailer. Ledger says verified fund losses in its investigation remain tied to CryptoBilis-sold wallets.",
-          "link": "https://thedefiant.io/news/security/karpel-s-says-airport-bought-ledger-flex-contained-spy-implant",
-          "publishedOn": "2026-10-13T09:15:07.000Z",
-          "wordCount": null,
-          "title": "Karpelès Says Airport-Bought Ledger Flex Contained Spy Implant",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fe749f8a5d1c758b96cc2019001ab14522cd7f17-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fe749f8a5d1c758b96cc2019001ab14522cd7f17-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/21shares-lists-anthropic-synthetic-etp-on-vienna-mtf",
-          "author": "The Defiant Team",
-          "description": "CLAU holds FalconX notes tied to perpetual futures, with financing and funding costs on top of its 1% annual product fee.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/21shares-lists-anthropic-synthetic-etp-on-vienna-mtf",
-          "publishedOn": "2026-10-13T08:16:44.000Z",
-          "wordCount": null,
-          "title": "21Shares Lists Anthropic Synthetic ETP on Vienna MTF",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a4187aab54f57edee3747aeb212812f72154b9e6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a4187aab54f57edee3747aeb212812f72154b9e6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/sanctioned-a7-announces-usdt-to-swift-payment-service",
-          "author": "The Defiant Team",
-          "description": "A7 International advertises a 0.3% fee and payouts in four currencies, but its public materials do not name the banks that would execute the transfers.",
-          "link": "https://thedefiant.io/converge/regulation/sanctioned-a7-announces-usdt-to-swift-payment-service",
-          "publishedOn": "2026-10-13T06:59:06.000Z",
-          "wordCount": null,
-          "title": "Sanctioned A7 Announces USDT-to-SWIFT Payment Service",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dab17fe497c1807f5b3f3ee2a2d3e7ae32dd3648-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dab17fe497c1807f5b3f3ee2a2d3e7ae32dd3648-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
