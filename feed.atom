@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-17T01:04:21.776Z</id>
+    <id>urn:2026-10-17T06:35:32.337Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-17T01:04:21.776Z</updated>
+    <updated>2026-10-17T06:35:32.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Celestia’s TIA Jumps 23% in a Day, Extending Four-Week Rally]]></title>
+        <id>https://thedefiant.io/news/tokens/celestia-s-tia-jumps-23-in-a-day-extending-four-week-rally</id>
+        <link href="https://thedefiant.io/news/tokens/celestia-s-tia-jumps-23-in-a-day-extending-four-week-rally"/>
+        <updated>2026-10-17T05:58:10.000Z</updated>
+        <summary type="html"><![CDATA[Daily transaction fees rose to $158, but data posted to Celestia slipped on the latest complete day.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitget to End Services for Some Users, With Account-Specific Deadlines]]></title>
+        <id>https://thedefiant.io/news/cefi/bitget-to-end-services-for-some-users-with-account-specific-deadlines</id>
+        <link href="https://thedefiant.io/news/cefi/bitget-to-end-services-for-some-users-with-account-specific-deadlines"/>
+        <updated>2026-10-17T05:26:37.000Z</updated>
+        <summary type="html"><![CDATA[The exchange's terms list Russia, Belarus and Kazakhstan as prohibited jurisdictions, while an affected user reports an Oct. 21 deadline.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kevin Boon Succeeds Evan Cheng as Mysten Labs CEO]]></title>
         <id>https://thedefiant.io/news/people/kevin-boon-succeeds-evan-cheng-as-mysten-labs-ceo</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash"/>
         <updated>2026-10-13T14:14:06.000Z</updated>
         <summary type="html"><![CDATA[Eligible clients keep at least 70% of staking rewards under the broker’s agreement, while withdrawals remain subject to network waiting periods.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trezor Shrinks Reseller Network After Hardware Wallet Supply-Chain Incidents]]></title>
-        <id>https://thedefiant.io/news/security/trezor-shrinks-reseller-network-after-hardware-wallet-supply-chain-incidents</id>
-        <link href="https://thedefiant.io/news/security/trezor-shrinks-reseller-network-after-hardware-wallet-supply-chain-incidents"/>
-        <updated>2026-10-13T13:51:05.000Z</updated>
-        <summary type="html"><![CDATA[CryptoBilis is already off Trezor’s seller list. The company says the wider reduction is preventive and that it has no evidence its devices were compromised.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRW and Marex Execute Bond-Index Swap on Canton]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/drw-and-marex-execute-bond-index-swap-on-canton</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/drw-and-marex-execute-bond-index-swap-on-canton"/>
-        <updated>2026-10-13T12:20:50.000Z</updated>
-        <summary type="html"><![CDATA[The Derivnex trade links a shared contract record to licensed S&P benchmark data, with cash and collateral integration planned next.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
