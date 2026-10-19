@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-19T19:01:20.755Z</id>
+    <id>urn:2026-10-19T23:19:15.532Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-19T19:01:20.755Z</updated>
+    <updated>2026-10-19T23:19:15.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Super League Shareholders Back Metaplanet’s 2,100 BTC Investment]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/super-league-shareholders-back-metaplanet-s-2-100-btc-investment</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/super-league-shareholders-back-metaplanet-s-2-100-btc-investment"/>
+        <updated>2026-10-19T23:18:24.000Z</updated>
+        <summary type="html"><![CDATA[The gaming-media company plans to become Superplanet, a Nasdaq-listed US Bitcoin treasury platform, with closing expected in Q4 2026.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Papertrade Keeps PAPER Non-Transferable, Citing Perp Attack Risks]]></title>
+        <id>https://thedefiant.io/news/tokens/papertrade-keeps-paper-non-transferable-citing-perp-attack-risks</id>
+        <link href="https://thedefiant.io/news/tokens/papertrade-keeps-paper-non-transferable-citing-perp-attack-risks"/>
+        <updated>2026-10-19T22:43:41.000Z</updated>
+        <summary type="html"><![CDATA[Holders who earned PAPER through trading losses can stake it for USDC distributions, but still have no date when they can transfer or sell their tokens.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arcus Adds Stock Tokens and WETH as Perpetual Collateral]]></title>
+        <id>https://thedefiant.io/news/defi/arcus-adds-stock-tokens-and-weth-as-perpetual-collateral</id>
+        <link href="https://thedefiant.io/news/defi/arcus-adds-stock-tokens-and-weth-as-perpetual-collateral"/>
+        <updated>2026-10-19T22:20:45.000Z</updated>
+        <summary type="html"><![CDATA[The early-access feature uses automatic USDG loans at 50% initial loan-to-value, with non-USDG deposits capped at $20,000 per account.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentora’s OUSD Lending Vault Holds $42.5 Million on Tempo]]></title>
+        <id>https://thedefiant.io/news/defi/sentora-s-ousd-lending-vault-holds-42-5-million-on-tempo</id>
+        <link href="https://thedefiant.io/news/defi/sentora-s-ousd-lending-vault-holds-42-5-million-on-tempo"/>
+        <updated>2026-10-19T20:02:10.000Z</updated>
+        <summary type="html"><![CDATA[The Morpho vault lends against cbBTC collateral, but nearly all its assets remain idle rather than deployed into loans.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[France’s Stablecoin Swap Tax Faces Oct. 20 Budget Vote]]></title>
+        <id>https://thedefiant.io/news/regulation/france-s-stablecoin-swap-tax-faces-oct-20-budget-vote</id>
+        <link href="https://thedefiant.io/news/regulation/france-s-stablecoin-swap-tax-faces-oct-20-budget-vote"/>
+        <updated>2026-10-19T19:12:04.000Z</updated>
+        <summary type="html"><![CDATA[Deputies approved the amendment by one vote. If enacted, it would end tax deferral for conversions into single-currency e-money tokens from January 2027.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rain Says Western Union's Stablecard Is Live in 37 Markets]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/rain-says-western-union-s-stablecard-is-live-in-37-markets</id>
@@ -951,56 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/eqx-plans-11-tokenized-stock-and-etf-markets-on-hyperliquid"/>
         <updated>2026-10-14T13:19:45.000Z</updated>
         <summary type="html"><![CDATA[The share-backed tokens would trade on HyperCore against USDC, with US persons excluded under EQX’s eligibility rules.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evernorth Taps Ripple, Kraken, Coinbase and BitGo for XRP Yield Push]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/evernorth-taps-ripple-kraken-coinbase-and-bitgo-for-xrp-yield-push</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/evernorth-taps-ripple-kraken-coinbase-and-bitgo-for-xrp-yield-push"/>
-        <updated>2026-10-14T13:07:23.000Z</updated>
-        <summary type="html"><![CDATA[The Nasdaq-listed treasury company plans to start institutional strategies in Q4, with direct XRP Ledger credit-market investments to follow as the infrastructure matures.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Inflation Accelerates to 3.7% as Gasoline Prices Jump]]></title>
-        <id>https://thedefiant.io/news/markets/us-inflation-accelerates-to-3-7-as-gasoline-prices-jump</id>
-        <link href="https://thedefiant.io/news/markets/us-inflation-accelerates-to-3-7-as-gasoline-prices-jump"/>
-        <updated>2026-10-14T12:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Core inflation climbed to 2.6% annually, while gasoline accounted for more than half of September's monthly headline increase.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L2 Capital Signs On To Tokenize $500 Million Of Pre-IPO AI Shares With Newton]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/l2-capital-newton-tokenize-500-million-pre-ipo-ai-shares</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/l2-capital-newton-tokenize-500-million-pre-ipo-ai-shares"/>
-        <updated>2026-10-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Hong Kong firm is the first partner on a platform Newton Labs is still building. Compliance rules would sit inside each token and be checked before every transfer settles.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qivalis Secures Dutch E-Money License for Planned Euro Stablecoin]]></title>
-        <id>https://thedefiant.io/converge/regulation/qivalis-secures-dutch-e-money-license-for-planned-euro-stablecoin</id>
-        <link href="https://thedefiant.io/converge/regulation/qivalis-secures-dutch-e-money-license-for-planned-euro-stablecoin"/>
-        <updated>2026-10-14T11:33:11.000Z</updated>
-        <summary type="html"><![CDATA[The 37-bank venture plans to distribute its token through financial intermediaries, with issuance expected in the coming months.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PancakeSwap Proposes 88% LP Fee Share and 69% CAKE Emissions Cut]]></title>
-        <id>https://thedefiant.io/news/defi/pancakeswap-proposes-88-lp-fee-share-and-69-cake-emissions-cut</id>
-        <link href="https://thedefiant.io/news/defi/pancakeswap-proposes-88-lp-fee-share-and-69-cake-emissions-cut"/>
-        <updated>2026-10-14T08:01:08.000Z</updated>
-        <summary type="html"><![CDATA[The discussion-stage plan would send the remaining v3 and Infinity fees to the treasury, while leaving v2’s CAKE burn mechanism intact.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
