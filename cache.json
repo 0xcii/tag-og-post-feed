@@ -35,6 +35,126 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
+          "author": "The Defiant Team",
+          "description": "Ethereum's gross annualized staking yield fell to 2.63% from 2.81%, while Solana also saw more stake and lower returns.",
+          "link": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
+          "publishedOn": "2026-10-20T17:45:11.000Z",
+          "wordCount": null,
+          "title": "Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/75879d2a6041684d5b6f54f443de05978490fe78-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/75879d2a6041684d5b6f54f443de05978490fe78-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/comp-jumps-27-outpacing-bitcoin-and-ether",
+          "author": "The Defiant Team",
+          "description": "COMP also led both benchmarks over seven and 28 days, while Compound’s total value locked remained below its late-September level.",
+          "link": "https://thedefiant.io/news/tokens/comp-jumps-27-outpacing-bitcoin-and-ether",
+          "publishedOn": "2026-10-20T17:28:52.000Z",
+          "wordCount": null,
+          "title": "COMP Jumps 27%, Outpacing Bitcoin and Ether",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5b584e55c7caecf8986431760983684998222956-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5b584e55c7caecf8986431760983684998222956-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/utah-sues-kalshi-and-susquehanna-firms-to-halt-alleged-illegal-betting",
+          "author": "The Defiant Team",
+          "description": "The state seeks injunctions, restitution and profits, alleging that market makers helped sustain wagering despite Kalshi’s federal court defeat.",
+          "link": "https://thedefiant.io/news/regulation/utah-sues-kalshi-and-susquehanna-firms-to-halt-alleged-illegal-betting",
+          "publishedOn": "2026-10-20T17:07:44.000Z",
+          "wordCount": 3779,
+          "title": "Utah Sues Kalshi and Susquehanna Firms to Halt Alleged Illegal Betting",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6408dda13394cd4425d285f8108f0d1a711e1f7e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6408dda13394cd4425d285f8108f0d1a711e1f7e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
+          "author": "The Defiant Team",
+          "description": "The MIT-incubated network says 16 node operators and about 1.4 million ETH in stake are running mump2p, with ether.fi making it standard across its validator set",
+          "link": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
+          "publishedOn": "2026-10-20T16:24:01.000Z",
+          "wordCount": null,
+          "title": "Optimum Says Block Propagation Layer Is Live on Ethereum Mainnet",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/optimum-cropped-jpg-f4708f31-af2c-4fd2-b760-ef1672fc83c6.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/optimum-cropped-jpg-f4708f31-af2c-4fd2-b760-ef1672fc83c6.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/starknet-foundation-launches-bramble-wallet-with-strk20-shielding",
+          "author": "The Defiant Team",
+          "description": "The Chrome-only wallet combines private balances, Ledger signing and multisig accounts, with a recovery phrase for backup.",
+          "link": "https://thedefiant.io/news/blockchains/starknet-foundation-launches-bramble-wallet-with-strk20-shielding",
+          "publishedOn": "2026-10-20T15:55:09.000Z",
+          "wordCount": null,
+          "title": "Starknet Foundation Launches Bramble Wallet With STRK20 Shielding",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1d9d47620176959e36764546e0f45f3a453ce696-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1d9d47620176959e36764546e0f45f3a453ce696-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/lulo-says-boost-deposits-face-6-4-drawdown-from-neutrl-exposure",
+          "author": "The Defiant Team",
+          "description": "Protected deposits are unaffected, Lulo says, while Neutrl's redemption contract offers 0.51 USDC per NUSD.",
+          "link": "https://thedefiant.io/news/defi/lulo-says-boost-deposits-face-6-4-drawdown-from-neutrl-exposure",
+          "publishedOn": "2026-10-20T15:18:18.000Z",
+          "wordCount": null,
+          "title": "Lulo Says Boost Deposits Face 6.4% Drawdown From Neutrl Exposure",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1227575f8e6d3568a9f349e69ad4b6672aeda904-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1227575f8e6d3568a9f349e69ad4b6672aeda904-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/celestia-activates-fibre-opening-direct-validator-uploads-for-rollups",
+          "author": "The Defiant Team",
+          "description": "The initial release allows 128 MiB blobs and 200 Fibre submissions per block, using smaller uploads and a slower block cadence than its terabit benchmark.",
+          "link": "https://thedefiant.io/news/infrastructure/celestia-activates-fibre-opening-direct-validator-uploads-for-rollups",
+          "publishedOn": "2026-10-20T15:11:45.000Z",
+          "wordCount": null,
+          "title": "Celestia Activates Fibre, Opening Direct Validator Uploads for Rollups",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/72e521ac091f09d5e36ad9ef9f038734258c7724-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/72e521ac091f09d5e36ad9ef9f038734258c7724-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/cefi/1inch-winds-down-card-urges-balance-withdrawals-by-dec-18",
+          "author": "The Defiant Team",
+          "description": "Existing cards and accounts remain accessible for now, but the issuer and provider—not 1inch—control when card functionality ends.",
+          "link": "https://thedefiant.io/converge/cefi/1inch-winds-down-card-urges-balance-withdrawals-by-dec-18",
+          "publishedOn": "2026-10-20T14:47:50.000Z",
+          "wordCount": null,
+          "title": "1inch Winds Down Card, Urges Balance Withdrawals by Dec. 18",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/dd80eb36bb78424aabe8bf610fe7e14064f65573-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/dd80eb36bb78424aabe8bf610fe7e14064f65573-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-gains-russian-crypto-exchange-authorization-ahead-of-planned-december-launch",
           "author": "The Defiant Team",
           "description": "The bank plans to offer Bitcoin, Ether and USDT through its existing apps, while Russian rules impose testing and purchase limits on non-qualified investors.",
@@ -955,7 +1075,7 @@
           "description": "The company run by former FTX Europe head Patrick Gruhn says it has published a notice of intent to rely on the SEC's five-year relief. A 30-day waiting period follows.",
           "link": "https://thedefiant.io/news/regulation/perpetuals-tokenized-us-stocks-sec-innovation-exemption",
           "publishedOn": "2026-10-16T14:32:00.000Z",
-          "wordCount": 3819,
+          "wordCount": 3820,
           "title": "Nasdaq-Listed Perpetuals Files to Trade Tokenized US Stocks Under SEC Exemption",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/nasdaq-perps-cropped-jpg-0d610cce-5419-404c-bcf9-f92fe421a53b.jpg",
@@ -1413,126 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/21b3d400b66d136048d0d11baeb47e0aa5ea2ae4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
-          "author": "The Defiant Team",
-          "description": "Users receive wstETH from local liquidity pools, while ETH is bridged to Ethereum for staking and the pools are replenished in the background.",
-          "link": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
-          "publishedOn": "2026-10-15T10:49:25.000Z",
-          "wordCount": null,
-          "title": "Lido Adds Direct ETH Staking From Four Layer 2s to Its Interface",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9105087d87b8f05f43d5e981cec591272fb5acfa-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9105087d87b8f05f43d5e981cec591272fb5acfa-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/hashkey-chain-admin-moves-142-818-usdt-with-temporary-contract-swap",
-          "author": "The Defiant Team",
-          "description": "The original deposit code was restored about six minutes later, but a three-of-five multisig retains immediate upgrade powers.",
-          "link": "https://thedefiant.io/news/security/hashkey-chain-admin-moves-142-818-usdt-with-temporary-contract-swap",
-          "publishedOn": "2026-10-15T10:45:57.000Z",
-          "wordCount": null,
-          "title": "HashKey Chain Admin Moves 142,818 USDT With Temporary Contract Swap",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/38061d4716db7264b7b34d04ad5e0f30f4b5525f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/38061d4716db7264b7b34d04ad5e0f30f4b5525f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails",
-          "author": "The Defiant Team",
-          "description": "Nuvei and Marqeta are among the first planned integrators; local-payout coverage is expected to expand in 2027.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails",
-          "publishedOn": "2026-10-15T10:34:38.000Z",
-          "wordCount": null,
-          "title": "BVNK Launches Global Money Platform Linking Stablecoins to Mastercard Rails",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0c82b5f393cbdbcb3b2c36b21b0733f25183d416-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0c82b5f393cbdbcb3b2c36b21b0733f25183d416-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention",
-          "author": "The Defiant Team",
-          "description": "A Uniswap pool handling about $703,000 in daily HEX trading held just $354,000 in liquidity, adding execution risk for sellers.",
-          "link": "https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention",
-          "publishedOn": "2026-10-15T06:53:08.000Z",
-          "wordCount": 3785,
-          "title": "Ethereum HEX Sinks 31% After Reports of Richard Heart's Detention",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f595611e258a9b1d88bf975ded1476c8b1553420-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f595611e258a9b1d88bf975ded1476c8b1553420-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know",
-          "author": "The Defiant Team",
-          "description": "Ledger tells CryptoBilis buyers to leave unused wallets uninitialized and move assets from already-set-up devices to a new device with a new recovery phrase.",
-          "link": "https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know",
-          "publishedOn": "2026-10-15T02:53:59.000Z",
-          "wordCount": null,
-          "title": "Ledger Wallet Tampering: What Is Confirmed and What Owners Should Know",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1cc737a44b43381dd545a3a71d741f0ffb075543-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1cc737a44b43381dd545a3a71d741f0ffb075543-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/us-event-contract-rules-what-the-cftc-has-changed-and-what-remains-unresolved",
-          "author": "The Defiant Team",
-          "description": "A guide to the proposed swap definition, the adopted casino-wager exclusion and the court split over state gambling laws—and why each has a different legal effect.",
-          "link": "https://thedefiant.io/news/regulation/us-event-contract-rules-what-the-cftc-has-changed-and-what-remains-unresolved",
-          "publishedOn": "2026-10-15T02:53:06.000Z",
-          "wordCount": 3798,
-          "title": "US Event-Contract Rules: What the CFTC Has Changed and What Remains Unresolved",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/bef862f70bc85517ac63902747f45a3ff17c8dff-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/bef862f70bc85517ac63902747f45a3ff17c8dff-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tokens/vaneck-seeks-to-withdraw-lido-staked-ethereum-etf-filing",
-          "author": "The Defiant Team",
-          "description": "The proposed fund would have held stETH directly and offered brokerage-account exposure to Lido’s liquid-staking token. Its registration never became effective.",
-          "link": "https://thedefiant.io/converge/tokens/vaneck-seeks-to-withdraw-lido-staked-ethereum-etf-filing",
-          "publishedOn": "2026-10-14T21:33:00.000Z",
-          "wordCount": null,
-          "title": "VanEck Seeks to Withdraw Lido Staked Ethereum ETF Filing",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6cb0791d2f0aa22d03e55d9c50fad8c70ac27385-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6cb0791d2f0aa22d03e55d9c50fad8c70ac27385-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/tempo-takes-zones-privacy-system-into-production-with-deel",
-          "author": "The Defiant Team",
-          "description": "Contractor balances and payout history stay out of public view, while Deel retains records for reconciliation and audit.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/tempo-takes-zones-privacy-system-into-production-with-deel",
-          "publishedOn": "2026-10-14T21:21:53.000Z",
-          "wordCount": null,
-          "title": "Tempo Takes Zones Privacy System Into Production With Deel",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fd1e6503bf3fbe0a2a1bc5ac6d5ff02bceb22454-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fd1e6503bf3fbe0a2a1bc5ac6d5ff02bceb22454-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
