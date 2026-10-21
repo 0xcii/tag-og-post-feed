@@ -24,6 +24,171 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/regulation/polymarket-us-sues-ohio-to-block-sports-contract-crackdown",
+          "author": "The Defiant Team",
+          "description": "The exchange seeks preliminary and permanent injunctions after Ohio demanded an immediate halt to sports contracts and written confirmation of compliance by Oct. 16.",
+          "link": "https://thedefiant.io/news/regulation/polymarket-us-sues-ohio-to-block-sports-contract-crackdown",
+          "publishedOn": "2026-10-21T17:15:03.000Z",
+          "wordCount": 3757,
+          "title": "Polymarket US Sues Ohio to Block Sports-Contract Crackdown",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8afcc25665f5570bd464c260f3e5bca03aba8c23-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8afcc25665f5570bd464c260f3e5bca03aba8c23-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/cefi/okx-combines-euro-and-eurc-liquidity-in-one-spot-order-book",
+          "author": "The Defiant Team",
+          "description": "Eligible EEA users can convert euros to EURC at 1:1 and choose either settlement asset, with fees depending on their tier and transaction.",
+          "link": "https://thedefiant.io/converge/cefi/okx-combines-euro-and-eurc-liquidity-in-one-spot-order-book",
+          "publishedOn": "2026-10-21T16:54:03.000Z",
+          "wordCount": null,
+          "title": "OKX Combines Euro and EURC Liquidity in One Spot Order Book",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6ced35705e08d7820a98ad3c47ec5c692e6ba782-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6ced35705e08d7820a98ad3c47ec5c692e6ba782-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/fca-proposes-guidance-on-when-defi-interfaces-need-uk-authorization",
+          "author": "The Defiant Team",
+          "description": "A separate paper explains how regulated firms must manage DeFi risks. Both consultations close Nov. 18.",
+          "link": "https://thedefiant.io/news/regulation/fca-proposes-guidance-on-when-defi-interfaces-need-uk-authorization",
+          "publishedOn": "2026-10-21T16:53:04.000Z",
+          "wordCount": 3734,
+          "title": "FCA Proposes Guidance on When DeFi Interfaces Need UK Authorization",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c33c5d38694ebbcb643b3f66ce5b0bd110c564a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8c33c5d38694ebbcb643b3f66ce5b0bd110c564a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/nsa-urges-php-users-to-patch-or-take-systems-offline",
+          "author": "The Defiant Team",
+          "description": "PHP has released fixes for two flaws rated 9.2 that can let unauthenticated attackers run code on web servers.",
+          "link": "https://thedefiant.io/news/security/nsa-urges-php-users-to-patch-or-take-systems-offline",
+          "publishedOn": "2026-10-21T16:51:42.000Z",
+          "wordCount": null,
+          "title": "NSA Urges PHP Users to Patch or Take Systems Offline",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6f06e9d13045251f6c7c79b19290890cf0bee851-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6f06e9d13045251f6c7c79b19290890cf0bee851-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/eclair-patches-lightning-bugs-that-could-let-peers-steal-funds",
+          "author": "The Defiant Team",
+          "description": "The second security release in five days lets node operators upgrade without closing channels, though Eclair must be stopped and restarted.",
+          "link": "https://thedefiant.io/news/security/eclair-patches-lightning-bugs-that-could-let-peers-steal-funds",
+          "publishedOn": "2026-10-21T16:50:48.000Z",
+          "wordCount": null,
+          "title": "Eclair Patches Lightning Bugs That Could Let Peers Steal Funds",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cb1670df6051c3e01a84764ab6cc3e423b768803-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cb1670df6051c3e01a84764ab6cc3e423b768803-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/tesla-and-spacex-explore-merger-that-could-unite-30-221-bitcoin",
+          "author": "The Defiant Team",
+          "description": "Their disclosed bitcoin positions would together rank sixth among CoinGecko’s tracked public companies. Musk says no transaction terms have been agreed.",
+          "link": "https://thedefiant.io/news/markets/tesla-and-spacex-explore-merger-that-could-unite-30-221-bitcoin",
+          "publishedOn": "2026-10-21T16:38:20.000Z",
+          "wordCount": 3778,
+          "title": "Tesla and SpaceX Explore Merger That Could Unite 30,221 Bitcoin",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/636056e60ffda54f7c4f8143e6e8b8a55900bce3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/636056e60ffda54f7c4f8143e6e8b8a55900bce3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/sunrise-brings-backpack-s-tokenized-meta-shares-to-solana",
+          "author": "The Defiant Team",
+          "description": "Redemption requires an eligible, verified Backpack account, and transfers from Backpack to another brokerage are not yet supported.",
+          "link": "https://thedefiant.io/news/tokens/sunrise-brings-backpack-s-tokenized-meta-shares-to-solana",
+          "publishedOn": "2026-10-21T16:23:30.000Z",
+          "wordCount": null,
+          "title": "Sunrise Brings Backpack’s Tokenized Meta Shares to Solana",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/d5f0b942e76af6ba8a73dff9a13caabbe263ad6d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/d5f0b942e76af6ba8a73dff9a13caabbe263ad6d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/japan-s-prime-minister-urges-php-patching-suggests-temporary-site-shutdowns",
+          "author": "The Defiant Team",
+          "description": "Fixes are now available for two critical flaws that can let attackers run code on web servers without logging in.",
+          "link": "https://thedefiant.io/news/security/japan-s-prime-minister-urges-php-patching-suggests-temporary-site-shutdowns",
+          "publishedOn": "2026-10-21T15:01:45.000Z",
+          "wordCount": null,
+          "title": "Japan's Prime Minister Urges PHP Patching, Suggests Temporary Site Shutdowns",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/920cacf9b143fd68859247c237545f53b7c577de-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/920cacf9b143fd68859247c237545f53b7c577de-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
+          "author": "The Defiant Team",
+          "description": "Chrome still listed an affected extension version with 6,000 users as the foundation urged holders to create fresh keys.",
+          "link": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
+          "publishedOn": "2026-10-21T14:21:15.000Z",
+          "wordCount": null,
+          "title": "Polkadot Warns Fearless Wallet Users to Move Funds After Private-Key Leak",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/79e64da09231f5ff3b082c80ff4772e4913bf6a0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/79e64da09231f5ff3b082c80ff4772e4913bf6a0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/ondo-perps-adds-3x-openai-pre-ipo-contract",
+          "author": "The Defiant Team",
+          "description": "The perpetual has its own pricing and hourly funding payments, unlike the fully funded OPAIPon spot note. US persons are excluded.",
+          "link": "https://thedefiant.io/news/defi/ondo-perps-adds-3x-openai-pre-ipo-contract",
+          "publishedOn": "2026-10-21T13:46:22.000Z",
+          "wordCount": null,
+          "title": "Ondo Perps Adds 3x OpenAI Pre-IPO Contract",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1d8302ad60c95aedad595dc4627def3143755a0d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1d8302ad60c95aedad595dc4627def3143755a0d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap",
+          "author": "The Defiant Team",
+          "description": "The collection's NFT floor rose 7.4% in ETH, while reported token trading volume reached $213 million over 24 hours.",
+          "link": "https://thedefiant.io/news/nfts-and-web3/doodles-dood-token-surges-212-to-a-38-million-market-cap",
+          "publishedOn": "2026-10-21T13:35:28.000Z",
+          "wordCount": null,
+          "title": "Doodles' DOOD Token Surges 212% to a $38 Million Market Cap",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/321bc34bbe29147d87c22b818c275d0a6be577f8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/321bc34bbe29147d87c22b818c275d0a6be577f8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/defi/ledger-adds-morpho-loans-against-wrapped-bitcoin",
           "author": "The Defiant Team",
           "description": "Eligible users can borrow USDC or USDT on Ethereum, while pledged collateral sits in smart contracts and remains subject to liquidation.",
@@ -119,7 +284,7 @@
           "description": "The trade group backed Regulation Crypto Assets in its comment letter and asked the Commission to raise both offering caps, write the Howey guidance into the rule, and let third parties file for tokens already trading.",
           "link": "https://thedefiant.io/news/regulation/blockchain-association-asks-sec-to-double-crypto-startup-exemption-to-10-million",
           "publishedOn": "2026-10-21T12:03:07.000Z",
-          "wordCount": 3882,
+          "wordCount": 3876,
           "title": "Blockchain Association Asks SEC to Double Crypto Startup Exemption to $10 Million",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/pasted-1792584066566-png-614e3817-6dd9-4365-a52b-a023b7ac249b.png",
@@ -344,7 +509,7 @@
           "description": "The state seeks injunctions, restitution and profits, alleging that market makers helped sustain wagering despite Kalshi’s federal court defeat.",
           "link": "https://thedefiant.io/news/regulation/utah-sues-kalshi-and-susquehanna-firms-to-halt-alleged-illegal-betting",
           "publishedOn": "2026-10-20T17:07:44.000Z",
-          "wordCount": 3743,
+          "wordCount": 3740,
           "title": "Utah Sues Kalshi and Susquehanna Firms to Halt Alleged Illegal Betting",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6408dda13394cd4425d285f8108f0d1a711e1f7e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -539,7 +704,7 @@
           "description": "The proposal would end tax deferral on gains from swaps into single-currency stablecoins from January 2027. It remains subject to further parliamentary votes.",
           "link": "https://thedefiant.io/news/regulation/france-moves-budget-vote-carrying-stablecoin-tax-to-nov-3",
           "publishedOn": "2026-10-20T11:53:34.000Z",
-          "wordCount": 3790,
+          "wordCount": 3787,
           "title": "France Moves Budget Vote Carrying Stablecoin Tax to Nov. 3",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/14489f0a8d200e28324372fa8f611baae9fcd86d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -719,7 +884,7 @@
           "description": "Deputies approved the amendment by one vote. If enacted, it would end tax deferral for conversions into single-currency e-money tokens from January 2027.",
           "link": "https://thedefiant.io/news/regulation/france-s-stablecoin-swap-tax-faces-oct-20-budget-vote",
           "publishedOn": "2026-10-19T19:12:04.000Z",
-          "wordCount": 3759,
+          "wordCount": 3756,
           "title": "France’s Stablecoin Swap Tax Faces Oct. 20 Budget Vote",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b25198b602584c15a717f0b65eeeef3da1631eff-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -779,7 +944,7 @@
           "description": "Starknet’s DeFi TVL fell a smaller 5.3%, while voting on research into an independent Layer 1 remains open until Oct. 22.",
           "link": "https://thedefiant.io/news/markets/strk-sinks-38-in-a-week-as-starknet-rally-reverses",
           "publishedOn": "2026-10-19T17:19:16.000Z",
-          "wordCount": 3745,
+          "wordCount": 3742,
           "title": "STRK Sinks 38% in a Week as Starknet Rally Reverses",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8f5b8825aa3d969896f6e23b3b868976d0a8d0ca-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -989,7 +1154,7 @@
           "description": "The 2027 budget amendment would end tax deferral for swaps into single-currency stablecoins from January 1, but it is not yet law.",
           "link": "https://thedefiant.io/news/regulation/french-assembly-backs-tax-on-crypto-to-stablecoin-swaps-by-one-vote",
           "publishedOn": "2026-10-17T19:42:21.000Z",
-          "wordCount": 3794,
+          "wordCount": 3791,
           "title": "French Assembly Backs Tax on Crypto-to-Stablecoin Swaps by One Vote",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/1bee00214e51a15f438f0e7eb82faac4bedd0dee-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1034,7 +1199,7 @@
           "description": "Five crypto ETF groups tracked by Farside lost $610.7 million during Oct. 12–16, while bitcoin withdrawals slowed 66% from the preceding week.",
           "link": "https://thedefiant.io/news/markets/ether-etfs-lose-320-million-overtaking-bitcoin-s-weekly-outflows",
           "publishedOn": "2026-10-17T07:55:49.000Z",
-          "wordCount": 3747,
+          "wordCount": 3744,
           "title": "Ether ETFs Lose $320 Million, Overtaking Bitcoin's Weekly Outflows",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e63a306e6fc9a5b393c44ea8371c2c8149cd7779-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1289,7 +1454,7 @@
           "description": "INJ outpaced NEAR, Sei and Cosmos Hub over 24 hours, while a proposed 21Shares fund would hold the token directly and allow discretionary staking.",
           "link": "https://thedefiant.io/news/markets/inj-surges-27-outpacing-near-and-sei",
           "publishedOn": "2026-10-16T14:58:50.000Z",
-          "wordCount": 3756,
+          "wordCount": 3753,
           "title": "INJ Surges 27%, Outpacing NEAR and Sei",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/ee9ffbbda81db6e672d9a5cb17bdb6df6ebac982-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1349,7 +1514,7 @@
           "description": "The company run by former FTX Europe head Patrick Gruhn says it has published a notice of intent to rely on the SEC's five-year relief. A 30-day waiting period follows.",
           "link": "https://thedefiant.io/news/regulation/perpetuals-tokenized-us-stocks-sec-innovation-exemption",
           "publishedOn": "2026-10-16T14:32:00.000Z",
-          "wordCount": 3825,
+          "wordCount": 3820,
           "title": "Nasdaq-Listed Perpetuals Files to Trade Tokenized US Stocks Under SEC Exemption",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/nasdaq-perps-cropped-jpg-0d610cce-5419-404c-bcf9-f92fe421a53b.jpg",
@@ -1357,171 +1522,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.thedefiant.io/nasdaq-perps-cropped-jpg-0d610cce-5419-404c-bcf9-f92fe421a53b.jpg"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/jupiter-says-yolo-hit-1-billion-in-volume-in-under-24-hours",
-          "author": "The Defiant Team",
-          "description": "The unaudited beta counts leveraged trading exposure, while winners depend on a separate house pool funded by trader losses.",
-          "link": "https://thedefiant.io/news/defi/jupiter-says-yolo-hit-1-billion-in-volume-in-under-24-hours",
-          "publishedOn": "2026-10-16T10:32:47.000Z",
-          "wordCount": null,
-          "title": "Jupiter Says YOLO Hit $1 Billion in Volume in Under 24 Hours",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7f85b14fcfc94d7a1e59162bbf9b90070c945b16-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7f85b14fcfc94d7a1e59162bbf9b90070c945b16-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/solana-postpones-shanghai-event-citing-registration-surge",
-          "author": "The Defiant Team",
-          "description": "The official tour site still lists three more China stops, but registration pages for Hangzhou, Shenzhen and Beijing show sign-ups closed.",
-          "link": "https://thedefiant.io/news/regulation/solana-postpones-shanghai-event-citing-registration-surge",
-          "publishedOn": "2026-10-16T08:58:56.000Z",
-          "wordCount": 3725,
-          "title": "Solana Postpones Shanghai Event, Citing Registration Surge",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/229ddef598cc1e8faee4030e18b5d5829bfffcfc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/229ddef598cc1e8faee4030e18b5d5829bfffcfc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/celestia-s-tia-climbs-59-in-four-weeks-as-blob-demand-slips",
-          "author": "The Defiant Team",
-          "description": "Daily blob data fell during the rally, while Celestia’s new Fibre throughput benchmark remains separate from mainnet usage.",
-          "link": "https://thedefiant.io/news/tokens/celestia-s-tia-climbs-59-in-four-weeks-as-blob-demand-slips",
-          "publishedOn": "2026-10-16T05:58:10.000Z",
-          "wordCount": null,
-          "title": "Celestia’s TIA Climbs 59% in Four Weeks as Blob Demand Slips",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0d6a907904d88057678830f53270ff32e67a4062-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0d6a907904d88057678830f53270ff32e67a4062-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/solana-s-shanghai-event-halted-with-officers-present-attendees-say",
-          "author": "The Defiant Team",
-          "description": "The interruption follows a new Shanghai office and skyline promotion at the start of the foundation’s four-city China tour.",
-          "link": "https://thedefiant.io/news/regulation/solana-s-shanghai-event-halted-with-officers-present-attendees-say",
-          "publishedOn": "2026-10-16T04:29:25.000Z",
-          "wordCount": 3741,
-          "title": "Solana's Shanghai Event Halted With Officers Present, Attendees Say",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4627e7f80161e24640d64b463e4e832b28a5cbd3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4627e7f80161e24640d64b463e4e832b28a5cbd3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions",
-          "author": "The Defiant Team",
-          "description": "Gemini has already paid the $5 million penalty. A permanent injunction and restrictions on publicly denying the case's findings remain in place.",
-          "link": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions",
-          "publishedOn": "2026-10-16T00:39:04.000Z",
-          "wordCount": 3751,
-          "title": "Judge Rejects Gemini-CFTC Bid to Lift Settlement Restrictions",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ce892344d3b1c7e15b30787ce1c39cc16c062016-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ce892344d3b1c7e15b30787ce1c39cc16c062016-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/coreweave-broadcom-join-objections-to-okx-ice-stock-tokenization",
-          "author": "The Defiant Team",
-          "description": "The venture now discloses nine issuer objections, each of which bars the affected stock token from trading under the SEC’s conditional exemption.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/coreweave-broadcom-join-objections-to-okx-ice-stock-tokenization",
-          "publishedOn": "2026-10-15T23:58:41.000Z",
-          "wordCount": null,
-          "title": "CoreWeave, Broadcom Join Objections to OKX-ICE Stock Tokenization",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/29c72025038e8676bf97c80e16b7c8084d6e0533-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/29c72025038e8676bf97c80e16b7c8084d6e0533-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/msci-adopts-rules-putting-strategy-and-metaplanet-at-risk-of-index-removal",
-          "author": "The Defiant Team",
-          "description": "A May simulation flagged both companies for deletion and SharpLink for a watchlist. MSCI will publish its final list on Nov. 11.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/msci-adopts-rules-putting-strategy-and-metaplanet-at-risk-of-index-removal",
-          "publishedOn": "2026-10-15T23:34:48.000Z",
-          "wordCount": null,
-          "title": "MSCI Adopts Rules Putting Strategy and Metaplanet at Risk of Index Removal",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4dae22bc1ae384d473b39d8e517cf6f1e082a899-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4dae22bc1ae384d473b39d8e517cf6f1e082a899-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/infrastructure/google-cuts-quantum-magic-state-errors-40-fold-on-willow",
-          "author": "The Defiant Team",
-          "description": "The Science result reaches about 99.99% state fidelity, validating a technique already assumed in quantum resource estimates.",
-          "link": "https://thedefiant.io/news/infrastructure/google-cuts-quantum-magic-state-errors-40-fold-on-willow",
-          "publishedOn": "2026-10-15T23:27:03.000Z",
-          "wordCount": null,
-          "title": "Google Cuts Quantum Magic-State Errors 40-Fold on Willow",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f77f1f8a8c5fccd8e005f5ba6d0e561ce1a9a6a8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f77f1f8a8c5fccd8e005f5ba6d0e561ce1a9a6a8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/pirate-chain-says-exploit-created-39-8-million-arrr",
-          "author": "The Defiant Team",
-          "description": "The network remains operational, but users have been asked not to move funds while developers work on recovery.",
-          "link": "https://thedefiant.io/news/hacks/pirate-chain-says-exploit-created-39-8-million-arrr",
-          "publishedOn": "2026-10-15T23:21:21.000Z",
-          "wordCount": null,
-          "title": "Pirate Chain Says Exploit Created 39.8 Million ARRR",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/af2c3478496ae3d03cdd6d27b7dae829164da2f7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/af2c3478496ae3d03cdd6d27b7dae829164da2f7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/bosmo-bug-leaves-little-backing-prompts-holder-compensation-plan",
-          "author": "The Defiant Team",
-          "description": "The contract still allows cheap minting, putting liquidity pools at risk. bOSMO bought after the snapshot will not be compensated.",
-          "link": "https://thedefiant.io/news/security/bosmo-bug-leaves-little-backing-prompts-holder-compensation-plan",
-          "publishedOn": "2026-10-15T23:18:39.000Z",
-          "wordCount": null,
-          "title": "bOSMO Bug Leaves Little Backing, Prompts Holder Compensation Plan",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/46871671e8e9a9bbc975a251a9466634c2c2ef81-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/46871671e8e9a9bbc975a251a9466634c2c2ef81-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity",
-          "author": "The Defiant Team",
-          "description": "The deployment launched Sept. 16 with four reserve assets. Its Forex market lets borrowers pledge EURC, which is not eligible collateral in Arc’s Main market.",
-          "link": "https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity",
-          "publishedOn": "2026-10-15T21:18:33.000Z",
-          "wordCount": null,
-          "title": "Aave V4’s Arc Markets Connect Dollar-Euro Loans to Shared Liquidity",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/40419dacefaec1085df6afbff9d55385c7bdd4eb-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/40419dacefaec1085df6afbff9d55385c7bdd4eb-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
