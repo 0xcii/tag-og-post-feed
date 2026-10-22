@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-21T22:06:54.442Z</id>
+    <id>urn:2026-10-22T01:14:18.312Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-21T22:06:54.442Z</updated>
+    <updated>2026-10-22T01:14:18.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Wallet Three Hours Old Minted Kimchi's Coin and Routed Every Fee to One Address]]></title>
+        <id>https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing</id>
+        <link href="https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing"/>
+        <updated>2026-10-21T22:45:11.000Z</updated>
+        <summary type="html"><![CDATA[The deployer bought 79% of the supply for about $9,300 and named a single address the permanent, unchangeable recipient of every creator fee the coin will ever pay. Pump.fun's own profile page titles that address “Kimchi”]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obol Urges Immediate Charon Upgrade After CA Key Compromise]]></title>
+        <id>https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise</id>
+        <link href="https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise"/>
+        <updated>2026-10-21T22:40:13.000Z</updated>
+        <summary type="html"><![CDATA[The patch updates certificate checks in Go. Obol's mainnet cluster balances totaled 422,862 ETH in its latest daily snapshot.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Railway Urges All Users to Rotate Secrets After Security Incident]]></title>
+        <id>https://thedefiant.io/news/security/railway-urges-all-users-to-rotate-secrets-after-security-incident</id>
+        <link href="https://thedefiant.io/news/security/railway-urges-all-users-to-rotate-secrets-after-security-incident"/>
+        <updated>2026-10-21T22:34:10.000Z</updated>
+        <summary type="html"><![CDATA[Deployments remain paused, preventing customers from updating applications with replacement credentials.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[eMudhra's Weak Certificate Keys Prompt Emergency Trust Updates]]></title>
         <id>https://thedefiant.io/news/security/emudhra-s-weak-certificate-keys-prompt-emergency-trust-updates</id>
@@ -971,36 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets"/>
         <updated>2026-10-16T18:32:37.000Z</updated>
         <summary type="html"><![CDATA[The dollar-settled contracts have no expiry, a 100-SEI minimum order and funding calculated every eight hours.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karpelès Reports Ledger Implants in Devices From Two More Resellers]]></title>
-        <id>https://thedefiant.io/news/security/karpel-s-reports-ledger-implants-in-devices-from-two-more-resellers</id>
-        <link href="https://thedefiant.io/news/security/karpel-s-reports-ledger-implants-in-devices-from-two-more-resellers"/>
-        <updated>2026-10-16T18:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Ledger says German stock inspections found no tampering and it has not verified a drain tied to a device bought outside Southeast Asia. Its authenticity check cannot detect the added hardware.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STRK’s L1 Bet: Eli Ben-Sasson on Starknet’s Exit Plan]]></title>
-        <id>https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan</id>
-        <link href="https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan"/>
-        <updated>2026-10-16T17:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Starknet says it is “actively considering becoming an L1” — leaving Ethereum to become what it calls the first fully quantum-resistant network, with 2027 as the target. StarkWare co-founder and CEO Eli Ben-Sasson joins Camila Russo to explain the plan. The announcement came as a post on X on Oct.]]></summary>
-        <author>
-            <name>Camila Russo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEAR Intents Postmortem Links $3.8 Million Exploit to Deposit Bug]]></title>
-        <id>https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug</id>
-        <link href="https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug"/>
-        <updated>2026-10-16T16:28:04.000Z</updated>
-        <summary type="html"><![CDATA[The protocol removed deposit notifications after another critical bug report and says all affected users were made whole.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
