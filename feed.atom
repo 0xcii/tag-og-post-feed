@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-26T16:30:45.809Z</id>
+    <id>urn:2026-10-26T21:22:11.495Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-26T16:30:45.809Z</updated>
+    <updated>2026-10-26T21:22:11.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitso Brings Morpho Lending to Its App With Bóvedas]]></title>
+        <id>https://thedefiant.io/news/defi/bitso-brings-morpho-lending-to-its-app-with-b-vedas</id>
+        <link href="https://thedefiant.io/news/defi/bitso-brings-morpho-lending-to-its-app-with-b-vedas"/>
+        <updated>2026-10-26T21:10:26.000Z</updated>
+        <summary type="html"><![CDATA[The product moves USDC and peso-pegged MXNB into noncustodial lending vaults, with variable returns and no deposit insurance.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instinct Rolls Out Link Balance for AI Shopping With Spending Limits]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/instinct-rolls-out-link-balance-for-ai-shopping-with-spending-limits</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/instinct-rolls-out-link-balance-for-ai-shopping-with-spending-limits"/>
+        <updated>2026-10-26T20:11:58.000Z</updated>
+        <summary type="html"><![CDATA[Link says funded balances are held in USDC, while Tempo founder Matt Huang says stablecoins on its blockchain power the feature.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Tests Permissioned Markets for Payward's US Perps Plan]]></title>
+        <id>https://thedefiant.io/news/defi/hyperliquid-tests-permissioned-markets-for-payward-s-us-perps-plan</id>
+        <link href="https://thedefiant.io/news/defi/hyperliquid-tests-permissioned-markets-for-payward-s-us-perps-plan"/>
+        <updated>2026-10-26T17:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Optional onchain allowlists would leave existing markets unchanged; the proposed US contracts still need regulatory approval.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave Raises USDT Borrowing Costs at High Utilization]]></title>
+        <id>https://thedefiant.io/news/defi/aave-raises-usdt-borrowing-costs-at-high-utilization</id>
+        <link href="https://thedefiant.io/news/defi/aave-raises-usdt-borrowing-costs-at-high-utilization"/>
+        <updated>2026-10-26T17:41:08.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum pool now enters its steeper rate tier at 92% utilization, giving borrowers an earlier incentive to leave liquidity available for withdrawals.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buying Pre-IPO Shares vs. Funds: What US Investors Actually Own]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/buying-pre-ipo-shares-vs-funds-what-us-investors-actually-own</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/buying-pre-ipo-shares-vs-funds-what-us-investors-actually-own"/>
+        <updated>2026-10-26T17:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Direct trades can put buyers on a company's shareholder register. Fund interests offer indirect exposure, with separate fees and exit rules that an IPO does not automatically remove.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX Offers 10x Anthropic Valuation Bets After IPO Filing]]></title>
+        <id>https://thedefiant.io/news/markets/okx-offers-10x-anthropic-valuation-bets-after-ipo-filing</id>
+        <link href="https://thedefiant.io/news/markets/okx-offers-10x-anthropic-valuation-bets-after-ipo-filing"/>
+        <updated>2026-10-26T16:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Eligible EEA traders get cash-settled exposure, not shares or an IPO allocation, with a share-count adjustment designed to preserve position value.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainlink Introduces CustodySync With Anchorage for Custodied DeFi Borrowing]]></title>
         <id>https://thedefiant.io/converge/defi/chainlink-introduces-custodysync-with-anchorage-for-custodied-defi-borrowing</id>
@@ -941,66 +1001,6 @@
         <link href="https://thedefiant.io/news/nfts-and-web3/collector-crypt-reports-record-24-3-million-day"/>
         <updated>2026-10-22T01:44:47.000Z</updated>
         <summary type="html"><![CDATA[Users opened 123,425 packs, while the reported gross receipts equaled roughly 13% of DefiLlama's trailing 30-day pack-sales total.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aero Launches as Aerodrome and Velodrome Merge Across Seven Chains]]></title>
-        <id>https://thedefiant.io/news/defi/aero-launches-aerodrome-velodrome-merge-seven-chains</id>
-        <link href="https://thedefiant.io/news/defi/aero-launches-aerodrome-velodrome-merge-seven-chains"/>
-        <updated>2026-10-22T01:25:39.000Z</updated>
-        <summary type="html"><![CDATA[The combined exchange went live across seven networks, with VELO converting at 0.044 AERO and locked positions becoming sAERO]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Wallet Three Hours Old Minted Kimchi's Coin and Routed Every Fee to One Address]]></title>
-        <id>https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing</id>
-        <link href="https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing"/>
-        <updated>2026-10-21T22:45:11.000Z</updated>
-        <summary type="html"><![CDATA[The deployer bought 79% of the supply for about $9,300 and named a single address the permanent, unchangeable recipient of every creator fee the coin will ever pay. Pump.fun's own profile page titles that address “Kimchi”]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Obol Urges Immediate Charon Upgrade After CA Key Compromise]]></title>
-        <id>https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise</id>
-        <link href="https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise"/>
-        <updated>2026-10-21T22:40:13.000Z</updated>
-        <summary type="html"><![CDATA[The patch updates certificate checks in Go. Obol's mainnet cluster balances totaled 422,862 ETH in its latest daily snapshot.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Railway Urges All Users to Rotate Secrets After Security Incident]]></title>
-        <id>https://thedefiant.io/news/security/railway-urges-all-users-to-rotate-secrets-after-security-incident</id>
-        <link href="https://thedefiant.io/news/security/railway-urges-all-users-to-rotate-secrets-after-security-incident"/>
-        <updated>2026-10-21T22:34:10.000Z</updated>
-        <summary type="html"><![CDATA[Deployments remain paused, preventing customers from updating applications with replacement credentials.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eMudhra's Weak Certificate Keys Prompt Emergency Trust Updates]]></title>
-        <id>https://thedefiant.io/news/security/emudhra-s-weak-certificate-keys-prompt-emergency-trust-updates</id>
-        <link href="https://thedefiant.io/news/security/emudhra-s-weak-certificate-keys-prompt-emergency-trust-updates"/>
-        <updated>2026-10-21T21:24:58.000Z</updated>
-        <summary type="html"><![CDATA[One recovered private key was just 4. The company says the flaw went undetected through two independent audit cycles.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matter Labs Debuts Prividium Commander For Institutions]]></title>
-        <id>https://thedefiant.io/news/infrastructure/matter-labs-prividium-commander-institutions</id>
-        <link href="https://thedefiant.io/news/infrastructure/matter-labs-prividium-commander-institutions"/>
-        <updated>2026-10-21T21:13:40.000Z</updated>
-        <summary type="html"><![CDATA[The control plane for bank digital-asset operations is generally available at launch. Its revenue goes to Matter Labs, not ZKsync tokenholders, CEO Alex Gluchowski told The Defiant.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
