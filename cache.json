@@ -4,7 +4,18 @@
       "title": "Stories by Arthur Hayes on Medium",
       "feedUrl": "https://medium.com/feed/@cryptohayes",
       "siteUrl": "https://medium.com/@cryptohayes?source=rss-2f6e06954878------2",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://medium.com/p/f5f018d50e8d",
+          "author": "Arthur Hayes",
+          "description": "",
+          "link": "https://cryptohayes.medium.com/the-trifecta-f5f018d50e8d?source=rss-2f6e06954878------2",
+          "publishedOn": "2026-10-26T23:01:02.000Z",
+          "wordCount": null,
+          "title": "The Trifecta",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Stories by Tony on Medium",
@@ -23,6 +34,51 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-wins-final-occ-trust-bank-approval-for-rlusd-reserves-and-custody",
+          "author": "The Defiant Team",
+          "description": "RLUSD will retain its New York-regulated issuer while the national trust bank manages reserves and provides fiduciary digital asset custody.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-wins-final-occ-trust-bank-approval-for-rlusd-reserves-and-custody",
+          "publishedOn": "2026-10-26T23:37:47.000Z",
+          "wordCount": null,
+          "title": "Ripple Wins Final OCC Trust Bank Approval for RLUSD Reserves and Custody",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0df7ec173f90e67af09c0ede74dcfc851bf6119f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0df7ec173f90e67af09c0ede74dcfc851bf6119f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/osmosis-ends-osmo-inflation-shifting-staking-rewards-to-revenue",
+          "author": "The Defiant Team",
+          "description": "The change removes an estimated two percentage points of issuance-funded staking APR and freezes about 51.9 million pre-minted developer tokens.",
+          "link": "https://thedefiant.io/news/defi/osmosis-ends-osmo-inflation-shifting-staking-rewards-to-revenue",
+          "publishedOn": "2026-10-26T21:53:17.000Z",
+          "wordCount": null,
+          "title": "Osmosis Ends OSMO Inflation, Shifting Staking Rewards to Revenue",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/5f1328a109356ca8feeb6eedf1bf059669518cf6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/5f1328a109356ca8feeb6eedf1bf059669518cf6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/akash-opens-vote-to-move-from-cosmos-to-solana",
+          "author": "The Defiant Team",
+          "description": "Prop 346 would authorize a one-way AKT token conversion, while staking rewards would end at a later marketplace cutover requiring another vote.",
+          "link": "https://thedefiant.io/news/blockchains/akash-opens-vote-to-move-from-cosmos-to-solana",
+          "publishedOn": "2026-10-26T21:39:27.000Z",
+          "wordCount": null,
+          "title": "Akash Opens Vote to Move From Cosmos to Solana",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cbb71f208221ba75bd2e7a60e1f8e36e91ac35f5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cbb71f208221ba75bd2e7a60e1f8e36e91ac35f5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
         {
           "id": "https://thedefiant.io/news/defi/bitso-brings-morpho-lending-to-its-app-with-b-vedas",
           "author": "The Defiant Team",
@@ -104,7 +160,7 @@
           "description": "Eligible EEA traders get cash-settled exposure, not shares or an IPO allocation, with a share-count adjustment designed to preserve position value.",
           "link": "https://thedefiant.io/news/markets/okx-offers-10x-anthropic-valuation-bets-after-ipo-filing",
           "publishedOn": "2026-10-26T16:39:38.000Z",
-          "wordCount": 9796,
+          "wordCount": 9829,
           "title": "OKX Offers 10x Anthropic Valuation Bets After IPO Filing",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/573cf2fc422e4e7f952d5cf6c302b8ba33018a51-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1477,51 +1533,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/60a77e140fdd950dfd4aec5e991b5223caec21cc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-crypto-credential-kyc-travel-rule-and-screening-compared",
-          "author": "The Defiant Team",
-          "description": "Identity checks, transfer-party information and blockchain risk alerts serve different purposes. Providers remain responsible for deciding whether a payment can proceed.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-crypto-credential-kyc-travel-rule-and-screening-compared",
-          "publishedOn": "2026-10-22T03:24:18.000Z",
-          "wordCount": null,
-          "title": "Mastercard Crypto Credential, KYC, Travel Rule and Screening Compared",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/61a8ffa7a4868469840f776aa760041260abe3a2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/61a8ffa7a4868469840f776aa760041260abe3a2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/pendle-expands-one-click-looping-to-yield-assets-and-tokenized-stocks",
-          "author": "The Defiant Team",
-          "description": "Stock longs on Base use Aave loans, while PendleLoop fees on non-PT positions are waived through Dec. 31.",
-          "link": "https://thedefiant.io/news/defi/pendle-expands-one-click-looping-to-yield-assets-and-tokenized-stocks",
-          "publishedOn": "2026-10-22T02:12:57.000Z",
-          "wordCount": null,
-          "title": "Pendle Expands One-Click Looping to Yield Assets and Tokenized Stocks",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c1558f283705a58a824a69875c64002106eb586f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c1558f283705a58a824a69875c64002106eb586f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-reports-record-24-3-million-day",
-          "author": "The Defiant Team",
-          "description": "Users opened 123,425 packs, while the reported gross receipts equaled roughly 13% of DefiLlama's trailing 30-day pack-sales total.",
-          "link": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-reports-record-24-3-million-day",
-          "publishedOn": "2026-10-22T01:44:47.000Z",
-          "wordCount": null,
-          "title": "Collector Crypt Reports Record $24.3 Million Day",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6bce9d77d578f753ae8a3746381095ee4df2d211-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6bce9d77d578f753ae8a3746381095ee4df2d211-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
