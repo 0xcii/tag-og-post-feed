@@ -35,6 +35,51 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/stellar-unveils-fee-free-network-processing-7-million-transactions-per-second",
+          "author": "The Defiant Team",
+          "description": "Early benchmarks reached 7.02 million payments per second across eight machines inside a single validator, and the foundation says it has not decided how the network will relate to Stellar",
+          "link": "https://thedefiant.io/news/blockchains/stellar-unveils-fee-free-network-processing-7-million-transactions-per-second",
+          "publishedOn": "2026-10-28T10:58:09.000Z",
+          "wordCount": null,
+          "title": "Stellar Unveils Fee-Free Network Processing 7 Million Transactions per Second",
+          "enclosure": {
+            "url": "https://cdn.thedefiant.io/thruput-cropped2-jpg-b9885d33-0bca-4e5a-9a1d-5e31d0249c08.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.thedefiant.io/thruput-cropped2-jpg-b9885d33-0bca-4e5a-9a1d-5e31d0249c08.jpg"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/zilliqa-ceo-steps-down-as-board-takes-oversight-amid-security-probe",
+          "author": "The Defiant Team",
+          "description": "X-Bridge is closed in both directions, and PlunderSwap has reported losses in four token pools.",
+          "link": "https://thedefiant.io/news/security/zilliqa-ceo-steps-down-as-board-takes-oversight-amid-security-probe",
+          "publishedOn": "2026-10-28T07:37:00.000Z",
+          "wordCount": null,
+          "title": "Zilliqa CEO Steps Down as Board Takes Oversight Amid Security Probe",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1767419ade2fe71c905f7e4dfa525a69902ff7d4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1767419ade2fe71c905f7e4dfa525a69902ff7d4-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/moody-s-assigns-ripple-s-rlusd-a2-and-p-1-deposit-ratings",
+          "author": "The Defiant Team",
+          "description": "The ratings cover native RLUSD on XRP Ledger and Ethereum, with reserve safeguards weighed against holders’ exposure to an issuer bankruptcy.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/moody-s-assigns-ripple-s-rlusd-a2-and-p-1-deposit-ratings",
+          "publishedOn": "2026-10-28T05:14:25.000Z",
+          "wordCount": null,
+          "title": "Moody’s Assigns Ripple’s RLUSD A2 and P-1 Deposit Ratings",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/6377154cef2bf5e5f3fb2ed5fe7bf7e2f8ccbb3e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/6377154cef2bf5e5f3fb2ed5fe7bf7e2f8ccbb3e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident",
           "author": "The Defiant Team",
           "description": "The exchange says customer funds were unaffected and it is notifying impacted users and regulators.",
@@ -235,7 +280,7 @@
           "description": "The federal complaint targets Utah's case against Kalshi and Susquehanna, seeking to bar investigations as well as enforcement against federally regulated markets.",
           "link": "https://thedefiant.io/news/regulation/cftc-sues-utah-to-block-prediction-market-enforcement",
           "publishedOn": "2026-10-27T17:06:19.000Z",
-          "wordCount": 9808,
+          "wordCount": 9814,
           "title": "CFTC Sues Utah to Block Prediction-Market Enforcement",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/35e4060ba81f4ca8481b9570927be646e48b6df9-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -340,7 +385,7 @@
           "description": "At least two investigations were referred to the CFTC, NPR reported, as the platform's House-control market approached $24 million in cumulative trading volume.",
           "link": "https://thedefiant.io/news/regulation/polymarket-investigated-dozens-of-midterm-bets-npr-reports",
           "publishedOn": "2026-10-27T14:25:19.000Z",
-          "wordCount": 9828,
+          "wordCount": 9834,
           "title": "Polymarket Investigated 'Dozens' of Midterm Bets, NPR Reports",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/739daf13688fde7768ae9adf44cf4bea07c231d8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -500,7 +545,7 @@
           "description": "Lending and margin restrictions take effect Oct. 27, while an on-time application allows existing providers to operate during the central bank's review.",
           "link": "https://thedefiant.io/news/regulation/binance-seeks-brazil-crypto-license-as-it-delists-22-tokens",
           "publishedOn": "2026-10-27T08:20:29.000Z",
-          "wordCount": 9888,
+          "wordCount": 9894,
           "title": "Binance Seeks Brazil Crypto License as It Delists 22 Tokens",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/a98604d4ca875275e401fad93b7607e3b25e8528-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -635,7 +680,7 @@
           "description": "Eligible EEA traders get cash-settled exposure, not shares or an IPO allocation, with a share-count adjustment designed to preserve position value.",
           "link": "https://thedefiant.io/news/markets/okx-offers-10x-anthropic-valuation-bets-after-ipo-filing",
           "publishedOn": "2026-10-26T16:39:38.000Z",
-          "wordCount": 9828,
+          "wordCount": 9834,
           "title": "OKX Offers 10x Anthropic Valuation Bets After IPO Filing",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/573cf2fc422e4e7f952d5cf6c302b8ba33018a51-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -725,7 +770,7 @@
           "description": "Trade.xyz's new ANT contract offers up to 10x leverage without equity ownership, while Base's pitch identifies no issuer or token contract.",
           "link": "https://thedefiant.io/news/markets/base-promotes-tokenized-anthropic-shares-as-trade-xyz-opens-pre-ipo-bets",
           "publishedOn": "2026-10-26T14:29:04.000Z",
-          "wordCount": 9849,
+          "wordCount": 9855,
           "title": "Base Promotes 'Tokenized Anthropic Shares' as Trade.xyz Opens Pre-IPO Bets",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/5acdc077a8ad002a34bf43e8fe45f99a395ba54e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -935,7 +980,7 @@
           "description": "A closed-market buy-and-exit example shows how spreads and trade size affect execution. Minting and redemption follow a separate clock.",
           "link": "https://thedefiant.io/news/markets/why-tokenized-stocks-can-trade-away-from-the-share-price",
           "publishedOn": "2026-10-25T13:15:20.000Z",
-          "wordCount": 9801,
+          "wordCount": 9807,
           "title": "Why Tokenized Stocks Can Trade Away From the Share Price",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/dbd08cb8c3b9a80ceb422cc7d7d3f6c68a4c9a7e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1025,7 +1070,7 @@
           "description": "OP and POL also lost more than a quarter over matched four-week windows, while Arbitrum One's active-address count rose.",
           "link": "https://thedefiant.io/news/markets/arb-touches-four-week-low-as-losses-outpace-bitcoin-and-ether",
           "publishedOn": "2026-10-24T16:50:46.000Z",
-          "wordCount": 9838,
+          "wordCount": 9844,
           "title": "ARB Touches Four-Week Low as Losses Outpace Bitcoin and Ether",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/e64b6d710abe438cced54f39f4f2e3853432d4c5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1040,7 +1085,7 @@
           "description": "ETH lagged bitcoin by 9.15 percentage points over matched nearly four-week windows, while US ether ETFs recorded another outflow on Oct. 22.",
           "link": "https://thedefiant.io/news/markets/ether-falls-below-2-300-as-28-day-loss-reaches-14-7",
           "publishedOn": "2026-10-24T15:43:40.000Z",
-          "wordCount": 9845,
+          "wordCount": 9851,
           "title": "Ether Falls Below $2,300 as 28-Day Loss Reaches 14.7%",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/562816583f9337ddec0c3070f3ab4bbdee32c2c1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1145,7 +1190,7 @@
           "description": "Hayes-linked wallets transferred 8,000 ETH and six other tokens, contrasting with his Oct. 15 declaration that he was long Bitcoin and Ether.",
           "link": "https://thedefiant.io/news/markets/arthur-hayes-says-he-sold-maelstrom-s-directional-book",
           "publishedOn": "2026-10-24T06:28:11.000Z",
-          "wordCount": 9836,
+          "wordCount": 9842,
           "title": "Arthur Hayes Says He Sold Maelstrom’s Directional Book",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/bee369d6917bec675eb088f96e947f3720916db5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1175,7 +1220,7 @@
           "description": "The ruling also covers Karina Milei and Hayden Davis. A New York investor class action was separately dismissed in September.",
           "link": "https://thedefiant.io/news/regulation/argentine-judge-dismisses-libra-criminal-case-against-milei-and-10-others",
           "publishedOn": "2026-10-23T21:06:51.000Z",
-          "wordCount": 9867,
+          "wordCount": 9873,
           "title": "Argentine Judge Dismisses LIBRA Criminal Case Against Milei and 10 Others",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/236d0776ae180dd9f50359c77827390fe2f990ff-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1340,7 +1385,7 @@
           "description": "The plan prioritizes trade and finance in the Yangtze River Delta and industrial applications in Chengdu-Chongqing, alongside continuing restrictions on crypto business.",
           "link": "https://thedefiant.io/news/regulation/china-sets-2030-target-for-national-blockchain-network",
           "publishedOn": "2026-10-23T15:02:50.000Z",
-          "wordCount": 9819,
+          "wordCount": 9825,
           "title": "China Sets 2030 Target for National Blockchain Network",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b68530994eff02d8fca251b62694908897a27046-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1483,51 +1528,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7aa36a83bfa016c84e09d5f055d6a81b2b776c8e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/uniswap-swap-costs-what-reduces-your-output-and-what-is-paid-separately",
-          "author": "The Defiant Team",
-          "description": "A historical ETH-to-USDC receipt shows how deductions reconcile. UniswapX handles network costs differently from a classic pool swap.",
-          "link": "https://thedefiant.io/news/defi/uniswap-swap-costs-what-reduces-your-output-and-what-is-paid-separately",
-          "publishedOn": "2026-10-22T23:18:19.000Z",
-          "wordCount": null,
-          "title": "Uniswap Swap Costs: What Reduces Your Output and What Is Paid Separately",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a9c794f1f7a26d6fb2d16c26aa0eb7ab460b6c37-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a9c794f1f7a26d6fb2d16c26aa0eb7ab460b6c37-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-vs-securitize-stock-token-access-compared",
-          "author": "The Defiant Team",
-          "description": "Robinhood’s wallet product advertises 24/7 trading; Securitize advertises 24/5, while its NYSE and OKXICE connections remain planned.",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-vs-securitize-stock-token-access-compared",
-          "publishedOn": "2026-10-22T23:14:19.000Z",
-          "wordCount": null,
-          "title": "Robinhood vs. Securitize: Stock Token Access Compared",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/1d68d3d00eff8d086d9b1dfb63ae92b84f8a2236-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/1d68d3d00eff8d086d9b1dfb63ae92b84f8a2236-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/blumenthal-seeks-records-on-tether-payments-to-bo-hines-s-firm",
-          "author": "The Defiant Team",
-          "description": "The senator asked Tether and Nxum to provide payment records, crypto wallet addresses and lobbying communications by Nov. 3.",
-          "link": "https://thedefiant.io/converge/regulation/blumenthal-seeks-records-on-tether-payments-to-bo-hines-s-firm",
-          "publishedOn": "2026-10-22T22:58:46.000Z",
-          "wordCount": null,
-          "title": "Blumenthal Seeks Records on Tether Payments to Bo Hines's Firm",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/15825b4b45ceb17e7a9a7af0c3ded2d866b656fc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/15825b4b45ceb17e7a9a7af0c3ded2d866b656fc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
