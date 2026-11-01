@@ -35,6 +35,36 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/binance-begins-reopening-withdrawals-with-bitcoin-after-6-3-billion-hack",
+          "author": "The Defiant Team",
+          "description": "The exchange says it has replenished about 95% of the impacted amount, with less-liquid tokens accounting for the remaining 5%.",
+          "link": "https://thedefiant.io/news/hacks/binance-begins-reopening-withdrawals-with-bitcoin-after-6-3-billion-hack",
+          "publishedOn": "2026-11-01T06:25:43.000Z",
+          "wordCount": null,
+          "title": "Binance Begins Reopening Withdrawals With Bitcoin After $6.3 Billion Hack",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/9b3ee045d1d61acba4826cc35b57a6ff913a5511-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/9b3ee045d1d61acba4826cc35b57a6ff913a5511-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/attacker-drains-about-437-000-in-collateral-from-premia-vaults",
+          "author": "The Defiant Team",
+          "description": "The attack moved vault collateral into option pools before withdrawing it as liquidity, according to Blockaid.",
+          "link": "https://thedefiant.io/news/hacks/attacker-drains-about-437-000-in-collateral-from-premia-vaults",
+          "publishedOn": "2026-11-01T04:25:39.000Z",
+          "wordCount": null,
+          "title": "Attacker Drains About $437,000 in Collateral From Premia Vaults",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/34c742305af067cb62d4c18abb8fcf903ae7feb0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/34c742305af067cb62d4c18abb8fcf903ae7feb0-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea",
           "author": "The Defiant Team",
           "description": "The bureau named TraderTraitor and sought blocks on the laundering trail, while Binance kept Nov. 1 as its withdrawal restart target.",
@@ -1488,36 +1518,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/2d981da0981dbc30a552b6096baa6d75ab42125f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/wagyu-confirms-data-leak-exposing-monero-swap-records",
-          "author": "The Defiant Team",
-          "description": "Hudson Rock found 4,580 orders connecting public-chain deposit transactions, Monero destinations and client IP addresses.",
-          "link": "https://thedefiant.io/news/hacks/wagyu-confirms-data-leak-exposing-monero-swap-records",
-          "publishedOn": "2026-10-29T06:47:49.000Z",
-          "wordCount": null,
-          "title": "Wagyu Confirms Data Leak Exposing Monero Swap Records",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/37028700de61710b4b4b842b5b9271db28c3c593-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/37028700de61710b4b4b842b5b9271db28c3c593-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/arbitrum-active-addresses-reach-1-09-million-a-30-day-high",
-          "author": "The Defiant Team",
-          "description": "Transactions climbed far less than addresses on Oct. 28, while user-paid fees stayed close to the preceding week's median.",
-          "link": "https://thedefiant.io/news/blockchains/arbitrum-active-addresses-reach-1-09-million-a-30-day-high",
-          "publishedOn": "2026-10-29T06:42:56.000Z",
-          "wordCount": null,
-          "title": "Arbitrum Active Addresses Reach 1.09 Million, a 30-Day High",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ffdb7215e026d3b409e63475d5ea0c68b5195805-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ffdb7215e026d3b409e63475d5ea0c68b5195805-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
