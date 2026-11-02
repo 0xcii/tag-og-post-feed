@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-01T20:12:56.244Z</id>
+    <id>urn:2026-11-02T00:15:57.090Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-01T20:12:56.244Z</updated>
+    <updated>2026-11-02T00:15:57.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BTCPay Server Urges Shutdown After Reports of Hot-Wallet Sweeps]]></title>
+        <id>https://thedefiant.io/news/hacks/btcpay-server-urges-shutdown-after-reports-of-hot-wallet-sweeps</id>
+        <link href="https://thedefiant.io/news/hacks/btcpay-server-urges-shutdown-after-reports-of-hot-wallet-sweeps"/>
+        <updated>2026-11-01T22:54:59.000Z</updated>
+        <summary type="html"><![CDATA[Operators were told to run ./btcpay-down.sh while the project investigates. The alert did not identify affected versions or announce a patch.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is RLUSD? Ripple’s Stablecoin Backing and Redemption Explained]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/what-is-rlusd-ripple-s-stablecoin-backing-and-redemption-explained</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/what-is-rlusd-ripple-s-stablecoin-backing-and-redemption-explained"/>
+        <updated>2026-11-01T22:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Direct dollar redemption requires an approved customer relationship. Exchange sales and Earn lending deposits follow different rules.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Posts $4.54 Billion Net Outflow as Tracked Rivals Gain $564 Million]]></title>
+        <id>https://thedefiant.io/news/hacks/binance-posts-4-54-billion-net-outflow-as-tracked-rivals-gain-564-million</id>
+        <link href="https://thedefiant.io/news/hacks/binance-posts-4-54-billion-net-outflow-as-tracked-rivals-gain-564-million"/>
+        <updated>2026-11-01T21:28:26.000Z</updated>
+        <summary type="html"><![CDATA[OKX led gains among 10 large tracked rivals, but exchange-wide net flows do not reveal how much Binance customers moved into self-custody.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THORChain Co-Founder Cites Public Data After FBI Binance Blocking Appeal]]></title>
+        <id>https://thedefiant.io/news/defi/thorchain-co-founder-cites-public-data-after-fbi-binance-blocking-appeal</id>
+        <link href="https://thedefiant.io/news/defi/thorchain-co-founder-cites-public-data-after-fbi-binance-blocking-appeal"/>
+        <updated>2026-11-01T20:38:01.000Z</updated>
+        <summary type="html"><![CDATA[The FBI explicitly named THORNode operators in its appeal. The protocol’s controls allow broad trading halts, which also interrupt other users.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pump.fun Cuts Referral Share to 37.5% as 4x Boost Ends]]></title>
         <id>https://thedefiant.io/news/defi/pump-fun-cuts-referral-share-to-37-5-as-4x-boost-ends</id>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/bubblemaps-traces-2-7-million-outflow-from-polymarket-breach"/>
         <updated>2026-10-29T19:40:31.000Z</updated>
         <summary type="html"><![CDATA[Trading is back online and Polymarket has pledged full reimbursement, while a trader cited in the tracing says he moved funds to safety.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celestia Unveils Voyager for AI Payments, Citing 21 Million TPS Benchmark]]></title>
-        <id>https://thedefiant.io/news/infrastructure/celestia-unveils-voyager-for-ai-payments-citing-21-million-tps-benchmark</id>
-        <link href="https://thedefiant.io/news/infrastructure/celestia-unveils-voyager-for-ai-payments-citing-21-million-tps-benchmark"/>
-        <updated>2026-10-29T18:47:56.000Z</updated>
-        <summary type="html"><![CDATA[The pre-production architecture expands Celestia Labs into execution, but its single-node benchmark is not a measure of live network throughput.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Charges BG Wealth and DSJ Exchange in Alleged $130 Million Crypto Fraud]]></title>
-        <id>https://thedefiant.io/news/regulation/sec-charges-bg-wealth-and-dsj-exchange-in-alleged-130-million-crypto-fraud</id>
-        <link href="https://thedefiant.io/news/regulation/sec-charges-bg-wealth-and-dsj-exchange-in-alleged-130-million-crypto-fraud"/>
-        <updated>2026-10-29T18:43:55.000Z</updated>
-        <summary type="html"><![CDATA[The agency says investors lost more than $100 million after the firms promised risk-free trading returns and used false filings to claim SEC approval.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Says Issue Fixed, Pledges to Make Affected Users Whole]]></title>
-        <id>https://thedefiant.io/news/security/polymarket-says-issue-fixed-pledges-to-make-affected-users-whole</id>
-        <link href="https://thedefiant.io/news/security/polymarket-says-issue-fixed-pledges-to-make-affected-users-whole"/>
-        <updated>2026-10-29T18:41:34.000Z</updated>
-        <summary type="html"><![CDATA[The platform blamed a compromised third-party provider but kept trading halted while it worked to restore service.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale's HYPG Offers Nasdaq-Listed HYPE Exposure and Staking]]></title>
-        <id>https://thedefiant.io/converge/markets/grayscale-s-hypg-offers-nasdaq-listed-hype-exposure-and-staking</id>
-        <link href="https://thedefiant.io/converge/markets/grayscale-s-hypg-offers-nasdaq-listed-hype-exposure-and-staking"/>
-        <updated>2026-10-29T18:36:01.000Z</updated>
-        <summary type="html"><![CDATA[The fund began trading June 3, charges a 0.29% annual sponsor fee and held $186.9 million in assets as of Oct. 28.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
