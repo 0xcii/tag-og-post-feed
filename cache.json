@@ -35,6 +35,21 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/hacks/chainalysis-puts-mercado-bitcoin-hack-at-49-million-across-17-chains",
+          "author": "The Defiant Team",
+          "description": "Mercado Bitcoin separately says $11 million has been blocked and promises no customer losses, while access to services remains suspended.",
+          "link": "https://thedefiant.io/news/hacks/chainalysis-puts-mercado-bitcoin-hack-at-49-million-across-17-chains",
+          "publishedOn": "2026-11-03T00:56:08.000Z",
+          "wordCount": null,
+          "title": "Chainalysis Puts Mercado Bitcoin Hack at $49 Million Across 17 Chains",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/198221efa4da939e1495e7a3f25acb768fd228e8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/198221efa4da939e1495e7a3f25acb768fd228e8-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit",
           "author": "The Defiant Team",
           "description": "Full reserves meet a condition for restarting direct federation withdrawals, which were last reported under enhanced operational controls.",
@@ -1508,21 +1523,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/94988681ac34b054b51346ec32c46f835631efa2-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/tydro-restores-new-borrowing-but-keeps-lower-usdc-cap",
-          "author": "The Defiant Team",
-          "description": "The USDC borrow limit fell 31.2% to 51.6 million tokens, leaving about $1.1 million of headroom at the time of reporting.",
-          "link": "https://thedefiant.io/news/defi/tydro-restores-new-borrowing-but-keeps-lower-usdc-cap",
-          "publishedOn": "2026-10-30T14:36:00.000Z",
-          "wordCount": null,
-          "title": "Tydro Restores New Borrowing but Keeps Lower USDC Cap",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/268543070f27cedfbd123288de9c0bcc3e311de6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/268543070f27cedfbd123288de9c0bcc3e311de6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
