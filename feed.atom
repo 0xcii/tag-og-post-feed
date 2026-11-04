@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-04T01:54:17.900Z</id>
+    <id>urn:2026-11-04T08:39:28.361Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-04T01:54:17.900Z</updated>
+    <updated>2026-11-04T08:39:28.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Joins OKXICE Stock-Token Objectors as Total Reaches 59]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/apple-joins-okxice-stock-token-objectors-as-total-reaches-59</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/apple-joins-okxice-stock-token-objectors-as-total-reaches-59"/>
+        <updated>2026-11-04T07:35:36.000Z</updated>
+        <summary type="html"><![CDATA[Objections now cover 53 of the venue’s original 63 proposed stock symbols, leaving ten without a disclosed opt-out.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats Win House, Gaining New Leverage Over Crypto Legislation]]></title>
+        <id>https://thedefiant.io/news/regulation/democrats-win-house-gaining-new-leverage-over-crypto-legislation</id>
+        <link href="https://thedefiant.io/news/regulation/democrats-win-house-gaining-new-leverage-over-crypto-legislation"/>
+        <updated>2026-11-04T07:32:44.000Z</updated>
+        <summary type="html"><![CDATA[The incoming majority will control key House committees and oversight, while the CLARITY Act remains stalled at the Senate floor.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Block Reaches $964 Million DOJ Deal in Principle Over AML Lapses]]></title>
+        <id>https://thedefiant.io/converge/regulation/block-reaches-964-million-doj-deal-in-principle-over-aml-lapses</id>
+        <link href="https://thedefiant.io/converge/regulation/block-reaches-964-million-doj-deal-in-principle-over-aml-lapses"/>
+        <updated>2026-11-04T06:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Credits for prior regulatory resolutions would reduce the payment to about $764 million. Separately, bitcoin ecosystem gross profit fell 50%, primarily because of Cash App fee cuts.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats Win Senate Control as CLARITY Act Remains Stalled]]></title>
+        <id>https://thedefiant.io/news/regulation/democrats-win-senate-control-as-clarity-act-remains-stalled</id>
+        <link href="https://thedefiant.io/news/regulation/democrats-win-senate-control-as-clarity-act-remains-stalled"/>
+        <updated>2026-11-04T05:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Elizabeth Warren is positioned to take over Banking, but the crypto market-structure bill is already awaiting floor action after a failed procedural vote.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitMart Founder Confirms Hack During Restructuring]]></title>
+        <id>https://thedefiant.io/news/hacks/bitmart-founder-confirms-hack-during-restructuring</id>
+        <link href="https://thedefiant.io/news/hacks/bitmart-founder-confirms-hack-during-restructuring"/>
+        <updated>2026-11-04T04:56:34.000Z</updated>
+        <summary type="html"><![CDATA[Bitquery traced about $391,000 in outflows mostly from BitMart-linked wallets to an address used in the Mercado Bitcoin attack.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Breaks Below $90 as Bitcoin Slides Under $76,000]]></title>
+        <id>https://thedefiant.io/news/markets/solana-breaks-below-90-as-bitcoin-slides-under-76-000</id>
+        <link href="https://thedefiant.io/news/markets/solana-breaks-below-90-as-bitcoin-slides-under-76-000"/>
+        <updated>2026-11-04T03:20:50.000Z</updated>
+        <summary type="html"><![CDATA[SOL has lost about 24% in four weeks, more than double bitcoin's decline over the same window.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THORChain Restarts Most Swaps, With 14 Nodes Yet to Upgrade]]></title>
+        <id>https://thedefiant.io/news/defi/thorchain-restarts-most-swaps-with-14-nodes-yet-to-upgrade</id>
+        <link href="https://thedefiant.io/news/defi/thorchain-restarts-most-swaps-with-14-nodes-yet-to-upgrade"/>
+        <updated>2026-11-04T02:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Cosmos Hub, BNB Smart Chain and Solana still have trading and outbound-signing restrictions.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[South Korea’s Ruling Party Formally Seeks Crypto Tax Delay]]></title>
         <id>https://thedefiant.io/news/regulation/south-korea-s-ruling-party-formally-seeks-crypto-tax-delay</id>
@@ -931,76 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/what-zero-ltv-means-for-an-existing-aave-loan"/>
         <updated>2026-11-01T09:02:12.000Z</updated>
         <summary type="html"><![CDATA[A hypothetical $10,000 collateral position loses $1,500 of borrowing headroom without changing its 1.33 health factor.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uphold RLUSD Earn vs. Ethena Pay Earn+: Lending and Leverage Compared]]></title>
-        <id>https://thedefiant.io/news/defi/uphold-rlusd-earn-vs-ethena-pay-earn-lending-and-leverage-compared</id>
-        <link href="https://thedefiant.io/news/defi/uphold-rlusd-earn-vs-ethena-pay-earn-lending-and-leverage-compared"/>
-        <updated>2026-11-01T08:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Uphold lends RLUSD; Ethena Pay Earn+ uses borrowing to increase exposure. Their advertised yields come with different costs, access rules and risks.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDT vs. USDC: What Backs Them and How Dollar Redemptions Work]]></title>
-        <id>https://thedefiant.io/news/tokens/usdt-vs-usdc-what-backs-them-and-how-dollar-redemptions-work</id>
-        <link href="https://thedefiant.io/news/tokens/usdt-vs-usdc-what-backs-them-and-how-dollar-redemptions-work"/>
-        <updated>2026-11-01T08:52:06.000Z</updated>
-        <summary type="html"><![CDATA[Tether publishes a $100,000 minimum for direct redemption. Circle Mint serves institutions, while a separate European policy provides a retail route subject to checks.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Begins Reopening Withdrawals With Bitcoin After $6.3 Billion Hack]]></title>
-        <id>https://thedefiant.io/news/hacks/binance-begins-reopening-withdrawals-with-bitcoin-after-6-3-billion-hack</id>
-        <link href="https://thedefiant.io/news/hacks/binance-begins-reopening-withdrawals-with-bitcoin-after-6-3-billion-hack"/>
-        <updated>2026-11-01T06:25:43.000Z</updated>
-        <summary type="html"><![CDATA[The exchange says it has replenished about 95% of the impacted amount, with less-liquid tokens accounting for the remaining 5%.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attacker Drains About $437,000 in Collateral From Premia Vaults]]></title>
-        <id>https://thedefiant.io/news/hacks/attacker-drains-about-437-000-in-collateral-from-premia-vaults</id>
-        <link href="https://thedefiant.io/news/hacks/attacker-drains-about-437-000-in-collateral-from-premia-vaults"/>
-        <updated>2026-11-01T04:25:39.000Z</updated>
-        <summary type="html"><![CDATA[The attack moved vault collateral into option pools before withdrawing it as liquidity, according to Blockaid.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI Attributes $6 Billion-Plus Binance Hack to North Korea]]></title>
-        <id>https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea</id>
-        <link href="https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea"/>
-        <updated>2026-10-31T21:46:33.000Z</updated>
-        <summary type="html"><![CDATA[The bureau named TraderTraitor and sought blocks on the laundering trail, while Binance kept Nov. 1 as its withdrawal restart target.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jupiter Lend USDC Withdrawal Liquidity Rebounds to 27.9 Million]]></title>
-        <id>https://thedefiant.io/news/defi/jupiter-lend-usdc-withdrawal-liquidity-rebounds-to-27-9-million</id>
-        <link href="https://thedefiant.io/news/defi/jupiter-lend-usdc-withdrawal-liquidity-rebounds-to-27-9-million"/>
-        <updated>2026-10-31T19:26:05.000Z</updated>
-        <summary type="html"><![CDATA[An Oct. 31 API snapshot showed 6.3% of the vault's 441 million USDC in deposit claims immediately withdrawable.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morpho Borrow Rates Hit Roughly 40% as PT Market Liquidity Dries Up]]></title>
-        <id>https://thedefiant.io/news/defi/morpho-borrow-rates-hit-roughly-40-as-pt-market-liquidity-dries-up</id>
-        <link href="https://thedefiant.io/news/defi/morpho-borrow-rates-hit-roughly-40-as-pt-market-liquidity-dries-up"/>
-        <updated>2026-10-31T18:26:10.000Z</updated>
-        <summary type="html"><![CDATA[Available liquidity in one reUSD-backed market vanished in two hours; rates across four tracked markets eased to roughly 9%–13% by Oct. 31.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
