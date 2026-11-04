@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-03T21:29:58.904Z</id>
+    <id>urn:2026-11-04T01:54:17.900Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-03T21:29:58.904Z</updated>
+    <updated>2026-11-04T01:54:17.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[South Korea’s Ruling Party Formally Seeks Crypto Tax Delay]]></title>
+        <id>https://thedefiant.io/news/regulation/south-korea-s-ruling-party-formally-seeks-crypto-tax-delay</id>
+        <link href="https://thedefiant.io/news/regulation/south-korea-s-ruling-party-formally-seeks-crypto-tax-delay"/>
+        <updated>2026-11-04T01:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Kim Min-seok wants a digital-asset framework enacted before taxation. A two-year postponement is under discussion, but the legal start date remains Jan. 1, 2027.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Staff Grants Canton Coin No-Action Relief for Token Minting]]></title>
         <id>https://thedefiant.io/news/regulation/sec-staff-grants-canton-coin-no-action-relief-for-token-minting</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/morpho-borrow-rates-hit-roughly-40-as-pt-market-liquidity-dries-up"/>
         <updated>2026-10-31T18:26:10.000Z</updated>
         <summary type="html"><![CDATA[Available liquidity in one reUSD-backed market vanished in two hours; rates across four tracked markets eased to roughly 9%–13% by Oct. 31.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threshold Says tBTC Is Fully Backed as Bridge Pause Continues]]></title>
-        <id>https://thedefiant.io/news/security/threshold-says-tbtc-is-fully-backed-as-bridge-pause-continues</id>
-        <link href="https://thedefiant.io/news/security/threshold-says-tbtc-is-fully-backed-as-bridge-pause-continues"/>
-        <updated>2026-10-31T18:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Aave’s Ethereum Core tBTC reserve remains frozen, while Gauntlet says roughly 640,000 USDC remains supplied to a tBTC-backed Morpho market.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
