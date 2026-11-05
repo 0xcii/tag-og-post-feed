@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-04T22:25:34.398Z</id>
+    <id>urn:2026-11-05T03:11:11.645Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-04T22:25:34.398Z</updated>
+    <updated>2026-11-05T03:11:11.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[D is for Dilution]]></title>
+        <id>https://medium.com/p/dc9ffc3ac6d1</id>
+        <link href="https://cryptohayes.medium.com/d-is-for-dilution-dc9ffc3ac6d1?source=rss-2f6e06954878------2"/>
+        <updated>2026-11-05T02:36:01.000Z</updated>
+        <author>
+            <name>Arthur Hayes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pendle Volume Hits $221.5 Million, a 30-Day High]]></title>
+        <id>https://thedefiant.io/news/defi/pendle-volume-hits-221-5-million-a-30-day-high</id>
+        <link href="https://thedefiant.io/news/defi/pendle-volume-hits-221-5-million-a-30-day-high"/>
+        <updated>2026-11-05T00:27:36.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum accounted for nearly all the trading, while reported locked value stayed near $1.03 billion through the day's latest snapshot.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack]]></title>
+        <id>https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack</id>
+        <link href="https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack"/>
+        <updated>2026-11-04T23:36:50.000Z</updated>
+        <summary type="html"><![CDATA[The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TSV Begins Tokenized CNTN Trades Under SEC Innovation Exemption]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/tsv-begins-tokenized-cntn-trades-under-sec-innovation-exemption</id>
@@ -981,26 +1010,6 @@
         <link href="https://thedefiant.io/news/defi/what-is-hyperliquid-a-guide-to-hypercore-hyperevm-and-builder-markets"/>
         <updated>2026-11-02T09:25:31.000Z</updated>
         <summary type="html"><![CDATA[HyperCore handles trading, HyperEVM runs applications, and independent market deployers set product rules. Their collateral and withdrawal dependencies differ.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Chainlink CCIP? Tokens, Messages and Cross-Chain Completion]]></title>
-        <id>https://thedefiant.io/news/infrastructure/what-is-chainlink-ccip-tokens-messages-and-cross-chain-completion</id>
-        <link href="https://thedefiant.io/news/infrastructure/what-is-chainlink-ccip-tokens-messages-and-cross-chain-completion"/>
-        <updated>2026-11-02T09:20:38.000Z</updated>
-        <summary type="html"><![CDATA[A successful send is only the beginning: destination delivery depends on verification, finality settings and execution. Price data is a separate Chainlink service.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve Explained: Stablecoin Pools, LP Exposure and Lending]]></title>
-        <id>https://thedefiant.io/news/defi/curve-explained-stablecoin-pools-lp-exposure-and-lending</id>
-        <link href="https://thedefiant.io/news/defi/curve-explained-stablecoin-pools-lp-exposure-and-lending"/>
-        <updated>2026-11-02T09:02:13.000Z</updated>
-        <summary type="html"><![CDATA[An LP token represents a share of a changing asset mix. Trading fees, token incentives and lending interest come from different sources.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
