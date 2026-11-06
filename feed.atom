@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-05T19:31:32.979Z</id>
+    <id>urn:2026-11-06T00:45:24.868Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-05T19:31:32.979Z</updated>
+    <updated>2026-11-06T00:45:24.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Loopscale Partly Restores Loan Functions, Keeps Vault Withdrawals Frozen]]></title>
+        <id>https://thedefiant.io/news/hacks/loopscale-partly-restores-loan-functions-keeps-vault-withdrawals-frozen</id>
+        <link href="https://thedefiant.io/news/hacks/loopscale-partly-restores-loan-functions-keeps-vault-withdrawals-frozen"/>
+        <updated>2026-11-06T00:42:07.000Z</updated>
+        <summary type="html"><![CDATA[Repayments and collateral withdrawals remain disabled for USDC Genesis-funded loans as the Solana lender details two attack paths.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Strategies Posts $620.6 Million Profit on HYPE Paper Gains]]></title>
+        <id>https://thedefiant.io/news/tokens/hyperliquid-strategies-posts-620-6-million-profit-on-hype-paper-gains</id>
+        <link href="https://thedefiant.io/news/tokens/hyperliquid-strategies-posts-620-6-million-profit-on-hype-paper-gains"/>
+        <updated>2026-11-05T21:56:51.000Z</updated>
+        <summary type="html"><![CDATA[HYPE was trading about 14% below the price used to value the company's quarter-end token holdings.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft]]></title>
+        <id>https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft</id>
+        <link href="https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft"/>
+        <updated>2026-11-05T21:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Prosecutors say Patrick Steven Yaroch used credentials tied to 35 FBI investigations, compromising cases and intelligence sources and methods.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extended Sets Final XTEN Airdrop Rate as Xpoints Program Ends]]></title>
+        <id>https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends</id>
+        <link href="https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends"/>
+        <updated>2026-11-05T20:23:31.000Z</updated>
+        <summary type="html"><![CDATA[The exchange also awarded Xpoints to 97 Discord Tester-role holders for early testing, feedback and platform use.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greek Parliament Approves 10% Tax on Crypto Gains]]></title>
+        <id>https://thedefiant.io/news/regulation/greek-parliament-approves-10-tax-on-crypto-gains</id>
+        <link href="https://thedefiant.io/news/regulation/greek-parliament-approves-10-tax-on-crypto-gains"/>
+        <updated>2026-11-05T20:14:26.000Z</updated>
+        <summary type="html"><![CDATA[The framework exempts annual net gains of up to €500 and is scheduled to apply from January 2027.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California Tribes Win Order Barring Kalshi Sports Contracts on Their Lands]]></title>
+        <id>https://thedefiant.io/news/regulation/california-tribes-win-order-barring-kalshi-sports-contracts-on-their-lands</id>
+        <link href="https://thedefiant.io/news/regulation/california-tribes-win-order-barring-kalshi-sports-contracts-on-their-lands"/>
+        <updated>2026-11-05T20:07:05.000Z</updated>
+        <summary type="html"><![CDATA[Kalshi must report compliance steps within 21 days, after the tribes disputed the effectiveness of its voluntary location blocks.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Labs’ Leap Opens iPhone Beta for Tokenized Stocks and Crypto]]></title>
+        <id>https://thedefiant.io/news/defi/solana-labs-leap-opens-iphone-beta-for-tokenized-stocks-and-crypto</id>
+        <link href="https://thedefiant.io/news/defi/solana-labs-leap-opens-iphone-beta-for-tokenized-stocks-and-crypto"/>
+        <updated>2026-11-05T19:50:19.000Z</updated>
+        <summary type="html"><![CDATA[Trades route through Jupiter, while tokenized securities are unavailable to US persons and users in several other major markets.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anza Urges Solana Validators to Upgrade Agave Before Epoch 1079]]></title>
         <id>https://thedefiant.io/news/blockchains/anza-urges-solana-validators-to-upgrade-agave-before-epoch-1079</id>
@@ -940,76 +1010,6 @@
         <link href="https://thedefiant.io/news/hacks/chainalysis-puts-mercado-bitcoin-hack-at-49-million-across-17-chains"/>
         <updated>2026-11-03T00:56:08.000Z</updated>
         <summary type="html"><![CDATA[Mercado Bitcoin separately says $11 million has been blocked and promises no customer losses, while access to services remains suspended.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid Restores Full Bitcoin Backing After Elements Exploit]]></title>
-        <id>https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit</id>
-        <link href="https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit"/>
-        <updated>2026-11-03T00:12:59.000Z</updated>
-        <summary type="html"><![CDATA[Full reserves meet a condition for restarting direct federation withdrawals, which were last reported under enhanced operational controls.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korea Rejects FBI Blame for $6.3 Billion Binance Hack]]></title>
-        <id>https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack</id>
-        <link href="https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack"/>
-        <updated>2026-11-02T21:25:45.000Z</updated>
-        <summary type="html"><![CDATA[Kim Yo Jong called the US accusation “absurd rhetoric,” while Chainalysis cited stolen funds mixing with proceeds of an earlier exploit.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid Reserve Gap Falls to 250 BTC After 300 BTC Top-Up]]></title>
-        <id>https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-250-btc-after-300-btc-top-up</id>
-        <link href="https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-250-btc-after-300-btc-top-up"/>
-        <updated>2026-11-02T21:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Estimated L-BTC backing rises to 94.14%, but the federation’s recovery plan requires full reserves before direct peg-outs resume.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB Chain Brings Payment Lane to Testnet in Jenner Upgrade]]></title>
-        <id>https://thedefiant.io/news/blockchains/bnb-chain-brings-payment-lane-to-testnet-in-jenner-upgrade</id>
-        <link href="https://thedefiant.io/news/blockchains/bnb-chain-brings-payment-lane-to-testnet-in-jenner-upgrade"/>
-        <updated>2026-11-02T20:07:33.000Z</updated>
-        <summary type="html"><![CDATA[The upgrade introduces a default 5% gas reservation for eligible payments, while token listings and CAS20 activation require separate governance steps.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akash Stakers Approve Move From Cosmos to Solana]]></title>
-        <id>https://thedefiant.io/news/blockchains/akash-stakers-approve-move-from-cosmos-to-solana</id>
-        <link href="https://thedefiant.io/news/blockchains/akash-stakers-approve-move-from-cosmos-to-solana"/>
-        <updated>2026-11-02T20:04:42.000Z</updated>
-        <summary type="html"><![CDATA[AKT can launch on Solana after two audits, but moving the compute marketplace and ending staking rewards still require a separate cutover vote.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEAR Governance Approves Plan to Lower Issuance Cap to 1.6%]]></title>
-        <id>https://thedefiant.io/news/tokens/near-governance-approves-plan-to-lower-issuance-cap-to-1-6</id>
-        <link href="https://thedefiant.io/news/tokens/near-governance-approves-plan-to-lower-issuance-cap-to-1-6"/>
-        <updated>2026-11-02T19:37:34.000Z</updated>
-        <summary type="html"><![CDATA[The 24-month reduction would lower staking rewards, but Security Council ratification and a validator-adopted protocol upgrade still stand between the vote and activation.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mercado Bitcoin Breach Wallet Sends 2,800 ETH Onward]]></title>
-        <id>https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward</id>
-        <link href="https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward"/>
-        <updated>2026-11-02T19:35:40.000Z</updated>
-        <summary type="html"><![CDATA[Other transfers moved 2.24 million USDC and 1.7 million TRX, while deposits and withdrawals remained suspended.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
