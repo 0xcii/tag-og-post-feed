@@ -45,12 +45,147 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-launches-ipo-roadshow-at-70-78-a-share",
+          "author": "The Defiant Team",
+          "description": "The proposed 825 million-share offering moves ANT toward Nasdaq, while Ondo and Dinari's tokenized-stock launches still await public trading.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-launches-ipo-roadshow-at-70-78-a-share",
+          "publishedOn": "2026-11-10T11:43:18.000Z",
+          "wordCount": 9943,
+          "title": "Anthropic Launches IPO Roadshow at $70–$78 a Share",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/c30d01f61663225d3dea102853e4aae8eef064a3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/c30d01f61663225d3dea102853e4aae8eef064a3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/waller-backs-december-hike-as-bitcoin-slips-toward-74k",
+          "author": "The Defiant Team",
+          "description": "He said a half-point increase should be considered if monthly core CPI stays around 0.3% or higher. Kalshi traders increased their December hike bets.",
+          "link": "https://thedefiant.io/news/markets/waller-backs-december-hike-as-bitcoin-slips-toward-74k",
+          "publishedOn": "2026-11-10T11:10:04.000Z",
+          "wordCount": 9907,
+          "title": "Waller Backs December Hike as Bitcoin Slips Toward $74K",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fc795c341c1917410569a581ab494c1462a7b649-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fc795c341c1917410569a581ab494c1462a7b649-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/defi/walletconnect-pitches-single-integration-crypto-checkout",
+          "author": "The Defiant Team",
+          "description": "Binance Pay is listed as live for direct exchange-account payments, with other exchange integrations still marked coming soon.",
+          "link": "https://thedefiant.io/converge/defi/walletconnect-pitches-single-integration-crypto-checkout",
+          "publishedOn": "2026-11-10T11:10:01.000Z",
+          "wordCount": 9879,
+          "title": "WalletConnect Pitches Single-Integration Crypto Checkout",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/020d9398b7c9218085dc85c9d6726ab61594efc7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/020d9398b7c9218085dc85c9d6726ab61594efc7-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/ethlabs-urges-glamsterdam-hold-pending-audit-findings",
+          "author": "The Defiant Team",
+          "description": "Four reports flag deployed contracts that could break, while possible specification changes are being prototyped, the Ethereum Foundation says.",
+          "link": "https://thedefiant.io/news/security/ethlabs-urges-glamsterdam-hold-pending-audit-findings",
+          "publishedOn": "2026-11-10T09:22:31.000Z",
+          "wordCount": 9848,
+          "title": "Ethlabs Urges Glamsterdam Hold Pending Audit Findings",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ecd04af62b2622cd77a8cc34f235c042cc2f3222-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ecd04af62b2622cd77a8cc34f235c042cc2f3222-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/maple-s-syrup-nearly-halves-as-lending-assets-shrink",
+          "author": "The Defiant Team",
+          "description": "Maple’s TVL stands at $2.22 billion, while syrupUSDC assets under management have fallen to $2.36 billion from $2.68 billion reported Oct. 19.",
+          "link": "https://thedefiant.io/news/tokens/maple-s-syrup-nearly-halves-as-lending-assets-shrink",
+          "publishedOn": "2026-11-10T09:12:26.000Z",
+          "wordCount": 9865,
+          "title": "Maple’s SYRUP Nearly Halves as Lending Assets Shrink",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a83cb68907266049257e974ad34e943803bf7718-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a83cb68907266049257e974ad34e943803bf7718-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/converge/regulation/coinbase-five-firms-back-cftc-in-stock-perps-lawsuit",
+          "author": "The Defiant Team",
+          "description": "The proposed amicus brief supports joint SEC-CFTC oversight as a November 10 reply deadline approaches in the bid to halt single-stock perpetuals.",
+          "link": "https://thedefiant.io/converge/regulation/coinbase-five-firms-back-cftc-in-stock-perps-lawsuit",
+          "publishedOn": "2026-11-10T08:28:31.000Z",
+          "wordCount": 9960,
+          "title": "Coinbase, Five Firms Back CFTC in Stock Perps Lawsuit",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4afc1c7d14755a0696c5b7b041cae9ce2bbda4a1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4afc1c7d14755a0696c5b7b041cae9ce2bbda4a1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/tradfi-and-fintech/trump-media-reports-15-649-btc-ahead-of-debt-put",
+          "author": "The Defiant Team",
+          "description": "Noteholders can demand up to about $1 billion in cash on November 30, while much of the company's disclosed bitcoin was committed to an options strategy.",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/trump-media-reports-15-649-btc-ahead-of-debt-put",
+          "publishedOn": "2026-11-10T08:12:11.000Z",
+          "wordCount": 9947,
+          "title": "Trump Media Reports 15,649 BTC Ahead of Debt Put",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/ca51c68c7cc68a665748eddd151a9adfe201573e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/ca51c68c7cc68a665748eddd151a9adfe201573e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/security/slowmist-flags-ios-sandbox-escape-risk-to-wallet-data",
+          "author": "The Defiant Team",
+          "description": "The worse_query repository lists iOS 26.0–26.7.2 and 27.2 as targets; the wallet warning centers on secrets stored locally in plaintext.",
+          "link": "https://thedefiant.io/news/security/slowmist-flags-ios-sandbox-escape-risk-to-wallet-data",
+          "publishedOn": "2026-11-10T06:52:59.000Z",
+          "wordCount": 9887,
+          "title": "SlowMist Flags iOS Sandbox Escape Risk to Wallet Data",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/f576c471757d711316ddbea22d59d758190af516-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/f576c471757d711316ddbea22d59d758190af516-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/cefi/upbit-to-list-hype-with-direct-korean-won-trading",
+          "author": "The Defiant Team",
+          "description": "HYPE gained 1.4% in a 35-minute window around the announcement, outpacing bitcoin, as Upbit prepared to open three trading pairs.",
+          "link": "https://thedefiant.io/news/cefi/upbit-to-list-hype-with-direct-korean-won-trading",
+          "publishedOn": "2026-11-10T05:28:45.000Z",
+          "wordCount": 9881,
+          "title": "Upbit to List HYPE With Direct Korean Won Trading",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b0a301610a18f6addd3c7426f748487e57e827fa-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b0a301610a18f6addd3c7426f748487e57e827fa-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending",
           "author": "The Defiant Team",
           "description": "The acquisition, its first since going public, is expected to close in the fourth quarter of 2026.",
           "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending",
           "publishedOn": "2026-11-09T21:30:34.000Z",
-          "wordCount": 9916,
+          "wordCount": 9913,
           "title": "Securitize Agrees to Buy River One to Add Asset-Backed Lending",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/8c6b69f39c0e39569cd22cd02220aece270d1cea-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -155,7 +290,7 @@
           "description": "Public trading would activate Ondo and Dinari tokenization plans, while existing derivatives would not become IPO allocations.",
           "link": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-to-launch-nasdaq-ipo-tuesday-ifr-reports",
           "publishedOn": "2026-11-09T20:24:47.000Z",
-          "wordCount": 9895,
+          "wordCount": 9908,
           "title": "Anthropic to Launch Nasdaq IPO Tuesday, IFR Reports",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/b44c90c06a8f8cbf0deaa1ca3be39f83fce1a247-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -425,7 +560,7 @@
           "description": "Pump.fun and Fomo say Elysium trading is live, while native HyperCore data reads and fast order submissions await a later upgrade.",
           "link": "https://thedefiant.io/news/defi/kinetiq-launches-elysium-mainnet-for-hyperliquid",
           "publishedOn": "2026-11-09T14:48:55.000Z",
-          "wordCount": 9844,
+          "wordCount": 9820,
           "title": "Kinetiq Launches Elysium Mainnet for Hyperliquid",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/0cf9f6296346d2e96715d8efc089457f477ae151-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -470,7 +605,7 @@
           "description": "The planned venue would retain NYSE’s Pillar matching engine while offering instant settlement and stablecoin funding, subject to regulatory approval.",
           "link": "https://thedefiant.io/converge/tradfi-and-fintech/nyse-picks-avalanche-for-tokenized-stock-settlement",
           "publishedOn": "2026-11-09T14:25:28.000Z",
-          "wordCount": 9897,
+          "wordCount": 9894,
           "title": "NYSE Picks Avalanche for Tokenized Stock Settlement",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6cd2901e3b6987aae0b26b410d2bdf84051da3cd-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -500,7 +635,7 @@
           "description": "The company’s planned $4.2 billion Equiniti acquisition would combine shareholder registries with its tokenized-securities trading business.",
           "link": "https://thedefiant.io/converge/people/bullish-names-former-nyse-president-stacey-cunningham-as-president",
           "publishedOn": "2026-11-09T13:59:57.000Z",
-          "wordCount": 9925,
+          "wordCount": 9922,
           "title": "Bullish Names Former NYSE President Stacey Cunningham as President",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/eecd97b28a9eee1ab492fed78487d1eb514782d6-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -545,7 +680,7 @@
           "description": "The venue targets early 2027 trading in Exodus, Forward Industries and Galaxy shares, with access restricted to verified investors.",
           "link": "https://thedefiant.io/converge/regulation/formation-notifies-sec-of-plan-for-solana-tokenized-stock-venue",
           "publishedOn": "2026-11-09T12:38:16.000Z",
-          "wordCount": 9928,
+          "wordCount": 9925,
           "title": "Formation Notifies SEC of Plan for Solana Tokenized Stock Venue",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/66e1e813a482d87ef1481ebdf8389f9f2181d304-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -695,7 +830,7 @@
           "description": "The two tracked accounts show lifetime losses of about $44.8 million after the trader previously reduced exposure from 93,184 ETH.",
           "link": "https://thedefiant.io/news/markets/hyperliquid-whale-s-56-667-eth-long-fully-liquidated",
           "publishedOn": "2026-11-09T02:05:14.000Z",
-          "wordCount": 9826,
+          "wordCount": 9850,
           "title": "Hyperliquid Whale’s 56,667-ETH Long Fully Liquidated",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/4301a709cedbe53edce36ff992e9e6294e4739dc-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -800,7 +935,7 @@
           "description": "The order requires $45 million in minimum capital and preopening checks. A bank charter does not replace GENIUS Act issuer approval.",
           "link": "https://thedefiant.io/converge/regulation/bridge-s-occ-approval-opens-path-to-federal-stablecoin-trust-bank",
           "publishedOn": "2026-11-08T16:33:28.000Z",
-          "wordCount": 9945,
+          "wordCount": 9942,
           "title": "Bridge’s OCC Approval Opens Path to Federal Stablecoin Trust Bank",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/6baa77de3524381f49da2c26aa3015d69b67b86e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1010,7 +1145,7 @@
           "description": "The designations freeze covered assets and generally bar US dealings with the firms. OFAC also listed six Tron addresses.",
           "link": "https://thedefiant.io/converge/regulation/us-sanctions-eight-canadian-money-firms-over-alleged-iran-crypto-links",
           "publishedOn": "2026-11-07T11:27:05.000Z",
-          "wordCount": 9957,
+          "wordCount": 9954,
           "title": "US Sanctions Eight Canadian Money Firms Over Alleged Iran Crypto Links",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/fa054ecc504d0e53de1ecc8aada44c90099acec5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1040,7 +1175,7 @@
           "description": "The pledge follows Ondo's non-US launch plan, while Dinari's US tokens remain non-transferable and barred from DeFi.",
           "link": "https://thedefiant.io/converge/tradfi-and-fintech/dinari-promises-anthropic-dshares-on-ipo-day-including-for-us-investors",
           "publishedOn": "2026-11-07T00:00:13.000Z",
-          "wordCount": 9969,
+          "wordCount": 9966,
           "title": "Dinari Promises Anthropic dShares on IPO Day, Including for US Investors",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/489ee1efa8b58789eae4a9a3fc48d7972b8279cf-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1220,7 +1355,7 @@
           "description": "Labor’s public proposal would give plan fiduciaries a process-based safe harbor for investment decisions involving crypto and other assets.",
           "link": "https://thedefiant.io/converge/regulation/crypto-401-k-rule-enters-final-white-house-review",
           "publishedOn": "2026-11-06T14:39:57.000Z",
-          "wordCount": 9946,
+          "wordCount": 9943,
           "title": "Crypto 401(k) Rule Enters Final White House Review",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/568432f79613b57c2345652fc671c5279d84075d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1280,7 +1415,7 @@
           "description": "SATA and SATS imply about $287.4 million in annual dividends at November rates and Oct. 30 share counts, a cost excluded from its Bitcoin Yield metric.",
           "link": "https://thedefiant.io/converge/tradfi-and-fintech/bitcoin-gains-drive-strive-s-474-8-million-q3-profit",
           "publishedOn": "2026-11-06T14:03:00.000Z",
-          "wordCount": 9963,
+          "wordCount": 9960,
           "title": "Bitcoin Gains Drive Strive's $474.8 Million Q3 Profit",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/9fd2ae6f51e971863d8ae8240d9f68215e621fec-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1295,7 +1430,7 @@
           "description": "The figure is net of $2.37 billion in borrowing. Safe's published third-quarter report gives the $57.64 billion total but not the DeFi split.",
           "link": "https://thedefiant.io/news/defi/safe-says-12-4-billion-of-smart-account-assets-sits-in-defi",
           "publishedOn": "2026-11-06T13:50:01.000Z",
-          "wordCount": 9917,
+          "wordCount": 9907,
           "title": "Safe Says $12.4 Billion of Smart-Account Assets Sits in DeFi",
           "enclosure": {
             "url": "https://cdn.thedefiant.io/safe-defi-cropped-jpg-c6aae540-f564-4a8a-9626-ef4b43bf8f44.jpg",
@@ -1310,7 +1445,7 @@
           "description": "Non-qualified investors face testing and a 300,000-ruble annual purchase cap per intermediary, while Moscow Exchange targets a Dec. 1 rollout.",
           "link": "https://thedefiant.io/converge/regulation/bank-of-russia-clears-bitcoin-ether-and-usdt-rules-for-nov-17",
           "publishedOn": "2026-11-06T12:51:42.000Z",
-          "wordCount": 9980,
+          "wordCount": 9977,
           "title": "Bank of Russia Clears Bitcoin, Ether and USDT Rules for Nov. 17",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/c59d914d9b5eda9eb94596896539cb645c198d62-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1340,7 +1475,7 @@
           "description": "Most findings involve fixed gas budgets and reserves. The Hoodi testnet upgrade remains paused, with no confirmed mainnet activation date.",
           "link": "https://thedefiant.io/news/security/ethereum-foundation-calls-for-contract-checks-after-glamsterdam-security-findings",
           "publishedOn": "2026-11-06T10:27:22.000Z",
-          "wordCount": 9883,
+          "wordCount": 9895,
           "title": "Ethereum Foundation Calls for Contract Checks After Glamsterdam Security Findings",
           "enclosure": {
             "url": "https://cdn.sanity.io/images/6oftkxoa/production/59ad0746b9a350dfbfca03422aac71199b81ce27-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
@@ -1408,141 +1543,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/e96e0168fb6552a0ebcc5fcceabaaa03f8fb2a4e-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/hyperliquid-strategies-posts-620-6-million-profit-on-hype-paper-gains",
-          "author": "The Defiant Team",
-          "description": "HYPE was trading about 14% below the price used to value the company's quarter-end token holdings.",
-          "link": "https://thedefiant.io/news/tokens/hyperliquid-strategies-posts-620-6-million-profit-on-hype-paper-gains",
-          "publishedOn": "2026-11-05T21:56:51.000Z",
-          "wordCount": 9881,
-          "title": "Hyperliquid Strategies Posts $620.6 Million Profit on HYPE Paper Gains",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/cb632838e1aebbdbd8d05e9f50868df4233bda24-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/cb632838e1aebbdbd8d05e9f50868df4233bda24-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft",
-          "author": "The Defiant Team",
-          "description": "Prosecutors say Patrick Steven Yaroch used credentials tied to 35 FBI investigations, compromising cases and intelligence sources and methods.",
-          "link": "https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft",
-          "publishedOn": "2026-11-05T21:53:55.000Z",
-          "wordCount": 9883,
-          "title": "Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/0db1a2201a37689f96020377a6960a6dbb8df88d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/0db1a2201a37689f96020377a6960a6dbb8df88d-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends",
-          "author": "The Defiant Team",
-          "description": "The exchange also awarded Xpoints to 97 Discord Tester-role holders for early testing, feedback and platform use.",
-          "link": "https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends",
-          "publishedOn": "2026-11-05T20:23:31.000Z",
-          "wordCount": 9852,
-          "title": "Extended Sets Final XTEN Airdrop Rate as Xpoints Program Ends",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/8fb0126513614f9ef99a82b0a26136ddd86fd575-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/8fb0126513614f9ef99a82b0a26136ddd86fd575-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/greek-parliament-approves-10-tax-on-crypto-gains",
-          "author": "The Defiant Team",
-          "description": "The framework exempts annual net gains of up to €500 and is scheduled to apply from January 2027.",
-          "link": "https://thedefiant.io/news/regulation/greek-parliament-approves-10-tax-on-crypto-gains",
-          "publishedOn": "2026-11-05T20:14:26.000Z",
-          "wordCount": 9894,
-          "title": "Greek Parliament Approves 10% Tax on Crypto Gains",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/05b519d23808c68dc8aa17456b20bdffd03e0008-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/05b519d23808c68dc8aa17456b20bdffd03e0008-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/california-tribes-win-order-barring-kalshi-sports-contracts-on-their-lands",
-          "author": "The Defiant Team",
-          "description": "Kalshi must report compliance steps within 21 days, after the tribes disputed the effectiveness of its voluntary location blocks.",
-          "link": "https://thedefiant.io/news/regulation/california-tribes-win-order-barring-kalshi-sports-contracts-on-their-lands",
-          "publishedOn": "2026-11-05T20:07:05.000Z",
-          "wordCount": 9914,
-          "title": "California Tribes Win Order Barring Kalshi Sports Contracts on Their Lands",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a96e3fb6f6e05e349cf865a1efc80d306c49dfe5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a96e3fb6f6e05e349cf865a1efc80d306c49dfe5-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/solana-labs-leap-opens-iphone-beta-for-tokenized-stocks-and-crypto",
-          "author": "The Defiant Team",
-          "description": "Trades route through Jupiter, while tokenized securities are unavailable to US persons and users in several other major markets.",
-          "link": "https://thedefiant.io/news/defi/solana-labs-leap-opens-iphone-beta-for-tokenized-stocks-and-crypto",
-          "publishedOn": "2026-11-05T19:50:19.000Z",
-          "wordCount": 9889,
-          "title": "Solana Labs’ Leap Opens iPhone Beta for Tokenized Stocks and Crypto",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3bb7e9b4556a33108c57bb776d0eb14a69d9ae5a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3bb7e9b4556a33108c57bb776d0eb14a69d9ae5a-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/anza-urges-solana-validators-to-upgrade-agave-before-epoch-1079",
-          "author": "The Defiant Team",
-          "description": "Agave 4.4.1 changes how loader-v3 program data counts toward transaction limits, ahead of a planned Nov. 6 cutoff for unpatched nodes.",
-          "link": "https://thedefiant.io/news/blockchains/anza-urges-solana-validators-to-upgrade-agave-before-epoch-1079",
-          "publishedOn": "2026-11-05T19:26:48.000Z",
-          "wordCount": 9920,
-          "title": "Anza Urges Solana Validators to Upgrade Agave Before Epoch 1079",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/4b9cea8106a8adde70d9bff0a1aabff7995632b3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/4b9cea8106a8adde70d9bff0a1aabff7995632b3-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/blockchains/eez-launches-rollup-x-with-swaps-filled-by-mainnet-liquidity",
-          "author": "The Defiant Team",
-          "description": "The Ethereum Economic Zone ran three demonstrations at Devcon in Mumbai. Rollup X is a devnet whose batches are attested by a designated signer rather than proven.",
-          "link": "https://thedefiant.io/news/blockchains/eez-launches-rollup-x-with-swaps-filled-by-mainnet-liquidity",
-          "publishedOn": "2026-11-05T19:15:00.000Z",
-          "wordCount": 9938,
-          "title": "EEZ Launches Rollup X With Swaps Filled by Mainnet Liquidity",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/16e3f2b72cd4e6956d3459f9df61fc6fa0860c41-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/16e3f2b72cd4e6956d3459f9df61fc6fa0860c41-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/sec-crypto-broker-rule-enters-white-house-review",
-          "author": "The Defiant Team",
-          "description": "The planned amendments cover capital requirements, customer-asset safeguards and recordkeeping for broker-dealers handling crypto assets.",
-          "link": "https://thedefiant.io/converge/regulation/sec-crypto-broker-rule-enters-white-house-review",
-          "publishedOn": "2026-11-05T18:55:08.000Z",
-          "wordCount": 9869,
-          "title": "SEC Crypto Broker Rule Enters White House Review",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b994a42c5efe7eafbf5a6d2b269713456fcbc7b1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b994a42c5efe7eafbf5a6d2b269713456fcbc7b1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }

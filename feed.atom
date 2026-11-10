@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-10T03:10:40.379Z</id>
+    <id>urn:2026-11-10T12:07:47.092Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-10T03:10:40.379Z</updated>
+    <updated>2026-11-10T12:07:47.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Launches IPO Roadshow at $70–$78 a Share]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/anthropic-launches-ipo-roadshow-at-70-78-a-share</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/anthropic-launches-ipo-roadshow-at-70-78-a-share"/>
+        <updated>2026-11-10T11:43:18.000Z</updated>
+        <summary type="html"><![CDATA[The proposed 825 million-share offering moves ANT toward Nasdaq, while Ondo and Dinari's tokenized-stock launches still await public trading.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waller Backs December Hike as Bitcoin Slips Toward $74K]]></title>
+        <id>https://thedefiant.io/news/markets/waller-backs-december-hike-as-bitcoin-slips-toward-74k</id>
+        <link href="https://thedefiant.io/news/markets/waller-backs-december-hike-as-bitcoin-slips-toward-74k"/>
+        <updated>2026-11-10T11:10:04.000Z</updated>
+        <summary type="html"><![CDATA[He said a half-point increase should be considered if monthly core CPI stays around 0.3% or higher. Kalshi traders increased their December hike bets.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WalletConnect Pitches Single-Integration Crypto Checkout]]></title>
+        <id>https://thedefiant.io/converge/defi/walletconnect-pitches-single-integration-crypto-checkout</id>
+        <link href="https://thedefiant.io/converge/defi/walletconnect-pitches-single-integration-crypto-checkout"/>
+        <updated>2026-11-10T11:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Binance Pay is listed as live for direct exchange-account payments, with other exchange integrations still marked coming soon.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethlabs Urges Glamsterdam Hold Pending Audit Findings]]></title>
+        <id>https://thedefiant.io/news/security/ethlabs-urges-glamsterdam-hold-pending-audit-findings</id>
+        <link href="https://thedefiant.io/news/security/ethlabs-urges-glamsterdam-hold-pending-audit-findings"/>
+        <updated>2026-11-10T09:22:31.000Z</updated>
+        <summary type="html"><![CDATA[Four reports flag deployed contracts that could break, while possible specification changes are being prototyped, the Ethereum Foundation says.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maple’s SYRUP Nearly Halves as Lending Assets Shrink]]></title>
+        <id>https://thedefiant.io/news/tokens/maple-s-syrup-nearly-halves-as-lending-assets-shrink</id>
+        <link href="https://thedefiant.io/news/tokens/maple-s-syrup-nearly-halves-as-lending-assets-shrink"/>
+        <updated>2026-11-10T09:12:26.000Z</updated>
+        <summary type="html"><![CDATA[Maple’s TVL stands at $2.22 billion, while syrupUSDC assets under management have fallen to $2.36 billion from $2.68 billion reported Oct. 19.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase, Five Firms Back CFTC in Stock Perps Lawsuit]]></title>
+        <id>https://thedefiant.io/converge/regulation/coinbase-five-firms-back-cftc-in-stock-perps-lawsuit</id>
+        <link href="https://thedefiant.io/converge/regulation/coinbase-five-firms-back-cftc-in-stock-perps-lawsuit"/>
+        <updated>2026-11-10T08:28:31.000Z</updated>
+        <summary type="html"><![CDATA[The proposed amicus brief supports joint SEC-CFTC oversight as a November 10 reply deadline approaches in the bid to halt single-stock perpetuals.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Media Reports 15,649 BTC Ahead of Debt Put]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/trump-media-reports-15-649-btc-ahead-of-debt-put</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/trump-media-reports-15-649-btc-ahead-of-debt-put"/>
+        <updated>2026-11-10T08:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Noteholders can demand up to about $1 billion in cash on November 30, while much of the company's disclosed bitcoin was committed to an options strategy.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SlowMist Flags iOS Sandbox Escape Risk to Wallet Data]]></title>
+        <id>https://thedefiant.io/news/security/slowmist-flags-ios-sandbox-escape-risk-to-wallet-data</id>
+        <link href="https://thedefiant.io/news/security/slowmist-flags-ios-sandbox-escape-risk-to-wallet-data"/>
+        <updated>2026-11-10T06:52:59.000Z</updated>
+        <summary type="html"><![CDATA[The worse_query repository lists iOS 26.0–26.7.2 and 27.2 as targets; the wallet warning centers on secrets stored locally in plaintext.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upbit to List HYPE With Direct Korean Won Trading]]></title>
+        <id>https://thedefiant.io/news/cefi/upbit-to-list-hype-with-direct-korean-won-trading</id>
+        <link href="https://thedefiant.io/news/cefi/upbit-to-list-hype-with-direct-korean-won-trading"/>
+        <updated>2026-11-10T05:28:45.000Z</updated>
+        <summary type="html"><![CDATA[HYPE gained 1.4% in a 35-minute window around the announcement, outpacing bitcoin, as Upbit prepared to open three trading pairs.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securitize Agrees to Buy River One to Add Asset-Backed Lending]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending</id>
@@ -911,96 +1001,6 @@
         <link href="https://thedefiant.io/news/hacks/loopscale-partly-restores-loan-functions-keeps-vault-withdrawals-frozen"/>
         <updated>2026-11-06T00:42:07.000Z</updated>
         <summary type="html"><![CDATA[Repayments and collateral withdrawals remain disabled for USDC Genesis-funded loans as the Solana lender details two attack paths.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid Strategies Posts $620.6 Million Profit on HYPE Paper Gains]]></title>
-        <id>https://thedefiant.io/news/tokens/hyperliquid-strategies-posts-620-6-million-profit-on-hype-paper-gains</id>
-        <link href="https://thedefiant.io/news/tokens/hyperliquid-strategies-posts-620-6-million-profit-on-hype-paper-gains"/>
-        <updated>2026-11-05T21:56:51.000Z</updated>
-        <summary type="html"><![CDATA[HYPE was trading about 14% below the price used to value the company's quarter-end token holdings.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft]]></title>
-        <id>https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft</id>
-        <link href="https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft"/>
-        <updated>2026-11-05T21:53:55.000Z</updated>
-        <summary type="html"><![CDATA[Prosecutors say Patrick Steven Yaroch used credentials tied to 35 FBI investigations, compromising cases and intelligence sources and methods.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extended Sets Final XTEN Airdrop Rate as Xpoints Program Ends]]></title>
-        <id>https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends</id>
-        <link href="https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends"/>
-        <updated>2026-11-05T20:23:31.000Z</updated>
-        <summary type="html"><![CDATA[The exchange also awarded Xpoints to 97 Discord Tester-role holders for early testing, feedback and platform use.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greek Parliament Approves 10% Tax on Crypto Gains]]></title>
-        <id>https://thedefiant.io/news/regulation/greek-parliament-approves-10-tax-on-crypto-gains</id>
-        <link href="https://thedefiant.io/news/regulation/greek-parliament-approves-10-tax-on-crypto-gains"/>
-        <updated>2026-11-05T20:14:26.000Z</updated>
-        <summary type="html"><![CDATA[The framework exempts annual net gains of up to €500 and is scheduled to apply from January 2027.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California Tribes Win Order Barring Kalshi Sports Contracts on Their Lands]]></title>
-        <id>https://thedefiant.io/news/regulation/california-tribes-win-order-barring-kalshi-sports-contracts-on-their-lands</id>
-        <link href="https://thedefiant.io/news/regulation/california-tribes-win-order-barring-kalshi-sports-contracts-on-their-lands"/>
-        <updated>2026-11-05T20:07:05.000Z</updated>
-        <summary type="html"><![CDATA[Kalshi must report compliance steps within 21 days, after the tribes disputed the effectiveness of its voluntary location blocks.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Labs’ Leap Opens iPhone Beta for Tokenized Stocks and Crypto]]></title>
-        <id>https://thedefiant.io/news/defi/solana-labs-leap-opens-iphone-beta-for-tokenized-stocks-and-crypto</id>
-        <link href="https://thedefiant.io/news/defi/solana-labs-leap-opens-iphone-beta-for-tokenized-stocks-and-crypto"/>
-        <updated>2026-11-05T19:50:19.000Z</updated>
-        <summary type="html"><![CDATA[Trades route through Jupiter, while tokenized securities are unavailable to US persons and users in several other major markets.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anza Urges Solana Validators to Upgrade Agave Before Epoch 1079]]></title>
-        <id>https://thedefiant.io/news/blockchains/anza-urges-solana-validators-to-upgrade-agave-before-epoch-1079</id>
-        <link href="https://thedefiant.io/news/blockchains/anza-urges-solana-validators-to-upgrade-agave-before-epoch-1079"/>
-        <updated>2026-11-05T19:26:48.000Z</updated>
-        <summary type="html"><![CDATA[Agave 4.4.1 changes how loader-v3 program data counts toward transaction limits, ahead of a planned Nov. 6 cutoff for unpatched nodes.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EEZ Launches Rollup X With Swaps Filled by Mainnet Liquidity]]></title>
-        <id>https://thedefiant.io/news/blockchains/eez-launches-rollup-x-with-swaps-filled-by-mainnet-liquidity</id>
-        <link href="https://thedefiant.io/news/blockchains/eez-launches-rollup-x-with-swaps-filled-by-mainnet-liquidity"/>
-        <updated>2026-11-05T19:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Economic Zone ran three demonstrations at Devcon in Mumbai. Rollup X is a devnet whose batches are attested by a designated signer rather than proven.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Crypto Broker Rule Enters White House Review]]></title>
-        <id>https://thedefiant.io/converge/regulation/sec-crypto-broker-rule-enters-white-house-review</id>
-        <link href="https://thedefiant.io/converge/regulation/sec-crypto-broker-rule-enters-white-house-review"/>
-        <updated>2026-11-05T18:55:08.000Z</updated>
-        <summary type="html"><![CDATA[The planned amendments cover capital requirements, customer-asset safeguards and recordkeeping for broker-dealers handling crypto assets.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
