@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-11T01:00:30.528Z</id>
+    <id>urn:2026-11-11T08:52:43.086Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-11T01:00:30.528Z</updated>
+    <updated>2026-11-11T08:52:43.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Evernorth Slides 24% After 73.7 Million-Share Filing]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/evernorth-slides-24-after-73-7-million-share-filing</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/evernorth-slides-24-after-73-7-million-share-filing"/>
+        <updated>2026-11-11T08:44:16.000Z</updated>
+        <summary type="html"><![CDATA[The XRP treasury company's prospectus covers potential resales by existing investors, but it does not lift key holders' six-month lock-ups.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LlamaRisk Proposes $1.33B Collateral Exit From Aave Core]]></title>
         <id>https://thedefiant.io/news/defi/llamarisk-proposes-1-33b-collateral-exit-from-aave-core</id>
@@ -991,16 +1001,6 @@
         <link href="https://thedefiant.io/news/security/lnbits-urges-all-server-operators-to-shut-down-after-attacks"/>
         <updated>2026-11-08T19:47:05.000Z</updated>
         <summary type="html"><![CDATA[The project also disabled its hosted instances, while contributor Ben Arc said patches should be available within 24 to 48 hours.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Read Token Allowances in Revoke.cash and Etherscan]]></title>
-        <id>https://thedefiant.io/news/security/how-to-read-token-allowances-in-revoke-cash-and-etherscan</id>
-        <link href="https://thedefiant.io/news/security/how-to-read-token-allowances-in-revoke-cash-and-etherscan"/>
-        <updated>2026-11-08T18:11:27.000Z</updated>
-        <summary type="html"><![CDATA[Viewing a wallet address requires no signature. Revoking an allowance changes a specific token-spending permission—not every permission attached to the account.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>
