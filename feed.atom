@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-12T14:41:02.563Z</id>
+    <id>urn:2026-11-12T21:44:01.848Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-12T14:41:02.563Z</updated>
+    <updated>2026-11-12T21:44:01.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Foster Says Nvidia Privately Deemed Chip Tracking Feasible]]></title>
+        <id>https://thedefiant.io/frontier/ai/foster-says-nvidia-privately-deemed-chip-tracking-feasible</id>
+        <link href="https://thedefiant.io/frontier/ai/foster-says-nvidia-privately-deemed-chip-tracking-feasible"/>
+        <updated>2026-11-12T20:38:31.000Z</updated>
+        <summary type="html"><![CDATA[The lawmaker's account contrasts with a semiconductor trade group's warning about mandatory safeguards on advanced AI chips.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Says Hack Assets Covered, Reserve Proof Pending]]></title>
+        <id>https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending</id>
+        <link href="https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending"/>
+        <updated>2026-11-12T18:41:56.000Z</updated>
+        <summary type="html"><![CDATA[The exchange says it has closed the remaining gap in customer backing, but users must wait for the new snapshot's cryptographic proof to verify it.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky Advisor Proposes Halting New Core Vault Borrowing]]></title>
+        <id>https://thedefiant.io/news/defi/sky-advisor-proposes-halting-new-core-vault-borrowing</id>
+        <link href="https://thedefiant.io/news/defi/sky-advisor-proposes-halting-new-core-vault-borrowing"/>
+        <updated>2026-11-12T18:30:26.000Z</updated>
+        <summary type="html"><![CDATA[BA Labs reports 771 open vaults and 376.33 million USDS in debt. Borrowers could still repay and manage collateral, but not mint more.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYDFS Sets May 2027 Deadline for Crypto Ad Policies]]></title>
+        <id>https://thedefiant.io/news/regulation/nydfs-sets-may-2027-deadline-for-crypto-ad-policies</id>
+        <link href="https://thedefiant.io/news/regulation/nydfs-sets-may-2027-deadline-for-crypto-ad-policies"/>
+        <updated>2026-11-12T18:09:17.000Z</updated>
+        <summary type="html"><![CDATA[BitLicense holders and crypto trust companies must prepare annually approved marketing policies covering risk disclosures, paid promoters and misleading claims.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Breaks Below $72,000 as Multiweek Slide Deepens]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-breaks-below-72-000-as-multiweek-slide-deepens</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-breaks-below-72-000-as-multiweek-slide-deepens"/>
+        <updated>2026-11-12T14:53:36.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase recorded a $71,500 low, while Coinalyze's tracked derivatives markets showed $368 million in 24-hour liquidations, mostly bullish bets.]]></summary>
+        <author>
+            <name>The Defiant Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Securitize, Ethena Open BUIDL Facility With $100M Capacity]]></title>
         <id>https://thedefiant.io/converge/defi/securitize-ethena-open-buidl-facility-with-100m-capacity</id>
@@ -951,56 +1001,6 @@
         <link href="https://thedefiant.io/frontier/security/fireworks-says-breach-exposed-billing-data-datasets-and-incomplete-model-weights"/>
         <updated>2026-11-09T20:36:15.000Z</updated>
         <summary type="html"><![CDATA[The company disabled self-service dataset transfers for batch inference and dataset-based training, while reporting no detected impact to its Inference service or Training SDK.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic to Launch Nasdaq IPO Tuesday, IFR Reports]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/anthropic-to-launch-nasdaq-ipo-tuesday-ifr-reports</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/anthropic-to-launch-nasdaq-ipo-tuesday-ifr-reports"/>
-        <updated>2026-11-09T20:24:47.000Z</updated>
-        <summary type="html"><![CDATA[Public trading would activate Ondo and Dinari tokenization plans, while existing derivatives would not become IPO allocations.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attackers Exploit Alpine SSH Password-Bypass Flaw]]></title>
-        <id>https://thedefiant.io/news/security/attackers-exploit-alpine-ssh-password-bypass-flaw</id>
-        <link href="https://thedefiant.io/news/security/attackers-exploit-alpine-ssh-password-bypass-flaw"/>
-        <updated>2026-11-09T19:52:50.000Z</updated>
-        <summary type="html"><![CDATA[GreyNoise reports successful exploitation, while Previdian logged 20 attempts. Alpine operators need to patch and restart SSH, or disable password authentication.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Liberty Says WLFI Buybacks Have Begun on Aster]]></title>
-        <id>https://thedefiant.io/news/defi/world-liberty-says-wlfi-buybacks-have-begun-on-aster</id>
-        <link href="https://thedefiant.io/news/defi/world-liberty-says-wlfi-buybacks-have-begun-on-aster"/>
-        <updated>2026-11-09T19:28:35.000Z</updated>
-        <summary type="html"><![CDATA[The disclosed wallet deposited 10 million USD1 into Aster, while the company left the buyback budget and purchase schedule discretionary.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shield AI Says Hivemind Flew Multiple Air Force Drones as a Team]]></title>
-        <id>https://thedefiant.io/frontier/ai/shield-ai-says-hivemind-flew-multiple-air-force-drones-as-a-team</id>
-        <link href="https://thedefiant.io/frontier/ai/shield-ai-says-hivemind-flew-multiple-air-force-drones-as-a-team"/>
-        <updated>2026-11-09T19:17:49.000Z</updated>
-        <summary type="html"><![CDATA[An earlier test let an F-22 pilot direct a single Fury, while the broader CCA program remains in operational experimentation.]]></summary>
-        <author>
-            <name>The Defiant Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Launches Fable 5.2 and Mythos 5.2 at Lower Token Prices]]></title>
-        <id>https://thedefiant.io/frontier/ai/anthropic-launches-fable-5-2-and-mythos-5-2-at-lower-token-prices</id>
-        <link href="https://thedefiant.io/frontier/ai/anthropic-launches-fable-5-2-and-mythos-5-2-at-lower-token-prices"/>
-        <updated>2026-11-09T19:05:57.000Z</updated>
-        <summary type="html"><![CDATA[The models share an underlying system but use different safeguards, with Mythos access restricted to verified organizations.]]></summary>
         <author>
             <name>The Defiant Team</name>
         </author>

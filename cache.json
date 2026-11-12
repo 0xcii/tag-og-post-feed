@@ -45,6 +45,81 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/frontier/ai/foster-says-nvidia-privately-deemed-chip-tracking-feasible",
+          "author": "The Defiant Team",
+          "description": "The lawmaker's account contrasts with a semiconductor trade group's warning about mandatory safeguards on advanced AI chips.",
+          "link": "https://thedefiant.io/frontier/ai/foster-says-nvidia-privately-deemed-chip-tracking-feasible",
+          "publishedOn": "2026-11-12T20:38:31.000Z",
+          "wordCount": null,
+          "title": "Foster Says Nvidia Privately Deemed Chip Tracking Feasible",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/99c5d50d58cc3a4dc33a522b3aa7805d4e86869f-2816x1584.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/99c5d50d58cc3a4dc33a522b3aa7805d4e86869f-2816x1584.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending",
+          "author": "The Defiant Team",
+          "description": "The exchange says it has closed the remaining gap in customer backing, but users must wait for the new snapshot's cryptographic proof to verify it.",
+          "link": "https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending",
+          "publishedOn": "2026-11-12T18:41:56.000Z",
+          "wordCount": null,
+          "title": "Binance Says Hack Assets Covered, Reserve Proof Pending",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/fe453c44a141c7506910aa0818e6897ecebcd05f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/fe453c44a141c7506910aa0818e6897ecebcd05f-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sky-advisor-proposes-halting-new-core-vault-borrowing",
+          "author": "The Defiant Team",
+          "description": "BA Labs reports 771 open vaults and 376.33 million USDS in debt. Borrowers could still repay and manage collateral, but not mint more.",
+          "link": "https://thedefiant.io/news/defi/sky-advisor-proposes-halting-new-core-vault-borrowing",
+          "publishedOn": "2026-11-12T18:30:26.000Z",
+          "wordCount": null,
+          "title": "Sky Advisor Proposes Halting New Core Vault Borrowing",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b5ac4ab0457ba8a1a6aaccaa50a567bf3fb4927c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b5ac4ab0457ba8a1a6aaccaa50a567bf3fb4927c-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/nydfs-sets-may-2027-deadline-for-crypto-ad-policies",
+          "author": "The Defiant Team",
+          "description": "BitLicense holders and crypto trust companies must prepare annually approved marketing policies covering risk disclosures, paid promoters and misleading claims.",
+          "link": "https://thedefiant.io/news/regulation/nydfs-sets-may-2027-deadline-for-crypto-ad-policies",
+          "publishedOn": "2026-11-12T18:09:17.000Z",
+          "wordCount": null,
+          "title": "NYDFS Sets May 2027 Deadline for Crypto Ad Policies",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/46bb11579eb5dae7de2ff6492405153e9f732fa1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/46bb11579eb5dae7de2ff6492405153e9f732fa1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/bitcoin-breaks-below-72-000-as-multiweek-slide-deepens",
+          "author": "The Defiant Team",
+          "description": "Coinbase recorded a $71,500 low, while Coinalyze's tracked derivatives markets showed $368 million in 24-hour liquidations, mostly bullish bets.",
+          "link": "https://thedefiant.io/news/markets/bitcoin-breaks-below-72-000-as-multiweek-slide-deepens",
+          "publishedOn": "2026-11-12T14:53:36.000Z",
+          "wordCount": 9903,
+          "title": "Bitcoin Breaks Below $72,000 as Multiweek Slide Deepens",
+          "enclosure": {
+            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a599a9cd99cb6bd9a2fe68c09f177dd3028ed178-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a599a9cd99cb6bd9a2fe68c09f177dd3028ed178-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
+        },
+        {
           "id": "https://thedefiant.io/converge/defi/securitize-ethena-open-buidl-facility-with-100m-capacity",
           "author": "The Defiant Team",
           "description": "The facility starts with $25 million each in USDC and BUIDL. Additional funding is conditional, rather than a continuously available $100 million cash pool.",
@@ -1468,81 +1543,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/daef0fb1698ac9c308b7799e71a5af48281659f2-2816x1584.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-to-launch-nasdaq-ipo-tuesday-ifr-reports",
-          "author": "The Defiant Team",
-          "description": "Public trading would activate Ondo and Dinari tokenization plans, while existing derivatives would not become IPO allocations.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-to-launch-nasdaq-ipo-tuesday-ifr-reports",
-          "publishedOn": "2026-11-09T20:24:47.000Z",
-          "wordCount": null,
-          "title": "Anthropic to Launch Nasdaq IPO Tuesday, IFR Reports",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/b44c90c06a8f8cbf0deaa1ca3be39f83fce1a247-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/b44c90c06a8f8cbf0deaa1ca3be39f83fce1a247-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/security/attackers-exploit-alpine-ssh-password-bypass-flaw",
-          "author": "The Defiant Team",
-          "description": "GreyNoise reports successful exploitation, while Previdian logged 20 attempts. Alpine operators need to patch and restart SSH, or disable password authentication.",
-          "link": "https://thedefiant.io/news/security/attackers-exploit-alpine-ssh-password-bypass-flaw",
-          "publishedOn": "2026-11-09T19:52:50.000Z",
-          "wordCount": null,
-          "title": "Attackers Exploit Alpine SSH Password-Bypass Flaw",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/28a961bda4a0c1c3a398c935a265b7dcc911dbb1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/28a961bda4a0c1c3a398c935a265b7dcc911dbb1-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/world-liberty-says-wlfi-buybacks-have-begun-on-aster",
-          "author": "The Defiant Team",
-          "description": "The disclosed wallet deposited 10 million USD1 into Aster, while the company left the buyback budget and purchase schedule discretionary.",
-          "link": "https://thedefiant.io/news/defi/world-liberty-says-wlfi-buybacks-have-begun-on-aster",
-          "publishedOn": "2026-11-09T19:28:35.000Z",
-          "wordCount": null,
-          "title": "World Liberty Says WLFI Buybacks Have Begun on Aster",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/7fe8620b36e446d6e68f71381061c7c9216b5a77-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/7fe8620b36e446d6e68f71381061c7c9216b5a77-2048x1152.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/shield-ai-says-hivemind-flew-multiple-air-force-drones-as-a-team",
-          "author": "The Defiant Team",
-          "description": "An earlier test let an F-22 pilot direct a single Fury, while the broader CCA program remains in operational experimentation.",
-          "link": "https://thedefiant.io/frontier/ai/shield-ai-says-hivemind-flew-multiple-air-force-drones-as-a-team",
-          "publishedOn": "2026-11-09T19:17:49.000Z",
-          "wordCount": null,
-          "title": "Shield AI Says Hivemind Flew Multiple Air Force Drones as a Team",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/a7d3053b90185cb71356b81c4a878e67a27c428a-2816x1584.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/a7d3053b90185cb71356b81c4a878e67a27c428a-2816x1584.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/anthropic-launches-fable-5-2-and-mythos-5-2-at-lower-token-prices",
-          "author": "The Defiant Team",
-          "description": "The models share an underlying system but use different safeguards, with Mythos access restricted to verified organizations.",
-          "link": "https://thedefiant.io/frontier/ai/anthropic-launches-fable-5-2-and-mythos-5-2-at-lower-token-prices",
-          "publishedOn": "2026-11-09T19:05:57.000Z",
-          "wordCount": null,
-          "title": "Anthropic Launches Fable 5.2 and Mythos 5.2 at Lower Token Prices",
-          "enclosure": {
-            "url": "https://cdn.sanity.io/images/6oftkxoa/production/3bec8d2dadac1a9e33cd1dad956b93d47172cf23-2816x1584.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.sanity.io/images/6oftkxoa/production/3bec8d2dadac1a9e33cd1dad956b93d47172cf23-2816x1584.png?w=800&fit=max&fm=jpg&q=70&bg=ffffff"
         }
       ]
     }
