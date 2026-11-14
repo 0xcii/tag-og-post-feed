@@ -1,10 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-14T00:09:55.454Z</id>
+    <id>urn:2026-11-14T07:21:57.456Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-14T00:09:55.454Z</updated>
+    <updated>2026-11-14T07:21:57.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[stUSDT Winds Down, Sets May 2027 Redemption Deadline]]></title>
+        <id>https://thedefiant.io/news/defi/stusdt-winds-down-sets-may-2027-redemption-deadline</id>
+        <link href="https://thedefiant.io/news/defi/stusdt-winds-down-sets-may-2027-redemption-deadline"/>
+        <updated>2026-11-14T07:18:32.000Z</updated>
+        <summary type="html"><![CDATA[Rebase rewards end Nov. 14. Holders must unstake and then claim USDT, with late redemption requests moving to monthly support batches.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US PPI Hits 6.5% as Bitcoin and Ether Edge Higher]]></title>
+        <id>https://thedefiant.io/news/markets/us-ppi-hits-6-5-as-bitcoin-and-ether-edge-higher</id>
+        <link href="https://thedefiant.io/news/markets/us-ppi-hits-6-5-as-bitcoin-and-ether-edge-higher"/>
+        <updated>2026-11-14T07:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Both headline inflation readings undershot forecasts, but interest-rate markets still favored a December Fed hike.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scott Seeks Huang, Lutnick Testimony on Nvidia Exports]]></title>
+        <id>https://thedefiant.io/frontier/ai/scott-seeks-huang-lutnick-testimony-on-nvidia-exports</id>
+        <link href="https://thedefiant.io/frontier/ai/scott-seeks-huang-lutnick-testimony-on-nvidia-exports"/>
+        <updated>2026-11-14T07:10:03.000Z</updated>
+        <summary type="html"><![CDATA[Huang is asked to appear Dec. 3 and Lutnick Dec. 10. A Commerce spokesperson says the secretary has agreed to testify voluntarily.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Blames 365 Outage on Network Upgrade Issue]]></title>
+        <id>https://thedefiant.io/frontier/infrastructure/microsoft-blames-365-outage-on-network-upgrade-issue</id>
+        <link href="https://thedefiant.io/frontier/infrastructure/microsoft-blames-365-outage-on-network-upgrade-issue"/>
+        <updated>2026-11-14T07:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft apologized and said the incident was unrelated to cyber activity or AI agents. Its status account now says service is restored to remaining affected customers and regions.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blacklisted Chinese University Bought H200s: Reuters]]></title>
+        <id>https://thedefiant.io/frontier/ai/blacklisted-chinese-university-bought-h200s-reuters</id>
+        <link href="https://thedefiant.io/frontier/ai/blacklisted-chinese-university-bought-h200s-reuters"/>
+        <updated>2026-11-14T07:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Northwestern Polytechnical reportedly bought two Nvidia accelerators through a Chinese supplier, despite restrictions that survived January's easing of H200 export licensing.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MANTRA Announces Seven-Day Pause on New Unstaking]]></title>
+        <id>https://thedefiant.io/news/hacks/mantra-announces-seven-day-pause-on-new-unstaking</id>
+        <link href="https://thedefiant.io/news/hacks/mantra-announces-seven-day-pause-on-new-unstaking"/>
+        <updated>2026-11-14T07:01:57.000Z</updated>
+        <summary type="html"><![CDATA[The pause blocks new withdrawal requests but does not stop the eight-day countdown for tokens already being unstaked.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sacks Says Alice Huang Spy Narrative Is 'Collapsing']]></title>
+        <id>https://thedefiant.io/frontier/ai/sacks-says-alice-huang-spy-narrative-is-collapsing</id>
+        <link href="https://thedefiant.io/frontier/ai/sacks-says-alice-huang-spy-narrative-is-collapsing"/>
+        <updated>2026-11-14T07:01:49.000Z</updated>
+        <summary type="html"><![CDATA[CNN reported that US officials remain divided over the evidence. Sacks called for a leak investigation after Jensen Huang's departure from Nvidia.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dYdX Proposes USDC Backing Shift From Noble to Injective]]></title>
+        <id>https://thedefiant.io/news/defi/dydx-proposes-usdc-backing-shift-from-noble-to-injective</id>
+        <link href="https://thedefiant.io/news/defi/dydx-proposes-usdc-backing-shift-from-noble-to-injective"/>
+        <updated>2026-11-14T06:52:06.000Z</updated>
+        <summary type="html"><![CDATA[The v9.9 plan would reroute deposits and withdrawals while leaving existing USDC balances, collateral and open positions unchanged.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maple Reports $1.89 Billion in Syrup Loan Collateral]]></title>
+        <id>https://thedefiant.io/news/defi/maple-reports-1-89-billion-in-syrup-loan-collateral</id>
+        <link href="https://thedefiant.io/news/defi/maple-reports-1-89-billion-in-syrup-loan-collateral"/>
+        <updated>2026-11-14T06:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Maple disclosed the check after a CEO update on executive departures and withdrawals. The provider says its service is not an audit or assurance engagement.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Patches Critical Bug Found by Anthropic Scanner]]></title>
+        <id>https://thedefiant.io/frontier/technology/apache-patches-critical-bug-found-by-anthropic-scanner</id>
+        <link href="https://thedefiant.io/frontier/technology/apache-patches-critical-bug-found-by-anthropic-scanner"/>
+        <updated>2026-11-14T06:47:41.000Z</updated>
+        <summary type="html"><![CDATA[The flaw can let unauthenticated attackers run code on HTTP/2-enabled servers. Apache credits Anthropic's OSS Scanner and two Google Cloud researchers.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Mining Difficulty Falls 9.1%, Most Since June]]></title>
+        <id>https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-falls-9-1-most-since-june</id>
+        <link href="https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-falls-9-1-most-since-june"/>
+        <updated>2026-11-14T06:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Slower blocks triggered the year's third-largest difficulty cut, lifting expected revenue per unit of computing power as Bitcoin's price slide squeezed miners.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ether Falls Below $1,900 as Losses Outpace Bitcoin]]></title>
+        <id>https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin</id>
+        <link href="https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin"/>
+        <updated>2026-11-14T03:44:29.000Z</updated>
+        <summary type="html"><![CDATA[US spot ether ETFs recorded a sixth session of net withdrawals, while the next day's flow tally remained incomplete.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Drops Below $67,000 as Crypto Selloff Deepens]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens"/>
+        <updated>2026-11-14T02:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Ether's four-week loss reached 21.4%, while 42 of 44 tokens in a curated crypto watchlist were lower over 24 hours.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether]]></title>
+        <id>https://thedefiant.io/news/markets/aave-slides-30-in-four-weeks-trailing-bitcoin-and-ether</id>
+        <link href="https://thedefiant.io/news/markets/aave-slides-30-in-four-weeks-trailing-bitcoin-and-ether"/>
+        <updated>2026-11-14T02:39:42.000Z</updated>
+        <summary type="html"><![CDATA[The governance token's losses exceeded those of bitcoin and ether, while Aave's dollar-denominated locked value fell by a smaller proportion.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GHO's 61% Supply Drop Reflects an Accounting Change]]></title>
+        <id>https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change</id>
+        <link href="https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change"/>
+        <updated>2026-11-14T00:26:16.000Z</updated>
+        <summary type="html"><![CDATA[DefiLlama now excludes idle, pre-minted GHO from circulation. The Ethereum token contract still reports 699 million tokens issued.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia Approached Arm CEO Haas in Search, FT Reports]]></title>
         <id>https://thedefiant.io/frontier/ai/nvidia-approached-arm-ceo-haas-in-search-ft-reports</id>
@@ -851,156 +1001,6 @@
         <link href="https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"/>
         <updated>2026-11-10T16:16:33.000Z</updated>
         <summary type="html"><![CDATA[An inference marketplace is planned for December, with the product-development budget coming from MEGA's existing treasury, according to co-founder Shuyao Kong.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NRC Permits Four X-energy Reactors at Dow's Texas Site]]></title>
-        <id>https://thedefiant.io/frontier/technology/nrc-permits-four-x-energy-reactors-at-dow-s-texas-site</id>
-        <link href="https://thedefiant.io/frontier/technology/nrc-permits-four-x-energy-reactors-at-dow-s-texas-site"/>
-        <updated>2026-11-10T16:16:16.000Z</updated>
-        <summary type="html"><![CDATA[The proposed plant would replace aging electricity and steam assets, but Dow has not made a final decision to build it.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Drops 24% in Four Weeks, Lagging Bitcoin and Ether]]></title>
-        <id>https://thedefiant.io/news/markets/xrp-drops-24-in-four-weeks-lagging-bitcoin-and-ether</id>
-        <link href="https://thedefiant.io/news/markets/xrp-drops-24-in-four-weeks-lagging-bitcoin-and-ether"/>
-        <updated>2026-11-10T16:01:49.000Z</updated>
-        <summary type="html"><![CDATA[XRP's seven-day loss reached 18.3%, compared with bitcoin's 5.7% decline, as conversions of stolen XRP into bitcoin continued.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zcash Falls Below $1,100 as Daily Loss Reaches 10.5%]]></title>
-        <id>https://thedefiant.io/news/markets/zcash-falls-below-1-100-as-daily-loss-reaches-10-5</id>
-        <link href="https://thedefiant.io/news/markets/zcash-falls-below-1-100-as-daily-loss-reaches-10-5"/>
-        <updated>2026-11-10T16:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Monero also sank 9.2%, while bitcoin and ether posted smaller declines. ZEC traded about 31.5% below a late-September level above $1,600.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Hits Four-Week Low as Losses Outpace Bitcoin]]></title>
-        <id>https://thedefiant.io/news/markets/solana-hits-four-week-low-as-losses-outpace-bitcoin</id>
-        <link href="https://thedefiant.io/news/markets/solana-hits-four-week-low-as-losses-outpace-bitcoin"/>
-        <updated>2026-11-10T15:50:13.000Z</updated>
-        <summary type="html"><![CDATA[SOL has lost 22.9% in 28 days, while Solana ETF trackers recorded fresh withdrawals on Nov. 6 and Nov. 9.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale Pledges $1 Million in Zcash ETF Campaign]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/grayscale-pledges-1-million-in-zcash-etf-campaign</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/grayscale-pledges-1-million-in-zcash-etf-campaign"/>
-        <updated>2026-11-10T15:17:18.000Z</updated>
-        <summary type="html"><![CDATA[ZCSH trades on NYSE Arca and held $675.7 million in assets as of Nov. 9. Its prospectus sets a 2.5% annual sponsor fee.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jupiter Adds Token Baskets and Curated Yield Vaults]]></title>
-        <id>https://thedefiant.io/news/defi/jupiter-adds-token-baskets-and-curated-yield-vaults</id>
-        <link href="https://thedefiant.io/news/defi/jupiter-adds-token-baskets-and-curated-yield-vaults"/>
-        <updated>2026-11-10T15:14:30.000Z</updated>
-        <summary type="html"><![CDATA[Third-party curators will run the vault strategies, while basket users authorize automatic trades from individual vaults rather than pooled funds.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Pull Requests Target Vizor and Zingo Wallets]]></title>
-        <id>https://thedefiant.io/news/security/malicious-pull-requests-target-vizor-and-zingo-wallets</id>
-        <link href="https://thedefiant.io/news/security/malicious-pull-requests-target-vizor-and-zingo-wallets"/>
-        <updated>2026-11-10T15:05:35.000Z</updated>
-        <summary type="html"><![CDATA[None of the six requests was merged; the campaign paired credential-stealing code with instructions telling AI reviewers not to flag secret uploads.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alta Raises $47.5 Million for Bank-Focused Blockchain]]></title>
-        <id>https://thedefiant.io/converge/infrastructure/alta-raises-47-5-million-for-bank-focused-blockchain</id>
-        <link href="https://thedefiant.io/converge/infrastructure/alta-raises-47-5-million-for-bank-focused-blockchain"/>
-        <updated>2026-11-10T14:43:53.000Z</updated>
-        <summary type="html"><![CDATA[Airwallex plans to connect the network to local payment rails, while Alta builds privacy and institutional policy checks into settlement.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pendle Lists Four Fixed-Term USDe Markets on Ethereum]]></title>
-        <id>https://thedefiant.io/news/defi/pendle-lists-four-fixed-term-usde-markets-on-ethereum</id>
-        <link href="https://thedefiant.io/news/defi/pendle-lists-four-fixed-term-usde-markets-on-ethereum"/>
-        <updated>2026-11-10T14:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Initial quoted annualized yields ranged from 5.24% to 6.00%, with roughly $10,000 of liquidity in each pool.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fomo Adds Solana Token Trading Route to X Cashtags]]></title>
-        <id>https://thedefiant.io/news/tradfi-and-fintech/fomo-adds-solana-token-trading-route-to-x-cashtags</id>
-        <link href="https://thedefiant.io/news/tradfi-and-fintech/fomo-adds-solana-token-trading-route-to-x-cashtags"/>
-        <updated>2026-11-10T13:41:33.000Z</updated>
-        <summary type="html"><![CDATA[X's existing 'Trade' workflow sends users to participating partners. Fomo says its crypto wallets are non-custodial.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US CPI Tops Forecasts in October as Bitcoin, Ether Fall]]></title>
-        <id>https://thedefiant.io/news/markets/us-cpi-tops-forecasts-in-october-as-bitcoin-ether-fall</id>
-        <link href="https://thedefiant.io/news/markets/us-cpi-tops-forecasts-in-october-as-bitcoin-ether-fall"/>
-        <updated>2026-11-10T13:41:26.000Z</updated>
-        <summary type="html"><![CDATA[A gap in October 2025 data left headline and core CPI without annual readings; ether slipped 1.9% around the release.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram Adds In-Message Widgets With TON Payments]]></title>
-        <id>https://thedefiant.io/news/infrastructure/telegram-adds-in-message-widgets-with-ton-payments</id>
-        <link href="https://thedefiant.io/news/infrastructure/telegram-adds-in-message-widgets-with-ton-payments"/>
-        <updated>2026-11-10T13:20:54.000Z</updated>
-        <summary type="html"><![CDATA[Production access is limited to private bot chats, while group use and forwarding remain on Telegram's test server.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compound V2 Users Face Nov. 10 COMP Rewards Deadline]]></title>
-        <id>https://thedefiant.io/news/defi/compound-v2-users-face-nov-10-comp-rewards-deadline</id>
-        <link href="https://thedefiant.io/news/defi/compound-v2-users-face-nov-10-comp-rewards-deadline"/>
-        <updated>2026-11-10T12:43:36.000Z</updated>
-        <summary type="html"><![CDATA[The legacy Ethereum rewards campaign opened with 40,419 COMP. Unclaimed tokens will return to Compound’s treasury after the cutoff.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matter Labs Launches Prividium Connect With ZK Fee Plan]]></title>
-        <id>https://thedefiant.io/news/infrastructure/matter-labs-launches-prividium-connect-with-zk-fee-plan</id>
-        <link href="https://thedefiant.io/news/infrastructure/matter-labs-launches-prividium-connect-with-zk-fee-plan"/>
-        <updated>2026-11-10T12:41:52.000Z</updated>
-        <summary type="html"><![CDATA[Proposed public deployments would channel interoperability fees into ZK, but activation, integration and fee parameters still need governance approval.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic IPO Filing Uses $78 Maximum Share Price]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/anthropic-ipo-filing-uses-78-maximum-share-price</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/anthropic-ipo-filing-uses-78-maximum-share-price"/>
-        <updated>2026-11-10T12:21:19.000Z</updated>
-        <summary type="html"><![CDATA[The registration covers 948.75 million shares including an underwriter option, implying a $64.35 billion base offering at the maximum registration price.]]></summary>
         <author>
             <name>The Defiant</name>
         </author>
