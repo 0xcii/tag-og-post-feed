@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-15T04:57:49.030Z</id>
+    <id>urn:2026-11-15T12:35:26.741Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-15T04:57:49.030Z</updated>
+    <updated>2026-11-15T12:35:26.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US Bitcoin ETFs Shed $1.91 Billion in Seven Sessions]]></title>
+        <id>https://thedefiant.io/news/markets/us-bitcoin-etfs-shed-1-91-billion-in-seven-sessions</id>
+        <link href="https://thedefiant.io/news/markets/us-bitcoin-etfs-shed-1-91-billion-in-seven-sessions"/>
+        <updated>2026-11-15T12:28:10.000Z</updated>
+        <summary type="html"><![CDATA[BlackRock’s IBIT accounted for about $1.42 billion of the withdrawals as Binance Research pointed to tighter financial conditions and AI-financing concerns.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Regains $65,000 After Falling to Four-Month Low]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-regains-65-000-after-falling-to-four-month-low</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-regains-65-000-after-falling-to-four-month-low"/>
+        <updated>2026-11-15T12:16:44.000Z</updated>
+        <summary type="html"><![CDATA[The Coinbase low was 0.94% below its earlier Saturday trough. US spot bitcoin ETFs recorded seven straight sessions of net outflows.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lido Lend Plan Would Block Repayments, Not Interest]]></title>
+        <id>https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest</id>
+        <link href="https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest"/>
+        <updated>2026-11-15T08:19:55.000Z</updated>
+        <summary type="html"><![CDATA[A proposed emergency pause would also stop lender exits and liquidations. A separate governance mechanism could remove its automatic expiry.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Hits Four-Month Low as ETF Outflows Persist]]></title>
+        <id>https://thedefiant.io/news/markets/bitcoin-hits-four-month-low-as-etf-outflows-persist</id>
+        <link href="https://thedefiant.io/news/markets/bitcoin-hits-four-month-low-as-etf-outflows-persist"/>
+        <updated>2026-11-15T07:21:35.000Z</updated>
+        <summary type="html"><![CDATA[US spot bitcoin funds shed $1.91 billion over seven sessions. Coinbase's new low was 13.4% below the low in The Defiant's Nov. 12 report.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave Executive Reports $39 Million in Liquidations]]></title>
         <id>https://thedefiant.io/news/defi/aave-executive-reports-39-million-in-liquidations</id>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/frontier/ai/white-house-seeks-remote-ai-chip-curbs-report"/>
         <updated>2026-11-11T15:42:08.000Z</updated>
         <summary type="html"><![CDATA[The reported request targets overseas computing rentals used by Chinese AI labs, a gap Nvidia has lobbied against closing.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Say Codex Flaw Put npm Releases at Risk]]></title>
-        <id>https://thedefiant.io/frontier/ai/researchers-say-codex-flaw-put-npm-releases-at-risk</id>
-        <link href="https://thedefiant.io/frontier/ai/researchers-say-codex-flaw-put-npm-releases-at-risk"/>
-        <updated>2026-11-11T15:37:06.000Z</updated>
-        <summary type="html"><![CDATA[Depi says OpenAI fixed a chain linking prompt injection, a sandbox escape and publishing credentials. Its disclosure does not report a malicious npm release reaching users.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runway Releases Praxis-1 Robot Model With Open Weights]]></title>
-        <id>https://thedefiant.io/frontier/ai/runway-releases-praxis-1-robot-model-with-open-weights</id>
-        <link href="https://thedefiant.io/frontier/ai/runway-releases-praxis-1-robot-model-with-open-weights"/>
-        <updated>2026-11-11T15:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Apache 2.0 weights and code move the robot controller beyond partner testing, but new hardware still requires substantial adaptation.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maple Co-Founder Flanagan Exits Over Strategy Split]]></title>
-        <id>https://thedefiant.io/news/defi/maple-co-founder-flanagan-exits-over-strategy-split</id>
-        <link href="https://thedefiant.io/news/defi/maple-co-founder-flanagan-exits-over-strategy-split"/>
-        <updated>2026-11-11T15:10:44.000Z</updated>
-        <summary type="html"><![CDATA[Joe Flanagan said he will support a handover through year-end. Maple described an agreed transition and said its direction remains unchanged.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pyth Adds Real-Time NYSE Data to Its Data Marketplace]]></title>
-        <id>https://thedefiant.io/news/infrastructure/pyth-adds-real-time-nyse-data-to-its-data-marketplace</id>
-        <link href="https://thedefiant.io/news/infrastructure/pyth-adds-real-time-nyse-data-to-its-data-marketplace"/>
-        <updated>2026-11-11T15:09:59.000Z</updated>
-        <summary type="html"><![CDATA[The Level 1 feed covers five NYSE Group exchanges. Clients must license the data directly with NYSE before receiving it through Pyth.]]></summary>
         <author>
             <name>The Defiant</name>
         </author>
