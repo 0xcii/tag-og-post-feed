@@ -1,10 +1,350 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-16T13:22:11.410Z</id>
+    <id>urn:2026-11-16T23:12:45.767Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-16T13:22:11.410Z</updated>
+    <updated>2026-11-16T23:12:45.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rocket Pool Says Saturn Migration Queued $100M in ETH]]></title>
+        <id>https://thedefiant.io/news/defi/rocket-pool-says-saturn-migration-queued-100m-in-eth</id>
+        <link href="https://thedefiant.io/news/defi/rocket-pool-says-saturn-migration-queued-100m-in-eth"/>
+        <updated>2026-11-16T22:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Operators can run two validators with the bond previously needed for one, while eligible staked RPL earns a share of ETH rewards.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Accounts Traded Up to $97.5M in Nvidia: CNBC]]></title>
+        <id>https://thedefiant.io/frontier/ai/trump-accounts-traded-up-to-97-5m-in-nvidia-cnbc</id>
+        <link href="https://thedefiant.io/frontier/ai/trump-accounts-traded-up-to-97-5m-in-nvidia-cnbc"/>
+        <updated>2026-11-16T22:35:06.000Z</updated>
+        <summary type="html"><![CDATA[A disclosure lists a May 18 sale of $500,001 to $1 million, alongside smaller purchases before and after. The White House says independent advisers manage the investments.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wells Fargo’s Reported IBIT Position More Than Doubles]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-s-reported-ibit-position-more-than-doubles</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-s-reported-ibit-position-more-than-doubles"/>
+        <updated>2026-11-16T22:29:07.000Z</updated>
+        <summary type="html"><![CDATA[Compiled 13F data shows 49.58 million shares valued at $2.35 billion at September’s end. That disclosure is not proof of a proprietary Bitcoin bet.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Passes Nvidia as AI Chipmaker's Slide Deepens]]></title>
+        <id>https://thedefiant.io/frontier/ai/microsoft-passes-nvidia-as-ai-chipmaker-s-slide-deepens</id>
+        <link href="https://thedefiant.io/frontier/ai/microsoft-passes-nvidia-as-ai-chipmaker-s-slide-deepens"/>
+        <updated>2026-11-16T22:26:54.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia has fallen nearly 35% since its October record close, compared with about 2% for Microsoft over the same period.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allfunds Announces 22-Manager Cohort for Solana Funds]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/allfunds-announces-22-manager-cohort-for-solana-funds</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/allfunds-announces-22-manager-cohort-for-solana-funds"/>
+        <updated>2026-11-16T22:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Apollo, Fidelity International and Schroders join Project Harmonia, with the first funds expected on Allfunds in Q1 2027.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI Denies Seizing Equipment in FAA Ground Stop Probe]]></title>
+        <id>https://thedefiant.io/frontier/infrastructure/fbi-denies-seizing-equipment-in-faa-ground-stop-probe</id>
+        <link href="https://thedefiant.io/frontier/infrastructure/fbi-denies-seizing-equipment-in-faa-ground-stop-probe"/>
+        <updated>2026-11-16T22:20:17.000Z</updated>
+        <summary type="html"><![CDATA[The bureau says it is helping the FAA and L3Harris examine the hardware, which remains with the network provider.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Set for AI 'National Champion' Label, WSJ Says]]></title>
+        <id>https://thedefiant.io/frontier/ai/nvidia-set-for-ai-national-champion-label-wsj-says</id>
+        <link href="https://thedefiant.io/frontier/ai/nvidia-set-for-ai-national-champion-label-wsj-says"/>
+        <updated>2026-11-16T21:28:20.000Z</updated>
+        <summary type="html"><![CDATA[The reported plan would put Nvidia alongside other US AI suppliers in an export push. Existing program rules offer priority review, not guaranteed chip-export licenses.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toss Plans In-App Crypto Wallet for ETH, USDT and USDC]]></title>
+        <id>https://thedefiant.io/news/tradfi-and-fintech/toss-plans-in-app-crypto-wallet-for-eth-usdt-and-usdc</id>
+        <link href="https://thedefiant.io/news/tradfi-and-fintech/toss-plans-in-app-crypto-wallet-for-eth-usdt-and-usdc"/>
+        <updated>2026-11-16T21:27:53.000Z</updated>
+        <summary type="html"><![CDATA[Korean reports citing Toss put the launch this week, with contact-based Ethereum transfers and no separate platform fee.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DBS, JPMorgan Launch 24/7 Tokenized Dollar Transfers]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/dbs-jpmorgan-launch-24-7-tokenized-dollar-transfers</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/dbs-jpmorgan-launch-24-7-tokenized-dollar-transfers"/>
+        <updated>2026-11-16T21:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Ant International is the first client of the US-Singapore link, which connects the banks' permissioned networks and uses Partior to coordinate settlement.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMF Chief Puts AI Financing Loops Above $1 Trillion]]></title>
+        <id>https://thedefiant.io/frontier/ai/imf-chief-puts-ai-financing-loops-above-1-trillion</id>
+        <link href="https://thedefiant.io/frontier/ai/imf-chief-puts-ai-financing-loops-above-1-trillion"/>
+        <updated>2026-11-16T21:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Georgieva told CNBC roughly two-thirds of the financing is debt, warning that dependence on AI investment leaves global growth vulnerable.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cantwell Presses Lutnick to Enforce AI Chip Curbs]]></title>
+        <id>https://thedefiant.io/frontier/ai/cantwell-presses-lutnick-to-enforce-ai-chip-curbs</id>
+        <link href="https://thedefiant.io/frontier/ai/cantwell-presses-lutnick-to-enforce-ai-chip-curbs"/>
+        <updated>2026-11-16T21:26:46.000Z</updated>
+        <summary type="html"><![CDATA[The Senate Commerce panel’s top Democrat urged action against prohibited buyers, adding an enforcement demand to congressional scrutiny of Nvidia exports.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lighter Says Withdrawals Resume After API-Key Theft]]></title>
+        <id>https://thedefiant.io/news/hacks/lighter-says-withdrawals-resume-after-api-key-theft</id>
+        <link href="https://thedefiant.io/news/hacks/lighter-says-withdrawals-resume-after-api-key-theft"/>
+        <updated>2026-11-16T21:26:19.000Z</updated>
+        <summary type="html"><![CDATA[The platform says its Security Council returned about 5 million USDC and added a wallet-signature requirement for transfers into public pools.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoox Launches Driverless Rides on Uber in Las Vegas]]></title>
+        <id>https://thedefiant.io/frontier/technology/zoox-launches-driverless-rides-on-uber-in-las-vegas</id>
+        <link href="https://thedefiant.io/frontier/technology/zoox-launches-driverless-rides-on-uber-in-las-vegas"/>
+        <updated>2026-11-16T21:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Eligible Uber trips can now match with a Zoox robotaxi at no extra cost. A multiyear MGM Resorts deal includes work on resort pickups and drop-offs.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats Challenge CFTC Prediction Market Push: WSJ]]></title>
+        <id>https://thedefiant.io/news/regulation/democrats-challenge-cftc-prediction-market-push-wsj</id>
+        <link href="https://thedefiant.io/news/regulation/democrats-challenge-cftc-prediction-market-push-wsj"/>
+        <updated>2026-11-16T21:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Nine senators want the agency to reverse its directive against geographic restrictions, the Journal reported, as federal and state authorities fight over market access.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abra Taps NYSE Parent ICE to Hold Crypto Loan Collateral]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/abra-taps-nyse-parent-ice-to-hold-crypto-loan-collateral</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/abra-taps-nyse-parent-ice-to-hold-crypto-loan-collateral"/>
+        <updated>2026-11-16T21:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Initial institutional borrowers can pledge bitcoin, ether or SOL for dollar loans, with collateral kept at ICE Digital Trust rather than lent onward.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Says Bank Wires Can Now Arrive as USDC]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/coinbase-says-bank-wires-can-now-arrive-as-usdc</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/coinbase-says-bank-wires-can-now-arrive-as-usdc"/>
+        <updated>2026-11-16T21:23:54.000Z</updated>
+        <summary type="html"><![CDATA[A standing setting converts future incoming wires into stablecoins. Coinbase is also advertising a variable 3.75% APY reward for Coinbase One members.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liquid AI's d1.2-ultra Tops Decision Model Ranking]]></title>
+        <id>https://thedefiant.io/frontier/ai/liquid-ai-s-d1-2-ultra-tops-decision-model-ranking</id>
+        <link href="https://thedefiant.io/frontier/ai/liquid-ai-s-d1-2-ultra-tops-decision-model-ranking"/>
+        <updated>2026-11-16T16:47:51.000Z</updated>
+        <summary type="html"><![CDATA[The new models add audio input and extraction tools at unchanged input-token prices. Artificial Analysis scores d1.2-ultra at 75 on its Decision Index v2.1.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anza Urges Solana Operators to Patch 'NoisyTCP' Flaw]]></title>
+        <id>https://thedefiant.io/news/security/anza-urges-solana-operators-to-patch-noisytcp-flaw</id>
+        <link href="https://thedefiant.io/news/security/anza-urges-solana-operators-to-patch-noisytcp-flaw"/>
+        <updated>2026-11-16T16:29:55.000Z</updated>
+        <summary type="html"><![CDATA[The Linux bug can crash an affected host remotely. Anza recommends a temporary SYN-cookie change where patched kernels are unavailable.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Enlists METR for Safety Review of Largest RL Run]]></title>
+        <id>https://thedefiant.io/frontier/ai/openai-enlists-metr-for-safety-review-of-largest-rl-run</id>
+        <link href="https://thedefiant.io/frontier/ai/openai-enlists-metr-for-safety-review-of-largest-rl-run"/>
+        <updated>2026-11-16T16:22:32.000Z</updated>
+        <summary type="html"><![CDATA[The evaluator will get model snapshots and internal records for a single-run pilot; a broader monitor assessment still awaits agreement on scope.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Unveils Rubin HPC GPU for Scientific Computing]]></title>
+        <id>https://thedefiant.io/frontier/technology/nvidia-unveils-rubin-hpc-gpu-for-scientific-computing</id>
+        <link href="https://thedefiant.io/frontier/technology/nvidia-unveils-rubin-hpc-gpu-for-scientific-computing"/>
+        <updated>2026-11-16T16:17:27.000Z</updated>
+        <summary type="html"><![CDATA[The chip is due in 2028, with more than 50,000 CUDA cores and a newer GPU interconnect, but Nvidia has not published simulation benchmarks.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supreme Court Rejects Custodia’s Fed Account Appeal]]></title>
+        <id>https://thedefiant.io/news/regulation/supreme-court-rejects-custodia-s-fed-account-appeal</id>
+        <link href="https://thedefiant.io/news/regulation/supreme-court-rejects-custodia-s-fed-account-appeal"/>
+        <updated>2026-11-16T15:46:23.000Z</updated>
+        <summary type="html"><![CDATA[A state charter does not guarantee a Fed account. Correspondent banking remains an alternative as the Fed develops a narrower payment-account model.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safe Wallet Drained of $6.4 Million via Roles Module]]></title>
+        <id>https://thedefiant.io/news/hacks/safe-wallet-drained-of-6-4-million-via-roles-module</id>
+        <link href="https://thedefiant.io/news/hacks/safe-wallet-drained-of-6-4-million-via-roles-module"/>
+        <updated>2026-11-16T15:27:43.000Z</updated>
+        <summary type="html"><![CDATA[An Ethereum transaction shows USDC and syrupUSDC leaving one wallet. An analyst traced the drain to a gap in its delegated trading permissions.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Says He Would Not Mind Huang Returning to Nvidia]]></title>
+        <id>https://thedefiant.io/frontier/ai/trump-says-he-would-not-mind-huang-returning-to-nvidia</id>
+        <link href="https://thedefiant.io/frontier/ai/trump-says-he-would-not-mind-huang-returning-to-nvidia"/>
+        <updated>2026-11-16T15:21:08.000Z</updated>
+        <summary type="html"><![CDATA[The president's openness to reinstatement contrasts with Bessent's call for an outside CEO. Colette Kress remains interim chief executive ahead of Tuesday's earnings.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duffy Says AT&T, Verizon Ready to Rebuild FAA Network]]></title>
+        <id>https://thedefiant.io/frontier/infrastructure/duffy-says-at-t-verizon-ready-to-rebuild-faa-network</id>
+        <link href="https://thedefiant.io/frontier/infrastructure/duffy-says-at-t-verizon-ready-to-rebuild-faa-network"/>
+        <updated>2026-11-16T15:18:20.000Z</updated>
+        <summary type="html"><![CDATA[An AT&T planning contract predates the nationwide ground stop. Duffy says the wider network replacement still needs congressional funding.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Expands Computer-Use Agents for Healthcare Teams]]></title>
+        <id>https://thedefiant.io/frontier/ai/openai-expands-computer-use-agents-for-healthcare-teams</id>
+        <link href="https://thedefiant.io/frontier/ai/openai-expands-computer-use-agents-for-healthcare-teams"/>
+        <updated>2026-11-16T15:07:07.000Z</updated>
+        <summary type="html"><![CDATA[The tools navigate medical-record systems and insurer portals. Health systems control access, while OpenAI's developer guidance requires confirmation for medical-care actions.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum's ARB Falls 26% in a Week, Lagging BTC and ETH]]></title>
+        <id>https://thedefiant.io/news/markets/arbitrum-s-arb-falls-26-in-a-week-lagging-btc-and-eth</id>
+        <link href="https://thedefiant.io/news/markets/arbitrum-s-arb-falls-26-in-a-week-lagging-btc-and-eth"/>
+        <updated>2026-11-16T15:03:21.000Z</updated>
+        <summary type="html"><![CDATA[ARB's weekly loss was roughly twice that of bitcoin and ether, while its four-week decline reached almost 32%.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[b14g Opens CORE Claims for Revenue-Funded Repayments]]></title>
+        <id>https://thedefiant.io/news/hacks/b14g-opens-core-claims-for-revenue-funded-repayments</id>
+        <link href="https://thedefiant.io/news/hacks/b14g-opens-core-claims-for-revenue-funded-repayments"/>
+        <updated>2026-11-16T14:30:24.000Z</updated>
+        <summary type="html"><![CDATA[The portal follows a roughly 70% hard-fork recovery. Further repayments depend on staking revenue and additional recoveries; full repayment is not guaranteed.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYSE Parent ICE Weighs Becoming a Solana Validator]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/nyse-parent-ice-weighs-becoming-a-solana-validator</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/nyse-parent-ice-weighs-becoming-a-solana-validator"/>
+        <updated>2026-11-16T14:21:45.000Z</updated>
+        <summary type="html"><![CDATA[ICE Clear Europe President Hester Serafini said the NYSE ATS is set up for Solana-issued tokens, alongside Avalanche's planned settlement role.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shareholder Voting Rights: What US Investors Can Decide]]></title>
+        <id>https://thedefiant.io/news/markets/shareholder-voting-rights-what-us-investors-can-decide</id>
+        <link href="https://thedefiant.io/news/markets/shareholder-voting-rights-what-us-investors-can-decide"/>
+        <updated>2026-11-16T14:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Shareholders elect directors, but do not run the company. Proxies, shareholder proposals and advisory votes give investors different kinds of influence.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Margin and Leverage: What Collateral Is at Risk?]]></title>
+        <id>https://thedefiant.io/news/markets/crypto-margin-and-leverage-what-collateral-is-at-risk</id>
+        <link href="https://thedefiant.io/news/markets/crypto-margin-and-leverage-what-collateral-is-at-risk"/>
+        <updated>2026-11-16T14:15:25.000Z</updated>
+        <summary type="html"><![CDATA[A small price move can consume much of a leveraged trader's equity. Cross and isolated margin change which collateral backs the position.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Closes World Labs Deal, Bringing Model Research In-House]]></title>
+        <id>https://thedefiant.io/frontier/ai/amd-closes-world-labs-deal-bringing-model-research-in-house</id>
+        <link href="https://thedefiant.io/frontier/ai/amd-closes-world-labs-deal-bringing-model-research-in-house"/>
+        <updated>2026-11-16T14:15:16.000Z</updated>
+        <summary type="html"><![CDATA[The deal was announced at about $8.2 billion in stock. Fei-Fei Li joins as chief scientist as AMD brings spatial-model research closer to its chip and systems teams.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Says AI Automated the Jump From Patch to Exploit]]></title>
+        <id>https://thedefiant.io/frontier/ai/google-says-ai-automated-the-jump-from-patch-to-exploit</id>
+        <link href="https://thedefiant.io/frontier/ai/google-says-ai-automated-the-jump-from-patch-to-exploit"/>
+        <updated>2026-11-16T14:08:41.000Z</updated>
+        <summary type="html"><![CDATA[Google found stolen victim data alongside exploit_agent, a framework it says automated patch analysis and exploit execution without human intervention.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Targets China’s Remote Access to Advanced AI Chips]]></title>
+        <id>https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips</id>
+        <link href="https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips"/>
+        <updated>2026-11-16T14:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Commerce has released a rule targeting overseas computing access and chip shipments to five countries. Its effective date hinges on Federal Register publication.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamino Launches New App, Targets Omni Pilots for 2027]]></title>
+        <id>https://thedefiant.io/news/defi/kamino-launches-new-app-targets-omni-pilots-for-2027</id>
+        <link href="https://thedefiant.io/news/defi/kamino-launches-new-app-targets-omni-pilots-for-2027"/>
+        <updated>2026-11-16T13:24:58.000Z</updated>
+        <summary type="html"><![CDATA[The ONE swap engine is live across Kamino’s products, while Omni would let institutional managers tokenize and distribute automated portfolios.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase, Broadridge Propose Onchain Rights Standard]]></title>
         <id>https://thedefiant.io/converge/tradfi-and-fintech/coinbase-broadridge-propose-onchain-rights-standard</id>
@@ -661,346 +1001,6 @@
         <link href="https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-crypto-custody-goes-live-for-paying-clients"/>
         <updated>2026-11-14T07:52:49.000Z</updated>
         <summary type="html"><![CDATA[The European service supports bitcoin, ether and three stablecoins. Stablecoin conversion and tokenized financial instruments remain later steps.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic IPO Said to Restrict China, Hong Kong Institutions]]></title>
-        <id>https://thedefiant.io/frontier/ai/anthropic-ipo-said-to-restrict-china-hong-kong-institutions</id>
-        <link href="https://thedefiant.io/frontier/ai/anthropic-ipo-said-to-restrict-china-hong-kong-institutions"/>
-        <updated>2026-11-14T07:46:50.000Z</updated>
-        <summary type="html"><![CDATA[Some investors are exploring offshore bids, Bloomberg reports, but receiving shares remains uncertain ahead of expected Nov. 18 pricing.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duffy Denies FAA AI Tool Caused Nationwide Ground Stop]]></title>
-        <id>https://thedefiant.io/frontier/ai/duffy-denies-faa-ai-tool-caused-nationwide-ground-stop</id>
-        <link href="https://thedefiant.io/frontier/ai/duffy-denies-faa-ai-tool-caused-nationwide-ground-stop"/>
-        <updated>2026-11-14T07:44:32.000Z</updated>
-        <summary type="html"><![CDATA[The FAA announced SMART’s expansion to airspace covered by 22 centers on Nov. 10. Duffy blamed overloaded legacy telecom equipment for Friday’s halt.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Staff Discuss Military AI in Russian Hoax Call]]></title>
-        <id>https://thedefiant.io/frontier/ai/openai-staff-discuss-military-ai-in-russian-hoax-call</id>
-        <link href="https://thedefiant.io/frontier/ai/openai-staff-discuss-military-ai-in-russian-hoax-call"/>
-        <updated>2026-11-14T07:41:57.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI says it investigated and took preventive action, without detailing changes to how it verifies government contacts.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy’s Bitcoin Cost Gap Widens to $7.7 Billion]]></title>
-        <id>https://thedefiant.io/news/markets/strategy-s-bitcoin-cost-gap-widens-to-7-7-billion</id>
-        <link href="https://thedefiant.io/news/markets/strategy-s-bitcoin-cost-gap-widens-to-7-7-billion"/>
-        <updated>2026-11-14T07:35:30.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin’s fall below $67,000 deepened the shortfall against Strategy’s purchase cost. That threshold does not itself trigger a margin call.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Opens Cybercab Purchases to Select Private Buyers]]></title>
-        <id>https://thedefiant.io/frontier/technology/tesla-opens-cybercab-purchases-to-select-private-buyers</id>
-        <link href="https://thedefiant.io/frontier/technology/tesla-opens-cybercab-purchases-to-select-private-buyers"/>
-        <updated>2026-11-14T07:35:29.000Z</updated>
-        <summary type="html"><![CDATA[The invitation-only offer lists December deliveries in Austin and a required $299 monthly subscription. Personal ownership does not automatically permit running a taxi business.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Opens Anthropic IPO Requests With 5% Spread]]></title>
-        <id>https://thedefiant.io/converge/tradfi-and-fintech/kraken-opens-anthropic-ipo-requests-with-5-spread</id>
-        <link href="https://thedefiant.io/converge/tradfi-and-fintech/kraken-opens-anthropic-ipo-requests-with-5-spread"/>
-        <updated>2026-11-14T07:23:07.000Z</updated>
-        <summary type="html"><![CDATA[Eligible clients can seek share-backed ANTx tokens, not direct stock ownership. Requests reserve funds and may receive no allocation.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Falls Below $69,000 as Ether Slides Under $2,000]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-falls-below-69-000-as-ether-slides-under-2-000</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-falls-below-69-000-as-ether-slides-under-2-000"/>
-        <updated>2026-11-14T07:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Matched Coinbase closes show ether lost 20.3% over four weeks, compared with bitcoin's 16.3%, as both extended their declines.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[stUSDT Winds Down, Sets May 2027 Redemption Deadline]]></title>
-        <id>https://thedefiant.io/news/defi/stusdt-winds-down-sets-may-2027-redemption-deadline</id>
-        <link href="https://thedefiant.io/news/defi/stusdt-winds-down-sets-may-2027-redemption-deadline"/>
-        <updated>2026-11-14T07:18:32.000Z</updated>
-        <summary type="html"><![CDATA[Rebase rewards end Nov. 14. Holders must unstake and then claim USDT, with late redemption requests moving to monthly support batches.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US PPI Hits 6.5% as Bitcoin and Ether Edge Higher]]></title>
-        <id>https://thedefiant.io/news/markets/us-ppi-hits-6-5-as-bitcoin-and-ether-edge-higher</id>
-        <link href="https://thedefiant.io/news/markets/us-ppi-hits-6-5-as-bitcoin-and-ether-edge-higher"/>
-        <updated>2026-11-14T07:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Both headline inflation readings undershot forecasts, but interest-rate markets still favored a December Fed hike.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scott Seeks Huang, Lutnick Testimony on Nvidia Exports]]></title>
-        <id>https://thedefiant.io/frontier/ai/scott-seeks-huang-lutnick-testimony-on-nvidia-exports</id>
-        <link href="https://thedefiant.io/frontier/ai/scott-seeks-huang-lutnick-testimony-on-nvidia-exports"/>
-        <updated>2026-11-14T07:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Huang is asked to appear Dec. 3 and Lutnick Dec. 10. A Commerce spokesperson says the secretary has agreed to testify voluntarily.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Blames 365 Outage on Network Upgrade Issue]]></title>
-        <id>https://thedefiant.io/frontier/infrastructure/microsoft-blames-365-outage-on-network-upgrade-issue</id>
-        <link href="https://thedefiant.io/frontier/infrastructure/microsoft-blames-365-outage-on-network-upgrade-issue"/>
-        <updated>2026-11-14T07:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft apologized and said the incident was unrelated to cyber activity or AI agents. Its status account now says service is restored to remaining affected customers and regions.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blacklisted Chinese University Bought H200s: Reuters]]></title>
-        <id>https://thedefiant.io/frontier/ai/blacklisted-chinese-university-bought-h200s-reuters</id>
-        <link href="https://thedefiant.io/frontier/ai/blacklisted-chinese-university-bought-h200s-reuters"/>
-        <updated>2026-11-14T07:02:53.000Z</updated>
-        <summary type="html"><![CDATA[Northwestern Polytechnical reportedly bought two Nvidia accelerators through a Chinese supplier, despite restrictions that survived January's easing of H200 export licensing.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MANTRA Announces Seven-Day Pause on New Unstaking]]></title>
-        <id>https://thedefiant.io/news/hacks/mantra-announces-seven-day-pause-on-new-unstaking</id>
-        <link href="https://thedefiant.io/news/hacks/mantra-announces-seven-day-pause-on-new-unstaking"/>
-        <updated>2026-11-14T07:01:57.000Z</updated>
-        <summary type="html"><![CDATA[The pause blocks new withdrawal requests but does not stop the eight-day countdown for tokens already being unstaked.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sacks Says Alice Huang Spy Narrative Is 'Collapsing']]></title>
-        <id>https://thedefiant.io/frontier/ai/sacks-says-alice-huang-spy-narrative-is-collapsing</id>
-        <link href="https://thedefiant.io/frontier/ai/sacks-says-alice-huang-spy-narrative-is-collapsing"/>
-        <updated>2026-11-14T07:01:49.000Z</updated>
-        <summary type="html"><![CDATA[CNN reported that US officials remain divided over the evidence. Sacks called for a leak investigation after Jensen Huang's departure from Nvidia.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dYdX Proposes USDC Backing Shift From Noble to Injective]]></title>
-        <id>https://thedefiant.io/news/defi/dydx-proposes-usdc-backing-shift-from-noble-to-injective</id>
-        <link href="https://thedefiant.io/news/defi/dydx-proposes-usdc-backing-shift-from-noble-to-injective"/>
-        <updated>2026-11-14T06:52:06.000Z</updated>
-        <summary type="html"><![CDATA[The v9.9 plan would reroute deposits and withdrawals while leaving existing USDC balances, collateral and open positions unchanged.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maple Reports $1.89 Billion in Syrup Loan Collateral]]></title>
-        <id>https://thedefiant.io/news/defi/maple-reports-1-89-billion-in-syrup-loan-collateral</id>
-        <link href="https://thedefiant.io/news/defi/maple-reports-1-89-billion-in-syrup-loan-collateral"/>
-        <updated>2026-11-14T06:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Maple disclosed the check after a CEO update on executive departures and withdrawals. The provider says its service is not an audit or assurance engagement.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Patches Critical Bug Found by Anthropic Scanner]]></title>
-        <id>https://thedefiant.io/frontier/technology/apache-patches-critical-bug-found-by-anthropic-scanner</id>
-        <link href="https://thedefiant.io/frontier/technology/apache-patches-critical-bug-found-by-anthropic-scanner"/>
-        <updated>2026-11-14T06:47:41.000Z</updated>
-        <summary type="html"><![CDATA[The flaw can let unauthenticated attackers run code on HTTP/2-enabled servers. Apache credits Anthropic's OSS Scanner and two Google Cloud researchers.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Mining Difficulty Falls 9.1%, Most Since June]]></title>
-        <id>https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-falls-9-1-most-since-june</id>
-        <link href="https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-falls-9-1-most-since-june"/>
-        <updated>2026-11-14T06:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Slower blocks triggered the year's third-largest difficulty cut, lifting expected revenue per unit of computing power as Bitcoin's price slide squeezed miners.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ether Falls Below $1,900 as Losses Outpace Bitcoin]]></title>
-        <id>https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin</id>
-        <link href="https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin"/>
-        <updated>2026-11-14T03:44:29.000Z</updated>
-        <summary type="html"><![CDATA[US spot ether ETFs recorded a sixth session of net withdrawals, while the next day's flow tally remained incomplete.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Drops Below $67,000 as Crypto Selloff Deepens]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens"/>
-        <updated>2026-11-14T02:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Ether's four-week loss reached 21.4%, while 42 of 44 tokens in a curated crypto watchlist were lower over 24 hours.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether]]></title>
-        <id>https://thedefiant.io/news/markets/aave-slides-30-in-four-weeks-trailing-bitcoin-and-ether</id>
-        <link href="https://thedefiant.io/news/markets/aave-slides-30-in-four-weeks-trailing-bitcoin-and-ether"/>
-        <updated>2026-11-14T02:39:42.000Z</updated>
-        <summary type="html"><![CDATA[The governance token's losses exceeded those of bitcoin and ether, while Aave's dollar-denominated locked value fell by a smaller proportion.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GHO's 61% Supply Drop Reflects an Accounting Change]]></title>
-        <id>https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change</id>
-        <link href="https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change"/>
-        <updated>2026-11-14T00:26:16.000Z</updated>
-        <summary type="html"><![CDATA[DefiLlama now excludes idle, pre-minted GHO from circulation. The Ethereum token contract still reports 699 million tokens issued.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Approached Arm CEO Haas in Search, FT Reports]]></title>
-        <id>https://thedefiant.io/frontier/ai/nvidia-approached-arm-ceo-haas-in-search-ft-reports</id>
-        <link href="https://thedefiant.io/frontier/ai/nvidia-approached-arm-ceo-haas-in-search-ft-reports"/>
-        <updated>2026-11-13T22:30:52.000Z</updated>
-        <summary type="html"><![CDATA[The board says it has not formally engaged any candidates, while some employees are calling for Jensen Huang’s return ahead of Nov. 17 earnings.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Sinks 9% as Chip Rally Falters After Huang Exit]]></title>
-        <id>https://thedefiant.io/frontier/markets/amd-sinks-9-as-chip-rally-falters-after-huang-exit</id>
-        <link href="https://thedefiant.io/frontier/markets/amd-sinks-9-as-chip-rally-falters-after-huang-exit"/>
-        <updated>2026-11-13T21:13:45.000Z</updated>
-        <summary type="html"><![CDATA[Broadcom and Marvell also fell more than Nvidia on Friday, but all three held onto double-digit weekly gains.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Wins Final OCC Clearance for US Trust Company]]></title>
-        <id>https://thedefiant.io/converge/cefi/coinbase-wins-final-occ-clearance-for-us-trust-company</id>
-        <link href="https://thedefiant.io/converge/cefi/coinbase-wins-final-occ-clearance-for-us-trust-company"/>
-        <updated>2026-11-13T21:11:54.000Z</updated>
-        <summary type="html"><![CDATA[The charter brings a federal framework to Coinbase’s custody business, following conditional approval in April. It does not make the exchange a commercial bank.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maple CEO Defends Institutional Push Amid Departures]]></title>
-        <id>https://thedefiant.io/news/defi/maple-ceo-defends-institutional-push-amid-departures</id>
-        <link href="https://thedefiant.io/news/defi/maple-ceo-defends-institutional-push-amid-departures"/>
-        <updated>2026-11-13T19:45:48.000Z</updated>
-        <summary type="html"><![CDATA[Sidney Powell said the leadership departures concern Maple’s direction, not its loan book, and outlined plans to expand institutional credit and fintech distribution.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEGA Discloses 20% Staff Cut Amid AI Product Push]]></title>
-        <id>https://thedefiant.io/news/infrastructure/mega-discloses-20-staff-cut-amid-ai-product-push</id>
-        <link href="https://thedefiant.io/news/infrastructure/mega-discloses-20-staff-cut-amid-ai-product-push"/>
-        <updated>2026-11-13T19:39:44.000Z</updated>
-        <summary type="html"><![CDATA[Departing staff worked on the chain, wallet and ecosystem. The disclosure comes three days after a $30 million product pledge.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Read US Spot Bitcoin ETF Flows—and Their Limits]]></title>
-        <id>https://thedefiant.io/news/markets/how-to-read-us-spot-bitcoin-etf-flows-and-their-limits</id>
-        <link href="https://thedefiant.io/news/markets/how-to-read-us-spot-bitcoin-etf-flows-and-their-limits"/>
-        <updated>2026-11-13T18:15:49.000Z</updated>
-        <summary type="html"><![CDATA[Net flows measure additions to funds minus withdrawals—not all share trading or changes in asset value. They cannot, by themselves, explain bitcoin’s price.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitGo Denies Breach as Unocoin Probes Wallet Transfers]]></title>
-        <id>https://thedefiant.io/news/security/bitgo-denies-breach-as-unocoin-probes-wallet-transfers</id>
-        <link href="https://thedefiant.io/news/security/bitgo-denies-breach-as-unocoin-probes-wallet-transfers"/>
-        <updated>2026-11-13T18:11:50.000Z</updated>
-        <summary type="html"><![CDATA[BitGo says the disputed transfers used Unocoin-held keys without its participation. The exchange suspects misuse of a backup mechanism as services remain suspended.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unpatched Windows 'SignDrop' Exploit Grants System Rights]]></title>
-        <id>https://thedefiant.io/frontier/technology/unpatched-windows-signdrop-exploit-grants-system-rights</id>
-        <link href="https://thedefiant.io/frontier/technology/unpatched-windows-signdrop-exploit-grants-system-rights"/>
-        <updated>2026-11-13T16:38:33.000Z</updated>
-        <summary type="html"><![CDATA[Independent testers reproduced the local privilege escalation, but exposure depends on Windows builds and CLFS settings. Disabling the affected hardening carries its own risk.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Heads for Sixth Weekly Loss, Down 22% in 2026]]></title>
-        <id>https://thedefiant.io/news/markets/bitcoin-heads-for-sixth-weekly-loss-down-22-in-2026</id>
-        <link href="https://thedefiant.io/news/markets/bitcoin-heads-for-sixth-weekly-loss-down-22-in-2026"/>
-        <updated>2026-11-13T16:12:35.000Z</updated>
-        <summary type="html"><![CDATA[The current slide is shallower than a six-week slump in the first quarter. Sunday's close will determine whether the losing streak extends.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Links Global Outage to Failed Health Checks]]></title>
-        <id>https://thedefiant.io/frontier/infrastructure/microsoft-links-global-outage-to-failed-health-checks</id>
-        <link href="https://thedefiant.io/frontier/infrastructure/microsoft-links-global-outage-to-failed-health-checks"/>
-        <updated>2026-11-13T15:38:07.000Z</updated>
-        <summary type="html"><![CDATA[Outlook and Copilot remained disrupted Friday. Microsoft said it had no evidence of malicious activity, but a full root-cause report was still to come.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Gives ChatGPT Agents a Card Wallet for Purchases]]></title>
-        <id>https://thedefiant.io/frontier/ai/openai-gives-chatgpt-agents-a-card-wallet-for-purchases</id>
-        <link href="https://thedefiant.io/frontier/ai/openai-gives-chatgpt-agents-a-card-wallet-for-purchases"/>
-        <updated>2026-11-13T15:18:57.000Z</updated>
-        <summary type="html"><![CDATA[US Pro users can authorize purchases with eligible American Express, Mastercard and Visa cards, while merchants keep their existing checkout systems.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nakamoto Options Loss Turns Q3 Operating Revenue Negative]]></title>
-        <id>https://thedefiant.io/news/markets/nakamoto-options-loss-turns-q3-operating-revenue-negative</id>
-        <link href="https://thedefiant.io/news/markets/nakamoto-options-loss-turns-q3-operating-revenue-negative"/>
-        <updated>2026-11-13T13:18:46.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin valuation gains drove an $85.5 million profit, while part of the loss-making options program provides downside protection tied to Kraken loan collateral.]]></summary>
         <author>
             <name>The Defiant</name>
         </author>
