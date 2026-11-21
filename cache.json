@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "PHD Capital Research",
+      "feedUrl": "https://phdcapital.substack.com/feed",
+      "siteUrl": "https://phdcapital.substack.com",
+      "articles": []
+    },
+    {
       "title": "Stories by Arthur Hayes on Medium",
       "feedUrl": "https://medium.com/feed/@cryptohayes",
       "siteUrl": "https://medium.com/@cryptohayes?source=rss-2f6e06954878------2",
@@ -44,6 +50,66 @@
       "feedUrl": "https://thedefiant.io/feed/",
       "siteUrl": "https://thedefiant.io",
       "articles": [
+        {
+          "id": "https://thedefiant.io/news/hacks/bitquery-traces-at-least-1-58-million-in-fluidkey-hack",
+          "author": "The Defiant",
+          "description": "Fluidkey says a logging-tool flaw let an attacker trigger transfers when users opened the app, even though private keys stayed on their devices.",
+          "link": "https://thedefiant.io/news/hacks/bitquery-traces-at-least-1-58-million-in-fluidkey-hack",
+          "publishedOn": "2026-11-21T02:47:09.000Z",
+          "wordCount": null,
+          "title": "Bitquery Traces at Least $1.58 Million in Fluidkey Hack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/pancakeswap-volume-rebounds-34-to-991-million",
+          "author": "The Defiant",
+          "description": "BNB Chain accounted for $828 million of daily trading, while PancakeSwap’s weekly growth trailed Uniswap, Curve and Raydium.",
+          "link": "https://thedefiant.io/news/defi/pancakeswap-volume-rebounds-34-to-991-million",
+          "publishedOn": "2026-11-21T01:53:16.000Z",
+          "wordCount": null,
+          "title": "PancakeSwap Volume Rebounds 34% to $991 Million",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sky-buybacks-and-rewards-exceed-revenue-in-llama-data",
+          "author": "The Defiant",
+          "description": "DefiLlama measured about $440,000 in revenue after estimated savings costs on Nov. 20, below its $827,000 valuation of buybacks and staking rewards.",
+          "link": "https://thedefiant.io/news/defi/sky-buybacks-and-rewards-exceed-revenue-in-llama-data",
+          "publishedOn": "2026-11-21T01:34:11.000Z",
+          "wordCount": null,
+          "title": "Sky Buybacks and Rewards Exceed Revenue in Llama Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sky-tvl-falls-45-in-a-week-as-usdc-reserve-shrinks",
+          "author": "The Defiant",
+          "description": "Sky's tracked assets fell to $2.24 billion in the Nov. 20 daily snapshot. A large decline in its USDC conversion reserve corroborates the contraction.",
+          "link": "https://thedefiant.io/news/defi/sky-tvl-falls-45-in-a-week-as-usdc-reserve-shrinks",
+          "publishedOn": "2026-11-21T00:42:48.000Z",
+          "wordCount": null,
+          "title": "Sky TVL Falls 45% in a Week as USDC Reserve Shrinks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/ai/clayton-links-tech-outages-to-maintenance-and-upgrades",
+          "author": "The Defiant",
+          "description": "The intelligence chief described separate outages linked to maintenance and technical changes. Mark Warner pointed to pressure to patch AI-found flaws.",
+          "link": "https://thedefiant.io/frontier/ai/clayton-links-tech-outages-to-maintenance-and-upgrades",
+          "publishedOn": "2026-11-21T00:11:07.000Z",
+          "wordCount": null,
+          "title": "Clayton Links Tech Outages to Maintenance and Upgrades",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/aave-v4-plan-would-put-idle-usdc-into-circle-gateway",
+          "author": "The Defiant",
+          "description": "New sweeps would have to keep Gateway exposure within 10 million USDC and 25% of supply, while preserving cash for withdrawals and loans.",
+          "link": "https://thedefiant.io/news/defi/aave-v4-plan-would-put-idle-usdc-into-circle-gateway",
+          "publishedOn": "2026-11-20T22:54:45.000Z",
+          "wordCount": null,
+          "title": "Aave V4 Plan Would Put Idle USDC Into Circle Gateway",
+          "imageUrl": null
+        },
         {
           "id": "https://thedefiant.io/converge/markets/s-p-500-sinks-3-7-extending-slide-to-seven-sessions",
           "author": "The Defiant",
@@ -983,66 +1049,333 @@
           "wordCount": null,
           "title": "AI Agent Security: Why Refusals Are Not Access Controls",
           "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Today in DeFi",
+      "feedUrl": "https://todayindefi.substack.com/feed",
+      "siteUrl": "https://news.todayindefi.com",
+      "articles": [
+        {
+          "id": "https://news.todayindefi.com/p/metrics-propamm-earns-40-apr-and",
+          "author": null,
+          "description": "By Danger, Today in DeFi Founder",
+          "link": "https://news.todayindefi.com/p/metrics-propamm-earns-40-apr-and",
+          "publishedOn": "2026-11-20T08:00:59.000Z",
+          "wordCount": null,
+          "title": "Metric’s PropAMM Earns >40% APR and Beat Arb Bots",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/87aad812-594f-4a08-8dce-0d7347c6dbd6_1920x1080.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/87aad812-594f-4a08-8dce-0d7347c6dbd6_1920x1080.png"
         },
         {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-plans-ipo-day-anthropic-tokens-on-solana",
-          "author": "The Defiant",
-          "description": "The platform's share-backed stock model includes eligible US investors. Live trading in its planned ANT token was not independently confirmed.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-plans-ipo-day-anthropic-tokens-on-solana",
-          "publishedOn": "2026-11-19T14:16:05.000Z",
+          "id": "https://news.todayindefi.com/p/lend-usdc-for-12-apr-lock-11-apr",
+          "author": null,
+          "description": "Selected picks across USD stables and ETH. APYs are current as of today — verify live before entering.",
+          "link": "https://news.todayindefi.com/p/lend-usdc-for-12-apr-lock-11-apr",
+          "publishedOn": "2026-11-19T08:02:09.000Z",
           "wordCount": null,
-          "title": "Securitize Plans IPO-Day Anthropic Tokens on Solana",
-          "imageUrl": null
+          "title": "Lend USDC For 12% APR, Lock 11% APR",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!5CCl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d743827-4c91-4ce5-9c01-5d763cca8008_1365x763.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!5CCl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d743827-4c91-4ce5-9c01-5d763cca8008_1365x763.png"
         },
         {
-          "id": "https://thedefiant.io/news/markets/how-to-read-prediction-market-odds-in-a-news-headline",
-          "author": "The Defiant",
-          "description": "An odds percentage is a price-based forecast, not a poll or confirmation. The contract’s rules, quote method and timestamp explain what it measures.",
-          "link": "https://thedefiant.io/news/markets/how-to-read-prediction-market-odds-in-a-news-headline",
-          "publishedOn": "2026-11-19T14:16:03.000Z",
+          "id": "https://news.todayindefi.com/p/extended-checker-live-predictfun",
+          "author": null,
+          "description": "Live claims, new points programs, and token launches worth your time.",
+          "link": "https://news.todayindefi.com/p/extended-checker-live-predictfun",
+          "publishedOn": "2026-11-18T08:00:41.000Z",
           "wordCount": null,
-          "title": "How to Read Prediction-Market Odds in a News Headline",
-          "imageUrl": null
+          "title": "InfiniFi Airdrop Live, Predict.Fun TGE Postponed - Airdrop Alpha",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!rsTD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e186435-a8ce-41d9-b6b2-31cf93468e9a_1060x593.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!rsTD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e186435-a8ce-41d9-b6b2-31cf93468e9a_1060x593.png"
         },
         {
-          "id": "https://thedefiant.io/news/cefi/coinbase-opens-crypto-options-to-eligible-non-us-users",
-          "author": "The Defiant",
-          "description": "The Deribit-powered contracts settle in USDC and are available through Coinbase's standard interface and Advanced. US retail users are excluded.",
-          "link": "https://thedefiant.io/news/cefi/coinbase-opens-crypto-options-to-eligible-non-us-users",
-          "publishedOn": "2026-11-19T14:15:32.000Z",
+          "id": "https://news.todayindefi.com/p/uniswap-and-aero-grew-revenue-while",
+          "author": null,
+          "description": "Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.",
+          "link": "https://news.todayindefi.com/p/uniswap-and-aero-grew-revenue-while",
+          "publishedOn": "2026-11-17T08:02:35.000Z",
           "wordCount": null,
-          "title": "Coinbase Opens Crypto Options to Eligible Non-US Users",
-          "imageUrl": null
+          "title": "Uniswap and Aero Grew Revenue While $4.1B Left Crypto.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!4rJe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa0e8ff3-b5d5-40cc-9598-69d1eaa2adf2_1271x713.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!4rJe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa0e8ff3-b5d5-40cc-9598-69d1eaa2adf2_1271x713.png"
         },
         {
-          "id": "https://thedefiant.io/news/defi/hashi-goes-live-on-sui-with-bitcoin-backed-lending",
-          "author": "The Defiant",
-          "description": "Fluid offers USDC borrowing against hBTC, while Anchorage Digital's Porto provides institutional access. BitGo is expected in 2027.",
-          "link": "https://thedefiant.io/news/defi/hashi-goes-live-on-sui-with-bitcoin-backed-lending",
-          "publishedOn": "2026-11-19T13:59:47.000Z",
+          "id": "https://news.todayindefi.com/p/variational-omni-opens-to-public",
+          "author": null,
+          "description": "Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.",
+          "link": "https://news.todayindefi.com/p/variational-omni-opens-to-public",
+          "publishedOn": "2026-11-16T08:32:29.000Z",
           "wordCount": null,
-          "title": "Hashi Goes Live on Sui With Bitcoin-Backed Lending",
-          "imageUrl": null
+          "title": "Variational Opens to Public, Maple’s Co-Founder Resigned",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!_K4D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5d9c503-796f-4e51-af17-caa917fb5783_1697x953.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!_K4D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5d9c503-796f-4e51-af17-caa917fb5783_1697x953.png"
         },
         {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/chainlink-ubs-pilot-onchain-structured-note-servicing",
-          "author": "The Defiant",
-          "description": "Chainlink says the pilot demonstrated automated note servicing on Ethereum through CRE. Digital-money settlement integration remains future work.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/chainlink-ubs-pilot-onchain-structured-note-servicing",
-          "publishedOn": "2026-11-19T13:47:26.000Z",
+          "id": "https://news.todayindefi.com/p/lock-8-stable-yield-earn-11-from",
+          "author": null,
+          "description": "Selected picks across USD stables and ETH. APYs are current as of today — verify live before entering.",
+          "link": "https://news.todayindefi.com/p/lock-8-stable-yield-earn-11-from",
+          "publishedOn": "2026-11-12T08:00:56.000Z",
           "wordCount": null,
-          "title": "Chainlink, UBS Pilot Onchain Structured Note Servicing",
-          "imageUrl": null
+          "title": "Lock 8% Stable Yield, Earn 11% From Low Risk LP",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!wi9T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9875023-488a-4840-a637-411bd1e689a0_1698x952.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!wi9T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9875023-488a-4840-a637-411bd1e689a0_1698x952.png"
         },
         {
-          "id": "https://thedefiant.io/news/defi/edgex-to-end-principal-protection-for-13-5m-vault",
-          "author": "The Defiant",
-          "description": "Depositors must accept the new profit-and-loss-sharing terms by 11 p.m. ET on Nov. 26 or have funds returned to their futures accounts.",
-          "link": "https://thedefiant.io/news/defi/edgex-to-end-principal-protection-for-13-5m-vault",
-          "publishedOn": "2026-11-19T13:20:48.000Z",
+          "id": "https://news.todayindefi.com/p/solana-labs-backed-trading-app-saturn",
+          "author": null,
+          "description": "Today’s News Headlines:",
+          "link": "https://news.todayindefi.com/p/solana-labs-backed-trading-app-saturn",
+          "publishedOn": "2026-11-11T08:02:15.000Z",
           "wordCount": null,
-          "title": "edgeX to End Principal Protection for $13.5M Vault",
-          "imageUrl": null
+          "title": "Solana Labs Backed Trading App, Saturn Registration Live - Airdrop Alpha",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!ZqIM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a6e574d-7497-48d8-884e-6e9f45efb427_1391x780.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!ZqIM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a6e574d-7497-48d8-884e-6e9f45efb427_1391x780.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/arc-grew-amidst-capital-leaving-crypto",
+          "author": null,
+          "description": "Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.",
+          "link": "https://news.todayindefi.com/p/arc-grew-amidst-capital-leaving-crypto",
+          "publishedOn": "2026-11-10T08:05:34.000Z",
+          "wordCount": null,
+          "title": "Arc Grew Amidst Capital Leaving Crypto",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!gcSM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4173a3db-7f65-460e-8285-3e2c0b81dcfe_1170x653.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!gcSM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4173a3db-7f65-460e-8285-3e2c0b81dcfe_1170x653.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/hyperliquid-l2-elysium-launches-us",
+          "author": null,
+          "description": "Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.",
+          "link": "https://news.todayindefi.com/p/hyperliquid-l2-elysium-launches-us",
+          "publishedOn": "2026-11-09T08:03:19.000Z",
+          "wordCount": null,
+          "title": "Hyperliquid L2 Elysium Launches, US Approves Stock Perps",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!HTUG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c5e554d-4dc2-48d0-b622-927601f65ba6_1002x560.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!HTUG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c5e554d-4dc2-48d0-b622-927601f65ba6_1002x560.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/16-on-stablecoins-how-to-loop-sfrxusd",
+          "author": null,
+          "description": "Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.",
+          "link": "https://news.todayindefi.com/p/16-on-stablecoins-how-to-loop-sfrxusd",
+          "publishedOn": "2026-11-06T08:01:12.000Z",
+          "wordCount": null,
+          "title": "16% on Stablecoins: How to Loop sfrxUSD on Curve’s LlamaLend",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!XJNC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44f6e8d9-8480-454f-b64c-a208ac05a6ff_1245x698.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!XJNC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44f6e8d9-8480-454f-b64c-a208ac05a6ff_1245x698.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/lend-usdc-for-9-lp-for-14-apy-farming",
+          "author": null,
+          "description": "Selected picks across USD stables and ETH. APYs are current as of today — verify live before entering.",
+          "link": "https://news.todayindefi.com/p/lend-usdc-for-9-lp-for-14-apy-farming",
+          "publishedOn": "2026-11-05T08:01:47.000Z",
+          "wordCount": null,
+          "title": "Lend USDC For 9%, LP for 14% APY - Farming Alpha",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!jagG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e3da6c4-9bb4-44c4-a90b-d2f0b5f61f71_1604x901.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!jagG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e3da6c4-9bb4-44c4-a90b-d2f0b5f61f71_1604x901.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/infinifi-airdrop-registration-trade",
+          "author": null,
+          "description": "Pick your section on news.todayindefi.com — News, Onchain Analysis, Airdrops, Farms, Guides — and get only the content relevant to what you actually trade.",
+          "link": "https://news.todayindefi.com/p/infinifi-airdrop-registration-trade",
+          "publishedOn": "2026-11-04T08:01:22.000Z",
+          "wordCount": null,
+          "title": "InfiniFi Airdrop Registration, Trade Stocks for Points on StableStock - Airdrop Alpha",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!e6RA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60c6bdb0-c964-4636-a014-932a8488d0f3_1906x1060.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!e6RA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60c6bdb0-c964-4636-a014-932a8488d0f3_1906x1060.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/hype-rallied-on-wall-street-catalysts",
+          "author": null,
+          "description": "Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.",
+          "link": "https://news.todayindefi.com/p/hype-rallied-on-wall-street-catalysts",
+          "publishedOn": "2026-11-03T08:02:05.000Z",
+          "wordCount": null,
+          "title": "HYPE Rallied on Wall Street Catalysts While Crypto Bleeds",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!LICI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe44f1734-c054-4ac5-9ab3-e4c9762923ac_1165x660.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!LICI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe44f1734-c054-4ac5-9ab3-e4c9762923ac_1165x660.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/binance-covers-losses-ice-launching",
+          "author": null,
+          "description": "Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.",
+          "link": "https://news.todayindefi.com/p/binance-covers-losses-ice-launching",
+          "publishedOn": "2026-11-02T08:01:42.000Z",
+          "wordCount": null,
+          "title": "Binance Covers Losses, ICE Launching Perps on Hyperliquid",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!Nwdv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F214c7b82-ddff-416e-9b33-a5801eb61419_1954x1088.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Nwdv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F214c7b82-ddff-416e-9b33-a5801eb61419_1954x1088.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/binance-hacked-for-63-billion-in",
+          "author": null,
+          "description": "Last updated: 05:00 UTC, October 30, 2026",
+          "link": "https://news.todayindefi.com/p/binance-hacked-for-63-billion-in",
+          "publishedOn": "2026-10-30T07:40:38.000Z",
+          "wordCount": null,
+          "title": "Binance Hacked for $6.3 Billion in Largest Crypto Hack Ever",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!waR-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85a640ef-6f36-4ad9-ac54-837b504ef721_690x388.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!waR-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85a640ef-6f36-4ad9-ac54-837b504ef721_690x388.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/lock-12-lend-10-risk-rated-stablecoin",
+          "author": null,
+          "description": "Selected picks across USD stables and ETH. APYs are current as of today — verify live before entering.",
+          "link": "https://news.todayindefi.com/p/lock-12-lend-10-risk-rated-stablecoin",
+          "publishedOn": "2026-10-29T08:02:49.000Z",
+          "wordCount": null,
+          "title": "Lock 12%, Lend For 10%: Risk-Rated Stablecoin Farms",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!n9eS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda5fbdf-a2c9-4b74-aea4-57343b4489ac_948x532.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!n9eS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda5fbdf-a2c9-4b74-aea4-57343b4489ac_948x532.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/jumper-xperps-points-live-standx",
+          "author": null,
+          "description": "Pick your section on news.todayindefi.com — News, Onchain Analysis, Airdrops, Farms, Guides — and get only the content relevant to what you actually trade.",
+          "link": "https://news.todayindefi.com/p/jumper-xperps-points-live-standx",
+          "publishedOn": "2026-10-28T08:02:19.000Z",
+          "wordCount": null,
+          "title": "Jumper xPerps Points Live, StandX Checker Live - Airdrop Alpha",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!xMZ9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47c99cb0-a6fd-4ad9-98a2-28a3db156799_1029x577.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!xMZ9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47c99cb0-a6fd-4ad9-98a2-28a3db156799_1029x577.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/this-small-17m-dex-did-15b-in-weekly",
+          "author": null,
+          "description": "Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.",
+          "link": "https://news.todayindefi.com/p/this-small-17m-dex-did-15b-in-weekly",
+          "publishedOn": "2026-10-27T08:02:26.000Z",
+          "wordCount": null,
+          "title": "This Small $17M DEX did $1.5B in Weekly Volume",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!sDQd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff16282fe-91d3-453f-95e1-c2ec5e2fcae1_1952x1086.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!sDQd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff16282fe-91d3-453f-95e1-c2ec5e2fcae1_1952x1086.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/aerodrome-becomes-aero-defillama",
+          "author": null,
+          "description": "Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.",
+          "link": "https://news.todayindefi.com/p/aerodrome-becomes-aero-defillama",
+          "publishedOn": "2026-10-26T08:02:50.000Z",
+          "wordCount": null,
+          "title": "Aero Launches Across 7 Chains, DeFillama Integrated Trueo",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!8T1z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8087d0f6-6d4e-454a-9dd5-c4702a5b905a_1167x655.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!8T1z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8087d0f6-6d4e-454a-9dd5-c4702a5b905a_1167x655.png"
+        },
+        {
+          "id": "https://news.todayindefi.com/p/earn-yield-on-tokenized-stocks-3",
+          "author": null,
+          "description": "By Danger, Today in DeFi Founder",
+          "link": "https://news.todayindefi.com/p/earn-yield-on-tokenized-stocks-3",
+          "publishedOn": "2026-10-23T08:01:49.000Z",
+          "wordCount": null,
+          "title": "Earn Yield on Tokenized Stocks: 3 Ways to Farm TSLA, NVDA, and more...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!RiYb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78387a78-396c-4013-8234-bcec10bdd991_2064x1104.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!RiYb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78387a78-396c-4013-8234-bcec10bdd991_2064x1104.png"
         }
       ]
     }
