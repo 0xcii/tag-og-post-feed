@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-21T19:55:55.432Z</id>
+    <id>urn:2026-11-22T00:06:48.489Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-21T19:55:55.432Z</updated>
+    <updated>2026-11-22T00:06:48.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Together AI Discloses Prompt Leak After Dragos Study]]></title>
+        <id>https://thedefiant.io/frontier/ai/together-ai-discloses-prompt-leak-after-dragos-study</id>
+        <link href="https://thedefiant.io/frontier/ai/together-ai-discloses-prompt-leak-after-dragos-study"/>
+        <updated>2026-11-21T23:32:49.000Z</updated>
+        <summary type="html"><![CDATA[Together says a coding agent exposed a credential for stored prompt samples. Five credentials later tested by the intruder were canaries from a Dragos experiment.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loudoun Pauses Data Center Votes, Not New Filings]]></title>
+        <id>https://thedefiant.io/frontier/infrastructure/loudoun-pauses-data-center-votes-not-new-filings</id>
+        <link href="https://thedefiant.io/frontier/infrastructure/loudoun-pauses-data-center-votes-not-new-filings"/>
+        <updated>2026-11-21T20:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Many of the Virginia county’s 33 active legislative applications for data centers and substations could be delayed; administrative reviews are unaffected.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tesla Begins FSD v15 Rollout to First-Wave Customers]]></title>
         <id>https://thedefiant.io/frontier/ai/tesla-begins-fsd-v15-rollout-to-first-wave-customers</id>
@@ -981,26 +1001,6 @@
         <link href="https://thedefiant.io/news/cefi/us-crypto-perps-coinbase-and-kraken-access-explained"/>
         <updated>2026-11-19T18:35:56.000Z</updated>
         <summary type="html"><![CDATA[Both advertise US access through futures brokers. Their public disclosures distinguish domestic accounts from global services, with separate approval checks.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky Raises stUSDS Yield to 24.74%; App Shows $0 Liquidity]]></title>
-        <id>https://thedefiant.io/news/defi/sky-raises-stusds-yield-to-24-74-app-shows-0-liquidity</id>
-        <link href="https://thedefiant.io/news/defi/sky-raises-stusds-yield-to-24-74-app-shows-0-liquidity"/>
-        <updated>2026-11-19T18:10:29.000Z</updated>
-        <summary type="html"><![CDATA[A borrower repaid about 414,000 USDS, and a bot contract redeemed stUSDS in the next transaction. Both preceded the rate increase. A later app snapshot showed no withdrawal liquidity.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Falls Below $100 After 34% Nasdaq Debut Pop]]></title>
-        <id>https://thedefiant.io/frontier/ai/anthropic-falls-below-100-after-34-nasdaq-debut-pop</id>
-        <link href="https://thedefiant.io/frontier/ai/anthropic-falls-below-100-after-34-nasdaq-debut-pop"/>
-        <updated>2026-11-19T18:07:41.000Z</updated>
-        <summary type="html"><![CDATA[Shares recovered to $100.92 by 12:30 p.m. ET, about 9.5% below the opening trade but still 21.6% above the $83 IPO price.]]></summary>
         <author>
             <name>The Defiant</name>
         </author>

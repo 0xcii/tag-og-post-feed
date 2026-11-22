@@ -45,6 +45,26 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/frontier/ai/together-ai-discloses-prompt-leak-after-dragos-study",
+          "author": "The Defiant",
+          "description": "Together says a coding agent exposed a credential for stored prompt samples. Five credentials later tested by the intruder were canaries from a Dragos experiment.",
+          "link": "https://thedefiant.io/frontier/ai/together-ai-discloses-prompt-leak-after-dragos-study",
+          "publishedOn": "2026-11-21T23:32:49.000Z",
+          "wordCount": null,
+          "title": "Together AI Discloses Prompt Leak After Dragos Study",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/infrastructure/loudoun-pauses-data-center-votes-not-new-filings",
+          "author": "The Defiant",
+          "description": "Many of the Virginia county’s 33 active legislative applications for data centers and substations could be delayed; administrative reviews are unaffected.",
+          "link": "https://thedefiant.io/frontier/infrastructure/loudoun-pauses-data-center-votes-not-new-filings",
+          "publishedOn": "2026-11-21T20:54:00.000Z",
+          "wordCount": null,
+          "title": "Loudoun Pauses Data Center Votes, Not New Filings",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/frontier/ai/tesla-begins-fsd-v15-rollout-to-first-wave-customers",
           "author": "The Defiant",
           "description": "Musk targets December for wider availability. The update changes driving AI and visualizations, but customer FSD still requires active supervision.",
@@ -1022,26 +1042,6 @@
           "publishedOn": "2026-11-19T18:35:56.000Z",
           "wordCount": null,
           "title": "US Crypto Perps: Coinbase and Kraken Access Explained",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/sky-raises-stusds-yield-to-24-74-app-shows-0-liquidity",
-          "author": "The Defiant",
-          "description": "A borrower repaid about 414,000 USDS, and a bot contract redeemed stUSDS in the next transaction. Both preceded the rate increase. A later app snapshot showed no withdrawal liquidity.",
-          "link": "https://thedefiant.io/news/defi/sky-raises-stusds-yield-to-24-74-app-shows-0-liquidity",
-          "publishedOn": "2026-11-19T18:10:29.000Z",
-          "wordCount": null,
-          "title": "Sky Raises stUSDS Yield to 24.74%; App Shows $0 Liquidity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/anthropic-falls-below-100-after-34-nasdaq-debut-pop",
-          "author": "The Defiant",
-          "description": "Shares recovered to $100.92 by 12:30 p.m. ET, about 9.5% below the opening trade but still 21.6% above the $83 IPO price.",
-          "link": "https://thedefiant.io/frontier/ai/anthropic-falls-below-100-after-34-nasdaq-debut-pop",
-          "publishedOn": "2026-11-19T18:07:41.000Z",
-          "wordCount": null,
-          "title": "Anthropic Falls Below $100 After 34% Nasdaq Debut Pop",
           "imageUrl": null
         }
       ]
