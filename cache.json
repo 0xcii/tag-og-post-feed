@@ -45,6 +45,46 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/frontier/technology/crowdstrike-agrees-to-buy-zscaler-in-43-9b-stock-deal",
+          "author": "The Defiant",
+          "description": "The companies plan to unite device and network security on Falcon, but shareholder and regulatory approvals remain ahead.",
+          "link": "https://thedefiant.io/frontier/technology/crowdstrike-agrees-to-buy-zscaler-in-43-9b-stock-deal",
+          "publishedOn": "2026-11-23T11:13:35.000Z",
+          "wordCount": null,
+          "title": "CrowdStrike Agrees to Buy Zscaler in $43.9B Stock Deal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sky-s-stusds-rates-near-50-as-withdrawal-squeeze-persists",
+          "author": "The Defiant",
+          "description": "The lending pool still shows full utilization and no available liquidity, while a holder asks governance for a withdrawal plan and fair access to repayments.",
+          "link": "https://thedefiant.io/news/defi/sky-s-stusds-rates-near-50-as-withdrawal-squeeze-persists",
+          "publishedOn": "2026-11-23T10:50:45.000Z",
+          "wordCount": null,
+          "title": "Sky’s stUSDS Rates Near 50% as Withdrawal Squeeze Persists",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/ocbc-pilots-stablecoin-to-fiat-business-payments",
+          "author": "The Defiant",
+          "description": "NTT DOCOMO Asia is the first customer in the StraitsX trial, which lets recipients receive fiat funds in their existing OCBC accounts.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/ocbc-pilots-stablecoin-to-fiat-business-payments",
+          "publishedOn": "2026-11-23T10:22:04.000Z",
+          "wordCount": null,
+          "title": "OCBC Pilots Stablecoin-to-Fiat Business Payments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/bitquery-finds-400-btc-gap-in-maple-s-listed-wallets",
+          "author": "The Defiant",
+          "description": "Bitquery said its Nov. 18 check found 97.6% of the Bitcoin Maple reported for syrupUSDC, while estimating that counted collateral still exceeded loans.",
+          "link": "https://thedefiant.io/news/defi/bitquery-finds-400-btc-gap-in-maple-s-listed-wallets",
+          "publishedOn": "2026-11-23T04:19:13.000Z",
+          "wordCount": null,
+          "title": "Bitquery Finds 400 BTC Gap in Maple's Listed Wallets",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/hacks/fusionist-urges-ace-trading-pause-after-exploit-alert",
           "author": "The Defiant",
           "description": "Blockaid estimated about $1.04 million in USDT had been extracted as Fusionist asked users to pause ACE transfers, trades and bridging on BSC.",
@@ -1002,46 +1042,6 @@
           "publishedOn": "2026-11-19T23:48:10.000Z",
           "wordCount": null,
           "title": "Solana Resumes Upgrades With Direct-Mapping Warning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/backpack-targets-10-000-stocks-with-solana-routing-plan",
-          "author": "The Defiant",
-          "description": "Ferrante outlined a system to route wallet orders to stock-market liquidity. Board member Kyle Samani said the expansion would arrive in the next few weeks.",
-          "link": "https://thedefiant.io/news/tokens/backpack-targets-10-000-stocks-with-solana-routing-plan",
-          "publishedOn": "2026-11-19T22:44:05.000Z",
-          "wordCount": null,
-          "title": "Backpack Targets 10,000 Stocks With Solana Routing Plan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/rune-christensen-wallet-owes-half-sky-stusds-pool-debt",
-          "author": "The Defiant",
-          "description": "Liquidations for the collateral type are switched off, and the 2.5-cent price cap that governs those loans was proposed by Christensen in a forum post last year",
-          "link": "https://thedefiant.io/news/defi/rune-christensen-wallet-owes-half-sky-stusds-pool-debt",
-          "publishedOn": "2026-11-19T21:09:53.000Z",
-          "wordCount": null,
-          "title": "Wallet Tied to Rune Christensen Owes Half of Sky's Fully Borrowed Lending Pool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/mast-says-us-cleared-879-868-ai-chips-for-chinese-firms",
-          "author": "The Defiant",
-          "description": "The May snapshot covers Nvidia H200 and AMD MI325X chips across 21 applications, all listed as approved but not shipped.",
-          "link": "https://thedefiant.io/frontier/ai/mast-says-us-cleared-879-868-ai-chips-for-chinese-firms",
-          "publishedOn": "2026-11-19T20:57:46.000Z",
-          "wordCount": null,
-          "title": "Mast Says US Cleared 879,868 AI Chips for Chinese Firms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/markets/nvidia-erases-earnings-bounce-down-about-632b-since-nov-11",
-          "author": "The Defiant",
-          "description": "Shares were about 5% below their pre-earnings close Thursday afternoon, extending a decline that outpaced both semiconductor stocks and the Nasdaq 100.",
-          "link": "https://thedefiant.io/frontier/markets/nvidia-erases-earnings-bounce-down-about-632b-since-nov-11",
-          "publishedOn": "2026-11-19T20:53:06.000Z",
-          "wordCount": null,
-          "title": "Nvidia Erases Earnings Bounce, Down About $632B Since Nov. 11",
           "imageUrl": null
         }
       ]
