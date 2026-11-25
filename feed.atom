@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-25T03:24:59.493Z</id>
+    <id>urn:2026-11-25T13:54:03.908Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-25T03:24:59.493Z</updated>
+    <updated>2026-11-25T13:54:03.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US PCE Inflation Hits 3.8%; Core Exceeds Forecast]]></title>
+        <id>https://thedefiant.io/news/markets/us-pce-inflation-hits-3-8-core-exceeds-forecast</id>
+        <link href="https://thedefiant.io/news/markets/us-pce-inflation-hits-3-8-core-exceeds-forecast"/>
+        <updated>2026-11-25T13:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Core inflation reached 3.3%, above the 3.2% consensus, ahead of a December Fed meeting for which markets already favored a rate increase.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LayerZero's ZRO Falls 27%, More Than Wormhole or Axelar]]></title>
+        <id>https://thedefiant.io/news/markets/layerzero-s-zro-falls-27-more-than-wormhole-or-axelar</id>
+        <link href="https://thedefiant.io/news/markets/layerzero-s-zro-falls-27-more-than-wormhole-or-axelar"/>
+        <updated>2026-11-25T13:25:35.000Z</updated>
+        <summary type="html"><![CDATA[W and AXL fell less over the same week, while BTC and ETH lost about 8%. Newly opened Zero staking offers holders no early exit.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bit Digital Sells 29,825 ETH to Halve Galaxy Debt]]></title>
+        <id>https://thedefiant.io/news/cefi/bit-digital-sells-29-825-eth-to-halve-galaxy-debt</id>
+        <link href="https://thedefiant.io/news/cefi/bit-digital-sells-29-825-eth-to-halve-galaxy-debt"/>
+        <updated>2026-11-25T13:13:23.000Z</updated>
+        <summary type="html"><![CDATA[The company retains about 134,532 ETH and equivalents, including liquid-staking tokens pledged against its remaining $50 million Galaxy loan.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine Passes Bill to Regulate and Tax Crypto Assets]]></title>
+        <id>https://thedefiant.io/news/regulation/ukraine-passes-bill-to-regulate-and-tax-crypto-assets</id>
+        <link href="https://thedefiant.io/news/regulation/ukraine-passes-bill-to-regulate-and-tax-crypto-assets"/>
+        <updated>2026-11-25T11:06:57.000Z</updated>
+        <summary type="html"><![CDATA[The measure won 271 votes and would put crypto platforms under shared regulatory oversight, with a July 2027 start planned. The signature process remains incomplete.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Proposes Quantum Act to Turn Research Into Products]]></title>
+        <id>https://thedefiant.io/frontier/regulation/eu-proposes-quantum-act-to-turn-research-into-products</id>
+        <link href="https://thedefiant.io/frontier/regulation/eu-proposes-quantum-act-to-turn-research-into-products"/>
+        <updated>2026-11-25T09:33:31.000Z</updated>
+        <summary type="html"><![CDATA[The draft would coordinate national programmes and enable a tech equity fund, but allocates no fixed budget and still needs lawmakers’ approval.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBI, SMFG Launch Solana Venture for Onchain Finance]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/sbi-smfg-launch-solana-venture-for-onchain-finance</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/sbi-smfg-launch-solana-venture-for-onchain-finance"/>
+        <updated>2026-11-25T09:18:12.000Z</updated>
+        <summary type="html"><![CDATA[The former SBI R3 Japan will target stablecoin payments and tokenized assets, establishing Japanese use cases before expanding overseas.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HKMA Launches CMU Platform for Tokenized Bond Settlement]]></title>
+        <id>https://thedefiant.io/converge/tradfi-and-fintech/hkma-launches-cmu-platform-for-tokenized-bond-settlement</id>
+        <link href="https://thedefiant.io/converge/tradfi-and-fintech/hkma-launches-cmu-platform-for-tokenized-bond-settlement"/>
+        <updated>2026-11-25T08:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Ten banks have joined the permissioned system, while connections to tokenized deposits and regulated stablecoins remain on its expansion roadmap.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[French Senate Rejects €100,000 Crypto Wallet Rule]]></title>
+        <id>https://thedefiant.io/news/regulation/french-senate-rejects-100-000-crypto-wallet-rule</id>
+        <link href="https://thedefiant.io/news/regulation/french-senate-rejects-100-000-crypto-wallet-rule"/>
+        <updated>2026-11-25T05:44:38.000Z</updated>
+        <summary type="html"><![CDATA[Senators also rejected proposals to tax gains on swaps into certain stablecoins and extend the exit tax to crypto. The 2027 budget remains under debate.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MON Hits Record Low After First Insider Lockup Ends]]></title>
+        <id>https://thedefiant.io/news/tokens/mon-hits-record-low-after-first-insider-lockup-ends</id>
+        <link href="https://thedefiant.io/news/tokens/mon-hits-record-low-after-first-insider-lockup-ends"/>
+        <updated>2026-11-25T04:38:54.000Z</updated>
+        <summary type="html"><![CDATA[About 16.6 billion MON became eligible for release under Monad's vesting schedule—roughly 1.4 times its pre-unlock circulating supply.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taiwan Stocks Sink as Much as 8.6% After 9% Rally]]></title>
         <id>https://thedefiant.io/frontier/markets/taiwan-stocks-sink-as-much-as-8-6-after-9-rally</id>
@@ -496,16 +586,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Metric Captured 60% of $ANT IPO Volume While Cash Left Crypto]]></title>
-        <id>https://news.todayindefi.com/p/metric-captured-60-of-ant-ipo-volume</id>
-        <link href="https://news.todayindefi.com/p/metric-captured-60-of-ant-ipo-volume"/>
-        <updated>2026-11-24T08:03:04.000Z</updated>
-        <summary type="html"><![CDATA[What the on-chain data says about risk this week, and which projects are moving.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[South Korea Proposes ICO Return, Exchange Ownership Cap]]></title>
         <id>https://thedefiant.io/news/regulation/south-korea-proposes-ico-return-exchange-ownership-cap</id>
         <link href="https://thedefiant.io/news/regulation/south-korea-proposes-ico-return-exchange-ownership-cap"/>
@@ -926,299 +1006,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia Jumps 31% at Close After Huang Returns as CEO]]></title>
-        <id>https://thedefiant.io/frontier/markets/nvidia-jumps-31-at-close-after-huang-returns-as-ceo</id>
-        <link href="https://thedefiant.io/frontier/markets/nvidia-jumps-31-at-close-after-huang-returns-as-ceo"/>
-        <updated>2026-11-24T03:11:34.000Z</updated>
-        <summary type="html"><![CDATA[The rebound recovered about 82% of the per-share slide from Nov. 11 through Nov. 20. The board's investigation remains open.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky Halts New DAI Borrowing From Five Maker Vault Types]]></title>
-        <id>https://thedefiant.io/news/defi/sky-halts-new-dai-borrowing-from-five-maker-vault-types</id>
-        <link href="https://thedefiant.io/news/defi/sky-halts-new-dai-borrowing-from-five-maker-vault-types"/>
-        <updated>2026-11-24T01:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Five ETH and wstETH vault types now have zero debt ceilings. Existing borrowers can still repay and manage collateral, but liquidation risk remains.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy's Estimated Equity Value Trails Its Bitcoin]]></title>
-        <id>https://thedefiant.io/news/markets/strategy-s-estimated-equity-value-trails-its-bitcoin</id>
-        <link href="https://thedefiant.io/news/markets/strategy-s-estimated-equity-value-trails-its-bitcoin"/>
-        <updated>2026-11-24T01:11:14.000Z</updated>
-        <summary type="html"><![CDATA[An after-hours estimate puts equity at about 0.70 times gross BTC value. Strategy uses a separate, net-bitcoin measure to assess share-funded purchases.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avalanche Announces Dedicated Chain for UAE PASS Vault]]></title>
-        <id>https://thedefiant.io/news/infrastructure/avalanche-announces-dedicated-chain-for-uae-pass-vault</id>
-        <link href="https://thedefiant.io/news/infrastructure/avalanche-announces-dedicated-chain-for-uae-pass-vault"/>
-        <updated>2026-11-24T01:05:20.000Z</updated>
-        <summary type="html"><![CDATA[The upgrade concerns an existing blockchain-backed document service. Avalanche’s 12.5 million-user figure refers to the wider national identity platform.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDC Supply Falls 84% in Morpho’s USDe Market on Base]]></title>
-        <id>https://thedefiant.io/news/defi/usdc-supply-falls-84-in-morpho-s-usde-market-on-base</id>
-        <link href="https://thedefiant.io/news/defi/usdc-supply-falls-84-in-morpho-s-usde-market-on-base"/>
-        <updated>2026-11-24T00:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Loans fell to 50.8 million USDC, while the share of supplied funds on loan ended lower despite temporary tightness during the contraction.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threshold Votes to Replace T Rebates With Peg Keepers]]></title>
-        <id>https://thedefiant.io/news/defi/threshold-votes-to-replace-t-rebates-with-peg-keepers</id>
-        <link href="https://thedefiant.io/news/defi/threshold-votes-to-replace-t-rebates-with-peg-keepers"/>
-        <updated>2026-11-23T23:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Council approval will replace T staking as the basis for preferential tBTC fees. Existing rebates continue until at least Dec. 24, 2026, at 00:00 UTC.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Staff Clarifies Crypto Use in Operating Reserves]]></title>
-        <id>https://thedefiant.io/converge/regulation/cftc-staff-clarifies-crypto-use-in-operating-reserves</id>
-        <link href="https://thedefiant.io/converge/regulation/cftc-staff-clarifies-crypto-use-in-operating-reserves"/>
-        <updated>2026-11-23T22:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Staff guidance points to valuation discounts of at least 20% for bitcoin and ether and 2% for qualifying payment stablecoins. These assets cannot meet the operating-resource liquidity minimum.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FinCEN Flags $14.7 Billion in Potential Iran Shadow Banking]]></title>
-        <id>https://thedefiant.io/converge/regulation/fincen-flags-14-7-billion-in-potential-iran-shadow-banking</id>
-        <link href="https://thedefiant.io/converge/regulation/fincen-flags-14-7-billion-in-potential-iran-shadow-banking"/>
-        <updated>2026-11-23T22:18:49.000Z</updated>
-        <summary type="html"><![CDATA[The analysis highlights front companies and cross-border bank transfers, but does not quantify a crypto or stablecoin share of the potentially Iran-linked activity.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Unifies Connectors and Skills in One Plugins Hub]]></title>
-        <id>https://thedefiant.io/frontier/ai/claude-unifies-connectors-and-skills-in-one-plugins-hub</id>
-        <link href="https://thedefiant.io/frontier/ai/claude-unifies-connectors-and-skills-in-one-plugins-hub"/>
-        <updated>2026-11-23T21:54:04.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic says the new Plugins experience is live on Free, Pro, Max and Ultra, with Team and Enterprise coming soon. It advertises more than 10,000 plugins to browse.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variational Raised $110M, ChainFlip Hacked For $12M]]></title>
-        <id>https://news.todayindefi.com/p/variational-raised-110m-chainflip</id>
-        <link href="https://news.todayindefi.com/p/variational-raised-110m-chainflip"/>
-        <updated>2026-11-23T08:02:00.000Z</updated>
-        <summary type="html"><![CDATA[The week’s biggest DeFi stories, hacks and launches, each with an official source.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metric’s PropAMM Earns >40% APR and Beat Arb Bots]]></title>
-        <id>https://news.todayindefi.com/p/metrics-propamm-earns-40-apr-and</id>
-        <link href="https://news.todayindefi.com/p/metrics-propamm-earns-40-apr-and"/>
-        <updated>2026-11-20T08:00:59.000Z</updated>
-        <summary type="html"><![CDATA[By Danger, Today in DeFi Founder]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lend USDC For 12% APR, Lock 11% APR]]></title>
-        <id>https://news.todayindefi.com/p/lend-usdc-for-12-apr-lock-11-apr</id>
-        <link href="https://news.todayindefi.com/p/lend-usdc-for-12-apr-lock-11-apr"/>
-        <updated>2026-11-19T08:02:09.000Z</updated>
-        <summary type="html"><![CDATA[Selected picks across USD stables and ETH. APYs are current as of today — verify live before entering.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InfiniFi Airdrop Live, Predict.Fun TGE Postponed - Airdrop Alpha]]></title>
-        <id>https://news.todayindefi.com/p/extended-checker-live-predictfun</id>
-        <link href="https://news.todayindefi.com/p/extended-checker-live-predictfun"/>
-        <updated>2026-11-18T08:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Live claims, new points programs, and token launches worth your time.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap and Aero Grew Revenue While $4.1B Left Crypto.]]></title>
-        <id>https://news.todayindefi.com/p/uniswap-and-aero-grew-revenue-while</id>
-        <link href="https://news.todayindefi.com/p/uniswap-and-aero-grew-revenue-while"/>
-        <updated>2026-11-17T08:02:35.000Z</updated>
-        <summary type="html"><![CDATA[Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variational Opens to Public, Maple’s Co-Founder Resigned]]></title>
-        <id>https://news.todayindefi.com/p/variational-omni-opens-to-public</id>
-        <link href="https://news.todayindefi.com/p/variational-omni-opens-to-public"/>
-        <updated>2026-11-16T08:32:29.000Z</updated>
-        <summary type="html"><![CDATA[Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lock 8% Stable Yield, Earn 11% From Low Risk LP]]></title>
-        <id>https://news.todayindefi.com/p/lock-8-stable-yield-earn-11-from</id>
-        <link href="https://news.todayindefi.com/p/lock-8-stable-yield-earn-11-from"/>
-        <updated>2026-11-12T08:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Selected picks across USD stables and ETH. APYs are current as of today — verify live before entering.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Labs Backed Trading App, Saturn Registration Live - Airdrop Alpha]]></title>
-        <id>https://news.todayindefi.com/p/solana-labs-backed-trading-app-saturn</id>
-        <link href="https://news.todayindefi.com/p/solana-labs-backed-trading-app-saturn"/>
-        <updated>2026-11-11T08:02:15.000Z</updated>
-        <summary type="html"><![CDATA[Today’s News Headlines:]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arc Grew Amidst Capital Leaving Crypto]]></title>
-        <id>https://news.todayindefi.com/p/arc-grew-amidst-capital-leaving-crypto</id>
-        <link href="https://news.todayindefi.com/p/arc-grew-amidst-capital-leaving-crypto"/>
-        <updated>2026-11-10T08:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid L2 Elysium Launches, US Approves Stock Perps]]></title>
-        <id>https://news.todayindefi.com/p/hyperliquid-l2-elysium-launches-us</id>
-        <link href="https://news.todayindefi.com/p/hyperliquid-l2-elysium-launches-us"/>
-        <updated>2026-11-09T08:03:19.000Z</updated>
-        <summary type="html"><![CDATA[Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16% on Stablecoins: How to Loop sfrxUSD on Curve’s LlamaLend]]></title>
-        <id>https://news.todayindefi.com/p/16-on-stablecoins-how-to-loop-sfrxusd</id>
-        <link href="https://news.todayindefi.com/p/16-on-stablecoins-how-to-loop-sfrxusd"/>
-        <updated>2026-11-06T08:01:12.000Z</updated>
-        <summary type="html"><![CDATA[Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lend USDC For 9%, LP for 14% APY - Farming Alpha]]></title>
-        <id>https://news.todayindefi.com/p/lend-usdc-for-9-lp-for-14-apy-farming</id>
-        <link href="https://news.todayindefi.com/p/lend-usdc-for-9-lp-for-14-apy-farming"/>
-        <updated>2026-11-05T08:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Selected picks across USD stables and ETH. APYs are current as of today — verify live before entering.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[D is for Dilution]]></title>
         <id>https://medium.com/p/dc9ffc3ac6d1</id>
         <link href="https://cryptohayes.medium.com/d-is-for-dilution-dc9ffc3ac6d1?source=rss-2f6e06954878------2"/>
         <updated>2026-11-05T02:36:01.000Z</updated>
-        <author>
-            <name>Arthur Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InfiniFi Airdrop Registration, Trade Stocks for Points on StableStock - Airdrop Alpha]]></title>
-        <id>https://news.todayindefi.com/p/infinifi-airdrop-registration-trade</id>
-        <link href="https://news.todayindefi.com/p/infinifi-airdrop-registration-trade"/>
-        <updated>2026-11-04T08:01:22.000Z</updated>
-        <summary type="html"><![CDATA[Pick your section on news.todayindefi.com — News, Onchain Analysis, Airdrops, Farms, Guides — and get only the content relevant to what you actually trade.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYPE Rallied on Wall Street Catalysts While Crypto Bleeds]]></title>
-        <id>https://news.todayindefi.com/p/hype-rallied-on-wall-street-catalysts</id>
-        <link href="https://news.todayindefi.com/p/hype-rallied-on-wall-street-catalysts"/>
-        <updated>2026-11-03T08:02:05.000Z</updated>
-        <summary type="html"><![CDATA[Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Covers Losses, ICE Launching Perps on Hyperliquid]]></title>
-        <id>https://news.todayindefi.com/p/binance-covers-losses-ice-launching</id>
-        <link href="https://news.todayindefi.com/p/binance-covers-losses-ice-launching"/>
-        <updated>2026-11-02T08:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Hacked for $6.3 Billion in Largest Crypto Hack Ever]]></title>
-        <id>https://news.todayindefi.com/p/binance-hacked-for-63-billion-in</id>
-        <link href="https://news.todayindefi.com/p/binance-hacked-for-63-billion-in"/>
-        <updated>2026-10-30T07:40:38.000Z</updated>
-        <summary type="html"><![CDATA[Last updated: 05:00 UTC, October 30, 2026]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lock 12%, Lend For 10%: Risk-Rated Stablecoin Farms]]></title>
-        <id>https://news.todayindefi.com/p/lock-12-lend-10-risk-rated-stablecoin</id>
-        <link href="https://news.todayindefi.com/p/lock-12-lend-10-risk-rated-stablecoin"/>
-        <updated>2026-10-29T08:02:49.000Z</updated>
-        <summary type="html"><![CDATA[Selected picks across USD stables and ETH. APYs are current as of today — verify live before entering.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jumper xPerps Points Live, StandX Checker Live - Airdrop Alpha]]></title>
-        <id>https://news.todayindefi.com/p/jumper-xperps-points-live-standx</id>
-        <link href="https://news.todayindefi.com/p/jumper-xperps-points-live-standx"/>
-        <updated>2026-10-28T08:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Pick your section on news.todayindefi.com — News, Onchain Analysis, Airdrops, Farms, Guides — and get only the content relevant to what you actually trade.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Small $17M DEX did $1.5B in Weekly Volume]]></title>
-        <id>https://news.todayindefi.com/p/this-small-17m-dex-did-15b-in-weekly</id>
-        <link href="https://news.todayindefi.com/p/this-small-17m-dex-did-15b-in-weekly"/>
-        <updated>2026-10-27T08:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Subscribe for daily free DeFi news covering launches, tradable catalysts, and actionable farming opportunities.]]></summary>
-        <author>
-            <name>Today in DeFi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trifecta]]></title>
-        <id>https://medium.com/p/f5f018d50e8d</id>
-        <link href="https://cryptohayes.medium.com/the-trifecta-f5f018d50e8d?source=rss-2f6e06954878------2"/>
-        <updated>2026-10-26T23:01:02.000Z</updated>
         <author>
             <name>Arthur Hayes</name>
         </author>
