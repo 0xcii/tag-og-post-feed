@@ -35,6 +35,306 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
+          "author": "The Defiant",
+          "description": "Each coin's creator wallet will be exempt, but other wallets would pay even if the creator controls them. The fee rate remains unannounced.",
+          "link": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
+          "publishedOn": "2026-11-25T22:43:35.000Z",
+          "wordCount": null,
+          "title": "Pump.fun Plans 'Block0' Fee on New Launches From Dec. 4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/convex-tvl-falls-33-more-than-twice-curve-s-decline",
+          "author": "The Defiant",
+          "description": "DefiLlama's daily snapshots show a $188 million contraction over 30 days. The change in dollar value is not a measure of withdrawals.",
+          "link": "https://thedefiant.io/news/defi/convex-tvl-falls-33-more-than-twice-curve-s-decline",
+          "publishedOn": "2026-11-25T22:13:33.000Z",
+          "wordCount": null,
+          "title": "Convex TVL Falls 33%, More Than Twice Curve's Decline",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/security/aaronson-qualifies-unverified-ai-factoring-rumors",
+          "author": "The Defiant",
+          "description": "Ledger's CTO doubts a complete cryptographic break. As of Nov. 25, The Defiant found no public confirmation of a polynomial-time factoring algorithm at either AI lab.",
+          "link": "https://thedefiant.io/news/security/aaronson-qualifies-unverified-ai-factoring-rumors",
+          "publishedOn": "2026-11-25T22:06:15.000Z",
+          "wordCount": null,
+          "title": "Aaronson Qualifies Unverified AI Factoring Rumors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/ai/openai-tests-private-inference-with-select-customers",
+          "author": "The Defiant",
+          "description": "The API preview promises confidential computing and verifiable controls. NEAR AI's founder argues that checking the computing environment is only part of the trust question.",
+          "link": "https://thedefiant.io/frontier/ai/openai-tests-private-inference-with-select-customers",
+          "publishedOn": "2026-11-25T21:42:02.000Z",
+          "wordCount": null,
+          "title": "OpenAI Tests Private Inference With Select Customers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/technology/neuralink-says-fda-approved-pivotal-brain-implant-trial",
+          "author": "The Defiant",
+          "description": "The LINK study is recruiting adults with ALS in the US to test digital-device control. The N1 implant remains investigational.",
+          "link": "https://thedefiant.io/frontier/technology/neuralink-says-fda-approved-pivotal-brain-implant-trial",
+          "publishedOn": "2026-11-25T21:15:03.000Z",
+          "wordCount": null,
+          "title": "Neuralink Says FDA Approved Pivotal Brain-Implant Trial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/venice-token-gains-33-while-bitcoin-and-tao-retreat",
+          "author": "The Defiant",
+          "description": "Founder Erik Voorhees says Venice's annualized revenue has passed $200 million as the AI platform adds two ways to burn VVV.",
+          "link": "https://thedefiant.io/news/markets/venice-token-gains-33-while-bitcoin-and-tao-retreat",
+          "publishedOn": "2026-11-25T21:14:30.000Z",
+          "wordCount": null,
+          "title": "Venice Token Gains 33% While Bitcoin and TAO Retreat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sky-s-rune-pursues-stusds-deal-as-withdrawal-squeeze-persists",
+          "author": "The Defiant",
+          "description": "The Sky co-founder previously said he owed about 77 million USDS and was exploring direct SKY sales to institutional investors to fund repayment.",
+          "link": "https://thedefiant.io/news/defi/sky-s-rune-pursues-stusds-deal-as-withdrawal-squeeze-persists",
+          "publishedOn": "2026-11-25T20:06:17.000Z",
+          "wordCount": null,
+          "title": "Sky’s Rune Pursues stUSDS Deal as Withdrawal Squeeze Persists",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/security/1password-says-breach-exposed-account-data-not-vaults",
+          "author": "The Defiant",
+          "description": "The company says an attacker copied account information for a subset of customers through a compromised employee GitHub account. It advises vigilance against phishing, not password resets.",
+          "link": "https://thedefiant.io/news/security/1password-says-breach-exposed-account-data-not-vaults",
+          "publishedOn": "2026-11-25T19:29:48.000Z",
+          "wordCount": null,
+          "title": "1Password Says Breach Exposed Account Data, Not Vaults",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/fidelity-files-for-spot-chainlink-fund-on-nasdaq",
+          "author": "The Defiant",
+          "description": "The proposed LINK product would hold tokens directly without staking them, joining a market already served by Grayscale and Bitwise. The filing is not a launch.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/fidelity-files-for-spot-chainlink-fund-on-nasdaq",
+          "publishedOn": "2026-11-25T19:05:25.000Z",
+          "wordCount": null,
+          "title": "Fidelity Files for Spot Chainlink Fund on Nasdaq",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/regulation/us-bitcoin-reserve-bill-reaches-house-union-calendar",
+          "author": "The Defiant",
+          "description": "Section 5 calls for federally acquired reserve bitcoin to be held for 20 years from enactment. House passage remains pending.",
+          "link": "https://thedefiant.io/news/regulation/us-bitcoin-reserve-bill-reaches-house-union-calendar",
+          "publishedOn": "2026-11-25T19:05:10.000Z",
+          "wordCount": null,
+          "title": "US Bitcoin Reserve Bill Reaches House Union Calendar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/eu-rejects-us-overcapacity-finding-defends-15-tariff-cap",
+          "author": "The Defiant",
+          "description": "Brussels said proposed duties must respect its negotiated 15% ceiling. USTR's published plan accounts for existing tariffs, with a hearing set for Jan. 25.",
+          "link": "https://thedefiant.io/news/markets/eu-rejects-us-overcapacity-finding-defends-15-tariff-cap",
+          "publishedOn": "2026-11-25T19:04:37.000Z",
+          "wordCount": null,
+          "title": "EU Rejects US Overcapacity Finding, Defends 15% Tariff Cap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/cow-swap-fees-double-with-ethereum-driving-the-gain",
+          "author": "The Defiant",
+          "description": "Ethereum accounted for about 92% of the increase, while four days generated nearly 39% of the latest month's fees.",
+          "link": "https://thedefiant.io/news/defi/cow-swap-fees-double-with-ethereum-driving-the-gain",
+          "publishedOn": "2026-11-25T19:01:06.000Z",
+          "wordCount": null,
+          "title": "CoW Swap Fees Double, With Ethereum Driving the Gain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/ai/state-ags-seek-to-block-character-ai-s-chat-data-sale",
+          "author": "The Defiant",
+          "description": "The states want sensitive records excluded and affirmative consent before other chats change hands in the proposed bankruptcy sale.",
+          "link": "https://thedefiant.io/frontier/ai/state-ags-seek-to-block-character-ai-s-chat-data-sale",
+          "publishedOn": "2026-11-25T19:00:17.000Z",
+          "wordCount": null,
+          "title": "State AGs Seek to Block Character.AI’s Chat Data Sale",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/markets/s-p-puts-nvidia-s-aa-credit-rating-on-downgrade-watch",
+          "author": "The Defiant",
+          "description": "The ratings remain AA, but S&P has replaced Nvidia's stable status with a negative watch, citing rising management and governance risk.",
+          "link": "https://thedefiant.io/frontier/markets/s-p-puts-nvidia-s-aa-credit-rating-on-downgrade-watch",
+          "publishedOn": "2026-11-25T18:59:04.000Z",
+          "wordCount": null,
+          "title": "S&P Puts Nvidia's AA Credit Rating on Downgrade Watch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/security/bithumb-confirms-wider-exposure-in-october-data-leak",
+          "author": "The Defiant",
+          "description": "The exchange's updated disclosure lists copies of identity documents, bank account numbers and crypto wallet addresses, with exposed records varying by person.",
+          "link": "https://thedefiant.io/news/security/bithumb-confirms-wider-exposure-in-october-data-leak",
+          "publishedOn": "2026-11-25T18:53:17.000Z",
+          "wordCount": null,
+          "title": "Bithumb Confirms Wider Exposure in October Data Leak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/hacks/tether-sought-20-fees-from-some-hack-victims-bloomberg",
+          "author": "The Defiant",
+          "description": "Tether says fees help cover reissuance and legal costs. Bloomberg reported that Bittok is still waiting for frozen USDT more than five years after a hack.",
+          "link": "https://thedefiant.io/news/hacks/tether-sought-20-fees-from-some-hack-victims-bloomberg",
+          "publishedOn": "2026-11-25T18:46:07.000Z",
+          "wordCount": null,
+          "title": "Tether Sought 20% Fees From Some Hack Victims: Bloomberg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/ai/openai-claims-exact-square-matrix-multiplication-exponent",
+          "author": "The Defiant",
+          "description": "The claimed exponent of 2.25 would set a floor on arithmetic scaling for exact square matrix multiplication in the paper’s model. It is not a GPU benchmark.",
+          "link": "https://thedefiant.io/frontier/ai/openai-claims-exact-square-matrix-multiplication-exponent",
+          "publishedOn": "2026-11-25T18:42:07.000Z",
+          "wordCount": null,
+          "title": "OpenAI Claims Exact Square Matrix Multiplication Exponent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/blockchains/solana-direct-mapping-set-for-mainnet-today-anza-says",
+          "author": "The Defiant",
+          "description": "The copy-removal switch is scheduled for epoch 1097. Stricter memory checks are already listed as active, putting unsafe program code at risk.",
+          "link": "https://thedefiant.io/news/blockchains/solana-direct-mapping-set-for-mainnet-today-anza-says",
+          "publishedOn": "2026-11-25T18:41:30.000Z",
+          "wordCount": null,
+          "title": "Solana Direct Mapping Set for Mainnet Today, Anza Says",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/markets/polymarket-opens-gpu-rental-price-bets-through-2028",
+          "author": "The Defiant",
+          "description": "The H100, B200 and B300 contracts settle against Ornn rental-price indices, offering a forecast rather than a reservation for computing power.",
+          "link": "https://thedefiant.io/frontier/markets/polymarket-opens-gpu-rental-price-bets-through-2028",
+          "publishedOn": "2026-11-25T18:24:21.000Z",
+          "wordCount": null,
+          "title": "Polymarket Opens GPU Rental-Price Bets Through 2028",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/curve-fees-rise-61-as-yieldbasis-lp-fees-more-than-double",
+          "author": "The Defiant",
+          "description": "YieldBasis-linked pool fees allocated to liquidity providers rose to $2.80 million, while DefiLlama's Curve revenue measure grew a slower 14.7%.",
+          "link": "https://thedefiant.io/news/defi/curve-fees-rise-61-as-yieldbasis-lp-fees-more-than-double",
+          "publishedOn": "2026-11-25T17:57:11.000Z",
+          "wordCount": null,
+          "title": "Curve Fees Rise 61% as YieldBasis LP Fees More Than Double",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/markets/coreweave-banks-plan-4-5-billion-meta-tied-loan-sale",
+          "author": "The Defiant",
+          "description": "Bloomberg says the pending financing would pay for GPUs at a Georgia data center, with the debt repaid gradually over the loan's life.",
+          "link": "https://thedefiant.io/frontier/markets/coreweave-banks-plan-4-5-billion-meta-tied-loan-sale",
+          "publishedOn": "2026-11-25T17:49:55.000Z",
+          "wordCount": null,
+          "title": "CoreWeave Banks Plan $4.5 Billion Meta-Tied Loan Sale",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/security/braiins-says-attacker-hijacked-hashrate-at-1-000-sites",
+          "author": "The Defiant",
+          "description": "The pool operator says unencrypted connections let an impostor divert miners' work, and urges operators to secure primary and backup pool links.",
+          "link": "https://thedefiant.io/news/security/braiins-says-attacker-hijacked-hashrate-at-1-000-sites",
+          "publishedOn": "2026-11-25T17:36:45.000Z",
+          "wordCount": null,
+          "title": "Braiins Says Attacker Hijacked Hashrate at 1,000+ Sites",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/base-drives-morpho-blue-s-66-monthly-fee-increase",
+          "author": "The Defiant",
+          "description": "Base accounted for 83% of the increase in a metric combining borrower interest and liquidation bonuses—not Morpho’s own revenue.",
+          "link": "https://thedefiant.io/news/defi/base-drives-morpho-blue-s-66-monthly-fee-increase",
+          "publishedOn": "2026-11-25T17:28:03.000Z",
+          "wordCount": null,
+          "title": "Base Drives Morpho Blue’s 66% Monthly Fee Increase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/tokens/bitway-s-btw-rallies-nearly-84-as-bitcoin-drops-7",
+          "author": "The Defiant",
+          "description": "CoinGecko reports $6.49 million in daily trading against a $1.35 billion circulating valuation, while the rebound has yet to erase BTW's 30-day loss.",
+          "link": "https://thedefiant.io/news/tokens/bitway-s-btw-rallies-nearly-84-as-bitcoin-drops-7",
+          "publishedOn": "2026-11-25T17:13:44.000Z",
+          "wordCount": null,
+          "title": "Bitway's BTW Rallies Nearly 84% as Bitcoin Drops 7%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/infrastructure/fcc-conditionally-approves-spacex-s-million-satellite-ai-plan",
+          "author": "The Defiant",
+          "description": "The conditional Starmind grant covers backup radio links, requires more safety information for higher orbits and sets a 2040 deployment deadline.",
+          "link": "https://thedefiant.io/frontier/infrastructure/fcc-conditionally-approves-spacex-s-million-satellite-ai-plan",
+          "publishedOn": "2026-11-25T17:13:13.000Z",
+          "wordCount": null,
+          "title": "FCC Conditionally Approves SpaceX's Million-Satellite AI Plan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/research-and-opinion/how-anthropic-s-tokens-traded-through-their-first-sessions-and-weekend",
+          "author": "RedStone",
+          "description": "Anthropic's eight tokens tracked Nasdaq within about 1% at every close in their first three sessions. Underneath, the price was set on a perpetual that traded 24 times their combined volume, and the first weekend left two order books for the same share about 0.6% apart.",
+          "link": "https://thedefiant.io/news/research-and-opinion/how-anthropic-s-tokens-traded-through-their-first-sessions-and-weekend",
+          "publishedOn": "2026-11-25T16:24:44.000Z",
+          "wordCount": null,
+          "title": "How Anthropic's Tokens Traded Through Their First Sessions and Weekend",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/stusds-seller-accepts-roughly-11-discount-on-curve",
+          "author": "The Defiant",
+          "description": "Sky.money displayed $0 withdrawal liquidity, while a posted CoW Swap orderbook snapshot showed a gap between sellers’ asking prices and buyers’ bids.",
+          "link": "https://thedefiant.io/news/defi/stusds-seller-accepts-roughly-11-discount-on-curve",
+          "publishedOn": "2026-11-25T16:05:38.000Z",
+          "wordCount": null,
+          "title": "stUSDS Seller Accepts Roughly 11% Discount on Curve",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wallet-adds-usdc-paycheck-deposits-on-base",
+          "author": "The Defiant",
+          "description": "The US rollout converts incoming dollars one-for-one into USDC. Users must pass identity checks, and the resulting crypto balance is not an insured bank deposit.",
+          "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-wallet-adds-usdc-paycheck-deposits-on-base",
+          "publishedOn": "2026-11-25T15:22:48.000Z",
+          "wordCount": null,
+          "title": "Coinbase Wallet Adds USDC Paycheck Deposits on Base",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/frontier/markets/nasdaq-100-tests-bear-market-line-as-chip-shares-slide",
+          "author": "The Defiant",
+          "description": "The index was back above the 20% drawdown line by 10:01 a.m. ET, while earlier readings showed sharp daily losses in Nvidia and semiconductor shares.",
+          "link": "https://thedefiant.io/frontier/markets/nasdaq-100-tests-bear-market-line-as-chip-shares-slide",
+          "publishedOn": "2026-11-25T15:12:36.000Z",
+          "wordCount": null,
+          "title": "Nasdaq 100 Tests Bear-Market Line as Chip Shares Slide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/markets/us-growth-revised-to-4-3-ahead-of-fed-rate-decision",
+          "author": "The Defiant",
+          "description": "Stronger investment and consumer spending drove the GDP upgrade as core PCE inflation topped forecasts ahead of the Fed’s Dec. 8–9 meeting.",
+          "link": "https://thedefiant.io/news/markets/us-growth-revised-to-4-3-ahead-of-fed-rate-decision",
+          "publishedOn": "2026-11-25T14:54:35.000Z",
+          "wordCount": null,
+          "title": "US Growth Revised to 4.3% Ahead of Fed Rate Decision",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/markets/us-pce-inflation-hits-3-8-core-exceeds-forecast",
           "author": "The Defiant",
           "description": "Core inflation reached 3.3%, above the 3.2% consensus, ahead of a December Fed meeting for which markets already favored a rate increase.",
@@ -732,306 +1032,6 @@
           "publishedOn": "2026-11-24T04:48:18.000Z",
           "wordCount": null,
           "title": "Jito Plan Puts Foundation First for New Network Fees",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/infrastructure/microsoft-outage-review-finds-gaps-in-server-testing",
-          "author": "The Defiant",
-          "description": "All queued enterprise email was delivered, Microsoft says, but some messages to inactive consumer mailboxes expired.",
-          "link": "https://thedefiant.io/frontier/infrastructure/microsoft-outage-review-finds-gaps-in-server-testing",
-          "publishedOn": "2026-11-24T04:47:15.000Z",
-          "wordCount": null,
-          "title": "Microsoft Outage Review Finds Gaps in Server Testing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/cftc-finalizes-reporting-rules-for-event-contracts",
-          "author": "The Defiant",
-          "description": "The rule gives qualifying contracts a futures-style reporting framework, while requiring exchanges to collect trader identities and publish trade data.",
-          "link": "https://thedefiant.io/converge/regulation/cftc-finalizes-reporting-rules-for-event-contracts",
-          "publishedOn": "2026-11-24T04:43:30.000Z",
-          "wordCount": null,
-          "title": "CFTC Finalizes Reporting Rules for Event Contracts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/epoch-ai-rates-three-agent-benchmarks-as-flawed",
-          "author": "The Defiant",
-          "description": "Epoch found full-credit shortcuts in 22 of 50 sampled Agents' Last Exam tasks. Its latest reviews also flagged Vending-Bench 2 and ARC-AGI-3.",
-          "link": "https://thedefiant.io/frontier/ai/epoch-ai-rates-three-agent-benchmarks-as-flawed",
-          "publishedOn": "2026-11-24T04:37:45.000Z",
-          "wordCount": null,
-          "title": "Epoch AI Rates Three Agent Benchmarks as 'Flawed'",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/hacks/chainflip-suspects-key-theft-in-12-6-million-vault-hack",
-          "author": "The Defiant",
-          "description": "The first report identifies validly signed transfers outside the protocol but leaves parts of the suspected key theft unconfirmed. Services remain paused.",
-          "link": "https://thedefiant.io/news/hacks/chainflip-suspects-key-theft-in-12-6-million-vault-hack",
-          "publishedOn": "2026-11-24T04:36:59.000Z",
-          "wordCount": null,
-          "title": "Chainflip Suspects Key Theft in $12.6 Million Vault Hack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/baidu-opens-ernie-5-5-flash-preview-under-apache-2-0",
-          "author": "The Defiant",
-          "description": "The 280-billion-parameter model can be self-hosted and fine-tuned for commercial use. Its permissive license does not extend to ERNIE 5.5 Flash Base.",
-          "link": "https://thedefiant.io/frontier/ai/baidu-opens-ernie-5-5-flash-preview-under-apache-2-0",
-          "publishedOn": "2026-11-24T04:22:37.000Z",
-          "wordCount": null,
-          "title": "Baidu Opens ERNIE 5.5 Flash Preview Under Apache 2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/anthropic-opens-beta-for-zero-retention-ai-safeguards",
-          "author": "The Defiant",
-          "description": "Once EFS takes effect, Anthropic says its normal workflow promptly deletes its own prompt and response copies after writing encrypted records to customer storage.",
-          "link": "https://thedefiant.io/frontier/ai/anthropic-opens-beta-for-zero-retention-ai-safeguards",
-          "publishedOn": "2026-11-24T04:21:25.000Z",
-          "wordCount": null,
-          "title": "Anthropic Opens Beta for Zero-Retention AI Safeguards",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/technology/tesla-opens-cybercab-rides-in-dallas-its-second-city",
-          "author": "The Defiant",
-          "description": "The two-seat vehicle expands beyond Austin after federal regulators opened an inquiry into Tesla’s safety certification.",
-          "link": "https://thedefiant.io/frontier/technology/tesla-opens-cybercab-rides-in-dallas-its-second-city",
-          "publishedOn": "2026-11-24T04:19:45.000Z",
-          "wordCount": null,
-          "title": "Tesla Opens Cybercab Rides in Dallas, Its Second City",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/watchdog-links-trump-dinner-wallets-to-exchanges-barring-us-users",
-          "author": "The Defiant",
-          "description": "Public Citizen found at least 66 of 130 listed wallets received TRUMP directly from exchanges that restrict US users. The transfers do not establish holders’ nationalities.",
-          "link": "https://thedefiant.io/news/regulation/watchdog-links-trump-dinner-wallets-to-exchanges-barring-us-users",
-          "publishedOn": "2026-11-24T04:16:40.000Z",
-          "wordCount": null,
-          "title": "Watchdog Links Trump Dinner Wallets to Exchanges Barring US Users",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/trump-threatens-to-tax-us-firms-that-build-data-centers-abroad",
-          "author": "The Defiant",
-          "description": "Treasury Secretary Scott Bessent said Nov. 22 he had not discussed the threat with Trump. No implementing order appeared on the White House's actions page as of Nov. 23.",
-          "link": "https://thedefiant.io/frontier/ai/trump-threatens-to-tax-us-firms-that-build-data-centers-abroad",
-          "publishedOn": "2026-11-24T04:10:28.000Z",
-          "wordCount": null,
-          "title": "Trump Threatens to Tax US Firms That Build Data Centers Abroad",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/cftc-alleges-backward-hat-ran-forex-ponzi-using-crypto",
-          "author": "The Defiant",
-          "description": "The agency says the forex investment pool sent about $91 million to a Coinbase account. A court has frozen assets and appointed a receiver.",
-          "link": "https://thedefiant.io/news/regulation/cftc-alleges-backward-hat-ran-forex-ponzi-using-crypto",
-          "publishedOn": "2026-11-24T04:08:29.000Z",
-          "wordCount": null,
-          "title": "CFTC Alleges Backward Hat Ran Forex Ponzi Using Crypto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/tokens/sonic-reports-4-70-billion-s-48-above-launch-figure",
-          "author": "The Defiant",
-          "description": "A planned 91.7 million S burn amounts to about 2% of the reported total. Sonic says the historical FTM supply mismatch remains under investigation.",
-          "link": "https://thedefiant.io/news/tokens/sonic-reports-4-70-billion-s-48-above-launch-figure",
-          "publishedOn": "2026-11-24T04:05:55.000Z",
-          "wordCount": null,
-          "title": "Sonic Reports 4.70 Billion S, 48% Above Launch Figure",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/samsung-wallet-usdc-sends-on-sui-go-live-sui-says",
-          "author": "The Defiant",
-          "description": "The rollout adds a network option to Samsung's existing stablecoin account. New York residents are excluded, and identity checks are required.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/samsung-wallet-usdc-sends-on-sui-go-live-sui-says",
-          "publishedOn": "2026-11-24T03:54:21.000Z",
-          "wordCount": null,
-          "title": "Samsung Wallet USDC Sends on Sui Go Live, Sui Says",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/amazon-agrees-to-buy-decart-ai-tech-and-hire-its-team",
-          "author": "The Defiant",
-          "description": "Calcalist values the technology-and-team deal at $7.5 billion. Amazon says the software will help improve its custom chips and AI inference.",
-          "link": "https://thedefiant.io/frontier/ai/amazon-agrees-to-buy-decart-ai-tech-and-hire-its-team",
-          "publishedOn": "2026-11-24T03:50:34.000Z",
-          "wordCount": null,
-          "title": "Amazon Agrees to Buy Decart AI Tech and Hire Its Team",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/ecb-approves-wider-tokenized-collateral-access-for-2027",
-          "author": "The Defiant",
-          "description": "Implementation is planned for June 2027. Securities issued on platforms licensed under the EU’s DLT Pilot Regime must meet standard collateral criteria and connect to existing settlement infrastructure.",
-          "link": "https://thedefiant.io/converge/regulation/ecb-approves-wider-tokenized-collateral-access-for-2027",
-          "publishedOn": "2026-11-24T03:46:22.000Z",
-          "wordCount": null,
-          "title": "ECB Approves Wider Tokenized Collateral Access for 2027",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/regulation/oregon-virginia-sue-spacex-over-grok-image-safeguards",
-          "author": "The Defiant",
-          "description": "The states allege misleading safety assurances over sexualized images of real people, including children, and are seeking civil penalties and injunctions.",
-          "link": "https://thedefiant.io/frontier/regulation/oregon-virginia-sue-spacex-over-grok-image-safeguards",
-          "publishedOn": "2026-11-24T03:44:39.000Z",
-          "wordCount": null,
-          "title": "Oregon, Virginia Sue SpaceX Over Grok Image Safeguards",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/anthropic-launches-claude-ship-to-fix-and-approve-code",
-          "author": "The Defiant",
-          "description": "The beta adds agents for GitHub pull requests on Team and Enterprise plans. Human sign-off depends on a team's policy and repository rules.",
-          "link": "https://thedefiant.io/frontier/ai/anthropic-launches-claude-ship-to-fix-and-approve-code",
-          "publishedOn": "2026-11-24T03:43:22.000Z",
-          "wordCount": null,
-          "title": "Anthropic Launches Claude Ship to Fix and Approve Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/sierra-announces-1-75b-raise-at-a-30b-valuation",
-          "author": "The Defiant",
-          "description": "The AI customer-service company's valuation is nearly twice its reported May valuation, as Sierra reports more than $400 million in annual recurring revenue.",
-          "link": "https://thedefiant.io/frontier/ai/sierra-announces-1-75b-raise-at-a-30b-valuation",
-          "publishedOn": "2026-11-24T03:37:47.000Z",
-          "wordCount": null,
-          "title": "Sierra Announces $1.75B Raise at a $30B Valuation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/anthropic-publishes-claude-s-claimed-vp-vnp-proof",
-          "author": "The Defiant",
-          "description": "The official release includes Lean 4 code and passing automated checks, but Anthropic says no human mathematician has checked the proof.",
-          "link": "https://thedefiant.io/frontier/ai/anthropic-publishes-claude-s-claimed-vp-vnp-proof",
-          "publishedOn": "2026-11-24T03:28:17.000Z",
-          "wordCount": null,
-          "title": "Anthropic Publishes Claude's Claimed VP ≠ VNP Proof",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/markets/bitcoin-falls-below-60-000-erasing-monday-s-rebound",
-          "author": "The Defiant",
-          "description": "The evening low on Coinbase was 8% below Monday's peak and 30% below its Oct. 21 high, but remained above the weekend trough.",
-          "link": "https://thedefiant.io/news/markets/bitcoin-falls-below-60-000-erasing-monday-s-rebound",
-          "publishedOn": "2026-11-24T03:28:07.000Z",
-          "wordCount": null,
-          "title": "Bitcoin Falls Below $60,000, Erasing Monday's Rebound",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/aave-horizon-s-uscc-balance-fell-74-tvl-rebounded",
-          "author": "The Defiant",
-          "description": "Most of the USCC decline occurred by early November; TVL rebounded on Nov. 23. Outstanding borrowing remained about 24% below its late-October level.",
-          "link": "https://thedefiant.io/news/defi/aave-horizon-s-uscc-balance-fell-74-tvl-rebounded",
-          "publishedOn": "2026-11-24T03:24:18.000Z",
-          "wordCount": null,
-          "title": "Aave Horizon’s USCC Balance Fell 74%; TVL Rebounded",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/converge/regulation/hong-kong-gazettes-bill-to-expand-crypto-licensing",
-          "author": "The Defiant",
-          "description": "Dealers, advisers, managers and custodians would need SFC approval. The bill is scheduled for its first Legislative Council reading on Dec. 2.",
-          "link": "https://thedefiant.io/converge/regulation/hong-kong-gazettes-bill-to-expand-crypto-licensing",
-          "publishedOn": "2026-11-24T03:16:10.000Z",
-          "wordCount": null,
-          "title": "Hong Kong Gazettes Bill to Expand Crypto Licensing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/openai-test-finds-gpt-6-2-astra-omits-blockers-twice-as-often",
-          "author": "The Defiant",
-          "description": "GPT-6.2 Astra omitted known coding obstacles in 22.28% of trials, versus 11.09% for GPT-6 Astra. OpenAI says Codex's extra instructions reduced omissions in the test; they do not apply to direct API requests.",
-          "link": "https://thedefiant.io/frontier/ai/openai-test-finds-gpt-6-2-astra-omits-blockers-twice-as-often",
-          "publishedOn": "2026-11-24T03:15:40.000Z",
-          "wordCount": null,
-          "title": "OpenAI Test Finds GPT-6.2 Astra Omits Blockers Twice as Often",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/technology/riken-confirms-theft-of-430-private-keys-from-fugaku",
-          "author": "The Defiant",
-          "description": "The keys were for external systems, such as other organizations' supercomputers and cloud services. RIKEN is asking affected users to revoke and replace them.",
-          "link": "https://thedefiant.io/frontier/technology/riken-confirms-theft-of-430-private-keys-from-fugaku",
-          "publishedOn": "2026-11-24T03:15:05.000Z",
-          "wordCount": null,
-          "title": "RIKEN Confirms Theft of 430 Private Keys From Fugaku",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/senate-backs-war-and-death-bet-ban-for-registered-markets",
-          "author": "The Defiant",
-          "description": "The DEATH BETS Act would target CFTC-registered venues, including Kalshi and Polymarket US. House passage and presidential action remain ahead.",
-          "link": "https://thedefiant.io/news/regulation/senate-backs-war-and-death-bet-ban-for-registered-markets",
-          "publishedOn": "2026-11-24T03:14:44.000Z",
-          "wordCount": null,
-          "title": "Senate Backs War and Death Bet Ban for Registered Markets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/converge/tradfi-and-fintech/fairmint-plans-stock-venue-on-canton-then-ethereum",
-          "author": "The Defiant",
-          "description": "Tradecraft would power liquidity-pool trading, while a separate Fairmint subsidiary would maintain the official shareholder register.",
-          "link": "https://thedefiant.io/converge/tradfi-and-fintech/fairmint-plans-stock-venue-on-canton-then-ethereum",
-          "publishedOn": "2026-11-24T03:14:17.000Z",
-          "wordCount": null,
-          "title": "Fairmint Plans Stock Venue on Canton, Then Ethereum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/binance-says-mexc-deposits-will-face-compliance-holds",
-          "author": "The Defiant",
-          "description": "It will also reject outgoing transfers to MEXC, ahead of a Dec. 10 cutoff for covered US financial institutions.",
-          "link": "https://thedefiant.io/news/cefi/binance-says-mexc-deposits-will-face-compliance-holds",
-          "publishedOn": "2026-11-24T03:13:52.000Z",
-          "wordCount": null,
-          "title": "Binance Says MEXC Deposits Will Face Compliance Holds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/security/pump-fun-to-end-external-wallet-login-on-nov-30",
-          "author": "The Defiant",
-          "description": "Pump.fun's recommended web import flow asks for a private key. Users can instead start with a new wallet and transfer funds.",
-          "link": "https://thedefiant.io/news/security/pump-fun-to-end-external-wallet-login-on-nov-30",
-          "publishedOn": "2026-11-24T03:13:22.000Z",
-          "wordCount": null,
-          "title": "Pump.fun to End External Wallet Login on Nov. 30",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/defillama-shows-tydro-tvl-quadrupled-by-nov-22",
-          "author": "The Defiant",
-          "description": "In the provider's data, USDe balances expanded sharply as outstanding loans climbed to $258.6 million by Nov. 22, though TVL was below its Nov. 20 peak.",
-          "link": "https://thedefiant.io/news/defi/defillama-shows-tydro-tvl-quadrupled-by-nov-22",
-          "publishedOn": "2026-11-24T03:12:59.000Z",
-          "wordCount": null,
-          "title": "DefiLlama Shows Tydro TVL Quadrupled by Nov. 22",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/cefi/upbit-bithumb-flag-sky-and-usds-for-trading-caution",
-          "author": "The Defiant",
-          "description": "Upbit halted deposits and Bithumb scheduled a halt. The warnings could be lifted, extended or followed by delisting.",
-          "link": "https://thedefiant.io/news/cefi/upbit-bithumb-flag-sky-and-usds-for-trading-caution",
-          "publishedOn": "2026-11-24T03:12:27.000Z",
-          "wordCount": null,
-          "title": "Upbit, Bithumb Flag SKY and USDS for Trading Caution",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/derive-announces-six-real-world-asset-options-markets",
-          "author": "The Defiant",
-          "description": "The options protocol announced six real-world asset markets. Its rules distinguish Nvidia’s share-price settlement from oil and index futures.",
-          "link": "https://thedefiant.io/news/defi/derive-announces-six-real-world-asset-options-markets",
-          "publishedOn": "2026-11-24T03:11:58.000Z",
-          "wordCount": null,
-          "title": "Derive Announces Six Real-World Asset Options Markets",
           "imageUrl": null
         }
       ]
