@@ -35,6 +35,46 @@
       "siteUrl": "https://thedefiant.io",
       "articles": [
         {
+          "id": "https://thedefiant.io/news/blockchains/tempo-s-native-multisig-goes-live-on-testnet",
+          "author": "The Defiant",
+          "description": "Configurable accounts add approval thresholds and key changes without moving funds. Mainnet activation is scheduled for Dec. 8, and adding signers to existing accounts is optional.",
+          "link": "https://thedefiant.io/news/blockchains/tempo-s-native-multisig-goes-live-on-testnet",
+          "publishedOn": "2026-11-26T01:09:41.000Z",
+          "wordCount": null,
+          "title": "Tempo's Native Multisig Goes Live on Testnet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/security/risc-zero-patch-fixes-critical-proof-forgery-flaw",
+          "author": "The Defiant",
+          "description": "The Nov. 10 release requires developers to upgrade and regenerate proofs. Onchain repairs differ for Groth16 verification and set proofs against cached roots.",
+          "link": "https://thedefiant.io/news/security/risc-zero-patch-fixes-critical-proof-forgery-flaw",
+          "publishedOn": "2026-11-25T23:41:55.000Z",
+          "wordCount": null,
+          "title": "RISC Zero Patch Fixes Critical Proof-Forgery Flaw",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain",
+          "author": "The Defiant",
+          "description": "Traders can swap bridged CC on PancakeSwap. LayerZero says it is backed one-for-one by native Canton Coin, with LayerZero Labs administering the contracts.",
+          "link": "https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain",
+          "publishedOn": "2026-11-25T23:18:14.000Z",
+          "wordCount": null,
+          "title": "LayerZero Opens Canton Coin Bridge to BNB Smart Chain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thedefiant.io/news/defi/sky-proposes-urgent-25m-usds-transfer-to-foundation",
+          "author": "The Defiant",
+          "description": "The funds were already earmarked for the Sky Frontier Foundation. The proposal seeks to accelerate debt repayment as stUSDS withdrawals remain unavailable.",
+          "link": "https://thedefiant.io/news/defi/sky-proposes-urgent-25m-usds-transfer-to-foundation",
+          "publishedOn": "2026-11-25T22:59:12.000Z",
+          "wordCount": null,
+          "title": "Sky Proposes Urgent 25M USDS Transfer to Foundation",
+          "imageUrl": null
+        },
+        {
           "id": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
           "author": "The Defiant",
           "description": "Each coin's creator wallet will be exempt, but other wallets would pay even if the creator controls them. The fee rate remains unannounced.",
@@ -992,46 +1032,6 @@
           "publishedOn": "2026-11-24T05:05:43.000Z",
           "wordCount": null,
           "title": "Yield Basis Activates propAMM on Active Bitcoin Pools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/regulation/uk-qualifying-crypto-venues-face-own-platform-market-making-ban",
-          "author": "The Defiant",
-          "description": "Market making in qualifying cryptoassets on qualifying platforms will be excluded from principal-dealing permission. Separate final FCA rules bar firms from making markets on UK qualifying platforms they operate from Oct. 25, 2027.",
-          "link": "https://thedefiant.io/news/regulation/uk-qualifying-crypto-venues-face-own-platform-market-making-ban",
-          "publishedOn": "2026-11-24T05:01:51.000Z",
-          "wordCount": null,
-          "title": "UK Qualifying Crypto Venues Face Own-Platform Market-Making Ban",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/openai-chief-scientist-proposes-limits-on-ai-development",
-          "author": "The Defiant",
-          "description": "Jakub Pachocki wants labs to tie further pretraining gains to better monitoring, using newly disclosed internal measurements as a starting point.",
-          "link": "https://thedefiant.io/frontier/ai/openai-chief-scientist-proposes-limits-on-ai-development",
-          "publishedOn": "2026-11-24T04:58:58.000Z",
-          "wordCount": null,
-          "title": "OpenAI Chief Scientist Proposes Limits on AI Development",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/frontier/ai/wiz-says-attacker-mined-ai-coding-histories-for-logins",
-          "author": "The Defiant",
-          "description": "Wiz matched cloud-intrusion telemetry with an attacker's exposed files, which also revealed broader credential harvesting.",
-          "link": "https://thedefiant.io/frontier/ai/wiz-says-attacker-mined-ai-coding-histories-for-logins",
-          "publishedOn": "2026-11-24T04:57:53.000Z",
-          "wordCount": null,
-          "title": "Wiz Says Attacker Mined AI Coding Histories for Logins",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thedefiant.io/news/defi/jito-plan-puts-foundation-first-for-new-network-fees",
-          "author": "The Defiant",
-          "description": "JIP-40 links DAO sharing of emerging revenues to a $20 million annual threshold, while preserving existing DAO income and JTX buybacks.",
-          "link": "https://thedefiant.io/news/defi/jito-plan-puts-foundation-first-for-new-network-fees",
-          "publishedOn": "2026-11-24T04:48:18.000Z",
-          "wordCount": null,
-          "title": "Jito Plan Puts Foundation First for New Network Fees",
           "imageUrl": null
         }
       ]

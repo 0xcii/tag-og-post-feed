@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-25T22:56:35.121Z</id>
+    <id>urn:2026-11-26T04:44:10.434Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-25T22:56:35.121Z</updated>
+    <updated>2026-11-26T04:44:10.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tempo's Native Multisig Goes Live on Testnet]]></title>
+        <id>https://thedefiant.io/news/blockchains/tempo-s-native-multisig-goes-live-on-testnet</id>
+        <link href="https://thedefiant.io/news/blockchains/tempo-s-native-multisig-goes-live-on-testnet"/>
+        <updated>2026-11-26T01:09:41.000Z</updated>
+        <summary type="html"><![CDATA[Configurable accounts add approval thresholds and key changes without moving funds. Mainnet activation is scheduled for Dec. 8, and adding signers to existing accounts is optional.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RISC Zero Patch Fixes Critical Proof-Forgery Flaw]]></title>
+        <id>https://thedefiant.io/news/security/risc-zero-patch-fixes-critical-proof-forgery-flaw</id>
+        <link href="https://thedefiant.io/news/security/risc-zero-patch-fixes-critical-proof-forgery-flaw"/>
+        <updated>2026-11-25T23:41:55.000Z</updated>
+        <summary type="html"><![CDATA[The Nov. 10 release requires developers to upgrade and regenerate proofs. Onchain repairs differ for Groth16 verification and set proofs against cached roots.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LayerZero Opens Canton Coin Bridge to BNB Smart Chain]]></title>
+        <id>https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain</id>
+        <link href="https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain"/>
+        <updated>2026-11-25T23:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Traders can swap bridged CC on PancakeSwap. LayerZero says it is backed one-for-one by native Canton Coin, with LayerZero Labs administering the contracts.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky Proposes Urgent 25M USDS Transfer to Foundation]]></title>
+        <id>https://thedefiant.io/news/defi/sky-proposes-urgent-25m-usds-transfer-to-foundation</id>
+        <link href="https://thedefiant.io/news/defi/sky-proposes-urgent-25m-usds-transfer-to-foundation"/>
+        <updated>2026-11-25T22:59:12.000Z</updated>
+        <summary type="html"><![CDATA[The funds were already earmarked for the Sky Frontier Foundation. The proposal seeks to accelerate debt repayment as stUSDS withdrawals remain unavailable.]]></summary>
+        <author>
+            <name>The Defiant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pump.fun Plans 'Block0' Fee on New Launches From Dec. 4]]></title>
         <id>https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4</id>
@@ -961,46 +1001,6 @@
         <link href="https://thedefiant.io/news/defi/yield-basis-activates-propamm-on-active-bitcoin-pools"/>
         <updated>2026-11-24T05:05:43.000Z</updated>
         <summary type="html"><![CDATA[Existing WBTC, cbBTC and tBTC positions need no migration, the protocol says. Qualifying trades can pay less than the policy's 2% fallback fee.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Qualifying Crypto Venues Face Own-Platform Market-Making Ban]]></title>
-        <id>https://thedefiant.io/news/regulation/uk-qualifying-crypto-venues-face-own-platform-market-making-ban</id>
-        <link href="https://thedefiant.io/news/regulation/uk-qualifying-crypto-venues-face-own-platform-market-making-ban"/>
-        <updated>2026-11-24T05:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Market making in qualifying cryptoassets on qualifying platforms will be excluded from principal-dealing permission. Separate final FCA rules bar firms from making markets on UK qualifying platforms they operate from Oct. 25, 2027.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Chief Scientist Proposes Limits on AI Development]]></title>
-        <id>https://thedefiant.io/frontier/ai/openai-chief-scientist-proposes-limits-on-ai-development</id>
-        <link href="https://thedefiant.io/frontier/ai/openai-chief-scientist-proposes-limits-on-ai-development"/>
-        <updated>2026-11-24T04:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Jakub Pachocki wants labs to tie further pretraining gains to better monitoring, using newly disclosed internal measurements as a starting point.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wiz Says Attacker Mined AI Coding Histories for Logins]]></title>
-        <id>https://thedefiant.io/frontier/ai/wiz-says-attacker-mined-ai-coding-histories-for-logins</id>
-        <link href="https://thedefiant.io/frontier/ai/wiz-says-attacker-mined-ai-coding-histories-for-logins"/>
-        <updated>2026-11-24T04:57:53.000Z</updated>
-        <summary type="html"><![CDATA[Wiz matched cloud-intrusion telemetry with an attacker's exposed files, which also revealed broader credential harvesting.]]></summary>
-        <author>
-            <name>The Defiant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jito Plan Puts Foundation First for New Network Fees]]></title>
-        <id>https://thedefiant.io/news/defi/jito-plan-puts-foundation-first-for-new-network-fees</id>
-        <link href="https://thedefiant.io/news/defi/jito-plan-puts-foundation-first-for-new-network-fees"/>
-        <updated>2026-11-24T04:48:18.000Z</updated>
-        <summary type="html"><![CDATA[JIP-40 links DAO sharing of emerging revenues to a $20 million annual threshold, while preserving existing DAO income and JTX buybacks.]]></summary>
         <author>
             <name>The Defiant</name>
         </author>
